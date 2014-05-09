@@ -6,7 +6,8 @@ Gemfile.lock
 *.swp
 *~
 .rvmrc
-core/target/
+target/
+lib/libSVM/target/
 *.gem
 .settings/
 .classpath
