@@ -1,0 +1,15 @@
+# This file describes PoS patterns of entities
+# The patterns are sets of PoS tags
+# The PoS tags are the following:
+#   N: Common noun	V: Verb
+#   R: Proper noun	P: Preposition
+#   Q: Pronoun		A: Adverb
+#   D: Determiner	C: Conjunction
+#   G: Adjective 	O: Other
+# Rules:
+
+R R
+R P R
+N P R
+R R P R
+N D G R

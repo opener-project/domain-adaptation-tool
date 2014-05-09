@@ -1,0 +1,14 @@
+tmp/*
+.DS_Store
+.idea/
+pkg/
+Gemfile.lock
+*.swp
+*~
+.rvmrc
+core/target/
+*.gem
+.settings/
+.classpath
+.project
+dependency-reduced-pom.xml

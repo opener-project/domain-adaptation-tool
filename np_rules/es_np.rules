@@ -1,0 +1,99 @@
+# This file configures NP rules for spanish
+# NP rules are sets of PoS tags. The rules are
+# processed in descending order, and first
+# matching rule is choosen.
+#
+# For the head of each rule, put a '*' character
+# after the PoS tag.
+# The PoS tags are the following:
+#   N: Common noun	V: Verb
+#   R: Proper noun	P: Preposition
+#   Q: Pronoun		A: Adverb
+#   D: Determiner	C: Conjunction
+#   G: Adjective 	O: Other
+#
+# If a tag can be different PoS tag, put a '/' char between each PoS tag.
+# Rules:
+
+D A G P N/R*
+
+D R* O N/R O
+D N* O N   O
+D N  O R*  O
+
+D N/R P R* O R  O
+D N   P N  O R* O
+D R*  P N  O R  O
+
+D N P N N/R*
+
+D N/R P R* G
+D N   P N* G
+D R*  P N  G
+
+D N/R P R*
+D N   P N*
+D R*  P N
+
+D D N/R*
+
+D N/R* G G
+
+D N/R G R*
+D N   G N*
+D R*  G N
+
+D N/R* G
+
+D G N/R* G
+
+D G N/R*
+
+D N/R N/R P R*
+D N/R R*  P N
+D N   N   P N*
+D R*  N   P N
+
+D N/R R*
+D N   N*
+D R*  N
+
+N/R G R*
+N   G N*
+R*  G N
+
+D N/R/Q*
+
+N/R* G
+
+G N/R*
+
+A N/R*
+
+N/R* P Q
+
+N/R P R* P N/R
+R*  P N  P N/R
+N   P N* P N
+N   P N  P R*
+
+N/R P N/R R*
+
+R* P D N/R G G
+N* P D N   G G
+N  P D R*  G G
+
+R* P N/R
+N* P N
+N  P R*
+
+N/R* O G O
+
+O R* O R  O
+O N  O R* O
+
+R* O N/R O
+N* O N   O
+N  O R*  O
+
+O N/R* O
