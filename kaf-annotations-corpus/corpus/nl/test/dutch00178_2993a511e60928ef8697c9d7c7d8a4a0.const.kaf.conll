@@ -1,0 +1,69 @@
+1	Heel	heel	A	1	
+2	mooi	mooi	G	1	
+3	functioneel	functioneel	G	1	
+4	hotel	hotel	N	1	
+5	aan	aan	P	1	
+6	de	de	D	1	
+7	handelsbeurs	handelsbeurs	O	1	
+
+1	Heel	heel	A	1	
+2	mooi	mooi	G	1	
+3	,	,	O	1	
+4	modern	modern	G	1	
+5	en	en	C	1	
+6	functioneel	functioneel	G	1	
+7	hotel	hotel	N	1	
+8	bij	bij	P	1	
+9	de	de	D	1	
+10	handelsbeurs	handelsbeurs	O	1	
+11	in	in	P	1	
+12	Keulen	Keulen	R	1	ne=Location
+13	.	.	O	1	
+
+1	Het	het	D	1	
+2	ontbijt	ontbijt	N	1	
+3	is	zijn	V	1	
+4	heel	heel	A	1	
+5	uitgebreid	uitgebreid	G	1	
+6	en	en	C	1	
+7	bijzonder	bijzonder	G	1	
+8	lekker	lek|lekker	G	1	
+9	.	.	O	1	
+
+1	Kamers	kamer	N	1	
+2	en	en	C	1	
+3	badkamers	badkamer	N	1	
+4	zijn	zijn	V	1	
+5	mooi	mooi	G	1	
+6	en	en	C	1	
+7	groot	groot	G	1	
+8	genoeg	genoeg	A	1	
+9	.	.	O	1	
+
+1	Het	het	D	1	
+2	centrum	centrum	N	1	
+3	van	van	P	1	
+4	Keulen	Keulen	R	1	ne=Location
+5	kan	kunnen	V	1	
+6	ook	ook	A	1	
+7	makkelijk	makkelijk	G	1	
+8	worden	worden	V	1	
+9	bereikt	bereiken	V	1	
+10	met	met	P	1	
+11	de	de	D	1	
+12	metro	metro	N	1	
+13	,	,	O	1	
+14	de	de	D	1	
+15	metrohalte	metrohalte	O	1	
+16	is	zijn	V	1	
+17	eigenlijk	eigenlijk	G	1	
+18	recht	recht	N	1	
+19	tegenover	tegenover	P	1	
+20	het	het	D	1	
+21	hotel	hotel	N	1	
+22	.	.	O	1	
+
+1	Een	een	D	1	
+2	aanrader	aanrader	N	1	
+3	.	.	O	1	
+

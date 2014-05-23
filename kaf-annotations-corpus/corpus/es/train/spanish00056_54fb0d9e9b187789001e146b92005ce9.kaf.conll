@@ -1,0 +1,61 @@
+1	Todo	Todo	R	1	
+2	lo	lo	N	1	
+3	necesario	necesario	N	1	
+4	a	a	D	1	
+5	media	medium	N	1	
+6	hora	hora	N	1	
+7	del	del	O	1	
+8	centro	centro	N	1	
+9	.	.	O	1	
+
+1	El	El	R	1	
+2	hotel	hotel	N	1	
+3	cubría	cubría	N	1	
+4	todas	todas	N	1	
+5	las	las	V	1	
+6	necesidades	necesidades	N	1	
+7	.	.	O	1	
+
+1	Se	Se	R	1	
+2	recibe	recibe	N	1	
+3	un	un	G	1	
+4	trato	trato	N	1	
+5	fantástico	fantástico	N	1	
+6	en	en	P	1	
+7	este	este	G	1	
+8	gran	gran	G	1	
+9	hotel	hotel	N	1	
+10	a	a	D	1	
+11	solo	solo	N	1	
+12	media	medium	N	1	
+13	hora	hora	N	1	
+14	del	del	O	1	
+15	centro	centro	O	1	
+16	de	de	O	1	
+17	Madrid	Madrid	R	1	
+18	.	.	O	1	
+
+1	La	La	R	1	
+2	comunicación	comunicación	G	1	
+3	con	con	N	1	
+4	el	el	N	1	
+5	centro	centro	N	1	
+6	es	es	N	1	
+7	excelente	excelente	V	1	
+8	.	.	O	1	
+
+1	Tiene	Tiene	R	1	
+2	una	una	G	1	
+3	parada	parada	N	1	
+4	de	de	P	1	
+5	autobus	autobus	N	1	
+6	en	en	P	1	
+7	la	la	D	1	
+8	puerta	puerta	O	1	
+9	que	que	O	1	
+10	lleva	lleva	O	1	
+11	directo	directo	O	1	
+12	al	al	G	1	
+13	centro	centro	N	1	
+14	.	.	O	1	
+

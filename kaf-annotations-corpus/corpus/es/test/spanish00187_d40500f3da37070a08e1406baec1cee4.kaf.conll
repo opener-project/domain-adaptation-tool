@@ -1,0 +1,64 @@
+1	Perfecto	Perfecto	R	1	
+
+1	El	El	R	1	
+2	hotel	hotel	N	1	
+3	está	está	O	1	
+4	cerquita	cerquita	O	1	
+5	de	de	O	1	
+6	la_estación_de_Termini	la_estación_de_Termini	R	1	ne=POI
+7	.	.	O	1	
+
+1	Todo	Todo	R	1	
+2	muy	muy	G	1	
+3	Limpio	Limpio	R	1	
+4	,	,	O	1	
+5	Muy	Muy	R	1	
+6	amables	amables	V	1	
+7	y	y	G	1	
+8	el	el	N	1	
+9	desayuno	desayuno	N	1	
+10	estaba	estaba	N	1	
+11	muy	muy	G	1	
+12	bien	bien	N	1	
+13	.	.	O	1	
+
+1	Además	Además	R	1	
+2	disponen	disponen	O	1	
+3	de	de	O	1	
+4	películas	películas	O	1	
+5	en	en	O	1	
+6	dvd	dvd	O	1	
+7	que	que	O	1	
+8	puedes	puedes	O	1	
+9	alquilar	alquilar	O	1	
+10	sin	sin	O	1	
+11	ningún	ningún	O	1	
+12	coste	coste	O	1	
+13	adicional.	adicional.	O	1	
+14	y	y	G	1	
+15	también	también	N	1	
+16	de	de	O	1	
+17	de	de	O	1	
+18	Play	Play	R	1	
+19	Station	Station	R	1	
+20	en	en	P	1	
+21	la	la	D	1	
+22	habitación	habitación	G	1	
+23	por	por	N	1	
+24	si	si	N	1	
+25	quieres	quieres	V	1	
+26	pasar	pasar	G	1	
+27	un	un	G	1	
+28	rato	rato	N	1	
+29	jugando	jugando	N	1	
+30	.	.	O	1	
+
+1	En	En	R	1	
+2	fin	fin	V	1	
+3	Que	Que	R	1	
+4	pasamos	pasamos	N	1	
+5	4	4	O	1	
+6	días	días	N	1	
+7	geniales	geniales	N	1	
+8	.	.	O	1	
+

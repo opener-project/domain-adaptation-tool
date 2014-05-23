@@ -1,0 +1,120 @@
+1	Lieber	lieb	G	1	
+2	etwas	etwas	A	1	
+3	mehr	mehr	A	1	
+4	bezahlen	bezahlen	V	1	
+5	und	und	C	1	
+6	ein	eine	D	1	
+7	anderes	andere	Q	1	
+8	Hotel	Hotel	N	1	
+
+1	Ich	ich	Q	1	
+2	hatte	haben	V	1	
+3	geschäftlich	geschäftlich	G	1	
+4	längere	lang	G	1	
+5	Zeit	Zeit	N	1	
+6	in	in	P	1	
+7	Manchester	Manchester	R	1	ne=Location
+8	zu	zu	O	1	
+9	tun	tun	V	1	
+10	und	und	C	1	
+11	habe	haben	V	1	
+12	daher	daher	Q	1	
+13	ein	eine	D	1	
+14	günstiges	günstig	G	1	
+15	Hotel	Hotel	N	1	
+16	gesucht	suchen	V	1	
+17	,	,	O	1	
+18	das	die	Q	1	
+19	einen	eine	D	1	
+20	akzeptablen	akzeptabel	G	1	
+21	Komfort	Komfort	N	1	
+22	bietet	bieten	V	1	
+23	.	.	O	1	
+
+1	Das	die	D	1	
+2	Beaucliffe	Beaucliffe	O	1	ne=Hotel
+3	ist	sein	V	1	
+4	für	für	P	1	
+5	mich	ich	Q	1	
+6	inzwischen	inzwischen	A	1	
+7	aber	aber	A	1	
+8	der	die	D	1	
+9	Inbegriff	Inbegriff	N	1	
+10	eines	eine	D	1	
+11	schlechten	schlecht	G	1	
+12	Hotels	Hotel	N	1	
+13	.	.	O	1	
+
+1	In	in	P	1	
+2	Zukunft	Zukunft	N	1	
+3	werde	werden	V	1	
+4	ich	ich	Q	1	
+5	mit	mit	P	1	
+6	Sicherheit	Sicherheit	N	1	
+7	nicht	nicht	O	1	
+8	mehr	mehr	A	1	
+9	am	an	P	1	
+10	Hotel	Hotel	N	1	
+11	sparen	sparen	V	1	
+12	.	.	O	1	
+
+1	Die	die	D	1	
+2	Betten	Bett|Betten	N	1	
+3	waren	sein	V	1	
+4	komplett	komplett	G	1	
+5	durchgelegen	durchliegen	V	1	
+6	,	,	O	1	
+7	eine	eine	D	1	
+8	Lampe	Lampe	N	1	
+9	funktionierte	funktionieren	V	1	
+10	nicht	nicht	O	1	
+11	und	und	C	1	
+12	konnte	können	V	1	
+13	auch	auch	A	1	
+14	vom	von	P	1	
+15	Personal	Personal	N	1	
+16	nicht	nicht	O	1	
+17	instand	instand	V	1	
+18	gesetzt	setzen	V	1	
+19	werden	werden	V	1	
+20	.	.	O	1	
+
+1	Das	die	D	1	
+2	Bad	Bad	R	1	
+3	war	sein	V	1	
+4	oft	oft	A	1	
+5	schlecht	schlecht	G	1	
+6	geputzt	putzen	V	1	
+7	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstück	Frühstück	N	1	
+3	war	sein	V	1	
+4	von	von	P	1	
+5	schlechter	schlecht	G	1	
+6	Qualität	Qualität	N	1	
+7	.	.	O	1	
+
+1	Die	die	D	1	
+2	Hausmädchen	Hausmädchen	N	1	
+3	sprachen	sprechen	V	1	
+4	kaum	kaum	A	1	
+5	Englisch	Englisch	N	1	
+6	.	.	O	1	
+
+1	Die	die	D	1	
+2	Zahlung	Zahlung	N	1	
+3	war	sein	V	1	
+4	grundsätzlich	grundsätzlich	G	1	
+5	im	in	P	1	
+6	voraus	voraus	A	1	
+7	zu	zu	O	1	
+8	tätigen	tätigen	V	1	
+9	.	.	O	1	
+
+1	Schimmelbefall	Schimmelbefall	N	1	
+2	in	in	P	1	
+3	der	die	D	1	
+4	Dusche	Dusche	N	1	
+5	...	...	O	1	
+

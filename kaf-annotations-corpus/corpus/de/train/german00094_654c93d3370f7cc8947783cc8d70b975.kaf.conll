@@ -1,0 +1,73 @@
+1	Nur	nur	A	1	
+2	für	für	P	1	
+3	Leute	Leute	N	1	
+4	die	die	D	1	
+5	alles	alle	Q	1	
+6	akzeptieren	akzeptieren	V	1	
+7	können	können	V	1	
+8	!	!	O	1	
+
+1	Hotel	Hotel	N	1	
+2	wird	werden	V	1	
+3	derzeit	derzeit	A	1	
+4	renoviert	renovieren	V	1	
+5	.	.	O	1	
+
+1	Gerüche	Geruch	N	1	
+2	von	von	P	1	
+3	Farben	Farbe	N	1	
+4	und	und	C	1	
+5	Lacken	Lack	N	1	
+6	durchziehen	durchziehen	V	1	
+7	die	die	D	1	
+8	Räume	Raum	N	1	
+9	,	,	O	1	
+10	sodaß	sodaß	O	1	
+11	einem	eine	Q	1	
+12	das	die	D	1	
+13	Atmen	Atmen	N	1	
+14	schwer	schwer	G	1	
+15	fällt	fallen|fällen	V	1	
+16	.	.	O	1	
+
+1	Ich	ich	Q	1	
+2	musste	müssen	V	1	
+3	das	die	D	1	
+4	Zimmer	Zimmer	N	1	
+5	deshalb	deshalb	Q	1	
+6	wechseln	wechseln	V	1	
+7	.	.	O	1	
+
+1	Ein	eine	D	1	
+2	Element	Element	N	1	
+3	von	von	P	1	
+4	der	die	D	1	
+5	Duschkabinentür	Duschkabinentür	O	1	
+6	fehlte	fehlen	V	1	
+7	.	.	O	1	
+
+1	Keine	keine	Q	1	
+2	Steckdose	Steckdose	N	1	
+3	im	in	P	1	
+4	Bad	Bad	R	1	
+5	vorhanden	vorhanden	G	1	
+6	.	.	O	1	
+
+1	Sehr	sehr	A	1	
+2	hellhörige	hellhörig	G	1	
+3	Zimmer	Zimmer	N	1	
+4	werden	werden	V	1	
+5	nur	nur	A	1	
+6	noch	noch	A	1	
+7	von	von	P	1	
+8	den	die	D	1	
+9	vor	vor	P	1	
+10	der	die	D	1	
+11	Haustür	Haustür	N	1	
+12	gelegenen	gelegen	G	1	
+13	Schienen	Schiene	N	1	
+14	zum	zu	P	1	
+15	Ostbahnhof	Ostbahnhof	N	1	
+16	übertönt	übertönen	V	1	
+17	.	.	O	1	
+

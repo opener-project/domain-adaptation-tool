@@ -1,0 +1,79 @@
+1	Tranquille	Tranquille	N	1	
+2	dans	dans	P	1	
+3	Madrid	Madrid	N	1	ne=Location
+
+1	Très	Très	G	1	
+2	bien	bien	G	1	
+3	pour	pour	P	1	
+4	un	un	D	1	
+5	court	court	G	1	
+6	séjour	séjour	N	1	
+7	d'	d'	P	1	
+8	affaires	affaire	N	1	
+9	dans	dans	P	1	
+10	Madrid	Madrid	N	1	ne=Location
+11	.	.	O	1	
+
+1	Je	Je	Q	1	
+2	n'	n'	G	1	
+3	ai	avoir	V	1	
+4	pas	pas	G	1	
+5	eu	avoir	V	1	
+6	l'	le	D	1	
+7	occasion	occasion	N	1	
+8	de	de	P	1	
+9	tester	tester	V	1	
+10	les	le	D	1	
+11	équipements	équipement	N	1	
+12	ni	ni	C	1	
+13	le	le	D	1	
+14	solarium	solarium	N	1	
+15	,	,	O	1	
+16	pas	pas	G	1	
+17	manque	manquer	V	1	
+18	de	de	P	1	
+19	temps	temps	N	1	
+20	.	.	O	1	
+
+1	L'	le	D	1	
+2	hôtel	hôtel	N	1	
+3	est	être	V	1	
+4	bien	bien	G	1	
+5	situé	situer	V	1	
+6	,	,	O	1	
+7	l'	le	D	1	
+8	accueil	accueil	N	1	
+9	est	être	V	1	
+10	correct	correct	G	1	
+11	.	.	O	1	
+
+1	La	le	D	1	
+2	décoration	décoration	N	1	
+3	à	à	P	1	
+4	la	le	D	1	
+5	réception	réception	N	1	
+6	est	être	V	1	
+7	par	par	P	1	
+8	contre	contre	G	1	
+9	un	un	D	1	
+10	peu	peu	G	1	
+11	vieillotte	vieillot	G	1	
+12	et	et	C	1	
+13	mériterait	mériter	V	1	
+14	une	un	D	1	
+15	rénovation	rénovation	N	1	
+16	,	,	O	1	
+17	mais	mais	C	1	
+18	l'	le	D	1	
+19	ensemble	ensemble	N	1	
+20	est	être	V	1	
+21	très	très	G	1	
+22	propre	propre	G	1	
+23	.	.	O	1	
+
+1	Les	le	D	1	
+2	chambres	chambre	N	1	
+3	sont	être	V	1	
+4	vastes	vaste	G	1	
+5	.	.	O	1	
+

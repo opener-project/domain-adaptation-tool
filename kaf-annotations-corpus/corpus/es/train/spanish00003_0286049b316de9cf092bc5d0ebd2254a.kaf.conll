@@ -1,0 +1,76 @@
+1	La	La	R	1	
+2	mejor	mejor	O	1	
+3	ubicación	ubicación	O	1	
+4	de	de	O	1	
+5	Madrid	Madrid	R	1	
+
+1	Este	Este	R	1	
+2	Hotel	Hotel	R	1	
+3	tiene	tiene	G	1	
+4	como	como	G	1	
+5	mayor	mayor	N	1	
+6	ventaja	ventaja	N	1	
+7	,	,	O	1	
+8	su	su	V	1	
+9	excelente	excelente	V	1	
+10	ubicación	ubicación	G	1	
+11	en	en	P	1	
+12	pleno	pleno	G	1	
+13	corazón	corazón	G	1	
+14	de	de	P	1	
+15	Madrid	Madrid	R	1	
+16	.	.	O	1	
+
+1	Tienes	tienes	V	1	
+2	a	a	D	1	
+3	un	un	G	1	
+4	paso	paso	N	1	
+5	y	y	G	1	
+6	sin	sin	N	1	
+7	necesidad	necesidad	G	1	
+8	de	de	P	1	
+9	transporte	transporte	G	1	
+10	público	público	N	1	
+11	,	,	O	1	
+12	restaurantes	restaurantes	V	1	
+13	,	,	O	1	
+14	espectáculos	espectáculos	N	1	
+15	,	,	O	1	
+16	turismo	turismo	N	1	
+17	urbano	urbano	O	1	
+18	etc.	etc.	O	1	
+
+1	Tiene	Tiene	R	1	
+2	desde	desde	O	1	
+3	la	la	O	1	
+4	terraza	terraza	O	1	
+5	unas	unas	O	1	
+6	vistas	vistas	O	1	
+7	preciosas	preciosas	O	1	
+8	de	de	O	1	
+9	Madrid	Madrid	R	1	
+10	.	.	O	1	
+
+1	Personal	personal	G	1	
+2	agradable	agradable	G	1	
+3	y	y	G	1	
+4	profesional	profesional	G	1	
+5	.	.	O	1	
+
+1	En	En	R	1	
+2	equipamiento	equipamiento	N	1	
+3	y	y	G	1	
+4	servicios	servicios	N	1	
+5	es	es	V	1	
+6	correcto	correcto	G	1	
+7	pero	pero	P	1	
+8	tal	tal	G	1	
+9	vez	vez	N	1	
+10	necesiten	necesiten	G	1	
+11	una	una	G	1	
+12	renovación	renovación	N	1	
+13	de	de	P	1	
+14	las	las	G	1	
+15	instalaciones	instalaciones	N	1	
+16	.	.	O	1	
+

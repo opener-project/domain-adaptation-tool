@@ -1,0 +1,47 @@
+1	5	5	O	1	
+2	Sterne	Stern	N	1	
+3	niemals	niemals	A	1	
+4	,	,	O	1	
+5	3	3	O	1	
+6	ok	ok	O	1	
+
+1	Dusche	Dusche	N	1	
+2	kalkspuhren	kalkspuhren	O	1	
+3	und	und	C	1	
+4	Rost	Rost	N	1	
+5	,	,	O	1	
+6	auf	auf	P	1	
+7	Bilder	Bild	N	1	
+8	Rahmen	Rahmen	N	1	
+9	Staub	Staub	N	1	
+10	,	,	O	1	
+11	schrank	Schrank	N	1	
+12	und	und	C	1	
+13	Tisch	Tisch	N	1	
+14	Gebraucht	Gebraucht	O	1	
+15	Spuhren	Spuhren	O	1	
+16	Zerkratzt	zerkratzen	V	1	
+17	,	,	O	1	
+18	porter	porter	O	1	ne=Person
+19	sehr	sehr	A	1	
+20	Unfreundlich	unfreundlich	G	1	
+21	,	,	O	1	
+22	an	an	P	1	
+23	sonnsten	sonnsten	O	1	
+24	war	sein	V	1	
+25	es	es	Q	1	
+26	gut	gut	G	1	
+27	.	.	O	1	
+
+1	Nur	nur	A	1	
+2	eben	eben	A	1	
+3	für	für	P	1	
+4	ein	eine	D	1	
+5	5	5	O	1	
+6	Sterne	Stern	N	1	
+7	Hotel	Hotel	N	1	
+8	stellt	stellen	V	1	
+9	man	man	Q	1	
+10	andere	andere	Q	1	
+11	Ansprüche	Anspruch	N	1	
+

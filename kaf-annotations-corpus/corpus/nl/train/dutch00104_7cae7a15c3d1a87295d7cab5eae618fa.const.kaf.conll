@@ -1,0 +1,133 @@
+1	Aanrader	aanrader	N	1	
+2	:	:	O	1	
+3	prijs	prijs	N	1	
+4	·	·	O	1	
+5	kwaliteit	kwaliteit	N	1	
+6	,	,	O	1	
+7	comfort	comfort	N	1	
+8	,	,	O	1	
+9	ligging	ligging	N	1	
+10	,	,	O	1	
+11	sfeer	sfeer	N	1	
+
+1	Na	na	P	1	
+2	minder	min	G	1	
+3	dan	dan	C	1	
+4	8u	8u	O	1	ne=Time
+5	rijden	rijden	V	1	
+6	van	van	P	1	
+7	Brussel	Brussel	R	1	ne=Location
+8	aankomst	aankomst	N	1	
+9	in	in	P	1	
+10	Grindelwald	Grindelwald	O	1	ne=Location
+11	.	.	O	1	
+
+1	Centraal	centraal	G	1	
+2	vlakbij	vlakbij	A	1	
+3	het	het	D	1	
+4	station	station	N	1	
+5	en	en	C	1	
+6	via	via	P	1	
+7	het	het	D	1	
+8	perron	perron	N	1	
+9	te	te	O	1	
+10	bereiken	bereiken	V	1	
+11	ligt	liggen	V	1	
+12	hotel_Derby	hotel_Derby	O	1	ne=Hotel
+13	.	.	O	1	
+
+1	De	de	D	1	
+2	ontvangst	ontvangst	N	1	
+3	is	zijn	V	1	
+4	meertalig	meertalig	G	1	
+5	,	,	O	1	
+6	ongedwongen	ongedwongen	G	1	
+7	en	en	C	1	
+8	bijzonder	bijzonder	G	1	
+9	hartelijk	hartelijk	G	1	
+10	:	:	O	1	
+11	kom	kom	N	1	
+12	binnen	binnen	P	1	
+13	en	en	C	1	
+14	zet	zetten	V	1	
+15	u	u	Q	1	
+16	.	.	O	1	
+
+1	Dit	dit	D	1	
+2	hotel	hotel	N	1	
+3	combineert	combineren	V	1	
+4	familiale	familiaal	G	1	
+5	leiding	leiding	N	1	
+6	met	met	P	1	
+7	efficiente	efficiente	O	1	
+8	service	service	N	1	
+9	en	en	C	1	
+10	lekker	lek|lekker	G	1	
+11	gevarieerd	variëren	V	1	
+12	eten	eten	V	1	
+13	.	.	O	1	
+
+1	Dit	dit	Q	1	
+2	is	zijn	V	1	
+3	voor	voor	P	1	
+4	ons	ons	Q	1	
+5	een	een	D	1	
+6	uitstekende	uitstekend	G	1	
+7	uitvalsbasis	uitvalsbasis	N	1	
+8	voor	voor	P	1	
+9	het_jungfraugebied	het_jungfraugebied	O	1	ne=Location
+10	te	te	O	1	
+11	verkennen	verkennen	V	1	
+12	op	op	P	1	
+13	ski	ski	N	1	
+14	/	/	O	1	
+15	snowboard	snowboard	O	1	
+16	of	of	C	1	
+17	zelfs	zelfs	A	1	
+18	en	en	C	1	
+19	zeker	zeker	G	1	
+20	even	even	G	1	
+21	uitdagend	uitdagend	G	1	
+22	,	,	O	1	
+23	met	met	P	1	
+24	de	de	D	1	
+25	slee	slee	N	1	
+26	.	.	O	1	
+
+1	Ook	ook	A	1	
+2	na	na	P	1	
+3	de	de	D	1	
+4	ski	ski	N	1	
+5	komt	komen	V	1	
+6	de	de	D	1	
+7	centrale	centraal	G	1	
+8	ligging	ligging	N	1	
+9	tot	tot	P	1	
+10	zijn	zijn	D	1	
+11	recht	recht	N	1	
+12	,	,	O	1	
+13	zwembad	zwembad	N	1	
+14	,	,	O	1	
+15	schaatsbaan	schaatsbaan	N	1	
+16	,	,	O	1	
+17	...	...	O	1	
+18	allemaal	allemaal	D	1	
+19	in	in	P	1	
+20	wandelafstand	wandelafstand	O	1	
+21	en	en	C	1	
+22	toegang	toegang	N	1	
+23	inbegrepen	inbegrepen	G	1	
+24	.	.	O	1	
+
+1	Dit	dit	Q	1	
+2	was	wezen|zijn	V	1	
+3	ons	ons	D	1	
+4	derde	derde	N	1	
+5	verblijf	verblijf	N	1	
+6	en	en	C	1	
+7	zeker	zeker	G	1	
+8	niet	niet	A	1	
+9	het	het	D	1	
+10	laatste	laatste	N	1	
+11	.	.	O	1	
+

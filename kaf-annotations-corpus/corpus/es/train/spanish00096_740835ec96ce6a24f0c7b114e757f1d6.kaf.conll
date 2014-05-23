@@ -1,0 +1,122 @@
+1	Buen	Buen	R	1	
+2	hotel	hotel	N	1	
+3	y	y	G	1	
+4	centrico	centrico	N	1	
+
+1	Hemos	Hemos	R	1	
+2	estado	estado	N	1	
+3	un	un	G	1	
+4	fin	fin	O	1	
+5	de	de	O	1	
+6	semana	semana	O	1	
+7	alojados	alojados	O	1	
+8	en	en	O	1	
+9	este	este	O	1	
+10	hotel	hotel	N	1	
+11	y	y	G	1	
+12	hay	hay	N	1	
+13	que	que	N	1	
+14	decir	decir	V	1	
+15	que	que	G	1	
+16	es	es	N	1	
+17	del	del	O	1	
+18	todo	todo	O	1	
+19	correcto	correcto	O	1	
+20	,	,	O	1	
+21	y	y	G	1	
+22	recomendable	recomendable	N	1	
+23	.	.	O	1	
+
+1	Excelente	Excelente	R	1	
+2	ubicación	ubicación	N	1	
+3	en	en	O	1	
+4	el_centro_Madrid	el_centro_Madrid	R	1	ne=Location
+5	,	,	O	1	
+6	a	a	D	1	
+7	5	5	O	1	
+8	minutos	minutos	N	1	
+9	andando	andando	C	1	
+10	de	de	O	1	
+11	la_Plaza_del_Sol	la_Plaza_del_Sol	R	1	ne=Location
+12	y	y	A	1	
+13	pegado	pegado	V	1	
+14	a	a	D	1	
+15	la_parada_de_Metro_de_la_Línea_5	la_parada_de_Metro_de_la_Línea_5	O	1	ne=POI
+16	,	,	O	1	
+17	Gran_Vía	Gran_Vía	R	1	ne=Location
+18	.	.	O	1	
+
+1	A	a	D	1	
+2	pesar	pesar	G	1	
+3	de	de	O	1	
+4	lo	lo	O	1	
+5	transitada	transitada	O	1	
+6	de	de	O	1	
+7	la_calle_Gran_Vía	la_calle_Gran_Vía	R	1	ne=Location
+8	,	,	O	1	
+9	no	no	D	1	
+10	había	había	N	1	
+11	excesivo	excesivo	P	1	
+12	ruido	ruido	O	1	
+13	dentro	dentro	O	1	
+14	de	de	O	1	
+15	la	la	O	1	
+16	habitación	habitación	N	1	
+17	.	.	O	1	
+
+1	El	El	R	1	
+2	tamaño	tamaño	O	1	
+3	de	de	O	1	
+4	la	la	O	1	
+5	habitación	habitación	O	1	
+6	y	y	G	1	
+7	el	el	N	1	
+8	baño	baño	N	1	
+9	es	es	N	1	
+10	grande	grande	V	1	
+11	,	,	O	1	
+12	limpia	limpia	N	1	
+13	y	y	A	1	
+14	la	la	D	1	
+15	cama	cama	N	1	
+16	confortable	confortable	G	1	
+17	.	.	O	1	
+
+1	El	El	R	1	
+2	minibar	minibar	N	1	
+3	(	(	O	1	
+4	agua	agua	O	1	
+5	y	y	G	1	
+6	pepsicola	pepsicola	N	1	
+7	)	)	O	1	
+8	y	y	G	1	
+9	una	una	G	1	
+10	pequeña	pequeña	N	1	
+11	cafetera	cafetera	N	1	
+12	eran	eran	N	1	
+13	gratuitos	gratuitos	N	1	
+14	,	,	O	1	
+15	al	al	G	1	
+16	igual	igual	G	1	
+17	que	que	G	1	
+18	la	la	N	1	
+19	conexión	conexión	N	1	
+20	WIFI	WIFI	R	1	
+21	y	y	A	1	
+22	la	la	D	1	
+23	caja	caja	N	1	
+24	fuerte	fuerte	N	1	
+25	.	.	O	1	
+
+1	Como	Como	R	1	
+2	conclusión	conclusión	N	1	
+3	,	,	O	1	
+4	es	es	V	1	
+5	un	un	G	1	
+6	buen	buen	G	1	
+7	hotel	hotel	N	1	
+8	para	para	N	1	
+9	visitar	visitar	N	1	
+10	Madrid	Madrid	R	1	ne=Location
+11	.	.	O	1	
+

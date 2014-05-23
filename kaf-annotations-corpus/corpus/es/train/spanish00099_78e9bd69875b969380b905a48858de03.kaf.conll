@@ -1,0 +1,70 @@
+1	Nevertas	Nevertas	R	1	
+2	5	5	O	1	
+3	*	*	N	1	
+
+1	Viešbutis	Viešbutis	R	1	
+2	naujas	naujas	V	1	
+3	,	,	O	1	
+4	modernus	modernus	N	1	
+5	,	,	O	1	
+6	gražus	gražus	N	1	
+7	,	,	O	1	
+8	bet	bet	N	1	
+9	jis	jis	N	1	
+10	vertas	vertas	A	1	
+11	ne	ne	O	1	
+12	daugiau	daugiau	N	1	
+13	4	4	O	1	
+14	*	*	N	1	
+15	.	.	O	1	
+
+1	Kambariai	Kambariai	R	1	
+2	,	,	O	1	
+3	kitos	kitos	N	1	
+4	teritorijos	teritorijos	N	1	
+5	gražios	gražios	N	1	
+6	,	,	O	1	
+7	bet	bet	A	1	
+8	maisto	maisto	P	1	
+9	pasirinkimas	pasirinkimas	N	1	
+10	menkas	menkas	N	1	
+11	.	.	O	1	
+
+1	Labai	Labai	R	1	
+2	mažai	mažai	O	1	
+3	vaisių	vaisių	O	1	
+4	ir	ir	O	1	
+5	tie	tie	O	1	
+6	patys	patys	O	1	
+7	ne	ne	O	1	
+8	švieži	švieži	O	1	
+9	.	.	O	1	
+
+1	Dienos	Dienos	R	1	
+2	animacija	animacija	N	1	
+3	puiki	puiki	N	1	
+4	,	,	O	1	
+5	vakaro	vakaro	O	1	
+6	visiškas	visiškas	O	1	
+7	šlamštas	šlamštas	O	1	
+8	.	.	O	1	
+
+1	Gražuoliame	Gražuoliame	R	1	
+2	amfiteatre	amfiteatre	V	1	
+3	kažką	kažką	G	1	
+4	veikdavo	veikdavo	N	1	
+5	viešbučio	viešbučio	N	1	
+6	animatoriai	animatoriai	N	1	
+7	.	.	O	1	
+
+1	Gėrimai	Gėrimai	R	1	
+2	neskanūs	neskanūs	N	1	
+3	.	.	O	1	
+
+1	Teritorija	Teritorija	R	1	
+2	nedidelė	nedidelė	N	1	
+3	,	,	O	1	
+4	trūkdavo	trūkdavo	N	1	
+5	gultų	gultų	N	1	
+6	.	.	O	1	
+

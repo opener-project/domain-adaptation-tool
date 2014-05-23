@@ -1,0 +1,111 @@
+1	Goed	goed	G	1	
+2	hostal	hostal	O	1	
+3	in	in	P	1	
+4	het	het	D	1	
+5	centrum	centrum	N	1	
+6	van	van	P	1	
+7	Madrid	Madrid	R	1	
+8	met	met	P	1	
+9	ontbijt	ontbijt	N	1	
+
+1	Wij	wij	Q	1	
+2	hebben	hebben	V	1	
+3	4	@card@	O	1	
+4	nachten	nacht	N	1	
+5	in	in	P	1	
+6	hotel_Abadia	hotel_Abadia	O	1	ne=Hotel
+7	gelogeerd	logeren	V	1	
+8	.	.	O	1	
+
+1	Het	het	D	1	
+2	personeel	personeel	N	1	
+3	is	zijn	V	1	
+4	erg	erg	A	1	
+5	vriendelijk	vriendelijk	G	1	
+6	en	en	C	1	
+7	de	de	D	1	
+8	manager	manager	N	1	
+9	spreekt	spreken	V	1	
+10	erg	erg	A	1	
+11	goed	goed	G	1	
+12	engels	engels	O	1	
+13	.	.	O	1	
+
+1	De	de	D	1	
+2	kamers	kamer	N	1	
+3	zijn	zijn	V	1	
+4	modern	modern	G	1	
+5	en	en	C	1	
+6	erg	erg	G	1	
+7	schoon	schoon	N	1	
+8	,	,	O	1	
+9	de	de	D	1	
+10	badkamer	badkamer	N	1	
+11	is	zijn	V	1	
+12	groot	groot	G	1	
+13	en	en	C	1	
+14	modern	modern	G	1	
+15	.	.	O	1	
+
+1	Het	het	D	1	
+2	hotel	hotel	N	1	
+3	ligt	liggen	V	1	
+4	midden	midden	A	1	
+5	in	in	P	1	
+6	het	het	D	1	
+7	centrum	centrum	N	1	
+8	en	en	C	1	
+9	alle	alle	D	1	
+10	beziens	beziens	O	1	
+11	waardigheden	waardigheid	N	1	
+12	liggen	liggen	V	1	
+13	om	om	C	1	
+14	het	het	D	1	
+15	hotel	hotel	N	1	
+16	heen	heen	A	1	
+17	en	en	C	1	
+18	alles	alles	Q	1	
+19	is	zijn	V	1	
+20	binnen	binnen	P	1	
+21	20	@card@	O	1	
+22	min	min	A	1	
+23	te	te	O	1	
+24	belopen	belopen	V	1	
+25	.	.	O	1	
+
+1	Het	het	D	1	
+2	hotel	hotel	N	1	
+3	bied	bieden	V	1	
+4	een	een	D	1	
+5	ontbijt	ontbijt	N	1	
+6	aan	aan	P	1	
+7	dit	dit	Q	1	
+8	is	zijn	V	1	
+9	een	een	D	1	
+10	zelfservice	zelfservice	O	1	
+11	buffet	buffet	N	1	
+12	en	en	C	1	
+13	is	zijn	V	1	
+14	erg	erg	A	1	
+15	goed	goed	G	1	
+16	.	.	O	1	
+
+1	Als	als	C	1	
+2	je	je	Q	1	
+3	naar	naar	P	1	
+4	Madrid	Madrid	R	1	ne=Location
+5	wilt	willen	V	1	
+6	is	zijn	V	1	
+7	dit	dit	Q	1	
+8	een	een	D	1	
+9	uitstekend	uitstekend	G	1	
+10	hotelletje	hotel	N	1	
+11	met	met	P	1	
+12	prima	prima	G	1	
+13	service	service	N	1	
+14	.	.	O	1	
+
+1	ECHT	echt	G	1	
+2	EEN	een	G	1	
+3	AANRADER	aanrader	N	1	
+

@@ -1,0 +1,107 @@
+1	Hotel	hotel	N	1	
+2	di	di	P	1	
+3	grande	grande	G	1	
+4	fascino	fascino	N	1	
+5	ma	ma	Q	1	
+6	da	da	P	1	
+7	ristrutturare	ristrutturare	V	1	
+8	.	.	O	1	
+
+1	Hotel	hotel	N	1	
+2	splendido	splendido	G	1	
+3	,	,	O	1	
+4	di	di	P	1	
+5	gran	gran	G	1	
+6	classe	classe	N	1	
+7	ma	ma	Q	1	
+8	sembra	sembrare	V	1	
+9	che	che	Q	1	
+10	il	lo	D	1	
+11	tempo	tempo	N	1	
+12	si	si	Q	1	
+13	sia	essere	V	1	
+14	fermato	fermare	V	1	
+15	:	:	O	1	
+16	in	in	P	1	
+17	tutti	tutto	G	1	
+18	i	lo	D	1	
+19	sensi	senso	N	1	
+20	.	.	O	1	
+
+1	Sicuramente	sicuramente	A	1	
+2	da	da	P	1	
+3	ristrutturare	ristrutturare	V	1	
+4	e	e	Q	1	
+5	da	da	P	1	
+6	rinnovare	rinnovare	V	1	
+7	.	.	O	1	
+
+1	Camere	camera	N	1	
+2	vecchissime	vecchissime	G	1	
+3	.	.	O	1	
+
+1	Mobilio	mobilio	N	1	
+2	da	da	P	1	
+3	"	&quot;	O	1	
+4	rinfrescare	rinfrescare	V	1	
+5	"	&quot;	O	1	
+6	e	e	Q	1	
+7	servizi	servizio	N	1	
+8	che	che	Q	1	
+9	necessitano	necessitare	V	1	
+10	di	di	P	1	
+11	un	uno	D	1	
+12	upgrade	upgrade	N	1	
+13	completo	completo	G	1	
+14	.	.	O	1	
+
+1	Personale	personale	G	1	
+2	gentile	gentile	G	1	
+3	e	e	Q	1	
+4	preparato	preparare	V	1	
+5	.	.	O	1	
+
+1	All'	all'	P	1	
+2	ultimo	ultimo	G	1	
+3	piano	piano	N	1	
+4	c'	c'	A	1	
+5	è	è	G	1	
+6	una	uno	D	1	
+7	terrazza	terrazzare	V	1	
+8	magnifica	magnifico	G	1	
+9	dalla	dalla	P	1	
+10	quale	quale	Q	1	
+11	si	si	Q	1	
+12	gode	godere	V	1	
+13	una	uno	D	1	
+14	splendida	splendido	G	1	
+15	vista	vedere	V	1	
+16	sui	sui	P	1	
+17	tetti	tetto	N	1	
+18	di	di	P	1	
+19	Roma	roma	R	1	ne=Location
+20	.	.	O	1	
+
+1	Anche	anche	Q	1	
+2	quella	quella	Q	1	
+3	da	da	P	1	
+4	sfruttare	sfruttare	V	1	
+5	al	al	P	1	
+6	meglio	meglio	N	1	
+7	rendendola	rendendola	V	1	
+8	accessibile	accessibile	G	1	
+9	anche	anche	Q	1	
+10	la	lo	D	1	
+11	sera	sera	N	1	
+12	!	!	O	1	
+
+1	In	in	P	1	
+2	definitiva	definitivo	G	1	
+3	:	:	O	1	
+4	non	non	A	1	
+5	vale	valere	V	1	
+6	quello	quello	G	1	
+7	che	che	G	1	
+8	costa	costa	N	1	
+9	!	!	O	1	
+

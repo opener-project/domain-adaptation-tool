@@ -1,0 +1,106 @@
+1	Nur	nur	A	1	
+2	10	10	O	1	
+3	Gehminuten	Gehminuten	O	1	
+4	vom	von	P	1	
+5	Kolosseum	Kolosseum	N	1	ne=Attraction
+6	entfernt	entfernt	G	1	
+
+1	´	´	O	1	
+2	Das	die	D	1	
+3	Hotel	Hotel	N	1	
+4	liegt	liegen	V	1	
+5	in	in	P	1	
+6	unmittelbare	unmittelbar	G	1	
+7	Nähe	Nähe	N	1	
+8	der	die	D	1	
+9	Metrostation_Manzoni	Metrostation_Manzoni	O	1	ne=POI
+10	,	,	O	1	
+11	womit	womit	Q	1	
+12	man	man	Q	1	
+13	eigentlich	eigentlich	A	1	
+14	zu	zu	P	1	
+15	allen	alle	Q	1	
+16	wichtigen	wichtig	G	1	
+17	Sehenswürdigkeiten	Sehenswürdigkeit	N	1	
+18	kommt	kommen	V	1	
+19	.	.	O	1	
+
+1	Das	die	D	1	
+2	Kolosseum	Kolosseum	N	1	ne=Attraction
+3	liegt	liegen	V	1	
+4	nur	nur	A	1	
+5	10	10	O	1	
+6	Gehminuten	Gehminuten	O	1	
+7	vom	von	P	1	
+8	Hotel	Hotel	N	1	
+9	entfernt	entfernen	V	1	
+10	und	und	C	1	
+11	ist	sein	V	1	
+12	somit	somit	A	1	
+13	am	an	P	1	
+14	Abend	Abend	N	1	
+15	sehr	sehr	A	1	
+16	gut	gut	G	1	
+17	zu	zu	O	1	
+18	besichtigen	besichtigen	V	1	
+19	.	.	O	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	selber	selber	A	1	
+4	ist	sein	V	1	
+5	im	in	P	1	
+6	guten	gut	G	1	
+7	Zustand	Zustand	N	1	
+8	,	,	O	1	
+9	wobei	wobei	Q	1	
+10	die	die	D	1	
+11	Zimmer	Zimmer	N	1	
+12	für	für	P	1	
+13	3	3	O	1	
+14	Personen	Person	N	1	
+15	relativ	relativ	G	1	
+16	klein	klein	G	1	
+17	gehalten	halten	V	1	
+18	werden	werden	V	1	
+19	,	,	O	1	
+20	der	die	D	1	
+21	Wandschrank	Wandschrank	N	1	
+22	reicht	reichen	V	1	
+23	nicht	nicht	O	1	
+24	für	für	P	1	
+25	3	3	O	1	
+26	Personen	Person	N	1	
+27	.	.	O	1	
+
+1	Vielleicht	vielleicht	A	1	
+2	könnte	können	V	1	
+3	man	man	Q	1	
+4	auch	auch	A	1	
+5	einen	eine	D	1	
+6	deutschen	deutsch	G	1	
+7	Fernsehsender	Fernsehsender	N	1	
+8	zusätzlich	zusätzlich	G	1	
+9	einrichten	einrichten	V	1	
+10	(	(	O	1	
+11	nur	nur	A	1	
+12	ARD	ARD	R	1	
+13	empfangen	empfangen	V	1	
+14	)	)	O	1	
+15	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstücksbuffet	Frühstücksbuffet	N	1	
+3	war	sein	V	1	
+4	sehr	sehr	A	1	
+5	reichhaltig	reichhaltig	G	1	
+6	,	,	O	1	
+7	jedoch	jedoch	A	1	
+8	für	für	P	1	
+9	1_Woche	1_Woche	N	1	ne=Date
+10	Aufenthalt	Aufenthalt	N	1	
+11	nicht	nicht	O	1	
+12	sehr	sehr	A	1	
+13	abwechslungsreich	abwechslungsreich	G	1	
+14	.	.	O	1	
+

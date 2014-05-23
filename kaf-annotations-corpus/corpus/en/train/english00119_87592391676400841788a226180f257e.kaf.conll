@@ -1,0 +1,149 @@
+1	Horrible	horrible	G	1	
+2	Hotel	hotel	N	1	
+
+1	We	we	Q	1	
+2	took	take	V	1	
+3	a	a	D	1	
+4	room	room	N	1	
+5	there	there	A	1	
+6	because	because	P	1	
+7	the	the	D	1	
+8	Hotel_du_Palais	Hotel_du_Palais	R	1	ne=Hotel
+9	which	which	O	1	
+10	is	be	V	1	
+11	situated	situate	V	1	
+12	next	next	P	1	
+13	to	to	P	1	
+14	Hotel_Moderne	Hotel_Moderne	R	1	ne=Hotel
+15	didn	didn	V	1	
+16	't	't	A	1	
+17	have	have	V	1	
+18	any	any	D	1	
+19	rooms	room	N	1	
+20	for	for	P	1	
+21	a	a	D	1	
+22	further	further	G	1	
+23	night	night	N	1	
+24	in	in	P	1	
+25	Marseille	Marseille	R	1	ne=Location
+26	.	.	O	1	
+
+1	+	+	A	1	
+2	Next	next	G	1	
+3	to	to	P	1	
+4	the_city_center_Port_Vieuz	the_city_center_Port_Vieuz	R	1	ne=Location
+
+1	·	·	V	1	
+2	no	no	D	1	
+3	elevator	elevator	N	1	
+
+1	·	·	N	1	
+2	The	the	D	1	
+3	owners	owner	N	1	
+4	don	don	A	1	
+5	't	't	A	1	
+6	speak	speak	V	1	
+7	any	any	D	1	
+8	English	English	R	1	
+
+1	·	·	N	1	
+2	We	we	Q	1	
+3	paid	pay	V	1	
+4	with	with	P	1	
+5	100_€	100_€	N	1	ne=Money
+6	for	for	P	1	
+7	the	the	D	1	
+8	room	room	N	1	
+9	(	(	O	1	
+10	55_€	55_€	N	1	ne=Money
+11	)	)	O	1	
+12	The	the	D	1	
+13	owners	owner	N	1	
+14	said	say	V	1	
+15	they	they	Q	1	
+16	don	don	V	1	
+17	't	't	A	1	
+18	have	have	V	1	
+19	any	any	D	1	
+20	change	change	N	1	
+21	,	,	O	1	
+22	and	and	C	1	
+23	we	we	Q	1	
+24	will	will	O	1	
+25	get	get	V	1	
+26	it	it	Q	1	
+27	later	later	A	1	
+28	,	,	O	1	
+29	so	so	A	1	
+30	we	we	Q	1	
+31	took	take	V	1	
+32	back	back	A	1	
+33	the	the	D	1	
+34	100_€	100_€	N	1	ne=Money
+35	and	and	C	1	
+36	changed	change	V	1	
+37	it	it	Q	1	
+38	at	at	P	1	
+39	a	a	D	1	
+40	coffeeshop	coffeeshop	N	1	
+41	.	.	O	1	
+
+1	·	·	O	1	
+2	Didn	Didn	R	1	
+3	't	't	A	1	
+4	recieve	recieve	V	1	
+5	a	a	D	1	
+6	bill	bill	N	1	
+
+1	·	·	N	1	
+2	Rooms	room	N	1	
+3	very	very	A	1	
+4	loud	loud	A	1	
+5	,	,	O	1	
+6	old	old	G	1	
+7	winows	winows	N	1	
+
+1	·	·	G	1	
+2	Rooms	room	N	1	
+3	dirty	dirty	G	1	
+4	,	,	O	1	
+5	Bugs	Bugs	R	1	
+6	running	run	V	1	
+7	on	on	P	1	
+8	th	th	D	1	
+9	floor	floor	N	1	
+
+1	·	·	O	1	
+2	Bath	Bath	R	1	
+3	wasn	wasn	N	1	
+4	'	'	O	1	
+5	clean	clean	G	1	
+6	when	when	O	1	
+7	we	we	Q	1	
+8	recieved	recieved	V	1	
+9	the	the	D	1	
+10	room	room	N	1	
+11	,	,	O	1	
+12	empty	empty	G	1	
+13	shower	shower	N	1	
+14	bottle	bottle	N	1	
+15	from	from	P	1	
+16	guests	guest	N	1	
+17	before	before	P	1	
+18	where	where	O	1	
+19	in	in	P	1	
+20	shower	shower	N	1	
+21	.	.	O	1	
+
+1	·	·	O	1	
+2	Bad	Bad	R	1	
+3	smell	smell	N	1	
+4	in	in	P	1	
+5	room	room	N	1	
+
+1	·	·	N	1	
+2	Mould	mould	O	1	
+3	in	in	P	1	
+4	the	the	D	1	
+5	shower	shower	N	1	
+

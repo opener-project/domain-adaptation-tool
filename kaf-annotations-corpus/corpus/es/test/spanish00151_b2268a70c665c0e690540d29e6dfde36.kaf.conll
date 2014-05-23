@@ -1,0 +1,163 @@
+1	Me	me	Q	1	
+2	encanta	encanta	V	1	
+3	este	este	N	1	
+4	hotel	hotel	N	1	
+5	,	,	O	1	
+6	me	me	Q	1	
+7	encanta	encanta	V	1	
+8	Radisson	Radisson	R	1	ne=Hotel
+
+1	He	he	Q	1	
+2	estado	estado	A	1	
+3	varias	varias	V	1	
+4	veces	veces	N	1	
+5	aqui	aqui	N	1	
+6	.	.	O	1	
+
+1	La	La	R	1	
+2	primera	primera	N	1	
+3	en	en	P	1	
+4	una	una	G	1	
+5	habitacion	habitacion	N	1	
+6	estandar	estandar	N	1	
+7	que	que	V	1	
+8	me	me	Q	1	
+9	parecio	parecio	N	1	
+10	realmente	realmente	V	1	
+11	acogedora	acogedora	N	1	
+12	con	con	A	1	
+13	un	un	G	1	
+14	baño	baño	N	1	
+15	enorme	enorme	O	1	
+16	de	de	O	1	
+17	marmol	marmol	N	1	
+18	.	.	O	1	
+
+1	La	La	R	1	
+2	segunda	segunda	N	1	
+3	me	me	Q	1	
+4	hicieron	hicieron	V	1	
+5	un	un	G	1	
+6	upgrade	upgrade	P	1	
+7	a	a	D	1	
+8	business	business	N	1	
+9	por	por	N	1	
+10	mi	mi	O	1	
+11	estatus	estatus	O	1	
+12	elite	elite	O	1	
+13	de	de	O	1	
+14	Club_Carlson	Club_Carlson	R	1	ne=Hotel
+15	,	,	O	1	
+16	era	era	N	1	
+17	un	un	G	1	
+18	poco	poco	N	1	
+19	mas	mama	N	1	
+20	amplia	amplia	V	1	
+21	pero	pero	A	1	
+22	tampoco	tampoco	G	1	
+23	era	era	N	1	
+24	para	para	N	1	
+25	tanto	tanto	P	1	
+26	,	,	O	1	
+27	no	no	D	1	
+28	se	se	N	1	
+29	si	si	N	1	
+30	merece	merece	V	1	
+31	pagar	pagar	N	1	
+32	la	la	D	1	
+33	diferencia	diferencia	N	1	
+34	entre	entre	O	1	
+35	una	una	G	1	
+36	y	y	G	1	
+37	otra	otra	N	1	
+38	.	.	O	1	
+
+1	El	El	R	1	
+2	personal	personal	G	1	
+3	es	es	N	1	
+4	amable	amable	G	1	
+5	.	.	O	1	
+
+1	El	El	R	1	
+2	desayuno	desayuno	R	1	
+3	es	es	V	1	
+4	el	el	N	1	
+5	mejor	mejor	N	1	
+6	y	y	G	1	
+7	el	el	N	1	
+8	mas	mama	N	1	
+9	variado	variado	V	1	
+10	de	de	O	1	
+11	Helsinki	Helsinki	R	1	ne=Location
+12	(	(	O	1	
+13	yo	yo	A	1	
+14	empiezo	empiezo	G	1	
+15	el	el	N	1	
+16	dia	dia	N	1	
+17	con	con	A	1	
+18	un	un	G	1	
+19	banquete	banquete	N	1	
+20	de	de	P	1	
+21	salmon	salmon	G	1	
+22	ahumado	ahumado	G	1	
+23	y	y	G	1	
+24	arenque	arenque	N	1	
+25	...	...	O	1	
+26	)	)	O	1	
+27	.	.	O	1	
+
+1	Esto	Esto	R	1	
+2	sirve	sirve	N	1	
+3	para	para	N	1	
+4	los	los	N	1	
+5	otros	otros	N	1	
+6	Radisson	Radisson	R	1	ne=Hotel
+7	tambien	tambien	N	1	
+8	.	.	O	1	
+
+1	A	a	D	1	
+2	los	los	O	1	
+3	que	que	O	1	
+4	disfruten	disfruten	O	1	
+5	de	de	O	1	
+6	ver	ver	A	1	
+7	una	una	G	1	
+8	pelicula	pelicula	N	1	
+9	saboreando	saboreando	N	1	
+10	un	un	G	1	
+11	buen	buen	N	1	
+12	malta	malta	N	1	
+13	les	les	O	1	
+14	recomiendo	recomiendo	O	1	
+15	que	que	O	1	
+16	se	se	O	1	
+17	compren	compren	O	1	
+18	botellitas	botellitas	O	1	
+19	de	de	O	1	
+20	5cl	5cl	O	1	
+21	y	y	G	1	
+22	las	las	G	1	
+23	rellenen	rellenen	N	1	
+24	en	en	P	1	
+25	casa	casa	N	1	
+26	.	.	O	1	
+
+1	Me	me	Q	1	
+2	costo	costo	O	1	
+3	mas	mas	O	1	
+4	de	de	O	1	
+5	15_€	15_€	O	1	ne=Money
+6	4cl	4cl	O	1	
+7	de	de	O	1	
+8	un	un	G	1	
+9	whisky	whisky	G	1	
+10	normal	normal	G	1	
+11	.	.	O	1	
+
+1	Desde	Desde	R	1	
+2	entonces	entonces	V	1	
+3	yo	yo	A	1	
+4	lo	lo	G	1	
+5	hago	hago	A	1	
+6	!	!	O	1	
+

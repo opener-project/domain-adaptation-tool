@@ -1,0 +1,42 @@
+1	Très	Très	G	1	
+2	convenable	convenable	G	1	
+
+1	C'	C'	Q	1	
+2	est	être	V	1	
+3	un	un	D	1	
+4	hôtel	hôtel	N	1	
+5	à	à	P	1	
+6	conseiller	conseiller	N	1	
+7	compte	compte	N	1	
+8	tenu	tenir	V	1	
+9	de	de	P	1	
+10	sa	son	D	1	
+11	proximité	proximité	N	1	
+12	du	du	P	1	
+13	périphérique	périphérique	N	1	
+14	et	et	C	1	
+15	de	de	P	1	
+16	ce	ce	D	1	
+17	fait	fait	N	1	
+18	facile	facile	G	1	
+19	d'	d'	P	1	
+20	accès	accès	N	1	
+21	et	et	C	1	
+22	d'	d'	P	1	
+23	autre	autre	G	1	
+24	part	part	N	1	
+25	sa	son	D	1	
+26	situation	situation	N	1	
+27	à	à	P	1	
+28	5mn	5mn	N	1	
+29	de	de	P	1	
+30	la_porte_d'_Italie	le_porte_d'_Italie	N	1	ne=POI
+31	permet	permettre	V	1	
+32	un	un	D	1	
+33	accès	accès	N	1	
+34	facile	facile	G	1	
+35	au	au	P	1	
+36	centre	centre	N	1	
+37	de	de	P	1	
+38	paris	pari	N	1	ne=Location
+

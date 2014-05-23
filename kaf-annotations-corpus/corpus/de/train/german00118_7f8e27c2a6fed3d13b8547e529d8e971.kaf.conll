@@ -1,0 +1,51 @@
+1	Modernisierung	Modernisierung	N	1	
+2	dringend	dringend	G	1	
+3	notwendig	notwendig	G	1	
+4	,	,	O	1	
+5	keine	keine	Q	1	
+6	4	4	O	1	
+7	Sterne	Stern	N	1	
+
+1	Gesamte	gesamt	G	1	
+2	Hotelanlage	Hotelanlage	N	1	
+3	muss	müssen	V	1	
+4	dringend	dringend	G	1	
+5	modernisiert	modernisieren	V	1	
+6	&	&	C	1	
+7	saniert	sanieren	V	1	
+8	werden	werden	V	1	
+9	.	.	O	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	ähnelt	ähneln	V	1	
+4	eher	eher	A	1	
+5	einem	eine	D	1	
+6	Ferienlager	Ferienlager	N	1	
+7	,	,	O	1	
+8	alte	alt	G	1	
+9	Möbel	Möbel	N	1	
+10	in	in	P	1	
+11	den	die	D	1	
+12	Hausanlagen	Hausanlage	N	1	
+13	,	,	O	1	
+14	der	die	D	1	
+15	Putz	Putz	N	1	
+16	blättert	blättern	V	1	
+17	ab	ab	V	1	
+18	&	&	C	1	
+19	die	die	D	1	
+20	Dächer	Dach	N	1	
+21	müssten	müssen	V	1	
+22	neu	neu	G	1	
+23	eingedeckt	eindecken	V	1	
+24	werden	werden	V	1	
+25	.	.	O	1	
+
+1	Leider	leider	A	1	
+2	keine	keine	Q	1	
+3	4	4	O	1	
+4	Sterne	Stern	N	1	
+5	Qualität	Qualität	N	1	
+6	.	.	O	1	
+

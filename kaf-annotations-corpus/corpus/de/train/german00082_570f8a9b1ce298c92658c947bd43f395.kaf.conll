@@ -1,0 +1,56 @@
+1	Italien	Italien	R	1	ne=Location
+2	,	,	O	1	
+3	wie	wie	C	1	
+4	wir	wir	Q	1	
+5	es	es	Q	1	
+6	lieben	lieben	V	1	
+7	!	!	O	1	
+
+1	Seit	seit	C	1	
+2	über	über	P	1	
+3	10_Jahren	10_Jahr	N	1	ne=Date
+4	machen	machen	V	1	
+5	wir	wir	Q	1	
+6	unseren	unser	Q	1	
+7	Urlaub	Urlaub	N	1	
+8	im	in	P	1	
+9	Frühling	Frühling	N	1	
+10	in	in	P	1	
+11	diesem	dies	Q	1	
+12	kleinen	klein	G	1	
+13	,	,	O	1	
+14	familiär	familiär	G	1	
+15	geführten	geführt	G	1	
+16	Hotel	Hotel	N	1	
+17	in	in	P	1	
+18	einer	eine	D	1	
+19	ruhigen	ruhig	G	1	
+20	Wohngegend	Wohngegend	N	1	
+21	.	.	O	1	
+
+1	Und	und	C	1	
+2	das	die	D	1	
+3	nicht	nicht	O	1	
+4	ohne	ohne	P	1	
+5	Grund	Grund	N	1	
+6	;	;	O	1	
+7	:	:	O	1	
+8	Für	für	P	1	
+9	uns	wir	Q	1	
+10	ist	sein	V	1	
+11	das	die	Q	1	
+12	der	die	D	1	
+13	ideale	ideal	G	1	
+14	Ausgangspunkt	Ausgangspunkt	N	1	
+15	um	um	P	1	
+16	Land	Land	N	1	
+17	und	und	C	1	
+18	Leute	Leute	N	1	
+19	in	in	P	1	
+20	der	die	D	1	
+21	Toskana	Toskana	R	1	ne=Location
+22	kennen	kennen	V	1	
+23	zu	zu	O	1	
+24	lernen	lernen	V	1	
+25	.	.	O	1	
+

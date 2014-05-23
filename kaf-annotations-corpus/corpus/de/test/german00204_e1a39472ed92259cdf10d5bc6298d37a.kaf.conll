@@ -1,0 +1,155 @@
+1	Bitter	bitter	G	1	
+2	enttäuscht	enttäuscht	G	1	
+
+1	die	die	D	1	
+2	Anlage	Anlage	N	1	
+3	selbst	selbst	A	1	
+4	ist	sein	V	1	
+5	schön	schön	G	1	
+6	und	und	C	1	
+7	sauber	sauber	G	1	
+8	,	,	O	1	
+9	ebenso	ebenso	A	1	
+10	der	die	D	1	
+11	Strand	Strand	N	1	
+12	.	.	O	1	
+
+1	Doch	doch	C	1	
+2	an	an	P	1	
+3	der	die	D	1	
+4	Rezeption	Rezeption	N	1	
+5	ist	sein	V	1	
+6	man	man	Q	1	
+7	sehr	sehr	A	1	
+8	unfreundlich	unfreundlich	G	1	
+9	und	und	C	1	
+10	geht	gehen	V	1	
+11	überhaupt	überhaupt	A	1	
+12	nicht	nicht	O	1	
+13	auf	auf	P	1	
+14	Fragen	Frage	N	1	
+15	od	od	O	1	
+16	.	.	O	1	
+
+1	Wünsche	Wunsch	N	1	
+2	ein	ein	V	1	
+3	.	.	O	1	
+
+1	Der	die	D	1	
+2	Abreisetag	Abreisetag	N	1	
+3	war	sein	V	1	
+4	ein	eine	D	1	
+5	Horror	Horror	N	1	
+6	und	und	C	1	
+7	die	die	D	1	
+8	meisten	meist	Q	1	
+9	Gäste	Gast	N	1	
+10	werden	werden	V	1	
+11	vorderhand	vorderhand	A	1	
+12	keinen	keine	Q	1	
+13	Urlaub	Urlaub	N	1	
+14	mehr	mehr	A	1	
+15	in	in	P	1	
+16	Griechenland	Griechenland	R	1	ne=Location
+17	verbringen	verbringen	V	1	
+18	.	.	O	1	
+
+1	12.00h	12.00h	O	1	ne=Time
+2	ausschecken	ausschecken	O	1	
+3	,	,	O	1	
+4	egal	egal	G	1	
+5	wann	wann	Q	1	
+6	man	man	Q	1	
+7	abgeholt	abholen	V	1	
+8	wird	werden	V	1	
+9	,	,	O	1	
+10	verhandelt	verhandeln	V	1	
+11	wird	werden	V	1	
+12	nicht	nicht	O	1	
+13	.	.	O	1	
+
+1	So	so	A	1	
+2	sassen	sitzen	V	1	
+3	wir	wir	Q	1	
+4	5_Std.	5_Std.	N	1	ne=Time
+5	rund	rund	A	1	
+6	um	um	P	1	
+7	die	die	D	1	
+8	Lobby	Lobby	N	1	
+9	herum	herum	P	1	
+10	da	da	V	1	
+11	.	.	O	1	
+
+1	Dann	dann	A	1	
+2	fuhr	fahren	V	1	
+3	der	die	D	1	
+4	Bus	Bus	N	1	
+5	zum	zu	P	1	
+6	Flughafen	Flughafen	N	1	
+7	vor	vor	V	1	
+8	und	und	C	1	
+9	bei	bei	P	1	
+10	der	die	D	1	
+11	Ankunft	Ankunft	N	1	
+12	wurde	werden	V	1	
+13	uns	wir	Q	1	
+14	mitgeteilt	mitteilen	V	1	
+15	,	,	O	1	
+16	dass	dass	C	1	
+17	die	die	D	1	
+18	Flüge	Flug	N	1	
+19	gestrichen	streichen	V	1	
+20	sind	sein	V	1	
+21	.	.	O	1	
+
+1	Niemand	niemand	Q	1	
+2	wusste	wissen	V	1	
+3	genaueres	genau	G	1	
+4	und	und	C	1	
+5	so	so	A	1	
+6	sassen	sitzen	V	1	
+7	wir	wir	Q	1	
+8	,	,	O	1	
+9	Familien	Familie	N	1	
+10	mit	mit	P	1	
+11	Kleinkindern	Kleinkind	N	1	
+12	,	,	O	1	
+13	rund	rund	A	1	
+14	NEUN_STUNDEN	Neun_Stunde|Stunden	N	1	ne=Time
+15	am	an	P	1	
+16	Flughafen	Flughafen	N	1	
+17	fest	fest	V	1	
+18	.	.	O	1	
+
+1	Die	die	D	1	
+2	Hotels	Hotel	N	1	
+3	hatten	haben	V	1	
+4	Kenntnis	Kenntnis	N	1	
+5	vom	von	P	1	
+6	Streik	Streik	N	1	
+7	und	und	C	1	
+8	setzten	setzen	V	1	
+9	uns	wir	Q	1	
+10	auf	auf	P	1	
+11	die	die	D	1	
+12	"	"	O	1	
+13	Strasse	Straße	N	1	
+14	"	"	O	1	
+15	.	.	O	1	
+
+1	Man	man	Q	1	
+2	wollte	wollen	V	1	
+3	alle	alle	Q	1	
+4	Gäste	Gast	N	1	
+5	raushaben	raushaben	V	1	
+6	und	und	C	1	
+7	das	die	Q	1	
+8	ist	sein	V	1	
+9	nicht	nicht	O	1	
+10	das	die	D	1	
+11	Griechenland	Griechenland	R	1	
+12	das	die	D	1	
+13	ich	ich	Q	1	
+14	kannte	kennen	V	1	
+15	.	.	O	1	
+

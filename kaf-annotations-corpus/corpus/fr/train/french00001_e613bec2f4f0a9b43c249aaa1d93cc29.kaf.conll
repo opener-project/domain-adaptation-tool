@@ -1,0 +1,56 @@
+1	Intéressant	intéresser	V	1	
+
+1	Trop	Trop	G	1	
+2	d'	d'	P	1	
+3	animaux	animal	N	1	
+4	qui	qui	P	1	
+5	ne	ne	G	1	
+6	sont	être	V	1	
+7	pas	pas	G	1	
+8	de	de	P	1	
+9	la	le	D	1	
+10	région	région	N	1	
+11	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	avions	avoir	V	1	
+3	visité	visiter	V	1	
+4	ce	ce	D	1	
+5	parc	parc	N	1	
+6	à	à	P	1	
+7	l'	le	D	1	
+8	ouverture	ouverture	N	1	
+9	et	et	C	1	
+10	on	on	Q	1	
+11	avait	avoir	V	1	
+12	un	un	D	1	
+13	meilleur	meilleur	G	1	
+14	souvenir	souvenir	N	1	
+15	car	car	C	1	
+16	les	le	D	1	
+17	animaux	animal	N	1	
+18	semblaient	sembler	V	1	
+19	vivre	vivre	V	1	
+20	avec	avec	P	1	
+21	plus	plus	G	1	
+22	de	de	P	1	
+23	liberté	liberté	N	1	
+24	.	.	O	1	
+
+1	(	(	O	1	
+2	Les	le	D	1	
+3	animaux	animal	N	1	
+4	en	en	P	1	
+5	cage	cage	N	1	
+6	,	,	O	1	
+7	ce	ce	Q	1	
+8	n'	n'	G	1	
+9	est	être	V	1	
+10	pas	pas	G	1	
+11	trop	trop	G	1	
+12	notre	son	D	1	
+13	tasse	tasse	N	1	
+14	de	de	P	1	
+15	thé	thé	N	1	
+16	)	)	O	1	
+

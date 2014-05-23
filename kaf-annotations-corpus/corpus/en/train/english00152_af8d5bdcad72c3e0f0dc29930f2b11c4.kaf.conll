@@ -1,0 +1,143 @@
+1	Excellent	Excellent	R	1	
+2	location	location	N	1	
+3	,	,	O	1	
+4	everthing	everthing	N	1	
+5	at	at	P	1	
+6	walking	walking	V	1	
+7	distance	distance	N	1	
+
+1	Excellent	Excellent	R	1	
+2	location	location	N	1	
+3	for	for	P	1	
+4	this	this	D	1	
+5	stylish	stylish	G	1	
+6	hotel	hotel	N	1	
+7	.	.	O	1	
+
+1	Deira_City_Center_shoping_mall	Deira_City_Center_shoping_mall	N	1	ne=Attraction
+2	is	be	V	1	
+3	across	across	P	1	
+4	the	the	D	1	
+5	street	street	N	1	
+6	and	and	C	1	
+7	a	a	D	1	
+8	metro	metro	N	1	
+9	station	station	N	1	
+10	is	be	V	1	
+11	just	just	A	1	
+12	outside	outside	P	1	
+13	the	the	D	1	
+14	entrance	entrance	N	1	
+15	of	of	P	1	
+16	hotel	hotel	N	1	
+17	.	.	O	1	
+
+1	Everything	Everything	R	1	
+2	you	you	Q	1	
+3	need	need	V	1	
+4	is	be	V	1	
+5	there	there	A	1	
+6	at	at	P	1	
+7	walking	walking	N	1	
+8	distance	distance	N	1	
+9	.	.	O	1	
+
+1	Very	Very	R	1	
+2	good	good	G	1	
+3	kitchen	kitchen	N	1	
+4	and	and	C	1	
+5	nice	nice	G	1	
+6	pub	pub	N	1	
+7	.	.	O	1	
+
+1	The	the	D	1	
+2	swimming	swim	V	1	
+3	pool	pool	N	1	
+4	is	be	V	1	
+5	quite	quite	A	1	
+6	small	small	G	1	
+7	,	,	O	1	
+8	so	so	A	1	
+9	don	don	A	1	
+10	't	't	G	1	
+11	look	look	N	1	
+12	forward	forward	A	1	
+13	a	a	D	1	
+14	resort	resort	N	1	
+15	·	·	N	1	
+16	type	type	N	1	
+17	structure	structure	N	1	
+18	.	.	O	1	
+
+1	It	it	Q	1	
+2	is	be	V	1	
+3	more	more	G	1	
+4	a	a	D	1	
+5	city	city	N	1	
+6	hotel	hotel	N	1	
+7	with	with	P	1	
+8	all	all	D	1	
+9	the	the	D	1	
+10	comforts	comfort	N	1	
+11	.	.	O	1	
+
+1	Very	Very	R	1	
+2	attentive	attentive	N	1	
+3	and	and	C	1	
+4	courtesious	courtesious	G	1	
+5	staff	staff	N	1	
+6	,	,	O	1	
+7	but	but	C	1	
+8	I	i	Q	1	
+9	would	would	O	1	
+10	suggest	suggest	V	1	
+11	the	the	D	1	
+12	management	management	N	1	
+13	a	a	D	1	
+14	more	more	G	1	
+15	careful	careful	G	1	
+16	selection	selection	N	1	
+17	of	of	P	1	
+18	suppliers	supplier	N	1	
+19	of	of	P	1	
+20	desert	desert	N	1	
+21	trips	trip	N	1	
+22	.	.	O	1	
+
+1	I	i	Q	1	
+2	have	have	V	1	
+3	done	do	V	1	
+4	dozens	dozen	N	1	
+5	of	of	P	1	
+6	those	those	D	1	
+7	,	,	O	1	
+8	always	always	A	1	
+9	very	very	A	1	
+10	fulllfilling	fulllfilling	G	1	
+11	,	,	O	1	
+12	but	but	C	1	
+13	this	this	D	1	
+14	one	one	N	1	
+15	was	be	V	1	
+16	a	a	D	1	
+17	bad	bad	G	1	
+18	experience	experience	N	1	
+19	.	.	O	1	
+
+1	Not	not	A	1	
+2	at	at	P	1	
+3	Meridien	Meridien	R	1	ne=Hotel
+4	's	's	O	1	
+5	level	level	N	1	
+6	.	.	O	1	
+
+1	Save	save	V	1	
+2	that	that	D	1	
+3	,	,	O	1	
+4	I	i	Q	1	
+5	definitely	definitely	A	1	
+6	recommend	recommend	V	1	
+7	the	the	D	1	
+8	hotel	hotel	N	1	
+9	.	.	O	1	
+

@@ -1,0 +1,55 @@
+1	Great	great	G	1	
+2	family	family	N	1	
+3	friendly	friendly	G	1	
+4	hotel	hotel	N	1	
+
+1	Nice	Nice	R	1	
+2	hotel	hotel	N	1	
+3	with	with	P	1	
+4	great	great	G	1	
+5	staff	staff	N	1	
+6	.	.	O	1	
+
+1	Food	food	N	1	
+2	a	a	D	1	
+3	bit	bit	N	1	
+4	repeatative	repeatative	N	1	
+5	.	.	O	1	
+
+1	Not	not	A	1	
+2	much	much	G	1	
+3	choice	choice	N	1	
+4	for	for	P	1	
+5	English	English	R	1	
+6	.	.	O	1	
+
+1	Lots	lot	N	1	
+2	of	of	P	1	
+3	eastern	eastern	G	1	
+4	European	european	G	1	
+5	food	food	N	1	
+6	.	.	O	1	
+
+1	(	(	O	1	
+2	the	the	D	1	
+3	Russians	Russians	R	1	
+4	where	where	O	1	
+5	happy	happy	G	1	
+6	)	)	O	1	
+7	I	i	Q	1	
+8	will	will	O	1	
+9	go	go	V	1	
+10	back	back	A	1	
+11	to	to	P	1	
+12	this	this	D	1	
+13	hotel	hotel	N	1	
+14	next	next	G	1	
+15	year	year	N	1	
+16	as	as	P	1	
+17	we	we	Q	1	
+18	had	have	V	1	
+19	a	a	D	1	
+20	great	great	G	1	
+21	holiday	holiday	N	1	
+22	.	.	O	1	
+

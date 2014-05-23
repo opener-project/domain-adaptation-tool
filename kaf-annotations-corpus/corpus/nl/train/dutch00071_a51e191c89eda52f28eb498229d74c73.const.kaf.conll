@@ -1,0 +1,137 @@
+1	Nooit	nooit	A	1	
+2	meer	meer	A	1	
+
+1	net	net	A	1	
+2	terug	terug	A	1	
+3	van	van	P	1	
+4	een	een	D	1	
+5	week	week	N	1	
+6	wintersport	wintersport	N	1	
+7	,	,	O	1	
+8	dit	dit	Q	1	
+9	is	zijn	V	1	
+10	meer	meer	A	1	
+11	een	een	D	1	
+12	jeugdherberg	jeugdherberg	N	1	
+13	dan	dan	C	1	
+14	hotel	hotel	N	1	
+15	.	.	O	1	
+
+1	Wss	Wss	O	1	
+2	een	een	D	1	
+3	goed	goed	N	1	
+4	(	(	O	1	
+5	hotel	hotel	N	1	
+6	)	)	O	1	
+7	om	om	C	1	
+8	met	met	P	1	
+9	vrienden	vriend	N	1	
+10	wa	wa	O	1	
+11	het	het	D	1	
+12	zwijn	zwijn	N	1	
+13	uit	uit	A	1	
+14	te	te	O	1	
+15	hangen	hangen	V	1	
+16	.	.	O	1	
+
+1	3	@card@	O	1	
+2	dagen	dag	N	1	
+3	geen	geen	D	1	
+4	water	water	N	1	
+5	om	om	C	1	
+6	te	te	O	1	
+7	douchen	douchen	V	1	
+8	,	,	O	1	
+9	geen	geen	D	1	
+10	oplossing	oplossing	N	1	
+11	gekregen	krijgen	V	1	
+12	daarvoor	daarvoor	Q	1	
+13	.	.	O	1	
+
+1	Kamers	kamer	N	1	
+2	vuil	vuil	G	1	
+3	en	en	C	1	
+4	vochtig	vochtig	G	1	
+
+1	Koude	koud	G	1	
+2	koffie	koffie	N	1	
+3	s	s	N	1	
+4	'	'	O	1	
+5	morgens	morgen	N	1	
+6	bij	bij	P	1	
+7	het	het	D	1	
+8	ontbijt	ontbijt	N	1	
+9	,	,	O	1	
+10	om	om	C	1	
+11	9_uur	@card@_uur	N	1	ne=Time
+12	was	wezen|zijn	V	1	
+13	er	er	Q	1	
+14	bijna	bijna	A	1	
+15	niets	niets	Q	1	
+16	over	over	A	1	
+17	van	van	P	1	
+18	het	het	Q	1	
+19	zogezegd	zogezegd	A	1	
+20	4	@card@	O	1	
+21	sterren	ster	N	1	
+22	ontbijt	ontbijten	V	1	
+23	.	.	O	1	
+
+1	S	S	N	1	
+2	'	'	O	1	
+3	avonds	avond	N	1	
+4	was	wezen|zijn	V	1	
+5	het	het	D	1	
+6	eten	eten	N	1	
+7	soms	soms	A	1	
+8	goed	goed	G	1	
+9	maar	maar	A	1	
+10	veel	veel	A	1	
+11	te	te	O	1	
+12	laat	laat	G	1	
+13	opgediend	opdienen	V	1	
+14	,	,	O	1	
+15	wachten	wachten	V	1	
+16	tot	tot	P	1	
+17	20u30	20u30	O	1	ne=Time
+18	was	wezen|zijn	V	1	
+19	geen	geen	D	1	
+20	uitzondering	uitzondering	N	1	
+21	en	en	C	1	
+22	dit	dit	Q	1	
+23	met	met	P	1	
+24	veel	veel	O	1	
+25	kleine	klein	G	1	
+26	kinderen	kind	N	1	
+27	.	.	O	1	
+
+1	Totaal	totaal	N	1	
+2	geen	geen	D	1	
+3	service	service	N	1	
+4	!	!	O	1	
+5	!	!	O	1	
+
+1	ENZ	enz	A	1	
+2	....	...	O	1	
+3	....	.	O	1	
+
+1	Teveel	teveel	N	1	
+2	om	om	C	1	
+3	op	op	A	1	
+4	te	te	O	1	
+5	noemen	noemen	V	1	
+6	.	.	O	1	
+
+1	Voel	voelen	V	1	
+2	mij	mij	Q	1	
+3	bedrogen	bedriegen	V	1	
+4	voor	voor	P	1	
+5	wat	wat	Q	1	
+6	we	we	Q	1	
+7	betaald	betalen	V	1	
+8	hebben	hebben	V	1	
+9	!	!	O	1	
+10	!	!	O	1	
+11	!	!	O	1	
+12	!	!	O	1	
+

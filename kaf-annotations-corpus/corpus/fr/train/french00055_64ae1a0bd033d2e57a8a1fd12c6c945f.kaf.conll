@@ -1,0 +1,107 @@
+1	Superbes	Superbes	P	1	
+2	vacances	vacance	N	1	
+3	à	à	P	1	
+4	l'_Estanquet	le_Estanquet	N	1	ne=Hotel
+
+1	Hello	Hello	N	1	
+2	à	à	P	1	
+3	tous	tout	G	1	
+4	;	;	O	1	
+5	)	)	O	1	
+
+1	Après	Après	P	1	
+2	avoir	avoir	V	1	
+3	fait	faire	V	1	
+4	le	le	D	1	
+5	camping	camping	N	1	
+6	La_pinède	le_pinède	N	1	ne=Hotel
+7	en	en	P	1	
+8	2009	2009	D	1	ne=Date
+9	j'	j'	Q	1	
+10	ai	avoir	V	1	
+11	tenté	tenter	V	1	
+12	L'_estanquet	le_estanquet	Q	1	ne=Hotel
+13	en	en	P	1	
+14	2010	2010	D	1	ne=Date
+15	faute	faute	N	1	
+16	de	de	P	1	
+17	place	place	N	1	
+18	(	(	O	1	
+19	à	à	P	1	
+20	la_pinède	le_pinède	N	1	ne=Hotel
+21	)	)	O	1	
+22	et	et	C	1	
+23	bien	bien	G	1	
+24	je	je	Q	1	
+25	n'	n'	G	1	
+26	ai	avoir	V	1	
+27	pas	pas	G	1	
+28	été	être	V	1	
+29	du	du	D	1	
+30	tout	tout	P	1	
+31	dessus	dessus	P	1	
+32	...	...	O	1	
+33	super	super	N	1	
+34	mobile	mobile	G	1	
+35	home	home	N	1	
+36	équipé	équiper	V	1	
+37	propre	propre	G	1	
+38	...	...	O	1	
+39	reposant	reposer	V	1	
+40	...	...	O	1	
+41	la	le	D	1	
+42	dolce	dolce	N	1	
+43	vita	vita	V	1	
+44	:	:	O	1	
+45	)	)	O	1	
+46	piscine	piscine	V	1	
+47	,	,	O	1	
+48	un	un	D	1	
+49	petit	petit	G	1	
+50	commerçant	commercer	V	1	
+51	pas	pas	G	1	
+52	loin	loin	G	1	
+53	au	au	P	1	
+54	cas	cas	N	1	
+55	où	où	G	1	
+56	plus	plus	G	1	
+57	de	de	P	1	
+58	lait	lait	N	1	
+59	:	:	O	1	
+60	)	)	Q	1	
+61	franchement	franchement	V	1	
+62	rien	rien	P	1	
+63	à	à	P	1	
+64	dire	dire	V	1	
+65	...	...	O	1	
+66	L'	le	D	1	
+67	accueil	accueil	N	1	
+68	était	être	V	1	
+69	très	très	G	1	
+70	sympa	sympa	G	1	
+71	...	...	O	1	
+72	A	A	P	1	
+73	recommander	recommander	V	1	
+74	de	de	P	1	
+75	toute	tout	D	1	
+76	urgence	urgence	N	1	
+77	;	;	O	1	
+78	)	)	O	1	
+
+1	J'	J'	Q	1	
+2	y	y	Q	1	
+3	retournerai	retourner	V	1	
+4	cette	ce	D	1	
+5	année	année	N	1	
+6	encore	encore	G	1	
+7	à	à	P	1	
+8	partir	partir	V	1	
+9	du_13_août_2011	du_13_août_2011	G	1	ne=Date
+10	...	...	O	1	
+11	j'	j'	Q	1	
+12	ai	avoir	V	1	
+13	hâte	hâte	N	1	
+14	...	...	O	1	
+15	;	;	O	1	
+16	)	)	O	1	
+

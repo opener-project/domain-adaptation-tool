@@ -1,0 +1,132 @@
+1	Dilettanti	dilettante	N	1	
+2	allo	allo	P	1	
+3	sbaraglio	sbaraglio	N	1	
+4	!	!	O	1	
+
+1	Argentario_Camping_Village	argentario_camping_village	R	1	ne=Hotel
+2	?	?	O	1	
+
+1	Mai	mai	A	1	
+2	più	piu'	R	1	
+3	,	,	O	1	
+4	grazie	grazia	N	1	
+5	!	!	O	1	
+
+1	Simpatici	simpatico	G	1	
+2	sono	essere	V	1	
+3	simpatici	simpatico	G	1	
+4	,	,	O	1	
+5	e	e	Q	1	
+6	per	per	P	1	
+7	l'	lo	D	1	
+8	ordinaria	ordinario	G	1	
+9	amministrazione	amministrazione	N	1	
+10	sono	essere	V	1	
+11	anche	anche	Q	1	
+12	discreti	discreto	G	1	
+13	ma	ma	Q	1	
+14	...	...	O	1	
+15	se	se	Q	1	
+16	c'	c'	A	1	
+17	è	essere	V	1	
+18	un	uno	D	1	
+19	nubifragio	nubifragio	N	1	
+20	come	come	A	1	
+21	il	lo	D	1	
+22	27_luglio_2011	27_luglio_2011	G	1	ne=Date
+23	...	...	O	1	
+24	dilettanti	dilettante	N	1	
+25	allo	allo	P	1	
+26	sbaraglio	sbaraglio	N	1	
+27	!	!	O	1	
+28	!	!	O	1	
+29	!	!	O	1	
+
+1	Nessuna	nessuno	G	1	
+2	chiusura	chiusura	N	1	
+3	del	del	P	1	
+4	parcheggio	parcheggio	N	1	
+5	,	,	O	1	
+6	che	che	Q	1	
+7	è	è	O	1	
+8	fatto	fare	V	1	
+9	male	mala	N	1	
+10	e	e	Q	1	
+11	crea	creare	V	1	
+12	un	uno	D	1	
+13	lago	lago	N	1	
+14	all'	all'	P	1	
+15	ingresso	ingresso	N	1	
+16	,	,	O	1	
+17	scarsa	scarso	G	1	
+18	assistenza	assistenza	N	1	
+19	dopo	dopo	P	1	
+20	...	...	O	1	
+21	risultato	risultare	V	1	
+22	6	6	N	1	
+23	.	.	O	1	
+
+1	000	000	G	1	
+2	Euro	euro	R	1	
+3	di	di	P	1	
+4	danni	danno	N	1	
+5	all'	all'	P	1	
+6	auto	auto	N	1	
+7	!	!	O	1	
+
+1	E	e	Q	1	
+2	loro	loro	Q	1	
+3	?	?	O	1	
+
+1	Latitanti	latitante	N	1	
+2	!	!	O	1	
+3	!	!	O	1	
+4	!	!	O	1	
+
+1	Loro	loro	Q	1	
+2	e	e	Q	1	
+3	la	lo	D	1	
+4	loro	loro	G	1	
+5	assicurazione	assicurazione	N	1	
+6	...	...	O	1	
+
+1	Pensate	pensare	V	1	
+2	che	che	Q	1	
+3	non	non	A	1	
+4	rispondono	rispondere	V	1	
+5	neanche	neanche	A	1	
+6	agli	agli	P	1	
+7	avvocati	avvocato	N	1	
+8	!	!	O	1	
+9	!	!	O	1	
+10	!	!	O	1	
+
+1	Cosa	cosa	Q	1	
+2	fare	fare	V	1	
+3	con	con	P	1	
+4	certi	certo	G	1	
+5	personaggi	personaggio	N	1	
+6	?	?	O	1	
+
+1	Sono	essere	V	1	
+2	come	come	A	1	
+3	l'	lo	D	1	
+4	AIDS	aids	N	1	
+5	...	...	O	1	
+6	se	se	Q	1	
+7	li	li	Q	1	
+8	conosci	conoscere	V	1	
+9	li	li	Q	1	
+10	eviti	evitare	V	1	
+11	,	,	O	1	
+12	se	se	Q	1	
+13	non	non	A	1	
+14	li	li	Q	1	
+15	conosci	conoscere	V	1	
+16	...	...	O	1	
+17	povero	povero	G	1	
+18	te	te	Q	1	
+19	!	!	O	1	
+20	!	!	O	1	
+21	!	!	O	1	
+

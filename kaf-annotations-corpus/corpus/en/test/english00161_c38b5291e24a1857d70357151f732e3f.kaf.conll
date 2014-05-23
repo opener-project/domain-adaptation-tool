@@ -1,0 +1,61 @@
+1	5	5	O	1	
+2	stars	star	N	1	
+
+1	Great	great	G	1	
+2	design	design	N	1	
+3	hotel	hotel	N	1	
+4	,	,	O	1	
+5	where	where	O	1	
+6	every	every	D	1	
+7	detail	detail	N	1	
+8	is	be	V	1	
+9	looked	look	V	1	
+10	after	after	A	1	
+11	.	.	O	1	
+
+1	The	the	D	1	
+2	villa	villa	N	1	
+3	was	be	V	1	
+4	very	very	A	1	
+5	spacious	spacious	G	1	
+6	,	,	O	1	
+7	with	with	P	1	
+8	living	living	N	1	
+9	room	room	N	1	
+10	with	with	P	1	
+11	private	private	G	1	
+12	terrace	terrace	N	1	
+13	,	,	O	1	
+14	fantastic	fantastic	G	1	
+15	bathroom	bathroom	N	1	
+16	and	and	C	1	
+17	a	a	D	1	
+18	really	really	A	1	
+19	nice	nice	G	1	
+20	bed	bed	N	1	
+21	.	.	O	1	
+
+1	Staff	Staff	R	1	
+2	was	be	V	1	
+3	always	always	A	1	
+4	happy	happy	G	1	
+5	to	to	P	1	
+6	comply	comply	V	1	
+7	with	with	P	1	
+8	our	our	Q	1	
+9	wishes	wish	N	1	
+10	.	.	O	1	
+
+1	Absolutely	absolutely	A	1	
+2	unique	unique	G	1	
+3	pools	pool	N	1	
+4	.	.	O	1	
+
+1	Excellent	excellent	G	1	
+2	restaurants	restaurant	N	1	
+3	offering	offer	V	1	
+4	a	a	D	1	
+5	wide	wide	G	1	
+6	range	range	N	1	
+7	.	.	O	1	
+

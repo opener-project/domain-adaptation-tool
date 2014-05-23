@@ -1,0 +1,48 @@
+1	Good	good	G	1	
+2	4	4	O	1	
+3	stars	star	N	1	
+4	hotel	hotel	N	1	
+
+1	The_Empire_Palace	the_Empire_Palace	R	1	ne=Hotel
+2	is	be	V	1	
+3	a	a	D	1	
+4	good	good	G	1	
+5	4	4	O	1	
+6	stars	star	N	1	
+7	hotel	hotel	N	1	
+8	.	.	O	1	
+
+1	Good	good	G	1	
+2	staff	staff	N	1	
+3	,	,	O	1	
+4	comfortable	comfortable	G	1	
+5	bed	bed	N	1	
+6	and	and	C	1	
+7	great	great	G	1	
+8	breakfast	breakfast	N	1	
+9	.	.	O	1	
+
+1	Both	both	D	1	
+2	room	room	N	1	
+3	and	and	C	1	
+4	bathroom	bathroom	N	1	
+5	were	be	V	1	
+6	a	a	D	1	
+7	bit	bit	N	1	
+8	small	small	G	1	
+9	though	though	A	1	
+10	.	.	O	1	
+
+1	It	it	Q	1	
+2	’s	’s	V	1	
+3	within	within	P	1	
+4	walking	walk	V	1	
+5	distance	distance	N	1	
+6	of	of	P	1	
+7	Rome	Rome	R	1	ne=Location
+8	’s	’s	V	1	
+9	most	much	A	1	
+10	important	important	G	1	
+11	sights	sight	N	1	
+12	.	.	O	1	
+

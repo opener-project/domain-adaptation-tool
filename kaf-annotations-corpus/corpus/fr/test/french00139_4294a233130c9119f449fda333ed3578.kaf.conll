@@ -1,0 +1,47 @@
+1	Superbe	superbe	N	1	
+
+1	C'	C'	Q	1	
+2	est	être	V	1	
+3	grâce	grâce	N	1	
+4	à	à	P	1	
+5	l'	le	D	1	
+6	hotel_Madison	hotel_Madison	N	1	ne=Hotel
+7	qui	qui	P	1	
+8	offrait	offrir	V	1	
+9	ce	ce	D	1	
+10	Pâques_2013	pâque_2013	G	1	ne=Date
+11	des	des	P	1	
+12	billets	billet	N	1	
+13	à	à	P	1	
+14	tous	tout	G	1	
+15	ses	son	D	1	
+16	clients	client	N	1	
+17	qui	qui	P	1	
+18	restaient	rester	V	1	
+19	au	au	P	1	
+20	moins	moins	G	1	
+21	trois	trois	D	1	
+22	jours	jour	N	1	
+23	,	,	O	1	
+24	que	que	C	1	
+25	nous	lui	Q	1	
+26	l'	l'	Q	1	
+27	avons	avoir	V	1	
+28	visité	visiter	V	1	
+29	pour	pour	P	1	
+30	la	le	D	1	
+31	première	premier	G	1	
+32	fois	foi	N	1	
+33	.	.	O	1	
+
+1	C'	C'	Q	1	
+2	est	être	V	1	
+3	splendide	splendide	G	1	
+4	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	y	y	Q	1	
+3	retournerons	retourner	V	1	
+4	encore	encore	G	1	
+5	.	.	O	1	
+

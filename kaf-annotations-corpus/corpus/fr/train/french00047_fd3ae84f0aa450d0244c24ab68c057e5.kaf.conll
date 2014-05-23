@@ -1,0 +1,56 @@
+1	Bien	Bien	G	1	
+2	pour	pour	P	1	
+3	les	le	D	1	
+4	enfants	enfant	N	1	
+
+1	un	un	P	1	
+2	peu	peu	G	1	
+3	lassant	lassant	G	1	
+4	pour	pour	P	1	
+5	les	le	D	1	
+6	parents	parent	N	1	
+7	mais	mais	C	1	
+8	les	le	D	1	
+9	enfants	enfant	N	1	
+10	s'	s'	Q	1	
+11	éclatent	éclater	V	1	
+12	.	.	O	1	
+
+1	Dommage	dommage	G	1	
+2	que	que	C	1	
+3	le	le	D	1	
+4	téléphérique	téléphérique	N	1	
+5	qui	qui	P	1	
+6	y	y	Q	1	
+7	est	être	V	1	
+8	situé	situer	V	1	
+9	soit	soit	G	1	
+10	fermé	fermer	V	1	
+11	depuis	depuis	P	1	
+12	sept_2012	sept_2012	G	1	ne=Time
+13	et	et	C	1	
+14	qu'	qu'	C	1	
+15	à	à	P	1	
+16	l'	le	D	1	
+17	office	office	N	1	
+18	du	du	P	1	
+19	tourisme	tourisme	N	1	
+20	;	;	O	1	
+21	pas	pas	G	1	
+22	de	de	P	1	
+23	la	le	D	1	
+24	commune	commune	N	1	
+25	même	même	G	1	
+26	certes	certes	G	1	
+27	,	,	O	1	
+28	mais	mais	C	1	
+29	pas	pas	G	1	
+30	loin	loin	G	1	
+31	,	,	O	1	
+32	on	on	Q	1	
+33	nous	lui	Q	1	
+34	l'	l'	Q	1	
+35	ai	avoir	V	1	
+36	conseillé	conseiller	V	1	
+37	!	!	O	1	
+

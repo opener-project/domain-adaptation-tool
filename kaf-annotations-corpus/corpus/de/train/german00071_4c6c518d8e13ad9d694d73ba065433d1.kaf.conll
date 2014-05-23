@@ -1,0 +1,60 @@
+1	Eine	eine	D	1	
+2	Katastrophe	Katastrophe	N	1	
+3	!	!	O	1	
+
+1	Ein	eine	D	1	
+2	völlig	völlig	G	1	
+3	abgewohnte	abgewohnte	O	1	
+4	Hotel	Hotel	N	1	
+5	mit	mit	P	1	
+6	winziges	winzig	G	1	
+7	Zimmern	Zimmer	N	1	
+8	durch	durch	P	1	
+9	die	die	D	1	
+10	teilweise	teilweise	G	1	
+11	(	(	O	1	
+12	kein	keine	Q	1	
+13	Witz	Witz	N	1	
+14	!	!	O	1	
+15	)	)	O	1	
+16	direkt	direkt	G	1	
+17	der	die	D	1	
+18	Aufzug	Aufzug	N	1	
+19	geht	gehen	V	1	
+20	.	.	O	1	
+
+1	Ein	eine	D	1	
+2	winziger	winzig	G	1	
+3	Aufzug	Aufzug	N	1	
+4	,	,	O	1	
+5	in	in	P	1	
+6	dem	die	Q	1	
+7	nicht	nicht	O	1	
+8	einmal	einmal	A	1	
+9	eine	eine	D	1	
+10	Person	Person	N	1	
+11	mit	mit	P	1	
+12	großem	groß	G	1	
+13	Koffer	Koffer	N	1	
+14	reinpasst	reinpassen	V	1	
+15	.	.	O	1	
+
+1	Eine	eine	D	1	
+2	Treppe	Treppe	N	1	
+3	,	,	O	1	
+4	die	die	Q	1	
+5	sehr	sehr	A	1	
+6	steil	steil	G	1	
+7	und	und	C	1	
+8	verschlungen	verschlungen	G	1	
+9	ist	sein	V	1	
+10	.	.	O	1	
+
+1	Definitiv	definitiv	G	1	
+2	ehr	ehren	V	1	
+3	ein	eine	D	1	
+4	2	2	O	1	
+5	Sterne	Stern	N	1	
+6	Hotel	Hotel	N	1	
+7	!	!	O	1	
+

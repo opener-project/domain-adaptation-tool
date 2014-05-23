@@ -1,0 +1,55 @@
+1	Ne	Ne	G	1	
+2	fait	faire	V	1	
+3	pas	pas	G	1	
+4	envie	envie	N	1	
+
+1	hors	hors	P	1	
+2	saison	saison	N	1	
+3	c'	c'	Q	1	
+4	est	être	V	1	
+5	un	un	D	1	
+6	parc	parc	N	1	
+7	de	de	P	1	
+8	loisir	loisir	N	1	
+9	en	en	P	1	
+10	face	face	N	1	
+11	couvert	couvert	N	1	
+12	qui	qui	P	1	
+13	est	être	V	1	
+14	disponible	disponible	G	1	
+15	.	.	O	1	
+
+1	10	10	D	1	
+2	euros	euro	N	1	
+3	par	par	P	1	
+4	enfant	enfant	N	1	
+5	avec	avec	P	1	
+6	bien	bien	G	1	
+7	sur	sur	P	1	
+8	en	en	D	1	
+9	temps	temps	N	1	
+10	de	de	P	1	
+11	pluie	pluie	N	1	
+12	une	un	D	1	
+13	foule	foule	N	1	
+14	horrible	horrible	G	1	
+15	.	.	O	1	
+
+1	En	En	P	1	
+2	face	face	N	1	
+3	les	le	D	1	
+4	manèges	manège	N	1	
+5	sont	être	V	1	
+6	en	en	P	1	
+7	attente	attente	N	1	
+8	mais	mais	C	1	
+9	ça	cela	Q	1	
+10	donne	donner	V	1	
+11	pas	pas	G	1	
+12	envie	envie	N	1	
+13	par	par	P	1	
+14	rapport	rapport	N	1	
+15	à	à	P	1	
+16	marseillan	marseillan	N	1	
+17	.	.	O	1	
+

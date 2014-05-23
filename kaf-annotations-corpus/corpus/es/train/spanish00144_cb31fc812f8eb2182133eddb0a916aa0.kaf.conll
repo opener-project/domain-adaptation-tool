@@ -1,0 +1,47 @@
+1	Muy	Muy	R	1	
+2	bien	bien	N	1	
+3	todo	todo	N	1	
+
+1	Muy	Muy	R	1	
+2	recomendable	recomendable	N	1	
+3	,	,	O	1	
+4	recomendado	recomendado	V	1	
+5	para	para	N	1	
+6	todos	todos	N	1	
+7	.	.	O	1	
+
+1	Yo	Yo	R	1	
+2	fui	fui	V	1	
+3	por	por	G	1	
+4	trabajo	trabajo	N	1	
+5	y	y	G	1	
+6	todo	todo	N	1	
+7	fue	fue	N	1	
+8	mejjor	mejjor	O	1	
+9	de	de	O	1	
+10	lo	lo	O	1	
+11	esperado	esperado	O	1	
+12	,	,	O	1	
+13	asi	asi	O	1	
+14	que	que	V	1	
+15	no	no	D	1	
+16	lo	lo	N	1	
+17	dudeis	dudeis	N	1	
+18	,	,	O	1	
+19	En	En	R	1	
+20	cuanto	cuanto	V	1	
+21	a	a	D	1	
+22	calidad	calidad	G	1	
+23	precio	precio	G	1	
+24	tambien	tambien	G	1	
+25	estaba	estaba	N	1	
+26	bastante	bastante	N	1	
+27	bien	bien	N	1	
+28	.	.	O	1	
+
+1	No	no	D	1	
+2	os	os	O	1	
+3	lo	lo	O	1	
+4	perdais	perdais	N	1	
+5	...	...	O	1	
+

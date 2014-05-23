@@ -1,0 +1,46 @@
+1	A	a	D	1	
+2	good	good	G	1	
+3	choice	choice	N	1	
+
+1	Stayed	stay	V	1	
+2	at	at	P	1	
+3	the	the	D	1	
+4	Ritz_·_Carlton	Ritz_·_Carlton	R	1	ne=Hotel
+5	South_Beach	South_Beach	R	1	ne=Location
+6	due	due	G	1	
+7	to	to	P	1	
+8	a	a	D	1	
+9	conference	conference	N	1	
+10	and	and	C	1	
+11	the	the	D	1	
+12	experience	experience	N	1	
+13	was	be	V	1	
+14	excellent	excellent	G	1	
+15	.	.	O	1	
+
+1	Friendly	friendly	A	1	
+2	staff	staff	N	1	
+3	,	,	O	1	
+4	great	great	G	1	
+5	room	room	N	1	
+6	,	,	O	1	
+7	good	good	G	1	
+8	breakfast	breakfast	N	1	
+9	,	,	O	1	
+10	pool	pool	N	1	
+11	and	and	C	1	
+12	gym	gym	N	1	
+13	.	.	O	1	
+
+1	A	a	D	1	
+2	good	good	G	1	
+3	choice	choice	N	1	
+4	for	for	P	1	
+5	those	those	D	1	
+6	who	who	Q	1	
+7	enjoy	enjoy	V	1	
+8	comfort	comfort	N	1	
+9	and	and	C	1	
+10	luxury	luxury	N	1	
+11	.	.	O	1	
+

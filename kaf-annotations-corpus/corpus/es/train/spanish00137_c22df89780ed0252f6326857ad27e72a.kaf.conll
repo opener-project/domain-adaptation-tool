@@ -1,0 +1,46 @@
+1	Gran	Gran	R	1	
+2	sitio	sitio	N	1	
+3	para	para	N	1	
+4	descansar	descansar	N	1	
+5	.	.	O	1	
+
+1	Mi	Mi	R	1	
+2	estancia	estancia	N	1	
+3	en	en	P	1	
+4	el	el	N	1	
+5	hotel	hotel	N	1	
+6	Praga	Praga	R	1	
+7	fue	fue	N	1	
+8	bastante	bastante	N	1	
+9	satisfactoria	satisfactoria	N	1	
+10	,	,	O	1	
+11	estuve	estuve	N	1	
+12	con	con	A	1	
+13	mi	mi	G	1	
+14	pareja	pareja	N	1	
+15	y	y	A	1	
+16	pudimos	pudimos	V	1	
+17	disfrutar	disfrutar	G	1	
+18	de	de	P	1	
+19	la	la	D	1	
+20	ciudad	ciudad	G	1	
+21	de	de	O	1	
+22	Madrid	Madrid	R	1	
+23	y	y	G	1	
+24	descansar	descansar	N	1	
+25	en	en	P	1	
+26	el	el	N	1	
+27	hotel	hotel	N	1	
+28	.	.	O	1	
+
+1	Apenas	Apenas	R	1	
+2	ruido	ruido	N	1	
+3	,	,	O	1	
+4	bien	bien	G	1	
+5	situado	situado	N	1	
+6	y	y	G	1	
+7	un	un	G	1	
+8	trato	trato	N	1	
+9	agradable	agradable	G	1	
+10	.	.	O	1	
+

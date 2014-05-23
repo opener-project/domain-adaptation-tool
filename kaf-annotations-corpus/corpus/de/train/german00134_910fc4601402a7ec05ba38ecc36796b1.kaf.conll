@@ -1,0 +1,111 @@
+1	Das	die	D	1	
+2	Spitzenhotel	Spitzenhotel	N	1	
+3	Emirates_Palace	Emirat_Palace	O	1	ne=Hotel
+4	in	in	P	1	
+5	Abu_Dhabi	Abu_Dhabi	O	1	ne=Location
+
+1	Das_Emirates_Palace	die_Emirat_Palace	O	1	ne=Hotel
+2	ist	sein	V	1	
+3	ein	eine	D	1	
+4	6	6	O	1	
+5	Sterne	Stern	N	1	
+6	Spitzenhotel	Spitzenhotel	N	1	
+7	und	und	C	1	
+8	wie	wie	C	1	
+9	der	die	D	1	
+10	Name	Name	N	1	
+11	schon	schon	A	1	
+12	sagt	sagen	V	1	
+13	,	,	O	1	
+14	im	in	P	1	
+15	luxeriösen	luxeriösen	O	1	
+16	Palaststil	Palaststil	O	1	
+17	,	,	O	1	
+18	ein	eine	D	1	
+19	Hotel	Hotel	N	1	
+20	und	und	C	1	
+21	sein	sein	Q	1	
+22	Service	Service	N	1	
+23	wie	wie	C	1	
+24	aus	aus	P	1	
+25	Tausend	Tausend	N	1	
+26	und	und	C	1	
+27	einer	eine	D	1	
+28	Nacht	Nacht	N	1	
+29	.	.	O	1	
+
+1	Unser	unser	Q	1	
+2	siebentägiger	siebentägig	G	1	
+3	Aufenthalt	Aufenthalt	N	1	
+4	war	sein	V	1	
+5	ein	eine	D	1	
+6	außergewöhnliches	außergewöhnlich	G	1	
+7	Erlebnis	Erlebnis	N	1	
+8	,	,	O	1	
+9	wir	wir	Q	1	
+10	haben	haben	V	1	
+11	uns	wir	Q	1	
+12	sehr	sehr	A	1	
+13	wohl	wohl	A	1	
+14	gefühlt	fühlen	V	1	
+15	und	und	C	1	
+16	können	können	V	1	
+17	dieses	dies	Q	1	
+18	phantastische	phantastisch	G	1	
+19	Hotel	Hotel	N	1	
+20	wirklich	wirklich	G	1	
+21	sehr	sehr	A	1	
+22	empfehlen	empfehlen	V	1	
+23	.	.	O	1	
+
+1	Die	die	D	1	
+2	deutschen	deutsch	G	1	
+3	,	,	O	1	
+4	bzw	bzw	O	1	
+5	,	,	O	1	
+6	deutschsprachigen	deutschsprachig	G	1	
+7	Guast	Guast	O	1	
+8	Relation	Relation	N	1	
+9	Officer	Officer	O	1	
+10	Livia	Livia	R	1	ne=Person
+11	,	,	O	1	
+12	Valentina_,	Valentina_,	O	1	ne=Person
+13	Natalie	Natalie	R	1	ne=Person
+14	und	und	C	1	
+15	Eileen	Eileen	R	1	ne=Person
+16	waren	sein	V	1	
+17	in	in	P	1	
+18	ihrer	ihr	Q	1	
+19	sympthischen	sympthischen	O	1	
+20	Art	Art	N	1	
+21	und	und	C	1	
+22	ihrer	ihr	Q	1	
+23	Zuvorkommenheit	Zuvorkommenheit	N	1	
+24	den	die	D	1	
+25	Gästen	Gast	N	1	
+26	gegenüber	gegenüber	V	1	
+27	,	,	O	1	
+28	die	die	Q	1	
+29	des	die	D	1	
+30	Englischen	Englische	N	1	
+31	nicht	nicht	O	1	
+32	mächtig	mächtig	G	1	
+33	sind	sein	V	1	
+34	,	,	O	1	
+35	eine	eine	D	1	
+36	sehr	sehr	A	1	
+37	große	groß	G	1	
+38	Hilfe	Hilfe	N	1	
+39	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	werden	werden	V	1	
+3	gerne	gerne	A	1	
+4	einmal	einmal	A	1	
+5	wiederkommen	wiederkommen	V	1	
+6	.	.	O	1	
+
+1	Familie_Brigitte	Familie_Brigitte	R	1	ne=Person
+2	und	und	C	1	
+3	Günther_L.	Günther_L.	R	1	ne=Person
+

@@ -1,0 +1,47 @@
+1	Sensational	sensational	G	1	
+2	located	locate	V	1	
+3	superfriendly	superfriendly	A	1	
+4	hotel	hotel	N	1	
+
+1	Top	Top	R	1	
+2	of	of	P	1	
+3	the	the	D	1	
+4	Tops	Tops	R	1	
+5	.	.	O	1	
+
+1	the	the	D	1	
+2	staff	staff	N	1	
+3	was	be	V	1	
+4	frienly	frienly	A	1	
+5	and	and	C	1	
+6	the	the	D	1	
+7	rooms	room	N	1	
+8	were	be	V	1	
+9	new	new	G	1	
+10	renovarted	renovarted	V	1	
+11	in	in	P	1	
+12	a	a	D	1	
+13	luxury	luxury	N	1	
+14	modern	modern	G	1	
+15	style.	style.	N	1	
+16	very	very	A	1	
+17	clean	clean	G	1	
+18	and	and	C	1	
+19	fine.	fine.	V	1	
+20	a	a	D	1	
+21	lot	lot	N	1	
+22	of	of	P	1	
+23	opportunitys	opportunitys	N	1	
+24	possible	possible	G	1	
+25	and	and	C	1	
+26	an	a	D	1	
+27	ideal	ideal	G	1	
+28	hotel	hotel	N	1	
+29	for	for	P	1	
+30	a	a	D	1	
+31	buiseness	buiseness	N	1	
+32	stay	stay	N	1	
+33	or	or	C	1	
+34	city	city	N	1	
+35	trip	trip	N	1	
+

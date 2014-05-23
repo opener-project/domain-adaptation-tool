@@ -1,0 +1,73 @@
+1	Terribile	terribile	G	1	
+2	!	!	O	1	
+
+1	incredibilmente	incredibilmente	A	1	
+2	squallido	squallido	G	1	
+3	!	!	O	1	
+4	!	!	O	1	
+
+1	sporco	sporco	G	1	
+2	,	,	O	1	
+3	intonaco	intonaco	R	1	
+4	che	che	Q	1	
+5	cadeva	cadere	V	1	
+6	a	a	P	1	
+7	pezzi	pezzo	N	1	
+8	,	,	O	1	
+9	stanza	stanza	N	1	
+10	a	a	P	1	
+11	l	l	N	1	
+12	piano	piano	N	1	
+13	terra	terra	N	1	
+14	con	con	P	1	
+15	finestra	finestra	N	1	
+16	su	su	P	1	
+17	cortiletto	cortiletto	V	1	
+18	usato	usare	V	1	
+19	come	come	A	1	
+20	rimessa	rimesso	G	1	
+21	.	.	O	1	
+
+1	per	per	P	1	
+2	usufruire	usufruire	V	1	
+3	della	della	P	1	
+4	cassaforte	cassaforte	N	1	
+5	bisognava	bisognare	V	1	
+6	eseguire	eseguire	V	1	
+7	una	uno	D	1	
+8	procedura	procedura	N	1	
+9	con	con	P	1	
+10	due	due	G	1	
+11	chiavi	chiave	N	1	
+12	da	da	P	1	
+13	inserire	inserire	V	1	
+14	contemporaneamente	contemporaneamente	A	1	
+15	con	con	P	1	
+16	il	lo	D	1	
+17	tipo	tipo	N	1	
+18	della	della	P	1	
+19	reception	reception	N	1	
+20	che	che	Q	1	
+21	ogni	ogni	G	1	
+22	volta	volta	N	1	
+23	sembrava	sembrare	V	1	
+24	anche	anche	Q	1	
+25	scocciato	scocciare	V	1	
+26	!	!	O	1	
+27	!	!	O	1	
+
+1	mai	mai	A	1	
+2	piu	piu	A	1	
+3	!	!	O	1	
+4	!	!	O	1	
+
+1	unica	unico	G	1	
+2	nota	nota	N	1	
+3	positiva	positivo	G	1	
+4	:	:	O	1	
+5	la	lo	D	1	
+6	posizione	posizione	N	1	
+7	vicino	vicino	N	1	
+8	alla	alla	P	1	
+9	rambla	rambla	N	1	ne=POI
+

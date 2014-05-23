@@ -1,0 +1,33 @@
+1	PEUT	pouvoir	V	1	
+2	MIEUX	MIEUX	G	1	
+3	FAIRE	FAIRE	N	1	
+4	!	!	O	1	
+
+1	Pas	Pas	G	1	
+2	assez	assez	G	1	
+3	propre	propre	G	1	
+4	à	à	P	1	
+5	mon	son	D	1	
+6	gaût	gaût	N	1	
+7	,	,	O	1	
+8	celuis	celuis	P	1	
+9	de	de	P	1	
+10	SAINT_CYPRIEN	saint_CYPRIEN	N	1	ne=Location
+11	est	être	V	1	
+12	plus	plus	G	1	
+13	grand	grand	G	1	
+14	et	et	C	1	
+15	surtout	surtout	G	1	
+16	plus	plus	G	1	
+17	propre	propre	G	1	
+18	!	!	O	1	
+
+1	Nous	lui	Q	1	
+2	ne	ne	G	1	
+3	fréquenterons	fréquenter	V	1	
+4	plus	plus	G	1	
+5	celui	celui	P	1	
+6	de	de	P	1	
+7	PORT_LEUCATE	port_LEUCATE	N	1	ne=Location
+8	.	.	O	1	
+

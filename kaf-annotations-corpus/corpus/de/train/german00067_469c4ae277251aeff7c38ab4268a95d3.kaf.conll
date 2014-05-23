@@ -1,0 +1,61 @@
+1	Eine_Woche	eine_Woche	N	1	ne=Date
+2	Amsterdam	Amsterdam	R	1	ne=Location
+
+1	In	in	P	1	
+2	guter	gut	G	1	
+3	Lage	Lage	N	1	
+4	und	und	C	1	
+5	Stadtnähe	Stadtnähe	N	1	
+6	.	.	O	1	
+
+1	Aber	aber	C	1	
+2	Amsterdam	Amsterdam	R	1	ne=Location
+3	ist	sein	V	1	
+4	an	an	P	1	
+5	sich	sich	Q	1	
+6	nicht	nicht	O	1	
+7	sehr	sehr	A	1	
+8	groß	groß	G	1	
+9	und	und	C	1	
+10	alles	alle	Q	1	
+11	leicht	leicht	G	1	
+12	erreichbar	erreichbar	G	1	
+13	.	.	O	1	
+
+1	Das	die	D	1	
+2	Badezimmer	Badezimmer	N	1	
+3	war	sein	V	1	
+4	eher	eher	A	1	
+5	sehr	sehr	A	1	
+6	stark	stark	G	1	
+7	gebraucht	brauchen|gebrauchen	V	1	
+8	,	,	O	1	
+9	wie	wie	C	1	
+10	das	die	D	1	
+11	ganze	ganz	G	1	
+12	Hotel	Hotel	N	1	
+13	einen	eine	D	1	
+14	verbrauchten	verbraucht	G	1	
+15	Charme	Charme	N	1	
+16	versprüht	versprühen	V	1	
+17	.	.	O	1	
+
+1	Die	die	D	1	
+2	Preise	Preis	N	1	
+3	schwanken	schwanken	V	1	
+4	sehr	sehr	A	1	
+5	stark	stark	G	1	
+6	.	.	O	1	
+
+1	Es	es	Q	1	
+2	ist	sein	V	1	
+3	aber	aber	A	1	
+4	in	in	P	1	
+5	unserem	unser	Q	1	
+6	Fall	Fall	N	1	
+7	das	die	D	1	
+8	Verhältnis	Verhältnis	N	1	
+9	OK	OK	N	1	
+10	gewesen	sein	V	1	
+11	.	.	O	1	
+

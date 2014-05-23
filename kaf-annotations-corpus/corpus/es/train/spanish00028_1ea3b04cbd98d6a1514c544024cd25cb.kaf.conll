@@ -1,0 +1,44 @@
+1	Perfecto	Perfecto	R	1	
+
+1	Pasamos	pasamos	N	1	
+2	unos	unos	N	1	
+3	días	días	N	1	
+4	en	en	O	1	
+5	este	este	O	1	
+6	maravilloso	maravilloso	O	1	
+7	hotel	hotel	O	1	
+8	de	de	O	1	
+9	Madrid	Madrid	R	1	
+10	.	.	O	1	
+
+1	El	El	R	1	
+2	precio	precio	N	1	
+3	es	es	V	1	
+4	alto	alto	A	1	
+5	pero	pero	O	1	
+6	la	la	O	1	
+7	calidad	calidad	O	1	
+8	es	es	O	1	
+9	inmejorable	inmejorable	O	1	
+10	.	.	O	1	
+
+1	La	La	R	1	
+2	habitación	habitación	N	1	
+3	tenía	tenía	N	1	
+4	todo	todo	P	1	
+5	tipo	tipo	O	1	
+6	de	de	O	1	
+7	comodidades	comodidades	O	1	
+8	y	y	A	1	
+9	quedamos	quedamos	V	1	
+10	muy	muy	G	1	
+11	contentos	contentos	N	1	
+12	con	con	G	1	
+13	el	el	N	1	
+14	trato	trato	P	1	
+15	que	que	V	1	
+16	recibimos	recibimos	N	1	
+17	del	del	G	1	
+18	personal	personal	N	1	
+19	.	.	O	1	
+

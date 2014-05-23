@@ -1,0 +1,126 @@
+1	Pas	Pas	G	1	
+2	mal	mal	G	1	
+3	mais	mais	C	1	
+4	il	il	Q	1	
+5	y	y	Q	1	
+6	a	avoir	V	1	
+7	mieux	mieux	G	1	
+8	!	!	O	1	
+9	!	!	O	1	
+
+1	Pas	Pas	G	1	
+2	mal	mal	G	1	
+3	mais	mais	C	1	
+4	pas	pas	G	1	
+5	extraordinaire	extraordinaire	G	1	
+6	comme	comme	C	1	
+7	on	on	Q	1	
+8	s'	s'	Q	1	
+9	y	y	Q	1	
+10	attendait	attendre	V	1	
+11	...	...	O	1	
+
+1	Le	le	D	1	
+2	bassin	bassin	N	1	
+3	des	des	P	1	
+4	manchots	manchot	N	1	
+5	est	être	V	1	
+6	anecdotique	anecdotique	G	1	
+7	.	.	O	1	
+
+1	Beaux	beau	N	1	
+2	aquariums	aquariums	G	1	
+3	avec	avec	P	1	
+4	des	un	D	1	
+5	requins	requin	N	1	
+6	+	+	G	1	
+7	+	+	G	1	
+8	+	+	G	1	
+9	.	.	O	1	
+
+1	Partie	partir	V	1	
+2	mangrove	mangrove	V	1	
+3	bien	bien	G	1	
+4	reproduite	reproduire	V	1	
+5	.	.	O	1	
+
+1	Beaux	beau	N	1	
+2	poissons	poissons	P	1	
+3	exotiques	exotique	G	1	
+4	.	.	O	1	
+
+1	Restauration	restauration	N	1	
+2	:	:	O	1	
+3	à	à	P	1	
+4	revoir	revoir	V	1	
+5	!	!	O	1	
+
+1	Impossible	impossible	G	1	
+2	de	de	P	1	
+3	manger	manger	V	1	
+4	autrement	autrement	G	1	
+5	que	que	C	1	
+6	des	un	D	1	
+7	sandwichs	sandwich	N	1	
+8	sur	sur	P	1	
+9	un	un	D	1	
+10	coin	coin	N	1	
+11	de	de	P	1	
+12	table	table	N	1	
+13	après	après	P	1	
+14	45	45	D	1	
+15	minutes	minute	N	1	
+16	de	de	P	1	
+17	queue	queue	N	1	
+18	.	.	O	1	
+
+1	Résultat	résultat	N	1	
+2	,	,	O	1	
+3	sortir	sortir	V	1	
+4	de	de	P	1	
+5	Nausicaa	Nausicaa	N	1	
+6	pour	pour	P	1	
+7	aller	aller	V	1	
+8	manger	manger	V	1	
+9	dans	dans	P	1	
+10	une	un	D	1	
+11	brasserie	brasserie	N	1	
+12	sur	sur	P	1	
+13	le	le	D	1	
+14	port	port	N	1	
+15	.	.	O	1	
+
+1	Pas	Pas	G	1	
+2	terrible	terrible	G	1	
+3	mais	mais	C	1	
+4	au	au	P	1	
+5	moins	moins	G	1	
+6	on	on	Q	1	
+7	ne	ne	G	1	
+8	fait	faire	V	1	
+9	pas	pas	G	1	
+10	la	le	D	1	
+11	queue	queue	N	1	
+12	et	et	C	1	
+13	on	on	Q	1	
+14	prend	prendre	V	1	
+15	l'	le	D	1	
+16	air	air	N	1	
+17	!	!	O	1	
+
+1	Restaurant_"_gastro_"	restaurer_&amp;quot;_gastro_&amp;quot;	O	1	ne=Restaurant
+2	dans	dans	P	1	
+3	le	le	D	1	
+4	centre	centre	N	1	
+5	sous	sous	P	1	
+6	condition	condition	N	1	
+7	de	de	P	1	
+8	réservation	réservation	N	1	
+9	!	!	O	1	
+10	!	!	O	1	
+
+1	Bon	bon	N	1	
+2	à	à	P	1	
+3	savoir	savoir	V	1	
+4	...	...	O	1	
+

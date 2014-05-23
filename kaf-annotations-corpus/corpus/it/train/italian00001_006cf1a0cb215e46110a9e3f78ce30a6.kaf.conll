@@ -1,0 +1,118 @@
+1	Piccolo	piccolo	N	1	
+2	e	e	Q	1	
+3	non	non	A	1	
+4	custodito	custodire	V	1	
+
+1	Zona	zona	A	1	
+2	abbastanza	abbastanza	A	1	
+3	centrale	centrale	G	1	
+4	,	,	O	1	
+5	ma	ma	Q	1	
+6	hotel	hotel	N	1	ne=Hotel
+7	molto	molto	A	1	
+8	piccolo	piccolo	G	1	
+9	.	.	O	1	
+
+1	Al	al	P	1	
+2	nostro	nostro	G	1	
+3	arrivo	arrivo	N	1	
+4	in	in	P	1	
+5	hotel	hotel	N	1	ne=Hotel
+6	il	lo	D	1	
+7	check	check	N	1	
+8	·	·	R	1	
+9	in	in	P	1	
+10	è	è	R	1	
+11	stato	essere	V	1	
+12	interminabile	interminabile	G	1	
+13	,	,	O	1	
+14	causa	causa	N	1	
+15	problemi	problema	N	1	
+16	con	con	P	1	
+17	il	lo	D	1	
+18	computer	computer	N	1	
+19	(	(	O	1	
+20	la	lo	D	1	
+21	prenotazione	prenotazione	N	1	
+22	era	essere	V	1	
+23	sparita	sparire	V	1	
+24	)	)	O	1	
+25	e	e	Q	1	
+26	problemi	problema	N	1	
+27	della	della	P	1	
+28	receptionist	receptionist	R	1	
+29	con	con	P	1	
+30	l'	lo	D	1	
+31	inglese	inglese	G	1	
+32	(	(	O	1	
+33	capisco	capire	V	1	
+34	che	che	Q	1	
+35	siete	essere	V	1	
+36	francesi	francese	G	1	
+37	,	,	O	1	
+38	ma	ma	Q	1	
+39	la	lo	D	1	
+40	lingua	lingua	N	1	
+41	internazionale	internazionale	G	1	
+42	per	per	P	1	
+43	eccellenza	eccellenza	N	1	
+44	è	è	N	1	
+45	l'	lo	D	1	
+46	inglese	inglese	G	1	
+47	)	)	O	1	
+48	.	.	O	1	
+
+1	La	lo	D	1	
+2	camera	camera	N	1	
+3	era	essere	V	1	
+4	abbastanza	abbastanza	A	1	
+5	spaziosa	spazioso	G	1	
+6	ma	ma	Q	1	
+7	decisamente	decisamente	A	1	
+8	non	non	A	1	
+9	curata	curare	V	1	
+10	,	,	O	1	
+11	sia	sia	Q	1	
+12	nella	nella	P	1	
+13	pulizia	pulizia	N	1	
+14	che	che	Q	1	
+15	nell'	nell'	P	1	
+16	arredamento	arredamento	N	1	
+17	.	.	O	1	
+
+1	Ciliegina	ciliegina	N	1	
+2	sulla	sulla	P	1	
+3	torta	torta	N	1	
+4	:	:	O	1	
+5	la	lo	D	1	
+6	reception	reception	R	1	
+7	è	è	R	1	
+8	deserta	deserto	G	1	
+9	dalle	dalle	P	1	
+10	22	22	N	1	
+11	.	.	O	1	
+
+1	00	00	N	1	
+2	alle	alle	P	1	
+3	07	07	N	1	ne=Time
+4	.	.	O	1	
+
+1	00	00	N	1	
+2	!	!	O	1	
+
+1	Perciò	perciò	A	1	
+2	qualsiasi	qualsiasi	G	1	
+3	problema	problema	N	1	
+4	aveste	avere	V	1	
+5	in	in	P	1	
+6	quella	quella	G	1	
+7	fascia	fascia	N	1	
+8	di	di	P	1	
+9	orario	orario	G	1	
+10	...	...	O	1	
+11	dovete	dovere	V	1	
+12	risolverlo	risolverlo	V	1	
+13	da	da	P	1	
+14	voi	voi	N	1	
+15	!	!	O	1	
+

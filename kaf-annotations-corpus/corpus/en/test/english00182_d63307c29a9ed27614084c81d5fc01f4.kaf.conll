@@ -1,0 +1,127 @@
+1	Mostly	mostly	A	1	
+2	favorable	favourable	G	1	
+
+1	The	the	D	1	
+2	room	room	N	1	
+3	was	be	V	1	
+4	clean	clean	G	1	
+5	with	with	P	1	
+6	minimal	minimal	G	1	
+7	interior	interior	N	1	
+8	.	.	O	1	
+
+1	TV	TV	N	1	
+2	was	be	V	1	
+3	not	not	A	1	
+4	working	work	V	1	
+5	and	and	C	1	
+6	no	no	D	1	
+7	phone	phone	N	1	
+8	in	in	P	1	
+9	the	the	D	1	
+10	room	room	N	1	
+11	.	.	O	1	
+
+1	Bathroom	Bathroom	R	1	
+2	was	be	V	1	
+3	clean	clean	G	1	
+4	,	,	O	1	
+5	however	however	A	1	
+6	gets	get	V	1	
+7	flooded	flood	V	1	
+8	when	when	O	1	
+9	showering	showering	N	1	
+10	,	,	O	1	
+11	with	with	P	1	
+12	more	more	G	1	
+13	people	person	N	1	
+14	in	in	P	1	
+15	one	one	O	1	
+16	room	room	N	1	
+17	very	very	A	1	
+18	wet	wet	A	1	
+19	!	!	O	1	
+
+1	Staff	Staff	R	1	
+2	friendly	friendly	G	1	
+3	,	,	O	1	
+4	helpful	helpful	G	1	
+5	and	and	C	1	
+6	professional	professional	G	1	
+7	.	.	O	1	
+
+1	Hotel	hotel	N	1	
+2	provided	provide	V	1	
+3	breakfast	breakfast	N	1	
+4	for	for	P	1	
+5	free	free	G	1	
+6	due	due	G	1	
+7	to	to	P	1	
+8	TV	TV	N	1	
+9	not	not	A	1	
+10	working	work	V	1	
+11	,	,	O	1	
+12	and	and	C	1	
+13	no	no	D	1	
+14	telephone	telephone	N	1	
+15	in	in	P	1	
+16	the	the	D	1	
+17	room	room	N	1	
+18	.	.	O	1	
+
+1	Unlike	unlike	P	1	
+2	the	the	D	1	
+3	ad	ad	N	1	
+4	on	on	P	1	
+5	booking.com	booking.com	N	1	
+6	,	,	O	1	
+7	breakfast	breakfast	N	1	
+8	is	be	V	1	
+9	not	not	A	1	
+10	free	free	G	1	
+11	,	,	O	1	
+12	it	it	Q	1	
+13	's	have	V	1	
+14	€_7	€_7	O	1	ne=Money
+15	/	/	G	1	
+16	person	person	N	1	
+17	.	.	O	1	
+
+1	Somewhat	somewhat	A	1	
+2	confusing	confusing	G	1	
+3	and	and	C	1	
+4	unclear	unclear	G	1	
+5	.	.	O	1	
+
+1	Transport	Transport	R	1	
+2	to	to	P	1	
+3	the	the	D	1	
+4	airport	airport	N	1	
+5	too	too	A	1	
+6	expensive	expensive	G	1	
+7	.	.	O	1	
+
+1	Location	Location	R	1	
+2	excellent	excellent	G	1	
+3	,	,	O	1	
+4	no	no	D	1	
+5	elevator	elevator	N	1	
+6	and	and	C	1	
+7	narrow	narrow	G	1	
+8	stairs	stair	N	1	
+9	.	.	O	1	
+
+1	Safety	safety	N	1	
+2	with	with	P	1	
+3	card	card	N	1	
+4	system	system	N	1	
+5	and	and	C	1	
+6	front	front	G	1	
+7	desk	desk	N	1	
+8	attendance	attendance	N	1	
+9	throughout	throughout	P	1	
+10	the	the	D	1	
+11	night	night	N	1	
+12	excellent	excellent	G	1	
+13	.	.	O	1	
+

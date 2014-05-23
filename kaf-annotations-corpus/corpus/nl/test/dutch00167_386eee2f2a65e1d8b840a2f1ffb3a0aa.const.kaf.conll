@@ -1,0 +1,108 @@
+1	Hotel_Ristorante_Corona	hotel_Ristorante_Corona	O	1	ne=Hotel
+2	is	zijn	V	1	
+3	een	een	D	1	
+4	aanrader	aanrader	N	1	
+5	!	!	O	1	
+
+1	·	·	O	1	
+2	Erg	Erg	O	1	
+3	leuk	leuk	G	1	
+4	en	en	C	1	
+5	mooi	mooi	G	1	
+6	gelegen	gelegen	G	1	
+7	klein	klein	G	1	
+8	hotel	hotel	N	1	
+9	(	(	O	1	
+10	27	@card@	O	1	
+11	kamers	kamer	N	1	
+12	)	)	O	1	
+13	.	.	O	1	
+
+1	·	·	O	1	
+2	Het	Het	O	1	
+3	ontbijt	ontbijt	N	1	
+4	is	zijn	V	1	
+5	goed	goed	G	1	
+6	,	,	O	1	
+7	heerlijke	heerlijk	G	1	
+8	brioches	brioches	O	1	
+9	en	en	C	1	
+10	alle	alle	D	1	
+11	soorten	soort	N	1	
+12	echte	echt	G	1	
+13	,	,	O	1	
+14	verse	vers	G	1	
+15	koffie	koffie	N	1	
+16	in	in	P	1	
+17	alle	alle	D	1	
+18	gewenste	gewenst	G	1	
+19	soorten	soort	N	1	
+20	(	(	O	1	
+21	espresso	espresso	N	1	
+22	,	,	O	1	
+23	lungo	lungo	O	1	
+24	,	,	O	1	
+25	cappucino	cappucino	O	1	
+26	etc.	etc	A	1	
+27	etc.	.	O	1	
+28	)	)	O	1	
+
+1	·	·	O	1	
+2	De	De	O	1	
+3	service	service	N	1	
+4	is	zijn	V	1	
+5	erg	erg	A	1	
+6	goed	goed	G	1	
+7	en	en	C	1	
+8	vriendelijk	vriendelijk	G	1	
+
+1	·	·	O	1	
+2	Kamers	kamer	N	1	
+3	en	en	C	1	
+4	hotel	hotel	N	1	
+5	zijn	zijn	V	1	
+6	erg	erg	A	1	
+7	schoon	schoon	G	1	
+
+1	·	·	O	1	
+2	Het	Het	O	1	
+3	restaurant	restaurant	N	1	
+4	is	zijn	V	1	
+5	goed	goed	G	1	
+6	en	en	C	1	
+7	betaalbaar	betaalbaar	G	1	
+
+1	·	·	O	1	
+2	Het	Het	O	1	
+3	zwembad	zwembad	N	1	
+4	(	(	O	1	
+5	van	van	P	1	
+6	zusterhotel	zusterhotel	O	1	
+7	Regina	Regina	O	1	ne=Hotel
+8	)	)	O	1	
+9	is	zijn	V	1	
+10	mooi	mooi	A	1	
+11	aangelegd	aanleggen	V	1	
+12	en	en	C	1	
+13	lekker	lek|lekker	G	1	
+14	schoon	schoon	G	1	
+15	en	en	C	1	
+16	rustig	rustig	G	1	
+
+1	·	·	O	1	
+2	Gasten	gast|gasten	N	1	
+3	,	,	O	1	
+4	voornamelijk	voornamelijk	A	1	
+5	Italianen	Italiaan	N	1	
+6	en	en	C	1	
+7	Engelsen	Engelse|Engelsman	N	1	
+8	zijn	zijn	V	1	
+9	rustig	rustig	G	1	
+10	en	en	C	1	
+11	over	over	P	1	
+12	het	het	D	1	
+13	algemeen	algemeen	N	1	
+14	>	>	O	1	
+15	25	@card@	O	1	
+16	jaar	jaar	N	1	
+

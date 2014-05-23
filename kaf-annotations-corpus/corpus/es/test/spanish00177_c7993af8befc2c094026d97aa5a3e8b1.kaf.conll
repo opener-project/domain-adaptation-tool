@@ -1,0 +1,127 @@
+1	Un	un	G	1	
+2	hótel	hótel	N	1	
+3	bonito	bonito	N	1	
+4	y	y	G	1	
+5	tranquilo	tranquilo	N	1	
+6	en	en	O	1	
+7	Paris	Paris	R	1	ne=Location
+
+1	Un	un	G	1	
+2	hótel	hótel	N	1	
+3	bonito	bonito	N	1	
+4	y	y	G	1	
+5	tranquilo	tranquilo	N	1	
+6	con	con	A	1	
+7	un	un	G	1	
+8	servicio	servicio	N	1	
+9	muy	muy	N	1	
+10	amable	amable	G	1	
+11	.	.	O	1	
+
+1	Al	Al	R	1	
+2	lado	lado	O	1	
+3	del	del	O	1	
+4	famoso_cementerio_Père_·_Lachaise	famoso_cementerio_père_·_lachaise	O	1	ne=Attraction
+5	.	.	O	1	
+
+1	Me	me	Q	1	
+2	encantó	encantó	V	1	
+3	el	el	N	1	
+4	barrio	barrio	N	1	
+5	,	,	O	1	
+6	está	está	O	1	
+7	lleno	lleno	O	1	
+8	de	de	O	1	
+9	restaurantes	restaurantes	O	1	
+10	y	y	G	1	
+11	cafés	cafés	N	1	
+12	y	y	G	1	
+13	tiendas	tiendas	N	1	
+14	pequeñas	pequeñas	N	1	
+15	.	.	O	1	
+
+1	En	En	R	1	
+2	los	los	O	1	
+3	domingos	domingos	O	1	
+4	(	(	O	1	
+5	si	si	N	1	
+6	me	me	Q	1	
+7	acuerdo	acuerdo	V	1	
+8	bien	bien	N	1	
+9	)	)	O	1	
+10	hay	hay	N	1	
+11	un	un	G	1	
+12	mercado	mercado	N	1	
+13	grande	grande	N	1	
+14	muy	muy	G	1	
+15	cerca	cerca	N	1	
+16	con	con	N	1	
+17	alimentación	alimentación	N	1	
+18	,	,	O	1	
+19	flores	flores	V	1	
+20	y	y	G	1	
+21	todo	todo	N	1	
+22	tipo	tipo	N	1	
+23	de	de	P	1	
+24	productos	productos	N	1	
+25	.	.	O	1	
+
+1	Las	Las	R	1	
+2	habitaciones	habitaciones	V	1	
+3	no	no	D	1	
+4	son	son	N	1	
+5	grandes	grandes	V	1	
+6	pero	pero	A	1	
+7	están	están	G	1	
+8	muy	muy	G	1	
+9	limpias	limpias	N	1	
+10	.	.	O	1	
+
+1	El	El	R	1	
+2	hotel	hotel	N	1	
+3	no	no	D	1	
+4	está	está	N	1	
+5	situado	situado	V	1	
+6	muy	muy	G	1	
+7	cerca	cerca	N	1	
+8	del	del	N	1	
+9	centro	centro	N	1	
+10	,	,	O	1	
+11	pero	pero	O	1	
+12	hay	hay	O	1	
+13	una	una	O	1	
+14	parada	parada	O	1	
+15	de	de	O	1	
+16	metro	metro	O	1	
+17	practicamente	practicamente	O	1	
+18	el	el	O	1	
+19	lado	lado	O	1	
+20	(	(	O	1	
+21	Gambetta	Gambetta	R	1	ne=POI
+22	,	,	O	1	
+23	linea_3	linea_3	O	1	ne=POI
+24	)	)	O	1	
+25	.	.	O	1	
+
+1	También	También	R	1	
+2	hay	hay	N	1	
+3	varios	varios	N	1	
+4	autobuses	autobuses	V	1	
+5	que	que	G	1	
+6	salen	salen	N	1	
+7	desde	desde	O	1	
+8	la_plaza_de_Gambetta	la_plaza_de_Gambetta	R	1	ne=Location
+9	para	para	N	1	
+10	llegar	llegar	N	1	
+11	al	al	G	1	
+12	centro	centro	N	1	
+13	y	y	A	1	
+14	a	a	D	1	
+15	las	las	G	1	
+16	atracciones	atracciones	N	1	
+17	más	más	N	1	
+18	importantes	importantes	V	1	
+19	de	de	O	1	
+20	Paris	Paris	R	1	ne=Location
+21	.	.	O	1	
+

@@ -1,0 +1,39 @@
+1	Très	Très	G	1	
+2	petit	petit	G	1	
+
+1	zoo	zoo	N	1	
+2	très	très	G	1	
+3	petit	petit	G	1	
+4	,	,	O	1	
+5	cher	cher	G	1	
+6	pour	pour	P	1	
+7	ce	ce	P	1	
+8	que	que	C	1	
+9	c'	c'	Q	1	
+10	est	être	V	1	
+11	.	.	O	1	
+
+1	les	le	D	1	
+2	pop	pop	G	1	
+3	corns	corns	N	1	
+4	sont	être	V	1	
+5	pour	pour	P	1	
+6	les	le	D	1	
+7	animaux	animal	N	1	
+8	et	et	C	1	
+9	non	non	G	1	
+10	pour	pour	P	1	
+11	nous	lui	Q	1	
+12	!	!	O	1	
+
+1	lol	lol	Q	1	
+2	!	!	O	1	
+
+1	souvenir	souvenir	V	1	
+2	au	au	P	1	
+3	zoo	zoo	D	1	
+4	:	:	O	1	
+5	oublier	oublier	V	1	
+6	trop	trop	G	1	
+7	cher	cher	G	1	
+

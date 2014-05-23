@@ -1,0 +1,64 @@
+1	Calidad	Calidad	R	1	
+2	a	a	D	1	
+3	buen	buen	G	1	
+4	precio	precio	N	1	
+
+1	Quería	Quería	R	1	
+2	salir	salir	O	1	
+3	de	de	O	1	
+4	la	la	O	1	
+5	ciudad	ciudad	O	1	
+6	para	para	O	1	
+7	buscar	buscar	O	1	
+8	algo	algo	O	1	
+9	tranquilo	tranquilo	O	1	
+10	con	con	O	1	
+11	mi	mi	O	1	
+12	pareja	pareja	O	1	
+13	y	y	G	1	
+14	lo	lo	N	1	
+15	encontré	encontré	N	1	
+16	.	.	O	1	
+
+1	Un	un	G	1	
+2	complejo	complejo	N	1	
+3	para	para	N	1	
+4	nada	nada	O	1	
+5	masificado	masificado	O	1	
+6	en	en	O	1	
+7	el	el	O	1	
+8	que	que	O	1	
+9	el	el	O	1	
+10	servicio	servicio	O	1	
+11	es	es	O	1	
+12	de	de	O	1	
+13	lo	lo	O	1	
+14	mejor	mejor	O	1	
+15	.	.	O	1	
+
+1	Las	Las	R	1	
+2	instalaciones	instalaciones	V	1	
+3	están	están	N	1	
+4	muy	muy	G	1	
+5	bien	bien	G	1	
+6	y	y	G	1	
+7	las	las	G	1	
+8	vistas	vista	N	1	
+9	son	son	N	1	
+10	geniales	geniales	N	1	
+11	.	.	O	1	
+
+1	Quizás	Quizás	R	1	
+2	algo	algo	A	1	
+3	incómoda	incómoda	O	1	
+4	la	la	O	1	
+5	cama	cama	O	1	
+6	,	,	O	1	
+7	pero	pero	O	1	
+8	nada	nada	O	1	
+9	que	que	O	1	
+10	estropee	estropee	O	1	
+11	la	la	O	1	
+12	estancia	estancia	O	1	
+13	.	.	O	1	
+

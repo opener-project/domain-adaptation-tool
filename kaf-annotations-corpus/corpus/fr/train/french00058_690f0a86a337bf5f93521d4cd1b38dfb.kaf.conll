@@ -1,0 +1,47 @@
+1	Luxures	luxure	N	1	
+
+1	Je	Je	Q	1	
+2	le	le	D	1	
+3	ferais	ferais	N	1	
+4	plus	plus	G	1	
+5	souvent	souvent	G	1	
+6	,	,	O	1	
+7	ca	ca	G	1	
+8	doit	devoir	V	1	
+9	etre	etre	V	1	
+10	le	le	D	1	
+11	meilleurs	meilleur	G	1	
+12	des	des	P	1	
+13	hotels	hotels	N	1	
+14	de	de	P	1	
+15	la	le	D	1	
+16	cotes_d'_azur	cote_d'_azur	N	1	ne=Location
+17	,	,	O	1	
+18	tout	tout	G	1	
+19	y	y	Q	1	
+20	est	être	V	1	
+21	la	le	D	1	
+22	qualité	qualité	N	1	
+23	général	général	G	1	
+24	est	être	V	1	
+25	tellements	tellements	V	1	
+26	nets	net	G	1	
+27	rien	rien	P	1	
+28	n'	n'	G	1	
+29	est	être	V	1	
+30	a	avoir	V	1	
+31	redire	redire	V	1	
+32	!	!	O	1	
+
+1	sauf	sauf	P	1	
+2	peut	pouvoir	V	1	
+3	etre	etre	P	1	
+4	les	le	D	1	
+5	places	place	N	1	
+6	de	de	P	1	
+7	parkings	parking	N	1	
+8	enervant	enervant	P	1	
+9	de	de	P	1	
+10	se	se	Q	1	
+11	déplacé	déplacer	V	1	
+

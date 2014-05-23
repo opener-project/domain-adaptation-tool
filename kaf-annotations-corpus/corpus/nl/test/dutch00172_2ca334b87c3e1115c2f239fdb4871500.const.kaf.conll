@@ -1,0 +1,126 @@
+1	Madeira	madeira	N	1	ne=Hotel
+2	,	,	O	1	
+3	goede	goed	G	1	
+4	keus	keus	N	1	
+5	.	.	O	1	
+
+1	Fijn	fijn	G	1	
+2	hotel	hotel	N	1	
+3	,	,	O	1	
+4	zeer	zeer	G	1	
+5	schoon	schoon	N	1	
+6	,	,	O	1	
+
+1	Wij	wij	Q	1	
+2	hebben	hebben	V	1	
+3	gekozen	kiezen	V	1	
+4	voor	voor	P	1	
+5	logies	logies	N	1	
+6	ontbijt	ontbijten	V	1	
+7	,	,	O	1	
+8	het	het	D	1	
+9	ontbijt	ontbijt	N	1	
+10	was	wezen|zijn	V	1	
+11	ruim	ruim	G	1	
+12	voldoende	voldoende	G	1	
+13	.	.	O	1	
+
+1	De	de	D	1	
+2	kamers	kamer	N	1	
+3	werden	worden	V	1	
+4	goed	goed	N	1	
+5	schoon	schoon	G	1	
+6	gehouden	houden	V	1	
+7	.	.	O	1	
+
+1	Nationaliteiten	nationaliteit	N	1	
+2	zeer	zeer	G	1	
+3	gemengd	mengen	V	1	
+4	.	.	O	1	
+
+1	Prettig	prettig	G	1	
+2	publiek	publiek	N	1	
+3	.	.	O	1	
+
+1	De	de	D	1	
+2	leeftijden	leeftijd	N	1	
+3	variëren	variëren	V	1	
+4	van	van	P	1	
+5	jong	jong	N	1	
+6	tot	tot	P	1	
+7	oud	oud	G	1	
+8	.	.	O	1	
+
+1	Vanuit	vanuit	P	1	
+2	het	het	D	1	
+3	hotel	hotel	N	1	
+4	kon	kunnen	V	1	
+5	je	je	Q	1	
+6	met	met	P	1	
+7	het	het	D	1	
+8	busje	busje	O	1	
+9	mee	mee	A	1	
+10	naar	naar	P	1	
+11	Funchail	Funchail	O	1	ne=Location
+12	.	.	O	1	
+
+1	Wel	wel	A	1	
+2	van	van	P	1	
+3	tevoren	tevoren	A	1	
+4	reserveren	reserveren	V	1	
+5	.	.	O	1	
+
+1	Ze	ze	Q	1	
+2	hebben	hebben	V	1	
+3	geen	geen	D	1	
+4	wifi	wifi	O	1	
+5	wel	wel	A	1	
+6	internet	internet	N	1	
+7	op	op	P	1	
+8	de	de	D	1	
+9	kamer	kamer	N	1	
+10	,	,	O	1	
+11	moet	moeten	V	1	
+12	extra	extra	G	1	
+13	voor	voor	A	1	
+14	betaald	betalen	V	1	
+15	worden	worden	V	1	
+16	.	.	O	1	
+
+1	De	de	D	1	
+2	kluisjes	kluisjes	O	1	
+3	op	op	P	1	
+4	de	de	D	1	
+5	kamer	kamer	N	1	
+6	zijn	zijn	V	1	
+7	gratis	gratis	G	1	
+8	.	.	O	1	
+
+1	Ze	ze	Q	1	
+2	hebben	hebben	V	1	
+3	geen	geen	D	1	
+4	koffie	koffie	N	1	
+5	en	en	C	1	
+6	theefaciliteiten	theefaciliteiten	O	1	
+7	.	.	O	1	
+
+1	Wel	wel	A	1	
+2	een	een	D	1	
+3	handdoekservice	handdoekservice	O	1	
+4	voor	voor	P	1	
+5	het	het	D	1	
+6	zwembad	zwembad	N	1	
+7	.	.	O	1	
+
+1	Die	die	Q	1	
+2	kan	kunnen	V	1	
+3	je	je	Q	1	
+4	wanneer	wanneer	C	1	
+5	je	je	Q	1	
+6	wilt	willen	V	1	
+7	omuilen	omuilen	O	1	
+8	voor	voor	P	1	
+9	schone	schoon	G	1	
+10	handdoeken	handdoek	N	1	
+11	.	.	O	1	
+

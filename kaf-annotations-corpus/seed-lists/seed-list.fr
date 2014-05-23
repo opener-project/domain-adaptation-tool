@@ -1,0 +1,93 @@
+Aqualand	Attraction
+walibi et aqualibi	Attraction
+vallée des tortues à Sorède	Attraction
+Réserve africaine de sigean	Attraction
+le Luna Park	Attraction
+l' aqualand du cap d' agde	Attraction
+la ferme de l' auroch	Attraction
+septembre	Date
+juillet	Date
+2011	Date
+2010	Date
+un jeudi	Date
+du 13 août 2011	Date
+dernière semaine de juillet	Date
+dernière semaine d ' août	Date
+Avril	Date
+26 juillet au 2 aout	Date
+20 / 07 / 2013	Date
+1ere semaine d août 2011	Date
+Titanic Beach	Hotel
+l' Estanquet	Hotel
+l' estanquet	Hotel
+Titanic Beach Spa	Hotel
+Titanic Beach Hurghada	Hotel
+Sen Yan	Hotel
+la baie des anges	Hotel
+camping l' estanquet	Hotel
+camping la grange neuve	Hotel
+camping de l' Orée du Bois	Hotel
+Adagio	Hotel
+l' hotel Titanic beach	Hotel
+l ' Hotel sprinclub djerba golf & amp ; spa	Hotel
+L' hôtel Sofitel Agadir	Hotel
+l' hotel princesse	Hotel
+L' hôtel Kustur Club Village	Hotel
+Hôtel Carlton	Hotel
+Paris	Location
+Madrid	Location
+Hurghada	Location
+Milan	Location
+l' ile Maurice	Location
+Hong · Kong	Location
+France	Location
+Egypte	Location
+Côte d' Or	Location
+Ciotat	Location
+cannes	Location
+BROCHON	Location
+Barcelone	Location
+Annecy	Location
+VEGAS	Location
+vannes	Location
+Turquie	Location
+Michel	Person
+zizo	Person
+Youna	Person
+rhones	Person
+perdreau	Person
+Haykel	Person
+Vincent	Person
+Tarzan	Person
+Stéphanie	Person
+Shaban	Person
+Peter	Person
+Versailles	POI
+sainte marie majeure	POI
+metro Parallel	POI
+metro Alameda de Osuna	POI
+les palais des festivals	POI
+le quartier rouge	POI
+le phare de Cordouan	POI
+l' Avent d' Orgnac	POI
+la route des crêtes	POI
+la porte d' Italie	POI
+la place de Clichy	POI
+la mer Rouge	POI
+la gare ferroviaire	POI
+la gare du nord	POI
+la gare de l' Est	POI
+la gare de l est	POI
+du parc des exposition	POI
+restaurant " Rose "	Restaurant
+Restaurant " gastro "	Restaurant
+RESTAURANT FLORIDA	Restaurant
+le garden grill	Restaurant
+du restaurant rose	Restaurant
+23h	Time
+midi	Time
+5h	Time
+3 / 4h	Time
+une demi · heure	Time
+sept 2012	Time
+le matin de 10h a 12h	Time

@@ -1,0 +1,99 @@
+1	Tout	tout	G	1	
+2	proche	proche	G	1	
+3	de	de	P	1	
+4	la_gare_de_l'_Est	le_gare_de_le_est	N	1	ne=POI
+
+1	Hotel	Hotel	N	1	
+2	dans	dans	P	1	
+3	une	un	D	1	
+4	rue	rue	N	1	
+5	calme	calme	N	1	
+6	.	.	O	1	
+
+1	La	le	D	1	
+2	porte	porte	N	1	
+3	est	être	V	1	
+4	fremée	fremée	V	1	
+5	le	le	D	1	
+6	soir	soir	N	1	
+7	,	,	O	1	
+8	il	il	Q	1	
+9	faut	faillir	V	1	
+10	sonner	sonner	V	1	
+11	.	.	O	1	
+
+1	Très	Très	G	1	
+2	petite	petit	G	1	
+3	entrée	entrée	N	1	
+4	avec	avec	P	1	
+5	un	un	D	1	
+6	petit	petit	G	1	
+7	coin	coin	N	1	
+8	bar	bar	G	1	
+9	.	.	O	1	
+
+1	Le	le	D	1	
+2	petit	petit	G	1	
+3	dej	déjeuner	N	1	
+4	est	être	V	1	
+5	au	au	P	1	
+6	sous	sous	P	1	
+7	sol	sol	N	1	
+8	.	.	O	1	
+
+1	Avec	Avec	P	1	
+2	un	un	D	1	
+3	petit	petit	G	1	
+4	ascenceur	ascenceur	N	1	
+5	et	et	C	1	
+6	un	un	D	1	
+7	couloir	couloir	N	1	
+8	très	très	G	1	
+9	étroit	étroit	G	1	
+10	nous	lui	Q	1	
+11	nous	lui	Q	1	
+12	attendions	attendre	V	1	
+13	au	au	P	1	
+14	pire	pire	G	1	
+15	pour	pour	P	1	
+16	la	le	D	1	
+17	chambre	chambre	N	1	
+18	.	.	O	1	
+
+1	Si	Si	C	1	
+2	sous	sous	P	1	
+3	les	le	D	1	
+4	combles	comble	N	1	
+5	,	,	O	1	
+6	elle	lui	Q	1	
+7	était	être	V	1	
+8	pourtant	pourtant	G	1	
+9	assez	assez	G	1	
+10	grande	grand	G	1	
+11	avec	avec	P	1	
+12	un	un	D	1	
+13	mini	mini	N	1	
+14	bar	bar	G	1	
+15	et	et	C	1	
+16	une	un	D	1	
+17	nespresso	nespresso	N	1	
+18	.	.	O	1	
+
+1	S	S	N	1	
+2	il	il	Q	1	
+3	faut	faillir	V	1	
+4	revenir	revenir	V	1	
+5	à	à	P	1	
+6	Paris	pari	N	1	ne=Location
+7	par	par	P	1	
+8	la_gare_de_l_est	le_gare_de_l_être	V	1	ne=POI
+9	ou	ou	C	1	
+10	même	même	G	1	
+11	la_gare_du_nord	le_gare_du_nord	N	1	ne=POI
+12	c	c	N	1	
+13	est	être	V	1	
+14	l	l	G	1	
+15	hotel	hotel	G	1	
+16	ideal	ideal	G	1	
+17	.	.	O	1	
+

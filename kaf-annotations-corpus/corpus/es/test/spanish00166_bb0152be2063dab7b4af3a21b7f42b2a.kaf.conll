@@ -1,0 +1,156 @@
+1	100_%	100_%	N	1	ne=Percent
+2	Recomendable	recomendable	G	1	
+3	.	.	O	1	
+
+1	Buena	Buena	R	1	
+2	situación	situación	N	1	
+3	y	y	G	1	
+4	buen	buen	N	1	
+5	precio	precio	N	1	
+6	.	.	O	1	
+
+1	Realizamos	Realizamos	R	1	
+2	un	un	G	1	
+3	viaje	viaje	N	1	
+4	en	en	P	1	
+5	avión	avión	G	1	
+6	hasta	hasta	N	1	
+7	Leeds	leeds	V	1	ne=Location
+8	(	(	O	1	
+9	West_Yorkshire	west_Yorkshire	R	1	ne=Location
+10	)	)	O	1	
+11	,	,	O	1	
+12	nos	nos	N	1	
+13	alojamos	alojamos	A	1	
+14	en	en	P	1	
+15	el_hotel_Holiday_Inn	el_hotel_Holiday_Inn	R	1	ne=Hotel
+16	(	(	O	1	
+17	Leeds_Royal_Armouries	Leeds_Royal_Armouries	R	1	ne=Hotel
+18	)	)	O	1	
+19	.	.	O	1	
+
+1	El	El	R	1	
+2	hotel	hotel	N	1	
+3	está	está	N	1	
+4	bastante	bastante	G	1	
+5	cerca	cerca	N	1	
+6	del	del	N	1	
+7	centro	centro	N	1	
+8	,	,	O	1	
+9	en	en	P	1	
+10	el	el	N	1	
+11	barrio_de_Clarence_Dock	barrio_de_Clarence_Dock	R	1	ne=Location
+12	(	(	O	1	
+13	Muy	Muy	R	1	
+14	cerca	cerca	R	1	
+15	del	del	R	1	
+16	rio	rio	N	1	
+17	)	)	O	1	
+18	.	.	O	1	
+
+1	Estuvimos	estuvimos	N	1	
+2	4	4	O	1	
+3	días	días	N	1	
+4	y	y	G	1	
+5	salimos	salimos	N	1	
+6	muy	muy	G	1	
+7	contentos	contentos	N	1	
+8	,	,	O	1	
+9	el	el	N	1	
+10	servicio	servicio	O	1	
+11	de	de	O	1	
+12	almuerzo	almuerzo	O	1	
+13	(	(	O	1	
+14	muy	muy	G	1	
+15	completo	completo	N	1	
+16	)	)	O	1	
+17	,	,	O	1	
+18	las	las	V	1	
+19	habitaciones	habitaciones	N	1	
+20	amplias	amplias	P	1	
+21	y	y	G	1	
+22	limpias	limpias	N	1	
+23	,	,	O	1	
+24	los	los	N	1	
+25	empleados	empleados	N	1	
+26	muy	muy	G	1	
+27	amables	amables	N	1	
+28	,	,	O	1	
+29	en	en	P	1	
+30	definitiva	definitiva	N	1	
+31	,	,	O	1	
+32	es	es	V	1	
+33	un	un	G	1	
+34	hotel	hotel	N	1	
+35	que	que	N	1	
+36	tenemos	tenemos	N	1	
+37	de	de	P	1	
+38	referencia	referencia	N	1	
+39	por	por	N	1	
+40	si	si	N	1	
+41	queremos	queremos	V	1	
+42	volver	volver	N	1	
+43	a	a	D	1	
+44	Leeds	Leeds	R	1	ne=Location
+45	para	para	N	1	
+46	visitar	visitar	N	1	
+47	ésta	ésta	N	1	
+48	mágica	mágica	N	1	
+49	ciudad	ciudad	N	1	
+50	.	.	O	1	
+
+1	Hotel	Hotel	R	1	
+2	con	con	A	1	
+3	precios	precios	V	1	
+4	muy	muy	G	1	
+5	competitivos	competitivos	N	1	
+6	relación	relación	V	1	
+7	calidad	calidad	G	1	
+8	/	/	N	1	
+9	precio	precio	N	1	
+10	.	.	O	1	
+
+1	Volveremos	Volveremos	R	1	
+2	a	a	D	1	
+3	repetir	repetir	N	1	
+4	.	.	O	1	
+
+1	En	En	R	1	
+2	el_barrio_de_Clarence_Dock	el_barrio_de_Clarence_Dock	R	1	ne=Location
+3	hay	hay	N	1	
+4	el	el	N	1	
+5	museo	museo	O	1	
+6	de	de	V	1	
+7	armaduras	armaduras	N	1	
+8	(	(	O	1	
+9	a	a	D	1	
+10	pocos	pocos	N	1	
+11	metros	metro	N	1	
+12	del	del	G	1	
+13	hotel	hotel	N	1	
+14	)	)	O	1	
+15	muy	muy	G	1	
+16	interesante	interesante	N	1	
+17	y	y	G	1	
+18	varias	varias	N	1	
+19	tiendas	tiendas	N	1	
+20	y	y	G	1	
+21	un	un	G	1	
+22	supermercado	supermercado	N	1	
+23	.	.	O	1	
+
+1	Luego	Luego	R	1	
+2	se	se	N	1	
+3	puede	puede	V	1	
+4	ir	ir	N	1	
+5	en	en	P	1	
+6	autobús	autobús	N	1	
+7	o	o	A	1	
+8	andando	andando	D	1	
+9	al	al	G	1	
+10	centro	centro	N	1	
+11	de	de	O	1	
+12	la	la	O	1	
+13	ciudad	ciudad	N	1	
+14	.	.	O	1	
+

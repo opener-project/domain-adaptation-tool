@@ -1,0 +1,129 @@
+1	Uitstekend	uitstekend	G	1	
+2	verblijf	verblijf	N	1	
+
+1	Prima	prima	G	1	
+2	hotel	hotel	N	1	
+3	.	.	O	1	
+
+1	Mooi	mooi	A	1	
+2	gelegen	liggen	V	1	
+3	in	in	P	1	
+4	het	het	D	1	
+5	dorp	dorp	N	1	
+6	Nittel	Nittel	O	1	ne=Location
+7	.	.	O	1	
+
+1	Hotel	hotel	N	1	
+2	is	zijn	V	1	
+3	redelijk	redelijk	G	1	
+4	klein	klein	G	1	
+5	,	,	O	1	
+6	maar	maar	C	1	
+7	heeft	hebben	V	1	
+8	wel	wel	A	1	
+9	alles	alles	Q	1	
+10	dat	dat	Q	1	
+11	je	je	Q	1	
+12	als	als	C	1	
+13	gast	gast	N	1	
+14	graag	graag	G	1	
+15	ervaart	ervaren	V	1	
+16	.	.	O	1	
+
+1	Alles	alles	Q	1	
+2	was	wezen|zijn	V	1	
+3	netjes	net|netjes	G	1	
+4	,	,	O	1	
+5	meer	meer	A	1	
+6	seniorenpubliek	seniorenpubliek	O	1	
+7	,	,	O	1	
+8	prima	prima	G	1	
+9	arrangementen	arrangement	N	1	
+10	(	(	O	1	
+11	kwaliteit	kwaliteit	N	1	
+12	boven	boven	P	1	
+13	alles	alles	Q	1	
+14	)	)	O	1	
+15	vriendelijke	vriendelijk	G	1	
+16	bediening	bediening	N	1	
+17	en	en	C	1	
+18	leuke	leuk	G	1	
+19	omgangsvormen	omgangsvormen	N	1	
+20	met	met	P	1	
+21	veel	veel	O	1	
+22	humor	humor	N	1	
+23	.	.	O	1	
+
+1	De	de	D	1	
+2	indruk	indruk	N	1	
+3	bestaat	bestaan	V	1	
+4	dat	dat	C	1	
+5	velen	velen	N	1	
+6	in	in	P	1	
+7	dit	dit	D	1	
+8	hotel	hotel	N	1	
+9	op	op	A	1	
+10	zoek	zoek	A	1	
+11	zijn	zijn	V	1	
+12	naar	naar	P	1	
+13	actieve	actief	G	1	
+14	vakantiemogelijkheden	vakantiemogelijkheden	O	1	
+15	en	en	C	1	
+16	die	die	Q	1	
+17	zijn	zijn	V	1	
+18	er	er	Q	1	
+19	volop	volop	A	1	
+20	.	.	O	1	
+
+1	Bezoek	bezoek	N	1	
+2	aan	aan	P	1	
+3	Trier	Trier	O	1	ne=Location
+4	,	,	O	1	
+5	Saarburg	Saarburg	O	1	ne=Location
+6	,	,	O	1	
+7	Luxemburg	Luxemburg	R	1	ne=Location
+8	enz.	enz.	A	1	
+9	Maar	Maar	O	1	
+10	wandelen	wandelen	V	1	
+11	,	,	O	1	
+12	fietsen	fietsen	V	1	
+13	zijn	zijn	V	1	
+14	ook	ook	A	1	
+15	uitstekend	uitstekend	G	1	
+16	geschikte	geschikt	G	1	
+17	bezigheden	bezigheid	N	1	
+18	.	.	O	1	
+
+1	Je	je	Q	1	
+2	kunt	kunnen	V	1	
+3	er	er	Q	1	
+4	prima	prima	G	1	
+5	fietsen	fiets	N	1	
+6	huren	huren	V	1	
+7	.	.	O	1	
+
+1	Lekkere	lek|lekker	G	1	
+2	sauna	sauna	N	1	
+3	en	en	C	1	
+4	welness	welness	O	1	
+5	:	:	O	1	
+6	kortom	kortom	A	1	
+7	alles	alles	Q	1	
+8	voor	voor	P	1	
+9	een	een	D	1	
+10	leuke	leuk	G	1	
+11	vakantie	vakantie	N	1	
+12	.	.	O	1	
+
+1	De	de	D	1	
+2	wijn	wijn	N	1	
+3	niet	niet	A	1	
+4	te	te	O	1	
+5	vergeten	vergeten	V	1	
+6	trouwens	trouwens	A	1	
+7	van	van	P	1	
+8	een	een	D	1	
+9	uitstekende	uitstekend	G	1	
+10	kwaliteit	kwaliteit	N	1	
+11	.	.	O	1	
+

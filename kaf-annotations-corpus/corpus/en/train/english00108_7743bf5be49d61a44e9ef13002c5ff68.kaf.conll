@@ -1,0 +1,122 @@
+1	Ideal	Ideal	R	1	
+2	for	for	P	1	
+3	late	late	G	1	
+4	arrivals	arrival	N	1	
+
+1	I	i	Q	1	
+2	often	often	A	1	
+3	travel	travel	V	1	
+4	to	to	P	1	
+5	Paris	Paris	R	1	ne=Location
+6	with	with	P	1	
+7	our	our	Q	1	
+8	head	head	N	1	
+9	office	office	N	1	
+10	being	be	V	1	
+11	located	locate	V	1	
+12	at	at	P	1	
+13	Stade_De_France	Stade_De_France	R	1	ne=Attraction
+14	.	.	O	1	
+
+1	My	my	Q	1	
+2	usual	usual	G	1	
+3	mo	mo	N	1	
+4	is	be	V	1	
+5	to	to	P	1	
+6	fly	fly	V	1	
+7	in	in	A	1	
+8	on	on	P	1	
+9	the	the	D	1	
+10	last	last	G	1	
+11	flight	flight	N	1	
+12	the	the	D	1	
+13	night	night	N	1	
+14	before	before	P	1	
+15	arriving	arrive	V	1	
+16	at	at	P	1	
+17	CDG	CDG	R	1	ne=POI
+18	around	around	P	1	
+19	10PM	10PM	R	1	ne=Time
+20	and	and	C	1	
+21	then	then	A	1	
+22	stay	stay	V	1	
+23	at	at	P	1	
+24	the_Novotel	the_Novotel	R	1	ne=Hotel
+25	which	which	O	1	
+26	is	be	V	1	
+27	at	at	P	1	
+28	T1	T1	R	1	ne=POI
+29	for	for	P	1	
+30	the	the	D	1	
+31	CDGVAL	CDGVAL	R	1	ne=POI
+32	(	(	O	1	
+33	basically	basically	A	1	
+34	a	a	D	1	
+35	monoral	monoral	G	1	
+36	that	that	O	1	
+37	connects	connect	V	1	
+38	all	all	D	1	
+39	of	of	P	1	
+40	the	the	D	1	
+41	terminals	terminal	N	1	
+42	)	)	O	1	
+43	.	.	O	1	
+
+1	Then	then	A	1	
+2	first	1	G	1	
+3	thing	thing	N	1	
+4	in	in	P	1	
+5	the	the	D	1	
+6	morning	morning	N	1	
+7	I	i	Q	1	
+8	can	can	O	1	
+9	get	get	V	1	
+10	up	up	A	1	
+11	,	,	O	1	
+12	have	have	V	1	
+13	breakfast	breakfast	N	1	
+14	and	and	C	1	
+15	then	then	A	1	
+16	take	take	V	1	
+17	the	the	D	1	
+18	RER_B	RER_B	R	1	ne=POI
+19	directly	directly	A	1	
+20	outside	outside	P	1	
+21	the	the	D	1	
+22	door	door	N	1	
+23	of	of	P	1	
+24	the	the	D	1	
+25	hotel	hotel	N	1	
+26	25m	25m	O	1	
+27	from	from	P	1	
+28	the	the	D	1	
+29	door	door	N	1	
+30	straight	straight	A	1	
+31	to	to	P	1	
+32	my	my	Q	1	
+33	office	office	N	1	
+34	or	or	C	1	
+35	into	into	P	1	
+36	Paris	Paris	R	1	ne=Location
+37	.	.	O	1	
+
+1	I	i	Q	1	
+2	personally	personally	A	1	
+3	will	will	O	1	
+4	not	not	A	1	
+5	take	take	V	1	
+6	the	the	D	1	
+7	RER	RER	R	1	ne=POI
+8	late	late	A	1	
+9	at	at	P	1	
+10	night	night	N	1	
+11	as	as	P	1	
+12	I	i	Q	1	
+13	do	do	V	1	
+14	not	not	A	1	
+15	feel	feel	V	1	
+16	it	it	Q	1	
+17	's	have	V	1	
+18	safe	safe	G	1	
+19	.	.	O	1	
+

@@ -1,0 +1,80 @@
+1	Kyriad_Paris_Quest_Villeneuve_La_Garenne	Kyriad_Paris_Quest_Villeneuve_La_Garenne	O	1	ne=Location
+
+1	Die	die	D	1	
+2	Lage	Lage	N	1	
+3	des	die	D	1	
+4	Hotels	Hotel	N	1	
+5	ist	sein	V	1	
+6	ruhig	ruhig	G	1	
+7	aber	aber	C	1	
+8	generell	generell	G	1	
+9	nicht	nicht	O	1	
+10	die	die	D	1	
+11	beste	gut	G	1	
+12	.	.	O	1	
+
+1	Der	die	D	1	
+2	Trakt	Trakt	N	1	
+3	mit	mit	P	1	
+4	den	die	D	1	
+5	Zimmern	Zimmer	N	1	
+6	fällt	fallen|fällen	V	1	
+7	gegenüber	gegenüber	P	1	
+8	dem	die	D	1	
+9	mit	mit	P	1	
+10	Restaurant	Restaurant	N	1	
+11	und	und	C	1	
+12	Rezeption	Rezeption	N	1	
+13	stark	stark	G	1	
+14	ab	ab	V	1	
+15	.	.	O	1	
+
+1	Die	die	D	1	
+2	Flure	Flur	N	1	
+3	sind	sein	V	1	
+4	eine	eine	D	1	
+5	optische	optisch	G	1	
+6	Katastrophe	Katastrophe	N	1	
+7	,	,	O	1	
+8	und	und	C	1	
+9	die	die	D	1	
+10	Zimmer	Zimmer	N	1	
+11	nicht	nicht	O	1	
+12	wesentlich	wesentlich	G	1	
+13	besser	gut	G	1	
+14	.	.	O	1	
+
+1	Die	die	D	1	
+2	Größe	Größe	N	1	
+3	ist	sein	V	1	
+4	zwar	zwar	A	1	
+5	in	in	P	1	
+6	Ordnung	Ordnung	N	1	
+7	,	,	O	1	
+8	aber	aber	C	1	
+9	die	die	D	1	
+10	Verarbeitungsqualität	Verarbeitungsqualität	N	1	
+11	echt	echt	G	1	
+12	schlecht	schlecht	G	1	
+13	.	.	O	1	
+
+1	Meine	mein	Q	1	
+2	Matraze	Matraze	O	1	
+3	war	sein	V	1	
+4	schon	schon	A	1	
+5	sehr	sehr	A	1	
+6	durch	durch	V	1	
+7	gelegen	liegen	V	1	
+8	und	und	C	1	
+9	die	die	D	1	
+10	Lüftung	Lüftung	N	1	
+11	vom	von	P	1	
+12	Badezimmer	Badezimmer	N	1	
+13	ging	gehen	V	1	
+14	einem	eine	D	1	
+15	ziemlich	ziemlich	A	1	
+16	auf	auf	P	1	
+17	die	die	D	1	
+18	Nerven	Nerv|Nerven	N	1	
+19	.	.	O	1	
+

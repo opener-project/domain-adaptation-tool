@@ -1,0 +1,66 @@
+1	Wakacje	Wakacje	R	1	
+
+1	i	i	O	1	
+2	spent	spent	O	1	
+3	there	there	O	1	
+4	the	the	D	1	
+5	best	good	G	1	
+6	holiday	holiday	N	1	
+7	in	in	P	1	
+8	my	my	Q	1	
+9	life.	life.	N	1	
+10	i	i	N	1	
+11	hope	hope	V	1	
+12	that	that	P	1	
+13	i	i	N	1	
+14	'll	'll	O	1	
+15	come	come	V	1	
+16	back	back	A	1	
+17	there.	there.	A	1	
+18	i	i	N	1	
+19	met	meet	V	1	
+20	very	very	A	1	
+21	nice	nice	G	1	
+22	people.	people.	N	1	
+23	there	there	O	1	
+24	was	be	V	1	
+25	very	very	A	1	
+26	friendly	friendly	G	1	
+27	animator	animator	N	1	
+28	·	·	N	1	
+29	Ala_Nani	Ala_Nani	R	1	ne=Person
+30	.	.	O	1	
+
+1	He	he	Q	1	
+2	was	be	V	1	
+3	soo	soo	A	1	
+4	handsome	handsome	G	1	
+5	,	,	O	1	
+6	nice	nice	G	1	
+7	and	and	C	1	
+8	funny.	funny.	G	1	
+9	i	i	N	1	
+10	really	really	A	1	
+11	want	want	V	1	
+12	next	next	G	1	
+13	holidays	holiday	N	1	
+14	becouse	becouse	V	1	
+15	i	i	N	1	
+16	want	want	V	1	
+17	to	to	P	1	
+18	come	come	V	1	
+19	back	back	A	1	
+20	to	to	P	1	
+21	hurghada	hurghada	N	1	ne=Location
+22	to	to	P	1	
+23	this	this	D	1	
+24	hotel	hotel	N	1	
+25	and	and	C	1	
+26	meet	meet	V	1	
+27	Ala	Ala	R	1	ne=Person
+28	and	and	C	1	
+29	others	other	N	1	
+30	animators	animator	N	1	
+31	again	again	A	1	
+32	.	.	O	1	
+

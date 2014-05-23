@@ -1,0 +1,93 @@
+1	Degelijk	degelijk	G	1	
+2	hotel	hotel	N	1	
+
+1	Dit	dit	D	1	
+2	hotel	hotel	N	1	
+3	is	zijn	V	1	
+4	aan	aan	P	1	
+5	vernieuwing	vernieuwing	N	1	
+6	toe	toe	A	1	
+7	.	.	O	1	
+
+1	De	de	D	1	
+2	kamers	kamer	N	1	
+3	waren	wezen|zijn	V	1	
+4	proper	proper	G	1	
+5	,	,	O	1	
+6	alle	alle	D	1	
+7	service	service	N	1	
+8	was	wezen|zijn	V	1	
+9	aanwezig	aanwezig	G	1	
+10	,	,	O	1	
+11	maar	maar	C	1	
+12	alles	alles	Q	1	
+13	was	wezen|zijn	V	1	
+14	redelijk	redelijk	G	1	
+15	oud	oud	G	1	
+16	.	.	O	1	
+
+1	We	we	Q	1	
+2	kregen	krijgen	V	1	
+3	een	een	D	1	
+4	upgrade	upgrade	O	1	
+5	naar	naar	P	1	
+6	een	een	D	1	
+7	junior	junior	G	1	
+8	suite	suite	N	1	
+9	,	,	O	1	
+10	welke	welk	Q	1	
+11	was	wezen|zijn	V	1	
+12	meer	meer	A	1	
+13	dan	dan	A	1	
+14	ruim	ruim	G	1	
+15	genoeg	genoeg	A	1	
+16	.	.	O	1	
+
+1	Toch	toch	A	1	
+2	had	hebben	V	1	
+3	ik	ik	Q	1	
+4	de	de	D	1	
+5	indruk	indruk	N	1	
+6	,	,	O	1	
+7	door	door	P	1	
+8	de	de	D	1	
+9	donkere	donker	G	1	
+10	kleuren	kleur	N	1	
+11	,	,	O	1	
+12	oudere	oud	G	1	
+13	indeling	indeling	N	1	
+14	,	,	O	1	
+15	dat	dat	C	1	
+16	het	het	Q	1	
+17	kleiner	klein	G	1	
+18	oogde	ogen	V	1	
+19	.	.	O	1	
+
+1	We	we	Q	1	
+2	aten	eten	V	1	
+3	in	in	P	1	
+4	het	het	D	1	
+5	Belgium_Beer_café	Belgium_beer_café	N	1	ne=Restaurant
+6	(	(	O	1	
+7	gelegen	liggen	V	1	
+8	in	in	P	1	
+9	het	het	D	1	
+10	hotel	hotel	N	1	
+11	)	)	O	1	
+12	.	.	O	1	
+
+1	Dat	dat	Q	1	
+2	was	wezen|zijn	V	1	
+3	zeer	zeer	G	1	
+4	druk	druk	N	1	
+5	en	en	C	1	
+6	lawaaierig	lawaaierig	G	1	
+7	,	,	O	1	
+8	maar	maar	C	1	
+9	het	het	D	1	
+10	eten	eten	N	1	
+11	was	wezen|zijn	V	1	
+12	oprecht	oprecht	G	1	
+13	lekker	lek|lekker	G	1	
+14	.	.	O	1	
+

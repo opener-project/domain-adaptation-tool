@@ -1,0 +1,68 @@
+1	Sencillo	Sencillo	R	1	
+2	aunque	aunque	N	1	
+3	bien	bien	N	1	
+4	ubicado	ubicado	N	1	
+
+1	Es	es	N	1	
+2	un	un	G	1	
+3	hotel	hotel	N	1	
+4	sencillo	sencillo	N	1	
+5	,	,	O	1	
+6	pero	pero	O	1	
+7	lo	lo	O	1	
+8	mejor	mejor	O	1	
+9	es	es	O	1	
+10	su	su	O	1	
+11	ubicación	ubicación	O	1	
+12	:	:	O	1	
+13	a	a	D	1	
+14	200	200	O	1	
+15	metros	metro	N	1	
+16	de	de	O	1	
+17	Centrale	Centrale	R	1	ne=POI
+18	(	(	O	1	
+19	la	la	D	1	
+20	impresionante	impresionante	G	1	
+21	estación	estación	N	1	
+22	central	central	G	1	
+23	de	de	P	1	
+24	Milán	Milán	R	1	ne=Location
+25	)	)	O	1	
+26	desde	desde	O	1	
+27	donde	donde	O	1	
+28	todo	todo	O	1	
+29	Milán	milán	O	1	ne=Location
+30	y	y	G	1	
+31	el_Norte_de_Italia	el_Norte_de_Italia	R	1	ne=Location
+32	está	está	N	1	
+33	a	a	D	1	
+34	tu	tu	N	1	
+35	alcance	alcance	N	1	
+36	.	.	O	1	
+
+1	El	El	R	1	
+2	personal	personal	G	1	
+3	es	es	N	1	
+4	muy	muy	G	1	
+5	atento	atento	P	1	
+6	aunque	aunque	G	1	
+7	los	los	N	1	
+8	idiomas	idiomas	V	1	
+9	no	no	D	1	
+10	sean	sean	G	1	
+11	lo	lo	N	1	
+12	suyo	suyo	N	1	
+13	...	...	O	1	
+
+1	El	El	R	1	
+2	desayuno	desayuno	N	1	
+3	,	,	O	1	
+4	variado	variado	N	1	
+5	,	,	O	1	
+6	se	se	N	1	
+7	sirve	sirve	O	1	
+8	en	en	P	1	
+9	el	el	N	1	
+10	sótano	sótano	N	1	
+11	.	.	O	1	
+

@@ -1,0 +1,60 @@
+1	Excelente	Excelente	R	1	
+2	estadia	estadia	N	1	
+
+1	La	La	R	1	
+2	calificación	calificación	G	1	
+3	Muy	Muy	R	1	
+4	bueno	bueno	N	1	
+5	queda	queda	N	1	
+6	chica	chica	N	1	
+7	para	para	N	1	
+8	este	este	N	1	
+9	Hotel	hotel	N	1	
+10	.	.	O	1	
+
+1	Excelente	Excelente	R	1	
+2	en	en	P	1	
+3	todo	todo	N	1	
+4	sentido	sentido	N	1	
+5	,	,	O	1	
+6	la	la	D	1	
+7	atención	atención	N	1	
+8	,	,	O	1	
+9	la	la	D	1	
+10	comida	comida	N	1	
+11	,	,	O	1	
+12	las	las	O	1	
+13	instalaciones	instalaciones	N	1	
+14	,	,	O	1	
+15	la	la	D	1	
+16	playa	playa	N	1	
+17	.	.	O	1	
+
+1	Todo	Todo	R	1	
+2	absolutamente	absolutamente	V	1	
+3	recomendable	recomendable	N	1	
+4	.	.	O	1	
+
+1	No	no	D	1	
+2	duden	duden	G	1	
+3	el	el	N	1	
+4	elegir	elegir	N	1	
+5	a	a	D	1	
+6	este	este	N	1	
+7	hotel	hotel	N	1	
+8	.	.	O	1	
+
+1	La	La	R	1	
+2	van	van	V	1	
+3	a	a	D	1	
+4	pasar	pasar	N	1	
+5	10	10	O	1	
+6	puntos	puntos	N	1	
+7	.	.	O	1	
+
+1	Felicitaciones	felicitaciones	N	1	
+2	Grand	Grand	R	1	
+3	Palladium	Palladium	R	1	
+4	!	!	O	1	
+5	!	!	O	1	
+

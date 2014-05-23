@@ -1,0 +1,86 @@
+1	Trés	Trés	G	1	
+2	bonne	bon	G	1	
+3	animation	animation	N	1	
+
+1	manque	manquer	V	1	
+2	d'	d'	P	1	
+3	entretien	entretien	N	1	
+4	extérieur	extérieur	G	1	
+5	des	des	P	1	
+6	emplacements	emplacement	N	1	
+7	,	,	O	1	
+8	mobilhome	mobilhome	N	1	
+9	propre	propre	G	1	
+10	mais	mais	C	1	
+11	petit.	petit.	P	1	
+12	la	le	D	1	
+13	chambre	chambre	N	1	
+14	des	des	P	1	
+15	enfants	enfant	N	1	
+16	ne	ne	G	1	
+17	permet	permettre	V	1	
+18	pas	pas	G	1	
+19	de	de	P	1	
+20	passer	passer	V	1	
+21	entre	entre	P	1	
+22	les	le	D	1	
+23	deux	deux	G	1	
+24	lits	lit	N	1	
+25	!	!	O	1	
+26	!	!	O	1	
+
+1	la	le	D	1	
+2	présence	présence	N	1	
+3	de	de	P	1	
+4	la	le	D	1	
+5	ligne	ligne	N	1	
+6	de	de	P	1	
+7	chemin	chemin	N	1	
+8	de	de	P	1	
+9	fer	fer	N	1	
+10	n'	n'	G	1	
+11	ai	avoir	V	1	
+12	pas	pas	G	1	
+13	dérangeante	dérangeant	G	1	
+14	car	car	C	1	
+15	peu	peu	G	1	
+16	bruyante	bruyant	G	1	
+17	.	.	O	1	
+
+1	Très	Très	G	1	
+2	nombreuses	nombreux	G	1	
+3	animations	animation	N	1	
+4	de	de	P	1	
+5	bonne	bon	G	1	
+6	qualité	qualité	N	1	
+7	dommage	dommage	G	1	
+8	que	que	C	1	
+9	cela	cela	P	1	
+10	se	se	Q	1	
+11	termine	terminer	V	1	
+12	à	à	P	1	
+13	23h	23h	D	1	ne=Time
+14	le	le	D	1	
+15	soir	soir	N	1	
+16	.	.	O	1	
+
+1	Restaurant	restaurer	V	1	
+2	assez	assez	G	1	
+3	cher	cher	G	1	
+4	.	.	O	1	
+
+1	Superette	Superette	N	1	
+2	pratique	pratiquer	V	1	
+3	mais	mais	C	1	
+4	chére	chére	P	1	
+5	;	;	O	1	
+6	pain	pain	N	1	
+7	et	et	C	1	
+8	croissanterie	croissanterie	N	1	
+9	tous	tout	G	1	
+10	les	le	D	1	
+11	jours	jour	N	1	
+12	sans	sans]	P	1	
+13	réservation	réservation	N	1	
+14	.	.	O	1	
+

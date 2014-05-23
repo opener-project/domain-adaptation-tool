@@ -1,0 +1,128 @@
+1	Bien	Bien	G	1	
+2	situé	situer	V	1	
+3	.	.	O	1	
+
+1	Superbe	superbe	N	1	
+2	vue	voir	V	1	
+3	sur	sur	P	1	
+4	les	le	D	1	
+5	canaux	canaux	G	1	
+
+1	Si	Si	C	1	
+2	vous	lui	Q	1	
+3	venez	venir	V	1	
+4	à	à	P	1	
+5	Amsterdam	Amsterdam	N	1	ne=Location
+6	pour	pour	P	1	
+7	les	le	D	1	
+8	Coffee	Coffee	N	1	
+9	,	,	O	1	
+10	le_quartier_rouge	le_quartier_rouge	G	1	ne=POI
+11	et	et	C	1	
+12	tout	tout	G	1	
+13	ce	ce	P	1	
+14	qui	qui	P	1	
+15	est	être	V	1	
+16	visite	visite	G	1	
+17	alors	alors	G	1	
+18	je	je	Q	1	
+19	vous	lui	Q	1	
+20	le	le	D	1	
+21	recommande	recommande	N	1	
+22	.	.	O	1	
+
+1	Il	Il	Q	1	
+2	est	être	V	1	
+3	très	très	G	1	
+4	bien	bien	G	1	
+5	situé	situer	V	1	
+6	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	avons	avoir	V	1	
+3	pris	prendre	V	1	
+4	une	un	D	1	
+5	petite	petit	G	1	
+6	chambre	chambre	N	1	
+7	pour	pour	P	1	
+8	une	un	D	1	
+9	nuit	nuit	N	1	
+10	.	.	O	1	
+
+1	Comme	Comme	P	1	
+2	son	son	D	1	
+3	nom	nom	N	1	
+4	l'	le	D	1	
+5	indique	indique	N	1	
+6	,	,	O	1	
+7	elle	lui	Q	1	
+8	est	être	V	1	
+9	vraiment	vraiment	G	1	
+10	très	très	G	1	
+11	petite	petit	G	1	
+12	.	.	O	1	
+
+1	Mais	Mais	C	1	
+2	le	le	D	1	
+3	design	design	N	1	
+4	de	de	P	1	
+5	la	le	D	1	
+6	chambre	chambre	N	1	
+7	est	être	V	1	
+8	vraiment	vraiment	G	1	
+9	super	super	G	1	
+10	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	avons	avoir	V	1	
+3	eu	avoir	V	1	
+4	la	le	D	1	
+5	chance	chance	N	1	
+6	d'	d'	P	1	
+7	avoir	avoir	V	1	
+8	une	un	D	1	
+9	vue	vue	N	1	
+10	sur	sur	P	1	
+11	les	le	D	1	
+12	canaux	canal	N	1	
+13	,	,	O	1	
+14	la	le	D	1	
+15	gare	gare	N	1	
+16	et	et	C	1	
+17	la	le	D	1	
+18	Damrak	Damrak	N	1	ne=POI
+19	...	...	O	1	
+20	sublime	sublime	G	1	
+21	.	.	O	1	
+
+1	Rien	Rien	P	1	
+2	à	à	P	1	
+3	signaler	signaler	V	1	
+4	sauf	sauf	P	1	
+5	peut	pouvoir	V	1	
+6	·	·	N	1	
+7	être	être	V	1	
+8	la	le	D	1	
+9	propreté	propreté	N	1	
+10	de	de	P	1	
+11	la	le	D	1	
+12	chambre	chambre	N	1	
+13	:	:	O	1	
+14	mégots	mégot	N	1	
+15	de	de	P	1	
+16	cigarette	cigarette	N	1	
+17	par	par	P	1	
+18	terre	terre	N	1	
+19	,	,	O	1	
+20	un	un	D	1	
+21	peu	peu	G	1	
+22	de	de	P	1	
+23	poussière	poussière	N	1	
+24	mais	mais	C	1	
+25	ça	ça	P	1	
+26	reste	rester	V	1	
+27	acceptable	acceptable	G	1	
+28	.	.	O	1	
+
+1	+	+	G	1	
+

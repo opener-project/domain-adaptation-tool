@@ -1,0 +1,49 @@
+1	Schein	scheinen	V	1	
+2	und	und	C	1	
+3	Sein	sein	Q	1	
+
+1	habe	haben	V	1	
+2	gedacht	denken|gedenken	V	1	
+3	,	,	O	1	
+4	ich	ich	Q	1	
+5	wäre	sein	V	1	
+6	in	in	P	1	
+7	einem	eine	D	1	
+8	anderen	andere	Q	1	
+9	Hotel	Hotel	N	1	
+10	und	und	C	1	
+11	nicht	nicht	O	1	
+12	im	in	P	1	
+13	Hostel_Lesseps	Hostel_Lesseps	O	1	ne=Hotel
+14	.	.	O	1	
+
+1	Das	die	D	1	
+2	Personal	Personal	N	1	
+3	kann	können	V	1	
+4	nur	nur	A	1	
+5	Spanisch	Spanisch	N	1	
+6	,	,	O	1	
+7	das	die	D	1	
+8	Zimmer	Zimmer	N	1	
+9	für	für	P	1	
+10	40_Euro	40_Euro	N	1	ne=Money
+11	ist	sein	V	1	
+12	winzig	winzig	G	1	
+13	und	und	C	1	
+14	dunkel	dunkel	G	1	
+15	,	,	O	1	
+16	es	es	Q	1	
+17	gibt	geben	V	1	
+18	keinen	keine	Q	1	
+19	Aufenthaltsraum	Aufenthaltsraum	N	1	
+20	und	und	C	1	
+21	kein	keine	Q	1	
+22	Frühstück	Frühstück	N	1	
+23	.	.	O	1	
+
+1	Lohnt	lohnen	V	1	
+2	sich	sich	Q	1	
+3	nicht	nicht	O	1	
+4	.	.	O	1	
+5	.	.	O	1	
+

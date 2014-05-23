@@ -1,0 +1,80 @@
+1	4	4	G	1	
+2	stelle	stella	N	1	
+3	old	old	G	1	
+4	stile	stile	N	1	
+5	con	con	P	1	
+6	camere	camera	N	1	
+7	spaziose	spazioso	G	1	
+
+1	Ho	avere	V	1	
+2	apprezzato	apprezzare	V	1	
+3	di	di	P	1	
+4	questo	questo	G	1	
+5	hotel	hotel	N	1	
+6	la	lo	D	1	
+7	dimensione	dimensione	N	1	
+8	delle	delle	P	1	
+9	camere	camera	N	1	
+10	:	:	O	1	
+11	spaziose	spazioso	G	1	
+12	!	!	O	1	
+
+1	L'	lo	D	1	
+2	hotel	hotel	N	1	
+3	è	è	R	1	
+4	un	uno	D	1	
+5	4	4	G	1	
+6	stelle	stella	N	1	
+7	dignitoso	dignitoso	G	1	
+8	,	,	O	1	
+9	non	non	A	1	
+10	certo	certo	N	1	
+11	di	di	P	1	
+12	design	design	N	1	
+13	..	..	O	1	
+14	.	.	O	1	
+
+1	Ma	ma	Q	1	
+2	finalmente	finalmente	A	1	
+3	delle	delle	P	1	
+4	camere	camera	N	1	
+5	vivibili	vivibili	G	1	
+6	.	.	O	1	
+
+1	L'	lo	D	1	
+2	hotel	hotel	N	1	
+3	si	si	Q	1	
+4	trova	trovare	V	1	
+5	ad	ad	P	1	
+6	Opera	opera	R	1	ne=POI
+7	,	,	O	1	
+8	alle	alle	P	1	
+9	porte	porta	N	1	
+10	di	di	P	1	
+11	Milano	milano	R	1	ne=Location
+12	,	,	O	1	
+13	è	è	R	1	
+14	accessibile	accessibile	G	1	
+15	direttamente	direttamente	A	1	
+16	dalla	dalla	P	1	
+17	tangenziale	tangenziale	N	1	
+18	.	.	O	1	
+
+1	E	e	Q	1	
+2	'	'	Q	1	
+3	convenzionato	convenzionato	G	1	
+4	con	con	P	1	
+5	l'	lo	D	1	
+6	Istituto	istituto	N	1	
+7	europeo	europeo	G	1	
+8	tumori	tumore	N	1	
+9	,	,	O	1	
+10	con	con	P	1	
+11	cui	cui	Q	1	
+12	ha	avere	V	1	
+13	un	uno	D	1	
+14	pratico	pratico	G	1	
+15	servizio	servizio	N	1	
+16	navetta	navetta	N	1	
+17	.	.	O	1	
+

@@ -1,0 +1,104 @@
+1	Tadellos	tadellos	G	1	
+
+1	Tadellos	tadellos	G	1	
+2	!	!	O	1	
+
+1	Wir	wir	Q	1	
+2	reisen	reisen	V	1	
+3	seit	seit	P	1	
+4	15	15	O	1	
+5	Jahren	Jahr	N	1	
+6	zum	zu	P	1	
+7	Feiern	Feier|Feiern	N	1	
+8	nach	nach	P	1	
+9	El_Arenal	El_Arenal	O	1	ne=Hotel
+10	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	wussten	wissen	V	1	
+3	bis	bis	P	1	
+4	heute	heute	A	1	
+5	leider	leider	A	1	
+6	nicht	nicht	O	1	
+7	,	,	O	1	
+8	das	die	Q	1	
+9	es	es	Q	1	
+10	ein	eine	D	1	
+11	soooooooo	soooooooo	O	1	
+12	schönes	schön	G	1	
+13	Hotel	Hotel	N	1	
+14	in	in	P	1	
+15	der	die	D	1	
+16	Party	Party	N	1	
+17	Zone	Zone	N	1	
+18	gibt	geben	V	1	
+19	.	.	O	1	
+
+1	Besonders	besonders	A	1	
+2	sauber	sauber	G	1	
+3	.	.	O	1	
+
+1	Besser	gut	G	1	
+2	geht	gehen	V	1	
+3	´	´	O	1	
+4	s	s	N	1	
+5	nicht	nicht	O	1	
+6	.	.	O	1	
+
+1	Super	Super	N	1	
+2	Lage	Lage	N	1	
+3	für	für	P	1	
+4	Strand	Strand	N	1	
+5	&	&	C	1	
+6	Feiern	Feier|Feiern	N	1	
+7	.	.	O	1	
+
+1	Im	in	P	1	
+2	Umkreis	Umkreis	N	1	
+3	von	von	P	1	
+4	75	75	O	1	
+5	Metern	Meter	N	1	
+6	haben	haben	V	1	
+7	wir	wir	Q	1	
+8	alles	alle	Q	1	
+9	erreicht	erreichen	V	1	
+10	was	was	Q	1	
+11	man	man	Q	1	
+12	für	für	P	1	
+13	einen	eine	D	1	
+14	Party	Party	N	1	
+15	Urlaub	Urlaub	R	1	
+16	benötigt	benötigen	V	1	
+17	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstück	Frühstück	N	1	
+3	war	sein	V	1	
+4	unbeschreiblich	unbeschreiblich	G	1	
+5	lecker	lecker	G	1	
+6	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	kommen	kommen	V	1	
+3	auf	auf	P	1	
+4	jeden	jede	Q	1	
+5	Fall	Fall	N	1	
+6	im	in	P	1	
+7	nächsten	nah	G	1	
+8	Urlaub	Urlaub	N	1	
+9	wieder	wieder	A	1	
+10	in	in	P	1	
+11	dieses	dies	Q	1	
+12	Hotel	Hotel	N	1	
+13	.	.	O	1	
+
+1	Vielen	viele	Q	1	
+2	Dank	Dank	N	1	
+3	an	an	P	1	
+4	all	alle	Q	1	
+5	die	die	D	1	
+6	Mitarbeiter	Mitarbeiter	N	1	
+7	des	die	D	1	
+8	Hotels	Hotel	N	1	
+9	.	.	O	1	
+

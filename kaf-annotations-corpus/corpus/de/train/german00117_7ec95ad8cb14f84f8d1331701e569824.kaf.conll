@@ -1,0 +1,125 @@
+1	Schöner	schön	G	1	
+2	Aufenthalt	Aufenthalt	N	1	
+3	im	in	P	1	
+4	Holiday_In	Holiday_in	P	1	ne=Hotel
+5	in	in	P	1	
+6	Leiden	Leiden	N	1	ne=Location
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	einen	eine	D	1	
+4	schönen	schön	G	1	
+5	Urlaub	Urlaub	N	1	
+6	in	in	P	1	
+7	diesem	dies	Q	1	
+8	Hote	Hote	O	1	
+9	.	.	O	1	
+
+1	Die	die	D	1	
+2	Zimmer	Zimmer	N	1	
+3	waren	sein	V	1	
+4	schön	schön	G	1	
+5	.	.	O	1	
+
+1	Das	die	D	1	
+2	Essen	Essen	N	1	
+3	war	sein	V	1	
+4	lecker	lecker	G	1	
+5	und	und	C	1	
+6	die	die	D	1	
+7	Auswahlt	Auswahlt	O	1	
+8	war	sein	V	1	
+9	für	für	P	1	
+10	uns	wir	Q	1	
+11	ausreichend	ausreichend	G	1	
+12	.	.	O	1	
+
+1	Die	die	D	1	
+2	Kinder	Kind	N	1	
+3	konnten	können	V	1	
+4	in	in	P	1	
+5	den	die	D	1	
+6	Spelbereichen	Spelbereichen	O	1	
+7	gut	gut	G	1	
+8	spielen	spielen	V	1	
+9	und	und	C	1	
+10	hatte	haben	V	1	
+11	viel	viele	Q	1	
+12	Spaß	Spaß	N	1	
+13	.	.	O	1	
+
+1	Der	die	D	1	
+2	Pool	Pool	N	1	
+3	ist	sein	V	1	
+4	recht	recht	G	1	
+5	klein	klein	G	1	
+6	,	,	O	1	
+7	aber	aber	A	1	
+8	für	für	P	1	
+9	uns	wir	Q	1	
+10	war	sein	V	1	
+11	es	es	Q	1	
+12	ausreichend	ausreichend	G	1	
+13	.	.	O	1	
+
+1	Es	es	Q	1	
+2	gibt	geben	V	1	
+3	viele	viele	Q	1	
+4	Zimmer	Zimmer	N	1	
+5	mit	mit	P	1	
+6	dem	die	D	1	
+7	Ausgang	Ausgang	N	1	
+8	ins	in	P	1	
+9	Restaurant	Restaurant	N	1	
+10	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	das	die	D	1	
+4	Zimmer	Zimmer	N	1	
+5	314	@card@	O	1	
+6	(	(	O	1	
+7	unser	unser	Q	1	
+8	Ausgang	Ausgang	N	1	
+9	war	sein	V	1	
+10	von	von	P	1	
+11	hinten	hinten	A	1	
+12	in	in	P	1	
+13	das	die	D	1	
+14	Hotel	Hotel	N	1	
+15	)	)	O	1	
+16	und	und	C	1	
+17	somit	somit	A	1	
+18	auch	auch	A	1	
+19	Tageslicht	Tageslicht	N	1	
+20	ind	ind	O	1	
+21	den	die	D	1	
+22	Zimmern	Zimmer	N	1	
+23	.	.	O	1	
+
+1	Mit	mit	P	1	
+2	dem	die	D	1	
+3	Auto	Auto	N	1	
+4	hatte	haben	V	1	
+5	man	man	Q	1	
+6	eine	eine	D	1	
+7	gute	gut	G	1	
+8	Verbindung	Verbindung	N	1	
+9	zum	zu	P	1	
+10	Strand	Strand	N	1	
+11	und	und	C	1	
+12	nach	nach	P	1	
+13	Amsterdam	Amsterdam	R	1	ne=Location
+14	oder	oder	C	1	
+15	Den_Hag	die_Hag	O	1	ne=Location
+16	.	.	O	1	
+
+1	Zum	zu	P	1	
+2	Strand	Strand	N	1	
+3	waren	sein	V	1	
+4	es	es	Q	1	
+5	ca.	ca.	A	1	
+6	8	8	O	1	
+7	km	km	N	1	
+8	.	.	O	1	
+

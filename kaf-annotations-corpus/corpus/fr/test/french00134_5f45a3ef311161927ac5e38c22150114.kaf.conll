@@ -1,0 +1,43 @@
+1	Attractions	Attractions	P	1	
+2	ptits	petit	G	1	
+3	et	et	C	1	
+4	grands	grand	G	1	
+
+1	pour	pour	P	1	
+2	la	le	D	1	
+3	troisème	troisème	D	1	
+4	fois	foi	N	1	
+5	pas	pas	G	1	
+6	décue	décue	V	1	
+7	,	,	O	1	
+8	à	à	P	1	
+9	part	part	N	1	
+10	leurs	son	D	1	
+11	tarifs	tarif	N	1	
+12	(	(	O	1	
+13	demi	demi	N	1	
+14	tarifs	tarif	N	1	
+15	)	)	O	1	
+16	qui	qui	P	1	
+17	était	être	V	1	
+18	un	un	D	1	
+19	tarif	tarif	N	1	
+20	réduit	réduire	V	1	
+21	donc	donc	G	1	
+22	au	au	O	1	
+23	lieu	lieu	N	1	
+24	de	de	P	1	
+25	payer	payer	V	1	
+26	'	'	G	1	
+27	euros	euros	G	1	
+28	on	on	Q	1	
+29	paie	payer	V	1	
+30	3	3	G	1	
+31	!	!	O	1	
+32	!	!	O	1	
+33	!	!	O	1	
+34	!	!	O	1	
+
+1	logique	logique	N	1	
+2	......	......	O	1	
+

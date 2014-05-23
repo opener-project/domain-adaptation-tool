@@ -1,0 +1,48 @@
+1	Sconsigliato	sconsigliare	V	1	
+
+1	E	e	Q	1	
+2	'	'	Q	1	
+3	stato	essere	V	1	
+4	il	lo	D	1	
+5	peggior	peggior	G	1	
+6	Premier_Inn	premier_inn	R	1	ne=Hotel
+7	provato	provare	V	1	
+8	.	.	O	1	
+
+1	Anche	anche	Q	1	
+2	se	se	Q	1	
+3	la	lo	D	1	
+4	struttura	strutturare	V	1	
+5	sembra	sembrare	V	1	
+6	nuova	nuovo	G	1	
+7	,	,	O	1	
+8	si	si	Q	1	
+9	presenta	presentare	V	1	
+10	con	con	P	1	
+11	camere	camera	N	1	
+12	piccole	piccolo	G	1	
+13	,	,	O	1	
+14	scarsa	scarso	G	1	
+15	luminosità	luminosita'	R	1	
+16	della	della	P	1	
+17	stanza	stanza	N	1	
+18	,	,	O	1	
+19	parcheggio	parcheggio	N	1	
+20	auto	auto	N	1	
+21	per	per	P	1	
+22	poche	poco	G	1	
+23	macchine	macchina	N	1	
+24	.	.	O	1	
+
+1	Inoltre	inoltre	A	1	
+2	,	,	O	1	
+3	il	lo	D	1	
+4	condizionatore	condizionatore	N	1	
+5	dell'	dell'	P	1	
+6	aria	aria	N	1	
+7	condizionata	condizionare	V	1	
+8	si	si	Q	1	
+9	presentava	presentare	V	1	
+10	sporco	sporco	N	1	
+11	.	.	O	1	
+

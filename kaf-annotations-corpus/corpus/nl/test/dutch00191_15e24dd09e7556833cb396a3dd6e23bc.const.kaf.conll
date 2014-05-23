@@ -1,0 +1,165 @@
+1	Prachtige	prachtig	G	1	
+2	locatie	locatie	N	1	
+3	in	in	P	1	
+4	Toscane	Toscane	R	1	ne=Location
+
+1	Tonda	Tonda	O	1	ne=Location
+2	is	zijn	V	1	
+3	een	een	D	1	
+4	Toscaans	Toscaans	G	1	
+5	dorpje	dorp	N	1	
+6	dat	dat	Q	1	
+7	door	door	P	1	
+8	Hapimag	Hapimag	O	1	
+9	is	zijn	V	1	
+10	omgetoverd	omtoveren	V	1	
+11	tot	tot	P	1	
+12	een	een	D	1	
+13	prachtig	prachtig	G	1	
+14	vakantieresort	vakantieresort	O	1	
+15	.	.	O	1	
+
+1	Met	met	P	1	
+2	eigen	eigen	G	1	
+3	auto	auto	N	1	
+4	kun	kun	O	1	
+5	je	je	Q	1	
+6	de	de	D	1	
+7	mooie	mooi	G	1	
+8	steden	stad|stede	N	1	
+9	en	en	C	1	
+10	plekjes	plek	N	1	
+11	van	van	P	1	
+12	Toscane	Toscane	R	1	ne=Location
+13	verkennen	verkennen	V	1	
+14	.	.	O	1	
+
+1	Wij	wij	Q	1	
+2	hadden	hebben	V	1	
+3	een	een	D	1	
+4	2	@card@	O	1	
+5	·	·	O	1	
+6	kamer	kamer	N	1	
+7	premium	premium	O	1	
+8	appartement	appartement	N	1	
+9	.	.	O	1	
+
+1	Wij	wij	Q	1	
+2	waren	wezen|zijn	V	1	
+3	met	met	P	1	
+4	4	@card@	O	1	
+5	volwassenen	volwassene	N	1	
+6	.	.	O	1	
+
+1	Dit	dit	Q	1	
+2	was	wezen|zijn	V	1	
+3	goed	goed	A	1	
+4	te	te	O	1	
+5	doen	doen	V	1	
+6	;	;	O	1	
+7	alleen	alleen	A	1	
+8	de	de	D	1	
+9	badkamer	badkamer	N	1	
+10	was	wezen|zijn	V	1	
+11	erg	erg	A	1	
+12	klein	klein	G	1	
+13	evenals	evenals	C	1	
+14	de	de	D	1	
+15	keuken	keuken	N	1	
+16	.	.	O	1	
+
+1	De	de	D	1	
+2	keuken	keuken	N	1	
+3	had	hebben	V	1	
+4	daarbij	daarbij	Q	1	
+5	een	een	D	1	
+6	klein	klein	G	1	
+7	aanrecht	aanrecht	N	1	
+8	dat	dat	Q	1	
+9	heel	heel	A	1	
+10	laag	laag	G	1	
+11	was	wezen|zijn	V	1	
+12	en	en	C	1	
+13	er	er	Q	1	
+14	was	wassen	V	1	
+15	geen	geen	D	1	
+16	magnetron	magnetron	N	1	
+17	of	of	C	1	
+18	oven	oven	N	1	
+19	en	en	C	1	
+20	ook	ook	A	1	
+21	geen	geen	D	1	
+22	vaatwasser	vaatwasser	N	1	
+23	.	.	O	1	
+
+1	Wij	wij	Q	1	
+2	hadden	hebben	V	1	
+3	appartement	appartement	N	1	
+4	06	@card@	O	1	
+5	.	.	O	1	
+
+1	001	@card@	O	1	
+2	.	.	O	1	
+
+1	Tonda	Tonda	O	1	ne=Location
+2	is	zijn	V	1	
+3	een	een	D	1	
+4	heel	heel	G	1	
+5	sfeervol	sfeervol	G	1	
+6	Toscaans	Toscaans	G	1	
+7	vakantiedorpje	vakantiedorpje	O	1	
+8	geworden	worden	V	1	
+9	.	.	O	1	
+
+1	Wij	wij	Q	1	
+2	zaten	zitten	V	1	
+3	wel	wel	A	1	
+4	nogal	nogal	A	1	
+5	ver	ver	G	1	
+6	van	van	P	1	
+7	de	de	D	1	
+8	receptie	receptie	N	1	
+9	/	/	O	1	
+10	restaurant	restaurant	N	1	
+11	en	en	C	1	
+12	we	we	Q	1	
+13	moesten	moeten	V	1	
+14	steeds	steeds	A	1	
+15	veel	veel	A	1	
+16	hoogteverschil	hoogteverschil	N	1	
+17	overbruggen	overbruggen	V	1	
+18	.	.	O	1	
+
+1	Ook	ook	A	1	
+2	was	wezen|zijn	V	1	
+3	de	de	D	1	
+4	weg	weg	N	1	
+5	die	die	Q	1	
+6	naar	naar	C	1	
+7	beneden	beneden	A	1	
+8	voerde	voeren	V	1	
+9	naar	naar	P	1	
+10	ons	ons	D	1	
+11	appartement	appartement	N	1	
+12	in	in	P	1	
+13	een	een	D	1	
+14	zeer	zeer	G	1	
+15	slechte	slecht	G	1	
+16	conditie	conditie	N	1	
+17	.	.	O	1	
+
+1	Er	er	Q	1	
+2	waren	wezen|zijn	V	1	
+3	dus	dus	A	1	
+4	mindere	min	G	1	
+5	punten	punt	N	1	
+6	,	,	O	1	
+7	maar	maar	C	1	
+8	we	we	Q	1	
+9	hebben	hebben	V	1	
+10	toch	toch	A	1	
+11	een	een	D	1	
+12	fantastische	fantastisch	G	1	
+13	week	week	N	1	
+14	gehad	hebben	V	1	
+

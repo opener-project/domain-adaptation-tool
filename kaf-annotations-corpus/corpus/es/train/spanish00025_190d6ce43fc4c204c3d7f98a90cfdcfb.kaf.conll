@@ -1,0 +1,58 @@
+1	Muy	Muy	R	1	
+2	céntrico	céntrico	N	1	
+3	.	.	O	1	
+
+1	Ideal	Ideal	R	1	
+2	para	para	O	1	
+3	conocer	conocer	O	1	
+4	la	la	O	1	
+5	ciudad	ciudad	O	1	
+6	.	.	O	1	
+
+1	Es	es	N	1	
+2	un	un	G	1	
+3	hotel	hotel	N	1	
+4	situado	situado	N	1	
+5	en	en	P	1	
+6	plena	plena	G	1	
+7	Gran	Gran	R	1	
+8	Vía	Vía	R	1	
+9	,	,	O	1	
+10	muy	muy	G	1	
+11	cerca	cerca	N	1	
+12	de	de	O	1	
+13	la	la	O	1	
+14	Puerta	Puerta	R	1	
+15	del	del	O	1	
+16	Sol	Sol	R	1	
+17	,	,	O	1	
+18	y	y	A	1	
+19	es	es	V	1	
+20	ideal	ideal	G	1	
+21	para	para	N	1	
+22	conocer	conocer	O	1	
+23	la	la	O	1	
+24	ciudad	ciudad	O	1	
+25	.	.	O	1	
+
+1	El	El	R	1	
+2	Spa	Spa	R	1	
+3	no	no	D	1	
+4	es	es	V	1	
+5	muy	muy	G	1	
+6	grande	grande	N	1	
+7	pero	pero	N	1	
+8	suficiente	suficiente	G	1	
+9	para	para	N	1	
+10	pasar	pasar	N	1	
+11	un	un	G	1	
+12	rato	rato	N	1	
+13	agradable	agradable	G	1	
+14	.	.	O	1	
+
+1	El	El	R	1	
+2	personal	personal	G	1	
+3	muy	muy	N	1	
+4	amable	amable	G	1	
+5	.	.	O	1	
+

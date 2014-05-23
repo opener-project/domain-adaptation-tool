@@ -1,0 +1,138 @@
+1	Vaut	Vaut	N	1	
+2	mieux	mieux	G	1	
+3	un	un	D	1	
+4	hôtel	hôtel	N	1	
+5	pas	pas	G	1	
+6	cher	cher	G	1	
+7	si	si	C	1	
+8	on	on	Q	1	
+9	ne	ne	G	1	
+10	reste	rester	V	1	
+11	pas	pas	G	1	
+12	!	!	O	1	
+
+1	·	·	O	1	
+2	L'	le	D	1	
+3	état	état	N	1	
+4	général	général	G	1	
+5	de	de	P	1	
+6	l'	le	D	1	
+7	hôtel	hôtel	N	1	
+8	était	être	V	1	
+9	plutôt	plutôt	G	1	
+10	satisfaisant	satisfaisant	G	1	
+11	.	.	O	1	
+
+1	·	·	N	1	
+2	La	le	D	1	
+3	chambre	chambre	N	1	
+4	était	être	V	1	
+5	bien	bien	G	1	
+6	équipée	équiper	V	1	
+7	.	.	O	1	
+
+1	·	·	O	1	
+2	Il	Il	Q	1	
+3	n'	n'	G	1	
+4	y	y	Q	1	
+5	avait	avoir	V	1	
+6	pas	pas	G	1	
+7	d'	un	D	1	
+8	animation	animation	N	1	
+9	puisque	puisque	C	1	
+10	c'	c'	Q	1	
+11	est	être	V	1	
+12	un	un	D	1	
+13	hôtel	hôtel	N	1	
+14	en	en	P	1	
+15	ville	ville	N	1	
+16	.	.	O	1	
+
+1	·	·	P	1	
+2	La	le	D	1	
+3	gastronomie	gastronomie	N	1	
+4	est	être	V	1	
+5	passable	passable	G	1	
+6	.	.	O	1	
+
+1	·	·	N	1	
+2	Le	le	D	1	
+3	service	service	N	1	
+4	était	être	V	1	
+5	bien	bien	G	1	
+6	.	.	O	1	
+
+1	·	·	O	1	
+2	L'	le	D	1	
+3	hôtel	hôtel	N	1	
+4	était	être	V	1	
+5	bien	bien	G	1	
+6	situé	situer	V	1	
+7	.	.	O	1	
+
+1	·	·	D	1	
+2	L'	le	D	1	
+3	hygiène	hygiène	N	1	
+4	était	être	V	1	
+5	correcte	correct	G	1	
+6	.	.	O	1	
+
+1	·	·	O	1	
+2	Accessibilité	accessibilité	N	1	
+3	pour	pour	P	1	
+4	handicapés	handicapé	N	1	
+5	était	être	V	1	
+6	un	un	D	1	
+7	peu	peu	G	1	
+8	limitée	limiter	V	1	
+9	.	.	O	1	
+
+1	·	·	O	1	
+2	Le	le	D	1	
+3	personnel	personnel	N	1	
+4	ne	ne	G	1	
+5	parle	parler	V	1	
+6	qu'	qu'	G	1	
+7	anglais	anglais	G	1	
+8	donc	donc	G	1	
+9	je	je	Q	1	
+10	vous	lui	Q	1	
+11	conseille	conseiller	V	1	
+12	de	de	P	1	
+13	vous	lui	Q	1	
+14	y	y	Q	1	
+15	mettre	mettre	V	1	
+16	.	.	O	1	
+
+1	·	·	N	1	
+2	La	le	D	1	
+3	taille	taille	N	1	
+4	de	de	P	1	
+5	la	le	D	1	
+6	chambre	chambre	N	1	
+7	était	être	V	1	
+8	OK	OK	N	1	
+9	.	.	O	1	
+
+1	·	·	O	1	
+2	Il	Il	Q	1	
+3	y	y	Q	1	
+4	avait	avoir	V	1	
+5	beaucoup	beaucoup	G	1	
+6	de	de	P	1	
+7	commerces	commerce	N	1	
+8	aux	aux	P	1	
+9	alentours	alentour	N	1	
+10	.	.	O	1	
+
+1	·	·	O	1	
+2	Check	Check	N	1	
+3	·	·	O	1	
+4	in	in	O	1	
+5	et	et	C	1	
+6	check	check	D	1	
+7	·	·	N	1	
+8	out	out	G	1	
+9	facile	facile	G	1	
+10	.	.	O	1	
+

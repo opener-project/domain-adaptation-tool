@@ -1,0 +1,61 @@
+1	Very	Very	R	1	
+2	Upsale	Upsale	R	1	
+3	Hotel	Hotel	R	1	
+4	,	,	O	1	
+5	In	in	P	1	
+6	the	the	D	1	
+7	Center	Center	R	1	
+8	of	of	P	1	
+9	the	the	D	1	
+10	City	City	R	1	
+
+1	The	the	D	1	
+2	hotel	hotel	N	1	
+3	is	be	V	1	
+4	upscale	upscale	G	1	
+5	and	and	C	1	
+6	very	very	A	1	
+7	expensive	expensive	G	1	
+8	.	.	O	1	
+
+1	It	it	Q	1	
+2	is	be	V	1	
+3	a	a	D	1	
+4	really	really	A	1	
+5	nice	nice	G	1	
+6	hotel	hotel	N	1	
+7	in	in	P	1	
+8	great	great	G	1	
+9	condition	condition	N	1	
+10	and	and	C	1	
+11	very	very	A	1	
+12	easy	easy	G	1	
+13	to	to	P	1	
+14	travel	travel	V	1	
+15	to	to	P	1	
+16	anywhere	anywhere	A	1	
+17	in	in	P	1	
+18	the	the	D	1	
+19	city	city	N	1	
+20	.	.	O	1	
+
+1	I	i	Q	1	
+2	walked	walk	V	1	
+3	mostly	mostly	A	1	
+4	everywhere	everywhere	A	1	
+5	I	i	Q	1	
+6	wanted	want	V	1	
+7	to	to	P	1	
+8	go	go	V	1	
+9	.	.	O	1	
+
+1	Numerous	numerous	G	1	
+2	shopping	shopping	N	1	
+3	and	and	C	1	
+4	dining	dining	N	1	
+5	areas	area	N	1	
+6	within	within	P	1	
+7	walking	walking	N	1	
+8	distance	distance	N	1	
+9	.	.	O	1	
+

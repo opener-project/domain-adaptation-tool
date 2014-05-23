@@ -1,0 +1,48 @@
+1	Bella	bello	G	1	
+2	posizione	posizione	N	1	
+3	ma	ma	Q	1	
+4	hotel	hotel	N	1	
+5	trascurato	trascurare	V	1	
+
+1	Camere	camera	N	1	
+2	ampie	ampio	G	1	
+3	e	e	Q	1	
+4	ben	ben	A	1	
+5	arredata	arredare	V	1	
+6	.	.	O	1	
+
+1	Personale	personale	N	1	
+2	di	di	P	1	
+3	media	medio	G	1	
+4	qualità	qualita'	N	1	
+5	,	,	O	1	
+6	gestione	gestione	N	1	
+7	della	della	P	1	
+8	struttura	struttura	N	1	
+9	non	non	A	1	
+10	all'	all'	P	1	
+11	altezza	altezza	N	1	
+12	del	del	P	1	
+13	prezzo	prezzo	N	1	
+14	.	.	O	1	
+
+1	Hotel	hotel	N	1	
+2	un	uno	D	1	
+3	po	po	R	1	
+4	trascurato	trascurare	V	1	
+5	.	.	O	1	
+
+1	Ottima	ottimo	G	1	
+2	posizione	posizione	N	1	
+3	,	,	O	1	
+4	vicino	vicino	N	1	
+5	ai	ai	P	1	
+6	mezzi	mezzo	N	1	
+7	e	e	Q	1	
+8	alla	alla	P	1	
+9	piazza	piazza	N	1	
+10	più	piu'	G	1	
+11	bella	bello	G	1	
+12	di	di	P	1	
+13	Berlino	berlino	R	1	ne=Location
+

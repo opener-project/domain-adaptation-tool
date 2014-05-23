@@ -1,0 +1,45 @@
+1	Bon	bon	G	1	
+2	petit	petit	G	1	
+3	hôtel	hôtel	N	1	
+
+1	Super	Super	P	1	
+2	rien	rien	P	1	
+3	a	avoir	V	1	
+4	dire	dire	V	1	
+5	les	le	D	1	
+6	bars	bar	N	1	
+7	au	au	P	1	
+8	alentours	alentour	N	1	
+9	sont	être	V	1	
+10	tres	tres	G	1	
+11	bien	bien	G	1	
+12	on	on	Q	1	
+13	y	y	Q	1	
+14	mange	manger	V	1	
+15	bien	bien	G	1	
+16	.L'	.L'	D	1	
+17	hotel	hotel	N	1	
+18	et	et	C	1	
+19	propre	propre	G	1	
+20	les	le	D	1	
+21	sanitaires	sanitaire	N	1	
+22	impecables.L'	impecables.L'	G	1	
+23	acceuil	acceuil	N	1	
+24	est	être	V	1	
+25	très	très	G	1	
+26	bien	bien	G	1	
+27	,	,	O	1	
+28	j'	j'	Q	1	
+29	ai	avoir	V	1	
+30	passé	passer	V	1	
+31	un	un	D	1	
+32	très	très	G	1	
+33	bon	bon	G	1	
+34	séjour	séjour	N	1	
+35	a	avoir	V	1	
+36	Paris	pari	N	1	ne=Location
+37	dans	dans	P	1	
+38	cet	ce	D	1	
+39	hotel	hotel	N	1	
+40	.	.	O	1	
+

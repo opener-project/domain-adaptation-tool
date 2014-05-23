@@ -1,0 +1,41 @@
+1	Très	Très	G	1	
+2	bon	bon	G	1	
+3	hôtel	hôtel	N	1	
+
+1	Je	Je	Q	1	
+2	recommande	recommande	Q	1	
+3	cet	ce	D	1	
+4	hotel	hotel	N	1	
+5	pour	pour	P	1	
+6	la	le	D	1	
+7	qualité	qualité	N	1	
+8	de	de	P	1	
+9	ses	son	D	1	
+10	services	service	N	1	
+11	dans	dans	P	1	
+12	tout	tout	G	1	
+13	les	le	D	1	
+14	domaines	domaine	N	1	
+15	puis	puis	C	1	
+16	je	je	Q	1	
+17	souhaite	souhaiter	V	1	
+18	préciser	préciser	V	1	
+19	la	le	D	1	
+20	Trés	Trés	N	1	
+21	bonne	bon	G	1	
+22	préstation	préstation	N	1	
+23	de	de	P	1	
+24	l'	le	D	1	
+25	animateur	animateur	N	1	
+26	chef	chef	N	1	
+27	Bilal	Bilal	N	1	ne=Person
+28	ainsi	ainsi	G	1	
+29	que	que	C	1	
+30	son	son	D	1	
+31	équipe	équipe	N	1	
+32	tout	tout	G	1	
+33	nos	son	D	1	
+34	remerciements	remerciement	N	1	
+35	et	et	C	1	
+36	merci	merci	N	1	
+

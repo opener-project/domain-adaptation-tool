@@ -1,0 +1,50 @@
+1	Magnifico	Magnifico	R	1	
+2	hotel	hotel	N	1	
+3	a	a	D	1	
+4	buen	buen	N	1	
+5	precio	precio	N	1	
+
+1	Perfecto	Perfecto	R	1	
+2	para	para	O	1	
+3	la	la	O	1	
+4	estancia	estancia	O	1	
+5	en	en	O	1	
+6	Roma	roma	O	1	ne=Location
+7	,	,	O	1	
+8	cerca	cerca	O	1	
+9	de	de	O	1	
+10	la_estación_de_Termini	la_estación_de_Termini	R	1	ne=POI
+11	,	,	O	1	
+12	con	con	G	1	
+13	todas	todas	N	1	
+14	las	las	V	1	
+15	posibilidades	posibilidades	N	1	
+16	que	que	V	1	
+17	eso	eso	N	1	
+18	ofrece	ofrece	N	1	
+19	,	,	O	1	
+20	buen	buen	G	1	
+21	desayuno	desayuno	N	1	
+22	y	y	G	1	
+23	gente	gente	G	1	
+24	muy	muy	G	1	
+25	amable	amable	G	1	
+26	,	,	O	1	
+27	muy	muy	G	1	
+28	recomendado	recomendado	N	1	
+29	!!	!!	N	1	
+
+1	Hay	Hay	R	1	
+2	mucha	mucha	O	1	
+3	disparidad	disparidad	O	1	
+4	de	de	O	1	
+5	precios	precios	O	1	
+6	en	en	O	1	
+7	según	según	O	1	
+8	que	que	O	1	
+9	páginas	páginas	O	1	
+10	,	,	O	1	
+11	buscad	buscad	N	1	
+12	bien	bien	O	1	
+13	!!!	!!!	O	1	
+

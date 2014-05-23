@@ -1,0 +1,52 @@
+1	Buen	Buen	R	1	
+2	sitio	sitio	N	1	
+
+1	De	De	R	1	
+2	comida	comida	O	1	
+3	no	no	D	1	
+4	es	es	N	1	
+5	que	que	V	1	
+6	me	me	Q	1	
+7	gustara	gustara	G	1	
+8	mucho	mucho	G	1	
+9	,	,	O	1	
+10	pero	pero	P	1	
+11	no	no	D	1	
+12	estaba	estaba	N	1	
+13	mal	mal	G	1	
+14	tampoco	tampoco	N	1	
+15	.	.	O	1	
+
+1	Esta	Esta	R	1	
+2	bastante	bastante	N	1	
+3	bien	bien	N	1	
+4	para	para	N	1	
+5	pasar	pasar	N	1	
+6	las	las	V	1	
+7	vacaciones	vacaciones	N	1	
+8	la	la	D	1	
+9	verdad	verdad	N	1	
+10	.	.	O	1	
+
+1	Tienen	Tienen	R	1	
+2	mui	mui	O	1	
+3	buen	buen	O	1	
+4	trato	trato	O	1	
+5	con	con	O	1	
+6	los	los	O	1	
+7	clientes	clientes	O	1	
+8	y	y	G	1	
+9	te	te	G	1	
+10	atienden	atienden	G	1	
+11	bien.	bien.	N	1	
+12	las	las	V	1	
+13	habitaciones	habitaciones	N	1	
+14	no	no	D	1	
+15	estan	estan	N	1	
+16	mal	mal	G	1	
+17	y	y	G	1	
+18	se	se	N	1	
+19	duerme	duerme	N	1	
+20	bien	bien	N	1	
+21	.	.	O	1	
+

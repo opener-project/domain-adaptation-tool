@@ -1,0 +1,106 @@
+1	Bonne	bon	G	1	
+2	suprise	suprise	N	1	
+3	!	!	O	1	
+
+1	Hôtel	hôtel	N	1	
+2	simple	simple	G	1	
+3	,	,	O	1	
+4	propre	propre	G	1	
+5	et	et	C	1	
+6	bien	bien	G	1	
+7	situé	situer	G	1	
+8	!	!	O	1	
+
+1	Un	un	D	1	
+2	hôtel	hôtel	N	1	
+3	qui	qui	P	1	
+4	a	avoir	V	1	
+5	première	premier	G	1	
+6	vue	voir	V	1	
+7	semble	sembler	V	1	
+8	un	un	D	1	
+9	peu	peu	G	1	
+10	vieillot	vieillot	G	1	
+11	.	.	O	1	
+
+1	Mais	Mais	C	1	
+2	notre	son	D	1	
+3	étage	étage	N	1	
+4	venait	venir	V	1	
+5	d'	d'	P	1	
+6	être	être	V	1	
+7	rénové	rénover	V	1	
+8	.	.	O	1	
+
+1	D'	D'	P	1	
+2	où	où	P	1	
+3	notre	son	D	1	
+4	surprise	surprise	N	1	
+5	à	à	P	1	
+6	la	le	D	1	
+7	découverte	découverte	N	1	
+8	de	de	P	1	
+9	notre	son	D	1	
+10	chambre	chambre	N	1	
+11	:	:	O	1	
+12	décoration	décoration	N	1	
+13	moderne	moderne	G	1	
+14	,	,	O	1	
+15	deux	deux	D	1	
+16	lits	lit	N	1	
+17	de	de	P	1	
+18	bonne	bon	G	1	
+19	taille	taille	N	1	
+20	,	,	O	1	
+21	armoire	armoire	N	1	
+22	,	,	O	1	
+23	ceintres	ceintres	N	1	
+24	,	,	O	1	
+25	une	un	D	1	
+26	salle	salle	N	1	
+27	de	de	P	1	
+28	bain	bain	N	1	
+29	neuve	neuve	N	1	
+30	avec	avec	P	1	
+31	une	un	D	1	
+32	douche	douche	N	1	
+33	assez	assez	G	1	
+34	spacieuse	spacieux	G	1	
+35	...	...	O	1	
+
+1	Le	le	D	1	
+2	prix	prix	N	1	
+3	est	être	V	1	
+4	vraime	vraime	G	1	
+5	,	,	O	1	
+6	t	t	G	1	
+7	attractif	attractif	G	1	
+8	,	,	O	1	
+9	en	en	P	1	
+10	plein	plein	G	1	
+11	sur	sur	P	1	
+12	les_ramblas	le_ramblas	N	1	ne=POI
+13	!	!	O	1	
+
+1	Idéal	idéal	N	1	
+2	pour	pour	P	1	
+3	jeune	jeune	G	1	
+4	couple	couple	N	1	
+5	ou	ou	C	1	
+6	amis	ami	N	1	
+7	!!	!!	G	1	
+
+1	Le	le	D	1	
+2	+	+	G	1	
+3	,	,	O	1	
+4	la	le	D	1	
+5	vue	vue	N	1	
+6	imprenable	imprenable	G	1	
+7	sur	sur	P	1	
+8	les	le	D	1	
+9	cheminée	cheminée	N	1	
+10	du	du	P	1	
+11	"_Palau_Guëll	&quot;_Palau_Guëll	N	1	ne=POI
+12	"	&quot;	O	1	
+13	!!	!!	O	1	
+

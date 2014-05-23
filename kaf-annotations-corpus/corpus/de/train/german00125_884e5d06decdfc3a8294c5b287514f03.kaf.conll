@@ -1,0 +1,111 @@
+1	Schönes	schön	G	1	
+2	Hotel	Hotel	N	1	
+3	mit	mit	P	1	
+4	minimalen	minimal	G	1	
+5	Abstrichen	Abstrich	N	1	
+
+1	Die	die	D	1	
+2	Hotelanlage	Hotelanlage	N	1	
+3	befindet	befinden	V	1	
+4	sich	sich	Q	1	
+5	direkt	direkt	G	1	
+6	am	an	P	1	
+7	wunderschönen	wunderschön	G	1	
+8	Strand	Strand	N	1	
+9	von	von	P	1	
+10	Playa_de_Muro	Playa_de_Muro	O	1	ne=Location
+11	.	.	O	1	
+
+1	Es	es	Q	1	
+2	sind	sein	V	1	
+3	mehrer	mehrer	O	1	
+4	1	1	O	1	
+5	·	·	O	1	
+6	stöckige	stöckige	O	1	
+7	Wohnblöcke	Wohnblock	N	1	
+8	im	in	P	1	
+9	gesamten	gesamt	G	1	
+10	Gelände	Gelände	N	1	
+11	verteilt	verteilen	V	1	
+12	.	.	O	1	
+
+1	Sie	Sie|sie	Q	1	
+2	Anlage	Anlage	N	1	
+3	ist	sein	V	1	
+4	direkt	direkt	G	1	
+5	mit	mit	P	1	
+6	dem	die	D	1	
+7	Hotel_Iberostar_Playa_de_Muro	Hotel_Iberostar_Playa_de_Muro	O	1	ne=Hotel
+8	verbunden	verbinden	V	1	
+9	,	,	O	1	
+10	wo	wo	Q	1	
+11	man	man	Q	1	
+12	ebenfalls	ebenfalls	A	1	
+13	alles	alle	Q	1	
+14	mit	mit	P	1	
+15	Nutzen	Nutzen	N	1	
+16	kann	können	V	1	
+17	.	.	O	1	
+
+1	Es	es	Q	1	
+2	besteht	bestehen	V	1	
+3	die	die	D	1	
+4	Möglichkeit	Möglichkeit	N	1	
+5	von	von	P	1	
+6	Buchung	Buchung	N	1	
+7	mit	mit	P	1	
+8	Frühstück	Frühstück	N	1	
+9	,	,	O	1	
+10	HP	HP	R	1	
+11	und	und	C	1	
+12	AI	AI	O	1	
+13	.	.	O	1	
+
+1	Die	die	D	1	
+2	Anlage	Anlage	N	1	
+3	sieht	sehen	V	1	
+4	sehr	sehr	A	1	
+5	gepflegt	gepflegt	G	1	
+6	aus	aus	V	1	
+7	.	.	O	1	
+
+1	Die	die	D	1	
+2	Gästestruktur	Gästestruktur	N	1	
+3	erstreckt	erstrecken	V	1	
+4	sich	sich	Q	1	
+5	von	von	P	1	
+6	Jung	Jung	R	1	
+7	bis	bis	C	1	
+8	At	At	R	1	
+9	und	und	C	1	
+10	vorrangig	vorrangig	G	1	
+11	Deutsche	Deutsche	N	1	
+12	,	,	O	1	
+13	Engländer	Engländer	N	1	
+14	,	,	O	1	
+15	russische	russisch	G	1	
+16	und	und	C	1	
+17	schweizer	Schweizer	G	1	
+18	Bürger	Bürger	N	1	
+19	sind	sein	V	1	
+20	vertreten	vertreten	V	1	
+21	.	.	O	1	
+
+1	DieZimmer	DieZimmer	O	1	
+2	sind	sein	V	1	
+3	etwas	etwas	A	1	
+4	hellhörig	hellhörig	G	1	
+5	und	und	C	1	
+6	es	es	Q	1	
+7	gibt	geben	V	1	
+8	viele	viele	Q	1	
+9	Tauben	Taube	N	1	
+10	von	von	P	1	
+11	denen	die	Q	1	
+12	man	man	Q	1	
+13	sehr	sehr	A	1	
+14	zeitig	zeitig	G	1	
+15	geweckt	wecken	V	1	
+16	wird	werden	V	1	
+17	...	...	O	1	
+

@@ -1,0 +1,76 @@
+1	Favoloso	favoloso	R	1	
+
+1	Tra	tra	P	1	
+2	fine	fine	N	1	
+3	febbraio	febbraio	N	1	
+4	e	e	Q	1	
+5	inizio	inizio	O	1	
+6	marzo	marzo	N	1	
+7	sono	essere	V	1	
+8	stata	essere	V	1	
+9	ospite	ospite	N	1	
+10	di	di	P	1	
+11	questo	questo	G	1	
+12	favoloso	favoloso	G	1	
+13	hotel	hotel	N	1	
+14	.	.	O	1	
+
+1	Sito	sito	N	1	
+2	a	a	P	1	
+3	pochi	poco	G	1	
+4	pasi	pasi	N	1	
+5	dal	dal	P	1	
+6	Jumeirah_Mall	jumeirah_mall	R	1	ne=POI
+7	è	è	R	1	
+8	splendido	splendido	G	1	
+9	;	;	O	1	
+10	ottima	ottimo	G	1	
+11	posizione	posizione	N	1	
+12	per	per	P	1	
+13	viaggi	viaggio	N	1	
+14	di	di	P	1	
+15	lavoro	lavoro	N	1	
+16	,	,	O	1	
+17	ottimo	ottimo	G	1	
+18	personale	personale	G	1	
+19	e	e	Q	1	
+20	se	se	Q	1	
+21	lo	lo	Q	1	
+22	si	si	Q	1	
+23	prenota	prenotare	V	1	
+24	con	con	P	1	
+25	un	uno	D	1	
+26	certo	certo	N	1	
+27	anticipo	anticipo	N	1	
+28	anche	anche	Q	1	
+29	ottimo	ottimo	G	1	
+30	raporto	raporto	N	1	
+31	qualità	qualità	G	1	
+32	prezzo	prezzo	N	1	
+33	.	.	O	1	
+
+1	Hanno	avere	V	1	
+2	una	uno	D	1	
+3	navetta	navetta	N	1	
+4	che	che	Q	1	
+5	collega	collegare	V	1	
+6	direttamente	direttamente	A	1	
+7	l'	lo	D	1	
+8	hotel	hotel	N	1	
+9	con	con	P	1	
+10	la	lo	D	1	
+11	loro	loro	G	1	
+12	spiaggia	spiaggia	N	1	
+13	privata	privare	V	1	
+14	.	.	O	1	
+
+1	provate	provare	V	1	
+2	la	lo	D	1	
+3	palestra	palestra	N	1	
+4	,	,	O	1	
+5	è	è	N	1	
+6	una	uno	D	1	
+7	cosa	cosa	N	1	
+8	sensazionale	sensazionale	G	1	
+9	!	!	O	1	
+

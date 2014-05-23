@@ -1,0 +1,57 @@
+1	Excelentes	excelentes	N	1	
+2	vacaciones	vacaciones	N	1	
+
+1	Viajamos	Viajamos	R	1	
+2	en	en	P	1	
+3	Noviembre	Noviembre	R	1	ne=Date
+4	,	,	O	1	
+5	excelentes	excelentes	V	1	
+6	vacaciones	vacaciones	N	1	
+7	.	.	O	1	
+
+1	El	El	R	1	
+2	hotel	hotel	N	1	
+3	es	es	V	1	
+4	muy	muy	G	1	
+5	bonito	bonito	N	1	
+6	y	y	G	1	
+7	esta	esta	N	1	
+8	situado	situado	N	1	
+9	en	en	P	1	
+10	una	una	G	1	
+11	zona	zona	N	1	
+12	preciosa	preciosa	O	1	
+13	de	de	O	1	
+14	cocoteros	cocoteros	O	1	
+15	en	en	O	1	
+16	la_playa_de_uvero_alto	la_playa_de_uvero_alto	O	1	ne=Location
+17	.	.	O	1	
+
+1	Las	Las	R	1	
+2	habitaciones	habitaciones	V	1	
+3	estan	estan	G	1	
+4	muy	muy	G	1	
+5	bien	bien	N	1	
+6	,	,	O	1	
+7	lo	lo	G	1	
+8	mejor	mejor	O	1	
+9	la	la	O	1	
+10	zona	zona	O	1	
+11	de	de	O	1	
+12	playa	playa	O	1	
+13	y	y	G	1	
+14	piscina	piscina	N	1	
+15	.	.	O	1	
+
+1	El	El	R	1	
+2	servicio	servicio	N	1	
+3	es	es	N	1	
+4	excelente	excelente	V	1	
+5	!	!	O	1	
+
+1	sin	sin	N	1	
+2	duda	duda	N	1	
+3	para	para	N	1	
+4	repetir	repetir	N	1	
+5	.	.	O	1	
+

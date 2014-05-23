@@ -1,0 +1,126 @@
+1	4	4	O	1	
+2	*	*	O	1	
+3	Durchschnitt	Durchschnitt	N	1	
+4	in	in	P	1	
+5	zentraler	zentral	G	1	
+6	Lage	Lage	N	1	
+
+1	Als	als	C	1	
+2	Businesshotel	Businesshotel	O	1	
+3	in	in	P	1	
+4	zentraler	zentral	G	1	
+5	Lage	Lage	N	1	
+6	zu	zu	O	1	
+7	empfehlen	empfehlen	V	1	
+8	.	.	O	1	
+
+1	Es	es	Q	1	
+2	steigen	steigen	V	1	
+3	hier	hier	A	1	
+4	sehr	sehr	A	1	
+5	viele	viele	Q	1	
+6	Airline	Airline	O	1	
+7	Crews	Crews	O	1	
+8	ab	ab	V	1	
+9	,	,	O	1	
+10	Standardsprache	Standardsprache	O	1	
+11	ist	sein	V	1	
+12	englisch	englisch	G	1	
+13	.	.	O	1	
+
+1	Lounge	Lounge	O	1	
+2	lädt	laden	V	1	
+3	nicht	nicht	O	1	
+4	zum	zu	P	1	
+5	Verweilen	Verweilen	N	1	
+6	ein	ein	V	1	
+7	,	,	O	1	
+8	die	die	D	1	
+9	Bar	Bar	N	1	
+10	schon	schon	A	1	
+11	eher	eher	A	1	
+12	.	.	O	1	
+
+1	Morgens	morgens	A	1	
+2	heftiges	heftig	G	1	
+3	Gewusel	Gewusel	N	1	
+4	beim	bei	P	1	
+5	Frühstück	Frühstück	N	1	
+6	.	.	O	1	
+
+1	Frühstück	Frühstück	N	1	
+2	für	für	P	1	
+3	ein	eine	D	1	
+4	4	4	O	1	
+5	*	*	O	1	
+6	Hotel	Hotel	N	1	
+7	ok	ok	O	1	
+8	,	,	O	1	
+9	nicht	nicht	O	1	
+10	mehr	mehr	A	1	
+11	,	,	O	1	
+12	nicht	nicht	O	1	
+13	weniger	weniger	A	1	
+14	.	.	O	1	
+
+1	Die	die	D	1	
+2	Zimmer	Zimmer	N	1	
+3	haben	haben	V	1	
+4	alles	alle	Q	1	
+5	,	,	O	1	
+6	was	was	Q	1	
+7	man	man	Q	1	
+8	braucht	brauchen	V	1	
+9	.	.	O	1	
+
+1	Wasserkocher	Wasserkocher	N	1	
+2	mit	mit	P	1	
+3	Kaffee	Kaffee	N	1	
+4	,	,	O	1	
+5	Tee	Tee	N	1	
+6	.	.	O	1	
+
+1	Bügelbrett	Bügelbrett	N	1	
+2	mit	mit	P	1	
+3	Bügeleisen	Bügeleisen	N	1	
+4	.	.	O	1	
+
+1	Bad	Bad	R	1	
+2	sehr	sehr	A	1	
+3	klein	klein	G	1	
+4	,	,	O	1	
+5	der	die	D	1	
+6	Plastikvorhang	Plastikvorhang	N	1	
+7	an	an	P	1	
+8	der	die	D	1	
+9	Badewanne	Badewanne	N	1	
+10	ekelig	ekelig	G	1	
+11	.	.	O	1	
+
+1	Ansonsten	ansonsten	A	1	
+2	alles	alle	Q	1	
+3	an	an	P	1	
+4	Utensilien	Utensil	N	1	
+5	im	in	P	1	
+6	Bad	Bad	R	1	
+7	,	,	O	1	
+8	was	was	Q	1	
+9	man	man	Q	1	
+10	benötigt	benötigen	V	1	
+11	.	.	O	1	
+
+1	Lage	Lage	N	1	
+2	des	die	D	1	
+3	Hotels	Hotel	N	1	
+4	zwischen	zwischen	P	1	
+5	Hauptbahnhof	Hauptbahnhof	N	1	
+6	und	und	C	1	
+7	Fußgängerzone	Fußgängerzone	N	1	
+8	,	,	O	1	
+9	zu	zu	O	1	
+10	empfehlen	empfehlen	V	1	
+11	Zimmer	Zimmer	N	1	
+12	nach	nach	P	1	
+13	hinten	hinten	A	1	
+14	.	.	O	1	
+

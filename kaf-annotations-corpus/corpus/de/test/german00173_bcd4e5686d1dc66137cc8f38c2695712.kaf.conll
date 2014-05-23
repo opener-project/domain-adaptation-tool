@@ -1,0 +1,112 @@
+1	Nettes	nett	G	1	
+2	Hotel	Hotel	N	1	
+3	,	,	O	1	
+4	mit	mit	P	1	
+5	Abstrichen	Abstrich	N	1	
+6	und	und	C	1	
+7	keine	keine	Q	1	
+8	4	4	O	1	
+9	Sterne	Stern	N	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	liegt	liegen	V	1	
+4	nur	nur	A	1	
+5	wenig	wenige	Q	1	
+6	Meter	Meter	N	1	
+7	von	von	P	1	
+8	dem	die	D	1	
+9	Ort	Ort	N	1	
+10	Mastichari	Mastichari	O	1	ne=Location
+11	weg	weg	V	1	
+12	.	.	O	1	
+
+1	Der	die	D	1	
+2	Transfer	Transfer	N	1	
+3	zum	zu	P	1	
+4	Flughafen	Flughafen	N	1	
+5	dauert	dauern	V	1	
+6	15_Minuten	15_Minute	N	1	ne=Time
+7	.	.	O	1	
+
+1	Einkaufsmöglichkeiten	Einkaufsmöglichkeit	N	1	
+2	in	in	P	1	
+3	kleinen	klein	G	1	
+4	Shops	Shops	O	1	
+5	im	in	P	1	
+6	Ort	Ort	N	1	
+7	(	(	O	1	
+8	kleiner	klein	G	1	
+9	Hotelshop	Hotelshop	O	1	
+10	ist	sein	V	1	
+11	vorhanden	vorhanden	G	1	
+12	)	)	O	1	
+13	.	.	O	1	
+
+1	Fähre	Fähre	N	1	
+2	nach	nach	P	1	
+3	Kalymnos	Kalymnos	O	1	ne=Location
+4	im	in	P	1	
+5	Hafen	Hafen	N	1	
+6	für	für	P	1	
+7	4,50_Euro.	4,50_euro.	N	1	ne=Money
+8	Bus	Bus	N	1	
+9	nach	nach	P	1	
+10	Kos_Stadt	Kos_Stadt	N	1	ne=Location
+11	für	für	P	1	
+12	2.90	@card@	O	1	
+13	Euro	Euro	N	1	
+14	direkt	direkt	G	1	
+15	vor	vor	P	1	
+16	dem	die	D	1	
+17	Hotel	Hotel	N	1	
+18	.	.	O	1	
+
+1	Die	die	D	1	
+2	Anlage	Anlage	N	1	
+3	umfasst	umfassen	V	1	
+4	das	die	D	1	
+5	Hauptgebäude	Hauptgebäude	N	1	
+6	und	und	C	1	
+7	zahlreiche	zahlreich	G	1	
+8	ein	eine	D	1	
+9	·	·	O	1	
+10	bis	bis	P	1	
+11	zweistöckige	zweistöckig	G	1	
+12	Häuser	Haus	N	1	
+13	die	die	D	1	
+14	in	in	P	1	
+15	einem	eine	D	1	
+16	gepflegten	gepflegt	G	1	
+17	Zustand	Zustand	N	1	
+18	sind	sein	V	1	
+19	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	All	alle	Q	1	
+4	Inklusive	Inklusive	O	1	
+5	gebucht	buchen	V	1	
+6	,	,	O	1	
+7	was	was	Q	1	
+8	dort	dort	A	1	
+9	unbedingt	unbedingt	G	1	
+10	zu	zu	O	1	
+11	empfehlen	empfehlen	V	1	
+12	ist	sein	V	1	
+13	.	.	O	1	
+
+1	Gäste	Gast	N	1	
+2	aus	aus	P	1	
+3	allen	alle	Q	1	
+4	Altersgruppen	Altersgruppe	N	1	
+5	,	,	O	1	
+6	Deutsche	Deutsche	N	1	
+7	,	,	O	1	
+8	Österreicher	Österreicher	N	1	
+9	,	,	O	1	
+10	Niederländer	Niederländer	N	1	
+11	und	und	C	1	
+12	Schweizer	Schweizer	N	1	
+13	.	.	O	1	
+

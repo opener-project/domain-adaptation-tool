@@ -1,0 +1,72 @@
+1	Leuk	leuk	G	1	
+2	hotel	hotel	N	1	
+3	in	in	P	1	
+4	hartje	hartje	O	1	
+5	Madrid	Madrid	R	1	ne=Location
+6	.	.	O	1	
+
+1	Ontbijtzaal	Ontbijtzaal	O	1	
+2	is	zijn	V	1	
+3	aan	aan	P	1	
+4	renovatie	renovatie	N	1	
+5	toe	toe	A	1	
+6	.	.	O	1	
+
+1	Het	het	D	1	
+2	typisch	typisch	G	1	
+3	Spaanse	Spaans	G	1	
+4	ontbijt	ontbijt	N	1	
+5	is	zijn	V	1	
+6	karig	karig	G	1	
+7	,	,	O	1	
+8	meer	meer	A	1	
+9	variatie	variatie	N	1	
+10	en	en	C	1	
+11	keuze	keuze	N	1	
+12	zou	zullen	V	1	
+13	fijn	fijn	G	1	
+14	zijn	zijn	V	1	
+15	.	.	O	1	
+
+1	Anderzijds	anderzijds	A	1	
+2	:	:	O	1	
+3	in	in	P	1	
+4	het	het	D	1	
+5	centrum	centrum	N	1	
+6	van	van	P	1	
+7	Madrid	Madrid	R	1	ne=Location
+8	zijn	zijn	V	1	
+9	genoeg	genoeg	A	1	
+10	ontbijtmogelijkheden	ontbijtmogelijkheden	O	1	
+11	.	.	O	1	
+
+1	Grootste	groot|groots	G	1	
+2	voordeel	voordeel	N	1	
+3	is	zijn	V	1	
+4	dat	dat	C	1	
+5	je	je	Q	1	
+6	niet	niet	A	1	
+7	meer	meer	A	1	
+8	in	in	P	1	
+9	het	het	D	1	
+10	Cetrum	Cetrum	O	1	
+11	van	van	P	1	
+12	MAdrid	MAdrid	O	1	ne=Location
+13	kan	kunnen	V	1	
+14	zitten	zitten	V	1	
+15	dan	dan	C	1	
+16	met	met	P	1	
+17	dit	dit	D	1	
+18	hotel	hotel	N	1	
+19	.	.	O	1	
+
+1	Alles	alles	Q	1	
+2	op	op	P	1	
+3	loopafstand	loopafstand	N	1	
+4	.	.	O	1	
+
+1	Metro	metro	N	1	
+2	op	op	P	1	
+3	100m	100m	O	1	
+4	.	.	O	1	
+

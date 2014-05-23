@@ -1,0 +1,53 @@
+1	One	One	O	1	
+2	Night	Night	O	1	
+3	in	in	P	1	
+4	Paris	Paris	R	1	ne=Location
+5	,	,	O	1	
+6	geht	gehen	V	1	
+7	auch	auch	A	1	
+8	besser	gut	G	1	
+9	!	!	O	1	
+
+1	Typisch	typisch	G	1	
+2	für	für	P	1	
+3	Pariser	Pariser	N	1	
+4	Hotels	Hotel	N	1	
+5	!	!	O	1	
+
+1	Relativ	relativ	G	1	
+2	klein	klein	G	1	
+3	und	und	C	1	
+4	nicht	nicht	O	1	
+5	so	so	A	1	
+6	schönes	schön	G	1	
+7	Hotel	Hotel	N	1	
+8	.	.	O	1	
+
+1	Zimmer	Zimmer	R	1	
+2	Ok	Ok	R	1	
+3	,	,	O	1	
+4	Bad	Bad	N	1	
+5	zu	zu	O	1	
+6	klein	klein	G	1	
+7	.	.	O	1	
+
+1	Lage	Lage	R	1	
+2	ist	sein	V	1	
+3	gut	gut	G	1	
+4	und	und	C	1	
+5	das	die	D	1	
+6	Indische	indisch	G	1	
+7	Restaurant	Restaurant	N	1	
+8	nebenan	nebenan	A	1	
+9	ist	sein	V	1	
+10	auch	auch	A	1	
+11	zu	zu	O	1	
+12	empfehlen	empfehlen	V	1	
+13	.	.	O	1	
+
+1	Preis	Preis	N	1	
+2	·	·	O	1	
+3	Leistung	Leistung	N	1	
+4	=	=	O	1	
+5	naja	naja	O	1	
+

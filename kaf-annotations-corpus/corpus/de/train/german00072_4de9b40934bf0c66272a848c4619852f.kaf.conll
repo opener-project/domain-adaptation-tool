@@ -1,0 +1,50 @@
+1	Nie	nie	A	1	
+2	wieder	wieder	A	1	
+3	in	in	P	1	
+4	dieses	dies	Q	1	
+5	Hotel	Hotel	N	1	
+
+1	Schimmelproblem	Schimmelproblem	O	1	
+2	im	in	P	1	
+3	Zimmer	Zimmer	N	1	
+4	,	,	O	1	
+5	dreckiger	dreckig	G	1	
+6	Teppich	Teppich	N	1	
+7	im	in	P	1	
+8	Zimmer	Zimmer	N	1	
+9	,	,	O	1	
+10	Farbe	Farbe	N	1	
+11	lößt	lößt	O	1	
+12	sich	sich	Q	1	
+13	ab	ab	V	1	
+14	im	in	P	1	
+15	Bad	Bad	N	1	
+16	,	,	O	1	
+17	defekte	defekt	G	1	
+18	Geräte	Gerät	N	1	
+19	z.B.	z.b.	P	1	
+20	Fernseher	Fernseher	N	1	
+21	und	und	C	1	
+22	Abfalleimer	Abfalleimer	N	1	
+23	und	und	C	1	
+24	Duschkopf	Duschkopf	N	1	
+25	·	·	O	1	
+26	Keine	keine	Q	1	
+27	Entschuldigung	Entschuldigung	N	1	
+28	vom	von	P	1	
+29	Servicepersonal	Servicepersonal	N	1	
+30	.	.	O	1	
+
+1	Trotz	trotz	P	1	
+2	Zimmerwechsel	Zimmerwechsel	O	1	
+3	wieder	wieder	A	1	
+4	Schimmel	Schimmel	N	1	
+5	!	!	O	1	
+
+1	Ich	ich	Q	1	
+2	werde	werden	V	1	
+3	auch	auch	A	1	
+4	gleich	gleich	G	1	
+5	Fotos	Foto	N	1	
+6	hochladen	hochladen	O	1	
+

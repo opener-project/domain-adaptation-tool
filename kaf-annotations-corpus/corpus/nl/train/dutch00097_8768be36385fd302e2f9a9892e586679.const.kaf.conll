@@ -1,0 +1,49 @@
+1	Rustige	rustig	G	1	
+2	locatie	locatie	N	1	
+
+1	Middelgroot	middelgroot	G	1	
+2	hotel	hotel	N	1	
+3	dat	dat	Q	1	
+4	onderdeel	onderdeel	N	1	
+5	is	zijn	V	1	
+6	van	van	P	1	
+7	congrescentrum	congrescentrum	N	1	
+8	Papendal	Papendal	O	1	ne=Hotel
+9	.	.	O	1	
+
+1	Focus	focus	N	1	
+2	ligt	liggen	V	1	
+3	op	op	P	1	
+4	sporters	sporter	N	1	
+5	en	en	C	1	
+6	congresgangers	congresganger	N	1	
+7	,	,	O	1	
+8	in	in	P	1	
+9	mindere	min	G	1	
+10	mate	mate	N	1	
+11	op	op	P	1	
+12	weekendverblijf	weekendverblijf	O	1	
+13	.	.	O	1	
+
+1	Diverse	divers	G	1	
+2	sportmogelijkheden	sportmogelijkheden	O	1	
+3	nabij	nabij	A	1	
+4	zoals	zoals	C	1	
+5	golf	golf	N	1	
+6	.	.	O	1	
+
+1	Restaurant	restaurant	N	1	
+2	is	zijn	V	1	
+3	aanwezig	aanwezig	G	1	
+4	voor	voor	P	1	
+5	ontbijt	ontbijt	N	1	
+6	lunch	lunch	N	1	
+7	en	en	C	1	
+8	diner	diner	N	1	
+9	.	.	O	1	
+
+1	Wifi	Wifi	O	1	
+2	was	wezen|zijn	V	1	
+3	gratis	gratis	G	1	
+4	.	.	O	1	
+

@@ -1,0 +1,57 @@
+1	Opinión	Opinión	R	1	
+2	hotel_Place_de_Clichy	hotel_Place_de_Clichy	R	1	ne=Hotel
+
+1	Hotel	Hotel	R	1	
+2	en	en	P	1	
+3	estado	estado	G	1	
+4	lamentable	lamentable	G	1	
+5	.	.	O	1	
+
+1	Poca	Poca	R	1	
+2	limpieza	limpieza	N	1	
+3	,	,	O	1	
+4	ruidoso	ruidoso	N	1	
+5	.	.	O	1	
+
+1	Recepción	Recepción	R	1	
+2	debajo	debajo	O	1	
+3	de	de	O	1	
+4	la	la	O	1	
+5	escalera	escalera	O	1	
+6	.	.	O	1	
+
+1	Las	Las	R	1	
+2	camas	camas	V	1	
+3	con	con	G	1	
+4	los	los	N	1	
+5	colchones	colchones	N	1	
+6	hechos	hechos	N	1	
+7	polvo	polvo	V	1	
+8	.	.	O	1	
+
+1	Peor	Peor	R	1	
+2	que	que	V	1	
+3	una	una	G	1	
+4	pensión	pensión	N	1	
+5	de	de	P	1	
+6	las	las	G	1	
+7	malas	malas	N	1	
+8	.	.	O	1	
+
+1	No	no	D	1	
+2	hay	hay	N	1	
+3	armario	armario	N	1	
+4	solo	solo	N	1	
+5	una	una	G	1	
+6	estantería	estantería	N	1	
+7	con	con	A	1	
+8	unas	unas	G	1	
+9	perchas	perchas	N	1	
+10	,	,	O	1	
+11	no	no	D	1	
+12	intentes	intentes	N	1	
+13	deshacer	deshacer	V	1	
+14	las	las	G	1	
+15	maletas	maletas	N	1	
+16	.	.	O	1	
+

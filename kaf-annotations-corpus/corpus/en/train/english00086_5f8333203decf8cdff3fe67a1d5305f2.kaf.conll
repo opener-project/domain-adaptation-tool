@@ -1,0 +1,62 @@
+1	Amazing	amazing	G	1	
+2	holiday	holiday	N	1	
+
+1	The	the	D	1	
+2	hotel	hotel	N	1	
+3	was	be	V	1	
+4	massive	massive	G	1	
+5	and	and	C	1	
+6	had	have	V	1	
+7	everything	everything	N	1	
+8	that	that	P	1	
+9	I	i	Q	1	
+10	could	can	O	1	
+11	possibly	possibly	A	1	
+12	need	need	V	1	
+13	.	.	O	1	
+
+1	Amazing	amazing	G	1	
+2	value	value	N	1	
+3	for	for	P	1	
+4	money	money	N	1	
+5	and	and	C	1	
+6	excellent	excellent	G	1	
+7	location	location	N	1	
+8	.	.	O	1	
+
+1	The	the	D	1	
+2	staff	staff	N	1	
+3	were	be	V	1	
+4	AMAZING	amaze	V	1	
+5	,	,	O	1	
+6	they	they	Q	1	
+7	made	make	V	1	
+8	the	the	D	1	
+9	whole	whole	G	1	
+10	holiday	holiday	N	1	
+11	and	and	C	1	
+12	even	even	A	1	
+13	to	to	P	1	
+14	the	the	D	1	
+15	point	point	N	1	
+16	where	where	O	1	
+17	we	we	Q	1	
+18	extended	extend	V	1	
+19	our	our	Q	1	
+20	stay	stay	N	1	
+21	.	.	O	1	
+
+1	Loved	love	V	1	
+2	the	the	D	1	
+3	amination	amination	N	1	
+4	staff	staff	N	1	
+5	especially	especially	A	1	
+6	Eran	Eran	R	1	ne=Person
+7	,	,	O	1	
+8	is	be	V	1	
+9	a	a	D	1	
+10	true	true	G	1	
+11	friend	friend	N	1	
+12	for	for	P	1	
+13	life	life	N	1	
+

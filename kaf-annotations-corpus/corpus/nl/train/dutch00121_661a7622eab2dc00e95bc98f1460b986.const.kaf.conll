@@ -1,0 +1,156 @@
+1	Super	super	G	1	
+2	vakantie	vakantie	N	1	
+3	!	!	O	1	
+
+1	Hier	hier	A	1	
+2	komen	komen	V	1	
+3	we	we	Q	1	
+4	nog	nog	A	1	
+5	terug	terug	A	1	
+6	.	.	O	1	
+
+1	+	+	O	1	
+2	goeie	goed	G	1	
+3	ontvangst	ontvangst	N	1	
+4	met	met	P	1	
+5	glaasje	glas	N	1	
+6	drank	drank	N	1	
+7	en	en	C	1	
+8	verfrissingsdoekje	verfrissingsdoekje	O	1	
+
+1	+	+	O	1	
+2	prachtige	prachtig	G	1	
+3	kamers	kamer	N	1	
+
+1	+	+	O	1	
+2	super	super	G	1	
+3	houskeepinge	houskeepinge	O	1	
+4	,	,	O	1	
+5	deze	deze	D	1	
+6	man	man	N	1	
+7	deed	doen	V	1	
+8	echt	echt	A	1	
+9	zijn	zijn	D	1	
+10	best	best	N	1	
+11	,	,	O	1	
+12	een	een	D	1	
+13	pluim	pluim	N	1	
+14	hiervoor	hiervoor	Q	1	
+15	.	.	O	1	
+
+1	+	+	O	1	
+2	vriendelijke	vriendelijk	G	1	
+3	poolman	poolman	O	1	
+4	Mohammed	Mohammed	O	1	ne=Person
+5	,	,	O	1	
+6	werkt	werken	V	1	
+7	echt	echt	A	1	
+8	heel	heel	A	1	
+9	hard	hard	G	1	
+
+1	+	+	O	1	
+2	leuk	leuk	G	1	
+3	animatieteam	animatieteam	O	1	
+4	:	:	O	1	
+5	speciaal	speciaal	G	1	
+6	activiteit	activiteit	N	1	
+7	op	op	P	1	
+8	Pasen	Pasen	R	1	
+9	...	...	O	1	
+10	eieren	ei	N	1	
+11	schilderen	schilderen	V	1	
+12	met	met	P	1	
+13	kinderen	kind	N	1	
+14	,	,	O	1	
+15	...	...	O	1	
+
+1	+	+	O	1	
+2	Svetta	Svetta	O	1	ne=Person
+3	van	van	P	1	
+4	de	de	D	1	
+5	Trixieclub	Trixieclub	O	1	
+6	doet	doen	V	1	
+7	dit	dit	Q	1	
+8	schitterend	schitterend	G	1	
+9	!	!	O	1	
+
+1	Ons	ons	D	1	
+2	ieben	ieben	O	1	ne=Person
+3	is	zijn	V	1	
+4	er	er	Q	1	
+5	nog	nog	A	1	
+6	altijd	altijd	A	1	
+7	zot	zot	G	1	
+8	van	van	P	1	
+9	...	...	O	1	
+
+1	+	+	O	1	
+2	een	een	D	1	
+3	pluim	pluim	N	1	
+4	voor	voor	P	1	
+5	de	de	D	1	
+6	chefs	chef	N	1	
+7	en	en	C	1	
+8	de	de	D	1	
+9	GLUTENVRIJE	GLUTENVRIJE	O	1	
+10	maaltijden	maaltijd	N	1	
+11	voor	voor	P	1	
+12	mijn	mijn	D	1	
+13	echtgenote	echtgenote	N	1	
+14	Isabelle	Isabelle	O	1	ne=Person
+
+1	+	+	O	1	
+2	lekker	lek|lekker	G	1	
+3	eten	eten	V	1	
+4	en	en	C	1	
+5	voldoende	voldoende	G	1	
+6	variatie	variatie	N	1	
+7	,	,	O	1	
+8	voldoende	voldoende	G	1	
+9	borden	bord	N	1	
+10	,	,	O	1	
+11	bestek	bestek	N	1	
+12	,	,	O	1	
+13	...	...	O	1	
+
+1	+	+	O	1	
+2	mooi	mooi	G	1	
+3	onderhouden	onderhouden	V	1	
+4	hotel	hotel	N	1	
+5	,	,	O	1	
+6	héél	héél	O	1	
+7	netjes	net|netjes	G	1	
+8	en	en	C	1	
+9	proper	proper	G	1	
+10	:	:	O	1	
+11	eetzaal	eetzaal	N	1	
+12	,	,	O	1	
+13	toiletten	toilet	N	1	
+14	,	,	O	1	
+15	...	...	O	1	
+
+1	+	+	O	1	
+2	mooie	mooi	G	1	
+3	koralen	koraal	N	1	
+4	en	en	C	1	
+5	bezoek	bezoek	N	1	
+6	zeker	zeker	G	1	
+7	eens	eens	A	1	
+8	de	de	D	1	
+9	schildpaddenlagune	schildpaddenlagune	O	1	
+10	op	op	P	1	
+11	+	+	O	1	
+12	/	/	O	1	
+13	·	·	O	1	
+14	15	@card@	O	1	
+15	min.	min	N	1	
+16	min.	.	O	1	
+17	stappen	stap	N	1	
+
+1	Fam	Fam	O	1	
+2	.	.	O	1	
+
+1	Hallaert	Hallaert	O	1	
+2	·	·	O	1	
+3	Plasman	Plasman	O	1	
+

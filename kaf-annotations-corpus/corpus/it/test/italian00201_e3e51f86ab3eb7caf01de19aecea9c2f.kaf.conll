@@ -1,0 +1,155 @@
+1	Molto	molto	A	1	
+2	centrale	centrale	G	1	
+
+1	Quando	quando	Q	1	
+2	ho	avere	V	1	
+3	prenotato	prenotare	V	1	
+4	questo	questo	G	1	
+5	hotel	hotel	N	1	
+6	,	,	O	1	
+7	mi	mi	Q	1	
+8	ha	avere	V	1	
+9	colpito	colpire	V	1	
+10	la	lo	D	1	
+11	gentilezza	gentilezza	N	1	
+12	del	del	P	1	
+13	Signor_Filippe	signor_filippe	N	1	ne=Person
+14	.	.	O	1	
+
+1	Non	non	A	1	
+2	ha	avere	V	1	
+3	chiesto	chiedere	V	1	
+4	neanche	neanche	Q	1	
+5	una	uno	D	1	
+6	caparra	caparra	N	1	
+7	.	.	O	1	
+
+1	L’	l’	N	1	
+2	unica	unico	G	1	
+3	cosa	cosa	N	1	
+4	che	che	Q	1	
+5	ha	avere	V	1	
+6	chiesto	chiedere	V	1	
+7	era	essere	V	1	
+8	di	di	P	1	
+9	riconfermare	riconfermare	V	1	
+10	la	lo	D	1	
+11	prenotazione	prenotazione	N	1	
+12	un	uno	D	1	
+13	giorno	giorno	N	1	
+14	primo	primo	N	1	
+15	dell’	dell’	P	1	
+16	arrivo	arrivo	N	1	
+17	.	.	O	1	
+
+1	Piccolo	piccolo	G	1	
+2	hotel	hotel	N	1	
+3	senza	senza	P	1	
+4	ascensore	ascensore	N	1	
+5	a	a	P	1	
+6	due	due	G	1	
+7	passi	passo	N	1	
+8	dal	dal	P	1	
+9	Moulin_Rouge	moulin_rouge	R	1	ne=POI
+10	e	e	Q	1	
+11	Montmartre	montmartre	R	1	ne=POI
+12	e	e	Q	1	
+13	a	a	P	1	
+14	200	200	G	1	
+15	metri	metro	N	1	
+16	dal	dal	P	1	
+17	metro	metro	N	1	
+18	Place_de_Clichy	place_de_clichy	R	1	ne=POI
+19	.	.	O	1	
+
+1	L’	l’	R	1	
+2	hotel	hotel	N	1	
+3	ci	ci	Q	1	
+4	trova	trovare	V	1	
+5	in	in	P	1	
+6	una	uno	D	1	
+7	zona	zona	N	1	
+8	molto	molto	A	1	
+9	vivace	vivace	G	1	
+10	con	con	P	1	
+11	tanti	tanto	G	1	
+12	ristoranti	ristorante	N	1	
+13	,	,	O	1	
+14	bar	bar	N	1	
+15	e	e	Q	1	
+16	clubs	clubs	N	1	
+17	.	.	O	1	
+
+1	La	lo	D	1	
+2	camera	camera	N	1	
+3	era	essere	V	1	
+4	molto	molto	A	1	
+5	pulita	pulire	V	1	
+6	,	,	O	1	
+7	un	uno	D	1	
+8	piccolo	piccolo	G	1	
+9	bagno	bagno	N	1	
+10	con	con	P	1	
+11	doccia	doccia	N	1	
+12	ma	ma	Q	1	
+13	funzionante	funzionare	V	1	
+14	,	,	O	1	
+15	ottimo	ottimo	G	1	
+16	letto	letto	N	1	
+17	e	e	Q	1	
+18	riscaldamento	riscaldamento	N	1	
+19	a	a	P	1	
+20	manette	manetta	N	1	
+21	.	.	O	1	
+
+1	No	no	N	1	
+2	colazione	colazione	N	1	
+3	.	.	O	1	
+
+1	Attenzione	attenzione	N	1	
+2	,	,	O	1	
+3	meglio	meglio	A	1	
+4	portare	portare	V	1	
+5	contanti	contare	V	1	
+6	con	con	P	1	
+7	sé	sé	N	1	
+8	!	!	O	1	
+
+1	Ho	avere	V	1	
+2	l’	l’	R	1	
+3	impressione	impressione	N	1	
+4	che	che	Q	1	
+5	la	lo	D	1	
+6	carta	carta	N	1	
+7	di	di	P	1	
+8	credito	credito	N	1	
+9	non	non	A	1	
+10	è	è	R	1	
+11	gradito	gradire	V	1	
+12	.	.	O	1	
+
+1	Gentilissimo	gentilissimo	R	1	
+2	portiere	portiera	N	1	
+3	di	di	P	1	
+4	notte	notte	N	1	
+5	.	.	O	1	
+
+1	Ottimo	ottimo	G	1	
+2	hotel	hotel	N	1	
+3	per	per	P	1	
+4	passare	passare	V	1	
+5	massimo	massimo	G	1	
+6	3	3	G	1	
+7	notti	notte	N	1	
+8	per	per	P	1	
+9	un	uno	D	1	
+10	clientele	clientela	N	1	
+11	senza	senza	P	1	
+12	troppe	troppo	G	1	
+13	pretese	pretesa	N	1	
+14	e	e	Q	1	
+15	con	con	P	1	
+16	poco	poco	G	1	
+17	bagaglio	bagaglio	N	1	
+18	!	!	O	1	
+

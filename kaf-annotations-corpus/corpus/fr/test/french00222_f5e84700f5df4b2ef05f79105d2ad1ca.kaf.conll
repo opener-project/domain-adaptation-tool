@@ -1,0 +1,49 @@
+1	Avis_hôtel_Ibis_Mataro	Avis_hôtel_ibis_Mataro	N	1	ne=Hotel
+2	,	,	O	1	
+3	Barcelone	Barcelone	N	1	ne=Location
+
+1	Hôtel	hôtel	N	1	
+2	agréable	agréable	G	1	
+3	,	,	O	1	
+4	une	un	D	1	
+5	bonne	bon	G	1	
+6	semaine	semaine	N	1	
+7	passée	passer	G	1	
+8	et	et	C	1	
+9	un	un	D	1	
+10	bon	bon	G	1	
+11	souvenir	souvenir	N	1	
+12	!	!	O	1	
+
+1	Je	Je	Q	1	
+2	recommande	recommander	V	1	
+3	,	,	O	1	
+4	c'	c'	Q	1	
+5	est	être	V	1	
+6	un	un	D	1	
+7	hôtel	hôtel	N	1	
+8	très	très	G	1	
+9	propre	propre	G	1	
+10	!	!	O	1	
+
+1	Hôtel	hôtel	N	1	
+2	bien	bien	G	1	
+3	disposé	disposer	V	1	
+4	près	près	P	1	
+5	de	de	P	1	
+6	la	le	D	1	
+7	ville	ville	N	1	
+8	mais	mais	C	1	
+9	pas	pas	G	1	
+10	trop	trop	G	1	
+11	loin	loin	G	1	
+12	parfait	parfait	G	1	
+13	pour	pour	P	1	
+14	éviter	éviter	V	1	
+15	les	le	D	1	
+16	bruits	bruits	G	1	
+17	de	de	P	1	
+18	la	le	D	1	
+19	ville	ville	N	1	
+20	.	.	O	1	
+

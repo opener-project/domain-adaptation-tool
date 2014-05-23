@@ -1,0 +1,49 @@
+1	Hotel	Hotel	R	1	
+2	viejo	viejo	N	1	
+3	pero	pero	O	1	
+4	centrico	centrico	O	1	
+
+1	Hotel	Hotel	R	1	
+2	muy	muy	G	1	
+3	bien	bien	G	1	
+4	ubicado	ubicado	G	1	
+5	pero	pero	N	1	
+6	que	que	V	1	
+7	necesita	necesita	G	1	
+8	una	una	G	1	
+9	reforma	reforma	N	1	
+10	urgente	urgente	N	1	
+11	.	.	O	1	
+
+1	Además	Además	R	1	
+2	el	el	N	1	
+3	entorno	entorno	N	1	
+4	no	no	D	1	
+5	es	es	N	1	
+6	el	el	N	1	
+7	mas	mas	V	1	
+8	adecuado	adecuado	G	1	
+9	para	para	N	1	
+10	salir	salir	N	1	
+11	de	de	P	1	
+12	noche	noche	N	1	
+13	.	.	O	1	
+
+1	No	no	D	1	
+2	obstante	obstante	N	1	
+3	,	,	O	1	
+4	el	el	N	1	
+5	hotel	hotel	N	1	
+6	está	está	N	1	
+7	bien	bien	N	1	
+8	en	en	P	1	
+9	general	general	G	1	
+10	.	.	O	1	
+
+1	El	El	R	1	
+2	desayuno	desayuno	R	1	
+3	es	es	V	1	
+4	bastante	bastante	N	1	
+5	pobre	pobre	N	1	
+6	.	.	O	1	
+

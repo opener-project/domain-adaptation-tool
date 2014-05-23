@@ -1,0 +1,52 @@
+1	Le	le	D	1	
+2	magnifique	magnifique	N	1	
+3	hôtel_de_la_Croisette	hôtel_de_le_Croisette	N	1	ne=Hotel
+
+1	je	je	Q	1	
+2	trouve	trouver	V	1	
+3	cette	ce	D	1	
+4	hôtel	hôtel	N	1	
+5	très	très	G	1	
+6	bien	bien	G	1	
+7	,	,	O	1	
+8	il	il	Q	1	
+9	est	être	V	1	
+10	très	très	G	1	
+11	bien	bien	G	1	
+12	,	,	O	1	
+13	a	avoir	V	1	
+14	une	un	D	1	
+15	très	très	G	1	
+16	belle	beau	G	1	
+17	vus	voir	V	1	
+18	sur	sur	P	1	
+19	la	le	D	1	
+20	mer	mer	N	1	
+21	,	,	O	1	
+22	j'	j'	Q	1	
+23	adore	adorer	V	1	
+24	cette	ce	D	1	
+25	hôtel	hôtel	N	1	
+26	,	,	O	1	
+27	il	il	Q	1	
+28	est	être	V	1	
+29	bien	bien	G	1	
+30	exposer	exposer	V	1	
+31	,	,	O	1	
+32	sur	sur	P	1	
+33	la_bai_de_cannes	le_bai_de_canne	N	1	ne=POI
+34	,	,	O	1	
+35	il	il	Q	1	
+36	a	avoir	V	1	
+37	tout	tout	G	1	
+38	pour	pour	P	1	
+39	plaire	plaire	V	1	
+40	,	,	O	1	
+41	c'	c'	Q	1	
+42	est	être	V	1	
+43	le	le	D	1	
+44	plus	plus	G	1	
+45	connu	connaître	G	1	
+46	de	de	P	1	
+47	cannes	canne	N	1	ne=Location
+

@@ -1,0 +1,58 @@
+1	Très	Très	G	1	
+2	bel	beau	G	1	
+3	hôtel	hôtel	N	1	
+4	,	,	O	1	
+5	design	design	Q	1	
+6	,	,	O	1	
+7	avec	avec	P	1	
+8	restaurant	restaurer	V	1	
+9	chic	chic	N	1	
+
+1	Très	Très	G	1	
+2	bel	beau	G	1	
+3	hôtel	hôtel	N	1	
+4	,	,	O	1	
+5	design	design	N	1	
+6	,	,	O	1	
+7	chambres	chambre	N	1	
+8	extrêmement	extrêmement	G	1	
+9	confortables	confortable	G	1	
+10	.	.	O	1	
+
+1	L'	le	D	1	
+2	hôtel	hôtel	N	1	
+3	dispose	disposer	V	1	
+4	d'	d'	P	1	
+5	un	un	D	1	
+6	très	très	G	1	
+7	bon	bon	G	1	
+8	restaurant	restaurer	V	1	
+9	avec	avec	P	1	
+10	cour	cour	N	1	
+11	intérieure	intérieur	G	1	
+12	.	.	O	1	
+
+1	Il	Il	Q	1	
+2	est	être	V	1	
+3	très	très	G	1	
+4	bien	bien	G	1	
+5	situé	situer	V	1	
+6	dans	dans	P	1	
+7	Paris	pari	N	1	ne=Location
+8	et	et	C	1	
+9	permet	permettre	V	1	
+10	d'	d'	P	1	
+11	avoir	avoir	V	1	
+12	accès	accès	N	1	
+13	facilement	facilement	G	1	
+14	aux	aux	P	1	
+15	transports	transport	N	1	
+16	en	en	P	1	
+17	commun	commun	N	1	
+18	et	et	C	1	
+19	aux	aux	P	1	
+20	commerces	commerce	N	1	
+21	de	de	P	1	
+22	quartiers	quartier	N	1	
+23	.	.	O	1	
+

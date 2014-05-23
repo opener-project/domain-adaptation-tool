@@ -1,0 +1,77 @@
+1	Leuk	leuk	G	1	
+2	hotelletje	hotel	N	1	
+3	in	in	P	1	
+4	Oostende	Oostende	O	1	ne=Location
+
+1	Het	het	D	1	
+2	hotel	hotel	N	1	
+3	is	zijn	V	1	
+4	goed	goed	N	1	
+5	gelegen	liggen	V	1	
+6	dicht	dichten	V	1	
+7	bij	bij	P	1	
+8	het	het	D	1	
+9	strand	strand	N	1	
+10	,	,	O	1	
+11	zwembad	zwembad	N	1	
+12	en	en	C	1	
+13	winkelstraten	winkelstraat	N	1	
+14	.	.	O	1	
+
+1	Eerste	een	O	1	
+2	indruk	indruk	N	1	
+3	is	zijn	V	1	
+4	positief	positief	G	1	
+5	,	,	O	1	
+6	het	het	D	1	
+7	hotel	hotel	N	1	
+8	oogt	ogen	V	1	
+9	netjes	net|netjes	G	1	
+10	,	,	O	1	
+11	de	de	D	1	
+12	check	check	N	1	
+13	·	·	O	1	
+14	inn	inn	O	1	
+15	vlot	vlot	G	1	
+16	en	en	C	1	
+17	vriendelijk	vriendelijk	G	1	
+18	.	.	O	1	
+
+1	De	de	D	1	
+2	luxekamer	luxekamer	O	1	
+3	met	met	P	1	
+4	balkon	balkon	N	1	
+5	is	zijn	V	1	
+6	ruim	ruim	G	1	
+7	,	,	O	1	
+8	er	er	Q	1	
+9	is	zijn	V	1	
+10	zelfs	zelfs	A	1	
+11	een	een	D	1	
+12	apart	apart	G	1	
+13	gedeelte	gedeelte	N	1	
+14	met	met	P	1	
+15	extra	extra	G	1	
+16	bed	bed	N	1	
+17	.	.	O	1	
+
+1	De	de	D	1	
+2	badkamer	badkamer	N	1	
+3	met	met	P	1	
+4	hoekdouche	hoekdouche	O	1	
+5	is	zijn	V	1	
+6	netjes	net|netjes	G	1	
+7	,	,	O	1	
+8	er	er	Q	1	
+9	zijn	zijn	V	1	
+10	zeepjes	zeepjes	O	1	
+11	en	en	C	1	
+12	lotion	lotion	N	1	
+13	en	en	C	1	
+14	de	de	D	1	
+15	vele	veel	O	1	
+16	handdoeken	handdoek	N	1	
+17	zijn	zijn	V	1	
+18	kraaknet	kraaknet	G	1	
+19	.	.	O	1	
+

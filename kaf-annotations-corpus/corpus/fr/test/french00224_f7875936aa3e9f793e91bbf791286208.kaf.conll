@@ -1,0 +1,50 @@
+1	Camping	camping	N	1	
+2	familial	familial	G	1	
+3	,	,	O	1	
+4	convivial	convivial	G	1	
+5	et	et	C	1	
+6	calme	calme	G	1	
+
+1	Nous	lui	Q	1	
+2	venons	venons	Q	1	
+3	de	de	P	1	
+4	passer	passer	V	1	
+5	2	2	D	1	
+6	semaines	semaine	N	1	
+7	au	au	P	1	
+8	Camping_Les_Peupliers	camping_le_peuplier	N	1	ne=Hotel
+9	a	avoir	V	1	
+10	Montalivet	Montalivet	N	1	ne=Location
+11	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	avons	avoir	V	1	
+3	reçu	recevoir	V	1	
+4	un	un	D	1	
+5	accueil	accueil	N	1	
+6	très	très	G	1	
+7	chaleureux	chaleureux	G	1	
+8	et	et	C	1	
+9	les	le	D	1	
+10	emplacements	emplacement	N	1	
+11	sont	être	V	1	
+12	très	très	G	1	
+13	spacieux	spacieux	G	1	
+14	.	.	O	1	
+
+1	Une	un	D	1	
+2	ambiance	ambiance	N	1	
+3	conviviale	convivial	G	1	
+4	règne	régner	V	1	
+5	sur	sur	P	1	
+6	le	le	D	1	
+7	terrain	terrain	N	1	
+8	géré	gérer	V	1	
+9	par	par	P	1	
+10	des	un	D	1	
+11	nouveaux	nouveau	G	1	
+12	propriétaires	propriétaire	N	1	
+13	très	très	G	1	
+14	sympathiques	sympathique	G	1	
+15	.	.	O	1	
+

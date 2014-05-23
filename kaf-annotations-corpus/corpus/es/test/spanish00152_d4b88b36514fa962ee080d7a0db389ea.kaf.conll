@@ -1,0 +1,52 @@
+1	Pedazo	Pedazo	R	1	
+2	de	de	O	1	
+3	hotel	hotel	N	1	
+
+1	La	La	R	1	
+2	verdad	verdad	A	1	
+3	es	es	V	1	
+4	que	que	G	1	
+5	el	el	N	1	
+6	hotel	hotel	N	1	
+7	mucho	mucho	G	1	
+8	mejor	mejor	O	1	
+9	de	de	O	1	
+10	lo	lo	O	1	
+11	que	que	O	1	
+12	me	me	O	1	
+13	lo	lo	O	1	
+14	esperaba	esperaba	O	1	
+15	.	.	O	1	
+
+1	El	El	R	1	
+2	servicio	servicio	N	1	
+3	impecable	impecable	G	1	
+4	,	,	O	1	
+5	el	el	G	1	
+6	hotel	hotel	N	1	
+7	es	es	N	1	
+8	precioso	precioso	V	1	
+9	,	,	O	1	
+10	muy	muy	G	1	
+11	buena	buena	N	1	
+12	comida	comida	N	1	
+13	...	...	O	1	
+
+1	Lo	Lo	R	1	
+2	único	único	R	1	
+3	su	su	G	1	
+4	elevado	elevado	N	1	
+5	precio	precio	N	1	
+6	,	,	O	1	
+7	pero	pero	O	1	
+8	siendo	siendo	O	1	
+9	el	el	O	1	
+10	ritz	ritz	O	1	
+11	ya	ya	O	1	
+12	sabes	sabes	V	1	
+13	a	a	D	1	
+14	lo	lo	G	1	
+15	que	que	N	1	
+16	vas	vas	N	1	
+17	.	.	O	1	
+

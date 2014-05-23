@@ -1,0 +1,146 @@
+1	Our	our	Q	1	
+2	best	good	G	1	
+3	holiday	holiday	N	1	
+4	stay	stay	N	1	
+5	ever	ever	A	1	
+6	,	,	O	1	
+7	so	so	A	1	
+8	far	far	A	1	
+
+1	We	we	Q	1	
+2	have	have	V	1	
+3	just	just	A	1	
+4	arrived	arrive	V	1	
+5	from	from	P	1	
+6	this	this	D	1	
+7	marvelous	marvellous	G	1	
+8	place	place	N	1	
+9	.	.	O	1	
+
+1	We	we	Q	1	
+2	had	have	V	1	
+3	experienced	experience	V	1	
+4	our	our	Q	1	
+5	best	good	G	1	
+6	holiday	holiday	N	1	
+7	stay	stay	N	1	
+8	ever	ever	A	1	
+9	,	,	O	1	
+10	so	so	A	1	
+11	far	far	A	1	
+12	.	.	O	1	
+
+1	We	we	Q	1	
+2	have	have	V	1	
+3	been	be	V	1	
+4	very	very	A	1	
+5	plaesantly	plaesantly	A	1	
+6	surprised	surprised	G	1	
+7	,	,	O	1	
+8	we	we	Q	1	
+9	liked	like	V	1	
+10	the	the	D	1	
+11	overall	overall	G	1	
+12	location	location	N	1	
+13	and	and	C	1	
+14	the	the	D	1	
+15	hotel	hotel	N	1	
+16	itself	itself	Q	1	
+17	even	even	A	1	
+18	more	more	V	1	
+19	we	we	Q	1	
+20	had	have	V	1	
+21	expected	expect	V	1	
+22	to	to	P	1	
+23	do	do	V	1	
+24	so	so	A	1	
+25	based	base	V	1	
+26	on	on	P	1	
+27	the	the	D	1	
+28	reviews	review	N	1	
+29	and	and	C	1	
+30	photos	photo	N	1	
+31	available	available	G	1	
+32	online	online	N	1	
+33	.	.	O	1	
+
+1	We	we	Q	1	
+2	would	would	O	1	
+3	like	like	V	1	
+4	to	to	P	1	
+5	stress	stress	V	1	
+6	the	the	D	1	
+7	preciseness	preciseness	N	1	
+8	and	and	C	1	
+9	quality	quality	N	1	
+10	of	of	P	1	
+11	tha	tha	D	1	
+12	staff	staff	N	1	
+13	's	's	O	1	
+14	services	service	N	1	
+15	,	,	O	1	
+16	especially	especially	A	1	
+17	in	in	P	1	
+18	the	the	D	1	
+19	restaurant	restaurant	N	1	
+20	.	.	O	1	
+
+1	Special	special	G	1	
+2	thanks	thanks	N	1	
+3	to	to	P	1	
+4	the	the	D	1	
+5	"	"	N	1	
+6	animators	animator	N	1	
+7	"	"	V	1	
+8	(	(	O	1	
+9	Oscar	Oscar	R	1	ne=Person
+10	,	,	O	1	
+11	Mehmet	Mehmet	R	1	ne=Person
+12	,	,	O	1	
+13	Dasha	Dasha	R	1	ne=Person
+14	,	,	O	1	
+15	Katya	Katya	R	1	ne=Person
+16	,	,	O	1	
+17	Anna	Anna	R	1	ne=Person
+18	,	,	O	1	
+19	Maryem	Maryem	R	1	ne=Person
+20	and	and	C	1	
+21	Sabri	Sabri	R	1	ne=Person
+22	)	)	O	1	
+23	that	that	O	1	
+24	made	make	V	1	
+25	a	a	D	1	
+26	great	great	G	1	
+27	effort	effort	N	1	
+28	to	to	P	1	
+29	keep	keep	V	1	
+30	us	us	Q	1	
+31	entertained	entertain	V	1	
+32	all	all	D	1	
+33	days	day	N	1	
+34	and	and	C	1	
+35	nights	night	N	1	
+36	long	long	A	1	
+37	.	.	O	1	
+
+1	Thank	thank	V	1	
+2	you	you	Q	1	
+3	guys	guy	N	1	
+4	,	,	O	1	
+5	it	it	Q	1	
+6	was	be	V	1	
+7	great	great	G	1	
+8	fun	fun	N	1	
+9	!!!	!!!	O	1	
+
+1	Hope	Hope	R	1	
+2	to	to	P	1	
+3	see	see	V	1	
+4	you	you	Q	1	
+5	and	and	C	1	
+6	this	this	D	1	
+7	great	great	G	1	
+8	place	place	N	1	
+9	again	again	A	1	
+10	!	!	O	1	
+

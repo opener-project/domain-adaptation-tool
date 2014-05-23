@@ -1,0 +1,137 @@
+1	Hotel	Hotel	R	1	
+2	estupendisimo	estupendisimo	N	1	
+3	en	en	P	1	
+4	Valencia	Valencia	R	1	ne=Location
+
+1	Nos	Nos	R	1	
+2	ha	ha	N	1	
+3	gustado	gustado	N	1	
+4	mucho	mucho	G	1	
+5	este	este	N	1	
+6	hotel	hotel	N	1	
+7	en	en	P	1	
+8	Valencia	Valencia	R	1	ne=Location
+9	.	.	O	1	
+
+1	Enhorabuena	Enhorabuena	R	1	
+2	a	a	D	1	
+3	la_cadena_Playa_Senator	la_cadena_Playa_Senator	R	1	ne=Hotel
+4	por	por	O	1	
+5	la	la	O	1	
+6	adquisición	adquisición	O	1	
+7	.	.	O	1	
+
+1	Hemos	Hemos	R	1	
+2	pasado	pasado	O	1	
+3	de	de	O	1	
+4	jueves	jueves	V	1	ne=Date
+5	a	a	D	1	
+6	domingo	domingo	N	1	ne=Date
+7	.	.	O	1	
+
+1	Su	Su	R	1	
+2	cercanía	cercanía	O	1	
+3	con	con	O	1	
+4	la_Ciudad_de_las_artes_y_las_Ciencias	la_ciudad_de_las_artes_y_las_Ciencias	R	1	ne=Location
+5	nos	nos	N	1	
+6	ha	ha	V	1	
+7	facilitado	facilitado	G	1	
+8	mucho	mucho	G	1	
+9	la	la	N	1	
+10	estancia	estancia	N	1	
+11	.	.	O	1	
+
+1	También	También	R	1	
+2	está	está	N	1	
+3	bastante	bastante	O	1	
+4	cerca	cerca	O	1	
+5	del	del	O	1	
+6	centro	centro	N	1	
+7	.	.	O	1	
+
+1	Las	Las	R	1	
+2	instalaciones	instalaciones	V	1	
+3	bastante	bastante	G	1	
+4	bien	bien	N	1	
+5	:	:	O	1	
+6	habitación	habitación	N	1	
+7	amplia	amplia	N	1	
+8	,	,	O	1	
+9	luminosa	luminosa	O	1	
+10	con	con	O	1	
+11	vistas	vistas	O	1	
+12	a	a	O	1	
+13	la	la	O	1	
+14	rotonda	rotonda	O	1	
+15	gigante	gigante	O	1	
+16	donde	donde	O	1	
+17	se	se	O	1	
+18	encuentra	encuentra	O	1	
+19	enclavado	enclavado	O	1	
+20	.	.	O	1	
+
+1	Nos	Nos	R	1	
+2	pusieron	pusieron	N	1	
+3	cama	cama	N	1	
+4	supletoria	supletoria	N	1	
+5	junto	junto	P	1	
+6	a	a	D	1	
+7	la	la	D	1	
+8	cama	cama	N	1	
+9	grande	grande	N	1	
+10	.	.	O	1	
+
+1	Por	Por	R	1	
+2	cierto	cierto	P	1	
+3	COMODISIMA	COMODISIMA	R	1	
+4	.	.	O	1	
+
+1	HEMOS	HEMOS	N	1	
+2	DORMIDO	DORMIDO	R	1	
+3	GENIAL	GENIAL	R	1	
+4	(	(	O	1	
+5	que	que	G	1	
+6	esto	esto	N	1	
+7	no	no	D	1	
+8	se	se	N	1	
+9	puede	puede	N	1	
+10	decir	decir	V	1	
+11	en	en	P	1	
+12	todos	todos	N	1	
+13	los	los	N	1	
+14	hoteles	hoteles	N	1	
+15	)	)	O	1	
+16	.	.	O	1	
+
+1	El	El	R	1	
+2	desayuno	desayuno	N	1	
+3	,	,	O	1	
+4	como	como	N	1	
+5	en	en	P	1	
+6	todos	todos	N	1	
+7	los	los	N	1	
+8	hoteles	hoteles	N	1	
+9	playa	playa	V	1	
+10	,	,	O	1	
+11	y	y	G	1	
+12	el	el	N	1	
+13	personal	personal	G	1	
+14	muy	muy	N	1	
+15	amable	amable	G	1	
+16	.	.	O	1	
+
+1	Con	Con	R	1	
+2	todo	todo	N	1	
+3	ello	ello	N	1	
+4	,	,	O	1	
+5	un	un	G	1	
+6	hotel	hotel	N	1	
+7	mas	mama	N	1	
+8	que	que	V	1	
+9	recomendable	recomendable	G	1	
+10	para	para	N	1	
+11	visitar	visitar	N	1	
+12	esta	esta	N	1	
+13	ciudad	ciudad	N	1	
+14	.	.	O	1	
+

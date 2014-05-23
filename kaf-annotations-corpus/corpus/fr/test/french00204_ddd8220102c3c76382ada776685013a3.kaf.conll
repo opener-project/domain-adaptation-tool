@@ -1,0 +1,46 @@
+1	Simple	simple	N	1	
+2	et	et	C	1	
+3	accueillant	accueillir	V	1	
+
+1	Simple	simple	G	1	
+2	,	,	O	1	
+3	accueillant	accueillir	V	1	
+4	,	,	O	1	
+5	pas	pas	G	1	
+6	très	très	G	1	
+7	cher	cher	G	1	
+8	...	...	O	1	
+9	Les	le	D	1	
+10	transports	transport	N	1	
+11	sont	être	V	1	
+12	au	au	P	1	
+13	pied	pied	N	1	
+14	de	de	P	1	
+15	l'	le	D	1	
+16	hôtel	hôtel	N	1	
+17	,	,	O	1	
+18	la_gare_de_l'_est	le_gare_de_le_est	N	1	ne=POI
+19	à	à	P	1	
+20	deux	deux	D	1	
+21	pas	pas	N	1	
+22	,	,	O	1	
+23	commerces	commerce	N	1	
+24	,	,	O	1	
+25	restaurants	restaurant	N	1	
+26	sympathiques	sympathique	G	1	
+27	tout	tout	G	1	
+28	à	à	P	1	
+29	côté	côté	N	1	
+30	.	.	O	1	
+
+1	Pour	Pour	P	1	
+2	une	un	D	1	
+3	réunion	réunion	N	1	
+4	à	à	P	1	
+5	Paris	pari	N	1	ne=Location
+6	,	,	O	1	
+7	c'	c'	Q	1	
+8	est	être	V	1	
+9	parfait	parfait	G	1	
+10	!	!	O	1	
+

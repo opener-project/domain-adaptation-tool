@@ -1,0 +1,135 @@
+1	Gute	gut	G	1	
+2	Lage	Lage	N	1	
+3	,	,	O	1	
+4	renovierungsbedürftige	renovierungsbedürftig	G	1	
+5	Zimmer	Zimmer	N	1	
+
+1	Hotel	Hotel	N	1	
+2	in	in	P	1	
+3	guter	gut	G	1	
+4	Lage	Lage	N	1	
+5	an	an	P	1	
+6	lauter	lauter	Q	1	
+7	Strasse	Straße	N	1	
+8	.	.	O	1	
+
+1	Im	in	P	1	
+2	5.	5.	O	1	
+3	Stock	Stock	N	1	
+4	gewohnt	wohnen	V	1	
+5	,	,	O	1	
+6	deshalb	deshalb	Q	1	
+7	bei	bei	P	1	
+8	geschlossenem	geschlossen	G	1	
+9	Fenster	Fenster	N	1	
+10	ruhig	ruhig	G	1	
+11	,	,	O	1	
+12	allerdings	allerdings	A	1	
+13	Geräusche	Geräusch	N	1	
+14	aus	aus	P	1	
+15	benachbartem	benachbart	G	1	
+16	Badezimmer	Badezimmer	N	1	
+17	laut	laut	P	1	
+18	hörbar	hörbar	G	1	
+19	.	.	O	1	
+
+1	Abgewohnte	Abgewohnte	O	1	
+2	Zimmer	Zimmer	N	1	
+3	,	,	O	1	
+4	die	die	Q	1	
+5	dringend	dringend	G	1	
+6	renoviert	renovieren	V	1	
+7	oder	oder	C	1	
+8	saniert	sanieren	V	1	
+9	werden	werden	V	1	
+10	müssten	müssen	V	1	
+11	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	zwei	zwei	O	1	
+4	Doppelzimmer	Doppelzimmer	N	1	
+5	zur	zu	P	1	
+6	Alleinbenutzung	Alleinbenutzung	O	1	
+7	.	.	O	1	
+
+1	Mein	mein	Q	1	
+2	Zimmer	Zimmer	N	1	
+3	(	(	O	1	
+4	Zi	Zi	O	1	
+5	507	@card@	O	1	
+6	)	)	O	1	
+7	war	sein	V	1	
+8	klein	klein	G	1	
+9	.	.	O	1	
+
+1	Im	in	P	1	
+2	Bad	Bad	R	1	
+3	hing	hängen	V	1	
+4	nur	nur	A	1	
+5	noch	noch	A	1	
+6	die	die	D	1	
+7	Halterung	Halterung	N	1	
+8	des	die	D	1	
+9	Kosmetikspiegels	Kosmetikspiegels	O	1	
+10	ohne	ohne	P	1	
+11	Kosmetikspiegel	Kosmetikspiegel	N	1	
+12	.	.	O	1	
+
+1	Bidet	Bidet	N	1	
+2	kaum	kaum	A	1	
+3	zu	zu	O	1	
+4	benutzen	benutzen	V	1	
+5	,	,	O	1	
+6	da	da	C	1	
+7	man	man	Q	1	
+8	sich	sich	Q	1	
+9	Beine	Bein	N	1	
+10	an	an	P	1	
+11	Wand	Wand	N	1	
+12	und	und	C	1	
+13	Toilettenleitungen	Toilettenleitungen	O	1	
+14	gestossen	stoßen	V	1	
+15	hat	haben	V	1	
+16	.	.	O	1	
+
+1	Fernbedienung	Fernbedienung	N	1	
+2	des	die	D	1	
+3	TV	TV	R	1	
+4	defekt	defekt	G	1	
+5	.	.	O	1	
+
+1	Zimmer	Zimmer	N	1	
+2	meiner	mein	Q	1	
+3	Tochter	Tochter	N	1	
+4	(	(	O	1	
+5	Zi	Zi	O	1	
+6	.	.	O	1	
+
+1	508	@card@	O	1	
+2	)	)	O	1	
+3	war	sein	V	1	
+4	grösser	groß	G	1	
+5	.	.	O	1	
+
+1	Frühstückraum	Frühstückraum	O	1	
+2	war	sein	V	1	
+3	schön	schön	G	1	
+4	und	und	C	1	
+5	Frühstück	Frühstück	N	1	
+6	war	sein	V	1	
+7	auch	auch	A	1	
+8	gut	gut	G	1	
+9	.	.	O	1	
+
+1	Frühstück	Frühstück	N	1	
+2	wurde	werden	V	1	
+3	im	in	P	1	
+4	Hotel	Hotel	N	1	
+5	für	für	P	1	
+6	11_EUR	11_EUR	O	1	ne=Money
+7	pro	pro	P	1	
+8	Person	Person	N	1	
+9	zugebucht	zugebucht	O	1	
+10	.	.	O	1	
+

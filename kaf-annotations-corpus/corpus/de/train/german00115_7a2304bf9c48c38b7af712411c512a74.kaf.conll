@@ -1,0 +1,59 @@
+1	Immer	immer	A	1	
+2	wieder	wieder	A	1	
+3	gern	gern	A	1	
+
+1	Wir	wir	Q	1	
+2	waren	sein	V	1	
+3	nur	nur	A	1	
+4	für	für	P	1	
+5	eine	eine	D	1	
+6	Nacht	Nacht	N	1	
+7	in	in	P	1	
+8	diesem	dies	Q	1	
+9	Hotel	Hotel	N	1	
+10	.	.	O	1	
+
+1	Es	es	Q	1	
+2	wurde	werden	V	1	
+3	uns	wir	Q	1	
+4	empfohlen	empfehlen	V	1	
+5	von	von	P	1	
+6	der	die	D	1	
+7	Touristeninformation	Touristeninformation	N	1	
+8	am	an	P	1	
+9	Flughafen_Florenz	Flughafen_Florenz	R	1	ne=POI
+10	.	.	O	1	
+
+1	Das	die	D	1	
+2	Zimmer	Zimmer	N	1	
+3	wear	wear	O	1	
+4	sauber	sauber	G	1	
+5	und	und	C	1	
+6	sehr	sehr	A	1	
+7	ruhig	ruhig	G	1	
+8	.	.	O	1	
+
+1	Insgesamt	insgesamt	A	1	
+2	ein	eine	D	1	
+3	gutes	gut	G	1	
+4	Preis	Preis	N	1	
+5	·	·	O	1	
+6	/	/	O	1	
+7	Leistungsverhältnis	Leistungsverhältnis	N	1	
+8	.	.	O	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	liegt	liegen	V	1	
+4	etwa	etwa	A	1	
+5	10_Minuten	10_Minute	N	1	ne=Time
+6	Gehweg	Gehweg	N	1	
+7	vom	von	P	1	
+8	Dom	Dom	N	1	ne=Attraction
+9	entfernt	entfernen	V	1	
+10	,	,	O	1	
+11	also	also	A	1	
+12	recht	recht	G	1	
+13	zentral	zentral	G	1	
+14	.	.	O	1	
+

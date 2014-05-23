@@ -1,0 +1,48 @@
+1	Nettes	nett	G	1	
+2	Familienhotel	Familienhotel	N	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	liegt	liegen	V	1	
+4	in	in	P	1	
+5	einem	eine	D	1	
+6	Badeort	Badeort	N	1	
+7	nur	nur	A	1	
+8	5	5	O	1	
+9	min.	min.	N	1	
+10	von	von	P	1	
+11	der	die	D	1	
+12	Strandpromenade	Strandpromenade	N	1	
+13	entfernt	entfernen	V	1	
+14	.	.	O	1	
+
+1	Es	es	Q	1	
+2	ist	sein	V	1	
+3	sehr	sehr	A	1	
+4	familiär	familiär	G	1	
+5	und	und	C	1	
+6	mit	mit	P	1	
+7	liebevollen	liebevoll	G	1	
+8	Details	Detail	N	1	
+9	gestaltet	gestalten	V	1	
+10	.	.	O	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	bietet	bieten	V	1	
+4	nur	nur	A	1	
+5	Halbpension	Halbpension	N	1	
+6	an	an	V	1	
+7	.	.	O	1	
+
+1	Geste	Geste	N	1	
+2	sind	sein	V	1	
+3	vor	vor	P	1	
+4	allem	alle	Q	1	
+5	Holländer	Holländer	N	1	
+6	,	,	O	1	
+7	Deutscher	Deutsche	N	1	
+8	und	und	C	1	
+9	Italiener	Italiener	N	1	
+10	.	.	O	1	
+

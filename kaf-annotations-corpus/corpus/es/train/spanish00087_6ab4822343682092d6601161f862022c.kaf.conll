@@ -1,0 +1,47 @@
+1	Por	Por	R	1	
+2	el	el	N	1	
+3	precio	precio	N	1	
+4	hay	hay	N	1	
+5	muchos	muchos	N	1	
+6	mejores	mejores	N	1	
+7	en	en	O	1	
+8	la	la	O	1	
+9	Riviera	riviera	O	1	ne=Location
+
+1	Es	es	N	1	
+2	un	un	G	1	
+3	hotel	hotel	N	1	
+4	pequeño	pequeño	N	1	
+5	a	a	D	1	
+6	precio	precio	G	1	
+7	de	de	O	1	
+8	los	los	O	1	
+9	grandes	grandes	N	1	
+10	complejos	complejos	N	1	
+11	hoteleros	hoteleros	N	1	
+12	de	de	P	1	
+13	la	la	D	1	
+14	riviera_maya	riviera_maya	O	1	ne=Location
+15	como	como	V	1	
+16	el	el	N	1	
+17	Iberostar	Iberostar	R	1	ne=Hotel
+18	,	,	O	1	
+19	Bahia_Principe	Bahia_Principe	R	1	ne=Hotel
+20	,	,	O	1	
+21	Barcelo	Barcelo	R	1	ne=Hotel
+22	,	,	O	1	
+23	Grand_Palladium	Grand_Palladium	R	1	ne=Hotel
+24	,	,	O	1	
+25	etc	etc	O	1	
+26	,	,	O	1	
+27	que	que	V	1	
+28	son	son	N	1	
+29	muy	muy	G	1	
+30	superiores	superiores	N	1	
+31	y	y	G	1	
+32	mucho	mucho	G	1	
+33	mejores	mejores	N	1	
+34	que	que	V	1	
+35	el	el	N	1	
+36	Dreams	dream	N	1	ne=Hotel
+

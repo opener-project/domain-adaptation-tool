@@ -1,0 +1,101 @@
+1	Très	Très	G	1	
+2	bel	beau	G	1	
+3	hôtel	hôtel	N	1	
+
+1	Très	Très	G	1	
+2	bel	beau	G	1	
+3	hôtel	hôtel	N	1	
+4	,	,	O	1	
+5	entièrement	entièrement	G	1	
+6	restauré	restaurer	V	1	
+7	(	(	O	1	
+8	fin	fin	N	1	
+9	de	de	P	1	
+10	restauraytion	restauraytion	N	1	
+11	en	en	P	1	
+12	cours	cour	N	1	
+13	dans	dans	P	1	
+14	le	le	D	1	
+15	hall	hall	N	1	
+16	)	)	O	1	
+17	.	.	O	1	
+
+1	Proche	proche	N	1	
+2	du	du	D	1	
+3	centre	centre	N	1	
+4	ville	ville	N	1	
+5	(	(	O	1	
+6	15	15	D	1	
+7	min.	min.	N	1	
+8	à	à	P	1	
+9	pied	pied	N	1	
+10	du_pont_Charles	du_pont_Charles	N	1	ne=POI
+11	)	)	O	1	
+12	mais	mais	C	1	
+13	au	au	P	1	
+14	calme	calme	N	1	
+15	,	,	O	1	
+16	proche	proche	G	1	
+17	des	des	P	1	
+18	transports	transport	N	1	
+19	en	en	P	1	
+20	commun	commun	N	1	
+21	.	.	O	1	
+
+1	Chambre	chambre	N	1	
+2	spacieuse	spacieux	G	1	
+3	et	et	C	1	
+4	luxueuse	luxueux	G	1	
+5	.	.	O	1	
+
+1	Salle	salle	N	1	
+2	du	du	D	1	
+3	petit	petit	G	1	
+4	déjeuner	déjeuner	N	1	
+5	très	très	G	1	
+6	agréable	agréable	G	1	
+7	et	et	C	1	
+8	choix	choix	N	1	
+9	excellent	excellent	G	1	
+10	.	.	O	1	
+
+1	Personnel	personnel	N	1	
+2	parlant	parler	V	1	
+3	anglais	anglais	N	1	
+4	seulement	seulement	G	1	
+5	,	,	O	1	
+6	accueil	accueil	N	1	
+7	et	et	C	1	
+8	service	service	N	1	
+9	impeccables	impeccable	G	1	
+10	.	.	O	1	
+
+1	Petits	petit	G	1	
+2	bémols	bémols	G	1	
+3	:	:	O	1	
+4	piscine	piscine	N	1	
+5	hors	hors	P	1	
+6	service	service	N	1	
+7	fin	fin	G	1	
+8	août_2011	août_2011	G	1	ne=Date
+9	et	et	C	1	
+10	aucune	aucun	D	1	
+11	compensation	compensation	N	1	
+12	proposée	proposer	V	1	
+13	;	;	O	1	
+14	chambre	chambre	N	1	
+15	attribuée	attribuer	V	1	
+16	ayant	avoir	V	1	
+17	une	un	D	1	
+18	forte	fort	G	1	
+19	odeur	odeur	N	1	
+20	de	de	P	1	
+21	tabac	tabac	N	1	
+22	alors	alors	G	1	
+23	que	que	C	1	
+24	nous	lui	Q	1	
+25	sommes	sommer	V	1	
+26	non	non	G	1	
+27	fumeurs	fumeur	G	1	
+28	.	.	O	1	
+

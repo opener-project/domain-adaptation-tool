@@ -1,0 +1,123 @@
+1	Ottimo	ottimo	G	1	
+2	per	per	P	1	
+3	visitare	visitare	V	1	
+4	Padova	padova	R	1	ne=Location
+5	e	e	Q	1	
+6	Venezia	venezia	R	1	ne=Location
+
+1	Posizione	posizione	N	1	
+2	tranquilla	tranquillo	G	1	
+3	,	,	O	1	
+4	recentissima	recentissima	G	1	
+5	costruzione	costruzione	N	1	
+6	e	e	Q	1	
+7	vicinanza	vicinanza	N	1	
+8	all'	all'	P	1	
+9	autostrada	autostrada	N	1	
+10	ne	ne	Q	1	
+11	fanno	fare	V	1	
+12	un	uno	D	1	
+13	ottimo	ottimo	N	1	
+14	hotel	hotel	N	1	
+15	per	per	P	1	
+16	chi	chi	Q	1	
+17	avrebbe	avere	V	1	
+18	voglia	voglia	N	1	
+19	di	di	P	1	
+20	visitare	visitare	V	1	
+21	oltre	oltre	P	1	
+22	che	che	G	1	
+23	Padova	padova	R	1	ne=Location
+24	anche	anche	Q	1	
+25	quella	quella	Q	1	
+26	perla	perla	V	1	
+27	che	che	Q	1	
+28	il	lo	D	1	
+29	mondo	mondo	N	1	
+30	ci	ci	Q	1	
+31	invidia	invidiare	V	1	
+32	e	e	Q	1	
+33	che	che	Q	1	
+34	risponde	rispondere	V	1	
+35	al	al	P	1	
+36	nome	nome	N	1	
+37	di	di	P	1	
+38	Venezia	venezia	R	1	ne=Location
+39	.	.	O	1	
+
+1	Camere	camera	N	1	
+2	ampie	ampio	G	1	
+3	con	con	P	1	
+4	altrettanti	altrettanto	G	1	
+5	ampi	ampio	G	1	
+6	bagni	bagno	N	1	
+7	,	,	O	1	
+8	prima	prima	P	1	
+9	colazione	colazione	N	1	
+10	essenziale	essenziale	G	1	
+11	inclusa	includere	V	1	
+12	nel	nel	P	1	
+13	prezzo	prezzo	N	1	
+14	,	,	O	1	
+15	parcheggio	parcheggio	N	1	
+16	gratuito	gratuito	G	1	
+17	ed	ed	Q	1	
+18	l'	lo	D	1	
+19	estrema	estremo	G	1	
+20	vicinanza	vicinanza	N	1	
+21	alla	alla	P	1	
+22	stazione	stazione	N	1	
+23	ferroviaria	ferroviario	G	1	
+24	completano	completare	V	1	
+25	le	lo	D	1	
+26	qualità	qualità	Q	1	
+27	di	di	P	1	
+28	un	uno	D	1	
+29	hotel	hotel	N	1	
+30	ideale	ideale	N	1	
+31	per	per	P	1	
+32	ci	ci	Q	1	
+33	cerca	cercare	V	1	
+34	ad	ad	P	1	
+35	un	uno	D	1	
+36	prezzo	prezzo	N	1	
+37	contenuto	contenere	V	1	
+38	standard	standard	N	1	
+39	qualitativi	qualitativi	V	1	
+40	elevati	elevare	V	1	
+41	.	.	O	1	
+
+1	Pulizia	pulizia	N	1	
+2	,	,	O	1	
+3	organizzazione	organizzazione	N	1	
+4	,	,	O	1	
+5	cortesia	cortesia	N	1	
+6	eccellenti	eccellere	V	1	
+7	.	.	O	1	
+
+1	Consiglierei	consigliare	V	1	
+2	quest'	quest'	G	1	
+3	hotel	hotel	N	1	
+4	a	a	P	1	
+5	chi	chi	Q	1	
+6	transitasse	transitare	V	1	
+7	su	su	A	1	
+8	Padova	padova	R	1	ne=Location
+9	per	per	P	1	
+10	lavoro	lavoro	N	1	
+11	oppure	oppure	Q	1	
+12	a	a	P	1	
+13	chi	chi	Q	1	
+14	si	si	Q	1	
+15	accingesse	accingere	V	1	
+16	ad	ad	P	1	
+17	organizzare	organizzare	V	1	
+18	un	uno	D	1	
+19	viaggio	viaggio	N	1	
+20	a	a	P	1	
+21	Padova	padova	R	1	ne=Location
+22	ed	ed	Q	1	
+23	a	a	P	1	
+24	Venezia	venezia	R	1	ne=Location
+25	.	.	O	1	
+

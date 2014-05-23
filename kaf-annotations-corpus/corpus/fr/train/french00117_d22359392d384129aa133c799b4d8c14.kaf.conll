@@ -1,0 +1,72 @@
+1	Plus	Plus	G	1	
+2	jamais	jamais	G	1	
+
+1	Camping	camping	N	1	
+2	situé	situer	V	1	
+3	entre	entre	P	1	
+4	une	un	D	1	
+5	nationale	national	G	1	
+6	et	et	C	1	
+7	un	un	D	1	
+8	chemin	chemin	N	1	
+9	de	de	P	1	
+10	fer	fer	N	1	
+11	!	!	O	1	
+
+1	Personnel	personnel	N	1	
+2	incompétent	incompétent	V	1	
+3	Mobil	Mobil	N	1	
+4	·	·	O	1	
+5	home	home	N	1	
+6	les	le	D	1	
+7	un	un	D	1	
+8	sur	sur	P	1	
+9	les	le	D	1	
+10	autres	autres	P	1	
+11	.	.	O	1	
+
+1	Manque	Manque	P	1	
+2	d'	d'	P	1	
+3	entretien	entretien	N	1	
+4	flagrant	flagrant	G	1	
+5	des	des	P	1	
+6	logement	logement	N	1	
+7	.	.	O	1	
+
+1	Piscine	piscine	N	1	
+2	pas	pas	G	1	
+3	nettoyé	nettoyer	V	1	
+4	.	.	O	1	
+
+1	Hommair	Hommair	N	1	
+2	plafonne	plafonne	N	1	
+3	a	avoir	V	1	
+4	20	20	D	1	
+5	%	pourcent	N	1	
+6	dans	dans	P	1	
+7	les	le	D	1	
+8	cgv	cgv	N	1	
+9	le	le	D	1	
+10	remboursement	remboursement	N	1	
+11	suite	suite	G	1	
+12	a	avoir	V	1	
+13	une	un	D	1	
+14	réclamation	réclamation	N	1	
+15	!	!	O	1	
+16	!	!	O	1	
+17	!	!	O	1	
+
+1	il	il	Q	1	
+2	savent	savoir	V	1	
+3	déja	déja	G	1	
+4	que	que	C	1	
+5	les	le	D	1	
+6	gens	gens	N	1	
+7	seront	être	V	1	
+8	mécontent.	mécontent.	N	1	
+9	en	en	P	1	
+10	bref	bref	G	1	
+11	camping	camping	N	1	
+12	fuire	fuire	G	1	
+13	.....	.....	O	1	
+

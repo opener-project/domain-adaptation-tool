@@ -1,0 +1,71 @@
+1	Good	good	G	1	
+2	!	!	O	1	
+
+1	Brilliant	brilliant	G	1	
+2	holiday	holiday	N	1	
+3	except	except	P	1	
+4	from	from	P	1	
+5	the	the	D	1	
+6	food	food	N	1	
+7	the	the	D	1	
+8	food	food	N	1	
+9	was	be	V	1	
+10	diabolical	diabolical	N	1	
+11	.	.	O	1	
+
+1	Apart	Apart	R	1	
+2	from	from	P	1	
+3	the	the	D	1	
+4	food	food	N	1	
+5	my	my	Q	1	
+6	holiday	holiday	N	1	
+7	was	be	V	1	
+8	brilliant	brilliant	G	1	
+9	all	all	D	1	
+10	because	because	P	1	
+11	of	of	P	1	
+12	alanani	alanani	G	1	ne=Person
+13	rocko	rocko	N	1	ne=Person
+14	axaha	axaha	N	1	ne=Person
+15	and	and	C	1	
+16	the	the	D	1	
+17	sandman	sandman	N	1	
+18	wagdy	wagdy	G	1	
+19	helal	helal	N	1	
+20	!	!	O	1	
+
+1	i	i	O	1	
+2	couldn	couldn	O	1	
+3	't	't	A	1	
+4	go	go	V	1	
+5	back	back	A	1	
+6	2	2	O	1	
+7	this	this	D	1	
+8	hotel	hotel	N	1	
+9	because	because	P	1	
+10	i	i	N	1	
+11	had	have	V	1	
+12	hardly	hardly	A	1	
+13	eaten	eat	V	1	
+14	all	all	D	1	
+15	holiday	holiday	N	1	
+
+1	alanani	alanani	A	1	ne=Person
+2	,	,	O	1	
+3	rocko	rocko	N	1	ne=Person
+4	and	and	C	1	
+5	axaha	axaha	N	1	ne=Person
+6	should	should	O	1	
+7	be	be	V	1	
+8	working	work	V	1	
+9	in	in	P	1	
+10	a	a	D	1	
+11	five	five	O	1	
+12	star	star	G	1	
+13	hotel	hotel	N	1	
+14	because	because	P	1	
+15	they	they	Q	1	
+16	were	be	V	1	
+17	brilliant	brilliant	G	1	
+18	!	!	O	1	
+

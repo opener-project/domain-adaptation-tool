@@ -1,0 +1,104 @@
+1	Rixos	Rixos	O	1	ne=Hotel
+2	Belek	Belek	O	1	ne=Location
+3	voor	voor	P	1	
+4	een	een	D	1	
+5	onvergetelijke	onvergetelijk	G	1	
+6	vakantie	vakantie	N	1	
+
+1	Mijn	mijn	D	1	
+2	vrouw	vrouw	N	1	
+3	en	en	C	1	
+4	ik	ik	Q	1	
+5	gaan	gaan	V	1	
+6	al	al	A	1	
+7	voor	voor	P	1	
+8	de	de	D	1	
+9	4e	4e	O	1	
+10	keer	keer	N	1	
+11	naar	naar	P	1	
+12	dit	dit	D	1	
+13	hotel	hotel	N	1	
+14	.	.	O	1	
+
+1	Steeds	steeds	A	1	
+2	voldoet	voldoen	V	1	
+3	het	het	D	1	
+4	aanbonzen	aanbonzen	O	1	
+5	hoogste	hoog	G	1	
+6	verwachtingen	verwachting	N	1	
+7	.	.	O	1	
+
+1	In	in	P	1	
+2	zes	zes	O	1	
+3	verschillende	verschillend	G	1	
+4	(	(	O	1	
+5	gratis	gratis	G	1	
+6	)	)	O	1	
+7	à	à	P	1	
+8	la	la	N	1	
+9	Carte	Carte	O	1	
+10	restaurants	restaurant	N	1	
+11	is	zijn	V	1	
+12	de	de	D	1	
+13	bediening	bediening	N	1	
+14	en	en	C	1	
+15	de	de	D	1	
+16	kwaliteit	kwaliteit	N	1	
+17	van	van	P	1	
+18	het	het	D	1	
+19	eten	eten	N	1	
+20	van	van	P	1	
+21	de	de	D	1	
+22	hoogste	hoog	G	1	
+23	kwaliteit	kwaliteit	N	1	
+24	.	.	O	1	
+
+1	Verder	ver|verder	G	1	
+2	biedt	bieden	V	1	
+3	het	het	D	1	
+4	hotel	hotel	N	1	
+5	een	een	D	1	
+6	uitstekende	uitstekend	G	1	
+7	animatie	animatie	N	1	
+8	voor	voor	P	1	
+9	kinderen	kind	N	1	
+10	,	,	O	1	
+11	alsook	alsook	C	1	
+12	voor	voor	P	1	
+13	Volwassenen	volwassene	N	1	
+14	.	.	O	1	
+
+1	Een	een	D	1	
+2	groot	groot	G	1	
+3	waterarm	waterarm	O	1	
+4	met	met	P	1	
+5	dolfijnenshow	dolfijnenshow	O	1	
+6	.	.	O	1	
+
+1	Kortom	kortom	A	1	
+2	alles	alles	Q	1	
+3	is	zijn	V	1	
+4	aanwezig	aanwezig	G	1	
+5	voor	voor	P	1	
+6	een	een	D	1	
+7	onvergetelijke	onvergetelijk	G	1	
+8	vakantie	vakantie	N	1	
+9	.	.	O	1	
+
+1	Al	al	C	1	
+2	het	het	D	1	
+3	personeel	personeel	N	1	
+4	is	zijn	V	1	
+5	zeer	zeer	G	1	
+6	vriendelijk	vriendelijk	G	1	
+7	,	,	O	1	
+8	maar	maar	C	1	
+9	vooral	vooral	A	1	
+10	Gokhan	Gokhan	O	1	ne=Person
+11	van	van	P	1	
+12	de	de	D	1	
+13	guestrelation	guestrelation	O	1	
+14	is	zijn	V	1	
+15	very	very	O	1	
+16	special	special	N	1	
+

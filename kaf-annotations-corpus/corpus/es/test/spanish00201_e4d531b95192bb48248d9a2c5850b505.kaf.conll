@@ -1,0 +1,82 @@
+1	Laberíntico	Laberíntico	R	1	
+
+1	En	En	R	1	
+2	este	este	N	1	
+3	hotel	hotel	N	1	
+4	es	es	V	1	
+5	evidente	evidente	G	1	
+6	que	que	G	1	
+7	se	se	N	1	
+8	trata	trata	N	1	
+9	de	de	P	1	
+10	un	un	G	1	
+11	viejo	viejo	N	1	
+12	palacio	palacio	N	1	
+13	reformado	reformado	N	1	
+14	.	.	O	1	
+
+1	La	La	R	1	
+2	recepción	recepción	N	1	
+3	es	es	V	1	
+4	hermosa	hermosa	Q	1	
+5	(	(	O	1	
+6	al	al	G	1	
+7	igual	igual	G	1	
+8	que	que	N	1	
+9	la	la	N	1	
+10	sala	sala	N	1	
+11	de	de	P	1	
+12	desayunos	desayunos	N	1	
+13	)	)	O	1	
+14	y	y	A	1	
+15	el	el	N	1	
+16	personal	personal	G	1	
+17	más	más	N	1	
+18	que	que	V	1	
+19	atento	atento	P	1	
+20	.	.	O	1	
+
+1	Las	Las	R	1	
+2	habitaciones	habitaciones	N	1	
+3	,	,	O	1	
+4	aunque	aunque	G	1	
+5	pequeñas	pequeñas	N	1	
+6	,	,	O	1	
+7	son	son	N	1	
+8	cómodas	cómodas	N	1	
+9	y	y	G	1	
+10	modernas	modernas	N	1	
+11	.	.	O	1	
+
+1	Desde	Desde	R	1	
+2	la	la	D	1	
+3	que	que	G	1	
+4	ocupé	ocupé	N	1	
+5	se	se	N	1	
+6	veía	veía	O	1	
+7	la_Cúpula_del_Duomo	la_cúpula_del_duomo	O	1	ne=Attraction
+8	y	y	G	1	
+9	se	se	Q	1	
+10	oían	oían	G	1	
+11	perfectamente	perfectamente	O	1	
+12	las	las	O	1	
+13	campanas	campanas	O	1	
+14	del	del	O	1	
+15	Campanile	campanile	O	1	ne=Attraction
+16	:	:	O	1	
+17	una	una	G	1	
+18	delicia	delicia	N	1	
+19	.	.	O	1	
+
+1	Además	además	N	1	
+2	,	,	O	1	
+3	está	está	O	1	
+4	muy	muy	O	1	
+5	cerca	cerca	O	1	
+6	de	de	O	1	
+7	la	la	O	1	
+8	estación	estación	O	1	
+9	de	de	O	1	
+10	tren	tren	O	1	
+11	.	.	O	1	
+

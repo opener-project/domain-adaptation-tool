@@ -1,0 +1,99 @@
+1	They	they	Q	1	
+2	steal	steal	V	1	
+3	your	your	Q	1	
+4	stuff	stuff	N	1	
+
+1	In	in	P	1	
+2	2011	2011	O	1	ne=Date
+3	I	i	Q	1	
+4	stayed	stay	V	1	
+5	there	there	A	1	
+6	with	with	P	1	
+7	my	my	Q	1	
+8	Fam	Fam	R	1	
+9	.	.	O	1	
+
+1	I	i	Q	1	
+2	bought	buy	V	1	
+3	a	a	D	1	
+4	pair	pair	N	1	
+5	of	of	P	1	
+6	Converse	converse	G	1	
+7	sneakers	sneaker	N	1	
+8	.	.	O	1	
+
+1	I	i	Q	1	
+2	thought	think	V	1	
+3	it	it	Q	1	
+4	would	would	O	1	
+5	be	be	V	1	
+6	safe	safe	G	1	
+7	to	to	P	1	
+8	keep	keep	V	1	
+9	them	them	Q	1	
+10	in	in	P	1	
+11	my	my	Q	1	
+12	room	room	N	1	
+13	.	.	O	1	
+
+1	The	the	D	1	
+2	next	next	G	1	
+3	day	day	N	1	
+4	I	i	Q	1	
+5	found	find	V	1	
+6	out	out	P	1	
+7	that	that	P	1	
+8	my	my	Q	1	
+9	new	new	G	1	
+10	Converse	Converse	R	1	
+11	were	be	V	1	
+12	stolen	steal	V	1	
+13	.	.	O	1	
+
+1	The	the	D	1	
+2	manager	manager	N	1	
+3	of	of	P	1	
+4	the	the	D	1	
+5	hotel	hotel	N	1	
+6	didn	didn	N	1	
+7	't	't	A	1	
+8	do	do	V	1	
+9	anything	anything	N	1	
+10	.	.	O	1	
+
+1	He	he	Q	1	
+2	promised	promise	V	1	
+3	me	me	Q	1	
+4	he	he	Q	1	
+5	would	would	O	1	
+6	contact	contact	V	1	
+7	me	me	Q	1	
+8	,	,	O	1	
+9	but	but	C	1	
+10	he	he	Q	1	
+11	NEVER	NEVER	R	1	
+12	did	do	V	1	
+13	.	.	O	1	
+
+1	I	i	Q	1	
+2	will	will	O	1	
+3	NOT	NOT	V	1	
+4	recommend	recommend	V	1	
+5	this	this	D	1	
+6	hotel	hotel	N	1	
+7	to	to	P	1	
+8	anyone	anyone	N	1	
+9	.	.	O	1	
+
+1	And	and	C	1	
+2	they	they	Q	1	
+3	will	will	O	1	
+4	never	never	A	1	
+5	have	have	V	1	
+6	me	me	Q	1	
+7	as	as	P	1	
+8	a	a	D	1	
+9	guest	guest	N	1	
+10	again	again	A	1	
+11	.	.	O	1	
+

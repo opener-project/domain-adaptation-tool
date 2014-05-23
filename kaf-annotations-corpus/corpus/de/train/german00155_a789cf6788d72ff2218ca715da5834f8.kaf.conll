@@ -1,0 +1,90 @@
+1	Ibis	Ibis	R	1	ne=Hotel
+2	·	·	O	1	
+3	Standard	Standard	N	1	
+4	,	,	O	1	
+5	mehr	mehr	A	1	
+6	nicht	nicht	O	1	
+7	und	und	C	1	
+8	nicht	nicht	O	1	
+9	weniger	weniger	A	1	
+
+1	Hotels	Hotel	N	1	
+2	in	in	P	1	
+3	Paris	Paris	R	1	ne=Location
+4	sind	sein	V	1	
+5	ja	ja	A	1	
+6	immer	immer	A	1	
+7	so	so	A	1	
+8	eine	eine	D	1	
+9	Sache	Sache	N	1	
+10	fuer	fuer	O	1	
+11	sich	sich	Q	1	
+12	...	...	O	1	
+
+1	Pro	Pro	N	1	
+2	:	:	O	1	
+
+1	·	·	O	1	
+2	Preislich	preislich	G	1	
+3	akzeptabel	akzeptabel	G	1	
+
+1	·	·	O	1	
+2	nahe	nahe	P	1	
+3	der	die	D	1	
+4	Metro_"_Tolbiac	Metro_"_Tolbiac	O	1	ne=POI
+5	"	"	O	1	
+6	gelegen	liegen	V	1	
+7	,	,	O	1	
+8	viele	viele	Q	1	
+9	Geschaefte	Geschaefte	O	1	
+10	,	,	O	1	
+11	Restaurants	Restaurant	N	1	
+12	(	(	O	1	
+13	Fast	fast	A	1	
+14	Food	Food	N	1	
+15	)	)	O	1	
+16	,	,	O	1	
+17	etc.	etc.	A	1	
+
+1	·	·	O	1	
+2	Supermarkt	Supermarkt	N	1	
+3	gegenueber	gegenueber	O	1	
+
+1	·	·	O	1	
+2	Renoviertes	renoviert	G	1	
+3	Zimmer	Zimmer	N	1	
+4	im	in	P	1	
+5	Standard	Standard	N	1	
+6	·	·	O	1	
+7	Ibis	Ibis	R	1	
+8	·	·	O	1	
+9	Look	Look	O	1	
+10	(	(	O	1	
+11	Schreibtisch	Schreibtisch	N	1	
+12	,	,	O	1	
+13	Laminatboden	Laminatboden	O	1	
+14	,	,	O	1	
+15	etc.	etc.	A	1	
+16	)	)	O	1	
+
+1	·	·	O	1	
+2	Kostenloses	Kostenlos	N	1	
+3	Wifi	Wifi	O	1	
+
+1	Contra	contra	A	1	
+2	:	:	O	1	
+
+1	·	·	O	1	
+2	Kleines	klein	G	1	
+3	Zimmer	Zimmer	N	1	
+
+1	·	·	O	1	
+2	Lange	Lange	R	1	
+3	Wartezeiten	Wartezeit	N	1	
+4	an	an	P	1	
+5	der	die	D	1	
+6	Rezeption	Rezeption	N	1	
+7	und	und	C	1	
+8	ueberfordertes	ueberfordertes	O	1	
+9	Personal	Personal	N	1	
+

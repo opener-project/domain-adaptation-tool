@@ -1,0 +1,53 @@
+1	Fantástico	Fantástico	R	1	
+2	hotel	hotel	N	1	
+3	en	en	O	1	
+4	el	el	O	1	
+5	centro	centro	O	1	
+6	de	de	O	1	
+7	Madrid	Madrid	R	1	
+
+1	Si	Si	R	1	
+2	quieres	quieres	V	1	
+3	viajar	viajar	P	1	
+4	a	a	D	1	
+5	Madrid	Madrid	R	1	
+6	elige	elige	N	1	
+7	este	este	N	1	
+8	hotel	hotel	N	1	
+9	.	.	O	1	
+
+1	En	En	R	1	
+2	pleno	pleno	A	1	
+3	centro	centro	N	1	
+4	de	de	O	1	
+5	la	la	O	1	
+6	ciudad	ciudad	O	1	
+7	con	con	O	1	
+8	unas	unas	O	1	
+9	instalaciones	instalaciones	O	1	
+10	inmejorables	inmejorables	O	1	
+11	.	.	O	1	
+
+1	Las	Las	R	1	
+2	habitaciones	habitaciones	N	1	
+3	,	,	O	1	
+4	el	el	N	1	
+5	spa	spa	N	1	
+6	...	...	O	1	
+7	Todo	Todo	R	1	
+8	muy	muy	G	1	
+9	limpio	limpio	N	1	
+10	y	y	G	1	
+11	el	el	N	1	
+12	trato	trato	N	1	
+13	del	del	O	1	
+14	personal	personal	G	1	
+15	de	de	P	1	
+16	recepcion	recepcion	N	1	
+17	un	un	G	1	
+18	10	10	O	1	
+19	.	.	O	1	
+
+1	Genial	Genial	R	1	
+2	.	.	O	1	
+

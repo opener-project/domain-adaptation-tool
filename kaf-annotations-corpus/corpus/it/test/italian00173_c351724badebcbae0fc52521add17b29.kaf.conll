@@ -1,0 +1,95 @@
+1	Impressionante	impressionare	V	1	
+
+1	Impressionante	impressionare	V	1	
+2	è	è	R	1	
+3	la	lo	D	1	
+4	parola	parola	N	1	
+5	giusta	giusto	G	1	
+6	come	come	Q	1	
+7	lo	lo	D	1	
+8	è	è	G	1	
+9	tutta	tutto	G	1	
+10	Dubai	dubai	R	1	ne=Location
+11	!	!	O	1	
+
+1	L'	lo	D	1	
+2	albergo	albergo	N	1	
+3	cambiava	cambiare	V	1	
+4	proprietà	proprietà	V	1	
+5	alla	alla	P	1	
+6	fine	fine	N	1	
+7	del	del	P	1	
+8	mese	mese	N	1	
+9	(	(	O	1	
+10	oggi	oggi	N	1	
+11	fa	fa	N	1	
+12	parte	parte	N	1	
+13	della	della	P	1	
+14	catena	catena	N	1	
+15	Starwood	starwood	R	1	ne=Hotel
+16	)	)	O	1	
+17	ma	ma	Q	1	
+18	nonostante	nonostante	P	1	
+19	ciò	ciò	G	1	
+20	il	lo	D	1	
+21	personale	personale	N	1	
+22	era	era	N	1	
+23	incredibilmente	incredibilmente	A	1	
+24	gentile	gentile	G	1	
+25	e	e	Q	1	
+26	cooperativo	cooperativo	G	1	
+27	;	;	O	1	
+28	la	lo	D	1	
+29	stanza	stanza	N	1	
+30	,	,	O	1	
+31	bene	bene	N	1	
+32	arredata	arredare	V	1	
+33	e	e	Q	1	
+34	completamente	completamente	A	1	
+35	accessoriata	accessoriata	V	1	
+36	era	era	N	1	
+37	silenziosa	silenzioso	G	1	
+38	e	e	Q	1	
+39	con	con	P	1	
+40	una	uno	D	1	
+41	vista	vista	N	1	
+42	mozzafiato	mozzafiato	G	1	
+43	sul	sul	P	1	
+44	mare	mare	N	1	
+45	.	.	O	1	
+
+1	L'	lo	D	1	
+2	ascensore	ascensore	N	1	
+3	usciva	uscire	V	1	
+4	direttamente	direttamente	A	1	
+5	anche	anche	Q	1	
+6	nel	nel	P	1	
+7	Mall_of_Emirates	mall_of_emirates	R	1	ne=POI
+8	dove	dove	A	1	
+9	,	,	O	1	
+10	tra	tra	P	1	
+11	le	lo	D	1	
+12	tante	tanto	G	1	
+13	cose	cosa	N	1	
+14	,	,	O	1	
+15	era	era	N	1	
+16	possibile	possibile	G	1	
+17	incontrare	incontrare	V	1	
+18	una	uno	D	1	
+19	montagna	montagna	N	1	
+20	innevata	innevata	V	1	
+21	con	con	P	1	
+22	impianti	impianto	N	1	
+23	di	di	P	1	
+24	risalita	risalita	N	1	
+25	e	e	Q	1	
+26	tre	tre	G	1	
+27	piste	pista	N	1	
+28	sciistiche	sciistico	G	1	
+29	.......	.......	O	1	
+
+1	Impressionante	impressionare	V	1	
+2	?	?	O	1	
+
+1	SI	si	N	1	
+

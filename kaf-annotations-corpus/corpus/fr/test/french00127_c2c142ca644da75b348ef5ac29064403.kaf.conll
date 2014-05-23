@@ -1,0 +1,43 @@
+1	Europark	Europark	N	1	ne=Attraction
+2	a	avoir	V	1	
+3	voir	voir	V	1	
+4	absolument	absolument	G	1	
+
+1	3	3	D	1	
+2	années	année	N	1	
+3	de	de	P	1	
+4	suite	suite	N	1	
+5	que	que	C	1	
+6	nous	lui	Q	1	
+7	allons	aller	V	1	
+8	dans	dans	P	1	
+9	cette	ce	D	1	
+10	région	région	N	1	
+11	et	et	C	1	
+12	3	3	D	1	
+13	années	année	N	1	
+14	de	de	P	1	
+15	suite	suite	N	1	
+16	que	que	C	1	
+17	nous	lui	Q	1	
+18	allons	aller	V	1	
+19	au	au	P	1	
+20	Park_europark	Park_europark	G	1	ne=Attraction
+21	,	,	O	1	
+22	toujours	toujours	G	1	
+23	aussi	aussi	G	1	
+24	satisfait	satisfait	G	1	
+25	d'	d'	P	1	
+26	y	y	Q	1	
+27	aller	aller	V	1	
+28	a	avoir	V	1	
+29	chaque	chaque	D	1	
+30	fois	foi	N	1	
+31	,	,	O	1	
+32	les	le	D	1	
+33	glaces	glace	N	1	
+34	sont	être	V	1	
+35	toujours	toujours	G	1	
+36	aussi	aussi	G	1	
+37	bonnes	bon	G	1	
+

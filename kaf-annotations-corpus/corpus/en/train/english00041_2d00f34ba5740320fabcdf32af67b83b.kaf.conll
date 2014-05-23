@@ -1,0 +1,53 @@
+1	Small	small	G	1	
+2	cheap	cheap	G	1	
+3	hotel	hotel	N	1	
+
+1	It	it	Q	1	
+2	is	be	V	1	
+3	a	a	D	1	
+4	very	very	A	1	
+5	small	small	G	1	
+6	hotel	hotel	N	1	
+7	in	in	P	1	
+8	5	5	O	1	
+9	km	km	N	1	
+10	from	from	P	1	
+11	Orly_airport	Orly_airport	N	1	ne=POI
+12	.	.	O	1	
+
+1	I	i	Q	1	
+2	couldn	couldn	V	1	
+3	't	't	A	1	
+4	find	find	V	1	
+5	anything	anything	N	1	
+6	interesting	interesting	G	1	
+7	around	around	P	1	
+8	it	it	Q	1	
+9	.	.	O	1	
+
+1	Room	Room	R	1	
+2	was	be	V	1	
+3	very	very	A	1	
+4	small	small	G	1	
+5	and	and	C	1	
+6	poor	poor	G	1	
+7	.	.	O	1	
+
+1	Window	window	N	1	
+2	of	of	P	1	
+3	the	the	D	1	
+4	room	room	N	1	
+5	was	be	V	1	
+6	to	to	P	1	
+7	the	the	D	1	
+8	roadside	roadside	N	1	
+9	and	and	C	1	
+10	very	very	A	1	
+11	many	many	G	1	
+12	cars	car	N	1	
+13	pass	pass	V	1	
+14	by	by	P	1	
+15	this	this	D	1	
+16	road	road	N	1	
+17	.	.	O	1	
+

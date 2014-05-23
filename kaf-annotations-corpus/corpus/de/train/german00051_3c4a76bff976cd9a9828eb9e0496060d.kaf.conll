@@ -1,0 +1,69 @@
+1	Toller	toll	G	1	
+2	Urlaub	Urlaub	N	1	
+3	,	,	O	1	
+4	wir	wir	Q	1	
+5	kommen	kommen	V	1	
+6	gerne	gerne	A	1	
+7	wieder	wieder	A	1	
+8	!	!	O	1	
+
+1	Sehr	sehr	A	1	
+2	freundliches	freundlich	G	1	
+3	Personal	Personal	N	1	
+4	,	,	O	1	
+5	sehr	sehr	A	1	
+6	gutes	gut	G	1	
+7	Frühstück	Frühstück	N	1	
+8	und	und	C	1	
+9	sehr	sehr	A	1	
+10	saubere	sauber	G	1	
+11	Zimmer	Zimmer	N	1	
+12	.	.	O	1	
+
+1	Wellnessbereich	Wellnessbereich	O	1	
+2	ist	sein	V	1	
+3	klein	klein	G	1	
+4	,	,	O	1	
+5	aber	aber	A	1	
+6	sauber	sauber	G	1	
+7	und	und	C	1	
+8	ausreichend	ausreichend	G	1	
+9	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	ein	eine	D	1	
+4	kleines	klein	G	1	
+5	Zimmer	Zimmer	N	1	
+6	zum	zu	P	1	
+7	Garten	Garten	N	1	
+8	,	,	O	1	
+9	welches	welche	Q	1	
+10	für	für	P	1	
+11	unsere	unser	Q	1	
+12	Ansprüche	Anspruch	N	1	
+13	ausreichend	ausreichend	G	1	
+14	war	sein	V	1	
+15	.	.	O	1	
+
+1	WIFI	WIFI	O	1	
+2	ohne	ohne	P	1	
+3	zusätzliche	zusätzlich	G	1	
+4	Kosten	Kosten	N	1	
+5	,	,	O	1	
+6	jedoch	jedoch	A	1	
+7	keine	keine	Q	1	
+8	deutschsprachiges	deutschsprachig	G	1	
+9	TV	TV	R	1	
+10	im	in	P	1	
+11	Zimmer	Zimmer	N	1	
+12	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	waren	sein	V	1	
+3	in	in	P	1	
+4	Summe	Summe	N	1	
+5	sehr	sehr	A	1	
+6	zufrieden	zufrieden	G	1	
+7	!	!	O	1	
+

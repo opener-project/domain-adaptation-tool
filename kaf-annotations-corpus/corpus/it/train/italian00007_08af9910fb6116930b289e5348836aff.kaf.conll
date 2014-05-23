@@ -1,0 +1,135 @@
+1	Lussuoso	lussuoso	G	1	
+2	e	e	Q	1	
+3	un	uno	D	1	
+4	po'	po'	A	1	
+5	kitsch	kitsch	G	1	
+6	ma	ma	Q	1	
+7	merita	meritare	V	1	
+
+1	L'	lo	D	1	
+2	Atlantis_The_Palm	atlantis_the_palm	R	1	ne=Hotel
+3	è	è	N	1	
+4	in	in	P	1	
+5	una	uno	D	1	
+6	posizione	posizione	N	1	
+7	straordinaria	straordinario	G	1	
+8	,	,	O	1	
+9	in	in	P	1	
+10	fondo	fondo	N	1	
+11	alla	alla	P	1	
+12	"	&quot;	O	1	
+13	Palma	palma	R	1	ne=POI
+14	"	&quot;	O	1	
+15	di	di	P	1	
+16	Dubai	dubai	N	1	ne=Location
+17	.	.	O	1	
+
+1	L'	lo	D	1	
+2	hotel	hotel	N	1	
+3	è	è	G	1	
+4	molto	molto	G	1	
+5	"	&quot;	O	1	
+6	americano	americano	G	1	
+7	"	&quot;	O	1	
+8	,	,	O	1	
+9	molto	molto	A	1	
+10	elegante	elegante	G	1	
+11	con	con	P	1	
+12	ambienti	ambiente	N	1	
+13	molto	molto	A	1	
+14	diversi	diverso	G	1	
+15	tra	tra	P	1	
+16	loro	loro	Q	1	
+17	,	,	O	1	
+18	camere	camera	N	1	
+19	bellissime	bellissime	G	1	
+20	e	e	Q	1	
+21	tanto	tanto	G	1	
+22	personale	personale	N	1	
+23	gentile	gentile	G	1	
+24	e	e	Q	1	
+25	sempre	sempre	A	1	
+26	presente	presente	G	1	
+27	.	.	O	1	
+
+1	E	e	Q	1	
+2	'	'	Q	1	
+3	molto	molto	G	1	
+4	alla	alla	P	1	
+5	moda	moda	N	1	
+6	e	e	Q	1	
+7	sempre	sempre	A	1	
+8	pieno	pieno	G	1	
+9	di	di	P	1	
+10	turisti	turista	N	1	
+11	,	,	O	1	
+12	viste	vedere	V	1	
+13	le	lo	D	1	
+14	attrazioni	attrazione	N	1	
+15	The_Lost_Chambers	the_lost_chambers	R	1	ne=Attraction
+16	(	(	O	1	
+17	spettacolare	spettacolare	G	1	
+18	!	!	O	1	
+19	)	)	O	1	
+20	e	e	Q	1	
+21	il	lo	D	1	
+22	bagno	bagno	N	1	
+23	coi	coi	P	1	
+24	delfini	delfino	N	1	
+25	veramente	veramente	A	1	
+26	belle	bello	G	1	
+27	.	.	O	1	
+
+1	Particolare	particolare	V	1	
+2	,	,	O	1	
+3	molto	molto	G	1	
+4	trendy	trendy	G	1	
+5	e	e	Q	1	
+6	pieno	pieno	N	1	
+7	di	di	P	1	
+8	fascino	fascino	N	1	
+9	è	essere	V	1	
+10	il	lo	D	1	
+11	ristorante	ristorante	N	1	
+12	Nobu	nobu	R	1	ne=Restaurant
+13	,	,	O	1	
+14	con	con	P	1	
+15	ambiente	ambiente	N	1	
+16	giovane	giovane	G	1	
+17	,	,	O	1	
+18	frizzante	frizzare	V	1	
+19	e	e	Q	1	
+20	cucina	cucina	N	1	
+21	eccellente	eccellere	V	1	
+22	(	(	O	1	
+23	molto	molto	G	1	
+24	caro	caro	N	1	
+25	,	,	O	1	
+26	però	però	R	1	
+27	)	)	O	1	
+28	.	.	O	1	
+
+1	State	essere	V	1	
+2	attenti	attento	G	1	
+3	:	:	O	1	
+4	se	se	Q	1	
+5	state	essere	V	1	
+6	all'	all'	P	1	
+7	Atlantis	atlantis	R	1	ne=Hotel
+8	è	è	R	1	
+9	talmente	talmente	A	1	
+10	bello	bello	G	1	
+11	che	che	Q	1	
+12	rischiate	rischiare	V	1	
+13	di	di	P	1	
+14	non	non	A	1	
+15	uscire	uscire	V	1	
+16	dal	dal	P	1	
+17	resort	resort	R	1	
+18	!	!	O	1	
+
+1	Strepitosa	strepitoso	G	1	
+2	la	lo	D	1	
+3	reception	reception	R	1	
+4	!	!	O	1	
+

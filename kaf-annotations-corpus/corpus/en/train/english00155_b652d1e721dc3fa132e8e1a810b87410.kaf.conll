@@ -1,0 +1,48 @@
+1	Perfect	Perfect	R	1	
+2	hotel	hotel	N	1	
+
+1	every	every	D	1	
+2	thing	thing	N	1	
+3	in	in	P	1	
+4	the	the	D	1	
+5	hotel	hotel	N	1	
+6	was	be	V	1	
+7	perfect	perfect	G	1	
+8	,	,	O	1	
+9	the	the	D	1	
+10	location	location	N	1	
+11	near	near	P	1	
+12	the	the	D	1	
+13	river	river	N	1	
+
+1	breakfast	breakfast	N	1	
+2	is	be	V	1	
+3	wonderfull	wonderfull	G	1	
+
+1	close	close	G	1	
+2	to	to	P	1	
+3	shopping	shopping	N	1	
+4	,	,	O	1	
+5	to	to	P	1	
+6	the	the	D	1	
+7	restaurant	restaurant	N	1	
+8	and	and	C	1	
+9	transfer	transfer	N	1	
+10	.	.	O	1	
+
+1	the	the	D	1	
+2	stuff	stuff	N	1	
+3	very	very	A	1	
+4	helpfull	helpfull	G	1	
+
+1	the	the	D	1	
+2	room	room	N	1	
+3	very	very	A	1	
+4	clean	clean	G	1	
+5	and	and	C	1	
+6	room	room	N	1	
+7	service	service	N	1	
+8	are	be	V	1	
+9	immidiately	immidiately	A	1	
+10	come	come	V	1	
+

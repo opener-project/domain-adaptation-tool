@@ -1,0 +1,47 @@
+1	Bonne	bon	G	1	
+2	après	après	P	1	
+3	midi	midi	N	1	
+4	!	!	O	1	
+
+1	Le	le	D	1	
+2	parc	parc	N	1	
+3	est	être	V	1	
+4	très	très	G	1	
+5	bien	bien	G	1	
+6	fait	faire	V	1	
+7	!	!	O	1	
+
+1	Rien	Rien	P	1	
+2	a	avoir	V	1	
+3	dire	dire	V	1	
+4	...	...	O	1	
+
+1	A	A	P	1	
+2	part	part	N	1	
+3	au	au	P	1	
+4	niveau	niveau	N	1	
+5	de	de	P	1	
+6	la	le	D	1	
+7	nourriture	nourriture	N	1	
+8	où	où	P	1	
+9	le	le	D	1	
+10	rapport	rapport	N	1	
+11	qualité	qualité	N	1	
+12	/	/	P	1	
+13	prix	prix	N	1	
+14	n'	n'	G	1	
+15	y	y	Q	1	
+16	est	être	V	1	
+17	pas	pas	G	1	
+18	du	du	P	1	
+19	tout	tout	G	1	
+20	,	,	O	1	
+21	ça	ça	P	1	
+22	coûte	coûter	V	1	
+23	extrêmement	extrêmement	G	1	
+24	cher	cher	G	1	
+25	pour	pour	P	1	
+26	le	le	D	1	
+27	rendu	rendu	N	1	
+28	...	...	O	1	
+

@@ -1,0 +1,120 @@
+1	Ein	eine	D	1	
+2	super	super	G	1	
+3	gelungener	gelungen	G	1	
+4	Urlaub	Urlaub	N	1	
+5	mit	mit	P	1	
+6	Kleinkind	Kleinkind	N	1	
+7	!	!	O	1	
+
+1	Schoenes	Schoenes	O	1	
+2	Familienhotel	Familienhotel	N	1	
+3	.	.	O	1	
+
+1	Spassfaktor	Spassfaktor	O	1	
+2	alleine	alleine	A	1	
+3	wegen	wegen	P	1	
+4	dem	die	D	1	
+5	Aquapark	Aquapark	O	1	
+6	fuer	fuer	O	1	
+7	Kleinkinder	Kleinkind	N	1	
+8	und	und	C	1	
+9	Kinder	Kind	N	1	
+10	aufgrund	aufgrund	P	1	
+11	der	die	D	1	
+12	vielen	viele	Q	1	
+13	Rutschen	Rutschen	N	1	
+14	bestens	bestens	A	1	
+15	gegeben	geben	V	1	
+16	.	.	O	1	
+
+1	War	sein	V	1	
+2	zu	zu	P	1	
+3	diesem	dies	Q	1	
+4	Zeitpunkt	Zeitpunkt	N	1	
+5	beheizt	beheizen	V	1	
+6	.	.	O	1	
+
+1	Super	super	G	1	
+2	saubere	sauber	G	1	
+3	und	und	C	1	
+4	gepflegte	gepflegt	G	1	
+5	Zimmer	Zimmer	N	1	
+6	.	.	O	1	
+
+1	Grosse	groß	G	1	
+2	Auswahl	Auswahl	N	1	
+3	und	und	C	1	
+4	taeglich	taeglich	O	1	
+5	wechselnde	wechselnd	G	1	
+6	Speisen	Speise|Speisen	N	1	
+7	,	,	O	1	
+8	die	die	Q	1	
+9	auch	auch	A	1	
+10	teilweise	teilweise	A	1	
+11	frisch	frisch	G	1	
+12	vor	vor	P	1	
+13	dem	die	D	1	
+14	Gast	Gast	N	1	
+15	zubereitet	zubereiten	V	1	
+16	werden	werden	V	1	
+17	.	.	O	1	
+
+1	Animation	Animation	N	1	
+2	mehrsprachig	mehrsprachig	G	1	
+3	(	(	O	1	
+4	russisch	russisch	G	1	
+5	,	,	O	1	
+6	deutsch	deutsch	G	1	
+7	,	,	O	1	
+8	englisch	englisch	G	1	
+9	)	)	O	1	
+10	sehr	sehr	A	1	
+11	freundlich	freundlich	G	1	
+12	und	und	C	1	
+13	hilfsbereit	hilfsbereit	G	1	
+14	.	.	O	1	
+
+1	Man	man	Q	1	
+2	fuehlt	fuehlt	O	1	
+3	sich	sich	Q	1	
+4	animiert	animieren	V	1	
+5	und	und	C	1	
+6	nicht	nicht	O	1	
+7	bedraengt	bedraengt	O	1	
+8	.	.	O	1	
+
+1	War	sein	V	1	
+2	ein	eine	D	1	
+3	super	super	G	1	
+4	schoener	schoener	O	1	
+5	Urlaub	Urlaub	N	1	
+6	und	und	C	1	
+7	wir	wir	Q	1	
+8	freuen	freuen	V	1	
+9	uns	wir	Q	1	
+10	bereits	bereits	A	1	
+11	aufs	aufs	P	1	
+12	naechste	naechste	O	1	
+13	Mal	Mal	N	1	
+14	.	.	O	1	
+
+1	Selbst	selbst	A	1	
+2	an	an	P	1	
+3	den	die	D	1	
+4	Geburtstag	Geburtstag	N	1	
+5	unserer	unser	Q	1	
+6	Tochter	Tochter	N	1	
+7	wurde	werden	V	1	
+8	gedacht	denken|gedenken	V	1	
+9	und	und	C	1	
+10	ein	eine	D	1	
+11	schoener	schoener	O	1	
+12	Geburtstagstisch	Geburtstagstisch	N	1	
+13	hergerichtet	herrichten	V	1	
+14	.	.	O	1	
+
+1	Danke	danke	O	1	
+2	hierfuer	hierfuer	O	1	
+3	nochmals	nochmals	A	1	
+4	.	.	O	1	
+

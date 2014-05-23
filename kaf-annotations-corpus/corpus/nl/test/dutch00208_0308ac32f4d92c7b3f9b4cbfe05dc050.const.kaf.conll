@@ -1,0 +1,122 @@
+1	Voor	voor	P	1	
+2	een	een	D	1	
+3	nacht	nacht	N	1	
+4	ok	ok	O	1	
+
+1	Prima	prima	G	1	
+2	hotel	hotel	N	1	
+3	voor	voor	P	1	
+4	een	een	D	1	
+5	of	of	C	1	
+6	twee	twee	O	1	
+7	nachten	nacht	N	1	
+8	.	.	O	1	
+
+1	Maar	maar	A	1	
+2	verder	ver|verder	G	1	
+3	niet	niet	A	1	
+4	heel	heel	A	1	
+5	veel	veel	O	1	
+6	bijzonders	bijzonders	O	1	
+7	.	.	O	1	
+
+1	De	de	D	1	
+2	locatie	locatie	N	1	
+3	is	zijn	V	1	
+4	top	top	N	1	
+5	,	,	O	1	
+6	en	en	C	1	
+7	er	er	Q	1	
+8	zijn	zijn	V	1	
+9	veel	veel	A	1	
+10	restaurants	restaurant	N	1	
+11	in	in	P	1	
+12	de	de	D	1	
+13	omgeving	omgeving	N	1	
+14	.	.	O	1	
+
+1	Een	een	D	1	
+2	auto	auto	N	1	
+3	meenemen	meenemen	V	1	
+4	is	zijn	V	1	
+5	eerder	eerder	G	1	
+6	een	een	D	1	
+7	handicap	handicap	N	1	
+8	dan	dan	C	1	
+9	een	een	D	1	
+10	zege	zege	N	1	
+11	,	,	O	1	
+12	want	want	C	1	
+13	parkeren	parkeren	V	1	
+14	in	in	P	1	
+15	de	de	D	1	
+16	buurt	buurt	N	1	
+17	is	zijn	V	1	
+18	lastig	lastig	G	1	
+19	.	.	O	1	
+
+1	Beter	beter|goed	G	1	
+2	met	met	P	1	
+3	de	de	D	1	
+4	trein	trein	N	1	
+5	komen	komen	V	1	
+6	.	.	O	1	
+
+1	Lopend	lopen	V	1	
+2	naar	naar	P	1	
+3	het	het	D	1	
+4	centrum	centrum	N	1	
+5	.	.	O	1	
+
+1	Kamer	kamer	N	1	
+2	was	wezen|zijn	V	1	
+3	klein	klein	G	1	
+4	,	,	O	1	
+5	wel	wel	A	1	
+6	schoon	schoon	G	1	
+7	maar	maar	A	1	
+8	niet	niet	A	1	
+9	up	up	O	1	
+10	to	to	O	1	
+11	date	date	O	1	
+12	.	.	O	1	
+
+1	Beetje	beetje	N	1	
+2	100	@card@	O	1	
+3	in	in	P	1	
+4	een	een	D	1	
+5	dozijn	dozijn	N	1	
+6	.	.	O	1	
+
+1	Ontbijt	ontbijt	N	1	
+2	was	wezen|zijn	V	1	
+3	ok	ok	O	1	
+4	,	,	O	1	
+5	maar	maar	C	1	
+6	ook	ook	A	1	
+7	niks	niks	Q	1	
+8	bijzonders	bijzonders	O	1	
+9	.	.	O	1	
+
+1	Weet	weten	V	1	
+2	niet	niet	A	1	
+3	of	of	C	1	
+4	mij	mij	Q	1	
+5	nu	nu	A	1	
+6	zo	zo	A	1	
+7	aangetrokken	aantrekken	V	1	
+8	voel	voelen	V	1	
+9	om	om	C	1	
+10	hier	hier	A	1	
+11	nogmaals	nogmaals	A	1	
+12	naar	naar	C	1	
+13	toe	toe	A	1	
+14	te	te	O	1	
+15	gaan	gaan	V	1	
+16	.	.	O	1	
+
+1	Een	een	D	1	
+2	typisch	typisch	G	1	
+3	toeristenhotel	toeristenhotel	O	1	
+4	.	.	O	1	
+

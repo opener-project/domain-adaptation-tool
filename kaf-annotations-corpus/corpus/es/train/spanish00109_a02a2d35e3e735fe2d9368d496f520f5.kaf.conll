@@ -1,0 +1,53 @@
+1	Hotel	Hotel	R	1	
+2	exelente	exelente	V	1	
+3	a	a	D	1	
+4	precios	precios	N	1	
+5	asequibles	asequibles	V	1	
+
+1	el	el	N	1	
+2	hotel	hotel	N	1	
+3	es	es	V	1	
+4	una	una	G	1	
+5	maravilla.	maravilla.	N	1	
+6	cuenta	cuenta	N	1	
+7	con	con	V	1	
+8	cocina	cocina	N	1	
+9	y	y	G	1	
+10	frigorifico	frigorifico	G	1	
+11	gratis	gratis	N	1	
+12	,	,	O	1	
+13	con	con	G	1	
+14	lo	lo	N	1	
+15	que	que	V	1	
+16	no	no	D	1	
+17	es	es	N	1	
+18	necesario	necesario	G	1	
+19	gastarse	gastarse	N	1	
+20	dinero	dinero	N	1	
+21	en	en	P	1	
+22	el	el	N	1	
+23	hotel	hotel	N	1	
+24	.	.	O	1	
+
+1	Suermercados	Suermercados	R	1	
+2	muy	muy	G	1	
+3	cerca	cerca	N	1	
+4	a	a	D	1	
+5	los	los	O	1	
+6	que	que	O	1	
+7	se	se	O	1	
+8	puede	puede	O	1	
+9	ir	ir	O	1	
+10	andando	andando	O	1	
+11	y	y	G	1	
+12	una	una	G	1	
+13	limpieza	limpieza	N	1	
+14	y	y	G	1	
+15	una	una	G	1	
+16	comodidad	comodidad	N	1	
+17	extraordinaria	extraordinaria	N	1	
+18	.	.	O	1	
+
+1	lo	lo	N	1	
+2	recomiendo	recomiendo	N	1	
+

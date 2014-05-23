@@ -1,0 +1,67 @@
+1	Netjes	net|netjes	G	1	
+2	en	en	C	1	
+3	goed	goed	G	1	
+4	verzord	verzord	O	1	
+5	hotel	hotel	N	1	
+6	.	.	O	1	
+
+1	1	@card@	O	1	
+2	overnachting	overnachting	N	1	
+3	gehad	hebben	V	1	
+4	in	in	P	1	
+5	dit	dit	D	1	
+6	hotel	hotel	N	1	
+7	.	.	O	1	
+
+1	Alles	alles	Q	1	
+2	was	wezen|zijn	V	1	
+3	proper	proper	G	1	
+4	en	en	C	1	
+5	goed	goed	G	1	
+6	verzorgd	verzorgen	V	1	
+7	.	.	O	1	
+
+1	Vriendelijk	vriendelijk	G	1	
+2	personeel	personeel	N	1	
+3	aan	aan	P	1	
+4	de	de	D	1	
+5	receptie	receptie	N	1	
+6	die	die	Q	1	
+7	zeer	zeer	G	1	
+8	behulpzaam	behulpzaam	G	1	
+9	waren	wezen|zijn	V	1	
+10	als	als	C	1	
+11	er	er	Q	1	
+12	een	een	D	1	
+13	probleem	probleem	N	1	
+14	was	wezen|zijn	V	1	
+15	.	.	O	1	
+
+1	Mooie	mooi	G	1	
+2	grote	groot	G	1	
+3	kamer	kamer	N	1	
+4	met	met	P	1	
+5	ligbad	ligbad	N	1	
+6	.	.	O	1	
+
+1	Heerlijk	heerlijk	G	1	
+2	restaurant	restaurant	N	1	
+3	om	om	C	1	
+4	te	te	O	1	
+5	eten	eten	V	1	
+6	s	s	N	1	
+7	'	'	O	1	
+8	avonds	avond	N	1	
+9	en	en	C	1	
+10	goed	goed	G	1	
+11	ontbijt	ontbijt	N	1	
+12	.	.	O	1	
+
+1	Verder	ver|verder	G	1	
+2	niks	niks	Q	1	
+3	aan	aan	A	1	
+4	op	op	A	1	
+5	te	te	O	1	
+6	merken	merken	V	1	
+7	!	!	O	1	
+

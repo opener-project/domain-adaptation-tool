@@ -1,0 +1,49 @@
+1	Gran	Gran	R	1	
+2	confort	confort	N	1	
+
+1	Mas	Mas	R	1	
+2	que	que	V	1	
+3	un	un	G	1	
+4	hotel	hotel	N	1	
+5	de	de	P	1	
+6	cinco	cinco	N	1	
+7	estrellas	estrellas	N	1	
+8	el	el	V	1	
+9	palladium	palladium	N	1	
+10	merece	merece	G	1	
+11	seis	seis	N	1	
+12	estrellas	estrellas	N	1	
+13	.	.	O	1	
+
+1	Habitaciones	Habitaciones	R	1	
+2	súper	súper	N	1	
+3	amplias	amplias	N	1	
+4	y	y	G	1	
+5	comodas	comodas	N	1	
+6	.	.	O	1	
+
+1	La	La	R	1	
+2	comida	comida	N	1	
+3	es	es	N	1	
+4	excelente	excelente	V	1	
+5	y	y	A	1	
+6	tiene	tiene	G	1	
+7	todo	todo	N	1	
+8	pensado	pensado	N	1	
+9	para	para	O	1	
+10	la	la	O	1	
+11	diversión	diversión	O	1	
+12	familiar	familiar	G	1	
+13	.	.	O	1	
+
+1	Éxitos	éxitos	N	1	
+2	,	,	O	1	
+3	sigan	sigan	G	1	
+4	por	por	N	1	
+5	el	el	N	1	
+6	buen	buen	G	1	
+7	camino	camino	N	1	
+8	!	!	O	1	
+9	!	!	O	1	
+10	!	!	O	1	
+

@@ -1,0 +1,61 @@
+1	Buen	Buen	R	1	
+2	Hotel	Hotel	R	1	
+
+1	Muy	muy	G	1	
+2	amables	amables	N	1	
+3	y	y	G	1	
+4	simpaticos	simpaticos	N	1	
+5	,	,	O	1	
+6	bastante	bastante	N	1	
+7	limpio	limpio	N	1	
+8	todo	todo	N	1	
+9	.	.	O	1	
+
+1	Los	Los	R	1	
+2	de	de	P	1	
+3	recepción	recepción	G	1	
+4	te	te	G	1	
+5	aconsejan	aconsejan	N	1	
+6	un	un	G	1	
+7	poco	poco	N	1	
+8	sobre	sobre	G	1	
+9	donde	donde	N	1	
+10	ir	ir	Q	1	
+11	y	y	G	1	
+12	que	que	N	1	
+13	linea	linea	N	1	
+14	de	de	P	1	
+15	metro	metro	O	1	
+16	o	o	O	1	
+17	de	de	O	1	
+18	bus	bus	O	1	
+19	coger	coger	O	1	
+20	para	para	O	1	
+21	ir	ir	O	1	
+22	a	a	O	1	
+23	los	los	O	1	
+24	destinos	destinos	O	1	
+25	.	.	O	1	
+
+1	Bastante	Bastante	R	1	
+2	bien	bien	N	1	
+3	,	,	O	1	
+4	estuve	estuve	N	1	
+5	4	4	O	1	
+6	días	días	N	1	
+7	y	y	G	1	
+8	si	si	N	1	
+9	volviese	volviese	V	1	
+10	a	a	D	1	
+11	Milán	Milán	R	1	ne=Location
+12	,	,	O	1	
+13	volvería	volvería	N	1	
+14	sin	sin	N	1	
+15	duda	duda	N	1	
+16	a	a	D	1	
+17	este	este	N	1	
+18	hotel	hotel	N	1	
+19	que	que	N	1	
+20	recomiendo	recomiendo	N	1	
+21	100_%	100_%	N	1	ne=Percent
+

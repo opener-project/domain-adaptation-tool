@@ -1,0 +1,144 @@
+1	Gefopt	foppen	V	1	
+
+1	Op	op	P	1	
+2	het	het	D	1	
+3	eerste	een	O	1	
+4	gezicht	gezicht	N	1	
+5	lijkt	lijken	V	1	
+6	het	het	Q	1	
+7	een	een	D	1	
+8	leuke	leuk	G	1	
+9	camping	camping	N	1	
+10	met	met	P	1	
+11	een	een	D	1	
+12	voetbalveld	voetbalveld	N	1	
+13	en	en	C	1	
+14	van	van	P	1	
+15	alles	alles	Q	1	
+16	er	er	Q	1	
+17	op	op	A	1	
+18	en	en	C	1	
+19	er	er	Q	1	
+20	aan	aan	P	1	
+21	.	.	O	1	
+
+1	Maar	maar	A	1	
+2	als	als	C	1	
+3	je	je	Q	1	
+4	gaat	gaan	V	1	
+5	inchecken	inchecken	V	1	
+6	blijkt	blijken	V	1	
+7	er	er	Q	1	
+8	maar	maar	C	1	
+9	een	een	D	1	
+10	nacht	nacht	N	1	
+11	vrij	vrij	A	1	
+12	te	te	O	1	
+13	zijn	zijn	V	1	
+14	maar	maar	C	1	
+15	kon	kunnen	V	1	
+16	je	je	Q	1	
+17	de_volgende_dag	de_volgend_dag	N	1	ne=Date
+18	verkassen	verkassen	V	1	
+19	en	en	C	1	
+20	garanderen	garanderen	V	1	
+21	ze	ze	Q	1	
+22	een	een	D	1	
+23	plek	plek	N	1	
+24	voor	voor	P	1	
+25	vier_dagen	vier_dag	N	1	ne=Date
+26	.	.	O	1	
+
+1	Maar	maar	C	1	
+2	het	het	D	1	
+3	voetbalveld	voetbalveld	N	1	
+4	ligt	liggen	V	1	
+5	buiten	buiten	P	1	
+6	de	de	D	1	
+7	camping	camping	N	1	
+8	en	en	C	1	
+9	de	de	D	1	
+10	tafeltennistafels	tafeltennistafel	N	1	
+11	staan	staan	V	1	
+12	in	in	P	1	
+13	de	de	D	1	
+14	modder	modder	N	1	
+15	(	(	O	1	
+16	je	je	Q	1	
+17	kunt	kunnen	V	1	
+18	er	er	Q	1	
+19	wel	wel	A	1	
+20	lekker	lek|lekker	G	1	
+21	eten	eten	V	1	
+22	)	)	O	1	
+23	.	.	O	1	
+
+1	Maar	maar	C	1	
+2	de_dag_erna	de_dag_erna	Q	1	ne=Date
+3	is	zijn	V	1	
+4	die	die	D	1	
+5	gegarandeerde	garanderen	V	1	
+6	plek	plek	N	1	
+7	voor	voor	P	1	
+8	vier_dagen	vier_dag	N	1	ne=Date
+9	er	er	Q	1	
+10	helemaal	helemaal	A	1	
+11	niet	niet	A	1	
+12	want	want	C	1	
+13	er	er	Q	1	
+14	staan	staan	V	1	
+15	30	@card@	O	1	
+16	mensen	mens	N	1	
+17	meer	meer	A	1	
+18	op	op	P	1	
+19	een	een	D	1	
+20	plekje	plekje	O	1	
+21	te	te	O	1	
+22	wachten.	wachten	V	1	
+23	wachten.	.	O	1	
+24	ze	ze	Q	1	
+25	hadden	hebben	V	1	
+26	ons	ons	Q	1	
+27	gefopt	foppen	V	1	
+28	en	en	C	1	
+29	we	we	Q	1	
+30	zouden	zullen	V	1	
+31	weer	weer	A	1	
+32	mogen	mogen	V	1	
+33	verkassen	verkassen	V	1	
+34	maar	maar	C	1	
+35	dat	dat	Q	1	
+36	deden	doen	V	1	
+37	we	we	Q	1	
+38	niet	niet	A	1	
+39	.	.	O	1	
+
+1	En	en	C	1	
+2	dan	dan	A	1	
+3	bleek	blijken	V	1	
+4	het	het	Q	1	
+5	ook	ook	A	1	
+6	nog	nog	A	1	
+7	een	een	D	1	
+8	nacht	nacht	N	1	
+9	van	van	P	1	
+10	55_euro	@card@_euro	N	1	ne=Money
+11	te	te	O	1	
+12	zijn	zijn	V	1	
+13	.	.	O	1	
+
+1	Bij	bij	P	1	
+2	het_Caldanazzo_meer	het_Caldanazzo_meer	A	1	ne=Location
+3	zijn	zijn	V	1	
+4	de	de	D	1	
+5	campings	camping	N	1	
+6	echter	echter	A	1	
+7	wel	wel	A	1	
+8	eerlijk	eerlijk	G	1	
+9	over	over	P	1	
+10	het	het	D	1	
+11	verhuren	verhuren	N	1	
+12	van	van	P	1	
+13	plekken	plek	N	1	
+14	.	.	O	1	
+

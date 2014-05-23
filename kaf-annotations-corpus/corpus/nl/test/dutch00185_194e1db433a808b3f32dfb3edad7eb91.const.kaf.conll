@@ -1,0 +1,50 @@
+1	Goed	goed	N	1	
+2	gelogeerd	logeren	V	1	
+3	met	met	P	1	
+4	30	@card@	O	1	
+5	studenten	student|studente	N	1	
+6	!	!	O	1	
+
+1	Het	het	Q	1	
+2	is	zijn	V	1	
+3	niet	niet	A	1	
+4	alledaags	alledaags	G	1	
+5	om	om	C	1	
+6	met	met	P	1	
+7	een	een	D	1	
+8	groep	groep	N	1	
+9	studenten	student|studente	N	1	
+10	op	op	P	1	
+11	beursbezoek	beursbezoek	O	1	
+12	in	in	P	1	
+13	Keulen	Keulen	R	1	ne=Location
+14	een	een	D	1	
+15	hotel	hotel	N	1	
+16	te	te	O	1	
+17	kiezen	kiezen	V	1	
+18	die	die	Q	1	
+19	qua	qua	P	1	
+20	prijs	prijs	N	1	
+21	en	en	C	1	
+22	kwaliteit	kwaliteit	N	1	
+23	voldoet	voldoen	V	1	
+24	.	.	O	1	
+
+1	We	we	Q	1	
+2	verbleven	verblijven	V	1	
+3	in	in	P	1	
+4	halfpension	halfpension	O	1	
+5	en	en	C	1	
+6	konden	kunnen	V	1	
+7	ontbijten	ontbijten	V	1	
+8	en	en	C	1	
+9	dineren	dineren	V	1	
+10	in	in	P	1	
+11	een	een	D	1	
+12	afzonderlijk	afzonderlijk	G	1	
+13	deel	deel	N	1	
+14	van	van	P	1	
+15	het	het	D	1	
+16	restaurant	restaurant	N	1	
+17	.	.	O	1	
+

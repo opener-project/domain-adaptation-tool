@@ -1,0 +1,98 @@
+1	Leuk	leuk	G	1	
+2	hotel	hotel	N	1	
+3	voor	voor	P	1	
+4	een	een	D	1	
+5	korte	kort	G	1	
+6	trip	trip	N	1	
+
+1	Op	op	P	1	
+2	zich	zich	Q	1	
+3	prima	prima	G	1	
+4	geregeld	geregeld	G	1	
+5	allemaal	allemaal	D	1	
+6	,	,	O	1	
+7	jammer	jammeren	V	1	
+8	dat	dat	C	1	
+9	er	er	Q	1	
+10	3	@card@	O	1	
+11	sauna	sauna	N	1	
+12	'	'	O	1	
+13	s	s	N	1	
+14	en	en	C	1	
+15	fitness	fitness	O	1	
+16	is	zijn	V	1	
+17	maar	maar	C	1	
+18	dat	dat	C	1	
+19	hier	hier	A	1	
+20	niets	niets	Q	1	
+21	mee	mee	A	1	
+22	gebeurd	beuren|gebeuren	V	1	
+23	.	.	O	1	
+
+1	Jammer	jammeren	V	1	
+2	dat	dat	C	1	
+3	je	je	Q	1	
+4	moet	moeten	V	1	
+5	betalen	betalen	V	1	
+6	voor	voor	P	1	
+7	internet	internet	N	1	
+8	en	en	C	1	
+9	dan	dan	A	1	
+10	ook	ook	A	1	
+11	nog	nog	A	1	
+12	€_10_,_=_.	€_@card@_,_=_.	O	1	ne=Money
+
+1	Dat	dat	Q	1	
+2	is	zijn	V	1	
+3	toch	toch	A	1	
+4	niet	niet	A	1	
+5	meer	meer	A	1	
+6	van	van	P	1	
+7	deze	deze	D	1	
+8	tijd	tijd	N	1	
+9	,	,	O	1	
+10	internet	internet	N	1	
+11	is	zijn	V	1	
+12	een	een	D	1	
+13	must	must	N	1	
+14	voor	voor	P	1	
+15	alle	alle	D	1	
+16	hotels	hotel	N	1	
+17	(	(	O	1	
+18	zelfs	zelfs	A	1	
+19	McDonals	McDonals	O	1	ne=Restaurant
+20	is	zijn	V	1	
+21	gratis	gratis	G	1	
+22	)	)	O	1	
+23	en	en	C	1	
+24	zeker	zeker	G	1	
+25	een	een	D	1	
+26	Valk	valk	N	1	ne=Hotel
+27	hotel	hotel	N	1	
+28	behoort	behoren	V	1	
+29	dit	dit	Q	1	
+30	gratis	gratis	G	1	
+31	aan	aan	A	1	
+32	te	te	O	1	
+33	bieden	bieden	V	1	
+34	.	.	O	1	
+
+1	Op	op	P	1	
+2	bijna	bijna	A	1	
+3	alle	alle	D	1	
+4	reizen	reis	N	1	
+5	in	in	P	1	
+6	buitenland	buitenland	N	1	
+7	(	(	O	1	
+8	China	China	R	1	ne=Location
+9	,	,	O	1	
+10	Thailand	Thailand	R	1	ne=Location
+11	,	,	O	1	
+12	Frankrijk	Frankrijk	R	1	ne=Location
+13	)	)	O	1	
+14	is	zijn	V	1	
+15	dit	dit	D	1	
+16	gewoon	gewoon	G	1	
+17	gratis	gratis	G	1	
+18	.	.	O	1	
+

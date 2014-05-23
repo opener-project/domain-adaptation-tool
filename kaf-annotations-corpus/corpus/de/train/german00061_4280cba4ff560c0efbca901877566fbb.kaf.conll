@@ -1,0 +1,137 @@
+1	Große	groß	G	1	
+2	Pleite	Pleite	N	1	
+
+1	Hotelanlage	Hotelanlage	N	1	
+2	ist	sein	V	1	
+3	schön	schön	G	1	
+4	.	.	O	1	
+
+1	Strand	Strand	N	1	
+2	jedoch	jedoch	A	1	
+3	sehr	sehr	A	1	
+4	unsauber	unsauber	G	1	
+5	.	.	O	1	
+
+1	Zimmer	zimmern	V	1	
+2	teils	teils	A	1	
+3	Bruchbuden	Bruchbude	N	1	
+4	.	.	O	1	
+
+1	Essen	Essen	N	1	
+2	mehrmals	mehrmals	A	1	
+3	unzumutbar	unzumutbar	G	1	
+4	,	,	O	1	
+5	da	da	C	1	
+6	Hauptspeisen	Hauptspeise	N	1	
+7	immer	immer	A	1	
+8	kalt	kalt	G	1	
+9	waren	sein	V	1	
+10	und	und	C	1	
+
+1	teils	teils	A	1	
+2	verkocht	verkochen	V	1	
+3	/	/	O	1	
+4	verbrannt	verbrennen	V	1	
+5	waren	sein	V	1	
+6	.	.	O	1	
+
+1	Um	um	P	1	
+2	Salz	Salz	N	1	
+3	·	·	O	1	
+4	und	und	C	1	
+5	PfefferSteuer	PfefferSteuer	O	1	
+6	musten	musten	O	1	
+7	sich	sich	Q	1	
+8	täglich	täglich	G	1	
+9	die	die	D	1	
+10	Gäste	Gast	N	1	
+11	streiten	streiten	V	1	
+12	,	,	O	1	
+13	da	da	C	1	
+14	nur	nur	A	1	
+15	auf	auf	P	1	
+16	10	10	O	1	
+17	Tischen	Tisch	N	1	
+18	je	je	P	1	
+19	ein	eine	D	1	
+20	Streuer	Streuer	N	1	
+21	zur	zu	P	1	
+22	Verfügung	Verfügung	N	1	
+23	stand	stehen	V	1	
+24	.	.	O	1	
+
+1	Das	die	D	1	
+2	Reiniguns	Reiniguns	O	1	
+3	·	·	O	1	
+4	und	und	C	1	
+5	Bedienungspersonal	Bedienungspersonal	N	1	
+6	bestand	bestehen	V	1	
+7	zu	zu	P	1	
+8	80_%	80_%	N	1	ne=Percent
+9	nur	nur	A	1	
+10	aus	aus	P	1	
+11	Ungelernten	Ungelernte	N	1	
+12	.	.	O	1	
+
+1	(	(	O	1	
+2	Studenten	Student	N	1	
+3	und	und	C	1	
+4	Zeitarbeiterinnen	Zeitarbeiterinnen	O	1	
+5	·	·	O	1	
+6	im	in	P	1	
+7	14tägigem	14tägig	G	1	
+8	Wechsel	Wechsel	N	1	
+9	)	)	O	1	
+10	Daher	daher	Q	1	
+11	Verständigungsschwierigkeiten	Verständigungsschwierigkeit	N	1	
+12	.	.	O	1	
+
+1	Organisation	Organisation	N	1	
+2	war	sein	V	1	
+3	mangelhaft	mangelhaft	G	1	
+4	.	.	O	1	
+
+1	Personal	Personal	N	1	
+2	"	"	O	1	
+3	Rezeption	Rezeption	N	1	
+4	"	"	O	1	
+5	teils	teils	A	1	
+6	keine	keine	Q	1	
+7	Kenntnisse	Kenntnis	N	1	
+8	·	·	O	1	
+9	Chefin	Chefin	N	1	
+10	sehr	sehr	A	1	
+11	unfreundlich	unfreundlich	G	1	
+12	.	.	O	1	
+
+1	EDV	EDV	R	1	
+2	war	sein	V	1	
+3	ständig	ständig	G	1	
+4	defekt	defekt	G	1	
+5	,	,	O	1	
+6	daher	daher	Q	1	
+7	große	groß	G	1	
+8	Abrechnungsschwierigkeiten	Abrechnungsschwierigkeiten	O	1	
+9	·	·	O	1	
+10	sehr	sehr	A	1	
+11	ungenau	ungenau	G	1	
+12	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	selber	selber	A	1	
+3	haben	haben	V	1	
+4	keine	keine	Q	1	
+5	Rechnung	Rechnung	N	1	
+6	erhalten	erhalten	V	1	
+7	können	können	V	1	
+8	.	.	O	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+
+1	entspricht	entsprechen	V	1	
+2	nicht	nicht	O	1	
+3	den	die	D	1	
+4	Werbeaussagen	Werbeaussage	N	1	
+5	.	.	O	1	
+

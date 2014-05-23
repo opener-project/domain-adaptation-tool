@@ -1,0 +1,56 @@
+1	Mes	Mes	N	1	
+2	vacances	vacance	N	1	
+3	d'	d'	P	1	
+4	automne	automne	N	1	
+
+1	J'	J'	Q	1	
+2	ai	avoir	V	1	
+3	passe	passer	V	1	
+4	une	un	D	1	
+5	semaine	semaine	N	1	
+6	de	de	P	1	
+7	vacances	vacance	N	1	
+8	dans	dans	P	1	
+9	l'_hotel_Titanic_beach	le_hotel_Titanic_beach	N	1	ne=Hotel
+10	a	avoir	V	1	
+11	Hurghada	Hurghada	N	1	ne=Location
+12	.	.	O	1	
+
+1	Le	le	D	1	
+2	matin	matin	N	1	
+3	il	il	Q	1	
+4	y	y	Q	1	
+5	avait	avoir	V	1	
+6	toujours	toujours	G	1	
+7	un	un	D	1	
+8	buffet	buffet	N	1	
+9	pour	pour	P	1	
+10	le	le	D	1	
+11	dejeuner	dejeuner	N	1	
+12	avec	avec	P	1	
+13	croissants	croissant	N	1	
+14	,	,	O	1	
+15	crepes	crepes	N	1	
+16	,	,	O	1	
+17	petits	petit	G	1	
+18	pains	pain	N	1	
+19	,	,	O	1	
+20	boissons	boisson	N	1	
+21	,	,	O	1	
+22	...	...	O	1	
+
+1	Toute	tout	G	1	
+2	la	le	D	1	
+3	journee	journee	N	1	
+4	on	on	Q	1	
+5	pouvait	pouvoir	V	1	
+6	aller	aller	V	1	
+7	a	a	O	1	
+8	la	le	D	1	
+9	piscine	piscine	N	1	
+10	ou	ou	C	1	
+11	a	avoir	V	1	
+12	la	le	D	1	
+13	mer	mer	N	1	
+14	.	.	O	1	
+

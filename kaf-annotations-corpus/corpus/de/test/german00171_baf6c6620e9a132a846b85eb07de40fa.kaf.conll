@@ -1,0 +1,79 @@
+1	Sehr	sehr	A	1	
+2	enttäuschend	enttäuschend	G	1	
+
+1	Sehr	sehr	A	1	
+2	enttäuschend	enttäuschend	G	1	
+3	!	!	O	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	wird	werden	V	1	
+4	als	als	C	1	
+5	2	2	O	1	
+6	Sterne	Stern	N	1	
+7	Hotel	Hotel	N	1	
+8	geführt	führen	V	1	
+9	,	,	O	1	
+10	was	was	Q	1	
+11	wohl	wohl	A	1	
+12	stimmt	stimmen	V	1	
+13	·	·	O	1	
+14	allerdings	allerdings	A	1	
+15	sind	sein	V	1	
+16	die	die	D	1	
+17	Preise	Preis	N	1	
+18	eher	eher	A	1	
+19	auf	auf	P	1	
+20	Drei	drei	O	1	
+21	oder	oder	C	1	
+22	Vier	vier	O	1	
+23	Sterne	Stern	N	1	
+24	Niveau	Niveau	N	1	
+25	·	·	O	1	
+26	Amsterdam	Amsterdam	R	1	ne=Location
+27	ist	sein	V	1	
+28	teuer	teuer	G	1	
+29	,	,	O	1	
+30	das	die	Q	1	
+31	ist	sein	V	1	
+32	bekannt	bekannt	G	1	
+33	,	,	O	1	
+34	allerdings	allerdings	A	1	
+35	sollte	sollen	V	1	
+36	auch	auch	A	1	
+37	in	in	P	1	
+38	Amsterdam	Amsterdam	R	1	ne=Location
+39	ein	eine	D	1	
+40	gewisser	gewiss	G	1	
+41	Gegenwert	Gegenwert	N	1	
+42	zu	zu	O	1	
+43	erkennen	erkennen	V	1	
+44	sein	sein	V	1	
+45	.	.	O	1	
+
+1	Die	die	D	1	
+2	Rezeption	Rezeption	N	1	
+3	ist	sein	V	1	
+4	sehr	sehr	A	1	
+5	unkompetent	unkompetent	O	1	
+6	und	und	C	1	
+7	wirkt	wirken	V	1	
+8	nicht	nicht	O	1	
+9	organisiert	organisieren	V	1	
+10	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstück	Frühstück	N	1	
+3	ist	sein	V	1	
+4	selbst	selbst	A	1	
+5	seine	sein	Q	1	
+6	9_Euro	9_Euro	N	1	ne=Money
+7	nicht	nicht	O	1	
+8	wert	wert	G	1	
+9	!	!	O	1	
+
+1	Keinesfalls	keinesfalls	A	1	
+2	zu	zu	O	1	
+3	empfehlen	empfehlen	V	1	
+4	!	!	O	1	
+

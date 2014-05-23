@@ -1,0 +1,133 @@
+1	Best	good	G	1	
+2	place	place	N	1	
+3	to	to	P	1	
+4	stay	stay	V	1	
+5	in	in	P	1	
+6	a_very_middle_of_Paris	a_very_middle_of_Paris	R	1	ne=Location
+
+1	Very	Very	R	1	
+2	nice	nice	G	1	
+3	hotel	hotel	N	1	
+4	situated	situate	V	1	
+5	in	in	P	1	
+6	the_middle_of_Paris	the_middle_of_Paris	R	1	ne=Location
+7	next	next	P	1	
+8	to	to	P	1	
+9	Les_Halles_metro	Les_Halles_metro	N	1	ne=POI
+10	and	and	C	1	
+11	RER_station	RER_station	N	1	ne=POI
+12	.	.	O	1	
+
+1	You	you	Q	1	
+2	can	can	O	1	
+3	easily	easily	A	1	
+4	find	find	V	1	
+5	connections	connection	N	1	
+6	to	to	P	1	
+7	every	every	D	1	
+8	tourist	tourist	N	1	
+9	attractions	attraction	N	1	
+10	from	from	P	1	
+11	there	there	A	1	
+12	.	.	O	1	
+
+1	Louvre	Louvre	R	1	ne=Attraction
+2	,	,	O	1	
+3	Notre_Dame	Notre_Dame	R	1	ne=Attraction
+4	,	,	O	1	
+5	Centre_Pompidou	Centre_Pompidou	R	1	ne=Attraction
+6	and	and	C	1	
+7	river_Seine	river_seine	N	1	ne=Attraction
+8	are	be	V	1	
+9	less	less	G	1	
+10	than	than	P	1	
+11	5	5	O	1	
+12	mins	min	N	1	
+13	walk	walk	V	1	
+14	.	.	O	1	
+
+1	Near	near	G	1	
+2	hotel	hotel	N	1	
+3	there	there	O	1	
+4	are	be	V	1	
+5	many	many	G	1	
+6	bars	bar	N	1	
+7	,	,	O	1	
+8	pubs	pub	N	1	
+9	,	,	O	1	
+10	clubs	club	N	1	
+11	.	.	O	1	
+
+1	The	the	D	1	
+2	most	much	A	1	
+3	disadvantage	disadvantage	N	1	
+4	of	of	P	1	
+5	the	the	D	1	
+6	hotel	hotel	N	1	
+7	is	be	V	1	
+8	noise	noise	A	1	
+9	from	from	P	1	
+10	the	the	D	1	
+11	fountain	fountain	N	1	
+12	situated	situate	V	1	
+13	on	on	A	1	
+14	square	square	G	1	
+15	next	next	P	1	
+16	to	to	P	1	
+17	the	the	D	1	
+18	hotel	hotel	N	1	
+19	.	.	O	1	
+
+1	If	if	P	1	
+2	you	you	Q	1	
+3	wish	wish	V	1	
+4	to	to	P	1	
+5	have	have	V	1	
+6	quiet	quiet	G	1	
+7	nights	night	N	1	
+8	choose	choose	V	1	
+9	the	the	D	1	
+10	room	room	N	1	
+11	which	which	O	1	
+12	is	be	V	1	
+13	not	not	A	1	
+14	with	with	P	1	
+15	a	a	D	1	
+16	view	view	N	1	
+17	to	to	P	1	
+18	square	square	N	1	
+19	.	.	O	1	
+
+1	Rooms	room	N	1	
+2	with	with	P	1	
+3	a	a	D	1	
+4	view	view	N	1	
+5	on	on	P	1	
+6	other	other	G	1	
+7	site	site	N	1	
+8	are	be	V	1	
+9	very	very	A	1	
+10	quiet	quiet	G	1	
+11	.	.	O	1	
+
+1	Hotel	hotel	N	1	
+2	rooms	room	N	1	
+3	are	be	V	1	
+4	equiped	equiped	V	1	
+5	with	with	P	1	
+6	good	good	G	1	
+7	kitchenete	kitchenete	N	1	
+8	facilities	facility	N	1	
+9	,	,	O	1	
+10	there	there	O	1	
+11	is	be	V	1	
+12	toaster	toaster	N	1	
+13	,	,	O	1	
+14	electric	electric	G	1	
+15	kettle	kettle	N	1	
+16	,	,	O	1	
+17	microwave	microwave	N	1	
+18	and	and	C	1	
+19	dishwasher	dishwasher	N	1	
+20	.	.	O	1	
+

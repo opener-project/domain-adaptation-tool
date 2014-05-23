@@ -1,0 +1,53 @@
+1	Sympa	Sympa	N	1	
+2	pour	pour	P	1	
+3	quelques	quelque	D	1	
+4	jours	jour	N	1	
+5	!	!	O	1	
+
+1	Super	Super	G	1	
+2	séjour	séjour	N	1	
+3	de	de	P	1	
+4	visite	visite	N	1	
+5	a	avoir	V	1	
+6	Lyon	Lyon	N	1	ne=Location
+7	et	et	C	1	
+8	aussi	aussi	G	1	
+9	grâce	grâce	N	1	
+10	a	avoir	V	1	
+11	l'	le	D	1	
+12	hôtel	hôtel	N	1	
+13	!	!	O	1	
+
+1	Des	un	D	1	
+2	lits	lit	N	1	
+3	confortables	confortable	G	1	
+4	,	,	O	1	
+5	la	le	D	1	
+6	TV	TV	N	1	
+7	avec	avec	P	1	
+8	pas	pas	G	1	
+9	mal	mal	G	1	
+10	de	de	P	1	
+11	chaines	chaines	N	1	
+12	et	et	C	1	
+13	une	un	D	1	
+14	grande	grand	G	1	
+15	salle	salle	N	1	
+16	de	de	P	1	
+17	bain	bain	N	1	
+18	:	:	O	1	
+19	)	)	O	1	
+20	Seul	seul	G	1	
+21	reproche	reprocher	V	1	
+22	pas	pas	G	1	
+23	assez	assez	G	1	
+24	de	de	P	1	
+25	places	place	N	1	
+26	dans	dans	P	1	
+27	les	le	D	1	
+28	placards	placard	N	1	
+29	pour	pour	P	1	
+30	ses	son	D	1	
+31	affaires	affaire	N	1	
+32	.	.	O	1	
+

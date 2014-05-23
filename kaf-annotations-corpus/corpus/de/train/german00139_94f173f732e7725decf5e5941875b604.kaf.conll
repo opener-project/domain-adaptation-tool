@@ -1,0 +1,49 @@
+1	Kurze	kurz	G	1	
+2	Aufenthalte	Aufenthalt	N	1	
+3	ok	ok	O	1	
+
+1	Für	für	P	1	
+2	1	1	O	1	
+3	·	·	O	1	
+4	2	2	O	1	
+5	Nächte	Nacht	N	1	
+6	zu	zu	O	1	
+7	empfehlen	empfehlen	V	1	
+8	,	,	O	1	
+9	aber	aber	C	1	
+10	Hotel	Hotel	N	1	
+11	ist	sein	V	1	
+12	den	die	D	1	
+13	eigentlichen	eigentlich	G	1	
+14	Zimmerpreis	Zimmerpreis	N	1	
+15	nicht	nicht	O	1	
+16	wert	wert	G	1	
+17	.	.	O	1	
+
+1	Ausnutzung	Ausnutzung	N	1	
+2	des	die	D	1	
+3	Sparpreises	Sparpreises	O	1	
+4	,	,	O	1	
+5	da	da	A	1	
+6	gute	gut	G	1	
+7	Lage	Lage	N	1	
+8	(	(	O	1	
+9	Anbindung	Anbindung	N	1	
+10	an	an	P	1	
+11	2	2	O	1	
+12	Metro	Metro	N	1	
+13	·	·	O	1	
+14	Linien	Linie	N	1	
+15	)	)	O	1	
+16	,	,	O	1	
+17	in	in	P	1	
+18	der	die	D	1	
+19	Nähe	Nähe	N	1	
+20	zur	zu	P	1	
+21	Sacré_·_Coeur	Sacré_·_Coeur	O	1	ne=Attraction
+22	,	,	O	1	
+23	La_Defense	La_Defense	O	1	ne=POI
+24	,	,	O	1	
+25	Triumpfbogen	Triumpfbogen	O	1	ne=Attraction
+26	.	.	O	1	
+

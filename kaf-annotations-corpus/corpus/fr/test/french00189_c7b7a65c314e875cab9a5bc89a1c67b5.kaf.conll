@@ -1,0 +1,94 @@
+1	Superbe	superbe	N	1	
+2	hotel	hotel	G	1	
+
+1	Cette	ce	D	1	
+2	hotel	hotel	N	1	
+3	est	être	V	1	
+4	magnifique	magnifique	G	1	
+5	et	et	C	1	
+6	fantastique	fantastique	G	1	
+7	beaucoup	beaucoup	G	1	
+8	de	de	P	1	
+9	tobbogans	tobbogans	N	1	
+10	et	et	C	1	
+11	tres	tres	N	1	
+12	bien	bien	G	1	
+13	pour	pour	P	1	
+14	les	le	D	1	
+15	enfants	enfant	N	1	
+16	Attention	Attention	V	1	
+17	il	il	Q	1	
+18	y	y	Q	1	
+19	a	avoir	V	1	
+20	3	3	D	1	
+21	titanic	titanic	N	1	
+22	a	avoir	V	1	
+23	hurghada	hurghada	V	1	ne=Location
+24	ses	son	D	1	
+25	3	3	D	1	
+26	hotels	hotels	N	1	
+27	différents	différent	G	1	
+28	titanic_palace	titanic_palace	N	1	ne=Hotel
+29	titanic_beach	titanic_beach	G	1	ne=Hotel
+30	et	et	C	1	
+31	titanic_resort	titanic_resort	N	1	ne=Hotel
+32	.	.	O	1	
+
+1	Celui	Celui	P	1	
+2	si	si	C	1	
+3	ses	son	D	1	
+4	titanic_resort	titanic_resort	N	1	ne=Hotel
+5	qui	qui	P	1	
+6	est	être	V	1	
+7	tres	tres	D	1	
+8	bien	bien	G	1	
+9	a	avoir	V	1	
+10	400	400	D	1	
+11	m	m	N	1	
+12	de	de	P	1	
+13	la	le	D	1	
+14	plage	plage	N	1	
+15	et	et	C	1	
+16	les	le	D	1	
+17	autres	autres	P	1	
+18	beaucoup	beaucoup	G	1	
+19	moins	moins	G	1	
+20	bien	bien	G	1	
+21	qui	qui	P	1	
+22	n	n	G	1	
+23	a	avoir	V	1	
+24	rien	rien	P	1	
+25	n	n	G	1	
+26	avoir	avoir	V	1	
+27	avec	avec	P	1	
+28	l	l	N	1	
+29	hotel	hotel	G	1	
+30	on	on	Q	1	
+31	ne	ne	G	1	
+32	peut	pouvoir	V	1	
+33	pas	pas	G	1	
+34	y	y	Q	1	
+35	allez.le	allez.le	V	1	
+36	seul	seul	G	1	
+37	critique	critiquer	V	1	
+38	ses	son	D	1	
+39	la	le	D	1	
+40	nourriture	nourriture	N	1	
+41	mais	mais	C	1	
+42	avec	avec	P	1	
+43	le	le	D	1	
+44	prix	prix	N	1	
+45	que	que	P	1	
+46	j	j	N	1	
+47	ai	avoir	V	1	
+48	payer	payer	V	1	
+49	je	je	Q	1	
+50	n	n	N	1	
+51	est	être	V	1	
+52	rien	rien	P	1	
+53	dit	dire	V	1	
+54	JE	JE	N	1	
+55	VOUS	VOUS	N	1	
+56	LE	le	D	1	
+57	CONSEIL	conseil	N	1	
+

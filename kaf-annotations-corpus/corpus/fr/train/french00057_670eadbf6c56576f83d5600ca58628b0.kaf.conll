@@ -1,0 +1,44 @@
+1	Titanic_Beach	Titanic_Beach	N	1	ne=Hotel
+
+1	Cest	Cest	N	1	
+2	un	un	D	1	
+3	super	super	N	1	
+4	hotel	hotel	G	1	
+5	composee	composee	N	1	
+6	de	de	P	1	
+7	plusieurs	plusieurs	D	1	
+8	tobogant	tobogant	V	1	
+9	dune	dune	P	1	
+10	super	super	V	1	
+11	plage	plage	N	1	
+12	,	,	O	1	
+13	dune	dune	P	1	
+14	tres	tres	N	1	
+15	tres	tres	G	1	
+16	gande	gande	V	1	
+17	piscine	piscine	N	1	
+18	.	.	O	1	
+
+1	la	le	D	1	
+2	nouriture	nouriture	N	1	
+3	est	être	V	1	
+4	plus	plus	G	1	
+5	ou	ou	C	1	
+6	moins	moins	G	1	
+7	bonne	bon	G	1	
+8	.	.	O	1	
+
+1	les	le	D	1	
+2	animateurs	animateur	N	1	
+3	sont	être	V	1	
+4	trop	trop	G	1	
+5	cool	cool	G	1	
+6	et	et	C	1	
+7	les	le	D	1	
+8	gardebain	gardebain	N	1	
+9	sont	être	V	1	
+10	super	super	G	1	
+11	coool	coool	N	1	
+12	aussi	aussi	G	1	
+13	.	.	O	1	
+

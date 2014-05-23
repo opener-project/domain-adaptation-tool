@@ -1,0 +1,80 @@
+1	Quite	quite	A	1	
+2	nice	nice	G	1	
+3	hotel	hotel	N	1	
+4	,	,	O	1	
+5	good	good	G	1	
+6	value	value	N	1	
+7	for	for	P	1	
+8	money	money	N	1	
+
+1	Stayed	stay	V	1	
+2	here	here	A	1	
+3	for	for	P	1	
+4	5	5	O	1	
+5	nights	night	N	1	
+6	in	in	P	1	
+7	July_2012	July_2012	O	1	ne=Date
+8	.	.	O	1	
+
+1	This	this	D	1	
+2	HI	HI	N	1	ne=Hotel
+3	is	be	V	1	
+4	what	what	Q	1	
+5	one	one	Q	1	
+6	would	would	O	1	
+7	expect	expect	V	1	
+8	from	from	P	1	
+9	HI	HI	R	1	ne=Hotel
+10	,	,	O	1	
+11	although	although	P	1	
+12	check	check	N	1	
+13	in	in	P	1	
+14	was	be	V	1	
+15	quite	quite	A	1	
+16	swift	swift	G	1	
+17	,	,	O	1	
+18	but	but	C	1	
+19	no	no	D	1	
+20	upgrade	upgrade	N	1	
+21	for	for	P	1	
+22	me	me	Q	1	
+23	as	as	P	1	
+24	PC	PC	N	1	
+25	Platinum	platinum	N	1	
+26	member	member	N	1	
+27	.	.	O	1	
+
+1	Stay	Stay	R	1	
+2	was	be	V	1	
+3	quite	quite	A	1	
+4	noisy	noisy	G	1	
+5	,	,	O	1	
+6	as	as	P	1	
+7	group	group	N	1	
+8	of	of	P	1	
+9	school	school	N	1	
+10	children	child	N	1	
+11	was	be	V	1	
+12	staying	stay	V	1	
+13	at	at	P	1	
+14	the	the	D	1	
+15	hotel	hotel	N	1	
+16	and	and	C	1	
+17	they	they	Q	1	
+18	were	be	V	1	
+19	making	make	V	1	
+20	a	a	D	1	
+21	lot	lot	N	1	
+22	of	of	P	1	
+23	noise	noise	N	1	
+24	during	during	P	1	
+25	the	the	D	1	
+26	night	night	N	1	
+27	,	,	O	1	
+28	but	but	C	1	
+29	reception	reception	N	1	
+30	failed	fail	V	1	
+31	to	to	P	1	
+32	intervene	intervene	V	1	
+33	...	...	O	1	
+

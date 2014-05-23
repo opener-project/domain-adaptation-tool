@@ -1,0 +1,82 @@
+1	Pésimo	Pésimo	R	1	
+2	hotel	hotel	N	1	
+
+1	El	El	R	1	
+2	peor	peor	N	1	
+3	hotel	hotel	N	1	
+4	de	de	P	1	
+5	punta_cana	punta_cana	N	1	ne=Location
+6	!	!	O	1	
+
+1	No	no	D	1	
+2	vayais	vayais	N	1	
+3	!	!	O	1	
+
+1	la	la	D	1	
+2	playa	playa	O	1	
+3	llena	llena	O	1	
+4	de	de	O	1	
+5	algas	algas	O	1	
+6	,	,	O	1	
+7	el	el	N	1	
+8	servicio	servicio	O	1	
+9	del	del	G	1	
+10	hotel	hotel	N	1	
+11	fatal	fatal	G	1	
+12	en	en	P	1	
+13	todos	todos	N	1	
+14	los	los	N	1	
+15	aspectos	aspectos	N	1	
+16	,	,	O	1	
+17	no	no	D	1	
+18	limpian	limpian	G	1	
+19	las	las	N	1	
+20	habitaciones	habitaciones	N	1	
+21	ni	ni	G	1	
+22	cambian	cambian	G	1	
+23	las	las	G	1	
+24	sabanas	sabanas	N	1	
+25	y	y	G	1	
+26	tampoco	tampoco	N	1	
+27	dejan	dejan	N	1	
+28	toallas	toallas	N	1	
+29	,	,	O	1	
+30	estuvimos	estuvimos	N	1	
+31	3dias	3dias	O	1	
+32	sin	sin	N	1	
+33	agua	agua	D	1	
+34	caliente	caliente	N	1	
+35	,	,	O	1	
+36	a	a	D	1	
+37	las_12_de_la_noche	las_12_de_la_noche	G	1	ne=Time
+38	se	se	N	1	
+39	quedan	quedan	N	1	
+40	sin	sin	N	1	
+41	alcohol	alcohol	N	1	
+42	,	,	O	1	
+43	increible	increible	G	1	
+44	el	el	N	1	
+45	servicio	servicio	N	1	
+46	de	de	P	1	
+47	un	un	G	1	
+48	todo	todo	N	1	
+49	incluido	incluido	P	1	
+50	de	de	O	1	
+51	4	4	O	1	
+52	*	*	O	1	
+53	sup	sup	N	1	
+54	!!!	!!!	N	1	
+
+1	Recordar	Recordar	R	1	
+2	cadena	cadena	N	1	
+3	be	be	V	1	
+4	live_nooo_!	live_nooo_!	O	1	ne=Hotel
+
+1	y	y	G	1	
+2	halcon	halcon	N	1	
+3	y	y	G	1	
+4	travelplan	travelplan	N	1	ne=Hotel
+5	mucho	mucho	G	1	
+6	menos	menos	N	1	ne=Hotel
+7	.	.	O	1	
+

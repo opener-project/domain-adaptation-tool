@@ -1,0 +1,131 @@
+1	Hotel_Titanic_Beach_Spa	hotel_Titanic_Beach_Spa	O	1	ne=Hotel
+2	&	&	O	1	
+3	Aqua	Aqua	O	1	
+4	Park	park	N	1	
+
+1	Het	het	Q	1	
+2	is	zijn	V	1	
+3	een	een	D	1	
+4	prima	prima	G	1	
+5	hotel	hotel	N	1	
+6	.	.	O	1	
+
+1	Prijs	prijs	N	1	
+2	/	/	O	1	
+3	kwaliteitverhouding	kwaliteitverhouding	O	1	
+4	is	zijn	V	1	
+5	uitstekend	uitsteken	V	1	
+6	.	.	O	1	
+
+1	Titanic_Beach	Titanic_Beach	O	1	ne=Hotel
+2	is	zijn	V	1	
+3	een	een	D	1	
+4	groot	groot	G	1	
+5	overzichtelijk	overzichtelijk	G	1	
+6	hotel	hotel	N	1	
+7	.	.	O	1	
+
+1	Zwembaden	zwembad	N	1	
+2	worden	worden	V	1	
+3	goed	goed	G	1	
+4	onderhouden	onderhouden	V	1	
+5	.	.	O	1	
+
+1	Zwemplezier	Zwemplezier	O	1	
+2	voor	voor	P	1	
+3	jong	jong	G	1	
+4	en	en	C	1	
+5	oud	oud	G	1	
+6	.	.	O	1	
+
+1	Het	het	D	1	
+2	animatieteam	animatieteam	O	1	
+3	is	zijn	V	1	
+4	goed	goed	G	1	
+5	en	en	C	1	
+6	helemaal	helemaal	A	1	
+7	niet	niet	A	1	
+8	opdringerig	opdringerig	G	1	
+9	.	.	O	1	
+
+1	De	de	D	1	
+2	manager	manager	N	1	
+3	staat	staat	N	1	
+4	in	in	P	1	
+5	persoonlijk	persoonlijk	G	1	
+6	contact	contact	N	1	
+7	met	met	P	1	
+8	zijn	zijn	D	1	
+9	gasten	gast|gasten	N	1	
+10	.	.	O	1	
+
+1	Er	er	Q	1	
+2	is	zijn	V	1	
+3	een	een	D	1	
+4	restaurant	restaurant	N	1	
+5	genaamd	genaamd	G	1	
+6	Cal	Cal	O	1	ne=Restaurant
+7	.	.	O	1	
+
+1	Dit	dit	Q	1	
+2	is	zijn	V	1	
+3	exclusief	exclusief	G	1	
+4	voor	voor	P	1	
+5	volwassenen	volwassene	N	1	
+6	alwaar	alwaar	Q	1	
+7	je	je	Q	1	
+8	heerlijk	heerlijk	G	1	
+9	rustig	rustig	G	1	
+10	kunt	kunnen	V	1	
+11	eten	eten	V	1	
+12	en	en	C	1	
+13	waar	waar	Q	1	
+14	enorm	enorm	G	1	
+15	vriendelijk	vriendelijk	G	1	
+16	personeel	personeel	N	1	
+17	werkzaam	werkzaam	G	1	
+18	is	zijn	V	1	
+19	.	.	O	1	
+
+1	Enige	enig	D	1	
+2	aandachtspunt	aandachtspunt	N	1	
+3	is	zijn	V	1	
+4	dat	dat	C	1	
+5	er	er	Q	1	
+6	op	op	P	1	
+7	het	het	D	1	
+8	buitencomplex	buitencomplex	O	1	
+9	weinig	weinig	O	1	
+10	toiletten	toilet	N	1	
+11	aanwezig	aanwezig	G	1	
+12	zijn	zijn	V	1	
+13	.	.	O	1	
+
+1	Dit	dit	Q	1	
+2	hebben	hebben	V	1	
+3	we	we	Q	1	
+4	ook	ook	A	1	
+5	gemeld	melden	V	1	
+6	bij	bij	P	1	
+7	de	de	D	1	
+8	manager	manager	N	1	
+9	die	die	Q	1	
+10	hierop	hierop	Q	1	
+11	aangaf	aangeven	V	1	
+12	er	er	Q	1	
+13	in	in	P	1	
+14	de	de	D	1	
+15	toekomst	toekomst	N	1	
+16	mee	mee	A	1	
+17	aan	aan	P	1	
+18	de	de	D	1	
+19	slag	slag	N	1	
+20	te	te	O	1	
+21	gaan	gaan	V	1	
+22	.	.	O	1	
+
+1	Absoluut	absoluut	G	1	
+2	een	een	D	1	
+3	aanrader	aanrader	N	1	
+4	!	!	O	1	
+

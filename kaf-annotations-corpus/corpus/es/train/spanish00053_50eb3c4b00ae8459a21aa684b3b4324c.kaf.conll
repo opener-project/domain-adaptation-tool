@@ -1,0 +1,57 @@
+1	Recomendable	recomendable	G	1	
+2	y	y	G	1	
+3	barato	barato	N	1	
+
+1	El	El	R	1	
+2	precio	precio	N	1	
+3	fue	fue	N	1	
+4	algo	algo	A	1	
+5	más	más	V	1	
+6	caro	caro	N	1	
+7	por	por	G	1	
+8	ser	ser	N	1	
+9	temporada	temporada	N	1	
+10	alta	alta	N	1	
+11	,	,	O	1	
+12	pero	pero	O	1	
+13	igualmente	igualmente	O	1	
+14	asequible	asequible	O	1	
+15	.	.	O	1	
+
+1	Si	Si	R	1	
+2	buscas	buscas	N	1	
+3	donde	donde	V	1	
+4	dormir	dormir	G	1	
+5	tranquilo	tranquilo	N	1	
+6	es	es	N	1	
+7	un	un	G	1	
+8	buen	buen	N	1	
+9	lugar	lugar	N	1	
+10	.	.	O	1	
+
+1	Al	Al	R	1	
+2	ser	ser	N	1	
+3	valencia	valencia	N	1	
+4	no	no	D	1	
+5	es	es	V	1	
+6	muy	muy	G	1	
+7	dificil	dificil	N	1	
+8	encontrar	encontrar	G	1	
+9	donde	donde	N	1	
+10	tomar	tomar	N	1	
+11	algo	algo	A	1	
+12	,	,	O	1	
+13	a	a	D	1	
+14	menos	menos	N	1	
+15	de	de	P	1	
+16	100	100	O	1	
+17	metros	metro	N	1	
+18	de	de	P	1	
+19	la	la	D	1	
+20	estancia	estancia	N	1	
+21	hay	hay	N	1	
+22	algo	algo	P	1	
+23	donde	donde	G	1	
+24	elegir	elegir	N	1	
+25	.	.	O	1	
+

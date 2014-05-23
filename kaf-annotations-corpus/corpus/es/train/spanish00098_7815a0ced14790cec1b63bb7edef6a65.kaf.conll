@@ -1,0 +1,107 @@
+1	Estancia	Estancia	R	1	
+2	muy	muy	O	1	
+3	olvidable	olvidable	V	1	
+4	:	:	O	1	
+5	ruido	ruido	N	1	
+6	y	y	A	1	
+7	luz	luz	G	1	
+
+1	El_hotel_Lloret	El_hotel_Lloret	R	1	ne=Hotel
+2	es	es	V	1	
+3	una	una	G	1	
+4	buena	buena	N	1	
+5	opción	opción	N	1	
+6	en	en	P	1	
+7	el	el	N	1	
+8	sentido	sentido	O	1	
+9	de	de	O	1	
+10	que	que	O	1	
+11	está	está	O	1	
+12	muy	muy	O	1	
+13	bien	bien	O	1	
+14	ubicado	ubicado	O	1	
+15	en	en	O	1	
+16	la	la	O	1	
+17	primera	primera	O	1	
+18	cuadra	cuadra	O	1	
+19	de	de	O	1	
+20	La_Ramla	La_Ramla	R	1	ne=Location
+21	desde	desde	N	1	
+22	Plaza_Cataluña	Plaza_Cataluña	R	1	ne=Location
+23	.	.	O	1	
+
+1	Pero	Pero	R	1	
+2	hay	hay	N	1	
+3	q	q	G	1	
+4	tener	tener	N	1	
+5	en	en	P	1	
+6	cuenta	cuenta	G	1	
+7	que	que	G	1	
+8	para	para	N	1	
+9	poder	poder	N	1	
+10	dormir	dormir	Q	1	
+11	hay	hay	G	1	
+12	que	que	G	1	
+13	llevar	llevar	N	1	
+14	tapones	tapones	N	1	
+15	de	de	O	1	
+16	oído	oído	O	1	
+17	(	(	O	1	
+18	o	o	A	1	
+19	mejor	mejor	G	1	
+20	ser	ser	N	1	
+21	sordo	sordo	O	1	
+22	directamente	directamente	N	1	
+23	)	)	O	1	
+24	ya	ya	N	1	
+25	que	que	N	1	
+26	muchas	muchas	V	1	
+27	habitaciones	habitaciones	N	1	
+28	,	,	O	1	
+29	entre	entre	O	1	
+30	ellas	ellas	O	1	
+31	la	la	O	1	
+32	mía	mía	O	1	
+33	,	,	O	1	
+34	dan	dan	V	1	
+35	a	a	D	1	
+36	La_Rambla	La_Rambla	R	1	ne=Location
+37	donde	donde	V	1	
+38	hay	hay	G	1	
+39	micho	micho	N	1	
+40	movimiento	movimiento	P	1	
+41	hasta	hasta	G	1	
+42	por	por	G	1	
+43	lo	lo	N	1	
+44	menos	menos	N	1	
+45	las_tres_de_la_mañana	las_tres_de_la_mañana	N	1	ne=Time
+46	.	.	O	1	
+
+1	Y	Y	G	1	
+2	tampoco	tampoco	N	1	
+3	deben	deben	N	1	
+4	olvidar	olvidar	N	1	
+5	las	las	V	1	
+6	máscaras	máscaras	N	1	
+7	para	para	N	1	
+8	tapar	tapar	G	1	
+9	los	los	N	1	
+10	ojos	ojos	N	1	
+11	ya	you	Q	1	
+12	que	que	V	1	
+13	las	las	G	1	
+14	persianas	persianas	N	1	
+15	no	no	D	1	
+16	cierran	cierran	G	1	
+17	debido	debido	N	1	
+18	al	al	G	1	
+19	gran	gran	G	1	
+20	aire	aire	N	1	
+21	acondicionado	acondicionado	N	1	
+22	que	que	N	1	
+23	hay	hay	N	1	
+24	en	en	P	1	
+25	el	el	N	1	
+26	balcón	balcón	N	1	
+27	.	.	O	1	
+

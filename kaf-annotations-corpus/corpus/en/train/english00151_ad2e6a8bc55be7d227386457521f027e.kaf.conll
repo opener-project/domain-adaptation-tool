@@ -1,0 +1,81 @@
+1	City	City	R	1	
+2	break	break	N	1	
+3	in	in	P	1	
+4	Las_Vegas	Las_Vegas	R	1	ne=Location
+
+1	We	we	Q	1	
+2	stayed	stay	V	1	
+3	at	at	P	1	
+4	the	the	D	1	
+5	hotel	hotel	N	1	
+6	just	just	A	1	
+7	for	for	P	1	
+8	one	one	O	1	
+9	night	night	N	1	
+10	during	during	P	1	
+11	our	our	Q	1	
+12	sightseeing	sightseeing	N	1	
+13	trip	trip	N	1	
+14	to	to	P	1	
+15	USA	USA	R	1	ne=Location
+16	.	.	O	1	
+
+1	We	we	Q	1	
+2	were	be	V	1	
+3	very	very	A	1	
+4	satisfied	satisfied	G	1	
+5	with	with	P	1	
+6	the	the	D	1	
+7	hotel	hotel	N	1	
+8	.	.	O	1	
+
+1	The	the	D	1	
+2	price	price	N	1	
+3	was	be	V	1	
+4	amazing	amazing	G	1	
+5	,	,	O	1	
+6	the	the	D	1	
+7	service	service	N	1	
+8	perfect	perfect	V	1	
+9	.	.	O	1	
+
+1	The	the	D	1	
+2	hotel	hotel	N	1	
+3	provides	provide	V	1	
+4	free	free	G	1	
+5	shuttle	shuttle	N	1	
+6	taxi	taxi	N	1	
+7	to	to	P	1	
+8	different	different	G	1	
+9	places	place	N	1	
+10	on	on	P	1	
+11	the	the	D	1	
+12	Strip	Strip	R	1	ne=Attraction
+13	,	,	O	1	
+14	rooms	room	N	1	
+15	are	be	V	1	
+16	quite	quite	A	1	
+17	spacious	spacious	G	1	
+18	and	and	C	1	
+19	modern	modern	G	1	
+20	.	.	O	1	
+
+1	Complimentary	complimentary	G	1	
+2	breakfast	breakfast	N	1	
+3	served	serve	V	1	
+4	in	in	P	1	
+5	the	the	D	1	
+6	lobby	lobby	N	1	
+7	was	be	V	1	
+8	good	good	G	1	
+9	.	.	O	1	
+
+1	Absolutely	absolutely	A	1	
+2	amazing	amazing	G	1	
+3	for	for	P	1	
+4	the	the	D	1	
+5	price	price	N	1	
+6	we	we	Q	1	
+7	paid	pay	V	1	
+8	!	!	O	1	
+

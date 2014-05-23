@@ -1,0 +1,46 @@
+1	Per	per	P	1	
+2	lavoro	lavoro	N	1	
+3	a	a	P	1	
+4	Deira	deira	R	1	ne=Location
+
+1	nella	nella	P	1	
+2	massa	massa	N	1	
+3	di	di	P	1	
+4	hotel	hotel	N	1	
+5	di	di	P	1	
+6	deira	deira	G	1	ne=Location
+7	e	e	Q	1	
+8	dubai	dubai	N	1	ne=Location
+9	,	,	O	1	
+10	lo	lo	D	1	
+11	sheraton	sheraton	N	1	ne=Hotel
+12	di	di	P	1	
+13	deira	deira	G	1	ne=Location
+14	è	è	R	1	
+15	posizionato	posizionare	V	1	
+16	in	in	P	1	
+17	una	uno	D	1	
+18	zona	zona	N	1	
+19	ricca	ricco	G	1	
+20	di	di	P	1	
+21	centri	centro	N	1	
+22	negozi	negozio	N	1	
+23	,	,	O	1	
+24	e	e	Q	1	
+25	l'	lo	D	1	
+26	hotel	hotel	N	1	
+27	è	è	N	1	
+28	in	in	P	1	
+29	perfetto	perfetto	G	1	
+30	stile	stile	N	1	
+31	sheraton	sheraton	R	1	
+32	,	,	O	1	
+33	ottimo	ottimo	G	1	
+34	servizio	servizio	N	1	
+35	,	,	O	1	
+36	arredo	arredo	N	1	
+37	hall	hall	N	1	
+38	,	,	O	1	
+39	arredo	arredo	N	1	
+40	camere	camera	N	1	
+

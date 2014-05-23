@@ -1,0 +1,158 @@
+1	Terrible	terrible	G	1	
+2	stay	stay	N	1	
+3	!	!	O	1	
+
+1	Hotel	Hotel	R	1	
+2	really	really	A	1	
+3	modern	modern	G	1	
+4	and	and	C	1	
+5	minimal	minimal	G	1	
+6	.	.	O	1	
+
+1	Check	Check	R	1	
+2	·	·	N	1	
+3	in	in	P	1	
+4	quite	quite	A	1	
+5	slow	slow	G	1	
+6	,	,	O	1	
+7	even	even	A	1	
+8	if	if	P	1	
+9	the	the	D	1	
+10	welcome	welcome	G	1	
+11	cocktail	cocktail	N	1	
+12	was	be	V	1	
+13	good	good	G	1	
+14	.	.	O	1	
+
+1	Room	Room	R	1	
+2	modern	modern	G	1	
+3	and	and	C	1	
+4	nice	nice	G	1	
+5	,	,	O	1	
+6	but	but	C	1	
+7	from	from	P	1	
+8	the	the	D	1	
+9	toilet	toilet	N	1	
+10	comes	come	V	1	
+11	out	out	A	1	
+12	sewer	sewer	G	1	
+13	smell	smell	N	1	
+14	...	...	O	1	
+15	terrible	terrible	G	1	
+16	!	!	O	1	
+
+1	Nice	Nice	R	1	
+2	pool	pool	N	1	
+3	in	in	P	1	
+4	the	the	D	1	
+5	roof	roof	N	1	
+6	top	top	N	1	
+7	,	,	O	1	
+8	but	but	C	1	
+9	the	the	D	1	
+10	towels	towel	N	1	
+11	have	have	V	1	
+12	to	to	P	1	
+13	be	be	V	1	
+14	collected	collect	V	1	
+15	ONLY	ONLY	R	1	
+16	in	in	P	1	
+17	the	the	D	1	
+18	ground	ground	N	1	
+19	floor	floor	N	1	
+20	...	...	O	1	
+21	really	really	A	1	
+22	uncomfortable	uncomfortable	G	1	
+23	!	!	O	1	
+
+1	Lack	Lack	R	1	
+2	of	of	P	1	
+3	private	private	G	1	
+4	space	space	N	1	
+5	with	with	P	1	
+6	sun	sun	N	1	
+7	beds	bed	V	1	
+8	on	on	P	1	
+9	the	the	D	1	
+10	front	front	G	1	
+11	beach	beach	N	1	
+12	..	..	O	1	
+13	it	it	Q	1	
+14	's	have	V	1	
+15	necessary	necessary	G	1	
+16	for	for	P	1	
+17	a	a	D	1	
+18	4	4	O	1	
+19	*	*	N	1	
+20	or	or	C	1	
+21	5	5	O	1	
+22	*	*	G	1	
+23	star	star	N	1	
+24	hotel	hotel	N	1	
+25	with	with	P	1	
+26	front	front	G	1	
+27	beach	beach	N	1	
+28	!!!	!!!	O	1	
+
+1	Don	Don	R	1	
+2	't	't	A	1	
+3	you	you	Q	1	
+4	think	think	V	1	
+5	?	?	O	1	
+
+1	Spa	Spa	R	1	
+2	services	service	N	1	
+3	too	too	A	1	
+4	expensive	expensive	G	1	
+5	.	.	O	1	
+
+1	Not	not	A	1	
+2	so	so	P	1	
+3	many	many	G	1	
+4	restaurants	restaurant	N	1	
+5	around	around	A	1	
+6	.	.	O	1	
+
+1	Too	too	A	1	
+2	pollution	pollution	N	1	
+3	in	in	P	1	
+4	the	the	D	1	
+5	surrounding	surround	V	1	
+6	streets	street	N	1	
+7	.	.	O	1	
+
+1	Beachwalk_centre_for_shopping	Beachwalk_centre_for_shopping	N	1	ne=Attraction
+2	is	be	V	1	
+3	far	far	A	1	
+4	10min	10min	G	1	
+5	for	for	P	1	
+6	the	the	D	1	
+7	hotel	hotel	N	1	
+8	.	.	O	1	
+
+1	Honestly	honestly	A	1	
+2	speaking	speaking	N	1	
+3	,	,	O	1	
+4	don	don	A	1	
+5	't	't	A	1	
+6	try	try	V	1	
+7	Kuta	Kuta	R	1	ne=Location
+8	or	or	C	1	
+9	Legin_area	Legin_area	N	1	ne=Location
+10	...	...	O	1	
+11	too	too	A	1	
+12	crowded	crowded	G	1	
+13	and	and	C	1	
+14	polluted	polluted	G	1	
+15	!	!	O	1	
+
+1	Go	go	V	1	
+2	to	to	P	1	
+3	Sanur	Sanur	R	1	ne=Location
+4	or	or	C	1	
+5	Jimbaran	Jimbaran	R	1	ne=Location
+6	....	....	O	1	
+7	really	really	A	1	
+8	better	better	A	1	
+9	!	!	O	1	
+

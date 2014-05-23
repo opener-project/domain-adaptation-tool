@@ -1,0 +1,66 @@
+1	Hotel	hotel	N	1	
+2	perfecto	perfecto	O	1	
+3	en	en	O	1	
+4	Madrid	Madrid	R	1	
+
+1	Un	un	G	1	
+2	hotel	hotel	N	1	
+3	que	que	N	1	
+4	cuida	cuida	N	1	
+5	el	el	N	1	
+6	servicio	servicio	N	1	
+7	,	,	O	1	
+8	perfecto	perfecto	O	1	
+9	para	para	O	1	
+10	conocer	conocer	O	1	
+11	madrid	madrid	O	1	
+12	,	,	O	1	
+13	buena	buena	N	1	
+14	ubicacion	ubicacion	N	1	
+15	.	.	O	1	
+
+1	La	La	R	1	
+2	piscina	piscina	N	1	
+3	muy	muy	O	1	
+4	buena	buena	V	1	
+5	en	en	P	1	
+6	la	la	D	1	
+7	azotea	azotea	O	1	
+8	lo	lo	O	1	
+9	unico	unico	O	1	
+10	que	que	O	1	
+11	cierra	cierra	O	1	
+12	a	a	O	1	
+13	las	las	O	1	
+14	8	8	O	1	
+15	,	,	O	1	
+16	en	en	O	1	
+17	verano	verano	O	1	
+18	un	un	G	1	
+19	poco	poco	N	1	
+20	pronto	pronto	N	1	
+21	.	.	O	1	
+
+1	Obsequio	Obsequio	R	1	
+2	de	de	O	1	
+3	botella	botella	O	1	
+4	de	de	O	1	
+5	champagne	champagne	O	1	
+6	a	a	O	1	
+7	la	la	O	1	
+8	llegada	llegada	O	1	
+9	.	.	O	1	
+
+1	Multitud	Multitud	R	1	
+2	de	de	P	1	
+3	bares	bares	N	1	
+4	y	y	G	1	
+5	restaurante	restaurante	N	1	
+6	en	en	P	1	
+7	los	los	N	1	
+8	alrededores	alrededores	N	1	
+9	y	y	G	1	
+10	vida	vida	N	1	
+11	nocturna	nocturna	N	1	
+12	.	.	O	1	
+

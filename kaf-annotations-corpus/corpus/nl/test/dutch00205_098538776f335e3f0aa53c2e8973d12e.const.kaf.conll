@@ -1,0 +1,114 @@
+1	Top	top	N	1	
+2	vakantie	vakantie	N	1	
+3	!	!	O	1	
+
+1	Zeer	zeer	G	1	
+2	verzorgd	verzorgen	V	1	
+3	en	en	C	1	
+4	mooi	mooi	G	1	
+5	hotel	hotel	N	1	
+6	!	!	O	1	
+
+1	Echt	echt	A	1	
+2	om	om	C	1	
+3	van	van	P	1	
+4	te	te	O	1	
+5	genieten	genieten	V	1	
+6	!	!	O	1	
+
+1	Service	service	N	1	
+2	en	en	C	1	
+3	vriendelijkheid	vriendelijkheid	N	1	
+4	personeel	personeel	N	1	
+5	optimaal	optimaal	G	1	
+6	,	,	O	1	
+7	met	met	P	1	
+8	of	of	C	1	
+9	zonder	zonder	P	1	
+10	fooi	fooi	N	1	
+11	!	!	O	1	
+
+1	Het	het	D	1	
+2	eten	eten	N	1	
+3	was	wezen|zijn	V	1	
+4	lekker	lekker	A	1	
+5	,	,	O	1	
+6	maar	maar	C	1	
+7	met	met	P	1	
+8	weinig	weinig	O	1	
+9	afwisseling	afwisseling	N	1	
+10	.	.	O	1	
+
+1	De	de	D	1	
+2	à	à	P	1	
+3	la	la	N	1	
+4	carte	carte	O	1	
+5	restaurants	restaurant	N	1	
+6	zijn	zijn	V	1	
+7	echt	echt	A	1	
+8	wel	wel	A	1	
+9	een	een	D	1	
+10	aanrader	aanrader	N	1	
+11	,	,	O	1	
+12	heel	heel	A	1	
+13	lekker	lek|lekker	G	1	
+14	,	,	O	1	
+15	en	en	C	1	
+16	veel	veel	A	1	
+17	gezelliger	gezellig	G	1	
+18	dan	dan	C	1	
+19	de	de	D	1	
+20	hoofdrestaurant	hoofdrestaurant	O	1	
+21	die	die	Q	1	
+22	toch	toch	A	1	
+23	wel	wel	A	1	
+24	overspoeld	overspoelen	V	1	
+25	wordt	worden	V	1	
+26	door	door	P	1	
+27	Russen	Rus	N	1	
+28	.	.	O	1	
+29	.	.	O	1	
+
+1	Deze	deze	Q	1	
+2	zijn	zijn	V	1	
+3	heel	heel	A	1	
+4	erg	erg	A	1	
+5	aanwezig	aanwezig	G	1	
+6	,	,	O	1	
+7	zowel	zowel	C	1	
+8	aan	aan	P	1	
+9	het	het	D	1	
+10	zwembad	zwembad	N	1	
+11	als	als	C	1	
+12	tijdens	tijdens	P	1	
+13	de	de	D	1	
+14	maaltijden	maaltijd	N	1	
+15	.	.	O	1	
+16	.	.	O	1	
+
+1	Heel	heel	G	1	
+2	goede	goed	G	1	
+3	animatie	animatie	N	1	
+4	!	!	O	1	
+
+1	Bedankt	bedanken	V	1	
+2	Haykel	Haykel	O	1	ne=Person
+3	,	,	O	1	
+4	Billy	Billy	O	1	ne=Person
+5	en	en	C	1	
+6	Kimo	Kimo	O	1	ne=Person
+7	om	om	C	1	
+8	mijn	mijn	D	1	
+9	verlof	verlof	N	1	
+10	zo	zo	A	1	
+11	geslaagd	slagen	V	1	
+12	te	te	O	1	
+13	maken	maken	V	1	
+14	!	!	O	1	
+
+1	Echt	echt	A	1	
+2	een	een	D	1	
+3	top	top	N	1	
+4	hotel	hotel	N	1	
+5	!	!	O	1	
+

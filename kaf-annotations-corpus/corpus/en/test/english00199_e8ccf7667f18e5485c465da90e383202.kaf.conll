@@ -1,0 +1,120 @@
+1	Best	good	G	1	
+2	Holiday	Holiday	R	1	
+3	we	we	Q	1	
+4	have	have	V	1	
+5	had	have	V	1	
+6	in	in	O	1	
+7	years	year	N	1	
+
+1	The	the	D	1	
+2	hotel	hotel	N	1	
+3	is	be	V	1	
+4	very	very	A	1	
+5	clean	clean	G	1	
+6	and	and	C	1	
+7	tidy	tidy	G	1	
+8	,	,	O	1	
+9	it	it	Q	1	
+10	is	be	V	1	
+11	in	in	P	1	
+12	a	a	D	1	
+13	beautiful	beautiful	G	1	
+14	setting	setting	N	1	
+15	and	and	C	1	
+16	very	very	A	1	
+17	spacious	spacious	G	1	
+18	.	.	O	1	
+
+1	We	we	Q	1	
+2	had	have	V	1	
+3	two	two	O	1	
+4	rooms	room	N	1	
+5	next	next	G	1	
+6	to	to	P	1	
+7	each	each	D	1	
+8	other	other	G	1	
+9	on	on	P	1	
+10	the	the	D	1	
+11	ground	ground	N	1	
+12	floor	floor	N	1	
+13	looking	look	V	1	
+14	out	out	A	1	
+15	to	to	P	1	
+16	the	the	D	1	
+17	pools	pool	N	1	
+18	.	.	O	1	
+
+1	We	we	Q	1	
+2	preferred	prefer	V	1	
+3	to	to	P	1	
+4	use	use	V	1	
+5	the_Sunrise_restaurant	the_Sunrise_restaurant	N	1	ne=Restaurant
+6	apposed	appose	V	1	
+7	to	to	P	1	
+8	the_Sentido	the_Sentido	R	1	ne=Restaurant
+9	as	as	P	1	
+10	we	we	Q	1	
+11	found	find	V	1	
+12	the	the	D	1	
+13	service	service	N	1	
+14	much	much	A	1	
+15	better	well	A	1	
+16	and	and	C	1	
+17	the	the	D	1	
+18	air	air	N	1	
+19	conditioning	conditioning	N	1	
+20	worked	work	V	1	
+21	better	better	A	1	
+22	,	,	O	1	
+23	although	although	P	1	
+24	both	both	D	1	
+25	had	have	V	1	
+26	the	the	D	1	
+27	same	same	G	1	
+28	food	food	N	1	
+29	with	with	P	1	
+30	we	we	Q	1	
+31	think	think	V	1	
+32	could	can	O	1	
+33	have	have	V	1	
+34	been	be	V	1	
+35	better	better	A	1	
+36	as	as	P	1	
+37	the	the	D	1	
+38	meals	meal	N	1	
+39	were	be	V	1	
+40	aimed	aim	V	1	
+41	more	much	A	1	
+42	for	for	P	1	
+43	the_Russians	the_Russians	R	1	ne=Person
+44	and	and	C	1	
+45	Egyptians	Egyptians	R	1	ne=Person
+46	.	.	O	1	
+
+1	The	the	D	1	
+2	guests	guest	N	1	
+3	were	be	V	1	
+4	mostly	mostly	A	1	
+5	Russians	Russians	R	1	ne=Person
+6	and	and	C	1	
+7	Egyptians	Egyptians	R	1	ne=Person
+8	and	and	C	1	
+9	only	only	A	1	
+10	a_few_English	a_few_english	N	1	ne=Person
+11	,	,	O	1	
+12	most	most	G	1	
+13	of	of	P	1	
+14	them	them	Q	1	
+15	were	be	V	1	
+16	families	family	N	1	
+17	with	with	P	1	
+18	young	young	G	1	
+19	children	child	N	1	
+20	that	that	O	1	
+21	took	take	V	1	
+22	over	over	O	1	
+23	the	the	D	1	
+24	pool	pool	N	1	
+25	area	area	N	1	
+26	.	.	O	1	
+

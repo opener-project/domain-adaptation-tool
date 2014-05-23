@@ -1,0 +1,103 @@
+1	Businesshotel	Businesshotel	O	1	
+2	mit	mit	P	1	
+3	Schönheitsfehlern	Schönheitsfehler	N	1	
+
+1	Das	die	D	1	
+2	Sercotel_Sorolla_Palace	Sercotel_Sorolla_Palace	O	1	ne=Hotel
+3	ist	sein	V	1	
+4	ein	eine	D	1	
+5	Businesshotel	Businesshotel	O	1	
+6	in	in	P	1	
+7	Valencia	Valencia	R	1	ne=Location
+8	.	.	O	1	
+
+1	Die	die	D	1	
+2	Anbindung	Anbindung	N	1	
+3	ist	sein	V	1	
+4	durch	durch	P	1	
+5	zwei	zwei	O	1	
+6	verschiedene	verschieden	G	1	
+7	Metrohaltestellen	Metrohaltestellen	O	1	
+8	sehr	sehr	A	1	
+9	gut	gut	G	1	
+10	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstück	Frühstück	N	1	
+3	ist	sein	V	1	
+4	vielfältig	vielfältig	G	1	
+5	und	und	C	1	
+6	von	von	P	1	
+7	hoher	hoch	G	1	
+8	Qualität	Qualität	N	1	
+9	.	.	O	1	
+
+1	Die	die	D	1	
+2	Zimmer	Zimmer	N	1	
+3	sind	sein	V	1	
+4	geräumig	geräumig	G	1	
+5	und	und	C	1	
+6	ruhig	ruhig	G	1	
+7	.	.	O	1	
+
+1	Nachteilig	nachteilig	G	1	
+2	ist	sein	V	1	
+3	nichts	nichts	Q	1	
+4	so	so	A	1	
+5	richtig	richtig	G	1	
+6	.	.	O	1	
+
+1	Es	es	Q	1	
+2	gibt	geben	V	1	
+3	aber	aber	A	1	
+4	ein	eine	D	1	
+5	paar	paar	Q	1	
+6	Kleinigkeiten	Kleinigkeit	N	1	
+7	,	,	O	1	
+8	die	die	Q	1	
+9	man	man	Q	1	
+10	sich	sich	Q	1	
+11	als	als	C	1	
+12	4	4	O	1	
+13	+	+	C	1	
+14	Sternehotel	Sternehotel	O	1	
+15	nicht	nicht	O	1	
+16	erlauben	erlauben	V	1	
+17	sollte	sollen	V	1	
+18	,	,	O	1	
+19	wie	wie	C	1	
+20	z.B.	z.b.	P	1	
+21	keine	keine	Q	1	
+22	Handtücher	Handtuch	N	1	
+23	oder	oder	C	1	
+24	Desinfektionsmöglichkeiten	Desinfektionsmöglichkeiten	O	1	
+25	im	in	P	1	
+26	Fitnessraum	Fitnessraum	N	1	
+27	oder	oder	C	1	
+28	leere	leer	G	1	
+29	Wasserspender	Wasserspender	N	1	
+30	über	über	P	1	
+31	mehrere	mehrere	Q	1	
+32	Tage	Tag	N	1	
+33	.	.	O	1	
+
+1	Insgesamt	insgesamt	A	1	
+2	kann	können	V	1	
+3	man	man	Q	1	
+4	das	die	D	1	
+5	Sorolla	Sorolla	O	1	
+6	empfehlen	empfehlen	V	1	
+7	,	,	O	1	
+8	bei	bei	P	1	
+9	einer	eine	D	1	
+10	Rate	Rate	N	1	
+11	von	von	P	1	
+12	60_€	60_€	O	1	ne=Money
+13	pro	pro	P	1	
+14	Nacht	Nacht	N	1	
+15	ist	sein	V	1	
+16	das	die	D	1	
+17	preisleistungsverhältnis	preisleistungsverhältnis	O	1	
+18	hervorragend	hervorragend	G	1	
+19	.	.	O	1	
+

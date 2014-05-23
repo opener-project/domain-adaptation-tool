@@ -1,0 +1,166 @@
+1	Niet	niet	A	1	
+2	nog	nog	A	1	
+3	een	een	D	1	
+4	keer	keer	N	1	
+5	!	!	O	1	
+
+1	Deze	deze	D	1	
+2	camping	camping	N	1	
+3	hebben	hebben	V	1	
+4	wij	wij	Q	1	
+5	geboekt	boeken	V	1	
+6	als	als	C	1	
+7	doorreiscamping	doorreiscamping	O	1	
+8	.	.	O	1	
+
+1	Bij	bij	P	1	
+2	aankomst	aankomst	N	1	
+3	oogde	ogen	V	1	
+4	de	de	D	1	
+5	camping	camping	N	1	
+6	erg	erg	A	1	
+7	rommelig	rommelig	G	1	
+8	.	.	O	1	
+
+1	Bij	bij	P	1	
+2	de	de	D	1	
+3	receptie	receptie	N	1	
+4	werden	worden	V	1	
+5	we	we	Q	1	
+6	vriendelijk	vriendelijk	G	1	
+7	te	te	O	1	
+8	woord	woord	N	1	
+9	gestaan	staan	V	1	
+10	.	.	O	1	
+
+1	De	de	D	1	
+2	tent	tent	N	1	
+3	was	wezen|zijn	V	1	
+4	schoon	schoon	G	1	
+5	,	,	O	1	
+6	de	de	D	1	
+7	plaats	plaats	N	1	
+8	erg	erg	G	1	
+9	klein	klein	G	1	
+10	en	en	C	1	
+11	hellend	hellen	V	1	
+12	.	.	O	1	
+
+1	Je	je	Q	1	
+2	kon	kunnen	V	1	
+3	er	er	Q	1	
+4	niet	niet	A	1	
+5	fatsoenlijk	fatsoenlijk	G	1	
+6	zitten	zitten	V	1	
+7	.	.	O	1	
+
+1	We	we	Q	1	
+2	zaten	zitten	V	1	
+3	in	in	P	1	
+4	de	de	D	1	
+5	buurt	buurt	N	1	
+6	van	van	P	1	
+7	een	een	D	1	
+8	opslag	opslag	N	1	
+9	,	,	O	1	
+10	ook	ook	A	1	
+11	dat	dat	C	1	
+12	oogde	ogen	V	1	
+13	erg	erg	A	1	
+14	rommelig	rommelig	G	1	
+15	.	.	O	1	
+
+1	Het	het	D	1	
+2	kleine	klein	G	1	
+3	toiletgebouw	toiletgebouw	O	1	
+4	was	wezen|zijn	V	1	
+5	erg	erg	A	1	
+6	vies	vies	G	1	
+7	.	.	O	1	
+
+1	Het	het	D	1	
+2	douchewater	douchewater	O	1	
+3	lekte	lekken	V	1	
+4	rechstreeks	rechstreeks	O	1	
+5	de	de	D	1	
+6	aparte	apart	G	1	
+7	wc	wc	N	1	
+8	in	in	P	1	
+9	.	.	O	1	
+
+1	Alles	alles	Q	1	
+2	was	wezen|zijn	V	1	
+3	daar	daar	C	1	
+4	door	door	P	1	
+5	en	en	C	1	
+6	door	door	P	1	
+7	nat	nat	N	1	
+8	.	.	O	1	
+
+1	Het	het	Q	1	
+2	viel	vallen	V	1	
+3	ons	ons	Q	1	
+4	ook	ook	A	1	
+5	op	op	P	1	
+6	dat	dat	C	1	
+7	de	de	D	1	
+8	meeste	meest	G	1	
+9	plaatsen	plaatsen	N	1	
+10	niet	niet	A	1	
+11	ruim	ruim	G	1	
+12	zijn	zijn	V	1	
+13	.	.	O	1	
+
+1	Veel	veel	O	1	
+2	mobile	mobile	N	1	
+3	homes	home	N	1	
+4	staan	staan	V	1	
+5	dicht	dicht	G	1	
+6	op	op	P	1	
+7	elkaar	elkaar	Q	1	
+8	.	.	O	1	
+
+1	De	de	D	1	
+2	omgeving	omgeving	N	1	
+3	was	wezen|zijn	V	1	
+4	niet	niet	A	1	
+5	bijzonder	bijzonder	G	1	
+6	.	.	O	1	
+
+1	Wel	wel	A	1	
+2	groen	groen	G	1	
+3	.	.	O	1	
+
+1	Wij	wij	Q	1	
+2	hebben	hebben	V	1	
+3	pizza	pizza	N	1	
+4	'	'	O	1	
+5	s	s	N	1	
+6	besteld	bestellen	V	1	
+7	en	en	C	1	
+8	deze	deze	Q	1	
+9	smaakten	smaken	V	1	
+10	redelijk	redelijk	G	1	
+11	.	.	O	1	
+
+1	Wij	wij	Q	1	
+2	hadden	hebben	V	1	
+3	2	@card@	O	1	
+4	nachten	nacht	N	1	
+5	geboekt	boeken	V	1	
+6	,	,	O	1	
+7	maar	maar	C	1	
+8	zijn	zijn	V	1	
+9	uiteindelijk	uiteindelijk	G	1	
+10	1	@card@	O	1	
+11	nacht	nacht	N	1	
+12	gebleven	blijven	V	1	
+13	.	.	O	1	
+
+1	Dus	dus	A	1	
+2	niet	niet	A	1	
+3	nog	nog	A	1	
+4	een	een	D	1	
+5	keer	keer	N	1	
+6	!	!	O	1	
+

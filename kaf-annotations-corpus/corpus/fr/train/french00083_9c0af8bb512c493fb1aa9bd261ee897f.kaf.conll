@@ -1,0 +1,57 @@
+1	Hôtel	hôtel	N	1	
+2	de	de	P	1	
+3	luxe	luxe	N	1	
+4	pas	pas	G	1	
+5	trop	trop	G	1	
+6	cher	cher	G	1	
+
+1	J'	J'	Q	1	
+2	ai	avoir	V	1	
+3	passé	passer	V	1	
+4	un	un	D	1	
+5	bon	bon	G	1	
+6	séjour	séjour	N	1	
+7	dans	dans	P	1	
+8	cet	ce	D	1	
+9	hôtel	hôtel	N	1	
+10	.	.	O	1	
+
+1	Si	Si	C	1	
+2	je	je	Q	1	
+3	retourne	retourner	V	1	
+4	dans	dans	P	1	
+5	les	le	D	1	
+6	environs	environs	N	1	
+7	,	,	O	1	
+8	je	je	Q	1	
+9	risque	risquer	V	1	
+10	de	de	P	1	
+11	me	me	Q	1	
+12	réserver	réserver	V	1	
+13	de	de	P	1	
+14	nouveau	nouveau	N	1	
+15	une	un	D	1	
+16	chambre	chambre	N	1	
+17	.	.	O	1	
+
+1	Il	Il	Q	1	
+2	est	être	V	1	
+3	propre	propre	G	1	
+4	,	,	O	1	
+5	le	le	D	1	
+6	personnel	personnel	N	1	
+7	est	être	V	1	
+8	aimable	aimable	G	1	
+9	.	.	O	1	
+
+1	Je	Je	Q	1	
+2	le	le	Q	1	
+3	recommande	recommander	V	1	
+4	beaucoup	beaucoup	G	1	
+5	pour	pour	P	1	
+6	les	le	D	1	
+7	fan	fan	N	1	
+8	du	du	P	1	
+9	luxe	luxe	N	1	
+10	.	.	O	1	
+

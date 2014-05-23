@@ -1,0 +1,157 @@
+1	Für	für	P	1	
+2	einen	eine	D	1	
+3	Kurzen	kurz	G	1	
+4	Aufenthalt	Aufenthalt	N	1	
+5	gut	gut	G	1	
+6	geeignet	geeignet	G	1	
+
+1	Für	für	P	1	
+2	einen	eine	D	1	
+3	Kurzen	kurz	G	1	
+4	Aufenthalt	Aufenthalt	N	1	
+5	1_·_3_Tage	1_·_3_Tag	N	1	ne=Date
+6	für	für	P	1	
+7	eine	eine	D	1	
+8	Städtereise	Städtereise	N	1	
+9	gut	gut	G	1	
+10	geeignet	geeignet	G	1	
+11	,	,	O	1	
+12	wir	wir	Q	1	
+13	waren	sein	V	1	
+14	eine	eine	D	1	
+15	Woche	Woche	N	1	
+16	und	und	C	1	
+17	dafür	dafür	Q	1	
+18	ist	sein	V	1	
+19	die	die	D	1	
+20	Kleiderablage	Kleiderablage	O	1	
+21	(	(	O	1	
+22	es	es	Q	1	
+23	gibt	geben	V	1	
+24	keinen	keine	Q	1	
+25	Schrank	Schrank	N	1	
+26	)	)	O	1	
+27	zu	zu	P	1	
+28	klein	klein	G	1	
+29	.	.	O	1	
+
+1	Aber	aber	C	1	
+2	es	es	Q	1	
+3	ist	sein	V	1	
+4	ein	eine	D	1	
+5	Bügeltisch	Bügeltisch	N	1	
+6	und	und	C	1	
+7	Bügeleisen	Bügeleisen	N	1	
+8	vorhanden	vorhanden	G	1	
+9	,	,	O	1	
+10	das	die	D	1	
+11	Badezimmer	Badezimmer	N	1	
+12	ist	sein	V	1	
+13	sehr	sehr	A	1	
+14	groß	groß	G	1	
+15	im	in	P	1	
+16	Verhältnis	Verhältnis	N	1	
+17	zum	zu	P	1	
+18	Zimmer	Zimmer	N	1	
+19	.	.	O	1	
+
+1	Leider	leider	A	1	
+2	wurde	werden	V	1	
+3	ds	ds	O	1	
+4	Zimmer	Zimmer	N	1	
+5	während	während	P	1	
+6	unseres	unser	Q	1	
+7	Aufenthaltes	Aufenthalt	N	1	
+8	nicht	nicht	O	1	
+9	gereinigt	reinigen	V	1	
+10	,	,	O	1	
+11	offensichtlich	offensichtlich	G	1	
+12	wird	werden	V	1	
+13	nur	nur	A	1	
+14	bei	bei	P	1	
+15	Abreise	Abreise	N	1	
+16	gereinigt	reinigen	V	1	
+17	,	,	O	1	
+18	kein	keine	Q	1	
+19	Mensch	Mensch	N	1	
+20	bleibt	bleiben	V	1	
+21	offensichtlich	offensichtlich	G	1	
+22	eine	eine	D	1	
+23	Woche	Woche	N	1	
+24	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	waren	sein	V	1	
+3	im	in	P	1	
+4	12.Stock	12.stock	O	1	
+5	,	,	O	1	
+6	herrliche	herrlich	G	1	
+7	Aussicht	Aussicht	N	1	
+8	auf	auf	P	1	
+9	Kopenhagen	Kopenhagen	R	1	ne=Location
+10	.	.	O	1	
+
+1	Zimmer	zimmern	V	1	
+2	sehr	sehr	A	1	
+3	ruhig	ruhig	G	1	
+4	und	und	C	1	
+5	nicht	nicht	O	1	
+6	hellhörig	hellhörig	G	1	
+7	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstücksbuffet	Frühstücksbuffet	N	1	
+3	war	sein	V	1	
+4	in	in	P	1	
+5	Ordnung	Ordnung	N	1	
+6	,	,	O	1	
+7	Kaffee	Kaffee	N	1	
+8	wie	wie	C	1	
+9	überall	überall	A	1	
+10	in	in	P	1	
+11	Dänemark	Dänemark	R	1	ne=Location
+12	scheußlich	scheußlich	G	1	
+13	,	,	O	1	
+14	aber	aber	C	1	
+15	ansonsten	ansonsten	A	1	
+16	OK	OK	N	1	
+17	.	.	O	1	
+
+1	Die	die	D	1	
+2	Lage	Lage	N	1	
+3	des	die	D	1	
+4	Hotels	Hotel	N	1	
+5	ist	sein	V	1	
+6	das	die	D	1	
+7	große	groß	G	1	
+8	Plus	Plus	N	1	
+9	,	,	O	1	
+10	alles	alle	Q	1	
+11	fußläufig	fußläufig	G	1	
+12	erreichbar	erreichbar	G	1	
+13	,	,	O	1	
+14	Tivoli	Tivoli	R	1	ne=Attraction
+15	,	,	O	1	
+16	Nyhavn	Nyhavn	O	1	ne=Attraction
+17	,	,	O	1	
+18	Stroget	Stroget	O	1	ne=Attraction
+19	etc.	etc.	A	1	
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	ist	sein	V	1	
+4	funktionell	funktionell	G	1	
+5	und	und	C	1	
+6	eben	eben	A	1	
+7	ein	eine	D	1	
+8	Stadthotel	Stadthotel	N	1	
+9	,	,	O	1	
+10	aber	aber	C	1	
+11	es	es	Q	1	
+12	ist	sein	V	1	
+13	halt	halt	A	1	
+14	ein	eine	D	1	
+15	reiner	rein	G	1	
+16	Schlafplatz	Schlafplatz	N	1	
+17	.	.	O	1	
+

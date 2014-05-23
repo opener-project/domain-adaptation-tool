@@ -1,0 +1,81 @@
+1	Standard	standard	N	1	
+2	Best_Western_Premier	best_western_premier	R	1	ne=Hotel
+3	non	non	A	1	
+4	rispettati	rispettare	V	1	
+
+1	E	e	Q	1	
+2	'	'	Q	1	
+3	stata	essere	V	1	
+4	davvero	davvero	A	1	
+5	una	uno	D	1	
+6	grossa	grosso	G	1	
+7	delusione	delusione	N	1	
+8	direi	dire	V	1	
+9	che	che	Q	1	
+10	gli	lo	D	1	
+11	standard	standard	N	1	
+12	Best_Western_Premier	best_western_premier	R	1	ne=Hotel
+13	davvero	davvero	A	1	
+14	non	non	A	1	
+15	sono	essere	V	1	
+16	stati	essere	V	1	
+17	rispettati	rispettare	V	1	
+18	!	!	O	1	
+
+1	Le	lo	D	1	
+2	stanze	stanza	N	1	
+3	dell'	dell'	P	1	
+4	albergo	albergo	N	1	
+5	sono	essere	V	1	
+6	molto	molto	A	1	
+7	vecchie	vecchio	G	1	
+8	,	,	O	1	
+9	piccole	piccolo	G	1	
+10	,	,	O	1	
+11	non	non	A	1	
+12	curate	curare	V	1	
+13	...	...	O	1	
+14	praticamente	praticamente	A	1	
+15	senza	senza	P	1	
+16	nessun	nessun	G	1	
+17	confort	confort	N	1	
+18	!	!	O	1	
+19	!	!	O	1	
+20	!	!	O	1	
+
+1	Il	lo	D	1	
+2	personale	personale	G	1	
+3	è	è	R	1	
+4	pressochè	pressochè	V	1	
+5	assente	assente	N	1	
+6	,	,	O	1	
+7	difatti	difatti	Q	1	
+8	oltre	oltre	P	1	
+9	al	al	P	1	
+10	portiere	portiera	N	1	
+11	non	non	A	1	
+12	c'	c'	A	1	
+13	è	è	N	1	
+14	nessuno	nessuno	Q	1	
+15	che	che	Q	1	
+16	possa	potere	V	1	
+17	darvi	darvi	V	1	
+18	supporto	supporto	N	1	
+19	in	in	P	1	
+20	caso	caso	N	1	
+21	di	di	P	1	
+22	bisogno	bisogno	N	1	
+23	.	.	O	1	
+
+1	Unica	unico	G	1	
+2	nota	nota	N	1	
+3	positiva	positivo	G	1	
+4	è	è	R	1	
+5	la	lo	D	1	
+6	prossimità	prossimità	O	1	
+7	con	con	P	1	
+8	il	lo	D	1	
+9	centro	centro	N	1	
+10	città	citta'	N	1	
+11	.	.	O	1	
+

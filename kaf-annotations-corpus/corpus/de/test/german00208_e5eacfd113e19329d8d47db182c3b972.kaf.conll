@@ -1,0 +1,85 @@
+1	Niedrigster	niedrig	G	1	
+2	Standard	Standard	N	1	
+3	·	·	O	1	
+4	nicht	nicht	O	1	
+5	buchbar	buchbar	G	1	
+6	!	!	O	1	
+
+1	Insgesamt	insgesamt	A	1	
+2	nicht	nicht	O	1	
+3	zu	zu	O	1	
+4	empfehlen	empfehlen	V	1	
+5	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	als	als	C	1	
+4	Geschäftsreisende	geschäftsreisend	G	1	
+5	drei	drei	O	1	
+6	Zimmer	Zimmer	N	1	
+7	gebucht	buchen	V	1	
+8	und	und	C	1	
+9	alle	alle	Q	1	
+10	mit	mit	P	1	
+11	den	die	D	1	
+12	selben	selb	Q	1	
+13	Imponderabilien	Imponderabilien	N	1	
+14	zu	zu	O	1	
+15	kämpfen	kämpfen	V	1	
+16	.	.	O	1	
+
+1	Es	es	Q	1	
+2	hätte	haben	V	1	
+3	schon	schon	A	1	
+4	zu	zu	O	1	
+5	denken	denken	V	1	
+6	geben	geben	V	1	
+7	müssen	müssen	V	1	
+8	als	als	C	1	
+9	bereits	bereits	A	1	
+10	beim	bei	P	1	
+11	check	checken	V	1	
+12	·	·	O	1	
+13	in	in	P	1	
+14	die	die	D	1	
+15	Hotelrechnung	Hotelrechnung	N	1	
+16	zu	zu	O	1	
+17	begleichen	begleichen	V	1	
+18	war	sein	V	1	
+19	.	.	O	1	
+
+1	Am	an	P	1	
+2	Grenzwertigsten	Grenzwertigsten	O	1	
+3	war	sein	V	1	
+4	das	die	D	1	
+5	fehlende	fehlend	G	1	
+6	warme	warm	G	1	
+7	Wasser	Wasser	N	1	
+8	.	.	O	1	
+
+1	Die	die	D	1	
+2	angepriessene	angepriessene	O	1	
+3	24h	24h	O	1	ne=Time
+4	Stunden	Stunde|Stunden	N	1	
+5	Bestzung	Bestzung	O	1	
+6	der	die	D	1	
+7	Reception	Reception	O	1	
+8	gab	geben	V	1	
+9	es	es	Q	1	
+10	nicht	nicht	O	1	
+11	·	·	O	1	
+12	daher	daher	Q	1	
+13	standen	stehen	V	1	
+14	wir	wir	Q	1	
+15	morgens	morgens	A	1	
+16	vor	vor	P	1	
+17	verschlossener	verschlossen	G	1	
+18	Tür	Türe	N	1	
+19	und	und	C	1	
+20	konnten	können	V	1	
+21	das	die	D	1	
+22	Hotel	Hotel	N	1	
+23	nicht	nicht	O	1	
+24	verlassen	verlassen	V	1	
+25	.	.	O	1	
+

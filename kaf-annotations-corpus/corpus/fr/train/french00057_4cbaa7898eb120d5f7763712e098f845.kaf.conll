@@ -1,0 +1,39 @@
+1	Bof	Bof	N	1	
+
+1	En	En	P	1	
+2	juillet	juillet	N	1	ne=Date
+3	Aout	Aout	N	1	ne=Date
+4	rien	rien	P	1	
+5	à	à	P	1	
+6	voir	voir	V	1	
+7	car	car	C	1	
+8	en	en	P	1	
+9	dehors	dehors	O	1	
+10	des	un	D	1	
+11	périodes	période	N	1	
+12	de	de	P	1	
+13	migration	migration	N	1	
+
+1	PRÉFÉRER	PRÉFÉRER	N	1	
+2	LE_JARDIN_DES_PAPILLONS	le_jardin_DES_papillon	N	1	ne=Attraction
+3	en	en	P	1	
+4	direction	direction	N	1	
+5	de	de	P	1	
+6	Cazeaux	Cazeaux	N	1	ne=Location
+7	(	(	O	1	
+8	note	note	N	1	
+9	8	8	O	1	
+10	/	/	P	1	
+11	10	10	P	1	
+12	)	)	O	1	
+13	vous	lui	Q	1	
+14	êtes	être	V	1	
+15	au	au	O	1	
+16	milieu	milieu	O	1	
+17	des	un	D	1	
+18	papillons	papillon	N	1	
+19	et	et	C	1	
+20	plantes	plante	N	1	
+21	étranges	étrange	G	1	
+22	.	.	O	1	
+

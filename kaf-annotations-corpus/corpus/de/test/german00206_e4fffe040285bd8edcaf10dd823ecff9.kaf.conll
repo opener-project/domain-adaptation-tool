@@ -1,0 +1,170 @@
+1	Erholung	Erholung	N	1	
+2	pur	pur	G	1	
+3	!	!	O	1	
+
+1	(	(	O	1	
+2	trotz	trotz	P	1	
+3	Kleinigkeiten	Kleinigkeit	N	1	
+4	)	)	O	1	
+
+1	Die	die	D	1	
+2	Hotelanlage	Hotelanlage	N	1	
+3	ist	sein	V	1	
+4	sehr	sehr	A	1	
+5	groß	groß	G	1	
+6	und	und	C	1	
+7	es	es	Q	1	
+8	sind	sein	V	1	
+9	etwas	etwas	A	1	
+10	längere	lang	G	1	
+11	Wege	Weg	N	1	
+12	in	in	P	1	
+13	Kauf	Kauf	N	1	
+14	zu	zu	O	1	
+15	nehmen	nehmen	V	1	
+16	.	.	O	1	
+
+1	Zum	zu	P	1	
+2	Beispiel	Beispiel	N	1	
+3	vom	von	P	1	
+4	Zimmer	Zimmer	N	1	
+5	zum	zu	P	1	
+6	Speisesaal	Speisesaal	N	1	
+7	.	.	O	1	
+
+1	Der	die	D	1	
+2	Zustand	Zustand	N	1	
+3	der	die	D	1	
+4	Zimmer	Zimmer	N	1	
+5	entspricht	entsprechen	V	1	
+6	normalem	normal	G	1	
+7	Standard	Standard	N	1	
+8	.	.	O	1	
+
+1	Die	die	D	1	
+2	Sauberkeit	Sauberkeit	N	1	
+3	ließ	lassen	V	1	
+4	etwas	etwas	Q	1	
+5	zu	zu	V	1	
+6	wünschen	wünschen	V	1	
+7	übrig	übrig	G	1	
+8	.	.	O	1	
+
+1	Bei	bei	P	1	
+2	der	die	D	1	
+3	Anreise	Anreise	N	1	
+4	war	sein	V	1	
+5	das	die	D	1	
+6	Zimmer	Zimmer	N	1	
+7	nicht	nicht	O	1	
+8	wirklich	wirklich	G	1	
+9	sauber	sauber	G	1	
+10	.	.	O	1	
+
+1	Es	es	Q	1	
+2	wurde	werden	V	1	
+3	sofort	sofort	A	1	
+4	nach	nach	P	1	
+5	unserer	unser	Q	1	
+6	Reklamation	Reklamation	N	1	
+7	darum	darum	Q	1	
+8	gekümmert	kümmern	V	1	
+9	(	(	O	1	
+10	mehr	mehr	A	1	
+11	schlecht	schlecht	G	1	
+12	als	als	C	1	
+13	recht	recht	G	1	
+14	)	)	O	1	
+15	.	.	O	1	
+
+1	Der	die	D	1	
+2	Boden	Boden	N	1	
+3	hatte	haben	V	1	
+4	Flecken	Flecken	N	1	
+5	und	und	C	1	
+6	die	die	D	1	
+7	Stehlampen	Stehlampe	N	1	
+8	waren	sein	V	1	
+9	sehr	sehr	A	1	
+10	wackelig	wackelig	G	1	
+11	.	.	O	1	
+
+1	Außerdem	außerdem	A	1	
+2	ist	sein	V	1	
+3	die	die	D	1	
+4	Beleuchtung	Beleuchtung	N	1	
+5	im	in	P	1	
+6	Zimmer	Zimmer	N	1	
+7	viel	viel	A	1	
+8	zu	zu	P	1	
+9	wenig	wenige	Q	1	
+10	.	.	O	1	
+
+1	Der	die	D	1	
+2	All	alle	Q	1	
+3	·	·	O	1	
+4	inclusive	inclusive	O	1	
+5	Service	Service	N	1	
+6	war	sein	V	1	
+7	sehr	sehr	A	1	
+8	gut	gut	G	1	
+9	.	.	O	1	
+
+1	Minibar	Minibar	N	1	
+2	wurde	werden	V	1	
+3	jeden	jede	Q	1	
+4	Tag	Tag	N	1	
+5	aufgefüllt	auffüllen	V	1	
+6	.	.	O	1	
+
+1	Die	die	D	1	
+2	meisten	meist	Q	1	
+3	Gäste	Gast	N	1	
+4	kamen	kommen	V	1	
+5	aus	aus	P	1	
+6	Russland	Russland	R	1	
+7	.	.	O	1	
+
+1	Sie	Sie|sie	Q	1	
+2	waren	sein	V	1	
+3	aber	aber	A	1	
+4	sehr	sehr	A	1	
+5	nett	nett	G	1	
+6	und	und	C	1	
+7	höflich	höflich	G	1	
+8	.	.	O	1	
+
+1	Also	also	A	1	
+2	nicht	nicht	O	1	
+3	so	so	A	1	
+4	wie	wie	C	1	
+5	man	man	Q	1	
+6	es	es	Q	1	
+7	manchmal	manchmal	A	1	
+8	hört	hören	V	1	
+9	.	.	O	1	
+
+1	Der	die	D	1	
+2	Altersdurchschnitt	Altersdurchschnitt	N	1	
+3	ist	sein	V	1	
+4	leider	leider	A	1	
+5	sehr	sehr	A	1	
+6	hoch	hoch	G	1	
+7	.	.	O	1	
+
+1	Er	er	Q	1	
+2	liegt	liegen	V	1	
+3	nach	nach	P	1	
+4	meiner	mein	Q	1	
+5	Einschätzung	Einschätzung	N	1	
+6	bei	bei	P	1	
+7	40	40	O	1	
+8	·	·	O	1	
+9	50.	50.	O	1	
+10	Fand	finden	V	1	
+11	ich	ich	Q	1	
+12	persöhnlich	persöhnlich	O	1	
+13	etwas	etwas	A	1	
+14	schade	schade	G	1	
+15	.	.	O	1	
+

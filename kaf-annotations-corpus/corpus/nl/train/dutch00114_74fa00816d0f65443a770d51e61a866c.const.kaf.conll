@@ -1,0 +1,54 @@
+1	Super	super	G	1	
+2	de	de	D	1	
+3	luxe	luxe	G	1	
+4	hotel	hotel	N	1	
+
+1	Het	het	D	1	
+2	George_V_Hotel	George_V_hotel	N	1	ne=Hotel
+3	is	zijn	V	1	
+4	top	top	N	1	
+5	of	of	C	1	
+6	the	the	O	1	
+7	bill	bill	O	1	
+8	.	.	O	1	
+
+1	Dit	dit	D	1	
+2	hotel	hotel	N	1	
+3	met	met	P	1	
+4	al	al	D	1	
+5	zijn	zijn	D	1	
+6	grandeur	grandeur	N	1	
+7	is	zijn	V	1	
+8	een	een	D	1	
+9	must	must	N	1	
+10	om	om	C	1	
+11	te	te	O	1	
+12	ervaren	ervaren	V	1	
+13	.	.	O	1	
+
+1	Zelfs	zelfs	A	1	
+2	Nederlands	Nederlands	G	1	
+3	personeel	personeel	N	1	
+4	.	.	O	1	
+
+1	Uiteraard	uiteraard	A	1	
+2	is	zijn	V	1	
+3	de	de	D	1	
+4	prijs	prijs	N	1	
+5	er	er	Q	1	
+6	ook	ook	A	1	
+7	naar	naar	P	1	
+8	.	.	O	1	
+
+1	Maar	maar	C	1	
+2	once	once	O	1	
+3	in	in	P	1	
+4	a	a	O	1	
+5	liftime	liftime	O	1	
+6	was	wezen|zijn	V	1	
+7	dit	dit	Q	1	
+8	een	een	D	1	
+9	bijzonder	bijzonder	G	1	
+10	aangenaam	aangenaam	G	1	
+11	verblijf	verblijf	N	1	
+

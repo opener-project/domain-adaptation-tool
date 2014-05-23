@@ -1,0 +1,49 @@
+1	Superbes	Superbes	P	1	
+2	vacances	vacance	N	1	
+3	!	!	O	1	
+
+1	maintenant	maintenant	G	1	
+2	c	c	G	1	
+3	est	être	V	1	
+4	notre	son	D	1	
+5	deuxieme	deuxieme	N	1	
+6	vacance	vacance	N	1	
+7	dans	dans	P	1	
+8	l	l	D	1	
+9	hotel	hotel	N	1	
+10	.	.	O	1	
+
+1	On	On	Q	1	
+2	profite	profiter	V	1	
+3	du	du	P	1	
+4	beau	beau	G	1	
+5	temps	temps	N	1	
+6	!	!	O	1	
+7	!	!	O	1	
+
+1	La	le	D	1	
+2	nouriture	nouriture	N	1	
+3	nous	lui	Q	1	
+4	plait	plait	V	1	
+5	et	et	C	1	
+6	le	le	D	1	
+7	personnel	personnel	N	1	
+8	est	être	V	1	
+9	tres	tres	G	1	
+10	gentille	gentil	G	1	
+
+1	Les	le	D	1	
+2	chambres	chambre	N	1	
+3	sont	être	V	1	
+4	tres	tres	G	1	
+5	propres	propre	G	1	
+6	!	!	O	1	
+
+1	L	L	N	1	
+2	animation	animation	N	1	
+3	est	être	V	1	
+4	ok	ok	N	1	
+5	!	!	O	1	
+6	!	!	O	1	
+7	!	!	O	1	
+

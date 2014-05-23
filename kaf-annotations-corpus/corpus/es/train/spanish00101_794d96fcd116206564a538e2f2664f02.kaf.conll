@@ -1,0 +1,108 @@
+1	Un	un	G	1	
+2	servicio	servicio	N	1	
+3	impecable	impecable	G	1	
+4	,	,	O	1	
+5	muy	muy	G	1	
+6	buena	buena	N	1	
+7	disposición	disposición	N	1	
+8	todos	todos	N	1	
+9	.	.	O	1	
+
+1	Si	Si	R	1	
+2	vuelvo	vuelvo	N	1	
+3	a	a	D	1	
+4	Roma	Roma	R	1	ne=Location
+5	,	,	O	1	
+6	me	me	Q	1	
+7	alojaré	alojaré	A	1	
+8	en	en	P	1	
+9	este	este	N	1	
+10	hotel	hotel	N	1	
+11	y	y	G	1	
+12	si	si	N	1	
+13	me	me	Q	1	
+14	pregunta	pregunta	G	1	
+15	alguien	alguien	G	1	
+16	,	,	O	1	
+17	lo	lo	G	1	
+18	recomendaré	recomendaré	N	1	
+19	.	.	O	1	
+
+1	Es	es	N	1	
+2	clásico	clásico	V	1	
+3	y	y	A	1	
+4	bien	bien	G	1	
+5	conservado	conservado	N	1	
+6	.	.	O	1	
+
+1	En	En	R	1	
+2	cuanto	cuanto	P	1	
+3	al	al	G	1	
+4	Buffet	Buffet	R	1	
+5	desayuno	desayuno	N	1	
+6	,	,	O	1	
+7	es	es	V	1	
+8	muy	muy	G	1	
+9	completo	completo	N	1	
+10	y	y	G	1	
+11	variado	variado	N	1	
+12	.	.	O	1	
+
+1	La	La	R	1	
+2	situación	situación	N	1	
+3	es	es	V	1	
+4	excelente	excelente	G	1	
+5	y	y	G	1	
+6	las	las	N	1	
+7	comunicaciones	comunicaciones	N	1	
+8	muy	muy	G	1	
+9	buenas	buenas	N	1	
+10	.	.	O	1	
+
+1	Se	Se	R	1	
+2	puede	puede	V	1	
+3	ir	ir	Q	1	
+4	caminado	caminado	N	1	
+5	al	al	G	1	
+6	diversos	diversos	N	1	
+7	lugares	lugares	V	1	
+8	emblemáticos	emblemáticos	N	1	
+9	de	de	P	1	
+10	Roma	Roma	R	1	ne=Location
+11	y	y	G	1	
+12	las	las	N	1	
+13	estaciones	estaciones	N	1	
+14	de	de	P	1	
+15	Bus	Bus	R	1	
+16	y	y	G	1	
+17	metro	metro	N	1	
+18	se	se	N	1	
+19	encuentran	encuentran	V	1	
+20	a	a	D	1	
+21	un	un	G	1	
+22	paso	paso	N	1	
+23	del	del	O	1	
+24	Hotel	Hotel	R	1	
+25	..	..	O	1	
+
+1	Via	Via	R	1	
+2	Véneto_es	Véneto_es	V	1	ne=Location
+3	una	una	G	1	
+4	emblemática	emblemática	N	1	
+5	calle	calle	N	1	
+6	,	,	O	1	
+7	en	en	O	1	
+8	la	la	O	1	
+9	que	que	O	1	
+10	se	se	O	1	
+11	encuentran	encuentran	O	1	
+12	otros	otros	O	1	
+13	hoteles	hoteles	N	1	
+14	,	,	O	1	
+15	mucho	mucho	G	1	
+16	mas	mama	N	1	
+17	elevados	elevados	N	1	
+18	de	de	P	1	
+19	precio	precio	N	1	
+20	.	.	O	1	
+

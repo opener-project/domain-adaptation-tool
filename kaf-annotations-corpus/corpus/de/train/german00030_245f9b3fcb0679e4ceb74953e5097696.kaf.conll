@@ -1,0 +1,158 @@
+1	Wir	wir	Q	1	
+2	kommen	kommen	V	1	
+3	wieder	wieder	A	1	
+
+1	Das_Harrah	die_Harrah	O	1	ne=Location
+2	'	'	O	1	
+3	s	s	N	1	
+4	hat	haben	V	1	
+5	uns	wir	Q	1	
+6	absolut	absolut	G	1	
+7	überzeugt	überzeugen	V	1	
+8	.	.	O	1	
+
+1	Nachdem	nachdem	C	1	
+2	wir	wir	Q	1	
+3	bereits	bereits	A	1	
+4	in	in	P	1	
+5	vielen	viele	Q	1	
+6	Themenhotels	Themenhotels	O	1	
+7	in	in	P	1	
+8	Las_Vegas	lesen_Vegas	O	1	ne=Location
+9	waren	sein	V	1	
+10	,	,	O	1	
+11	achten	achten	V	1	
+12	wir	wir	Q	1	
+13	mittlerweile	mittlerweile	A	1	
+14	in	in	P	1	
+15	erster	erst	G	1	
+16	Lage	Lage	N	1	
+17	auf	auf	P	1	
+18	die	die	D	1	
+19	Lage	Lage	N	1	
+20	und	und	C	1	
+21	das	die	D	1	
+22	Preis	Preis	N	1	
+23	·	·	O	1	
+24	Leistungsverhältnis	Leistungsverhältnis	N	1	
+25	.	.	O	1	
+
+1	Beides	beide	Q	1	
+2	ist	sein	V	1	
+3	in	in	P	1	
+4	diesem	dies	Q	1	
+5	Hotel	Hotel	N	1	
+6	perfekt	perfekt	G	1	
+7	.	.	O	1	
+
+1	Zentraler	Zentrale	N	1	
+2	am	an	P	1	
+3	Strip	Strip	N	1	
+4	geht	gehen	V	1	
+5	es	es	Q	1	
+6	kaum	kaum	A	1	
+7	(	(	O	1	
+8	neben	neben	P	1	
+9	Flamingo	Flamingo	N	1	
+10	,	,	O	1	
+11	Quad	Quad	O	1	
+12	und	und	C	1	
+13	gegenüber	gegenüber	P	1	
+14	vom	von	P	1	
+15	Caesars	Caesar	R	1	
+16	)	)	O	1	
+17	und	und	C	1	
+18	der	die	D	1	
+19	Preis	Preis	N	1	
+20	unschlagbar	unschlagbar	G	1	
+21	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	haben	haben	V	1	
+3	für	für	P	1	
+4	drei_Nächte_im_Mai	drei_Nacht_in_Mai	N	1	ne=Date
+5	zu	zu	O	1	
+6	zweit	zweit	G	1	
+7	103_EUR	@card@_EUR	O	1	ne=Money
+8	bezahlt	bezahlen	V	1	
+9	.	.	O	1	
+
+1	Die	die	D	1	
+2	Parkgarage	Parkgarage	N	1	
+3	ist	sein	V	1	
+4	schnell	schnell	G	1	
+5	und	und	C	1	
+6	ohne	ohne	P	1	
+7	Umwege	Umweg	N	1	
+8	zu	zu	O	1	
+9	erreichen	erreichen	V	1	
+10	,	,	O	1	
+11	was	was	Q	1	
+12	in	in	P	1	
+13	Las	lesen	V	1	
+14	Vegas	Vegas	O	1	
+15	nicht	nicht	O	1	
+16	unbedingt	unbedingt	G	1	
+17	Standard	Standard	N	1	
+18	ist	sein	V	1	
+19	.	.	O	1	
+
+1	Das	die	D	1	
+2	Casino	Casino	N	1	
+3	ist	sein	V	1	
+4	überschaubar	überschaubar	G	1	
+5	und	und	C	1	
+6	damit	damit	Q	1	
+7	der	die	D	1	
+8	Weg	Weg	N	1	
+9	auf	auf	P	1	
+10	den	die	D	1	
+11	Strip	Strip	N	1	
+12	nicht	nicht	O	1	
+13	so	so	A	1	
+14	lang	lang	G	1	
+15	wie	wie	C	1	
+16	in	in	P	1	
+17	vielen	viele	Q	1	
+18	anderen	andere	Q	1	
+19	Hotels	Hotel	N	1	
+20	.	.	O	1	
+
+1	Die	die	D	1	
+2	Zimmer	Zimmer	N	1	
+3	sind	sein	V	1	
+4	sicherlich	sicherlich	A	1	
+5	etwas	etwas	A	1	
+6	veraltet	veralten	V	1	
+7	,	,	O	1	
+8	haben	haben	V	1	
+9	aber	aber	A	1	
+10	alles	alle	Q	1	
+11	,	,	O	1	
+12	was	was	Q	1	
+13	man	man	Q	1	
+14	braucht	brauchen	V	1	
+15	.	.	O	1	
+
+1	Ebenso	ebenso	A	1	
+2	waren	sein	V	1	
+3	wir	wir	Q	1	
+4	mit	mit	P	1	
+5	der	die	D	1	
+6	Ruhe	Ruhe	N	1	
+7	absolut	absolut	G	1	
+8	zufrieden	zufrieden	G	1	
+9	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	haben	haben	V	1	
+3	sehr	sehr	A	1	
+4	gut	gut	G	1	
+5	geschlafen	schlafen	V	1	
+6	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	kommen	kommen	V	1	
+3	wieder	wieder	A	1	
+4	.	.	O	1	
+

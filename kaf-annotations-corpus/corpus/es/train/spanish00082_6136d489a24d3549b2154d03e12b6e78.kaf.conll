@@ -1,0 +1,134 @@
+1	Descanso	Descanso	R	1	
+
+1	Me	me	Q	1	
+2	pareció	pareció	V	1	
+3	un	un	G	1	
+4	gran	gran	N	1	
+5	hotel	hotel	N	1	
+6	,	,	O	1	
+7	teniendo	teniendo	N	1	
+8	en	en	P	1	
+9	cuento	cuento	G	1	
+10	los	los	N	1	
+11	servicios	servicios	N	1	
+12	prestados	prestados	N	1	
+13	,	,	O	1	
+14	moveros	moveros	N	1	
+15	andando	andando	V	1	
+16	no	no	D	1	
+17	está	está	N	1	
+18	mal	mal	G	1	
+19	y	y	G	1	
+20	haciendo	haciendo	N	1	
+21	buen	buen	N	1	
+22	tiempo	tiempo	G	1	
+23	resultará	resultará	N	1	
+24	muy	muy	G	1	
+25	agradable	agradable	G	1	
+26	para	para	N	1	
+27	pasear	pasear	N	1	
+28	con	con	A	1	
+29	el	el	N	1	
+30	niño	niño	N	1	
+31	,	,	O	1	
+32	por	por	N	1	
+33	lo	lo	N	1	
+34	que	que	N	1	
+35	he	he	Q	1	
+36	visto	visto	V	1	
+37	en	en	P	1	
+38	la	la	D	1	
+39	página	página	N	1	
+40	del	del	O	1	
+41	hotel	hotel	N	1	
+42	tenéis	tenéis	N	1	
+43	próxima	próxima	O	1	
+44	la	la	O	1	
+45	parada	parada	O	1	
+46	del	del	O	1	
+47	autobús_Nº_80	autobús_Nº_80	O	1	ne=POI
+48	que	que	G	1	
+49	funciona	funciona	N	1	
+50	hasta	hasta	N	1	
+51	pasadas	pasadas	V	1	
+52	las_12_de_la_noche	las_12_de_la_noche	O	1	ne=Time
+53	y	y	G	1	
+54	os	os	N	1	
+55	lleva	lleva	O	1	
+56	hasta	hasta	O	1	
+57	el	el	O	1	
+58	comienzo	comienzo	O	1	
+59	de	de	O	1	
+60	los	los	O	1	
+61	Campos_Eliseos	Campos_Eliseos	R	1	ne=Attraction
+62	,	,	O	1	
+63	pasando	pasando	N	1	
+64	por	por	N	1	
+65	el	el	N	1	
+66	Puente_del_Alma	Puente_del_Alma	R	1	ne=Attraction
+67	y	y	G	1	
+68	la	la	N	1	
+69	Avda	Avda	R	1	
+70	.	.	O	1	
+
+1	Montaigne	Montaigne	R	1	
+2	,	,	O	1	
+3	donde	donde	G	1	
+4	están	están	N	1	
+5	la	la	D	1	
+6	mayoría	mayoría	O	1	
+7	de	de	O	1	
+8	las	las	O	1	
+9	tiendas	tiendas	O	1	
+10	de	de	O	1	
+11	alta	alta	O	1	
+12	costura	costura	N	1	
+13	,	,	O	1	
+14	os	os	O	1	
+15	acerca	acerca	O	1	
+16	al	al	G	1	
+17	Bd	Bd	R	1	
+18	.	.	O	1	
+
+1	Haussmann	Haussmann	R	1	
+2	allí	allí	D	1	
+3	están	están	N	1	
+4	los	los	N	1	
+5	Grandes_Almacenes	Grandes_Almacenes	R	1	ne=Attraction
+6	y	y	G	1	
+7	muy	muy	G	1	
+8	cerca	cerca	N	1	
+9	la	la	N	1	
+10	Ópera	ópera	N	1	ne=Attraction
+11	,	,	O	1	
+12	Madelaine	Madelaine	R	1	ne=Attraction
+13	,	,	O	1	
+14	Plaza_Vendome	Plaza_Vendome	R	1	ne=Attraction
+15	...	...	O	1	
+
+1	Creo	Creo	R	1	
+2	que	que	N	1	
+3	en	en	O	1	
+4	algún	algún	O	1	
+5	momento	momento	O	1	
+6	dió	dió	O	1	
+7	una	una	O	1	
+8	información	información	O	1	
+9	muy	muy	O	1	
+10	concreta	concreta	O	1	
+11	Clicko	clicko	O	1	
+12	sobre	sobre	O	1	ne=Person
+13	esa	esa	O	1	
+14	zona	zona	O	1	
+15	que	que	O	1	
+16	os	os	O	1	
+17	puede	puede	O	1	
+18	ser	ser	O	1	
+19	util	util	O	1	
+20	consultar	consultar	O	1	
+21	mensajes	mensajes	O	1	
+22	anteriores	anteriores	O	1	
+23	del	del	O	1	
+24	foro	foro	O	1	
+25	.	.	O	1	
+

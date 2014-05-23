@@ -1,0 +1,62 @@
+1	Veraltetes	veraltet	G	1	
+2	Raucherhotel	Raucherhotel	O	1	
+
+1	Zimmer	Zimmer	R	1	
+2	sind	sein	V	1	
+3	Super	Super	N	1	
+4	hellhörig	hellhörig	G	1	
+5	aber	aber	A	1	
+6	sehr	sehr	A	1	
+7	geräumig	geräumig	G	1	
+8	!	!	O	1	
+
+1	Leider	leider	A	1	
+2	muss	müssen	V	1	
+3	ich	ich	Q	1	
+4	sagen	sagen	V	1	
+5	,	,	O	1	
+6	dass	dass	C	1	
+7	All	alle	Q	1	
+8	meine	mein	Q	1	
+9	Kleidung	Kleidung	N	1	
+10	nach	nach	P	1	
+11	Rauch	Rauch	R	1	
+12	riecht	riechen	V	1	
+13	·	·	O	1	
+14	weil	weil	C	1	
+15	das	die	D	1	
+16	ganze	ganz	G	1	
+17	Hotel	Hotel	N	1	
+18	ein	eine	D	1	
+19	einziger	einzig	G	1	
+20	Rauchersalon	Rauchersalon	O	1	
+21	zu	zu	O	1	
+22	sein	sein	V	1	
+23	scheint	scheinen	V	1	
+24	!	!	O	1	
+
+1	Als	als	C	1	
+2	Nichtraucher	Nichtraucher	N	1	
+3	leider	leider	A	1	
+4	sehr	sehr	A	1	
+5	sehr	sehr	A	1	
+6	unangenehm	unangenehm	G	1	
+7	!	!	O	1	
+
+1	Ich	ich	Q	1	
+2	will	wollen	V	1	
+3	nur	nur	A	1	
+4	nach	nach	P	1	
+5	Hause	Haus	N	1	
+6	.	.	O	1	
+
+1	Hotel	Hotel	N	1	
+2	liegt	liegen	V	1	
+3	dennoch	dennoch	A	1	
+4	zentral	zentral	G	1	
+5	und	und	C	1	
+6	man	man	Q	1	
+7	ist	sein	V	1	
+8	bemüht	bemühen	V	1	
+9	!	!	O	1	
+

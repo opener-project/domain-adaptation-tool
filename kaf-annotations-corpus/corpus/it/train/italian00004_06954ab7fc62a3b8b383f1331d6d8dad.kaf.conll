@@ -1,0 +1,139 @@
+1	Consueta	consueto	G	1	
+2	qualita	qualita	O	1	
+3	'	'	Q	1	
+4	Best_Westerna	best_westerna	G	1	ne=Hotel
+
+1	Appena	appena	A	1	
+2	pochi	poco	G	1	
+3	passi	passo	N	1	
+4	da	da	P	1	
+5	Notre_Dame	notre_dama	R	1	ne=POI
+6	e	e	Q	1	
+7	dai	dai	P	1	
+8	meravigliosi	meraviglioso	G	1	
+9	negozi	negozio	N	1	
+10	in	in	P	1	
+11	Bld_St_Germaine	bld_st_germaine	R	1	ne=Location
+12	.	.	O	1	
+
+1	Questo	questo	G	1	
+2	è	è	N	1	
+3	davvero	davvero	A	1	
+4	un	uno	D	1	
+5	ottimo	ottimo	G	1	
+6	hotel	hotel	N	1	
+7	sebbene	sebbene	Q	1	
+8	le	lo	D	1	
+9	classic	classic	R	1	
+10	rooms	rooms	R	1	
+11	siano	essere	V	1	
+12	un	uno	D	1	
+13	po'	po'	A	1	
+14	piccole	piccolo	G	1	
+15	e	e	Q	1	
+16	non	non	A	1	
+17	così	così	V	1	
+18	silenziose	silenzioso	G	1	
+19	.	.	O	1	
+
+1	Ma	ma	Q	1	
+2	con	con	P	1	
+3	un	uno	D	1	
+4	piccolo	piccolo	G	1	
+5	sovrapprezzo	sovrapprezzo	N	1	
+6	potete	potere	V	1	
+7	chiedere	chiedere	V	1	
+8	l'	lo	D	1	
+9	upgrade	upgrade	N	1	
+10	.	.	O	1	
+
+1	In	in	P	1	
+2	ogni	ogni	G	1	
+3	caso	caso	N	1	
+4	davvero	davvero	A	1	
+5	uno	uno	D	1	
+6	standard	standard	N	1	
+7	molto	molto	G	1	
+8	buono	buono	N	1	
+9	.	.	O	1	
+
+1	Arredo	arredo	R	1	
+2	quasi	quasi	A	1	
+3	nuovo	nuovo	G	1	
+4	e	e	Q	1	
+5	trendy	trendy	N	1	
+6	.	.	O	1	
+
+1	Il	lo	D	1	
+2	rivestimento	rivestimento	N	1	
+3	del	del	P	1	
+4	bagno	bagno	N	1	
+5	è	è	R	1	
+6	Kenzo	kenzo	R	1	
+7	by	by	R	1	
+8	Villeroy	villeroy	R	1	
+9	and	and	Q	1	
+10	Boch	boch	R	1	
+11	.	.	O	1	
+
+1	Le	lo	D	1	
+2	ciabattine	ciabattino	R	1	
+3	sono	essere	V	1	
+4	comprese	comprendere	V	1	
+5	nella	nella	P	1	
+6	fornitura	fornitura	N	1	
+7	di	di	P	1	
+8	prodotti	prodotto	N	1	
+9	da	da	P	1	
+10	bagno	bagno	N	1	
+11	.	.	O	1	
+
+1	La	lo	D	1	
+2	wifi	wifi	R	1	
+3	è	è	R	1	
+4	inclusa	includere	V	1	
+5	nel	nel	P	1	
+6	prezzo	prezzo	N	1	
+7	.	.	O	1	
+
+1	Minibar	minibar	R	1	
+2	in	in	P	1	
+3	camera	camera	N	1	
+4	con	con	P	1	
+5	tè	te'	R	1	
+6	,	,	O	1	
+7	caffè	caffe'	N	1	
+8	ed	ed	Q	1	
+9	una	uno	D	1	
+10	scatola	scatola	N	1	
+11	di	di	P	1	
+12	cioccolatini	cioccolatino	N	1	
+13	gratuiti	gratuito	G	1	
+14	.	.	O	1	
+
+1	L'	lo	D	1	
+2	hotel	hotel	N	1	
+3	è	è	G	1	
+4	completamente	completamente	A	1	
+5	ecofriendly	ecofriendly	R	1	
+6	,	,	O	1	
+7	a	a	P	1	
+8	partire	partire	V	1	
+9	dal	dal	P	1	
+10	divieto	divieto	N	1	
+11	di	di	P	1	
+12	fumo	fumo	N	1	
+13	in	in	P	1	
+14	tutto	tutto	G	1	
+15	l'	lo	D	1	
+16	albergo	albergo	N	1	
+17	fino	fino	G	1	
+18	alle	alle	P	1	
+19	chiavi	chiave	N	1	
+20	elettroniche	elettronico	G	1	
+21	fatte	fare	V	1	
+22	con	con	P	1	
+23	mais	mais	N	1	
+24	riciclato	riciclato	G	1	
+25	.	.	O	1	
+

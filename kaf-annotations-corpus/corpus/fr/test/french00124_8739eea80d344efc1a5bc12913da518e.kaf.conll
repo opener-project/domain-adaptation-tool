@@ -1,0 +1,63 @@
+1	Un	un	D	1	
+2	bel	beau	G	1	
+3	aquarium	aquarium	N	1	
+
+1	Pour	Pour	P	1	
+2	ceux	ceux	P	1	
+3	qui	qui	P	1	
+4	connaissent	connaître	V	1	
+5	Nausicaa	Nausicaa	N	1	ne=Attraction
+6	ou	ou	C	1	
+7	Oceanopolis	Oceanopolis	N	1	ne=Attraction
+8	,	,	O	1	
+9	cet	ce	D	1	
+10	aquarium	aquarium	N	1	
+11	supporte	supporter	V	1	
+12	la	le	D	1	
+13	comparaison	comparaison	N	1	
+14	,	,	O	1	
+15	avec	avec	P	1	
+16	un	un	D	1	
+17	petit	petit	G	1	
+18	plus	plus	G	1	
+19	:	:	O	1	
+20	la	le	D	1	
+21	petite	petit	G	1	
+22	attraction	attraction	N	1	
+23	finale	final	G	1	
+24	(	(	O	1	
+25	le_Nautibus	le_Nautibus	N	1	ne=Attraction
+26	)	)	O	1	
+27	qui	qui	P	1	
+28	permet	permettre	V	1	
+29	de	de	P	1	
+30	se	se	Q	1	
+31	promener	promener	V	1	
+32	quelques	quelque	D	1	
+33	minutes	minute	N	1	
+34	à	à	P	1	
+35	bord	bord	N	1	
+36	d'	d'	P	1	
+37	un	un	D	1	
+38	petit	petit	G	1	
+39	"	&amp;quot;	O	1	
+40	sous	sous	P	1	
+41	·	·	N	1	
+42	marin	marin	G	1	
+43	"	&amp;quot;	O	1	
+44	et	et	C	1	
+45	d'	d'	P	1	
+46	approcher	approcher	V	1	
+47	quelques	quelque	D	1	
+48	spécimens	spécimen	N	1	
+49	marins	marin	G	1	
+50	dans	dans	P	1	
+51	une	un	D	1	
+52	ambiance	ambiance	N	1	
+53	20.000	20.000	V	1	
+54	lieues	lieues	O	1	
+55	sous	sous	P	1	
+56	les	le	D	1	
+57	mers	mer	N	1	
+58	.	.	O	1	
+

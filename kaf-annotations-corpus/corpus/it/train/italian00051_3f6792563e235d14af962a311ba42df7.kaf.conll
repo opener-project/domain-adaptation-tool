@@ -1,0 +1,40 @@
+1	Incubo	incubo	G	1	
+
+1	prezzo	prezzo	N	1	
+2	alto	alto	G	1	
+3	per	per	P	1	
+4	il	lo	D	1	
+5	servizio	servizio	N	1	
+6	offerto	offrire	V	1	
+7	.	.	O	1	
+8	ordinata	ordinare	V	1	
+9	cena	cena	G	1	
+10	in	in	P	1	
+11	camera	camera	N	1	
+12	che	che	Q	1	
+13	non	non	A	1	
+14	arrivava	arrivare	V	1	
+15	ho	avere	V	1	
+16	dovuto	dovere	V	1	
+17	chiamare	chiamare	V	1	
+18	2	2	G	1	
+19	volte	volta	N	1	
+20	e	e	Q	1	
+21	finalmente	finalmente	A	1	
+22	la	lo	D	1	
+23	cena	cena	N	1	
+24	,	,	O	1	
+25	servita	servire	V	1	
+26	sulla	sulla	P	1	
+27	scrivania	scrivania	N	1	
+28	in	in	P	1	
+29	camera	camera	N	1	
+30	è	è	R	1	
+31	arrivata	arrivare	V	1	
+32	alle	alle	P	1	
+33	22.00	22.00	N	1	ne=Time
+34	...	...	O	1	
+35	.	.	O	1	
+36	da	da	P	1	
+37	evitare	evitare	V	1	
+

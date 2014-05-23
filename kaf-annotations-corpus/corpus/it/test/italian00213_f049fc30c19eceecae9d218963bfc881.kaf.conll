@@ -1,0 +1,89 @@
+1	Giovanile	giovanile	G	1	
+2	e	e	Q	1	
+3	comodo	comodo	G	1	
+
+1	Hotel	hotel	N	1	
+2	in	in	P	1	
+3	stile	stile	N	1	
+4	prettamente	prettamente	A	1	
+5	,	,	O	1	
+6	con	con	P	1	
+7	stanze	stanza	N	1	
+8	tutte	tutto	G	1	
+9	diverse	diverso	G	1	
+10	dipinte	dipinte	N	1	
+11	da	da	P	1	
+12	artisti	artista	N	1	
+13	locali	locale	G	1	
+14	o	o	Q	1	
+15	di	di	P	1	
+16	passaggio	passaggio	N	1	
+17	.	.	O	1	
+
+1	Al	al	P	1	
+2	piano	piano	N	1	
+3	terra	terra	N	1	
+4	c'	c'	A	1	
+5	è	essere	V	1	
+6	un	uno	D	1	
+7	pub	pub	N	1	
+8	/	/	O	1	
+9	ristorante	ristorare	V	1	
+10	e	e	Q	1	
+11	una	uno	D	1	
+12	discoteca	discoteca	N	1	
+13	.	.	O	1	
+
+1	L'	lo	D	1	
+2	hotel	hotel	N	1	
+3	si	si	Q	1	
+4	trova	trovare	V	1	
+5	nel	nel	P	1	
+6	"_Red_Light_District_"	&quot;_red_light_district_&quot;	O	1	ne=POI
+7	perciò	perciò	R	1	
+8	in	in	P	1	
+9	zona	zona	N	1	
+10	strategica	strategico	G	1	
+11	a	a	P	1	
+12	3	3	G	1	
+13	·	·	N	1	
+14	5	5	G	1	
+15	minuti	minuto	G	1	
+16	a	a	P	1	
+17	piedi	piede	N	1	
+18	dalla	dalla	P	1	
+19	stazione_centrale	stazione_centrale	G	1	ne=POI
+20	e	e	Q	1	
+21	5	5	G	1	
+22	·	·	R	1	
+23	10	10	G	1	
+24	minuti	minuto	N	1	
+25	a	a	P	1	
+26	piedi	piede	N	1	
+27	da	da	P	1	
+28	Piazza_Dam	piazza_dam	R	1	ne=POI
+29	.	.	O	1	
+
+1	La	lo	D	1	
+2	camera	camera	N	1	
+3	è	è	R	1	
+4	semplice	semplice	G	1	
+5	,	,	O	1	
+6	ma	ma	Q	1	
+7	colorata	colorare	V	1	
+8	;	;	O	1	
+9	il	lo	D	1	
+10	bagno	bagno	N	1	
+11	minuscolo	minuscolo	G	1	
+12	.	.	O	1	
+
+1	La	lo	D	1	
+2	colazione	colazione	N	1	
+3	è	è	R	1	
+4	inclusa	incluso	G	1	
+5	ma	ma	Q	1	
+6	non	non	A	1	
+7	troppo	troppo	A	1	
+8	varia	vario	G	1	
+9	.	.	O	1	
+

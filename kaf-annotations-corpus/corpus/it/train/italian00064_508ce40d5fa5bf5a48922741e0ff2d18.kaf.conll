@@ -1,0 +1,168 @@
+1	Il	lo	D	1	
+2	lusso	lusso	N	1	
+3	reso	rendere	V	1	
+4	hotel	hotel	N	1	
+
+1	Quale	quale	Q	1	
+2	è	è	N	1	
+3	il	lo	D	1	
+4	miglior	miglior	G	1	
+5	hotel	hotel	N	1	
+6	di	di	P	1	
+7	Las_Vegas	las_vegas	R	1	ne=Location
+8	?	?	O	1	
+
+1	Alcuni	alcuni	Q	1	
+2	dicono	dire	V	1	
+3	il	lo	D	1	
+4	Venetian	venetian	R	1	ne=Hotel
+5	,	,	O	1	
+6	altri	altro	G	1	
+7	il	lo	D	1	
+8	Bellagio	bellagio	G	1	ne=Hotel
+9	,	,	O	1	
+10	altri	altro	G	1	
+11	l'	lo	D	1	
+12	MGM	mgm	R	1	ne=Hotel
+13	..	..	O	1	
+14	bè	bè	R	1	
+15	sicuramente	sicuramente	A	1	
+16	il	lo	D	1	
+17	Wynn	wynn	R	1	ne=Hotel
+18	è	è	R	1	
+19	il	lo	D	1	
+20	più	piu'	G	1	
+21	lussoso	lussoso	G	1	
+22	!	!	O	1	
+
+1	Avevo	avere	V	1	
+2	una	uno	D	1	
+3	camera	camera	N	1	
+4	standard	standard	N	1	
+5	prenotata	prenotata	G	1	
+6	tramite	tramite	P	1	
+7	un'	uno	D	1	
+8	offerta	offerta	N	1	
+9	su	su	P	1	
+10	booking.it	booking.it	N	1	
+11	,	,	O	1	
+12	un	uno	D	1	
+13	bagno	bagno	N	1	
+14	enorme	enorme	G	1	
+15	,	,	O	1	
+16	con	con	P	1	
+17	vasca	vasca	N	1	
+18	e	e	Q	1	
+19	doccia	doccia	N	1	
+20	,	,	O	1	
+21	letto	letto	N	1	
+22	comodissimo	comodissimo	G	1	
+23	,	,	O	1	
+24	e	e	Q	1	
+25	,	,	O	1	
+26	pezzo	pezzo	N	1	
+27	forte	forte	G	1	
+28	,	,	O	1	
+29	una	uno	D	1	
+30	vetrata	vetrata	N	1	
+31	che	che	Q	1	
+32	affaccia	affacciare	V	1	
+33	su	su	P	1	
+34	Las_vegas_strip	las_vegas_strip	N	1	ne=POI
+35	,	,	O	1	
+36	che	che	Q	1	
+37	di	di	P	1	
+38	notte	notte	N	1	
+39	è	è	N	1	
+40	qualcosa	qualcosa	Q	1	
+41	di	di	P	1	
+42	magico	magico	G	1	
+43	!	!	O	1	
+
+1	Ottimo	ottimo	G	1	
+2	il	lo	D	1	
+3	casinò	casino'	N	1	
+4	e	e	Q	1	
+5	la	lo	D	1	
+6	scelta	scelta	N	1	
+7	di	di	P	1	
+8	ristoranti	ristorante	N	1	
+9	,	,	O	1	
+10	tutti	tutti	Q	1	
+11	di	di	P	1	
+12	lusso	lussare	V	1	
+13	ma	ma	Q	1	
+14	non	non	A	1	
+15	eccessivamente	eccessivamente	A	1	
+16	costosi	costoso	G	1	
+17	,	,	O	1	
+18	estremamente	estremamente	A	1	
+19	varia	vario	G	1	
+20	.	.	O	1	
+
+1	La	lo	D	1	
+2	zona	zona	N	1	
+3	comune	comune	G	1	
+4	all'	all'	P	1	
+5	ingresso	ingresso	N	1	
+6	è	è	O	1	
+7	meravigliosa	meraviglioso	G	1	
+8	,	,	O	1	
+9	si	si	Q	1	
+10	tratta	trarre	V	1	
+11	di	di	P	1	
+12	vialetti	vialetti	N	1	
+13	immersi	immergere	V	1	
+14	nel	nel	P	1	
+15	verde	verde	N	1	
+16	sopra	sopra	N	1	
+17	i	lo	D	1	
+18	quali	quali	Q	1	
+19	si	si	Q	1	
+20	trovano	trovare	V	1	
+21	grandi	grande	G	1	
+22	lanterne	lanterna	N	1	
+23	di	di	P	1	
+24	fiori	fiore	N	1	
+25	di	di	P	1	
+26	vari	vario	G	1	
+27	colori	colore	N	1	
+28	.	.	O	1	
+
+1	Molto	molto	G	1	
+2	spettacolare	spettacolare	G	1	
+3	è	è	N	1	
+4	anche	anche	Q	1	
+5	la	la	Q	1	
+6	cascata	cascare	V	1	
+7	vicino	vicino	N	1	
+8	alla	alla	P	1	
+9	reception	reception	N	1	
+10	.	.	O	1	
+
+1	Las_Vegas	las_vegas	R	1	ne=Location
+2	è	è	R	1	
+3	plateale	plateale	N	1	
+4	,	,	O	1	
+5	il	lo	D	1	
+6	Wynn	wynn	R	1	ne=Hotel
+7	nella	nella	P	1	
+8	sua	suo	G	1	
+9	teatralità	teatralita'	N	1	
+10	,	,	O	1	
+11	conserva	conserva	N	1	
+12	però	però	R	1	
+13	quel	quel	G	1	
+14	lusso	lusso	N	1	
+15	discreto	discreto	G	1	
+16	e	e	Q	1	
+17	quella	quella	Q	1	
+18	eleganza	eleganza	N	1	
+19	che	che	Q	1	
+20	non	non	A	1	
+21	stanca	stancare	V	1	
+22	mai	mai	A	1	
+23	.	.	O	1	
+
+1	CONSIGLIATISSIMO	consigliatissimo	V	1	
+

@@ -37,7 +37,7 @@ public class AppTest
     {
     	Main prog = new Main();
     	InputStream inStream = AppTest.class.getResourceAsStream("/example-ner.kaf");
-    	prog.execute(new String[]{}, inStream, System.out);
+    	prog.execute(inStream, System.out);
     	
         assertTrue( true );
     }

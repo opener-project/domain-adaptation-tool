@@ -1,0 +1,54 @@
+1	Cercano	Cercano	R	1	
+2	al	al	G	1	
+3	Camp	Camp	R	1	
+4	Nou	Nou	R	1	
+5	y	y	G	1	
+6	zona	zona	N	1	
+7	tranquila	tranquila	N	1	
+
+1	Excelente	Excelente	R	1	
+2	calidad	calidad	V	1	
+3	·	·	G	1	
+4	precio	precio	N	1	
+5	perfecta	perfecta	N	1	
+6	.	.	O	1	
+
+1	Zona	Zona	R	1	
+2	tranquila	tranquila	N	1	
+3	.	.	O	1	
+
+1	Metro	Metro	R	1	
+2	cercano	cercano	N	1	
+3	y	y	G	1	
+4	negocios	negocios	N	1	
+5	cercanos	cercanos	N	1	
+6	.	.	O	1	
+
+1	Fácil	Fácil	R	1	
+2	acceso	acceso	N	1	
+3	desdel	desdel	N	1	
+4	el	el	N	1	
+5	aeropuerto	aeropuerto	N	1	
+6	,	,	O	1	
+7	primero	primero	N	1	
+8	un	un	G	1	
+9	tren	tren	N	1	
+10	hasta	hasta	V	1	
+11	Barcelona	Barcelona	R	1	
+12	·	·	N	1	
+13	Sants	sants	N	1	
+14	y	y	G	1	
+15	luego	luego	N	1	
+16	3	3	O	1	
+17	o	o	A	1	
+18	4	4	O	1	
+19	paradas	paradas	N	1	
+20	en	en	P	1	
+21	metro	metro	N	1	
+22	así	así	A	1	
+23	te	te	G	1	
+24	ahorras	ahorras	N	1	
+25	el	el	N	1	
+26	taxi	taxi	N	1	
+27	.	.	O	1	
+

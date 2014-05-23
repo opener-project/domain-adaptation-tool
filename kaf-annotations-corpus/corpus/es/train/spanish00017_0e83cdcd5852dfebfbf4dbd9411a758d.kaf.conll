@@ -1,0 +1,52 @@
+1	Excelente	Excelente	R	1	
+2	hotel	hotel	N	1	
+
+1	La	La	R	1	
+2	pasamos	pasamos	V	1	
+3	muy	muy	G	1	
+4	bien	bien	N	1	
+5	.	.	O	1	
+
+1	Todo	Todo	R	1	
+2	perfecto	perfecto	O	1	
+3	.	.	O	1	
+
+1	La	La	R	1	
+2	comida	comida	N	1	
+3	y	y	A	1	
+4	la	la	D	1	
+5	calidad	calidad	G	1	
+6	de	de	O	1	
+7	la	la	O	1	
+8	bebida	bebida	O	1	
+9	es	es	O	1	
+10	excelente	excelente	O	1	
+11	.	.	O	1	
+
+1	El	El	R	1	
+2	hotel	hotel	N	1	
+3	no	no	D	1	
+4	colapsa	colapsa	N	1	
+5	siempre	siempre	G	1	
+6	tenes	tenes	N	1	
+7	un	un	G	1	
+8	excelente	excelente	N	1	
+9	servicio	servicio	N	1	
+10	.	.	O	1	
+
+1	Me	me	Q	1	
+2	encanto	encanto	V	1	
+3	todo	todo	N	1	
+4	!	!	O	1	
+
+1	El	El	R	1	
+2	lugar	lugar	N	1	
+3	es	es	V	1	
+4	increíble	increíble	G	1	
+5	y	y	G	1	
+6	los	los	N	1	
+7	cuartos	cuartos	N	1	
+8	muy	muy	G	1	
+9	cómodos	cómodos	N	1	
+10	.	.	O	1	
+

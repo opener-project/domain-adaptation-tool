@@ -1,0 +1,91 @@
+1	A	A	P	1	
+2	recommander	recommander	V	1	
+
+1	Quand	Quand	C	1	
+2	on	on	Q	1	
+3	revient	revenir	V	1	
+4	une	un	D	1	
+5	seconde	second	G	1	
+6	fois	foi	N	1	
+7	dans	dans	P	1	
+8	un	un	D	1	
+9	club	club	N	1	
+10	dont	dont	P	1	
+11	on	on	Q	1	
+12	garde	garder	V	1	
+13	un	un	D	1	
+14	très	très	N	1	
+15	bon	bon	G	1	
+16	souvenir	souvenir	N	1	
+17	(	(	O	1	
+18	nous	lui	Q	1	
+19	y	y	Q	1	
+20	avions	avoir	V	1	
+21	séjourné	séjourné	G	1	
+22	en	en	P	1	
+23	2010	2010	N	1	ne=Date
+24	)	)	O	1	
+25	,	,	O	1	
+26	on	on	Q	1	
+27	craint	craindre	V	1	
+28	parfois	parfois	G	1	
+29	d'	d'	P	1	
+30	être	être	V	1	
+31	déçu	décevoir	V	1	
+32	.	.	O	1	
+
+1	Eh	Eh	O	1	
+2	bien	bien	G	1	
+3	non	non	G	1	
+4	!!	!!	V	1	
+
+1	Accueil	accueil	N	1	
+2	exceptionnel	exceptionnel	G	1	
+3	,	,	O	1	
+4	gentillesse	gentillesse	G	1	
+5	,	,	O	1	
+6	propreté	propreté	N	1	
+7	.....	.....	O	1	
+8	encore	encore	G	1	
+9	mieux	mieux	G	1	
+10	.	.	O	1	
+
+1	En	En	P	1	
+2	plus	plus	G	1	
+3	,	,	O	1	
+4	une	un	D	1	
+5	météo	météo	N	1	
+6	excellente	excellent	G	1	
+7	.	.	O	1	
+
+1	Et	Et	C	1	
+2	l'	le	D	1	
+3	équipe	équipe	N	1	
+4	d'	d'	P	1	
+5	animateurs	animateur	N	1	
+6	:	:	O	1	
+7	super	super	V	1	
+8	sympa	sympa	N	1	
+9	et	et	C	1	
+10	attentionnée	attentionnée	N	1	
+11	.	.	O	1	
+
+1	Autant	Autant	G	1	
+2	pour	pour	P	1	
+3	l'	le	D	1	
+4	équipe	équipe	N	1	
+5	du	du	P	1	
+6	restaurant	restaurant	N	1	
+7	et	et	C	1	
+8	du	du	D	1	
+9	bar	bar	N	1	
+10	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	sommes	sommer	V	1	
+3	impatients	impatient	G	1	
+4	d'	d'	P	1	
+5	y	y	Q	1	
+6	revenir	revenir	V	1	
+7	.	.	O	1	
+

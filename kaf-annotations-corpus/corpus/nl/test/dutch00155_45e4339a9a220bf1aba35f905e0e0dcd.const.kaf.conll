@@ -1,0 +1,54 @@
+1	Mening	mening	N	1	
+2	de_heer_Steens	de_heer_Steens	O	1	ne=Person
+
+1	Zeer	zeer	G	1	
+2	goed	goed	N	1	
+3	bevallen	bevallen	V	1	
+4	en	en	C	1	
+5	aan	aan	A	1	
+6	te	te	O	1	
+7	bevelen	bevelen	V	1	
+8	.	.	O	1	
+
+1	Ik	ik	Q	1	
+2	heb	hebben	V	1	
+3	het	het	Q	1	
+4	gebruikt	gebruiken	V	1	
+5	voor	voor	P	1	
+6	een	een	D	1	
+7	zakenreis	zakenreis	N	1	
+8	naar	naar	P	1	
+9	Hannover	Hannover	O	1	
+10	.	.	O	1	
+
+1	Dit	dit	D	1	
+2	hotel	hotel	N	1	
+3	ligt	liggen	V	1	
+4	direct	direct	G	1	
+5	aan	aan	P	1	
+6	de	de	D	1	
+7	weg	weg	N	1	
+8	en	en	C	1	
+9	is	zijn	V	1	
+10	mij	mij	Q	1	
+11	prima	prima	G	1	
+12	bevallen	bevallen	V	1	
+13	.	.	O	1	
+
+1	Ik	ik	Q	1	
+2	kan	kunnen	V	1	
+3	het	het	Q	1	
+4	een	een	D	1	
+5	ieder	ieder	D	1	
+6	dan	dan	A	1	
+7	ook	ook	A	1	
+8	aanraden	aanraden	V	1	
+9	.	.	O	1	
+
+1	Ook	ook	A	1	
+2	het	het	D	1	
+3	eten	eten	N	1	
+4	was	wezen|zijn	V	1	
+5	prima	prima	G	1	
+6	!	!	O	1	
+

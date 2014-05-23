@@ -1,0 +1,41 @@
+1	La	le	D	1	
+2	vallée_des_tortues_à_Sorède	vallée_des_tortue_à_Sorède	N	1	ne=Attraction
+
+1	Le	le	D	1	
+2	mieux	mieux	N	1	
+3	:	:	O	1	
+4	arriver	arriver	V	1	
+5	à	à	P	1	
+6	l'	le	D	1	
+7	ouverture	ouverture	N	1	
+8	,	,	O	1	
+9	il	il	Q	1	
+10	n'	n'	G	1	
+11	y	y	Q	1	
+12	a	avoir	V	1	
+13	personne	personne	P	1	
+14	,	,	O	1	
+15	il	il	Q	1	
+16	ne	ne	G	1	
+17	fait	faire	V	1	
+18	pas	pas	G	1	
+19	trop	trop	G	1	
+20	chaud	chaud	G	1	
+21	et	et	C	1	
+22	les	le	D	1	
+23	tortues	tortue	N	1	
+24	sont	être	V	1	
+25	bien	bien	G	1	
+26	visibles	visible	G	1	
+27	car	car	C	1	
+28	après	après	P	1	
+29	,	,	O	1	
+30	avec	avec	P	1	
+31	la	le	D	1	
+32	chaleur	chaleur	N	1	
+33	,	,	O	1	
+34	elles	lui	Q	1	
+35	se	se	Q	1	
+36	cachent	cacher	V	1	
+37	!	!	O	1	
+

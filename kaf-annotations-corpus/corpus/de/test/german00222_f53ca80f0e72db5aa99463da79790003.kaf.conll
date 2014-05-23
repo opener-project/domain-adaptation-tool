@@ -1,0 +1,102 @@
+1	Für	für	P	1	
+2	Städtereisen	Städtereise	N	1	
+3	empfehlenswert	empfehlenswert	G	1	
+
+1	Alle	alle	Q	1	
+2	Nationalitäten	Nationalität	N	1	
+3	,	,	O	1	
+4	vorwiegend	vorwiegend	G	1	
+5	aber	aber	C	1	
+6	deutsch	deutsch	G	1	
+7	,	,	O	1	
+8	italienisch	italienisch	G	1	
+9	und	und	C	1	
+10	englisch	englisch	G	1	
+11	.	.	O	1	
+
+1	Lift	Lift	N	1	
+2	sehr	sehr	A	1	
+3	,	,	O	1	
+4	sehr	sehr	A	1	
+5	klein.Max.3	klein.max.3	G	1	
+6	Pers.	Pers.	O	1	
+7	mit	mit	P	1	
+8	Gepäck	Gepäck	N	1	
+9	grade	Grad	N	1	
+10	mal	mal	A	1	
+11	2.	2.	O	1	
+12	Keine	keine	Q	1	
+13	Möglichkeit	Möglichkeit	N	1	
+14	zum	zu	P	1	
+15	draußen	draußen	A	1	
+16	sitzen	sitzen	V	1	
+17	.	.	O	1	
+
+1	Kein	keine	Q	1	
+2	Restaurant	Restaurant	N	1	
+3	.	.	O	1	
+
+1	Fernsehen	Fernsehen	N	1	
+2	nur	nur	A	1	
+3	italienisch	italienisch	G	1	
+4	!	!	O	1	
+5	!	!	O	1	
+6	Personal	Personal	N	1	
+7	sehr	sehr	A	1	
+8	freundlich	freundlich	G	1	
+9	.	.	O	1	
+
+1	WLAN	WLAN	O	1	
+2	im	in	P	1	
+3	Zimmer	Zimmer	N	1	
+4	geht	gehen	V	1	
+5	sehr	sehr	A	1	
+6	gut	gut	G	1	
+7	(	(	O	1	
+8	Coupon	Coupon	N	1	
+9	an	an	P	1	
+10	der	die	D	1	
+11	Rezeption	Rezeption	N	1	
+12	für	für	P	1	
+13	72	72	O	1	
+14	Stunden	Stunde|Stunden	N	1	
+15	)	)	O	1	
+16	.	.	O	1	
+
+1	Dt	Dt	O	1	
+2	.	.	O	1	
+
+1	Zeitung	Zeitung	N	1	
+2	(	(	O	1	
+3	Süddeutsche	Süddeutsche	N	1	
+4	)	)	O	1	
+5	im	in	P	1	
+6	Empfangsbereich	Empfangsbereich	N	1	
+7	.	.	O	1	
+
+1	Wunderschöner	wunderschön	G	1	
+2	Blick	Blick	N	1	
+3	zum	zu	P	1	
+4	Petersdom	Petersdom	N	1	
+5	aus	aus	P	1	
+6	dem	die	D	1	
+7	Frühstückszimmer	Frühstückszimmer	N	1	
+8	.	.	O	1	
+
+1	Bus	Bus	N	1	
+2	·	·	O	1	
+3	und	und	C	1	
+4	Metrokarten	Metrokarten	O	1	
+5	an	an	P	1	
+6	der	die	D	1	
+7	Rezeption	Rezeption	N	1	
+8	zu	zu	O	1	
+9	kaufen	kaufen	V	1	
+10	,	,	O	1	
+11	ebenso	ebenso	A	1	
+12	den	die	D	1	
+13	Roma	Roma	R	1	
+14	·	·	O	1	
+15	Paß	Pass	N	1	
+16	.	.	O	1	
+

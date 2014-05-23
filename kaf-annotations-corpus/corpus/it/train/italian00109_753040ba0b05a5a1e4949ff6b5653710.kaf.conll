@@ -1,0 +1,82 @@
+1	Necessita	necessita	G	1	
+2	di	di	P	1	
+3	un	uno	D	1	
+4	restiling	restiling	N	1	
+
+1	L'	lo	D	1	
+2	albergo	albergo	N	1	
+3	si	si	Q	1	
+4	trova	trovare	V	1	
+5	in	in	P	1	
+6	via_Vittorio_Veneto	via_vittorio_veneto	R	1	ne=Location
+7	,	,	O	1	
+8	via	via	N	1	
+9	storica	storico	G	1	
+10	di	di	P	1	
+11	Roma	roma	R	1	ne=Location
+12	per	per	P	1	
+13	la	lo	D	1	
+14	"	&quot;	O	1	
+15	Dolce	dolce	G	1	
+16	Vita	vita	N	1	
+17	"	&quot;	O	1	
+18	romana	romano	G	1	
+19	.	.	O	1	
+
+1	L'	lo	D	1	
+2	ubicazione	ubicazione	N	1	
+3	è	è	R	1	
+4	ottima	ottimo	G	1	
+5	per	per	P	1	
+6	visitare	visitare	V	1	
+7	Roma	roma	R	1	ne=Location
+8	a	a	P	1	
+9	pierdi	pierdi	N	1	
+10	(	(	O	1	
+11	ed	ed	Q	1	
+12	è	è	R	1	
+13	vicinissimo	vicinissimo	G	1	
+14	alla	alla	P	1	
+15	metropolitana	metropolitana	N	1	
+16	)	)	O	1	
+17	.	.	O	1	
+
+1	Peccato	peccato	N	1	
+2	per	per	P	1	
+3	l'	lo	D	1	
+4	hotel	hotel	N	1	
+5	che	che	Q	1	
+6	è	essere	V	1	
+7	un	uno	D	1	
+8	po'	po'	A	1	
+9	old	old	G	1	
+10	fashion	fashion	N	1	
+11	,	,	O	1	
+12	cioè	cioè	Q	1	
+13	presenta	presentare	V	1	
+14	uno	uno	D	1	
+15	stile	stile	N	1	
+16	antico	antico	G	1	
+17	ma	ma	Q	1	
+18	purtroppo	purtroppo	A	1	
+19	un	uno	D	1	
+20	po'	po'	A	1	
+21	troppo	troppo	A	1	
+22	usurato	usurare	V	1	
+23	.	.	O	1	
+
+1	Necessita	necessita	G	1	
+2	decisamente	decisamente	A	1	
+3	di	di	P	1	
+4	un	uno	D	1	
+5	restyling	restyling	N	1	
+6	,	,	O	1	
+7	anche	anche	Q	1	
+8	perché	perche'	N	1	
+9	i	lo	D	1	
+10	prezzi	prezzo	N	1	
+11	applicati	applicare	V	1	
+12	lo	lo	Q	1	
+13	richiederebbero	richiedere	V	1	
+14	.	.	O	1	
+

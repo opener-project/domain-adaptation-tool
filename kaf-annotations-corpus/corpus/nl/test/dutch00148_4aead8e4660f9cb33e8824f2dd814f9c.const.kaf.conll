@@ -1,0 +1,63 @@
+1	In	in	P	1	
+2	Masai_Mara_national_park	Masai_Mara_national_park	N	1	ne=Location
+
+1	Geweldige	geweldig	G	1	
+2	lodge	lodge	O	1	
+3	in	in	P	1	
+4	Masai_Mara	Masai_Mara	O	1	ne=Location
+5	.	.	O	1	
+
+1	Ligt	liggen	V	1	
+2	aan	aan	P	1	
+3	een	een	D	1	
+4	rivier	rivier	N	1	
+5	waar	waar	Q	1	
+6	je	je	Q	1	
+7	,	,	O	1	
+8	vanuit	vanuit	P	1	
+9	het	het	D	1	
+10	restaurant	restaurant	N	1	
+11	of	of	C	1	
+12	bar	bar	N	1	
+13	,	,	O	1	
+14	de	de	D	1	
+15	dieren	dier	N	1	
+16	kan	kunnen	V	1	
+17	observeren	observeren	V	1	
+18	.	.	O	1	
+
+1	De	de	D	1	
+2	kamers	kamer	N	1	
+3	kijken	kijken	V	1	
+4	ook	ook	A	1	
+5	uit	uit	A	1	
+6	op	op	P	1	
+7	deze	deze	D	1	
+8	rivier	rivier	N	1	
+9	.	.	O	1	
+
+1	Het	het	D	1	
+2	eten	eten	N	1	
+3	is	zijn	V	1	
+4	erg	erg	A	1	
+5	lekker	lek|lekker	G	1	
+6	en	en	C	1	
+7	hygiene	hygiene	O	1	
+8	in	in	P	1	
+9	kamer	kamer	N	1	
+10	en	en	C	1	
+11	badkamer	badkamer	N	1	
+12	zijn	zijn	V	1	
+13	geen	geen	D	1	
+14	probleem	probleem	N	1	
+15	.	.	O	1	
+
+1	Een	een	D	1	
+2	geweldige	geweldig	G	1	
+3	ervaring	ervaring	N	1	
+4	om	om	C	1	
+5	hier	hier	A	1	
+6	te	te	O	1	
+7	verblijven	verblijven	V	1	
+8	.	.	O	1	
+

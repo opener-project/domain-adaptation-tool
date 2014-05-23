@@ -1,0 +1,144 @@
+1	Agréable	agréable	G	1	
+2	séjour	séjour	N	1	
+
+1	Camping	camping	N	1	
+2	agréable	agréable	G	1	
+3	,	,	O	1	
+4	personnel	personnel	N	1	
+5	accueillant	accueillant	G	1	
+6	et	et	C	1	
+7	disponible	disponible	G	1	
+8	.	.	O	1	
+
+1	Mobile	mobile	N	1	
+2	Home	home	N	1	
+3	fonctionnel	fonctionnel	G	1	
+4	et	et	C	1	
+5	propre.	propre.	G	1	
+6	belle	beau	G	1	
+7	piscine.	piscine.	P	1	
+8	plusieurs	plusieurs	D	1	
+9	bémols	bémol	N	1	
+10	pour	pour	P	1	
+11	la	le	D	1	
+12	surveillance	surveillance	N	1	
+13	de	de	P	1	
+14	la	le	D	1	
+15	piscine	piscine	N	1	
+16	(	(	O	1	
+17	entre	entre	P	1	
+18	midi	midi	N	1	ne=Time
+19	et	et	C	1	
+20	2	2	G	1	ne=Time
+21	,	,	O	1	
+22	maitre	maitre	N	1	
+23	nageur	nageur	G	1	
+24	absent	absent	G	1	
+25	)	)	O	1	
+26	en	en	P	1	
+27	ce	ce	P	1	
+28	qui	qui	P	1	
+29	concerne	concerner	V	1	
+30	la	le	D	1	
+31	restauration	restauration	N	1	
+32	,	,	O	1	
+33	pizzéria	pizzéria	N	1	
+34	chère	cher	G	1	
+35	et	et	C	1	
+36	pizzas	pizza	N	1	
+37	médiocres	médiocre	G	1	
+38	,	,	O	1	
+39	je	je	Q	1	
+40	ne	ne	G	1	
+41	conseille	conseiller	V	1	
+42	pas	pas	G	1	
+43	.	.	O	1	
+
+1	et	et	C	1	
+2	places	place	N	1	
+3	de	de	P	1	
+4	parking	parking	N	1	
+5	insuffisantes	insuffisant	G	1	
+6	,	,	O	1	
+7	je	je	Q	1	
+8	devais	devais	P	1	
+9	me	me	Q	1	
+10	garer	garer	V	1	
+11	la	le	D	1	
+12	plupart	plupart	N	1	
+13	du	du	P	1	
+14	temps	temps	N	1	
+15	sur	sur	P	1	
+16	le	le	D	1	
+17	parking	parking	N	1	
+18	visiteur	visiteur	G	1	
+19	car	car	C	1	
+20	ma	son	D	1	
+21	place	place	N	1	
+22	était	être	V	1	
+23	régulièrement	régulièrement	G	1	
+24	occupée	occuper	V	1	
+25	par	par	P	1	
+26	d'	un	D	1	
+27	autres	autre	G	1	
+28	résidents.	résidents.	N	1	
+29	pourtant	pourtant	G	1	
+30	nous	nous	G	1	
+31	étions	être	V	1	
+32	en	en	P	1	
+33	basse	basse	N	1	
+34	saison	saison	P	1	
+
+1	.A	.A	D	1	
+2	part	part	N	1	
+3	ça	ça	P	1	
+4	:	:	O	1	
+5	·	·	G	1	
+6	)	)	O	1	
+7	Nous	lui	Q	1	
+8	avons	avoir	V	1	
+9	passé	passer	V	1	
+10	un	un	D	1	
+11	très	très	G	1	
+12	bon	bon	G	1	
+13	séjour	séjour	N	1	
+14	!	!	O	1	
+15	!	!	O	1	
+16	!	!	O	1	
+
+1	Nous	lui	Q	1	
+2	avons	avoir	V	1	
+3	aimé	aimer	V	1	
+4	ce	ce	D	1	
+5	camping.	camping.	N	1	
+6	qui	qui	P	1	
+7	est	être	V	1	
+8	très	très	G	1	
+9	bien	bien	G	1	
+10	placé	placer	V	1	
+11	car	car	C	1	
+12	à	à	P	1	
+13	5	5	D	1	
+14	mn	minute	N	1	
+15	de	de	P	1	
+16	voiture	voiture	N	1	
+17	de	de	P	1	
+18	la	le	D	1	
+19	Ciotat	Ciotat	N	1	ne=Location
+20	et	et	C	1	
+21	idem	idem	G	1	
+22	des	des	P	1	
+23	Lecques	Lecques	D	1	ne=Location
+24	.	.	O	1	
+
+1	Plage	plage	N	1	
+2	du	du	D	1	
+3	Liouquet	Liouquet	N	1	ne=Location
+4	accessible	accessible	G	1	
+5	à	à	P	1	
+6	pieds	pied	N	1	
+7	.	.	O	1	
+
+1	Nous	lui	Q	1	
+2	reviendrons	revenir	V	1	
+

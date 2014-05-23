@@ -1,0 +1,56 @@
+1	Goede	goed	G	1	
+2	ligging	ligging	N	1	
+3	in	in	P	1	
+4	Monschau	Monschau	O	1	ne=Location
+
+1	Het	het	D	1	
+2	Carathotel	Carathotel	O	1	ne=Hotel
+3	is	zijn	V	1	
+4	het	het	D	1	
+5	beste	goed	G	1	
+6	hotel	hotel	N	1	
+7	wat	wat	Q	1	
+8	er	er	Q	1	
+9	in	in	P	1	
+10	Monschau	Monschau	O	1	ne=Location
+11	te	te	O	1	
+12	boeken	boeken	V	1	
+13	is	zijn	V	1	
+14	.	.	O	1	
+
+1	Dit	dit	Q	1	
+2	wil	willen	V	1	
+3	niet	niet	A	1	
+4	zeggen	zeggen	V	1	
+5	dat	dat	C	1	
+6	het	het	Q	1	
+7	helemaal	helemaal	A	1	
+8	top	top	N	1	
+9	is	zijn	V	1	
+10	maar	maar	C	1	
+11	het	het	Q	1	
+12	is	zijn	V	1	
+13	een	een	D	1	
+14	prima	prima	G	1	
+15	hotel	hotel	N	1	
+16	om	om	P	1	
+17	een	een	D	1	
+18	paar	paar	G	1	
+19	dagen	dag	N	1	
+20	te	te	O	1	
+21	verblijven	verblijven	V	1	
+22	.	.	O	1	
+
+1	Vanuit	vanuit	P	1	
+2	het	het	D	1	
+3	hotel	hotel	N	1	
+4	loop	loop	N	1	
+5	je	je	Q	1	
+6	direct	direct	G	1	
+7	de	de	D	1	
+8	oude	oud	G	1	
+9	stad	stad	N	1	
+10	Monschau	Monschau	O	1	ne=Location
+11	in	in	P	1	
+12	.	.	O	1	
+

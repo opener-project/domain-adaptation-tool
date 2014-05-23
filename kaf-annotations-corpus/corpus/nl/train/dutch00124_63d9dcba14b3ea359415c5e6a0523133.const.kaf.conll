@@ -1,0 +1,150 @@
+1	Geen	geen	D	1	
+2	aanrader	aanrader	N	1	
+3	qua	qua	P	1	
+4	locatie	locatie	N	1	
+5	en	en	C	1	
+6	eten	eten	N	1	
+
+1	Hotel	hotel	N	1	
+2	,	,	O	1	
+3	kamers	kamer	N	1	
+4	,	,	O	1	
+5	zwembaden	zwembad	N	1	
+6	strand	strand	N	1	
+7	waren	wezen|zijn	V	1	
+8	prima	prima	G	1	
+9	.	.	O	1	
+
+1	Wel	wel	A	1	
+2	rennen	rennen	V	1	
+3	voor	voor	P	1	
+4	een	een	D	1	
+5	plekje	plekje	O	1	
+6	,	,	O	1	
+7	maar	maar	C	1	
+8	wel	wel	A	1	
+9	leuk	leuk	G	1	
+10	.	.	O	1	
+
+1	Zwembadwater	Zwembadwater	O	1	
+2	niet	niet	A	1	
+3	echt	echt	A	1	
+4	schoon	schoon	G	1	
+5	.	.	O	1	
+
+1	Het	het	D	1	
+2	eten	eten	N	1	
+3	is	zijn	V	1	
+4	in	in	P	1	
+5	één	één	D	1	
+6	woord	woord	N	1	
+7	WAARDELOOS	waardeloos	G	1	
+8	!	!	O	1	
+9	!	!	O	1	
+10	!	!	O	1	
+11	!	!	O	1	
+12	!	!	O	1	
+
+1	Het	het	D	1	
+2	beloofde	beloven	V	1	
+3	kinderbuffet	kinderbuffet	O	1	
+4	en	en	C	1	
+5	ijsbuffet	ijsbuffet	O	1	
+6	hadden	hebben	V	1	
+7	ze	ze	Q	1	
+8	nog	nog	A	1	
+9	nooit	nooit	A	1	
+10	van	van	P	1	
+11	gehoord	horen	V	1	
+12	.	.	O	1	
+
+1	Doordat	doordat	C	1	
+2	het	het	D	1	
+3	eten	eten	N	1	
+4	niet	niet	A	1	
+5	goed	goed	G	1	
+6	gekoeld	koelen	V	1	
+7	was	wezen|zijn	V	1	
+8	en	en	C	1	
+9	misschien	misschien	A	1	
+10	ook	ook	A	1	
+11	niet	niet	A	1	
+12	vers	vers	G	1	
+13	,	,	O	1	
+14	stonk	stinken	V	1	
+15	het	het	Q	1	
+16	vaak	vaak	A	1	
+17	gewoon	gewoon	G	1	
+18	naast	naast	P	1	
+19	de	de	D	1	
+20	salade	salade	N	1	
+21	bars	bar	N	1	
+22	.	.	O	1	
+
+1	De	de	D	1	
+2	gekookte	koken	V	1	
+3	eieren	ei	N	1	
+4	waren	wezen|zijn	V	1	
+5	ontzettend	ontzettend	A	1	
+6	zout	zout	G	1	
+7	en	en	C	1	
+8	zo	zo	A	1	
+9	ook	ook	A	1	
+10	de	de	D	1	
+11	augurken	augurk	N	1	
+12	.	.	O	1	
+
+1	Wel	wel	A	1	
+2	lekker	lek|lekker	G	1	
+3	vers	vers	G	1	
+4	brood	brood	N	1	
+5	en	en	C	1	
+6	fruit	fruit	N	1	
+7	.	.	O	1	
+
+1	Laatste	laat	G	1	
+2	hotel	hotel	N	1	
+3	van	van	P	1	
+4	Kusadasi	Kusadasi	O	1	ne=Location
+5	,	,	O	1	
+6	dus	dus	A	1	
+7	heel	heel	A	1	
+8	erg	erg	A	1	
+9	ver	ver	G	1	
+10	van	van	P	1	
+11	het	het	D	1	
+12	centrum	centrum	N	1	
+13	.	.	O	1	
+
+1	15	@card@	O	1	
+2	min.	min	N	1	
+3	min.	.	O	1	
+4	met	met	P	1	
+5	de	de	D	1	
+6	dolmus	dolmus	O	1	
+7	.	.	O	1	
+
+1	Buiten	buiten	P	1	
+2	het	het	D	1	
+3	terrein	terrein	N	1	
+4	helemaal	helemaal	A	1	
+5	NIETS	NIETS	O	1	
+6	,	,	O	1	
+7	middle	middle	O	1	
+8	of	of	C	1	
+9	nowhere	nowhere	O	1	
+10	.	.	O	1	
+
+1	Personeel	personeel	N	1	
+2	op	op	P	1	
+3	zich	zich	Q	1	
+4	ok	ok	O	1	
+5	,	,	O	1	
+6	kamers	kamer	N	1	
+7	redelijk	redelijk	G	1	
+8	schoon	schoon	G	1	
+9	en	en	C	1	
+10	goed	goed	G	1	
+11	verzorgd	verzorgen	V	1	
+12	.	.	O	1	
+

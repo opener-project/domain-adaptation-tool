@@ -1,0 +1,84 @@
+1	Noisy	Noisy	R	1	
+2	,	,	O	1	
+3	very	very	A	1	
+4	poor	poor	G	1	
+5	room	room	N	1	
+6	insulation	insulation	N	1	
+
+1	This	this	D	1	
+2	is	be	V	1	
+3	my	my	Q	1	
+4	personal	personal	G	1	
+5	experience	experience	N	1	
+6	·	·	A	1	
+7	having	have	V	1	
+8	spent	spend	V	1	
+9	some	some	D	1	
+10	days	day	N	1	
+11	here	here	A	1	
+12	but	but	C	1	
+13	haven	haven	A	1	
+14	't	't	A	1	
+15	got	get	V	1	
+16	much	much	G	1	
+17	sleep	sleep	N	1	
+18	because	because	P	1	
+19	of	of	P	1	
+20	the	the	D	1	
+21	noise	noise	N	1	
+22	.	.	O	1	
+
+1	There	there	O	1	
+2	is	be	V	1	
+3	no	no	D	1	
+4	carpet	carpet	N	1	
+5	in	in	P	1	
+6	the	the	D	1	
+7	hotel	hotel	N	1	
+8	,	,	O	1	
+9	instead	instead	A	1	
+10	,	,	O	1	
+11	there	there	O	1	
+12	is	be	V	1	
+13	wooden	wooden	G	1	
+14	floor	floor	N	1	
+15	which	which	O	1	
+16	spreads	spread	V	1	
+17	and	and	C	1	
+18	maximizes	maximize	V	1	
+19	the	the	D	1	
+20	noise	noise	N	1	
+21	from	from	P	1	
+22	the	the	D	1	
+23	corridor	corridor	N	1	
+24	and	and	C	1	
+25	other	other	G	1	
+26	rooms	room	N	1	
+27	.	.	O	1	
+
+1	Usually	usually	A	1	
+2	,	,	O	1	
+3	you	you	Q	1	
+4	hear	hear	V	1	
+5	the	the	D	1	
+6	noise	noise	N	1	
+7	even	even	A	1	
+8	until	until	P	1	
+9	3am	3am	O	1	ne=Time
+10	or	or	C	1	
+11	4_am	4_am	G	1	ne=Time
+12	....	....	O	1	
+
+1	For	for	P	1	
+2	me	me	Q	1	
+3	,	,	O	1	
+4	this	this	D	1	
+5	experience	experience	N	1	
+6	is	be	V	1	
+7	worse	bad	G	1	
+8	than	than	P	1	
+9	any	any	D	1	
+10	hostel	hostel	N	1	
+11	before	before	A	1	
+12	.	.	O	1	
+

@@ -8,6 +8,11 @@ import ixa.kaflib.WF;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -26,6 +31,20 @@ import java.util.List;
  */
 public class Main {
 	
+	private File inputDir  = null;
+	private File outputDir = null;
+	
+	private static final String KAF_EXT   = ".kaf";
+	private static final String CONLL_EXT = ".conll";
+	
+	private static class KAFFilter implements FilenameFilter {
+		
+		@Override
+		public boolean accept(File arg0, String arg1) {
+			return arg1.endsWith(KAF_EXT);
+		}
+	}
+	
 	private static enum ExitStatus {
 		SUCCESS(0), ERROR(-1);
 		int value;
@@ -41,16 +60,57 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Main prog = new Main();
-		prog.execute(args, System.in, System.out);	
+		try {
+			prog.execute(args);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}	
+	}
+	
+	/**
+	 * Processes application and executes
+	 * @param args		application arguments
+	 * @throws FileNotFoundException 
+	 */
+	private void execute(String[] args) throws FileNotFoundException {
+		checkArguments(args);
+		if (this.inputDir != null && this.outputDir != null) {
+			execute(this.inputDir, this.outputDir);
+		}
+		else {
+			execute(System.in, System.out);
+		}
+	}
+	
+	/**
+	 * Processes KAF files at input directory and puts output CONLL files
+	 * at output directory.
+	 * @param inputDir		KAF files input directory
+	 * @param outputDir		CONLL files output directory
+	 * @throws FileNotFoundException 
+	 */
+	public void execute(File inputDir, File outputDir) throws FileNotFoundException {
+		for (File file : inputDir.listFiles(new KAFFilter())) {
+			File outFile = getOutFile(file, outputDir);
+			InputStream inStream   = new FileInputStream(file);
+			OutputStream outStream = new FileOutputStream(outFile);
+			this.execute(inStream, outStream);
+		}
+	}
+	
+	private File getOutFile(File inFile, File outputDir) {
+		String inFilename = inFile.getName();
+		String outFilename = inFilename + CONLL_EXT;
+		String outFile = outputDir.getAbsolutePath()+File.separatorChar+outFilename;
+		return new File(outFile);
 	}
 	
 	/**
 	 * Input KAF file as stream, Output CONLL file.
-	 * @param args		input arguments
+	 * @param inStream		KAF input stream
+	 * @param outStream		CONLL output stream
 	 */
-	public void execute(String[] args, InputStream inStream, OutputStream outStream) {
-		
-		checkArguments(args);
+	public void execute(InputStream inStream, OutputStream outStream) {
 		
 		/**
 		 * Creation of buffers for input/output
@@ -71,22 +131,19 @@ public class Main {
 			//Create list with named entities
 
 			List<Entity> entities = kaf.getEntities();
-
+			
 			//Creation of two hashes for quicky access entities
 			
 			Hashtable<String, Integer> entities_number = new Hashtable<String, Integer>();
 			Hashtable<String, String> entities_type = new Hashtable<String, String>();
 
 			for (Entity entity_var : entities) {
-				
 				List<Span<Term>> entitySpans = entity_var.getSpans();
 				for (Span<Term> sterm : entitySpans) {
 					Term t = sterm.getFirstTarget();				
 					entities_number.put(t.getId(), sterm.size());
 					entities_type.put(t.getId(), entity_var.getType());
-					
 				}
-
 			}
 
 			List<List<WF>> sentences = kaf.getSentences();
@@ -107,22 +164,26 @@ public class Main {
 					String new_term_form = t.getForm();
 					String new_term_lemma = t.getLemma();
 
-					if (entities_number.get(t.getId()) != null) {						
+					if (entities_number.get(t.getId()) != null) {
 						int number = entities_number.get(t.getId());
 						String type = entities_type.get(t.getId());
-						
+
 						if (number > 1) {
 							for (int j = 1; j < number; j++) {
+								// if (i + j < sentenceTerms.size()) {
 								t = sentenceTerms.get(i + j);
 								new_term_form = new_term_form.concat("_")
 										.concat(t.getForm());
 								new_term_lemma = new_term_lemma.concat("_")
 										.concat(t.getLemma());
-
+								// }
+								// else {
+								//
+								// }
 							}
 						}
-						i = i + number;
-						
+						i += number - 1;
+
 						bwriter.write(new_term_form);
 						bwriter.write("\t");
 						bwriter.write(new_term_lemma);
@@ -166,17 +227,81 @@ public class Main {
 	 * @param args		input arguments
 	 */
 	private void checkArguments(String[] args) {
-		for (String arg : args) {
+		boolean error = false;
+		boolean help = false;
+		for (int i=0; i<args.length; i++) {
+			String arg = args[i];
 			if (arg.equalsIgnoreCase("-h") || arg.equalsIgnoreCase("--help")) {
-				printUsage();
-				System.exit(ExitStatus.SUCCESS.value);
+				help = true;
+				break;
+			}
+			else if (arg.equalsIgnoreCase("-id")) {
+				String id = args[++i];
+				this.inputDir = new File(id);
+				if (this.inputDir.exists()) {
+					if (!this.inputDir.isDirectory()) {
+						System.err.println(String.format("input file '%s' is not a directory", id));
+						help = true;
+						error = true;
+						break;
+					}
+				}
+				else {
+					System.err.println(String.format("input file '%s' does not exists", id));
+					help = true;
+					error = true;
+					break;
+				}
+			}
+			else if (arg.equalsIgnoreCase("-od")) {
+				String od = args[++i];
+				this.outputDir = new File(od);
+				if (this.outputDir.exists()) {
+					if (!this.outputDir.isDirectory()) {
+						System.err.println(String.format("output file '%s' is not a directory", od));
+						help = true;
+						error = true;
+						break;
+					}
+				}
+				else {
+					System.err.println(String.format("output file '%s' does not exists", od));
+					help = true;
+					error = true;
+					break;
+				}
 			}
 			else {
 				System.err.println(String.format("unknown argument: %s", arg));
-				printUsage();
-				System.exit(ExitStatus.ERROR.value);
+				help = true;
+				error = true;
+				break;
 			}
 		}
+		
+		if (!help && !error) {
+			if (this.inputDir != null && this.outputDir == null) {
+				System.err.println(String.format("output file required"));
+				help = true;
+				error = true;
+			}
+			else if (this.inputDir == null && this.outputDir != null) {
+				System.err.println(String.format("input file required"));
+				help = true;
+				error = true;
+			}
+		}
+		
+		if (help) {
+			printUsage();
+			if (error) {
+				System.exit(ExitStatus.ERROR.value);
+			}
+			else {
+				System.exit(ExitStatus.SUCCESS.value);
+			}
+		}
+		
 	}
 	
 	/**
@@ -186,9 +311,12 @@ public class Main {
 		System.err.println("Translates KAF format to CONLL format.");
 		System.err.println();
 		System.err.println("USAGE:   java -jar kaf-conll-0.0.1-SNAPSHOT.jar [OPTIONS...]");
-		System.err.println("Reads text from standard input and writes result at standard output.");
+		System.err.println("Without options reads text from standard input and writes result at standard output.");
 		System.err.println();
 		System.err.println("  OPTIONS:");
 		System.err.println("    -h, --help       shows this help");
+		System.err.println("    -id inputDir,    input directory");
+		System.err.println("    -od outputDir,   output directory");
 	}
 }
+

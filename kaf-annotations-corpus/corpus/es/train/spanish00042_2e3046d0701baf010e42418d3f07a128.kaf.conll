@@ -1,0 +1,54 @@
+1	Alojamiento	alojamiento	P	1	
+2	moderno	moderno	G	1	
+3	en	en	P	1	
+4	pleno	pleno	G	1	
+5	centro	centro	N	1	
+6	de	de	O	1	
+7	la	la	O	1	
+8	ciudad	ciudad	O	1	
+
+1	Hotel	Hotel	R	1	
+2	con	con	A	1	
+3	diseño	diseño	G	1	
+4	moderno	moderno	N	1	
+5	,	,	O	1	
+6	muy	muy	G	1	
+7	céntrico	céntrico	N	1	
+8	.	.	O	1	
+
+1	Acostumbrado	Acostumbrado	R	1	
+2	a	a	D	1	
+3	lo	lo	G	1	
+4	clásico	clásico	N	1	
+5	(	(	O	1	
+6	a	a	D	1	
+7	veces	veces	N	1	
+8	reñido	reñido	V	1	
+9	con	con	A	1	
+10	lo	lo	G	1	
+11	viejo	viejo	N	1	
+12	y	y	G	1	
+13	sucio	sucio	N	1	
+14	)	)	O	1	
+15	este	este	N	1	
+16	hotel	hotel	N	1	
+17	es	es	V	1	
+18	correcto	correcto	G	1	
+19	y	y	G	1	
+20	el	el	N	1	
+21	,	,	O	1	
+22	personal	personal	G	1	
+23	atento	atento	N	1	
+24	.	.	O	1	
+
+1	A	a	D	1	
+2	poca	poca	O	1	
+3	distancia	distancia	O	1	
+4	del	del	O	1	
+5	centro	centro	O	1	
+6	a	a	D	1	
+7	pie	pie	N	1	
+8	del	del	O	1	
+9	centro	centro	N	1	
+10	.	.	O	1	
+

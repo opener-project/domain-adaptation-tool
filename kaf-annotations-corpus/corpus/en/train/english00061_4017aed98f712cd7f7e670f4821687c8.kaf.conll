@@ -1,0 +1,88 @@
+1	A	a	D	1	
+2	very	very	A	1	
+3	pleasant	pleasant	G	1	
+4	place	place	N	1	
+
+1	This	this	D	1	
+2	is	be	V	1	
+3	a	a	D	1	
+4	very	very	A	1	
+5	pleasant	pleasant	G	1	
+6	hotel	hotel	N	1	
+7	.	.	O	1	
+
+1	The	the	D	1	
+2	neightborhood	neightborhood	N	1	
+3	is	be	V	1	
+4	nice	nice	G	1	
+5	,	,	O	1	
+6	very	very	A	1	
+7	central	central	G	1	
+8	.	.	O	1	
+
+1	It	it	Q	1	
+2	is	be	V	1	
+3	few	few	G	1	
+4	minutes	minute	N	1	
+5	away	away	A	1	
+6	from	from	P	1	
+7	everything	everything	N	1	
+8	you	you	Q	1	
+9	might	may	O	1	
+10	need	need	V	1	
+11	.	.	O	1	
+
+1	The	the	D	1	
+2	rooms	room	N	1	
+3	are	be	V	1	
+4	big	big	G	1	
+5	and	and	C	1	
+6	very	very	A	1	
+7	clean	clean	G	1	
+8	.	.	O	1	
+
+1	The	the	D	1	
+2	bathroom	bathroom	N	1	
+3	is	be	V	1	
+4	'n	'n	G	1	
+5	extremely	extremely	A	1	
+6	large	large	G	1	
+7	but	but	C	1	
+8	yet	yet	C	1	
+9	comfortable	comfortable	G	1	
+10	and	and	C	1	
+11	clean	clean	G	1	
+12	.	.	O	1	
+
+1	Internet	internet	N	1	
+2	connection	connection	N	1	
+3	is	be	V	1	
+4	free	free	G	1	
+5	and	and	C	1	
+6	high	high	G	1	
+7	speed	speed	N	1	
+8	.	.	O	1	
+
+1	A	a	D	1	
+2	nice	nice	G	1	
+3	table	table	N	1	
+4	to	to	P	1	
+5	work	work	N	1	
+6	in	in	P	1	
+7	your	your	Q	1	
+8	room	room	N	1	
+9	.	.	O	1	
+
+1	Definitively	definitively	A	1	
+2	a	a	D	1	
+3	good	good	G	1	
+4	place	place	N	1	
+5	for	for	P	1	
+6	a	a	D	1	
+7	business	business	N	1	
+8	trip	trip	N	1	
+9	or	or	C	1	
+10	a	a	D	1	
+11	holiday	holiday	N	1	
+12	.	.	O	1	
+

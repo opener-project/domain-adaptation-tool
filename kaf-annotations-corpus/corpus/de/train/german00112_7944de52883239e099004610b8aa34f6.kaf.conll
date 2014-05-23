@@ -1,0 +1,106 @@
+1	Hotel_NH_Numancia	Hotel_NH_Numancia	O	1	ne=Hotel
+
+1	Das	die	D	1	
+2	Hotel	Hotel	N	1	
+3	ist	sein	V	1	
+4	ein	eine	D	1	
+5	modernes	modern	G	1	
+6	Stadthotel	Stadthotel	N	1	
+7	.	.	O	1	
+
+1	Die	die	D	1	
+2	Zimmer	Zimmer	N	1	
+3	liegen	liegen	V	1	
+4	entweder	entweder	C	1	
+5	zur	zu	P	1	
+6	Hauptstraße	Hauptstraße	N	1	
+7	hin	hin	V	1	
+8	oder	oder	C	1	
+9	nach	nach	P	1	
+10	hinten	hinten	A	1	
+11	in	in	P	1	
+12	den	die	D	1	
+13	Hof	Hof	N	1	
+14	zu	zu	P	1	
+15	Balkonen	Balkon	N	1	
+16	und	und	C	1	
+17	Terrassen	Terrasse	N	1	
+18	von	von	P	1	
+19	Privatwohnungen	Privatwohnung	N	1	
+20	.	.	O	1	
+
+1	Das	die	D	1	
+2	gesamte	gesamt	G	1	
+3	Hotel	Hotel	N	1	
+4	ist	sein	V	1	
+5	sehr	sehr	A	1	
+6	sauber	sauber	G	1	
+7	,	,	O	1	
+8	der	die	D	1	
+9	Frühstücksraum	Frühstücksraum	N	1	
+10	modern	modern	G	1	
+11	eingerichtet	einrichten	V	1	
+12	und	und	C	1	
+13	sehr	sehr	A	1	
+14	gepflegt	pflegen	V	1	
+15	.	.	O	1	
+
+1	Wir	wir	Q	1	
+2	hatten	haben	V	1	
+3	Frühstücksbuffet	Frühstücksbuffet	N	1	
+4	.	.	O	1	
+
+1	Von	von	P	1	
+2	Marmelade	Marmelade	N	1	
+3	,	,	O	1	
+4	Honig	Honig	N	1	
+5	,	,	O	1	
+6	Schinken	Schinken	N	1	
+7	,	,	O	1	
+8	Käse	Käse	N	1	
+9	,	,	O	1	
+10	Jogurella	Jogurella	O	1	
+11	,	,	O	1	
+12	Früchte	Frucht	N	1	
+13	uvm.	uvm.	O	1	
+14	wurde	werden	V	1	
+15	alles	alle	Q	1	
+16	angeboten	anbieten	V	1	
+17	und	und	C	1	
+18	schmeckte	schmecken	V	1	
+19	sehr	sehr	A	1	
+20	gut	gut	G	1	
+21	!	!	O	1	
+
+1	Es	es	Q	1	
+2	war	sein	V	1	
+3	ein	eine	D	1	
+4	angenehmes	angenehm	G	1	
+5	,	,	O	1	
+6	ruhiges	ruhig	G	1	
+7	Ambiente	Ambiente	N	1	
+8	(	(	O	1	
+9	leise	leise	G	1	
+10	angenehme	angenehm	G	1	
+11	Hintergrundmusik	Hintergrundmusik	N	1	
+12	,	,	O	1	
+13	keine	keine	Q	1	
+14	Hektik	Hektik	N	1	
+15	)	)	O	1	
+16	.	.	O	1	
+
+1	Die	die	D	1	
+2	Gäste	Gast	N	1	
+3	waren	sein	V	1	
+4	sowohl	sowohl	C	1	
+5	hinsichtlich	hinsichtlich	P	1	
+6	ihres	ihr	Q	1	
+7	Alters	Alter	N	1	
+8	als	als	C	1	
+9	auch	auch	A	1	
+10	der	die	D	1	
+11	Nationalität	Nationalität	N	1	
+12	bunt	bunt	G	1	
+13	gemischt	mischen	V	1	
+14	.	.	O	1	
+

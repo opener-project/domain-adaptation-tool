@@ -1,0 +1,55 @@
+1	Realmente	Realmente	R	1	
+2	excelente	excelente	V	1	
+
+1	Fue	fue	G	1	
+2	una	una	G	1	
+3	estadía	estadía	N	1	
+4	unica	unica	N	1	
+5	en	en	P	1	
+6	un	un	G	1	
+7	lugar	lugar	N	1	
+8	magnifico	magnifico	N	1	
+9	con	con	A	1	
+10	una	una	G	1	
+11	atención	atención	P	1	
+12	escelente	escelente	G	1	
+13	..........	..........	O	1	
+14	!	!	O	1	
+15	!	!	O	1	
+16	!	!	O	1	
+17	!	!	O	1	
+18	!	!	O	1	
+19	!	!	O	1	
+20	!	!	O	1	
+21	!	!	O	1	
+22	!	!	O	1	
+23	!	!	O	1	
+
+1	Voy	Voy	R	1	
+2	a	a	D	1	
+3	regresar	regresar	N	1	
+4	,	,	O	1	
+5	sin	sin	N	1	
+6	duda	duda	N	1	
+7	.	.	O	1	
+
+1	Es	es	N	1	
+2	sumamente	sumamente	V	1	
+3	recomendable	recomendable	G	1	
+4	para	para	N	1	
+5	cualquier	cualquier	A	1	
+6	tipo	tipo	O	1	
+7	de	de	O	1	
+8	origen	origen	O	1	
+9	de	de	O	1	
+10	viaje	viaje	O	1	
+11	(	(	O	1	
+12	negocios	negocios	N	1	
+13	,	,	O	1	
+14	recreación	recreación	N	1	
+15	,	,	O	1	
+16	vacaciones	vacaciones	N	1	
+17	,	,	O	1	
+18	etc	etc	O	1	
+19	)	)	O	1	
+

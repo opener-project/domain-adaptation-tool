@@ -1,0 +1,76 @@
+1	Zakenhotel	Zakenhotel	O	1	
+2	kort	kort	G	1	
+3	bij	bij	P	1	
+4	luchthaven	luchthaven	N	1	ne=POI
+
+1	Zakenhotel	Zakenhotel	O	1	
+2	gelegen	liggen	V	1	
+3	kort	korten	V	1	
+4	bij	bij	P	1	
+5	de_luchthaven_van_Dortmund	de_luchthaven_van_Dortmund	O	1	ne=POI
+6	.	.	O	1	
+
+1	Het	het	Q	1	
+2	kan	kunnen	V	1	
+3	evt	evt	O	1	
+4	ook	ook	A	1	
+5	gebruikt	gebruiken	V	1	
+6	worden	worden	V	1	
+7	als	als	C	1	
+8	hotel	hotel	N	1	
+9	om	om	C	1	
+10	de	de	D	1	
+11	stad	stad	N	1	
+12	te	te	O	1	
+13	bezoeken	bezoeken	V	1	
+14	,	,	O	1	
+15	met	met	P	1	
+16	het	het	D	1	
+17	openbaar	openbaar	G	1	
+18	vervoer	vervoer	N	1	
+19	ben	zijn	V	1	
+20	je	je	Q	1	
+21	in	in	P	1	
+22	ongeveer	ongeveer	A	1	
+23	15	@card@	O	1	
+24	minuten	minuut	N	1	
+25	in	in	P	1	
+26	het	het	D	1	
+27	centrum	centrum	N	1	
+28	van	van	P	1	
+29	de	de	D	1	
+30	stad	stad	N	1	
+31	.	.	O	1	
+
+1	Het	het	D	1	
+2	ontbijt	ontbijt	N	1	
+3	is	zijn	V	1	
+4	inbegrepen	inbegrepen	G	1	
+5	in	in	P	1	
+6	de	de	D	1	
+7	prijs	prijs	N	1	
+8	,	,	O	1	
+9	maar	maar	C	1	
+10	toch	toch	A	1	
+11	voldoende	voldoende	G	1	
+12	uitgebreid	uitbreiden	V	1	
+13	.	.	O	1	
+
+1	De	de	D	1	
+2	bedden	bed	N	1	
+3	zijn	zijn	V	1	
+4	erg	erg	A	1	
+5	comfortabel	comfortabel	G	1	
+6	.	.	O	1	
+
+1	Het	het	D	1	
+2	enige	enig	G	1	
+3	minpuntje	minpuntje	O	1	
+4	was	wezen|zijn	V	1	
+5	de	de	D	1	
+6	moeilijk	moeilijk	G	1	
+7	te	te	O	1	
+8	regelen	regelen	V	1	
+9	douche	douche	N	1	
+10	.	.	O	1	
+

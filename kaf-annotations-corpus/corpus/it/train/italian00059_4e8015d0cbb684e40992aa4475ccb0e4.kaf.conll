@@ -1,0 +1,47 @@
+1	Comodo	comodare	V	1	
+2	per	per	P	1	
+3	aeroporto	aeroporto	N	1	
+
+1	Albergo	albergo	R	1	
+2	senza	senza	P	1	
+3	grosse	grosso	G	1	
+4	pretese	pretesa	N	1	
+5	.	.	O	1	
+
+1	Tutti	tutto	G	1	
+2	i	lo	D	1	
+3	servizi	servizio	N	1	
+4	sono	essere	V	1	
+5	minimi	minimo	G	1	
+6	e	e	Q	1	
+7	lo	lo	D	1	
+8	albergo	albergo	N	1	
+9	è	è	N	1	
+10	da	da	P	1	
+11	scegliere	scegliere	V	1	
+12	solo	solo	A	1	
+13	per	per	P	1	
+14	la	lo	D	1	
+15	grande	grande	G	1	
+16	vicinanza	vicinanza	N	1	
+17	allo	allo	P	1	
+18	aeroporto	aeroporto	N	1	
+19	.	.	O	1	
+
+1	Non	non	A	1	
+2	ci	ci	A	1	
+3	sono	essere	V	1	
+4	ristoranti	ristorare	V	1	
+5	nelle	nelle	P	1	
+6	vicinanze	vicinanza	N	1	
+7	.	.	O	1	
+
+1	Ci	ci	Q	1	
+2	è	è	N	1	
+3	solo	solo	A	1	
+4	un	uno	D	1	
+5	supermarket	supermarket	N	1	
+6	con	con	P	1	
+7	panini	panino	N	1	
+8	pronti	pronto	G	1	
+

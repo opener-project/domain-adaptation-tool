@@ -1,0 +1,159 @@
+1	Für	für	P	1	
+2	einen	eine	D	1	
+3	Kurztrip	Kurztrip	N	1	
+4	ist	sein	V	1	
+5	dieses	dies	Q	1	
+6	Hotel	Hotel	N	1	
+7	ok	ok	O	1	
+
+1	Für	für	P	1	
+2	einen	eine	D	1	
+3	Kurztrip	Kurztrip	N	1	
+4	ist	sein	V	1	
+5	das	die	D	1	
+6	Hotel	Hotel	N	1	
+7	ok	ok	O	1	
+8	gewesen	sein	V	1	
+9	.	.	O	1	
+
+1	Unser	unser	Q	1	
+2	Wochenende	Wochenende	N	1	
+3	bestand	bestehen	V	1	
+4	aus	aus	P	1	
+5	einem	eine	D	1	
+6	Besuch	Besuch	N	1	
+7	in	in	P	1	
+8	Paris	Paris	R	1	ne=Location
+9	und	und	C	1	
+10	im	in	P	1	
+11	Disneyland	Disneyland	R	1	ne=Attraction
+12	.	.	O	1	
+
+1	Dafür	dafür	Q	1	
+2	war	sein	V	1	
+3	die	die	D	1	
+4	Lage	Lage	N	1	
+5	sehr	sehr	A	1	
+6	gut	gut	G	1	
+7	geeignet	eignen	V	1	
+8	.	.	O	1	
+
+1	Der	die	D	1	
+2	Fußweg	Fußweg	N	1	
+3	zur	zu	P	1	
+4	Bahn	Bahn	N	1	
+5	betrug	betragen	V	1	
+6	etwa	etwa	A	1	
+7	10	10	O	1	
+8	Minuten	Minute	N	1	
+9	,	,	O	1	
+10	die	die	D	1	
+11	Fahrt	Fahrt	N	1	
+12	nach	nach	P	1	
+13	Paris	Paris	R	1	ne=Location
+14	dauerte	dauern	V	1	
+15	etwa	etwa	A	1	
+16	45	45	O	1	
+17	Minuten	Minute	N	1	
+18	und	und	C	1	
+19	ins	in	P	1	
+20	Disneyland	Disneyland	R	1	ne=Attraction
+21	etwa	etwa	A	1	
+22	10	10	O	1	
+23	Minuten	Minute	N	1	
+24	,	,	O	1	
+25	jeweils	jeweils	A	1	
+26	ohne	ohne	P	1	
+27	Umsteigen	Umsteigen	N	1	
+28	zu	zu	O	1	
+29	müssen	müssen	V	1	
+30	.	.	O	1	
+
+1	Eigentlich	eigentlich	A	1	
+2	hätte	haben	V	1	
+3	das	die	D	1	
+4	Hotel	Hotel	N	1	
+5	auch	auch	A	1	
+6	eine	eine	D	1	
+7	viel	viele	Q	1	
+8	bessere	gut	G	1	
+9	Bewertung	Bewertung	N	1	
+10	von	von	P	1	
+11	uns	wir	Q	1	
+12	bekommen	bekommen	V	1	
+13	,	,	O	1	
+14	denn	denn	C	1	
+15	der	die	D	1	
+16	1.	1.	O	1	
+17	Eindruck	Eindruck	N	1	
+18	war	sein	V	1	
+19	super	super	G	1	
+20	.	.	O	1	
+
+1	Es	es	Q	1	
+2	sah	sehen	V	1	
+3	alles	alle	Q	1	
+4	neu	neu	G	1	
+5	und	und	C	1	
+6	gepflegt	gepflegt	G	1	
+7	aus	aus	V	1	
+8	.	.	O	1	
+
+1	Beim	bei	P	1	
+2	genaueren	genau	G	1	
+3	hinsehen	hinsehen	V	1	
+4	wurde	werden	V	1	
+5	jedoch	jedoch	A	1	
+6	schnell	schnell	G	1	
+7	deutlich	deutlich	G	1	
+8	,	,	O	1	
+9	dass	dass	C	1	
+10	die	die	D	1	
+11	Putzfrauen	Putzfrau	N	1	
+12	eher	eher	A	1	
+13	oberflächlich	oberflächlich	G	1	
+14	arbeiten	arbeiten	V	1	
+15	.	.	O	1	
+
+1	Darum	darum	Q	1	
+2	die	die	D	1	
+3	schlechte	schlecht	G	1	
+4	Bewertung	Bewertung	N	1	
+5	im	in	P	1	
+6	Bezug	Bezug	N	1	
+7	auf	auf	P	1	
+8	die	die	D	1	
+9	Sauberkeit	Sauberkeit	N	1	
+10	.	.	O	1	
+
+1	Das	die	D	1	
+2	Frühstück	Frühstück	N	1	
+3	war	sein	V	1	
+4	ok	ok	O	1	
+5	.	.	O	1	
+
+1	Die	die	D	1	
+2	Auswahl	Auswahl	N	1	
+3	hätte	haben	V	1	
+4	ruhig	ruhig	G	1	
+5	etwas	etwas	A	1	
+6	größer	groß	G	1	
+7	sein	sein	V	1	
+8	können	können	V	1	
+9	.	.	O	1	
+
+1	Das	die	D	1	
+2	was	was	Q	1	
+3	es	es	Q	1	
+4	gab	geben	V	1	
+5	(	(	O	1	
+6	typisch	typisch	G	1	
+7	französisches	französisch	G	1	
+8	Frühstück	Frühstück	N	1	
+9	)	)	O	1	
+10	war	sein	V	1	
+11	aber	aber	A	1	
+12	sehr	sehr	A	1	
+13	lecker	lecker	G	1	
+14	.	.	O	1	
+

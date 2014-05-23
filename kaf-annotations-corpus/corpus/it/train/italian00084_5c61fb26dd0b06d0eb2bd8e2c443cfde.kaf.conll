@@ -1,0 +1,67 @@
+1	Senza	senza	P	1	
+2	infamia	infamia	N	1	
+3	nè	nè	G	1	
+4	lode	lode	N	1	
+5	.	.	O	1	
+
+1	Albergo	albergo	R	1	
+2	situato	situare	V	1	
+3	in	in	P	1	
+4	buona	buono	G	1	
+5	posizione	posizione	N	1	
+6	nel	nel	P	1	
+7	centro	centro	N	1	
+8	di	di	P	1	
+9	Lucca	lucca	R	1	ne=Location
+10	.	.	O	1	
+
+1	Personale	personale	G	1	
+2	disponibile	disponibile	G	1	
+3	.	.	O	1	
+
+1	Colazione	colazione	N	1	
+2	nella	nella	P	1	
+3	media	medio	G	1	
+4	.	.	O	1	
+
+1	La	lo	D	1	
+2	camera	camera	N	1	
+3	in	in	P	1	
+4	cui	cui	Q	1	
+5	alloggiavamo	alloggiare	V	1	
+6	era	essere	V	1	
+7	vecchia	vecchio	G	1	
+8	e	e	Q	1	
+9	di	di	P	1	
+10	dimensioni	dimensione	N	1	
+11	modeste	modesto	G	1	
+12	.	.	O	1	
+
+1	Vale	valere	V	1	
+2	la	lo	D	1	
+3	pena	pena	N	1	
+4	soggiornarvi	soggiornarvi	V	1	
+5	per	per	P	1	
+6	una	uno	D	1	
+7	o	o	Q	1	
+8	due	due	G	1	
+9	notti	notte	N	1	
+10	al	al	P	1	
+11	massimo	massimo	N	1	
+12	se	se	Q	1	
+13	siete	essere	V	1	
+14	in	in	P	1	
+15	cerca	cercare	V	1	
+16	di	di	P	1	
+17	un	uno	D	1	
+18	ambiente	ambiente	N	1	
+19	senza	senza	P	1	
+20	troppe	troppo	G	1	
+21	pretese	pretesa	N	1	
+22	.	.	O	1	
+
+1	Buono	buono	V	1	
+2	il	lo	D	1	
+3	prezzo	prezzo	N	1	
+4	.	.	O	1	
+

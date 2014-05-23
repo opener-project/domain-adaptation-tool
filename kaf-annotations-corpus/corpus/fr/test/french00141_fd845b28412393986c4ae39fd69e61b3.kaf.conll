@@ -1,0 +1,104 @@
+1	Venez	venir	V	1	
+2	vivre	vivre	V	1	
+3	dans	dans	P	1	
+4	la	le	D	1	
+5	peau	peau	N	1	
+6	d'	d'	P	1	
+7	une	un	D	1	
+8	star	star	N	1	
+9	de	de	P	1	
+10	Cannes	canne	N	1	ne=Location
+
+1	j'	j'	Q	1	
+2	ai	avoir	V	1	
+3	passais	passer	V	1	
+4	un	un	D	1	
+5	séjour	séjour	N	1	
+6	magnifique	magnifique	G	1	
+7	en	en	P	1	
+8	compagnie	compagnie	N	1	
+9	de	de	P	1	
+10	ma	son	D	1	
+11	fiancée	fiancé	N	1	
+12	dans	dans	P	1	
+13	cet	ce	D	1	
+14	hôtel	hôtel	N	1	
+15	.	.	O	1	
+
+1	Très	Très	G	1	
+2	bel	beau	G	1	
+3	établissement	établissement	N	1	
+4	haut	haut	G	1	
+5	de	de	P	1	
+6	gamme	gamme	N	1	
+7	.	.	O	1	
+
+1	Immeuble	Immeuble	V	1	
+2	magnifique	magnifique	N	1	
+3	situé	situer	V	1	
+4	sur	sur	P	1	
+5	la	le	D	1	
+6	croisette	croisette	N	1	ne=POI
+7	,	,	O	1	
+8	face	face	N	1	
+9	à	à	P	1	
+10	la	le	D	1	
+11	mer	mer	N	1	
+12	.	.	O	1	
+
+1	Chambre	chambre	N	1	
+2	lumineuse	lumineuse	N	1	
+3	et	et	C	1	
+4	très	très	G	1	
+5	propre	propre	G	1	
+6	.	.	O	1	
+
+1	Salle	salle	N	1	
+2	de	de	P	1	
+3	bain	bain	N	1	
+4	spacieuse	spacieux	G	1	
+5	avec	avec	P	1	
+6	douche	douche	N	1	
+7	,	,	O	1	
+8	baignoire	baignoire	N	1	
+9	,	,	O	1	
+10	peignoirs	peignoir	N	1	
+11	,	,	O	1	
+12	chaussons	chausson	N	1	
+13	et	et	C	1	
+14	produits	produit	N	1	
+15	de	de	P	1	
+16	soins	soin	N	1	
+17	de	de	P	1	
+18	marque	marque	N	1	
+19	.	.	O	1	
+
+1	Petits	petit	G	1	
+2	déjeuners	déjeuners	P	1	
+3	somptueux	somptueux	G	1	
+4	et	et	C	1	
+5	de	de	P	1	
+6	qualité	qualité	N	1	
+7	.	.	O	1	
+
+1	Personnel	personnel	N	1	
+2	discret	discret	G	1	
+3	et	et	C	1	
+4	très	très	G	1	
+5	efficace	efficace	G	1	
+6	.	.	O	1	
+
+1	Très	Très	G	1	
+2	bon	bon	G	1	
+3	accueil	accueil	N	1	
+4	.	.	O	1	
+
+1	Belle	beau	N	1	
+2	piscine	piscine	V	1	
+3	avec	avec	P	1	
+4	solarium	solarium	N	1	
+5	ou	ou	C	1	
+6	plage	plage	N	1	
+7	privée	priver	G	1	
+8	.	.	O	1	
+

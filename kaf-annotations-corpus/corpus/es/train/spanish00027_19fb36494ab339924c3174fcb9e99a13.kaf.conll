@@ -1,0 +1,48 @@
+1	Estancia	Estancia	R	1	
+2	corta	corta	N	1	
+3	.	.	O	1	
+
+1	Ibamos	Ibamos	R	1	
+2	al	al	G	1	
+3	Musical	musical	G	1	
+4	del	del	N	1	
+5	Rey	Rey	R	1	
+6	Leon	Leon	R	1	
+7	,	,	O	1	
+8	el	el	N	1	
+9	teatro	teatro	O	1	
+10	esta	esta	N	1	
+11	enfrente	enfrente	V	1	
+12	del	del	G	1	
+13	hotel	hotel	N	1	
+14	.	.	O	1	
+
+1	Buena	Buena	R	1	
+2	situacion	situacion	N	1	
+3	.	.	O	1	
+
+1	Personal	personal	G	1	
+2	agradable	agradable	G	1	
+3	.	.	O	1	
+
+1	Habitaciones	habitaciones	N	1	
+2	amplias	amplias	P	1	
+3	y	y	G	1	
+4	bien	bien	G	1	
+5	insonorizadas.	insonorizadas.	G	1	
+6	el	el	N	1	
+7	desayuno	desayuno	O	1	
+8	bien	bien	O	1	
+9	surtido	surtido	O	1	
+10	,	,	O	1	
+11	aunque	aunque	G	1	
+12	el	el	N	1	
+13	lugar	lugar	N	1	
+14	donde	donde	O	1	
+15	se	se	O	1	
+16	sirve	sirve	O	1	
+17	es	es	O	1	
+18	poco	poco	O	1	
+19	amplio	amplio	O	1	
+20	.	.	O	1	
+

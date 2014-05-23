@@ -1,0 +1,92 @@
+1	Bonne	bon	G	1	
+2	adresse	adresse	N	1	
+
+1	c'	c'	Q	1	
+2	est	être	V	1	
+3	un	un	D	1	
+4	hotel	hotel	N	1	
+5	qui	qui	P	1	
+6	est	être	V	1	
+7	fait	faire	V	1	
+8	pour	pour	P	1	
+9	des	un	D	1	
+10	séjours	séjour	N	1	
+11	entre	entre	P	1	
+12	amis	ami	N	1	
+13	ou	ou	C	1	
+14	couple	couple	N	1	
+15	sans	sans]	P	1	
+16	enfants	enfant	N	1	
+
+1	car	car	C	1	
+2	ils	ils	Q	1	
+3	ne	ne	G	1	
+4	sont	être	V	1	
+5	pas	pas	G	1	
+6	accepté	accepter	V	1	
+7	.	.	O	1	
+
+1	situé	situer	V	1	
+2	juste	juste	G	1	
+3	au	au	P	1	
+4	dessus	dessus	P	1	
+5	d	d	N	1	
+6	"	&quot;	O	1	
+7	'	'	P	1	
+8	un	un	D	1	
+9	cofee	cofee	N	1	
+10	shop	shop	G	1	
+11	et	et	C	1	
+12	à	à	P	1	
+13	proximité	proximité	N	1	
+14	de	de	P	1	
+15	toutes	tout	G	1	
+16	les	le	D	1	
+17	attractions	attraction	N	1	
+18	d'	d'	P	1	
+19	amsterdam	amsterdam	N	1	ne=Location
+20	.	.	O	1	
+
+1	de	de	P	1	
+2	plus	plus	G	1	
+3	il	il	Q	1	
+4	est	être	V	1	
+5	trés	trés	G	1	
+6	bien	bien	G	1	
+7	déservie	déservie	V	1	
+8	depuis	depuis	P	1	
+9	la	le	D	1	
+10	gare_central	gare_central	O	1	ne=POI
+11	(	(	O	1	
+12	accés	accés	N	1	
+13	rapide	rapide	G	1	
+14	avec	avec	P	1	
+15	le	le	D	1	
+16	tramway	tramway	N	1	
+17	)	)	O	1	
+
+1	le_réceptionniste_John	le_réceptionniste_John	N	1	ne=Person
+2	est	être	V	1	
+3	adorable	adorable	G	1	
+4	et	et	C	1	
+5	répondra	répondre	V	1	
+6	facilement	facilement	G	1	
+7	à	à	P	1	
+8	toutes	tout	D	1	
+9	vos	son	D	1	
+10	questions	question	N	1	
+11	dans	dans	P	1	
+12	beaucoup	beaucoup	G	1	
+13	de	de	P	1	
+14	langues	langue	N	1	
+15	(	(	O	1	
+16	y	y	Q	1	
+17	compris	comprendre	G	1	
+18	en	en	P	1	
+19	français	français	N	1	
+20	qu'	qu'	C	1	
+21	il	il	Q	1	
+22	maitrise	maitrise	V	1	
+23	très	très	G	1	
+24	bien	bien	G	1	
+

@@ -1,0 +1,57 @@
+1	Zeer	zeer	G	1	
+2	goed	goed	G	1	
+3	hotel	hotel	N	1	
+4	dicht	dichten	V	1	
+5	bij	bij	P	1	
+6	het	het	D	1	
+7	centrum	centrum	N	1	
+
+1	Zeer	zeer	G	1	
+2	goed	goed	G	1	
+3	hotel	hotel	N	1	
+4	,	,	O	1	
+5	100	@card@	O	1	
+6	meter	meter	N	1	
+7	van	van	P	1	
+8	het	het	D	1	
+9	Centraal	centraal	G	1	
+10	Station	station	N	1	
+11	.	.	O	1	
+
+1	Nette	net	G	1	
+2	kamers	kamer	N	1	
+3	.	.	O	1	
+
+1	Het	het	D	1	
+2	ontbijt	ontbijt	N	1	
+3	was	wezen|zijn	V	1	
+4	perfect	perfect	G	1	
+5	en	en	C	1	
+6	zeer	zeer	G	1	
+7	uitgebreidt	uitgebreidt	O	1	
+8	.	.	O	1	
+
+1	Naar	naar	P	1	
+2	het	het	D	1	
+3	centrum	centrum	N	1	
+4	is	zijn	V	1	
+5	het	het	D	1	
+6	ca.	ca	O	1	
+7	ca.	.	O	1	
+8	15	@card@	O	1	
+9	minuten	minuut	N	1	
+10	lopen	lopen	V	1	
+11	waar	waar	Q	1	
+12	zeer	zeer	G	1	
+13	veel	veel	O	1	
+14	winkels	winkel	N	1	
+15	zijn	zijn	V	1	
+16	.	.	O	1	
+
+1	Erg	erg	A	1	
+2	gezellig	gezellig	G	1	
+3	met	met	P	1	
+4	veel	veel	O	1	
+5	restaurants	restaurant	N	1	
+6	.	.	O	1	
+
