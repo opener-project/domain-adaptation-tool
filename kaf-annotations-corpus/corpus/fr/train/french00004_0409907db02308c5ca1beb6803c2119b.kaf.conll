@@ -14,11 +14,11 @@
 6	·	·	P	1	
 7	inclusive	inclusif	G	1	
 8	au	au	P	1	
-9	Club_Marmara	club_Marmara	N	1	ne=Restaurant
+9	Club_Marmara	club_Marmara	R	1	ne=Restaurant
 10	qui	qui	P	1	
 11	fait	faire	V	1	
 12	parti	parti	N	1	
-13	du_complexe_de_l'_Indian_Resort	du_complexe_de_le_Indian_Resort	N	1	ne=POI
+13	du_complexe_de_l'_Indian_Resort	du_complexe_de_le_Indian_Resort	R	1	ne=POI
 14	,	,	O	1	
 15	mais	mais	C	1	
 16	pour	pour	P	1	

@@ -8,7 +8,7 @@
 4	ocasión	ocasión	O	1	
 5	de	de	O	1	
 6	conocer	conocer	O	1	
-7	la_cadena_Senator	la_cadena_senator	O	1	ne=Hotel
+7	la_cadena_Senator	la_cadena_senator	R	1	ne=Hotel
 8	cuando	cuando	O	1	
 9	viajé	viajé	O	1	
 10	a	a	D	1	
@@ -61,7 +61,7 @@
 24	este	este	N	1	
 25	año	año	N	1	
 26	siendo	siendo	O	1	
-27	cataluña	cataluña	N	1	ne=Location
+27	cataluña	cataluña	R	1	ne=Location
 28	nuestro	nuestro	N	1	
 29	destino	destino	N	1	
 30	,	,	O	1	
@@ -76,7 +76,7 @@
 39	hicimos	hicimos	V	1	
 40	reserva	reserva	N	1	
 41	en	en	P	1	
-42	el_senator_barcelona_spa_hotel	el_senator_barcelona_spa_hotel	N	1	ne=Hotel
+42	el_senator_barcelona_spa_hotel	el_senator_barcelona_spa_hotel	R	1	ne=Hotel
 43	.	.	O	1	
 
 1	como	como	O	1	

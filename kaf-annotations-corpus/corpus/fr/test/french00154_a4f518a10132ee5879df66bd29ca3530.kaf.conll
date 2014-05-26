@@ -38,7 +38,7 @@
 4	bien	bien	G	1	
 5	situé	situer	V	1	
 6	dans	dans	P	1	
-7	Paris	pari	N	1	ne=Location
+7	Paris	pari	R	1	ne=Location
 8	et	et	C	1	
 9	permet	permettre	V	1	
 10	d'	d'	P	1	

@@ -40,10 +40,10 @@
 18	der	die	D	1	
 19	Nähe	Nähe	N	1	
 20	zur	zu	P	1	
-21	Sacré_·_Coeur	Sacré_·_Coeur	O	1	ne=Attraction
+21	Sacré_·_Coeur	Sacré_·_Coeur	R	1	ne=Attraction
 22	,	,	O	1	
-23	La_Defense	La_Defense	O	1	ne=POI
+23	La_Defense	La_Defense	R	1	ne=POI
 24	,	,	O	1	
-25	Triumpfbogen	Triumpfbogen	O	1	ne=Attraction
+25	Triumpfbogen	Triumpfbogen	R	1	ne=Attraction
 26	.	.	O	1	
 

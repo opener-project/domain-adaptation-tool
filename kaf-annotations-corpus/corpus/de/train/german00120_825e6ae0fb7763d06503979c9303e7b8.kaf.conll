@@ -21,7 +21,7 @@
 16	Shuttle	Shuttle	O	1	
 17	dauert	dauern	V	1	
 18	ca.	ca.	A	1	
-19	5_·_10_Minuten	5_·_10_Minute	N	1	ne=Time
+19	5_·_10_Minuten	5_·_10_Minute	R	1	ne=Time
 20	.	.	O	1	
 
 1	Der	die	D	1	
@@ -49,7 +49,7 @@
 10	die	die	D	1	
 11	Fahrt	Fahrt	N	1	
 12	dauert	dauern	V	1	
-13	ca._30_Minuten	ca._30_Minute	N	1	ne=Time
+13	ca._30_Minuten	ca._30_Minute	R	1	ne=Time
 14	.	.	O	1	
 
 1	Die	die	D	1	
@@ -69,7 +69,7 @@
 15	Station	Station	N	1	
 16	ist	sein	V	1	
 17	ca.	ca.	A	1	
-18	15_Gehminuten	15_Gehminuten	O	1	ne=Time
+18	15_Gehminuten	15_Gehminuten	R	1	ne=Time
 19	vom	von	P	1	
 20	Hotel	Hotel	N	1	
 21	entfernt	entfernen	V	1	

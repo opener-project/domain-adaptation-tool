@@ -4,7 +4,7 @@
 4	in	in	P	1	
 5	centrum	centrum	N	1	
 6	van	van	P	1	
-7	München	München	O	1	ne=Location
+7	München	München	R	1	ne=Location
 
 1	Dit	dit	D	1	
 2	bijzonder	bijzonder	G	1	
@@ -25,7 +25,7 @@
 3	het	het	D	1	
 4	in	in	P	1	
 5	hartje	hartje	O	1	
-6	Munchen	Munchen	O	1	ne=Location
+6	Munchen	Munchen	R	1	ne=Location
 7	dus	dus	A	1	
 8	prima	prima	G	1	
 9	geschikt	schikken	V	1	

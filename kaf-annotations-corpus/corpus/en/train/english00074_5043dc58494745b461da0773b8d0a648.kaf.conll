@@ -85,7 +85,7 @@
 42	where	where	O	1	
 43	payed	pay	V	1	
 44	to	to	P	1	
-45	mcdonalds	mcdonalds	N	1	ne=Attraction
+45	mcdonalds	mcdonalds	R	1	ne=Attraction
 46	wich	wich	O	1	
 47	is	be	V	1	
 48	situated	situate	V	1	

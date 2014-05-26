@@ -6,7 +6,7 @@
 6	vacaciones	vacaciones	N	1	
 
 1	Reverve	Reverve	R	1	
-2	el_hotel_palladium_punta_cana	el_hotel_palladium_punta_cana	N	1	ne=Hotel
+2	el_hotel_palladium_punta_cana	el_hotel_palladium_punta_cana	R	1	ne=Hotel
 3	y	y	G	1	
 4	no	no	D	1	
 5	me	me	Q	1	
@@ -64,7 +64,7 @@
 8	hotel	hotel	N	1	
 9	,	,	O	1	
 10	a	a	D	1	
-11	geraldo	geraldo	N	1	ne=Person
+11	geraldo	geraldo	R	1	ne=Person
 12	en	en	P	1	
 13	el	el	N	1	
 14	bar	bar	N	1	

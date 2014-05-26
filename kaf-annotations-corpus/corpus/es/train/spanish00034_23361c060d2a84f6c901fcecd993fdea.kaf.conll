@@ -111,7 +111,7 @@
 9	pasos	pasos	V	1	
 10	de	de	O	1	
 11	la	la	O	1	
-12	Basílica_del_Pilar	Basílica_del_pilar	G	1	ne=Attraction
+12	Basílica_del_Pilar	Basílica_del_pilar	R	1	ne=Attraction
 13	,	,	O	1	
 14	ideal	ideal	G	1	
 15	si	si	N	1	

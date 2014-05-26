@@ -64,9 +64,9 @@
 6	noise	noise	N	1	
 7	even	even	A	1	
 8	until	until	P	1	
-9	3am	3am	O	1	ne=Time
+9	3am	3am	R	1	ne=Time
 10	or	or	C	1	
-11	4_am	4_am	G	1	ne=Time
+11	4_am	4_am	R	1	ne=Time
 12	....	....	O	1	
 
 1	For	for	P	1	

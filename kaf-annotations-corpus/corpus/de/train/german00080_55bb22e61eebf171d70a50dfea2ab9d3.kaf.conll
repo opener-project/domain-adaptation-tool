@@ -3,7 +3,7 @@
 3	,	,	O	1	
 4	aber	aber	A	1	
 5	echt	echt	G	1	
-6	Las_Vegas	lesen_Vegas	O	1	ne=Location
+6	Las_Vegas	lesen_Vegas	R	1	ne=Location
 
 1	Direkt	direkt	G	1	
 2	am	an	P	1	
@@ -21,7 +21,7 @@
 14	der	die	D	1	
 15	anderen	andere	Q	1	
 16	Seite	Seite	N	1	
-17	das_Luxor	die_Luxor	O	1	ne=Attraction
+17	das_Luxor	die_Luxor	R	1	ne=Attraction
 18	.	.	O	1	
 
 1	Sehr	sehr	A	1	
@@ -40,7 +40,7 @@
 3	hilft	helfen	V	1	
 4	der	die	D	1	
 5	"	"	O	1	
-6	20_$	20_$	N	1	ne=Money
+6	20_$	20_$	R	1	ne=Money
 7	Doller	doll	G	1	
 8	Trick	Trick	N	1	
 9	"	"	O	1	
@@ -52,7 +52,7 @@
 15	Pass	Pass	N	1	
 16	abgeben	abgeben	V	1	
 17	,	,	O	1	
-18	$_20	$_20	O	1	ne=Money
+18	$_20	$_20	R	1	ne=Money
 19	beilegen	beilegen	V	1	
 20	und	und	C	1	
 21	um	um	P	1	
@@ -94,7 +94,7 @@
 14	Erachtesn	Erachtesn	O	1	
 15	nicht	nicht	O	1	
 16	für	für	P	1	
-17	$_15,00	$_@card@	O	1	ne=Money
+17	$_15,00	$_@card@	R	1	ne=Money
 18	.	.	O	1	
 
 1	Schöner	schön	G	1	

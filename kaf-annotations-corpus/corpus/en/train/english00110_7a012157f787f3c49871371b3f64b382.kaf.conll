@@ -10,7 +10,7 @@
 6	.	.	O	1	
 
 1	Near	near	A	1	
-2	Milano_Centrale_train_station	Milano_Centrale_train_station	N	1	ne=POI
+2	Milano_Centrale_train_station	Milano_Centrale_train_station	R	1	ne=POI
 3	with	with	P	1	
 4	bus	bus	G	1	
 5	stop	stop	N	1	

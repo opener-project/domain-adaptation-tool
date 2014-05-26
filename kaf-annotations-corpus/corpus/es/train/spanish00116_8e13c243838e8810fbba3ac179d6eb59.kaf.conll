@@ -39,7 +39,7 @@
 5	estar	estar	N	1	
 6	próximo	próximo	N	1	
 7	a	a	D	1	
-8	la_estación_del_AVE	la_estación_del_AVE	O	1	ne=POI
+8	la_estación_del_AVE	la_estación_del_AVE	R	1	ne=POI
 9	y	y	A	1	
 10	es	es	V	1	
 11	verdad	verdad	A	1	

@@ -72,9 +72,9 @@
 3	se	se	Q	1	
 4	situe	situer	V	1	
 5	entre	entre	P	1	
-6	la_Gare_Saint_·_Lazare	le_gare_Saint_·_Lazare	N	1	ne=POI
+6	la_Gare_Saint_·_Lazare	le_gare_Saint_·_Lazare	R	1	ne=POI
 7	et	et	C	1	
-8	la_place_de_Clichy	le_place_de_Clichy	N	1	ne=POI
+8	la_place_de_Clichy	le_place_de_Clichy	R	1	ne=POI
 9	,	,	O	1	
 10	ce	ce	Q	1	
 11	n'	n'	G	1	
@@ -88,7 +88,7 @@
 19	résidentiel	résidentiel	N	1	
 20	'	'	P	1	
 21	de	de	P	1	
-22	Paris	pari	N	1	ne=Location
+22	Paris	pari	R	1	ne=Location
 23	mais	mais	C	1	
 24	cela	cela	P	1	
 25	dépend	dépendre	V	1	
@@ -120,7 +120,7 @@
 18	de	de	P	1	
 19	sortir	sortir	V	1	
 20	à	à	P	1	
-21	la_Gare_Saint_·_Lazare	le_gare_Saint_·_Lazare	N	1	ne=POI
+21	la_Gare_Saint_·_Lazare	le_gare_Saint_·_Lazare	R	1	ne=POI
 22	,	,	O	1	
 23	la	le	D	1	
 24	fréquentation	fréquentation	N	1	

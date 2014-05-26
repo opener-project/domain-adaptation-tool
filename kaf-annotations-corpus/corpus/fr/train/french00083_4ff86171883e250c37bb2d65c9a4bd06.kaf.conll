@@ -40,7 +40,7 @@
 9	le	le	D	1	
 10	centre	centre	N	1	
 11	de	de	P	1	
-12	Milan	milan	N	1	ne=Location
+12	Milan	milan	R	1	ne=Location
 13	au	au	P	1	
 14	départ	départ	N	1	
 15	de	de	P	1	
@@ -104,7 +104,7 @@
 11	en	en	P	1	
 12	famille	famille	N	1	
 13	à	à	P	1	
-14	Milan	milan	N	1	ne=Location
+14	Milan	milan	R	1	ne=Location
 15	,	,	O	1	
 16	même	même	G	1	
 17	s'	s'	C	1	

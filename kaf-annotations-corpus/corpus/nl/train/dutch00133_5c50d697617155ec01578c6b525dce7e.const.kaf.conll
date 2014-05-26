@@ -10,7 +10,7 @@
 7	voucher	voucher	O	1	
 8	ingewisseld	inwisselen	V	1	
 9	in	in	P	1	
-10	Hotel_Gladbeck	hotel_Gladbeck	O	1	ne=Hotel
+10	Hotel_Gladbeck	hotel_Gladbeck	R	1	ne=Hotel
 11	,	,	O	1	
 12	(	(	O	1	
 13	via	via	P	1	

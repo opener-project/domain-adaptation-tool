@@ -17,7 +17,7 @@
 6	de	de	P	1	
 7	suite	suite	N	1	
 8	à	à	P	1	
-9	l'_Estanquet	le_Estanquet	N	1	ne=Hotel
+9	l'_Estanquet	le_Estanquet	R	1	ne=Hotel
 10	et	et	C	1	
 11	nous	lui	Q	1	
 12	avons	avoir	V	1	

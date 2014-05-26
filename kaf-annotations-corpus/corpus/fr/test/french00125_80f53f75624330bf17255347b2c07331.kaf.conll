@@ -12,7 +12,7 @@
 5	au	au	P	1	
 6	coeur	coeur	N	1	
 7	de	de	P	1	
-8	Barcelone	Barcelone	N	1	ne=Location
+8	Barcelone	Barcelone	R	1	ne=Location
 9	il	il	Q	1	
 10	y	y	Q	1	
 11	a	avoir	V	1	
@@ -51,7 +51,7 @@
 4	on	on	Q	1	
 5	a	avoir	V	1	
 6	réservé	réserver	V	1	
-7	l'_hôtel_rey_juan_carlos_I	le_hôtel_rey_juan_carlos_I	G	1	ne=Hotel
+7	l'_hôtel_rey_juan_carlos_I	le_hôtel_rey_juan_carlos_I	R	1	ne=Hotel
 8	et	et	C	1	
 9	ça	ça	P	1	
 10	s'	s'	Q	1	

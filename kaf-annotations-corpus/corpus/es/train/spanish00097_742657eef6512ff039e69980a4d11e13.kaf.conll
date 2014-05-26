@@ -65,7 +65,7 @@
 6	pendiente	pendiente	V	1	
 7	que	que	G	1	
 8	el	el	N	1	
-9	himalaya	himalaya	N	1	ne=Location
+9	himalaya	himalaya	R	1	ne=Location
 10	.	.	O	1	
 
 1	No	no	D	1	

@@ -89,7 +89,7 @@
 15	..	..	O	1	
 16	)	)	O	1	
 17	and	and	C	1	
-18	C_·_beach_club	C_·_beach_club	N	1	ne=Attraction
+18	C_·_beach_club	C_·_beach_club	R	1	ne=Attraction
 19	mainly	mainly	A	1	
 20	restricted	restrict	V	1	
 21	to	to	P	1	

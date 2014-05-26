@@ -45,7 +45,7 @@
 6	la	le	D	1	
 7	station	station	N	1	
 8	de	de	P	1	
-9	metro_Alameda_de_Osuna	metro_Alameda_de_Osuna	N	1	ne=POI
+9	metro_Alameda_de_Osuna	metro_Alameda_de_Osuna	R	1	ne=POI
 10	,	,	O	1	
 11	l'	le	D	1	
 12	hôtel	hôtel	N	1	
@@ -53,11 +53,11 @@
 14	est	être	V	1	
 15	qu'	qu'	G	1	
 16	à	à	P	1	
-17	une_demi_·_heure	un_demi_·_heure	V	1	ne=Time
+17	une_demi_·_heure	un_demi_·_heure	R	1	ne=Time
 18	du	du	D	1	
 19	centre	centre	N	1	
 20	de	de	P	1	
-21	Madrid	Madrid	N	1	ne=Location
+21	Madrid	Madrid	R	1	ne=Location
 22	.	.	O	1	
 
 1	La	le	D	1	

@@ -65,7 +65,7 @@
 24	hätte	haben	V	1	
 25	dieser	dies	Q	1	
 26	Spaß	Spaß	N	1	
-27	10,00_€	@card@_€	O	1	ne=Money
+27	10,00_€	@card@_€	R	1	ne=Money
 28	pro	pro	P	1	
 29	Stunde	Stunde	N	1	
 30	gekostet	kosten	V	1	

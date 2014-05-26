@@ -11,12 +11,12 @@
 4	all'	all'	P	1	
 5	agriturismo_Amedea	agriturismo_amedea	R	1	ne=Hotel
 6	nell'	nell'	P	1	
-7	estate_2012	estate_2012	G	1	ne=Date
+7	estate_2012	estate_2012	R	1	ne=Date
 8	e	e	Q	1	
 9	nuovamente	nuovamente	A	1	
 10	a	a	P	1	
 11	fine	fine	N	1	
-12	ottobre_2012	ottobre_2012	N	1	ne=Date
+12	ottobre_2012	ottobre_2012	R	1	ne=Date
 13	;	;	O	1	
 14	fin	fin	N	1	
 15	dall'	dall'	P	1	

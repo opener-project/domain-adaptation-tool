@@ -10,7 +10,7 @@
 3	in	in	P	1	
 4	het	het	D	1	
 5	dorp	dorp	N	1	
-6	Nittel	Nittel	O	1	ne=Location
+6	Nittel	Nittel	R	1	ne=Location
 7	.	.	O	1	
 
 1	Hotel	hotel	N	1	
@@ -77,9 +77,9 @@
 
 1	Bezoek	bezoek	N	1	
 2	aan	aan	P	1	
-3	Trier	Trier	O	1	ne=Location
+3	Trier	Trier	R	1	ne=Location
 4	,	,	O	1	
-5	Saarburg	Saarburg	O	1	ne=Location
+5	Saarburg	Saarburg	R	1	ne=Location
 6	,	,	O	1	
 7	Luxemburg	Luxemburg	R	1	ne=Location
 8	enz.	enz.	A	1	

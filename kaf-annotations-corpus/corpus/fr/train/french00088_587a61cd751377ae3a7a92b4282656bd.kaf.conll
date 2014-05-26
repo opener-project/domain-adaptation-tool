@@ -7,9 +7,9 @@
 7	vacances	vacance	N	1	
 
 1	séjour	séjour	P	1	
-2	avril_2010	avril_2010	G	1	ne=Date
+2	avril_2010	avril_2010	R	1	ne=Date
 3	et	et	C	1	
-4	2011	2011	G	1	ne=Date
+4	2011	2011	R	1	ne=Date
 5	,	,	O	1	
 6	hôtel	hôtel	N	1	
 7	très	très	G	1	
@@ -111,14 +111,14 @@
 1	Encore	Encore	G	1	
 2	merci	merci	G	1	
 3	à	à	P	1	
-4	Marco	Marco	N	1	ne=Person
+4	Marco	Marco	R	1	ne=Person
 5	,	,	O	1	
-6	ludivine	ludivine	N	1	ne=Person
+6	ludivine	ludivine	R	1	ne=Person
 7	et	et	C	1	
 8	tous	tout	G	1	
 9	les	le	D	1	
 10	autres	autre	G	1	
 11	.	.	O	1	
 
-1	Stéphanie	Stéphanie	N	1	ne=Person
+1	Stéphanie	Stéphanie	R	1	ne=Person
 

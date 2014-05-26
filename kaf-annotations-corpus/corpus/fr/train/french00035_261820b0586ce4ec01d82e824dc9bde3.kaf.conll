@@ -12,12 +12,12 @@
 2	vous	lui	Q	1	
 3	venez	venir	V	1	
 4	à	à	P	1	
-5	Amsterdam	Amsterdam	N	1	ne=Location
+5	Amsterdam	Amsterdam	R	1	ne=Location
 6	pour	pour	P	1	
 7	les	le	D	1	
 8	Coffee	Coffee	N	1	
 9	,	,	O	1	
-10	le_quartier_rouge	le_quartier_rouge	G	1	ne=POI
+10	le_quartier_rouge	le_quartier_rouge	R	1	ne=POI
 11	et	et	C	1	
 12	tout	tout	G	1	
 13	ce	ce	P	1	
@@ -90,7 +90,7 @@
 15	gare	gare	N	1	
 16	et	et	C	1	
 17	la	le	D	1	
-18	Damrak	Damrak	N	1	ne=POI
+18	Damrak	Damrak	R	1	ne=POI
 19	...	...	O	1	
 20	sublime	sublime	G	1	
 21	.	.	O	1	

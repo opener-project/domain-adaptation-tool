@@ -9,7 +9,7 @@
 3	5	5	O	1	
 4	Mal	Mal	N	1	
 5	in	in	P	1	
-6	diesem_Best_Western	dies_gut_Western	N	1	ne=Hotel
+6	diesem_Best_Western	dies_gut_Western	R	1	ne=Hotel
 7	übernachtet	übernachten	V	1	
 8	wegen	wegen	P	1	
 9	Geschäftsreisen	Geschäftsreise	N	1	
@@ -23,7 +23,7 @@
 6	einem	eine	D	1	
 7	Gewerbegebiet	Gewerbegebiet	N	1	
 8	in	in	P	1	
-9	Wavre	Wavre	O	1	ne=Location
+9	Wavre	Wavre	R	1	ne=Location
 10	und	und	C	1	
 11	ist	sein	V	1	
 12	mit	mit	P	1	

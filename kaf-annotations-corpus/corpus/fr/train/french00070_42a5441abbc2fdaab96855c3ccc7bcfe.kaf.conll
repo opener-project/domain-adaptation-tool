@@ -29,7 +29,7 @@
 16	immeubles	immeuble	N	1	
 17	hauts	haut	G	1	
 18	de	de	P	1	
-19	Hong_·_Kong	Hong_·_Kong	N	1	ne=Location
+19	Hong_·_Kong	Hong_·_Kong	R	1	ne=Location
 20	.	.	O	1	
 
 1	Restaurant	restaurer	V	1	
@@ -93,5 +93,5 @@
 3	pour	pour	P	1	
 4	rayonner	rayonner	V	1	
 5	dans	dans	P	1	
-6	Hong_·_Kong	Hong_·_Kong	N	1	ne=Location
+6	Hong_·_Kong	Hong_·_Kong	R	1	ne=Location
 

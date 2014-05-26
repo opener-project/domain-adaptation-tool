@@ -137,7 +137,7 @@
 10	familias	familias	N	1	
 11	,	,	O	1	
 12	etc.	etc.	O	1	
-13	La_jaima	La_jaima	N	1	ne=Location
+13	La_jaima	La_jaima	R	1	ne=Location
 14	sería	sería	N	1	
 15	un	un	G	1	
 16	lugar	lugar	N	1	

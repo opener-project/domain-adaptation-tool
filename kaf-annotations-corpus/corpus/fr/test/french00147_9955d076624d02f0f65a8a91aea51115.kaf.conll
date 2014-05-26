@@ -47,13 +47,13 @@
 
 1	En	En	P	1	
 2	particulier	particulier	G	1	
-3	Mimo	Mimo	N	1	ne=Person
+3	Mimo	Mimo	R	1	ne=Person
 4	,	,	O	1	
-5	Sophie	Sophie	N	1	ne=Person
+5	Sophie	Sophie	R	1	ne=Person
 6	,	,	O	1	
-7	Haykel	Haykel	N	1	ne=Person
+7	Haykel	Haykel	R	1	ne=Person
 8	et	et	C	1	
-9	Sisi	Sisi	N	1	ne=Person
+9	Sisi	Sisi	R	1	ne=Person
 10	!	!	O	1	
 
 1	Ils	Ils	Q	1	

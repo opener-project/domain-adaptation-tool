@@ -76,7 +76,7 @@
 7	price	price	N	1	
 8	even	even	A	1	
 9	for	for	P	1	
-10	50_euro	50_euro	N	1	ne=Money
+10	50_euro	50_euro	R	1	ne=Money
 11	a	a	D	1	
 12	night	night	N	1	
 13	.	.	O	1	

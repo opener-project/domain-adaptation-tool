@@ -36,7 +36,7 @@
 14	très	très	G	1	
 15	agréables	agréable	G	1	
 16	sur	sur	P	1	
-17	Bercy_village	Bercy_village	N	1	ne=Location
+17	Bercy_village	Bercy_village	R	1	ne=Location
 18	et	et	C	1	
-19	Paris	pari	N	1	ne=Location
+19	Paris	pari	R	1	ne=Location
 

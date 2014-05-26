@@ -46,7 +46,7 @@
 40	porque	porque	G	1	
 41	estando	estando	N	1	
 42	en	en	P	1	
-43	el_centro_de_bilbao	el_centro_de_bilbao	O	1	ne=Location
+43	el_centro_de_bilbao	el_centro_de_bilbao	R	1	ne=Location
 44	podria	podria	O	1	
 45	sacar	sacar	O	1	
 46	mucho	mucho	O	1	

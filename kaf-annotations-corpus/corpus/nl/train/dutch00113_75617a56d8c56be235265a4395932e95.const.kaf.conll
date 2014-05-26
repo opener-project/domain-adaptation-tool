@@ -57,7 +57,7 @@
 54	aanrader.	.	O	1	
 55	vraag	vraag	N	1	
 56	naar	naar	P	1	
-57	recha	recha	O	1	ne=Person
+57	recha	recha	R	1	ne=Person
 58	van	van	P	1	
 59	trust	trust	N	1	
 60	voor	voor	P	1	
@@ -72,7 +72,7 @@
 69	bij	bij	P	1	
 70	zonsondergang	zonsondergang	N	1	
 71	via	via	P	1	
-72	sameh	sameh	O	1	ne=Person
+72	sameh	sameh	R	1	ne=Person
 73	die	die	Q	1	
 74	het	het	Q	1	
 75	regelt.	regelen	V	1	
@@ -85,7 +85,7 @@
 
 1	bedankt	bedanken	V	1	
 2	aan	aan	P	1	
-3	gerges	gerges	O	1	ne=Person
+3	gerges	gerges	R	1	ne=Person
 4	voor	voor	P	1	
 5	overal	overal	A	1	
 6	de	de	D	1	

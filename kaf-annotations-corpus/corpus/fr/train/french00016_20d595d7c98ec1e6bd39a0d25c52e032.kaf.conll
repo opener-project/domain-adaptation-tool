@@ -1,6 +1,6 @@
 1	Le	le	D	1	
 2	magnifique	magnifique	N	1	
-3	hôtel_de_la_Croisette	hôtel_de_le_Croisette	N	1	ne=Hotel
+3	hôtel_de_la_Croisette	hôtel_de_le_Croisette	R	1	ne=Hotel
 
 1	je	je	Q	1	
 2	trouve	trouver	V	1	
@@ -34,7 +34,7 @@
 30	exposer	exposer	V	1	
 31	,	,	O	1	
 32	sur	sur	P	1	
-33	la_bai_de_cannes	le_bai_de_canne	N	1	ne=POI
+33	la_bai_de_cannes	le_bai_de_canne	R	1	ne=POI
 34	,	,	O	1	
 35	il	il	Q	1	
 36	a	avoir	V	1	
@@ -48,5 +48,5 @@
 44	plus	plus	G	1	
 45	connu	connaître	G	1	
 46	de	de	P	1	
-47	cannes	canne	N	1	ne=Location
+47	cannes	canne	R	1	ne=Location
 

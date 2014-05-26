@@ -8,14 +8,14 @@
 3	di	di	P	1	
 4	hotel	hotel	N	1	
 5	di	di	P	1	
-6	deira	deira	G	1	ne=Location
+6	deira	deira	R	1	ne=Location
 7	e	e	Q	1	
-8	dubai	dubai	N	1	ne=Location
+8	dubai	dubai	R	1	ne=Location
 9	,	,	O	1	
 10	lo	lo	D	1	
-11	sheraton	sheraton	N	1	ne=Hotel
+11	sheraton	sheraton	R	1	ne=Hotel
 12	di	di	P	1	
-13	deira	deira	G	1	ne=Location
+13	deira	deira	R	1	ne=Location
 14	è	è	R	1	
 15	posizionato	posizionare	V	1	
 16	in	in	P	1	

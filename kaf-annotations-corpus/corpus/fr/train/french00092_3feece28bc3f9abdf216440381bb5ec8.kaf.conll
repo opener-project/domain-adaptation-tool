@@ -1,5 +1,5 @@
 1	Bel	bel	N	1	
-2	aquarium	aquarium	N	1	ne=POI
+2	aquarium	aquarium	R	1	ne=POI
 3	à	à	P	1	
 4	visiter	visiter	V	1	
 5	en	en	P	1	
@@ -9,14 +9,14 @@
 2	avons	avoir	V	1	
 3	beaucoup	beaucoup	G	1	
 4	aimé	aimer	V	1	
-5	cet_aquarium	ce_aquarium	N	1	ne=POI
+5	cet_aquarium	ce_aquarium	R	1	ne=POI
 6	,	,	O	1	
 7	que	que	P	1	
 8	nous	lui	Q	1	
 9	avons	avoir	V	1	
 10	visité	visiter	V	1	
 11	durant	durant	P	1	
-12	midi	midi	N	1	ne=Time
+12	midi	midi	R	1	ne=Time
 13	,	,	O	1	
 14	peu	peu	G	1	
 15	de	de	P	1	

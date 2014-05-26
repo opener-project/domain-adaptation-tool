@@ -112,7 +112,7 @@
 36	y	y	G	1	
 37	sillas	sillas	G	1	
 38	hacia	hacia	N	1	
-39	la_1_de_la_mañana	la_1_de_la_mañana	O	1	ne=Time
+39	la_1_de_la_mañana	la_1_de_la_mañana	R	1	ne=Time
 40	para	para	O	1	
 41	prepararlo	prepararlo	O	1	
 42	para	para	O	1	

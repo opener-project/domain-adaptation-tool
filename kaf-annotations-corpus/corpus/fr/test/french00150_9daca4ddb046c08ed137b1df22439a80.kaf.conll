@@ -3,7 +3,7 @@
 
 1	Séjour	Séjour	V	1	
 2	du	du	D	1	
-3	23_au_30_août_2011	23_au_30_août_2011	G	1	ne=Date
+3	23_au_30_août_2011	23_au_30_août_2011	R	1	ne=Date
 4	.	.	O	1	
 
 1	L'	le	D	1	
@@ -150,7 +150,7 @@
 1	Téléphone	téléphone	N	1	
 2	qui	qui	P	1	
 3	sonne	sonner	V	1	
-4	à_04h00	à_04h00	D	1	ne=Time
+4	à_04h00	à_04h00	R	1	ne=Time
 5	du	du	D	1	
 6	matin	matin	N	1	
 7	.	.	O	1	

@@ -55,7 +55,7 @@
 24	;	;	O	1	
 25	attente	attente	N	1	
 26	de	de	P	1	
-27	25_minutes	25_minute	N	1	ne=Time
+27	25_minutes	25_minute	R	1	ne=Time
 28	pour	pour	P	1	
 29	alller	alller	V	1	
 30	aux	aux	P	1	
@@ -103,7 +103,7 @@
 3	:	:	O	1	
 4	attente	attente	N	1	
 5	de	de	P	1	
-6	3_/_4h	3_/_4h	P	1	ne=Time
+6	3_/_4h	3_/_4h	R	1	ne=Time
 7	pour	pour	P	1	
 8	2	2	D	1	
 9	hot	hot	N	1	
@@ -119,7 +119,7 @@
 3	:	:	O	1	
 4	attente	attente	N	1	
 5	de	de	P	1	
-6	3_/_4h	3_/_4h	N	1	ne=Time
+6	3_/_4h	3_/_4h	R	1	ne=Time
 7	pour	pour	P	1	
 8	un	un	D	1	
 9	attraction	attraction	N	1	

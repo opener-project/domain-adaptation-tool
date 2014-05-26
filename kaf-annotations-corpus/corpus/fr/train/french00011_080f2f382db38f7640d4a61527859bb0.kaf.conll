@@ -87,7 +87,7 @@
 84	piscine	piscine	N	1	
 85	ouvre	ouvre	G	1	
 86	a	avoir	V	1	
-87	11h	11h	N	1	ne=Time
+87	11h	11h	R	1	ne=Time
 88	,	,	O	1	
 89	ouverture	ouverture	N	1	
 90	trop	trop	G	1	
@@ -97,7 +97,7 @@
 94	chaleur	chaleur	N	1	
 95	et	et	C	1	
 96	fermeture	fermeture	N	1	
-97	19h	19h	N	1	ne=Time
+97	19h	19h	R	1	ne=Time
 98	trop	trop	G	1	
 99	tôt	tôt	G	1	
 100	pour	pour	P	1	

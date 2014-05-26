@@ -47,7 +47,7 @@
 9	la	la	O	1	
 10	plaza	plaza	O	1	
 11	del	del	O	1	
-12	duomo	duomo	N	1	ne=Attraction
+12	duomo	duomo	R	1	ne=Attraction
 13	,	,	O	1	
 14	visitamos	visitamos	O	1	
 15	por	por	O	1	
@@ -62,7 +62,7 @@
 24	hora	hora	N	1	
 25	que	que	N	1	
 26	quisimos	quisimos	N	1	
-27	la_torre_de_pisa	la_torre_de_pisa	O	1	ne=Attraction
+27	la_torre_de_pisa	la_torre_de_pisa	R	1	ne=Attraction
 28	,	,	O	1	
 29	baptisterio	baptisterio	N	1	
 30	,	,	O	1	

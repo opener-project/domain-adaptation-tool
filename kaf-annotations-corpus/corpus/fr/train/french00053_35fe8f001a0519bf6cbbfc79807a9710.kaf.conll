@@ -79,7 +79,7 @@
 21	.	.	O	1	
 
 1	Fin	fin	N	1	
-2	septembre	septembre	N	1	ne=Date
+2	septembre	septembre	R	1	ne=Date
 3	:	:	O	1	
 4	aucune	aucun	D	1	
 5	animation	animation	N	1	
@@ -101,7 +101,7 @@
 21	.	.	O	1	
 
 1	Sinon	Sinon	C	1	
-2	Vival	Vival	N	1	ne=Attraction
+2	Vival	Vival	R	1	ne=Attraction
 3	et	et	C	1	
 4	autres	autre	G	1	
 5	commerces	commerce	N	1	
@@ -110,7 +110,7 @@
 8	du	du	D	1	
 9	camping	camping	O	1	
 10	au	au	P	1	
-11	centre_commercial_Costa_Blanca	centre_commercial_Costa_Blanca	N	1	ne=Attraction
+11	centre_commercial_Costa_Blanca	centre_commercial_Costa_Blanca	R	1	ne=Attraction
 12	.	.	O	1	
 
 1	Accès	accès	N	1	
@@ -134,7 +134,7 @@
 8	le	le	D	1	
 9	centre	centre	N	1	
 10	d'	d'	P	1	
-11	Argeles_·_Plage	Argeles_·_plage	N	1	ne=POI
+11	Argeles_·_Plage	Argeles_·_plage	R	1	ne=POI
 12	sinon	sinon	C	1	
 13	louer	louer	V	1	
 14	un	un	D	1	

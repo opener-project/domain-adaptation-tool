@@ -51,7 +51,7 @@
 9	het	het	D	1	
 10	Cetrum	Cetrum	O	1	
 11	van	van	P	1	
-12	MAdrid	MAdrid	O	1	ne=Location
+12	MAdrid	MAdrid	R	1	ne=Location
 13	kan	kunnen	V	1	
 14	zitten	zitten	V	1	
 15	dan	dan	C	1	

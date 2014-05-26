@@ -42,7 +42,7 @@
 4	fête	fête	N	1	
 5	jusqu'	jusque	P	1	
 6	à	à	P	1	
-7	7h	7h	D	1	ne=Time
+7	7h	7h	R	1	ne=Time
 8	du	du	D	1	
 9	mat	mat	N	1	
 10	'	'	G	1	

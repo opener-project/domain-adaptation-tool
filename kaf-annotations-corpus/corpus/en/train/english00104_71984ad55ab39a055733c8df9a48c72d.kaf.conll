@@ -67,7 +67,7 @@
 27	evry	evry	N	1	
 28	slow	slow	N	1	
 29	in	in	P	1	
-30	November_2011	November_2011	O	1	ne=Date
+30	November_2011	November_2011	R	1	ne=Date
 31	.	.	O	1	
 
 1	That	that	D	1	

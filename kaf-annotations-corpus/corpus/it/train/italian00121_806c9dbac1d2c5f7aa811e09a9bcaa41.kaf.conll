@@ -2,7 +2,7 @@
 2	posizione	posizione	N	1	
 3	:	:	O	1	
 4	vicino	vicino	P	1	
-5	Termini	termine	N	1	ne=POI
+5	Termini	termine	R	1	ne=POI
 
 1	Scelta	scegliere	V	1	
 2	ottima	ottimo	G	1	
@@ -17,7 +17,7 @@
 11	un	uno	D	1	
 12	minuto	minuto	N	1	
 13	dalla	dalla	P	1	
-14	Stazione_Termini	stazione_termine	N	1	ne=POI
+14	Stazione_Termini	stazione_termine	R	1	ne=POI
 15	ottimo	ottimo	N	1	
 16	punto	pungere	V	1	
 17	per	per	P	1	

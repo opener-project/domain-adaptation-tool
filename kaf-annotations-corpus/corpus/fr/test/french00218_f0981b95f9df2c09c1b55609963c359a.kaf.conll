@@ -13,7 +13,7 @@
 9	plus	plus	D	1	
 10	beau	beau	G	1	
 11	de	de	P	1	
-12	Las_Vegas	Las_Vegas	N	1	ne=Location
+12	Las_Vegas	Las_Vegas	R	1	ne=Location
 13	.	.	O	1	
 
 1	Les	le	D	1	
@@ -118,6 +118,6 @@
 17	trouver	trouver	V	1	
 18	cela	cela	P	1	
 19	en	en	P	1	
-20	Europe	Europe	N	1	ne=Location
+20	Europe	Europe	R	1	ne=Location
 21	.	.	O	1	
 

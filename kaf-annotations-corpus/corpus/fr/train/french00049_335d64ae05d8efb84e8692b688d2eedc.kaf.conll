@@ -5,7 +5,7 @@
 5	/	/	P	1	
 6	prix	prix	N	1	
 
-1	L'_hôtel_Kustur_Club_Village	le_hôtel_Kustur_club_village	N	1	ne=Hotel
+1	L'_hôtel_Kustur_Club_Village	le_hôtel_Kustur_club_village	R	1	ne=Hotel
 2	est	être	V	1	
 3	vraiment	vraiment	G	1	
 4	surprenant	surprenant	G	1	

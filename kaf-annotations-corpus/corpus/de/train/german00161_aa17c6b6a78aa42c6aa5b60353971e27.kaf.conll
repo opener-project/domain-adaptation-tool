@@ -11,7 +11,7 @@
 6	zum	zu	P	1	
 7	Feiern	Feier|Feiern	N	1	
 8	nach	nach	P	1	
-9	El_Arenal	El_Arenal	O	1	ne=Hotel
+9	El_Arenal	El_Arenal	R	1	ne=Hotel
 10	.	.	O	1	
 
 1	Wir	wir	Q	1	

@@ -16,7 +16,7 @@
 9	visite	visite	N	1	
 10	à	à	P	1	
 11	l'	le	D	1	
-12	Aqualand	Aqualand	N	1	ne=Attraction
+12	Aqualand	Aqualand	R	1	ne=Attraction
 13	.	.	O	1	
 
 1	De	De	P	1	
@@ -29,7 +29,7 @@
 8	de	de	P	1	
 9	la	le	D	1	
 10	plage	plage	N	1	
-11	Richelieu	richelieu	N	1	ne=Location
+11	Richelieu	richelieu	R	1	ne=Location
 12	ou	ou	C	1	
 13	les	le	D	1	
 14	parents	parent	N	1	

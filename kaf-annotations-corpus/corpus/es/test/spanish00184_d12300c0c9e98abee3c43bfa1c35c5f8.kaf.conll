@@ -13,7 +13,7 @@
 9	dos	dos	N	1	
 10	semanas	semanas	N	1	
 11	en	en	O	1	
-12	la_torre_nova	la_torre_nova	O	1	ne=Hotel
+12	la_torre_nova	la_torre_nova	R	1	ne=Hotel
 13	,	,	O	1	
 14	en	en	P	1	
 15	Agosto	Agosto	R	1	ne=Date
@@ -129,7 +129,7 @@
 16	tranquilidad	tranquilidad	N	1	
 17	en	en	P	1	
 18	el	el	N	1	
-19	centro_de_catalunya_.	centro_de_catalunya_.	O	1	ne=Location
+19	centro_de_catalunya_.	centro_de_catalunya_.	R	1	ne=Location
 
 1	Lo	Lo	R	1	
 2	hemos	hemos	N	1	

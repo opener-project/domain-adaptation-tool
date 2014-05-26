@@ -1,4 +1,4 @@
-1	Amontillado	Amontillado	O	1	ne=Hotel
+1	Amontillado	Amontillado	R	1	ne=Hotel
 2	:	:	O	1	
 3	Als	als	C	1	
 4	je	je	Q	1	
@@ -37,7 +37,7 @@
 7	eigenaar	eigenaar	N	1	
 8	slikt	slikken	V	1	
 9	want	want	C	1	
-10	Peter	peter	N	1	ne=Person
+10	Peter	peter	R	1	ne=Person
 11	legt	leggen	V	1	
 12	alles	alles	Q	1	
 13	uit	uit	A	1	

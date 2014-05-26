@@ -9,11 +9,11 @@
 3	se	se	O	1	
 4	encuentra	encuentra	O	1	
 5	en	en	O	1	
-6	pleno_centro_de_florencia	pleno_centro_de_florencia	O	1	ne=Location
+6	pleno_centro_de_florencia	pleno_centro_de_florencia	R	1	ne=Location
 7	y	y	G	1	
 8	cerca	cerca	N	1	
 9	de	de	P	1	
-10	la_estacion_central_de_florencia	la_estacion_central_de_florencia	N	1	ne=POI
+10	la_estacion_central_de_florencia	la_estacion_central_de_florencia	R	1	ne=POI
 11	,	,	O	1	
 12	por	por	C	1	
 13	lo	lo	G	1	
@@ -29,7 +29,7 @@
 23	segundos	segundos	G	1	
 24	andando	andando	C	1	
 25	del	del	G	1	
-26	duomo	duomo	N	1	ne=Attraction
+26	duomo	duomo	R	1	ne=Attraction
 27	.	.	O	1	
 
 1	Las	Las	R	1	

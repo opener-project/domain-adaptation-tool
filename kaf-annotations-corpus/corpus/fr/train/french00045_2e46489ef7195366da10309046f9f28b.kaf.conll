@@ -137,7 +137,7 @@
 14	hôtel	hôtel	N	1	
 15	pendant	pendant	P	1	
 16	l'	le	D	1	
-17	été	été	N	1	ne=Date
+17	été	été	R	1	ne=Date
 18	.	.	O	1	
 
 1	Score	score	N	1	
@@ -173,5 +173,5 @@
 10	!	!	O	1	
 
 1	/	/	C	1	
-2	Mme_K	Mme_K	N	1	ne=Person
+2	Mme_K	Mme_K	R	1	ne=Person
 

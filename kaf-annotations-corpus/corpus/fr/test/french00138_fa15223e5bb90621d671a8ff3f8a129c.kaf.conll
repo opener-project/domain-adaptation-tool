@@ -14,7 +14,7 @@
 11	cette	ce	D	1	
 12	hotel	hotel	N	1	
 13	de	de	P	1	
-14	titanic_beach_spa_aquapark	titanic_beach_spa_aquapark	V	1	ne=Hotel
+14	titanic_beach_spa_aquapark	titanic_beach_spa_aquapark	R	1	ne=Hotel
 15	vraiment	vraiment	G	1	
 16	cest	cest	D	1	
 17	un	un	D	1	

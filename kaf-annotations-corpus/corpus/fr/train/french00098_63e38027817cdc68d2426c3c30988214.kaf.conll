@@ -59,14 +59,14 @@
 54	les	le	D	1	
 55	plages	plage	N	1	
 56	de	de	P	1	
-57	st_aigulf	st_aigulf	G	1	ne=Location
+57	st_aigulf	st_aigulf	R	1	ne=Location
 58	(	(	O	1	
 59	la	le	D	1	
 60	voile	voile	N	1	
 61	se	se	Q	1	
 62	pratique	pratique	G	1	
 63	a	avoir	V	1	
-64	frejus	frejus	N	1	ne=Location
+64	frejus	frejus	R	1	ne=Location
 65	)	)	O	1	
 66	.	.	O	1	
 

@@ -21,7 +21,7 @@
 4	wohl	wohl	A	1	
 5	in	in	P	1	
 6	den	die	D	1	
-7	70er_oder_80er_Jahren	70er_oder_80er_Jahr	N	1	ne=Date
+7	70er_oder_80er_Jahren	70er_oder_80er_Jahr	R	1	ne=Date
 8	erbaut	erbauen	V	1	
 9	worden	werden	V	1	
 10	und	und	C	1	
@@ -145,7 +145,7 @@
 4	Flughafen	Flughafen	N	1	
 5	Transfer	Transfer	N	1	
 6	welcher	welche	Q	1	
-7	5_US_$	5_US_$	N	1	ne=Money
+7	5_US_$	5_US_$	R	1	ne=Money
 8	kostete	kosten	V	1	
 9	.	.	O	1	
 

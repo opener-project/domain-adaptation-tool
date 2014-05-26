@@ -1,4 +1,4 @@
-1	Titanic_Beach	Titanic_Beach	N	1	ne=Hotel
+1	Titanic_Beach	Titanic_Beach	R	1	ne=Hotel
 
 1	Je	Je	Q	1	
 2	tiens	tenir	V	1	
@@ -6,9 +6,9 @@
 4	felicite	felicite	V	1	
 5	le	le	D	1	
 6	manager	manager	N	1	
-7	du_restaurant_rose	du_restaurer_rose	G	1	ne=Restaurant
+7	du_restaurant_rose	du_restaurer_rose	R	1	ne=Restaurant
 8	,	,	O	1	
-9	rhones	rhones	N	1	ne=Person
+9	rhones	rhones	R	1	ne=Person
 10	,	,	O	1	
 11	il	il	Q	1	
 12	est	être	V	1	
@@ -100,7 +100,7 @@
 5	note	noter	V	1	
 6	ici	ici	G	1	
 7	seulement	seulement	G	1	
-8	rhones	rhones	G	1	ne=Person
+8	rhones	rhones	R	1	ne=Person
 9	et	et	C	1	
 10	non	non	G	1	
 11	tout	tout	G	1	

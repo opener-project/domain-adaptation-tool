@@ -7,7 +7,7 @@
 4	als	als	C	1	
 5	Familie	Familie	N	1	
 6	im	in	P	1	
-7	Albufera_Park	Albufera_Park	N	1	ne=Hotel
+7	Albufera_Park	Albufera_Park	R	1	ne=Hotel
 8	aber	aber	A	1	
 9	bereits	bereits	A	1	
 10	in	in	P	1	

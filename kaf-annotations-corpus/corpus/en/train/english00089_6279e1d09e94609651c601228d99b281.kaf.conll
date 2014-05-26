@@ -6,7 +6,7 @@
 6	hotel	hotel	N	1	
 
 1	For	for	P	1	
-2	160_€	160_€	N	1	ne=Money
+2	160_€	160_€	R	1	ne=Money
 3	without	without	P	1	
 4	breakfast	breakfast	N	1	
 5	I	i	Q	1	
@@ -69,7 +69,7 @@
 25	even	even	A	1	
 26	charge	charge	V	1	
 27	some	some	D	1	
-28	13_€	13_€	N	1	ne=Money
+28	13_€	13_€	R	1	ne=Money
 29	for	for	P	1	
 30	that	that	D	1	
 31	.	.	O	1	

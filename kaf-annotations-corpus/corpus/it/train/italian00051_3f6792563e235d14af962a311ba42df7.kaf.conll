@@ -32,7 +32,7 @@
 30	è	è	R	1	
 31	arrivata	arrivare	V	1	
 32	alle	alle	P	1	
-33	22.00	22.00	N	1	ne=Time
+33	22.00	22.00	R	1	ne=Time
 34	...	...	O	1	
 35	.	.	O	1	
 36	da	da	P	1	

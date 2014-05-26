@@ -8,30 +8,30 @@
 2	nouvelle	nouveau	G	1	
 3	piscine	piscine	N	1	
 4	de	de	P	1	
-5	L'_Estanquet	le_Estanquet	N	1	ne=Hotel
+5	L'_Estanquet	le_Estanquet	R	1	ne=Hotel
 6	ne	ne	G	1	
 7	se	se	Q	1	
 8	situe	situer	V	1	
 9	pas	pas	G	1	
 10	au	au	P	1	
-11	camping_de_l'_Orée_du_Bois	camping_de_le_orée_du_bois	N	1	ne=Hotel
+11	camping_de_l'_Orée_du_Bois	camping_de_le_orée_du_bois	R	1	ne=Hotel
 12	mais	mais	C	1	
-13	au_camping_les_sables_de_Cordouan	au_camping_le_sables_de_Cordouan	N	1	ne=Hotel
+13	au_camping_les_sables_de_Cordouan	au_camping_le_sables_de_Cordouan	R	1	ne=Hotel
 14	.	.	O	1	
 
 1	Le	le	D	1	
 2	Propriétaire	propriétaire	N	1	
 3	de	de	P	1	
-4	l'_estanquet	le_estanquet	N	1	ne=Hotel
+4	l'_estanquet	le_estanquet	R	1	ne=Hotel
 5	est	être	V	1	
 6	aussi	aussi	G	1	
 7	le	le	D	1	
 8	propriétaire	propriétaire	N	1	
-9	des_sables_de_Cordouan	des_sable_de_Cordouan	N	1	ne=Hotel
+9	des_sables_de_Cordouan	des_sable_de_Cordouan	R	1	ne=Hotel
 10	.	.	O	1	
 
 1	Le	le	D	1	
-2	camping_de_l'_Orée_du_Bois	camping_de_le_orée_du_bois	N	1	ne=Hotel
+2	camping_de_l'_Orée_du_Bois	camping_de_le_orée_du_bois	R	1	ne=Hotel
 3	n'	n'	G	1	
 4	accueille	accueillir	V	1	
 5	aucun	aucun	D	1	

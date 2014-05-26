@@ -1,4 +1,4 @@
-1	Hôtel_Ayre_Rosselon	hôtel_Ayre_Rosselon	N	1	ne=Hotel
+1	Hôtel_Ayre_Rosselon	hôtel_Ayre_Rosselon	R	1	ne=Hotel
 
 1	Dans	Dans	P	1	
 2	l'	le	D	1	
@@ -25,7 +25,7 @@
 10	à	à	P	1	
 11	côté	côté	N	1	
 12	de	de	P	1	
-13	la_Sagrada_Familia	le_Sagrada_Familia	N	1	ne=POI
+13	la_Sagrada_Familia	le_Sagrada_Familia	R	1	ne=POI
 14	et	et	C	1	
 15	du	du	D	1	
 16	métro	métro	N	1	
@@ -62,7 +62,7 @@
 20	chambre	chambre	N	1	
 21	du	du	P	1	
 22	côtéde	côtéde	D	1	
-23	la_Sagrade_Familia	le_Sagrade_Familia	N	1	ne=POI
+23	la_Sagrade_Familia	le_Sagrade_Familia	R	1	ne=POI
 24	,	,	O	1	
 25	mais	mais	C	1	
 26	ça	ça	P	1	

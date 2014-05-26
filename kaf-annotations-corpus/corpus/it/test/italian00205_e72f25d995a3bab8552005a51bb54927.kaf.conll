@@ -106,7 +106,7 @@
 7	posizione	posizione	N	1	
 8	,	,	O	1	
 9	al	al	P	1	
-10	capolinea_Port_Orleans_della_metro	capolinea_port_orleans_della_metro	N	1	ne=POI
+10	capolinea_Port_Orleans_della_metro	capolinea_port_orleans_della_metro	R	1	ne=POI
 11	,	,	O	1	
 12	sicuramente	sicuramente	A	1	
 13	comodo	comodo	G	1	

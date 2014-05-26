@@ -102,9 +102,9 @@
 43	,	,	O	1	
 44	kann	können	V	1	
 45	nach	nach	P	1	
-46	Cassis	Cassis	O	1	ne=Location
+46	Cassis	Cassis	R	1	ne=Location
 47	oder	oder	C	1	
-48	la_Ciotat	la_Ciotat	O	1	ne=Location
+48	la_Ciotat	la_Ciotat	R	1	ne=Location
 49	fahren	fahren	V	1	
 50	,	,	O	1	
 51	sehr	sehr	A	1	

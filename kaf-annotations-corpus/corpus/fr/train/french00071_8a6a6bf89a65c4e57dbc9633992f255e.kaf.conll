@@ -13,7 +13,7 @@
 9	premiere	premiere	N	1	
 10	experience	experience	V	1	
 11	avec	avec	P	1	
-12	l'_Egypte	le_Egypte	N	1	ne=Location
+12	l'_Egypte	le_Egypte	R	1	ne=Location
 13	etait	etait	V	1	
 14	inoubliable	inoubliable	G	1	
 15	;	;	O	1	

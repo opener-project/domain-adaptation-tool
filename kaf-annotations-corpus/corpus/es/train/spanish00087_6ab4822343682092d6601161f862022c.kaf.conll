@@ -6,7 +6,7 @@
 6	mejores	mejores	N	1	
 7	en	en	O	1	
 8	la	la	O	1	
-9	Riviera	riviera	O	1	ne=Location
+9	Riviera	riviera	R	1	ne=Location
 
 1	Es	es	N	1	
 2	un	un	G	1	
@@ -21,7 +21,7 @@
 11	hoteleros	hoteleros	N	1	
 12	de	de	P	1	
 13	la	la	D	1	
-14	riviera_maya	riviera_maya	O	1	ne=Location
+14	riviera_maya	riviera_maya	R	1	ne=Location
 15	como	como	V	1	
 16	el	el	N	1	
 17	Iberostar	Iberostar	R	1	ne=Hotel
@@ -43,5 +43,5 @@
 33	mejores	mejores	N	1	
 34	que	que	V	1	
 35	el	el	N	1	
-36	Dreams	dream	N	1	ne=Hotel
+36	Dreams	dream	R	1	ne=Hotel
 

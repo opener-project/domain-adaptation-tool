@@ -20,7 +20,7 @@
 17	du	du	P	1	
 18	soir	soir	N	1	
 19	(	(	O	1	
-20	le_jeudi	le_jeudi	N	1	ne=Date
+20	le_jeudi	le_jeudi	R	1	ne=Date
 21	)	)	O	1	
 22	et	et	C	1	
 23	les	le	D	1	

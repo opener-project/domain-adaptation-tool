@@ -72,7 +72,7 @@
 67	minuti	minuto	N	1	
 68	a	a	P	1	
 69	piedi	piede	N	1	
-70	fermata_union	fermare_union	N	1	ne=POI
+70	fermata_union	fermare_union	R	1	ne=POI
 71	che	che	Q	1	
 72	collega	collegare	V	1	
 73	tutta	tutto	G	1	

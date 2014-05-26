@@ -65,7 +65,7 @@
 21	am	an	P	1	
 22	Auto	Auto	N	1	
 23	(	(	O	1	
-24	54_€	54_€	O	1	ne=Money
+24	54_€	54_€	R	1	ne=Money
 25	,	,	O	1	
 26	was	was	Q	1	
 27	aber	aber	A	1	
@@ -107,19 +107,19 @@
 6	gegenüberliegenden	gegenüberliegend	G	1	
 7	Parkhaus	Parkhaus	N	1	
 8	für	für	P	1	
-9	1_€	1_€	O	1	ne=Money
+9	1_€	1_€	R	1	ne=Money
 10	am	an	P	1	
 11	Tag	Tag	N	1	
 12	parken	parken	V	1	
 13	,	,	O	1	
 14	Achtung	Achtung	N	1	
 15	:	:	O	1	
-16	Sonntags	sonntags	A	1	ne=Date
+16	Sonntags	sonntags	R	1	ne=Date
 17	macht	machen	V	1	
 18	das	die	D	1	
 19	Parkhaus	Parkhaus	N	1	
 20	erst	erst	A	1	
 21	ab	ab	P	1	
-22	12Uhr	12Uhr	O	1	ne=Time
+22	12Uhr	12Uhr	R	1	ne=Time
 23	auf	auf	P	1	
 

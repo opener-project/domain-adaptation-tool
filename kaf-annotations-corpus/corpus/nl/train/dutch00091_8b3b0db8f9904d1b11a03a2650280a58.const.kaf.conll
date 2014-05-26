@@ -164,7 +164,7 @@
 14	werd	worden	V	1	
 15	er	er	Q	1	
 16	binnen	binnen	P	1	
-17	24_uur	@card@_uur	N	1	ne=Date
+17	24_uur	@card@_uur	R	1	ne=Date
 18	een	een	D	1	
 19	oplossing	oplossing	N	1	
 20	gevonden	vinden	V	1	

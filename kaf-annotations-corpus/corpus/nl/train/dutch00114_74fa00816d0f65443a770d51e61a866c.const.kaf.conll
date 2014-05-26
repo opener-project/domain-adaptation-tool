@@ -4,7 +4,7 @@
 4	hotel	hotel	N	1	
 
 1	Het	het	D	1	
-2	George_V_Hotel	George_V_hotel	N	1	ne=Hotel
+2	George_V_Hotel	George_V_hotel	R	1	ne=Hotel
 3	is	zijn	V	1	
 4	top	top	N	1	
 5	of	of	C	1	

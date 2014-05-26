@@ -118,7 +118,7 @@
 6	al	al	G	1	
 7	lado	lado	N	1	
 8	con	con	A	1	
-9	un_alcampo	un_alcampo	A	1	ne=POI
+9	un_alcampo	un_alcampo	R	1	ne=POI
 10	para	para	G	1	
 11	poder	poder	N	1	
 12	comprar	comprar	N	1	

@@ -19,7 +19,7 @@
 3	the	the	D	1	
 4	start	start	N	1	
 5	of	of	P	1	
-6	Vitosha_street	Vitosha_street	N	1	ne=Location
+6	Vitosha_street	Vitosha_street	R	1	ne=Location
 7	,	,	O	1	
 8	and	and	C	1	
 9	within	within	P	1	

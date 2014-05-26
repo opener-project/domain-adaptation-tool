@@ -74,7 +74,7 @@
 42	por	por	G	1	
 43	lo	lo	N	1	
 44	menos	menos	N	1	
-45	las_tres_de_la_mañana	las_tres_de_la_mañana	N	1	ne=Time
+45	las_tres_de_la_mañana	las_tres_de_la_mañana	R	1	ne=Time
 46	.	.	O	1	
 
 1	Y	Y	G	1	

@@ -26,7 +26,7 @@
 18	s3	s3	O	1	
 19	valorado	valorado	V	1	
 20	en	en	P	1	
-21	500_euros	500_euro	N	1	ne=Money
+21	500_euros	500_euro	R	1	ne=Money
 22	,	,	O	1	
 23	cuando	cuando	O	1	
 24	fui	fui	O	1	

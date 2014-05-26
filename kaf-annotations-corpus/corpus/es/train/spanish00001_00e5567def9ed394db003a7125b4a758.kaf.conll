@@ -22,7 +22,7 @@
 
 1	Llegamos	llegamos	N	1	
 2	a	a	D	1	
-3	las_12_de_la_noche	las_12_de_la_noche	N	1	ne=Time
+3	las_12_de_la_noche	las_12_de_la_noche	R	1	ne=Time
 4	,	,	O	1	
 5	tras	tras	N	1	
 6	aprovechar	aprovechar	V	1	
@@ -32,7 +32,7 @@
 10	tarde	tarde	G	1	
 11	para	para	G	1	
 12	visitar	visitar	N	1	
-13	París	parís	N	1	ne=Location
+13	París	parís	R	1	ne=Location
 14	.	.	O	1	
 
 1	La	La	R	1	

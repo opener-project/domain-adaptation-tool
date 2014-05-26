@@ -9,7 +9,7 @@
 5	7	7	O	1	
 6	days	day	N	1	
 7	at	at	P	1	
-8	the_Forum_beach_Hotel	the_Forum_beach_hotel	N	1	ne=Hotel
+8	the_Forum_beach_Hotel	the_Forum_beach_hotel	R	1	ne=Hotel
 9	.	.	O	1	
 
 1	Highlights	highlight	N	1	

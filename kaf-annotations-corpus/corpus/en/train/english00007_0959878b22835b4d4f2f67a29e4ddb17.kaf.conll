@@ -13,9 +13,9 @@
 6	the_middle_of_Paris	the_middle_of_Paris	R	1	ne=Location
 7	next	next	P	1	
 8	to	to	P	1	
-9	Les_Halles_metro	Les_Halles_metro	N	1	ne=POI
+9	Les_Halles_metro	Les_Halles_metro	R	1	ne=POI
 10	and	and	C	1	
-11	RER_station	RER_station	N	1	ne=POI
+11	RER_station	RER_station	R	1	ne=POI
 12	.	.	O	1	
 
 1	You	you	Q	1	
@@ -37,7 +37,7 @@
 4	,	,	O	1	
 5	Centre_Pompidou	Centre_Pompidou	R	1	ne=Attraction
 6	and	and	C	1	
-7	river_Seine	river_seine	N	1	ne=Attraction
+7	river_Seine	river_seine	R	1	ne=Attraction
 8	are	be	V	1	
 9	less	less	G	1	
 10	than	than	P	1	

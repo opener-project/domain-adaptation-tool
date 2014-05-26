@@ -28,7 +28,7 @@
 5	entièrement	entièrement	G	1	
 6	rénové	rénover	V	1	
 7	en	en	P	1	
-8	Juillet_2014	juillet_2014	G	1	ne=Date
+8	Juillet_2014	juillet_2014	R	1	ne=Date
 9	.	.	O	1	
 
 1	Nouvelle	nouveau	G	1	
@@ -39,7 +39,7 @@
 6	en	en	P	1	
 7	service	service	N	1	
 8	en	en	P	1	
-9	Octobre	octobre	N	1	ne=Date
+9	Octobre	octobre	R	1	ne=Date
 10	.	.	O	1	
 
 1	Repas	repas	N	1	
@@ -120,6 +120,6 @@
 31	prix	prix	N	1	
 32	meilleur	meilleur	G	1	
 33	au	au	P	1	
-34	Mexique	Mexique	N	1	ne=Location
+34	Mexique	Mexique	R	1	ne=Location
 35	.	.	O	1	
 

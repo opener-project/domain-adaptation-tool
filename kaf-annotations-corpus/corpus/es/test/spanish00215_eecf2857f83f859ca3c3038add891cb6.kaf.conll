@@ -25,7 +25,7 @@
 16	se	se	N	1	
 17	encuentra	encuentra	O	1	
 18	en	en	O	1	
-19	el_centro_de_León	el_centro_de_león	O	1	ne=Location
+19	el_centro_de_León	el_centro_de_león	R	1	ne=Location
 20	,	,	O	1	
 21	en	en	O	1	
 22	la_famosa_calle_Ancha	la_famosa_calle_Ancha	R	1	ne=Location

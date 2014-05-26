@@ -43,14 +43,14 @@
 22	perfetto	perfetto	G	1	
 23	.	.	O	1	
 
-1	miriana	miriana	N	1	ne=Person
+1	miriana	miriana	R	1	ne=Person
 2	alla	alla	P	1	
 3	reception	reception	R	1	
 4	ed	ed	Q	1	
 5	al	al	P	1	
 6	ristorante	ristorante	N	1	
 7	.	.	O	1	
-8	jack	jack	N	1	ne=Person
+8	jack	jack	R	1	ne=Person
 9	al	al	P	1	
 10	diving	diving	N	1	
 11	e	e	Q	1	
@@ -59,9 +59,9 @@
 14	immersioni	immersione	N	1	
 15	fantastiche	fantastico	G	1	
 16	.	.	O	1	
-17	stefano	stefano	V	1	ne=Person
+17	stefano	stefano	R	1	ne=Person
 18	ed	ed	Q	1	
-19	andrea	andrea	G	1	ne=Person
+19	andrea	andrea	R	1	ne=Person
 20	allo	allo	P	1	
 21	stabilimento	stabilimento	N	1	
 22	gentili	gentile	G	1	

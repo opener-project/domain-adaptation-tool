@@ -58,7 +58,7 @@
 10	à	à	P	1	
 11	1km	1km	D	1	
 12	de	de	P	1	
-13	la_gare_de_lyon	le_gare_de_lyon	N	1	ne=POI
+13	la_gare_de_lyon	le_gare_de_lyon	R	1	ne=POI
 14	ce	ce	D	1	
 15	qui	qui	P	1	
 16	est	être	V	1	

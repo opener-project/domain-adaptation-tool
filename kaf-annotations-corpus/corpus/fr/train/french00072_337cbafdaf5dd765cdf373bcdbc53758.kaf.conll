@@ -30,7 +30,7 @@
 27	de	de	P	1	
 28	plage	plage	N	1	
 29	,	,	O	1	
-30	le_phare_de_Cordouan	le_phare_de_Cordouan	N	1	ne=POI
+30	le_phare_de_Cordouan	le_phare_de_Cordouan	R	1	ne=POI
 31	..........	..........	O	1	
 32	,	,	O	1	
 33	restez	rester	V	1	

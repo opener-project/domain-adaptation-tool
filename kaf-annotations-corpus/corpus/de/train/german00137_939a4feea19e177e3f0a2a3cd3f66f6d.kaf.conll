@@ -10,7 +10,7 @@
 6	haben	haben	V	1	
 7	,	,	O	1	
 8	vom	von	P	1	
-9	Tropical_Princess	Tropical_Princess	O	1	ne=Hotel
+9	Tropical_Princess	Tropical_Princess	R	1	ne=Hotel
 10	ins	in	P	1	
 11	Caribic_P.	Caribic_P.	R	1	ne=Location
 12	wegen	wegen	P	1	
@@ -102,7 +102,7 @@
 74	Pers	Pers	O	1	
 75	.	.	O	1	
 
-1	30_Dollar	30_Dollar	N	1	ne=Money
+1	30_Dollar	30_Dollar	R	1	ne=Money
 2	zugezahlt	zuzahlen	V	1	
 3	für	für	P	1	
 4	ein	eine	D	1	

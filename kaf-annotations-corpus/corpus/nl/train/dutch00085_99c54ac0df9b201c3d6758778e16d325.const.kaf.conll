@@ -20,7 +20,7 @@
 13	franssen	franssen	O	1	
 14	die	die	Q	1	
 15	vanaf	vanaf	P	1	
-16	12_uur	@card@_uur	N	1	ne=Time
+16	12_uur	@card@_uur	R	1	ne=Time
 17	opstonden	opstaan	V	1	
 18	begonnen	beginnen	V	1	
 19	te	te	O	1	
@@ -29,7 +29,7 @@
 22	te	te	O	1	
 23	blowen	blowen	V	1	
 24	tot	tot	P	1	
-25	2_uur_snachts	@card@_uur_snachts	O	1	ne=Time
+25	2_uur_snachts	@card@_uur_snachts	R	1	ne=Time
 26	)	)	O	1	
 27	dat	dat	Q	1	
 28	wij	wij	Q	1	

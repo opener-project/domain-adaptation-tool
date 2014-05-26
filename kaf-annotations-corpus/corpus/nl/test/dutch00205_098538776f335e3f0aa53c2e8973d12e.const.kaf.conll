@@ -92,11 +92,11 @@
 4	!	!	O	1	
 
 1	Bedankt	bedanken	V	1	
-2	Haykel	Haykel	O	1	ne=Person
+2	Haykel	Haykel	R	1	ne=Person
 3	,	,	O	1	
-4	Billy	Billy	O	1	ne=Person
+4	Billy	Billy	R	1	ne=Person
 5	en	en	C	1	
-6	Kimo	Kimo	O	1	ne=Person
+6	Kimo	Kimo	R	1	ne=Person
 7	om	om	C	1	
 8	mijn	mijn	D	1	
 9	verlof	verlof	N	1	

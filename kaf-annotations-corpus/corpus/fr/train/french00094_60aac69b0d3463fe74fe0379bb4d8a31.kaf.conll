@@ -23,7 +23,7 @@
 20	avions	avoir	V	1	
 21	séjourné	séjourné	G	1	
 22	en	en	P	1	
-23	2010	2010	N	1	ne=Date
+23	2010	2010	R	1	ne=Date
 24	)	)	O	1	
 25	,	,	O	1	
 26	on	on	Q	1	

@@ -30,7 +30,7 @@
 27	à	à	P	1	
 28	5mn	5mn	N	1	
 29	de	de	P	1	
-30	la_porte_d'_Italie	le_porte_d'_Italie	N	1	ne=POI
+30	la_porte_d'_Italie	le_porte_d'_Italie	R	1	ne=POI
 31	permet	permettre	V	1	
 32	un	un	D	1	
 33	accès	accès	N	1	
@@ -38,5 +38,5 @@
 35	au	au	P	1	
 36	centre	centre	N	1	
 37	de	de	P	1	
-38	paris	pari	N	1	ne=Location
+38	paris	pari	R	1	ne=Location
 

@@ -103,7 +103,7 @@
 68	abusando	abusando	P	1	
 69	cobrando	cobrando	N	1	
 70	9	9	O	1	
-71	€_diarios	€_diarios	N	1	ne=Money
+71	€_diarios	€_diarios	R	1	ne=Money
 72	......	......	O	1	
 
 1	Lamentable	lamentable	G	1	

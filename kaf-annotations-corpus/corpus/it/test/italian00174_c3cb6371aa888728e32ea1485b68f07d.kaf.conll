@@ -21,7 +21,7 @@
 4	si	si	Q	1	
 5	ariva	ariva	V	1	
 6	in	in	P	1	
-7	piazza_duomo	piazza_duomo	N	1	ne=POI
+7	piazza_duomo	piazza_duomo	R	1	ne=POI
 8	.	.	O	1	
 
 1	I	lo	D	1	
@@ -117,7 +117,7 @@
 43	non	non	A	1	
 44	per	per	P	1	
 45	questo	questo	Q	1	
-46	novotel	novotel	N	1	ne=Hotel
+46	novotel	novotel	R	1	ne=Hotel
 47	,	,	O	1	
 48	dove	dove	Q	1	
 49	questa	questa	G	1	
@@ -125,7 +125,7 @@
 51	risulta	risultare	V	1	
 52	essere	essera	N	1	
 53	il	lo	D	1	
-54	10_%	10_%	O	1	ne=Percent
+54	10_%	10_%	R	1	ne=Percent
 55	della	della	P	1	
 56	tariffa	tariffa	G	1	
 57	!	!	O	1	

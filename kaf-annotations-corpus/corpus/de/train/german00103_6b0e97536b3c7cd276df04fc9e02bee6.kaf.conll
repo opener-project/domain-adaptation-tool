@@ -125,9 +125,9 @@
 10	Parkgebühren	Parkgebühr	N	1	
 11	von	von	P	1	
 12	fast	fast	A	1	
-13	20_€	20_€	O	1	ne=Money
+13	20_€	20_€	R	1	ne=Money
 14	für	für	P	1	
-15	27_Stunden	27_Stunde|Stunden	N	1	ne=Date
+15	27_Stunden	27_Stunde|Stunden	R	1	ne=Date
 16	sind	sein	V	1	
 17	reine	rein	G	1	
 18	Abzocke	Abzocke	O	1	

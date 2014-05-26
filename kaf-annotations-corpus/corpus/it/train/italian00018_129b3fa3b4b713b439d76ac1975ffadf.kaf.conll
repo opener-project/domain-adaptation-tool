@@ -27,7 +27,7 @@
 19	,	,	O	1	
 20	vicino	vicino	N	1	
 21	a	a	P	1	
-22	san_Pietro.	san_pietro.	N	1	ne=POI
+22	san_Pietro.	san_pietro.	R	1	ne=POI
 23	per	per	P	1	
 24	il	lo	D	1	
 25	resto	resto	N	1	
@@ -99,7 +99,7 @@
 53	noi	noi	Q	1	
 54	abbiamo	avere	V	1	
 55	pagato	pagare	V	1	
-56	50_euro	50_euro	N	1	ne=Money
+56	50_euro	50_euro	R	1	ne=Money
 57	per	per	P	1	
 58	il	lo	D	1	
 59	ritorno	ritorno	N	1	

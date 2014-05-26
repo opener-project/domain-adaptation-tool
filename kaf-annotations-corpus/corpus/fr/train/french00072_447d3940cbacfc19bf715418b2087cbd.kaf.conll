@@ -85,7 +85,7 @@
 4	du	du	D	1	
 5	classique	classique	N	1	
 6	pour	pour	P	1	
-7	l'_ile_Maurice	le_ile_Maurice	N	1	ne=Location
+7	l'_ile_Maurice	le_ile_Maurice	R	1	ne=Location
 8	,	,	O	1	
 9	ski	ski	N	1	
 10	nautique	nautique	G	1	

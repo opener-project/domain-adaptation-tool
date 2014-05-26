@@ -39,7 +39,7 @@
 3	si	si	Q	1	
 4	trova	trovare	V	1	
 5	nel	nel	P	1	
-6	"_Red_Light_District_"	&quot;_red_light_district_&quot;	O	1	ne=POI
+6	"_Red_Light_District_"	&quot;_red_light_district_&quot;	R	1	ne=POI
 7	perciò	perciò	R	1	
 8	in	in	P	1	
 9	zona	zona	N	1	
@@ -52,7 +52,7 @@
 16	a	a	P	1	
 17	piedi	piede	N	1	
 18	dalla	dalla	P	1	
-19	stazione_centrale	stazione_centrale	G	1	ne=POI
+19	stazione_centrale	stazione_centrale	R	1	ne=POI
 20	e	e	Q	1	
 21	5	5	G	1	
 22	·	·	R	1	

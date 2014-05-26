@@ -113,6 +113,6 @@
 21	a	a	D	1	
 22	visit	visit	N	1	
 23	to	to	P	1	
-24	famous_Paul_Bocuse_restaurant	famous_Paul_Bocuse_restaurant	N	1	ne=Attraction
+24	famous_Paul_Bocuse_restaurant	famous_Paul_Bocuse_restaurant	R	1	ne=Attraction
 25	.	.	O	1	
 

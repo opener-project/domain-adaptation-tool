@@ -10,7 +10,7 @@
 6	près	près	G	1	
 7	de	de	P	1	
 8	la	le	D	1	
-9	gare_ferroviaire_principale_de_Florence	gare_ferroviaire_principal_de_florence	N	1	ne=POI
+9	gare_ferroviaire_principale_de_Florence	gare_ferroviaire_principal_de_florence	R	1	ne=POI
 10	,	,	O	1	
 11	proche	proche	V	1	
 12	du	du	D	1	

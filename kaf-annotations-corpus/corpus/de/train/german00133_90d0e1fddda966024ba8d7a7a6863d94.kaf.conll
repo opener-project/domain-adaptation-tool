@@ -22,7 +22,7 @@
 15	Spuhren	Spuhren	O	1	
 16	Zerkratzt	zerkratzen	V	1	
 17	,	,	O	1	
-18	porter	porter	O	1	ne=Person
+18	porter	porter	R	1	ne=Person
 19	sehr	sehr	A	1	
 20	Unfreundlich	unfreundlich	G	1	
 21	,	,	O	1	

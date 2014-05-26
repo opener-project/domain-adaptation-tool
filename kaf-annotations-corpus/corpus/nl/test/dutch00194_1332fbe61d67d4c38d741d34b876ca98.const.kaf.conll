@@ -23,7 +23,7 @@
 5	mijn	mijn	D	1	
 6	dienstreizen	dienstreis	N	1	
 7	sedert	sedert	P	1	
-8	2001	@card@	O	1	ne=Date
+8	2001	@card@	R	1	ne=Date
 9	en	en	C	1	
 10	ben	zijn	V	1	
 11	nog	nog	A	1	

@@ -117,7 +117,7 @@
 6	veel	veel	A	1	
 7	voor	voor	A	1	
 8	,	,	O	1	
-9	de_mw._mw._die_het	de_mw_._die_het	Q	1	ne=Person
+9	de_mw._mw._die_het	de_mw_._die_het	R	1	ne=Person
 10	serveerde	serveren	V	1	
 11	was	wezen|zijn	V	1	
 12	wel	wel	A	1	
@@ -135,7 +135,7 @@
 8	slechte	slecht	G	1	
 9	rug	rug	N	1	
 10	aan	aan	P	1	
-11	Hotel_Eeserhof	hotel_Eeserhof	O	1	ne=Hotel
+11	Hotel_Eeserhof	hotel_Eeserhof	R	1	ne=Hotel
 12	over	over	A	1	
 13	gehouden	houden	V	1	
 

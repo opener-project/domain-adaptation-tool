@@ -108,7 +108,7 @@
 22	est	être	V	1	
 23	sympa	sympa	G	1	
 24	mais	mais	C	1	
-25	le_garden_grill	le_garden_grill	N	1	ne=Restaurant
+25	le_garden_grill	le_garden_grill	R	1	ne=Restaurant
 26	a	avoir	V	1	
 27	eviter	eviter	V	1	
 28	la	le	D	1	

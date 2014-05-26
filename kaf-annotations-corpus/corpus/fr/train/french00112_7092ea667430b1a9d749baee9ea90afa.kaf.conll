@@ -12,7 +12,7 @@
 8	restauration	restauration	N	1	
 9	à	à	P	1	
 10	volonté	volonté	N	1	
-11	24_sur_24_heures	24_sur_24_heure	N	1	ne=Time
+11	24_sur_24_heures	24_sur_24_heure	R	1	ne=Time
 12	bien	bien	G	1	
 13	sûr	sûr	G	1	
 14	cette	ce	D	1	

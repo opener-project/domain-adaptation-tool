@@ -1,0 +1,690 @@
+-------------------------------------------------------------------------------
+LABELLED DATA
+-------------------------------------------------------------------------------
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Attraction.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Date.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Hotel.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Location.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Person.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.POI.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Restaurant.train
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Time.train
+
+-------------------------------------------------------------------------------
+UNLABELLED DATA
+-------------------------------------------------------------------------------
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.train
+
+-------------------------------------------------------------------------------
+TEST DATA
+-------------------------------------------------------------------------------
+/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.test
+
+-------------------------------------------------------------------------------
+PARAMETERS
+-------------------------------------------------------------------------------
+THRESHOLD:         0.95
+THRESHOLD_MIN:     0.1
+THRESHOLD_STEP:    0.05
+MIN INSTANCES:     100
+RATIO:             2:1
+TF-IDF THRESHOLD:  0.55
+
+-------------------------------------------------------------------------------
+FIRST CLASSIFIERS
+-------------------------------------------------------------------------------
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |    0.0    |   0.0  |    0.0  |      0.0 |      2.0 |      64 | 
+|      7.0 |   50.0    |   8.33 |   14.29 |      4.0 |      4.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |  100.0    |   4.17 |    8.0  |      1.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   18.75   |   1.56 |    2.79 |     0.62 |     0.75 |     201 | 
+ 
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+BOOTSTRAPPING
+-------------------------------------------------------------------------------
+ITERATION: 1.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     0 |       0 |      0 |
+|      7.0 |     1 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     1 |       1 |    210 |
+New threshold: 0.9
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |    0.0    |   0.0  |    0.0  |      0.0 |      2.0 |      64 | 
+|      7.0 |   50.0    |   6.25 |   11.11 |      3.0 |      3.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |    6.25   |   0.78 |    1.39 |     0.38 |     0.62 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 2.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     1 |       0 |      0 |
+|      7.0 |     0 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     1 |       0 |    209 |
+New threshold: 0.85
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |    0.0    |   0.0  |    0.0  |      0.0 |      9.0 |      64 | 
+|      7.0 |   54.55   |  12.5  |   20.34 |      6.0 |      5.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |  100.0    |   4.17 |    8.0  |      1.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   19.32   |   2.08 |    3.54 |     0.88 |     1.75 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 3.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     0 |       0 |      0 |
+|      7.0 |     3 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     3 |       1 |    208 |
+New threshold: 0.8
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   45.45   |   7.81 |   13.33 |      5.0 |      6.0 |      64 | 
+|      7.0 |   75.0    |   6.25 |   11.54 |      3.0 |      1.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |  100.0    |   4.17 |    8.0  |      1.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   27.56   |   2.28 |    4.11 |     1.12 |     0.88 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 4.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     6 |       2 |      0 |
+|      7.0 |     0 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     6 |       2 |    205 |
+New threshold: 0.75
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   37.5    |   9.38 |   15.0  |      6.0 |     10.0 |      64 | 
+|      7.0 |   66.67   |   8.33 |   14.81 |      4.0 |      2.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   13.02   |   2.21 |    3.73 |     1.25 |     1.75 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 5.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     7 |       1 |      0 |
+|      7.0 |     4 |       3 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    11 |       4 |    199 |
+New threshold: 0.7
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   36.36   |  12.5  |   18.6  |      8.0 |     14.0 |      64 | 
+|      7.0 |   35.48   |  22.92 |   27.85 |     11.0 |     20.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |    8.98   |   4.43 |    5.81 |     2.38 |     4.25 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 6.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     5 |       2 |      0 |
+|      7.0 |    13 |       2 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     1 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    19 |       4 |    188 |
+New threshold: 0.65
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   42.11   |  25.0  |   31.37 |     16.0 |     22.0 |      64 | 
+|      7.0 |   33.33   |  29.17 |   31.11 |     14.0 |     28.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |    9.43   |   6.77 |    7.81 |     3.75 |     6.38 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 7.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |    14 |       4 |      0 |
+|      7.0 |    10 |       3 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    24 |       7 |    169 |
+New threshold: 0.6
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   51.61   |  25.0  |   33.68 |     16.0 |     15.0 |      64 | 
+|      7.0 |   35.0    |  14.58 |   20.59 |      7.0 |     13.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   10.83   |   4.95 |    6.78 |     2.88 |     3.62 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 8.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     3 |       1 |      0 |
+|      7.0 |     4 |       2 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     7 |       3 |    145 |
+New threshold: 0.55
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   41.03   |  25.0  |   31.07 |     16.0 |     23.0 |      64 | 
+|      7.0 |   32.56   |  29.17 |   30.77 |     14.0 |     29.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |    9.2    |   6.77 |    7.73 |     3.75 |     6.62 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 9.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     3 |       0 |      0 |
+|      7.0 |     7 |       2 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    10 |       2 |    138 |
+New threshold: 0.5
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   47.06   |  25.0  |   32.65 |     16.0 |     18.0 |      64 | 
+|      7.0 |   42.86   |  18.75 |   26.09 |      9.0 |     12.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   11.24   |   5.47 |    7.34 |     3.12 |     3.88 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 10..
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     0 |       0 |      0 |
+|      7.0 |     2 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     2 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     4 |       1 |    128 |
+New threshold: 0.45
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   43.24   |  25.0  |   31.68 |     16.0 |     21.0 |      64 | 
+|      7.0 |   34.78   |  33.33 |   34.04 |     16.0 |     30.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      3.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |    9.75   |   7.29 |    8.22 |      4.0 |     6.75 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 11.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     2 |       0 |      0 |
+|      7.0 |     2 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     1 |       1 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     5 |       1 |    124 |
+New threshold: 0.4
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   48.57   |  26.56 |   34.34 |     17.0 |     18.0 |      64 | 
+|      7.0 |   38.1    |  16.67 |   23.19 |      8.0 |     13.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      18 | 
+|  AVERAGE |   10.83   |   5.4  |    7.19 |     3.12 |     4.12 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 12.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     1 |       0 |      0 |
+|      7.0 |     2 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     3 |       0 |    119 |
+New threshold: 0.35
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   43.9    |  28.12 |   34.29 |     18.0 |     23.0 |      64 | 
+|      7.0 |   39.47   |  31.25 |   34.88 |     15.0 |     23.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      3.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   10.42   |   7.42 |    8.65 |     4.12 |     6.12 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 13.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     5 |       2 |      0 |
+|      7.0 |     3 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     1 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     9 |       3 |    116 |
+New threshold: 0.3
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   41.46   |  26.56 |   32.38 |     17.0 |     24.0 |      64 | 
+|      7.0 |   35.0    |  29.17 |   31.82 |     14.0 |     26.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |  100.0    |   4.17 |    8.0  |      1.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      5.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   22.06   |   7.49 |    9.02 |      4.0 |     6.88 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 14..
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     7 |       0 |      0 |
+|      7.0 |     5 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     1 |       1 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    13 |       2 |    107 |
+New threshold: 0.25
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   37.04   |  15.62 |   21.98 |     10.0 |     17.0 |      64 | 
+|      7.0 |   35.0    |  29.17 |   31.82 |     14.0 |     26.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |  100.0    |   4.17 |    8.0  |      1.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      4.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   21.5    |   6.12 |    7.72 |     3.12 |     5.88 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 15.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     5 |       3 |      0 |
+|      7.0 |     7 |       3 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     1 |       0 |      0 |
+|      8.0 |     1 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    14 |       6 |     94 |
+New threshold: 0.2
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   52.63   |  31.25 |   39.22 |     20.0 |     18.0 |      64 | 
+|      7.0 |   38.71   |  25.0  |   30.38 |     12.0 |     19.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      2.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      4.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   11.42   |   7.03 |    8.7  |      4.0 |     5.38 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 16.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     9 |       2 |      0 |
+|      7.0 |     9 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     3 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    21 |       3 |     80 |
+New threshold: 0.15
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   48.57   |  26.56 |   34.34 |     17.0 |     18.0 |      64 | 
+|      7.0 |   35.29   |  25.0  |   29.27 |     12.0 |     22.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      4.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   10.48   |   6.44 |    7.95 |     3.62 |     5.62 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 17.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     4 |       2 |      0 |
+|      7.0 |     8 |       2 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     3 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |    15 |       4 |     59 |
+New threshold: 0.1
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   45.95   |  26.56 |   33.66 |     17.0 |     20.0 |      64 | 
+|      7.0 |   25.64   |  20.83 |   22.99 |     10.0 |     29.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |   20.0    |   4.17 |    6.9  |      1.0 |      4.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      4.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   11.45   |   6.44 |    7.94 |      3.5 |     7.12 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 18.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     3 |       0 |      0 |
+|      7.0 |     8 |       1 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     5 |       1 |      0 |
+|      8.0 |     3 |       0 |      0 |
+|      5.0 |     2 |       1 |      0 |
+|    TOTAL |    21 |       3 |     44 |
+New threshold: 0.1
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   48.48   |  25.0  |   32.99 |     16.0 |     17.0 |      64 | 
+|      7.0 |   25.0    |  16.67 |   20.0  |      8.0 |     24.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |   25.0    |   4.17 |    7.14 |      1.0 |      3.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      2.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   12.31   |   5.73 |    7.52 |     3.12 |     5.75 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 19.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     0 |       0 |      0 |
+|      7.0 |     0 |       0 |      0 |
+|      2.0 |     1 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     1 |       0 |      0 |
+|      8.0 |     2 |       0 |      0 |
+|      5.0 |     1 |       0 |      0 |
+|    TOTAL |     5 |       0 |     23 |
+New threshold: 0.1
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   48.48   |  25.0  |   32.99 |     16.0 |     17.0 |      64 | 
+|      7.0 |   34.69   |  35.42 |   35.05 |     17.0 |     32.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |   28.57   |   8.33 |   12.9  |      2.0 |      5.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      6.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      18 | 
+|  AVERAGE |   13.97   |   8.59 |   10.12 |     4.38 |      7.5 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 20.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     0 |       0 |      0 |
+|      7.0 |     3 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     1 |       1 |      0 |
+|      8.0 |     1 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     5 |       1 |     18 |
+New threshold: 0.1
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   50.0    |  26.56 |   34.69 |     17.0 |     17.0 |      64 | 
+|      7.0 |   31.82   |  29.17 |   30.43 |     14.0 |     30.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |   37.5    |  12.5  |   18.75 |      3.0 |      5.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      5.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      18 | 
+|  AVERAGE |   14.92   |   8.53 |   10.48 |     4.25 |     7.38 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 21..
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     1 |       0 |      0 |
+|      7.0 |     0 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     3 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     4 |       0 |     13 |
+New threshold: 0.1
+
+Training classifiers..........
+Evaluation.
+
+| Category | Precision | Recall | F-Score |    TP    |    FP    |  TOTAL  |
+|      3.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      16 | 
+|      6.0 |   48.65   |  28.12 |   35.64 |     18.0 |     19.0 |      64 | 
+|      7.0 |   32.61   |  31.25 |   31.91 |     15.0 |     31.0 |      48 | 
+|      2.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |       0 | 
+|      1.0 |    0.0    |   0.0  |    0.0  |      0.0 |      0.0 |      15 | 
+|      4.0 |   20.0    |   4.17 |    6.9  |      1.0 |      4.0 |      24 | 
+|      8.0 |    0.0    |   0.0  |    0.0  |      0.0 |      8.0 |      16 | 
+|      5.0 |    0.0    |   0.0  |    0.0  |      0.0 |      1.0 |      18 | 
+|  AVERAGE |   12.66   |   7.94 |    9.31 |     4.25 |     7.88 |     201 | 
+ 
+-------------------------------------------------------------------------------
+ITERATION: 22.
+
+| Category | Added | Correct |  Total |
+|      3.0 |     0 |       0 |      0 |
+|      6.0 |     0 |       0 |      0 |
+|      7.0 |     0 |       0 |      0 |
+|      2.0 |     0 |       0 |      0 |
+|      1.0 |     0 |       0 |      0 |
+|      4.0 |     0 |       0 |      0 |
+|      8.0 |     0 |       0 |      0 |
+|      5.0 |     0 |       0 |      0 |
+|    TOTAL |     0 |       0 |      9 |
+-------------------------------------------------------------------------------
+SAVING CLASSIFIERS
+-------------------------------------------------------------------------------
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Attraction.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Date.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Hotel.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Location.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Person.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.POI.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Restaurant.bin' wrote
+Classifier '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.Time.bin' wrote
+-------------------------------------------------------------------------------
+SAVING TF-IDF DICTIONARY
+-------------------------------------------------------------------------------
+TF-IDF dictionary '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.tfidf.dic' wrote
+TF-IDF binarized dictionary '/home/VICOMTECH/aazpeitia/Desktop/opeNER/domain-adaptation-tool/kaf-annotations-corpus/svm/fr/kaf-annotations.no-chunk.balanced.tf-idf.fr.tfidf.dbin' wrote

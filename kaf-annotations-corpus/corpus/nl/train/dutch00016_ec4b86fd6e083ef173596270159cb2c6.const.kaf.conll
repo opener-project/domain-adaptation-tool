@@ -1,7 +1,7 @@
 1	Beschrijving	beschrijving	N	1	
-2	Carat_Vitalhotel	Carat_Vitalhotel	O	1	ne=Hotel
+2	Carat_Vitalhotel	Carat_Vitalhotel	R	1	ne=Hotel
 3	te	te	O	1	
-4	Monschau	Monschau	O	1	ne=Location
+4	Monschau	Monschau	R	1	ne=Location
 
 1	De	de	D	1	
 2	parking	parking	N	1	

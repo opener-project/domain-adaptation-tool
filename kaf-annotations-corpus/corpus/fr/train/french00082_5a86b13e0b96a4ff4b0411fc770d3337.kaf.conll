@@ -4,7 +4,7 @@
 4	en	en	P	1	
 5	famille	famille	N	1	
 
-1	AquaBéarn	AquaBéarn	N	1	ne=Attraction
+1	AquaBéarn	AquaBéarn	R	1	ne=Attraction
 2	est	être	V	1	
 3	un	un	D	1	
 4	parc	parc	N	1	
@@ -39,7 +39,7 @@
 4	est	être	V	1	
 5	bondé	bonder	V	1	
 6	en	en	P	1	
-7	été	été	N	1	ne=Date
+7	été	été	R	1	ne=Date
 8	quand	quand	C	1	
 9	il	il	Q	1	
 10	fait	faire	V	1	

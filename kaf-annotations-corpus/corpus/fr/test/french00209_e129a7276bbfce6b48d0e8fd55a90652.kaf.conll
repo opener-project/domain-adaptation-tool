@@ -10,7 +10,7 @@
 3	à	à	P	1	
 4	l'	le	D	1	
 5	hôtel	hôtel	N	1	
-6	Bloom	bloom	N	1	ne=Hotel
+6	Bloom	bloom	R	1	ne=Hotel
 7	!	!	O	1	
 
 1	L'	le	D	1	
@@ -60,7 +60,7 @@
 5	quartier	quartier	N	1	
 6	avoisinant	avoisinant	G	1	
 7	(	(	O	1	
-8	Schaerbeek	Schaerbeek	N	1	ne=POI
+8	Schaerbeek	Schaerbeek	R	1	ne=POI
 9	)	)	O	1	
 10	est	être	V	1	
 11	un	un	D	1	

@@ -41,7 +41,7 @@
 12	y	y	A	1	
 13	pegado	pegado	V	1	
 14	a	a	D	1	
-15	la_parada_de_Metro_de_la_Línea_5	la_parada_de_Metro_de_la_Línea_5	O	1	ne=POI
+15	la_parada_de_Metro_de_la_Línea_5	la_parada_de_Metro_de_la_Línea_5	R	1	ne=POI
 16	,	,	O	1	
 17	Gran_Vía	Gran_Vía	R	1	ne=Location
 18	.	.	O	1	

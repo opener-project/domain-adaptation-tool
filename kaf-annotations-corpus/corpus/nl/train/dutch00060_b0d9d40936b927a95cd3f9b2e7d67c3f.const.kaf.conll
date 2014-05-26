@@ -32,7 +32,7 @@
 6	onbeheerd	onbeheerd	G	1	
 7	gelaten	laten	V	1	
 8	omdat	omdat	C	1	
-9	de_receptionist	de_receptionist	N	1	ne=Person
+9	de_receptionist	de_receptionist	R	1	ne=Person
 10	op	op	P	1	
 11	die	die	D	1	
 12	momenten	moment	N	1	

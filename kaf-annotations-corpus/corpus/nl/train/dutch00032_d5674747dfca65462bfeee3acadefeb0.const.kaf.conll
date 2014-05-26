@@ -115,10 +115,10 @@
 111	bij	bij	P	1	
 112	het	het	D	1	
 113	eten	eten	N	1	
-114	4euro	4euro	O	1	ne=Money
+114	4euro	4euro	R	1	ne=Money
 115	,	,	O	1	
 116	fles	flessen	V	1	
 117	water	water	N	1	
-118	3_euro	@card@_euro	N	1	ne=Money
+118	3_euro	@card@_euro	R	1	ne=Money
 119	.	.	O	1	
 

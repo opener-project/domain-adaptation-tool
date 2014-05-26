@@ -8,7 +8,7 @@
 3	même	même	G	1	
 4	constat	constat	N	1	
 5	que	que	C	1	
-6	Isa92	Isa92	N	1	ne=Person
+6	Isa92	Isa92	R	1	ne=Person
 7	.	.	O	1	
 
 1	Difficile	difficile	G	1	
@@ -86,16 +86,16 @@
 5	l'	le	D	1	
 6	extérieur	extérieur	N	1	
 7	(	(	O	1	
-8	Coulon	Coulon	N	1	ne=Location
+8	Coulon	Coulon	R	1	ne=Location
 9	et	et	C	1	
 10	ses	son	D	1	
 11	environs	environs	N	1	
 12	,	,	O	1	
-13	marais_poitevin	marais_poitevin	N	1	ne=Location
+13	marais_poitevin	marais_poitevin	R	1	ne=Location
 14	,	,	O	1	
-15	Puy_du_Fou	puy_du_fou	N	1	ne=Location
+15	Puy_du_Fou	puy_du_fou	R	1	ne=Location
 16	,	,	O	1	
-17	La_Rochelle	le_Rochelle	N	1	ne=Location
+17	La_Rochelle	le_Rochelle	R	1	ne=Location
 18	...	...	O	1	
 19	)	)	O	1	
 20	et	et	C	1	

@@ -127,7 +127,7 @@
 20	per	per	P	1	
 21	arrivare	arrivare	V	1	
 22	sul	sul	P	1	
-23	Ponte_Vecchio	ponte_vecchio	N	1	ne=POI
+23	Ponte_Vecchio	ponte_vecchio	R	1	ne=POI
 24	c'	c'	A	1	
 25	è	essere	V	1	
 26	comunque	comunque	A	1	

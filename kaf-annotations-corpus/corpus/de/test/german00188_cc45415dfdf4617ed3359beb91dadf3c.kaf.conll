@@ -65,7 +65,7 @@
 10	Dubai_Mall	Dubai_Mall	R	1	ne=Location
 11	(	(	O	1	
 12	ca.	ca.	A	1	
-13	3_€	3_€	O	1	ne=Money
+13	3_€	3_€	R	1	ne=Money
 14	)	)	O	1	
 15	.	.	O	1	
 

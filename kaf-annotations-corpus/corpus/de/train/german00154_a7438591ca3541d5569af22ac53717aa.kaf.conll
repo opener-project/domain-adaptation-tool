@@ -3,7 +3,7 @@
 3	Schönheitsfehlern	Schönheitsfehler	N	1	
 
 1	Das	die	D	1	
-2	Sercotel_Sorolla_Palace	Sercotel_Sorolla_Palace	O	1	ne=Hotel
+2	Sercotel_Sorolla_Palace	Sercotel_Sorolla_Palace	R	1	ne=Hotel
 3	ist	sein	V	1	
 4	ein	eine	D	1	
 5	Businesshotel	Businesshotel	O	1	
@@ -92,7 +92,7 @@
 9	einer	eine	D	1	
 10	Rate	Rate	N	1	
 11	von	von	P	1	
-12	60_€	60_€	O	1	ne=Money
+12	60_€	60_€	R	1	ne=Money
 13	pro	pro	P	1	
 14	Nacht	Nacht	N	1	
 15	ist	sein	V	1	

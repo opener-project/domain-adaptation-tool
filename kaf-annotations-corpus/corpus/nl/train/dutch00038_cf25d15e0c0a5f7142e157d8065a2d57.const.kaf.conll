@@ -3,7 +3,7 @@
 3	,	,	O	1	
 4	zeker	zeker	G	1	
 5	in	in	P	1	
-6	2013	@card@	O	1	ne=Date
+6	2013	@card@	R	1	ne=Date
 7	na	na	P	1	
 8	de	de	D	1	
 9	vernieuwing	vernieuwing	N	1	
@@ -85,7 +85,7 @@
 20	de	de	D	1	
 21	boertjes	boer	N	1	
 22	in	in	P	1	
-23	China_.	China_.	O	1	ne=Location
+23	China_.	China_.	R	1	ne=Location
 
 1	Wij	wij	Q	1	
 2	zijn	zijn	V	1	
@@ -93,7 +93,7 @@
 4	China	China	R	1	ne=Location
 5	geweest	wezen|zijn	V	1	
 6	in	in	P	1	
-7	2010	@card@	O	1	ne=Date
+7	2010	@card@	R	1	ne=Date
 8	en	en	C	1	
 9	het	het	D	1	
 10	zeker	zeker	G	1	

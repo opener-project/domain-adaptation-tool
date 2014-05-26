@@ -29,7 +29,7 @@
 5	beter	beter|goed	G	1	
 6	gehad	hebben	V	1	
 7	(	(	O	1	
-8	premier_le_reve	premier_le_reve	O	1	ne=Hotel
+8	premier_le_reve	premier_le_reve	R	1	ne=Hotel
 9	)	)	O	1	
 10	;	;	O	1	
 
@@ -42,7 +42,7 @@
 7	veel	veel	A	1	
 8	te	te	O	1	
 9	drukke	druk	G	1	
-10	reef_oasis_beach	reef_oasis_beach	O	1	ne=Attraction
+10	reef_oasis_beach	reef_oasis_beach	R	1	ne=Attraction
 11	(	(	O	1	
 12	veel	veel	O	1	
 13	italianen	Italiaan	N	1	
@@ -84,14 +84,14 @@
 30	old	old	O	1	
 31	market	market	O	1	
 32	:	:	O	1	
-33	het_oude_sharm	het_oud_sharm	O	1	ne=Attraction
+33	het_oude_sharm	het_oud_sharm	R	1	ne=Attraction
 34	ligt	liggen	V	1	
 35	op3	op3	O	1	
 36	km	km	N	1	
 37	met	met	P	1	
 38	de	de	D	1	
 39	taxi	taxi	N	1	
-40	5_min	@card@_minnen	V	1	ne=Time
+40	5_min	@card@_minnen	R	1	ne=Time
 41	;	;	O	1	
 42	waar	waar	Q	1	
 43	het	het	D	1	
@@ -103,10 +103,10 @@
 49	goedkoper	goedkoop	G	1	
 50	dan	dan	C	1	
 51	in	in	P	1	
-52	naama_bay	naama_bay	O	1	ne=Location
+52	naama_bay	naama_bay	R	1	ne=Location
 53	waar	waar	Q	1	
 54	het	het	D	1	
-55	30_tot50percent	@card@_tot50percent	O	1	ne=Percent
+55	30_tot50percent	@card@_tot50percent	R	1	ne=Percent
 56	duurder	duur	G	1	
 57	is	zijn	V	1	
 58	.	.	O	1	
@@ -126,7 +126,7 @@
 13	er	er	Q	1	
 14	komen	komen	V	1	
 15	volgens	volgens	P	1	
-16	de_manager	de_manager	N	1	ne=Person
+16	de_manager	de_manager	R	1	ne=Person
 17	18	@card@	O	1	
 18	restaurants	restaurant	N	1	
 19	nu	nu	A	1	
@@ -139,6 +139,6 @@
 26	;	;	O	1	
 
 1	gr	gr	O	1	
-2	peter	peter	N	1	ne=Person
-3	sandra	sandra	O	1	ne=Person
+2	peter	peter	R	1	ne=Person
+3	sandra	sandra	R	1	ne=Person
 

@@ -2,7 +2,7 @@
 2	kommen	kommen	V	1	
 3	wieder	wieder	A	1	
 
-1	Das_Harrah	die_Harrah	O	1	ne=Location
+1	Das_Harrah	die_Harrah	R	1	ne=Location
 2	'	'	O	1	
 3	s	s	N	1	
 4	hat	haben	V	1	
@@ -18,7 +18,7 @@
 5	vielen	viele	Q	1	
 6	Themenhotels	Themenhotels	O	1	
 7	in	in	P	1	
-8	Las_Vegas	lesen_Vegas	O	1	ne=Location
+8	Las_Vegas	lesen_Vegas	R	1	ne=Location
 9	waren	sein	V	1	
 10	,	,	O	1	
 11	achten	achten	V	1	
@@ -70,10 +70,10 @@
 1	Wir	wir	Q	1	
 2	haben	haben	V	1	
 3	für	für	P	1	
-4	drei_Nächte_im_Mai	drei_Nacht_in_Mai	N	1	ne=Date
+4	drei_Nächte_im_Mai	drei_Nacht_in_Mai	R	1	ne=Date
 5	zu	zu	O	1	
 6	zweit	zweit	G	1	
-7	103_EUR	@card@_EUR	O	1	ne=Money
+7	103_EUR	@card@_EUR	R	1	ne=Money
 8	bezahlt	bezahlen	V	1	
 9	.	.	O	1	
 

@@ -5,11 +5,11 @@
 3	grâce	grâce	N	1	
 4	à	à	P	1	
 5	l'	le	D	1	
-6	hotel_Madison	hotel_Madison	N	1	ne=Hotel
+6	hotel_Madison	hotel_Madison	R	1	ne=Hotel
 7	qui	qui	P	1	
 8	offrait	offrir	V	1	
 9	ce	ce	D	1	
-10	Pâques_2013	pâque_2013	G	1	ne=Date
+10	Pâques_2013	pâque_2013	R	1	ne=Date
 11	des	des	P	1	
 12	billets	billet	N	1	
 13	à	à	P	1	

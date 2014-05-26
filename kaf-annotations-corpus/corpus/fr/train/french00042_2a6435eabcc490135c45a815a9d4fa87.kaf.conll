@@ -96,7 +96,7 @@
 9	il	il	Q	1	
 10	y	y	Q	1	
 11	a	avoir	V	1	
-12	24heures_sur_24	24heures_sur_24	D	1	ne=Time
+12	24heures_sur_24	24heures_sur_24	R	1	ne=Time
 13	quelqu'	quelque	D	1	
 14	un	un	D	1	
 15	à	à	P	1	

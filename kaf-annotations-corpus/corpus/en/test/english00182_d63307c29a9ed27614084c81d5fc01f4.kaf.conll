@@ -82,7 +82,7 @@
 11	,	,	O	1	
 12	it	it	Q	1	
 13	's	have	V	1	
-14	€_7	€_7	O	1	ne=Money
+14	€_7	€_7	R	1	ne=Money
 15	/	/	G	1	
 16	person	person	N	1	
 17	.	.	O	1	

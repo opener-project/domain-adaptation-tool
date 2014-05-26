@@ -27,7 +27,7 @@
 6	bij	bij	P	1	
 7	Gerges	Gerges	O	1	
 8	,	,	O	1	
-9	Natasja	Natasja	O	1	ne=Person
+9	Natasja	Natasja	R	1	ne=Person
 10	of	of	C	1	
 11	Greet	Greet	O	1	
 12	terecht	terecht	G	1	
@@ -63,7 +63,7 @@
 5	prettig	prettig	G	1	
 6	ervaren	ervaren	V	1	
 7	dat	dat	C	1	
-8	de_hostess_Natasja	de_hostess_Natasja	O	1	ne=Person
+8	de_hostess_Natasja	de_hostess_Natasja	R	1	ne=Person
 9	elke	elk	D	1	
 10	dag	dag	N	1	
 11	op	op	P	1	

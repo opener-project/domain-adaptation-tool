@@ -78,7 +78,7 @@
 21	de	de	O	1	
 22	tranvía	tranvía	O	1	
 23	desde	desde	O	1	
-24	la_estacion_de_Sloterdijk	la_estacion_de_sloterdijk	O	1	ne=POI
+24	la_estacion_de_Sloterdijk	la_estacion_de_sloterdijk	R	1	ne=POI
 25	.	.	O	1	
 
 1	Esta	Esta	R	1	

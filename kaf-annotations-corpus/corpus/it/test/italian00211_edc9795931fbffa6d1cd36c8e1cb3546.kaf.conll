@@ -7,7 +7,7 @@
 3	soggiorno	soggiorno	N	1	
 4	spesso	spesso	A	1	
 5	a	a	P	1	
-6	dubai	dubai	N	1	ne=Location
+6	dubai	dubai	R	1	ne=Location
 7	per	per	P	1	
 8	lavoro	lavoro	N	1	
 9	,	,	O	1	
@@ -16,7 +16,7 @@
 12	provato	provare	V	1	
 13	diversi	diverso	G	1	
 14	hotel.	hotel.	N	1	
-15	four_points_by_sheraton	four_points_by_sheraton	N	1	ne=Hotel
+15	four_points_by_sheraton	four_points_by_sheraton	R	1	ne=Hotel
 16	downtown	downtown	A	1	
 17	mi	mi	Q	1	
 18	sembra	sembrare	V	1	

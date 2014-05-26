@@ -1,4 +1,4 @@
-1	Du_02_au_09_juillet	Du_02_au_09_juillet	N	1	ne=Date
+1	Du_02_au_09_juillet	Du_02_au_09_juillet	R	1	ne=Date
 2	,	,	O	1	
 3	beau	beau	G	1	
 4	temps	temps	N	1	
@@ -94,6 +94,6 @@
 84	,	,	O	1	
 85	c'	c'	Q	1	
 86	était	être	V	1	
-87	début_juillet	début_juillet	N	1	ne=Date
+87	début_juillet	début_juillet	R	1	ne=Date
 88	.	.	O	1	
 

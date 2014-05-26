@@ -56,7 +56,7 @@
 7	,	,	O	1	
 8	siendo	siendo	V	1	
 9	un	un	G	1	
-10	8_de_diciembre	8_de_diciembre	N	1	ne=Date
+10	8_de_diciembre	8_de_diciembre	R	1	ne=Date
 11	,	,	O	1	
 12	mal	mal	G	1	
 13	,	,	O	1	
@@ -66,7 +66,7 @@
 17	cola	cola	N	1	
 18	siendo	siendo	N	1	
 19	las	las	V	1	
-20	20:30_h	20:30_h	G	1	ne=Time
+20	20:30_h	20:30_h	R	1	ne=Time
 21	y	y	G	1	
 22	tuvimos	tuvimos	N	1	
 23	que	que	V	1	
@@ -91,7 +91,7 @@
 10	y	y	G	1	
 11	si	si	N	1	
 12	a	a	D	1	
-13	8_de_diciembre	8_de_diciembre	O	1	ne=Date
+13	8_de_diciembre	8_de_diciembre	R	1	ne=Date
 14	(	(	O	1	
 15	que	que	G	1	
 16	tampoco	tampoco	N	1	

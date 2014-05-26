@@ -23,7 +23,7 @@
 7	by	by	P	1	
 8	foot	foot	N	1	
 9	from	from	P	1	
-10	Amsterdam_cetral_train_terminal	Amsterdam_cetral_train_terminal	N	1	ne=POI
+10	Amsterdam_cetral_train_terminal	Amsterdam_cetral_train_terminal	R	1	ne=POI
 11	.	.	O	1	
 
 1	The	the	D	1	

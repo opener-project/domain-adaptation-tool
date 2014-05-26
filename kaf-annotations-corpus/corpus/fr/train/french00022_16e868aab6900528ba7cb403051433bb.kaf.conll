@@ -50,7 +50,7 @@
 29	lieu	lieu	N	1	
 30	surplombé	surplomber	G	1	
 31	par	par	P	1	
-32	le_Morne	le_morne	N	1	ne=Location
+32	le_Morne	le_morne	R	1	ne=Location
 33	est	être	V	1	
 34	magique	magique	G	1	
 35	,	,	O	1	

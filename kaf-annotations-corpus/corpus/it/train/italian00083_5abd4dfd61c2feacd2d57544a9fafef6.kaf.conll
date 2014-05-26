@@ -47,7 +47,7 @@
 12	bianco	bianco	N	1	
 13	,	,	O	1	
 14	alle	alle	P	1	
-15	5_del_mattino	5_del_mattino	N	1	ne=Time
+15	5_del_mattino	5_del_mattino	R	1	ne=Time
 16	è	è	R	1	
 17	arrivata	arrivata	O	1	
 18	finalmente	finalmente	A	1	

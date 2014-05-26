@@ -1,5 +1,5 @@
 1	Séjour	Séjour	P	1	
-2	hôtel_Titanic	hôtel_Titanic	N	1	ne=Hotel
+2	hôtel_Titanic	hôtel_Titanic	R	1	ne=Hotel
 
 1	equipe	equipe	V	1	
 2	animation	animation	N	1	
@@ -10,7 +10,7 @@
 7	francophone	francophone	N	1	
 8	(	(	O	1	
 9	alias	alias	G	1	
-10	zizo	zizo	N	1	ne=Person
+10	zizo	zizo	R	1	ne=Person
 11	)	)	O	1	
 12	5	5	D	1	
 13	etoiles.	etoiles.	D	1	
@@ -52,7 +52,7 @@
 49	merci	merci	N	1	
 50	a	avoir	V	1	
 51	toi	lui	Q	1	
-52	zizo	zizo	N	1	ne=Person
+52	zizo	zizo	R	1	ne=Person
 53	.	.	O	1	
 
 1	hotel	hotel	G	1	

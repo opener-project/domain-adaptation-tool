@@ -58,8 +58,8 @@
 56	a	avoir	V	1	
 57	5km	5km	G	1	
 58	de	de	P	1	
-59	playa_del_ingles	playa_del_ingles	N	1	ne=POI
-60	maspalomas	maspalomas	G	1	ne=Location
+59	playa_del_ingles	playa_del_ingles	R	1	ne=POI
+60	maspalomas	maspalomas	R	1	ne=Location
 61	et	et	C	1	
 62	por	por	P	1	
 63	les	le	D	1	

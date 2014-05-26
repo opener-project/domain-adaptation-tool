@@ -8,9 +8,9 @@
 1	Abbiamo	avere	V	1	
 2	soggiornato	soggiornare	V	1	
 3	dal	dal	P	1	
-4	07_/_03	07_/_03	N	1	ne=Date
+4	07_/_03	07_/_03	R	1	ne=Date
 5	al	al	P	1	
-6	14_/_03	14_/_03	N	1	ne=Date
+6	14_/_03	14_/_03	R	1	ne=Date
 7	/	/	O	1	
 8	13	13	N	1	
 9	in	in	P	1	
@@ -90,7 +90,7 @@
 14	francese	francese	G	1	
 15	c'	c'	A	1	
 16	è	è	R	1	
-17	Barbara	barbara	V	1	ne=Person
+17	Barbara	barbara	R	1	ne=Person
 18	,	,	O	1	
 19	italiana	italiano	G	1	
 20	,	,	O	1	

@@ -13,11 +13,11 @@
 4	5	5	O	1	
 5	nights	night	N	1	
 6	in	in	P	1	
-7	July_2012	July_2012	O	1	ne=Date
+7	July_2012	July_2012	R	1	ne=Date
 8	.	.	O	1	
 
 1	This	this	D	1	
-2	HI	HI	N	1	ne=Hotel
+2	HI	HI	R	1	ne=Hotel
 3	is	be	V	1	
 4	what	what	Q	1	
 5	one	one	Q	1	

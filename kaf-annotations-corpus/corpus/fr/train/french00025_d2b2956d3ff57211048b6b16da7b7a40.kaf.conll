@@ -12,7 +12,7 @@
 6	bonne	bon	G	1	
 7	journée	journée	N	1	
 8	à	à	P	1	
-9	Aqualand	Aqualand	N	1	ne=Attraction
+9	Aqualand	Aqualand	R	1	ne=Attraction
 10	.	.	O	1	
 
 1	Les	le	D	1	

@@ -36,7 +36,7 @@
 8	del	del	P	1	
 9	parcheggio	parcheggio	N	1	
 10	di	di	P	1	
-11	U_$_18	u_$_18	N	1	ne=Money
+11	U_$_18	u_$_18	R	1	ne=Money
 12	al	al	P	1	
 13	giorno	giorno	N	1	
 14	era	essere	V	1	

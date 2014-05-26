@@ -81,7 +81,7 @@
 22	veren	veer	N	1	
 23	moeten	moeten	V	1	
 24	"	"	O	1	
-25	07:15_uur	@card@_uur	N	1	ne=Time
+25	07:15_uur	@card@_uur	R	1	ne=Time
 26	"	"	O	1	
 27	,	,	O	1	
 28	bij	bij	P	1	

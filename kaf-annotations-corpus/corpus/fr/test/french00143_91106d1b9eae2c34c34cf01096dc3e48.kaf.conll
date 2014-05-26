@@ -19,9 +19,9 @@
 12	non	non	G	1	
 13	loin	loin	G	1	
 14	de	de	P	1	
-15	la_Ramblas	le_Ramblas	N	1	ne=POI
+15	la_Ramblas	le_Ramblas	R	1	ne=POI
 16	et	et	C	1	
-17	du_port_de_Barcelone	du_port_de_Barcelone	N	1	ne=POI
+17	du_port_de_Barcelone	du_port_de_Barcelone	R	1	ne=POI
 18	.	.	O	1	
 
 1	Il	Il	Q	1	

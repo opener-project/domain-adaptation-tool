@@ -10,7 +10,7 @@
 8	de	de	P	1	
 9	Madrid	Madrid	R	1	ne=Location
 10	,	,	O	1	
-11	los_días_23,24_y_25_de_noviembre_de_2012	los_días_23,24_y_25_de_noviembre_de_2012	O	1	ne=Date
+11	los_días_23,24_y_25_de_noviembre_de_2012	los_días_23,24_y_25_de_noviembre_de_2012	R	1	ne=Date
 12	.	.	O	1	
 
 1	Un	un	G	1	
@@ -20,7 +20,7 @@
 5	dedicado	dedicado	V	1	
 6	a	a	D	1	
 7	ver	ver	A	1	
-8	el_espectáculo_del_rey_león	el_espectáculo_del_rey_león	O	1	ne=Attraction
+8	el_espectáculo_del_rey_león	el_espectáculo_del_rey_león	R	1	ne=Attraction
 9	y	y	A	1	
 10	a	a	D	1	
 11	descubir	descubir	O	1	

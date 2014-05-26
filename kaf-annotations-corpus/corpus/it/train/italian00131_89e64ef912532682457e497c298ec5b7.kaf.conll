@@ -7,7 +7,7 @@
 3	potete	potere	V	1	
 4	andare	andare	V	1	
 5	al	al	P	1	
-6	campeggio_gianna	campeggio_gianna	V	1	ne=Hotel
+6	campeggio_gianna	campeggio_gianna	R	1	ne=Hotel
 7	ma	ma	Q	1	
 8	.......	.......	V	1	
 9	il	lo	D	1	
@@ -72,9 +72,9 @@
 68	un	uno	D	1	
 69	casino	casino	N	1	
 70	dalla	dalla	P	1	
-71	2	2	N	1	ne=Time
+71	2	2	R	1	ne=Time
 72	alle	alle	P	1	
-73	4	4	G	1	ne=Time
+73	4	4	R	1	ne=Time
 74	...	...	O	1	
 75	siamo	essere	V	1	
 76	scappati	scappare	V	1	

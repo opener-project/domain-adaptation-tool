@@ -4,7 +4,7 @@
 2	dire	dire	V	1	
 3	che	che	Q	1	
 4	questo	questo	G	1	
-5	novotel	novotel	N	1	ne=Hotel
+5	novotel	novotel	R	1	ne=Hotel
 6	mi	mi	Q	1	
 7	ha	avere	V	1	
 8	piacevolmente	piacevolmente	A	1	
@@ -52,7 +52,7 @@
 8	il	lo	D	1	
 9	classico	classico	G	1	
 10	arredamento	arredamento	N	1	
-11	Novotel	novotel	G	1	ne=Hotel
+11	Novotel	novotel	R	1	ne=Hotel
 12	,	,	O	1	
 13	quindi	quindi	A	1	
 14	chi	chi	Q	1	
@@ -101,7 +101,7 @@
 2	dovessi	dovere	V	1	
 3	tornare	tornare	V	1	
 4	a	a	P	1	
-5	dubai	dubai	N	1	ne=Location
+5	dubai	dubai	R	1	ne=Location
 6	per	per	P	1	
 7	una	uno	D	1	
 8	fiera	fiera	N	1	
@@ -140,7 +140,7 @@
 10	che	che	Q	1	
 11	costa	costare	V	1	
 12	circa	circa	A	1	
-13	25_€	25_€	N	1	ne=Money
+13	25_€	25_€	R	1	ne=Money
 14	al	al	P	1	
 15	giorno.	giorno.	N	1	
 16	decisamente	decisamente	A	1	

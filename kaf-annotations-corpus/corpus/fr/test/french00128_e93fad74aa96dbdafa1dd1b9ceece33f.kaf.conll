@@ -1,4 +1,4 @@
-1	Titanic_Beach_Spa_&_Aqua_Park_Hurghada	Titanic_Beach_Spa_&amp;amp;_Aqua_Park_Hurghada	N	1	ne=Hotel
+1	Titanic_Beach_Spa_&_Aqua_Park_Hurghada	Titanic_Beach_Spa_&amp;amp;_Aqua_Park_Hurghada	R	1	ne=Hotel
 
 1	moi	moi	P	1	
 2	qui	qui	P	1	
@@ -66,7 +66,7 @@
 21	,	,	O	1	
 
 1	MERCI	merci	N	1	
-2	HOTEL_TITANIC	HOTEL_TITANIC	N	1	ne=Hotel
+2	HOTEL_TITANIC	HOTEL_TITANIC	R	1	ne=Hotel
 3	,	,	O	1	
 4	MERCI	merci	N	1	
 5	BEAUCOUP	BEAUCOUP	N	1	

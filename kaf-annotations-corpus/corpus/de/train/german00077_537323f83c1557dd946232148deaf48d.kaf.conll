@@ -5,7 +5,7 @@
 
 1	Wir	wir	Q	1	
 2	hatten	haben	V	1	
-3	das_Colony	die_Colony	O	1	ne=Hotel
+3	das_Colony	die_Colony	R	1	ne=Hotel
 4	für	für	P	1	
 5	den	die	D	1	
 6	letzten	letzt	G	1	
@@ -26,7 +26,7 @@
 21	schlechten	schlecht	G	1	
 22	Parksituation	Parksituation	N	1	
 23	am	an	P	1	
-24	Ocean_Drive	Ocean_Drive	O	1	ne=POI
+24	Ocean_Drive	Ocean_Drive	R	1	ne=POI
 25	,	,	O	1	
 26	beim	bei	P	1	
 27	Vermieter	Vermieter	N	1	

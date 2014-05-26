@@ -74,9 +74,9 @@
 15	longue	long	G	1	
 16	journée	journée	N	1	
 17	sur	sur	P	1	
-18	Paris	pari	N	1	ne=Location
+18	Paris	pari	R	1	ne=Location
 19	à	à	P	1	
-20	2heures_du_matin	2heures_du_matin	N	1	ne=Time
+20	2heures_du_matin	2heures_du_matin	R	1	ne=Time
 21	l'	le	D	1	
 22	eau	eau	N	1	
 23	pour	pour	P	1	

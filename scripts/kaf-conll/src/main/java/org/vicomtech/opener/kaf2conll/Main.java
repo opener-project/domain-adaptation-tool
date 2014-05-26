@@ -34,6 +34,8 @@ public class Main {
 	private File inputDir  = null;
 	private File outputDir = null;
 	
+	private static final String PROPER_NOUN = "R";
+	
 	private static final String KAF_EXT   = ".kaf";
 	private static final String CONLL_EXT = ".conll";
 	
@@ -189,7 +191,7 @@ public class Main {
 						bwriter.write(new_term_lemma);
 						bwriter.write("\t");
 
-						bwriter.write(t.getPos());
+						bwriter.write(PROPER_NOUN);
 						bwriter.write("\t");
 						bwriter.write(Integer.toString(1));
 						bwriter.write("\t");

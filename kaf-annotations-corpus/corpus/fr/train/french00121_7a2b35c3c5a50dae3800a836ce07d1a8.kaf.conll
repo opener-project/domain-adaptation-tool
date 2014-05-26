@@ -67,7 +67,7 @@
 4	le	le	D	1	
 5	restaurant	restaurant	N	1	
 6	de	de	P	1	
-7	Gault_·_Millaut	Gault_·_Millaut	N	1	ne=Restaurant
+7	Gault_·_Millaut	Gault_·_Millaut	R	1	ne=Restaurant
 8	est	être	V	1	
 9	hallucinante	hallucinant	G	1	
 10	.	.	O	1	

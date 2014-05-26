@@ -10,7 +10,7 @@
 8	zin	zin	N	1	
 9	gehad	hebben	V	1	
 10	in	in	P	1	
-11	Hotel_de_Saxe_Dresden	hotel_de_Saxe_Dresden	O	1	ne=Hotel
+11	Hotel_de_Saxe_Dresden	hotel_de_Saxe_Dresden	R	1	ne=Hotel
 12	.	.	O	1	
 
 1	Het	het	D	1	

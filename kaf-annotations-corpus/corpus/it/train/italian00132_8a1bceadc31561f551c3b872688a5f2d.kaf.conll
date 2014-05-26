@@ -122,7 +122,7 @@
 6	la	lo	D	1	
 7	posizione	posizione	N	1	
 8	tra	tra	P	1	
-9	rambla	rambla	N	1	ne=POI
+9	rambla	rambla	R	1	ne=POI
 10	e	e	Q	1	
-11	quartiere_latino	quartiere_latino	G	1	ne=POI
+11	quartiere_latino	quartiere_latino	R	1	ne=POI
 

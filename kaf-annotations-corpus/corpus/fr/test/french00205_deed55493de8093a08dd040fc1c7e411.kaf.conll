@@ -42,7 +42,7 @@
 14	doit	devoir	V	1	
 15	être	être	V	1	
 16	sur	sur	P	1	
-17	Paris	pari	N	1	ne=Location
+17	Paris	pari	R	1	ne=Location
 18	à	à	P	1	
 19	moindre	moindre	G	1	
 20	coût	coût	N	1	

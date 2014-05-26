@@ -2,7 +2,7 @@
 2	10	10	O	1	
 3	Gehminuten	Gehminuten	O	1	
 4	vom	von	P	1	
-5	Kolosseum	Kolosseum	N	1	ne=Attraction
+5	Kolosseum	Kolosseum	R	1	ne=Attraction
 6	entfernt	entfernt	G	1	
 
 1	´	´	O	1	
@@ -13,7 +13,7 @@
 6	unmittelbare	unmittelbar	G	1	
 7	Nähe	Nähe	N	1	
 8	der	die	D	1	
-9	Metrostation_Manzoni	Metrostation_Manzoni	O	1	ne=POI
+9	Metrostation_Manzoni	Metrostation_Manzoni	R	1	ne=POI
 10	,	,	O	1	
 11	womit	womit	Q	1	
 12	man	man	Q	1	
@@ -26,7 +26,7 @@
 19	.	.	O	1	
 
 1	Das	die	D	1	
-2	Kolosseum	Kolosseum	N	1	ne=Attraction
+2	Kolosseum	Kolosseum	R	1	ne=Attraction
 3	liegt	liegen	V	1	
 4	nur	nur	A	1	
 5	10	10	O	1	
@@ -97,7 +97,7 @@
 6	,	,	O	1	
 7	jedoch	jedoch	A	1	
 8	für	für	P	1	
-9	1_Woche	1_Woche	N	1	ne=Date
+9	1_Woche	1_Woche	R	1	ne=Date
 10	Aufenthalt	Aufenthalt	N	1	
 11	nicht	nicht	O	1	
 12	sehr	sehr	A	1	

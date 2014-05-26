@@ -9,7 +9,7 @@
 3	this	this	D	1	
 4	hotel	hotel	N	1	
 5	through	through	P	1	
-6	Priceline	priceline	N	1	ne=Attraction
+6	Priceline	priceline	R	1	ne=Attraction
 7	.	.	O	1	
 
 1	Our	our	Q	1	
@@ -28,7 +28,7 @@
 14	.	.	O	1	
 
 1	At	at	P	1	
-2	1.2_euros	1.2_euro	N	1	ne=Money
+2	1.2_euros	1.2_euro	R	1	ne=Money
 3	per	per	P	1	
 4	hour	hour	G	1	
 5	·	·	N	1	

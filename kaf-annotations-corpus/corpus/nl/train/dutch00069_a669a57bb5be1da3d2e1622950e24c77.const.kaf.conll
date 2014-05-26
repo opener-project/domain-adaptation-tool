@@ -81,7 +81,7 @@
 14	waarschijnlijk	waarschijnlijk	G	1	
 15	gemaakt	maken	V	1	
 16	op	op	P	1	
-17	de_eerste_dag_dat_het_hotel_geopend_werd	de_een_dag_dat_het_hotel_openen_worden	V	1	ne=Date
+17	de_eerste_dag_dat_het_hotel_geopend_werd	de_een_dag_dat_het_hotel_openen_worden	R	1	ne=Date
 18	.	.	O	1	
 
 1	Nu	nu	A	1	

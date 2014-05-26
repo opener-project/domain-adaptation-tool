@@ -36,7 +36,7 @@
 10	prossimità	prossimita'	N	1	
 11	dell'	dell'	P	1	
 12	uscita	uscita	N	1	
-13	Poggibonsi	poggibonsi	V	1	ne=Location
+13	Poggibonsi	poggibonsi	R	1	ne=Location
 14	,	,	O	1	
 15	dispone	disporre	V	1	
 16	di	di	P	1	

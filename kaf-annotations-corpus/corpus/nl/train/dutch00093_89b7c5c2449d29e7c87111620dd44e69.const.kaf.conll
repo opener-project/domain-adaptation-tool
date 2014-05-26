@@ -16,7 +16,7 @@
 3	mijn	mijn	D	1	
 4	wens	wens	N	1	
 5	om	om	P	1	
-6	volgend_jaar	volgend_jaar	N	1	ne=Date
+6	volgend_jaar	volgend_jaar	R	1	ne=Date
 7	weer	weer	A	1	
 8	naar	naar	P	1	
 9	dit	dit	D	1	
@@ -124,7 +124,7 @@
 9	plaatsen	plaats	N	1	
 10	(	(	O	1	
 11	bv.	bv.	A	1	
-12	Albufeira	Albufeira	O	1	ne=Location
+12	Albufeira	Albufeira	R	1	ne=Location
 13	)	)	O	1	
 14	weinig	weinig	A	1	
 15	te	te	O	1	

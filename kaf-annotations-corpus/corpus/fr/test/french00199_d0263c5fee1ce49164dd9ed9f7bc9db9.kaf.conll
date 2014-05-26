@@ -9,7 +9,7 @@
 3	de	de	P	1	
 4	visite	visite	N	1	
 5	a	avoir	V	1	
-6	Lyon	Lyon	N	1	ne=Location
+6	Lyon	Lyon	R	1	ne=Location
 7	et	et	C	1	
 8	aussi	aussi	G	1	
 9	grâce	grâce	N	1	

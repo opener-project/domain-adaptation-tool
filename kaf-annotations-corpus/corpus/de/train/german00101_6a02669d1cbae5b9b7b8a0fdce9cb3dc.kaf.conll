@@ -118,7 +118,7 @@
 8	sonst	sonst	A	1	
 9	kostet	kosten	V	1	
 10	es	es	Q	1	
-11	6_€	6_€	O	1	ne=Money
+11	6_€	6_€	R	1	ne=Money
 12	,	,	O	1	
 13	Kaffee	Kaffee	N	1	
 14	war	sein	V	1	

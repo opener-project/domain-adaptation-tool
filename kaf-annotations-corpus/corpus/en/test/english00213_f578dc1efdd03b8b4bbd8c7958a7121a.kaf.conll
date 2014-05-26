@@ -86,7 +86,7 @@
 47	coming	come	V	1	
 48	home	home	A	1	
 49	between	between	P	1	
-50	4_and_6am	4_and_6am	O	1	ne=Time
+50	4_and_6am	4_and_6am	R	1	ne=Time
 51	drunk	drunk	G	1	
 52	and	and	C	1	
 53	under	under	A	1	

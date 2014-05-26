@@ -10,7 +10,7 @@
 4	un	un	G	1	
 5	día	día	N	1	
 6	a	a	D	1	
-7	barcelona	barcelona	N	1	ne=Location
+7	barcelona	barcelona	R	1	ne=Location
 8	y	y	A	1	
 9	me	me	Q	1	
 10	quedé	quedé	O	1	
@@ -69,7 +69,7 @@
 7	del	del	O	1	
 8	centro	centro	O	1	
 9	de	de	O	1	
-10	Barcelona_,_las	Barcelona_,_las	V	1	ne=Location
+10	Barcelona_,_las	Barcelona_,_las	R	1	ne=Location
 11	conexiones	conexiones	N	1	
 12	con	con	A	1	
 13	el	el	V	1	
@@ -103,7 +103,7 @@
 9	conocer	conocer	N	1	
 10	Barcelona	Barcelona	R	1	
 11	por	por	N	1	
-12	primera	primera	N	1	ne=Location
+12	primera	primera	R	1	ne=Location
 13	vez	vez	N	1	
 14	,	,	O	1	
 15	genial	genial	G	1	

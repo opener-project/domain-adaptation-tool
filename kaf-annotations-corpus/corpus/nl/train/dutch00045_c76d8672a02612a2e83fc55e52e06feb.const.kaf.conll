@@ -13,7 +13,7 @@
 7	hotel	hotel	N	1	
 8	midden	midden	A	1	
 9	in	in	P	1	
-10	het_Antwerpse	het_Antwerpse	N	1	ne=Location
+10	het_Antwerpse	het_Antwerpse	R	1	ne=Location
 11	.	.	O	1	
 
 1	Heerlijk	heerlijk	G	1	
@@ -38,7 +38,7 @@
 20	centraal	centraal	G	1	
 21	gelegen	gelegen	G	1	
 22	vlakbij	vlakbij	A	1	
-23	het_centraal_station_van_antwerpen.	het_centraal_station_van_antwerpen	O	1	ne=POI
+23	het_centraal_station_van_antwerpen.	het_centraal_station_van_antwerpen	R	1	ne=POI
 24	antwerpen.	.	O	1	
 25	prima	prima	G	1	
 26	locatie	locatie	N	1	

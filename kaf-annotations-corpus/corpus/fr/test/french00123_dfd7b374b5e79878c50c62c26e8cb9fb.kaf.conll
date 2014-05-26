@@ -113,7 +113,7 @@
 1	La	le	D	1	
 2	plage	plage	N	1	
 3	de	de	P	1	
-4	la_ciotat	le_ciotat	N	1	ne=Location
+4	la_ciotat	le_ciotat	R	1	ne=Location
 5	est	être	V	1	
 6	à	à	P	1	
 7	3	3	D	1	
@@ -141,7 +141,7 @@
 4	les	le	D	1	
 5	parking	parking	N	1	
 6	de	de	P	1	
-7	la_Ciotat	le_Ciotat	N	1	ne=Location
+7	la_Ciotat	le_Ciotat	R	1	ne=Location
 8	sont	être	V	1	
 9	payants	payants	V	1	
 10	.	.	O	1	

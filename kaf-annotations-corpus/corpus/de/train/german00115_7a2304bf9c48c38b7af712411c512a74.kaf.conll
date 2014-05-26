@@ -46,10 +46,10 @@
 2	Hotel	Hotel	N	1	
 3	liegt	liegen	V	1	
 4	etwa	etwa	A	1	
-5	10_Minuten	10_Minute	N	1	ne=Time
+5	10_Minuten	10_Minute	R	1	ne=Time
 6	Gehweg	Gehweg	N	1	
 7	vom	von	P	1	
-8	Dom	Dom	N	1	ne=Attraction
+8	Dom	Dom	R	1	ne=Attraction
 9	entfernt	entfernen	V	1	
 10	,	,	O	1	
 11	also	also	A	1	

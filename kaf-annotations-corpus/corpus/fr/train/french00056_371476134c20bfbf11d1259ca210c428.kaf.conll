@@ -14,7 +14,7 @@
 9	et	et	C	1	
 10	toujours	toujours	G	1	
 11	en	en	P	1	
-12	aout	aout	N	1	ne=Date
+12	aout	aout	R	1	ne=Date
 13	.	.	O	1	
 
 1	Enormément	Enormément	G	1	
@@ -94,7 +94,7 @@
 9	spécfique	spécfique	G	1	
 10	depuis	depuis	P	1	
 11	l	l	D	1	
-12	allemagne	allemagne	N	1	ne=Location
+12	allemagne	allemagne	R	1	ne=Location
 13	et	et	C	1	
 14	partie	partie	N	1	
 15	du	du	D	1	

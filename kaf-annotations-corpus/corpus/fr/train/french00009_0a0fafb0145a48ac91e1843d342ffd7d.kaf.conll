@@ -3,12 +3,12 @@
 1	J'	J'	Q	1	
 2	avais	avoir	V	1	
 3	vu	voir	V	1	
-4	Marineland	Marineland	N	1	ne=Attraction
+4	Marineland	Marineland	R	1	ne=Attraction
 5	avec	avec	P	1	
 6	mes	son	D	1	
 7	enfants	enfant	N	1	
 8	en	en	P	1	
-9	1995	1995	N	1	ne=Date
+9	1995	1995	R	1	ne=Date
 10	environ	environ	G	1	
 11	.	.	O	1	
 

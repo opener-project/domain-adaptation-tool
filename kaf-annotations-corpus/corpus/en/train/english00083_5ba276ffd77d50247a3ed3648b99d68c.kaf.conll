@@ -14,7 +14,7 @@
 7	of	of	P	1	
 8	blocks	block	N	1	
 9	from	from	P	1	
-10	the_central_Railway_station	the_central_Railway_station	N	1	ne=POI
+10	the_central_Railway_station	the_central_Railway_station	R	1	ne=POI
 11	in	in	P	1	
 12	Milan	Milan	R	1	ne=Location
 13	,	,	O	1	

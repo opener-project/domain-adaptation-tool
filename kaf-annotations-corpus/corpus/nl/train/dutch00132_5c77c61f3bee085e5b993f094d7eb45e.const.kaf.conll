@@ -40,7 +40,7 @@
 9	dan	dan	A	1	
 10	ook	ook	A	1	
 11	nog	nog	A	1	
-12	€_10_,_=_.	€_@card@_,_=_.	O	1	ne=Money
+12	€_10_,_=_.	€_@card@_,_=_.	R	1	ne=Money
 
 1	Dat	dat	Q	1	
 2	is	zijn	V	1	
@@ -60,14 +60,14 @@
 16	hotels	hotel	N	1	
 17	(	(	O	1	
 18	zelfs	zelfs	A	1	
-19	McDonals	McDonals	O	1	ne=Restaurant
+19	McDonals	McDonals	R	1	ne=Restaurant
 20	is	zijn	V	1	
 21	gratis	gratis	G	1	
 22	)	)	O	1	
 23	en	en	C	1	
 24	zeker	zeker	G	1	
 25	een	een	D	1	
-26	Valk	valk	N	1	ne=Hotel
+26	Valk	valk	R	1	ne=Hotel
 27	hotel	hotel	N	1	
 28	behoort	behoren	V	1	
 29	dit	dit	Q	1	

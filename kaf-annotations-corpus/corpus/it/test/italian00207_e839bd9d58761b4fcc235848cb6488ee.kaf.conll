@@ -11,7 +11,7 @@
 7	due	due	G	1	
 8	passi	passo	N	1	
 9	dal	dal	P	1	
-10	duomo	duomo	N	1	ne=POI
+10	duomo	duomo	R	1	ne=POI
 11	,	,	O	1	
 12	ma	ma	Q	1	
 13	consigliato	consigliare	V	1	

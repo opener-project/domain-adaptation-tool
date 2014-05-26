@@ -50,12 +50,12 @@
 2	We	we	Q	1	
 3	paid	pay	V	1	
 4	with	with	P	1	
-5	100_€	100_€	N	1	ne=Money
+5	100_€	100_€	R	1	ne=Money
 6	for	for	P	1	
 7	the	the	D	1	
 8	room	room	N	1	
 9	(	(	O	1	
-10	55_€	55_€	N	1	ne=Money
+10	55_€	55_€	R	1	ne=Money
 11	)	)	O	1	
 12	The	the	D	1	
 13	owners	owner	N	1	
@@ -79,7 +79,7 @@
 31	took	take	V	1	
 32	back	back	A	1	
 33	the	the	D	1	
-34	100_€	100_€	N	1	ne=Money
+34	100_€	100_€	R	1	ne=Money
 35	and	and	C	1	
 36	changed	change	V	1	
 37	it	it	Q	1	

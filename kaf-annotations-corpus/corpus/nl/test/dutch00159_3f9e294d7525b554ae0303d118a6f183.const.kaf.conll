@@ -13,7 +13,7 @@
 3	4	@card@	O	1	
 4	nachten	nacht	N	1	
 5	in	in	P	1	
-6	hotel_Abadia	hotel_Abadia	O	1	ne=Hotel
+6	hotel_Abadia	hotel_Abadia	R	1	ne=Hotel
 7	gelogeerd	logeren	V	1	
 8	.	.	O	1	
 

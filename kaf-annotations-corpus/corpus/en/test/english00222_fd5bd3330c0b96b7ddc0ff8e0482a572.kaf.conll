@@ -45,7 +45,7 @@
 15	the	the	D	1	
 16	distance	distance	N	1	
 17	from	from	P	1	
-18	firenze	firenze	N	1	ne=Location
+18	firenze	firenze	R	1	ne=Location
 19	itself	itself	Q	1	
 20	.	.	O	1	
 

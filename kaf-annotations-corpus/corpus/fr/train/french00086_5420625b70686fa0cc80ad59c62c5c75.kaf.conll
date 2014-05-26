@@ -17,10 +17,10 @@
 13	en	en	P	1	
 14	face	face	N	1	
 15	de	de	P	1	
-16	la_gare_centrale	le_gare_central	G	1	ne=POI
+16	la_gare_centrale	le_gare_central	R	1	ne=POI
 17	,	,	O	1	
 18	dans	dans	P	1	
-19	le_vieux_amsterdam	le_vieux_amsterdam	N	1	ne=Location
+19	le_vieux_amsterdam	le_vieux_amsterdam	R	1	ne=Location
 20	et	et	C	1	
 21	à	à	P	1	
 22	2	2	D	1	

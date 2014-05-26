@@ -39,6 +39,6 @@
 8	.	.	O	1	
 
 1	100	100	O	1	
-2	%_recomendable	%_recomendable	N	1	ne=Percent
+2	%_recomendable	%_recomendable	R	1	ne=Percent
 3	.	.	O	1	
 

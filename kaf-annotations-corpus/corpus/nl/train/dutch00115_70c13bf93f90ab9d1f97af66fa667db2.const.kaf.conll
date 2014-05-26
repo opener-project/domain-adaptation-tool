@@ -1,15 +1,15 @@
 1	Verblijf	verblijf	N	1	
-2	Beekbergen	Beekbergen	O	1	ne=Location
+2	Beekbergen	Beekbergen	R	1	ne=Location
 
 1	bezoek	bezoek	N	1	
-2	Deventer	Deventer	O	1	ne=Location
+2	Deventer	Deventer	R	1	ne=Location
 3	en	en	C	1	
-4	Zutphen	Zutphen	O	1	ne=Location
+4	Zutphen	Zutphen	R	1	ne=Location
 5	en	en	C	1	
 6	een	een	D	1	
 7	boottocht	boottocht	N	1	
 8	over	over	P	1	
-9	de_ijssel	de_ijssel	O	1	ne=Location
+9	de_ijssel	de_ijssel	R	1	ne=Location
 10	en	en	C	1	
 11	wandeling	wandeling	N	1	
 12	in	in	P	1	

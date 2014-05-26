@@ -21,12 +21,12 @@
 14	au	au	P	1	
 15	sud	sud	N	1	
 16	de	de	P	1	
-17	Florence	florence	N	1	ne=Location
+17	Florence	florence	R	1	ne=Location
 18	,	,	O	1	
 19	en	en	P	1	
 20	pleine	plein	G	1	
 21	campagne	campagne	N	1	
-22	Toscane	Toscane	G	1	ne=Location
+22	Toscane	Toscane	R	1	ne=Location
 23	.	.	O	1	
 
 1	Idéal	idéal	N	1	

@@ -19,7 +19,7 @@
 8	desarrollo	desarrollo	O	1	
 9	próxima	próxima	O	1	
 10	a	a	O	1	
-11	la_ciudad_de_las_artes_y_de_las_ciencias	la_ciudad_de_las_artes_y_de_las_ciencias	N	1	ne=Location
+11	la_ciudad_de_las_artes_y_de_las_ciencias	la_ciudad_de_las_artes_y_de_las_ciencias	R	1	ne=Location
 12	.	.	O	1	
 
 1	Contraté	Contraté	R	1	

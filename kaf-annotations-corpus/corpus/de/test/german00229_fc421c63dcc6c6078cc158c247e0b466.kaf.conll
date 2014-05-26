@@ -82,7 +82,7 @@
 5	man	man	Q	1	
 6	in	in	P	1	
 7	knapp	knapp	G	1	
-8	15_Minuten	15_Minute	N	1	ne=Time
+8	15_Minuten	15_Minute	R	1	ne=Time
 9	zu	zu	P	1	
 10	Fuß	Fuß	N	1	
 11	.	.	O	1	

@@ -9,7 +9,7 @@
 9	Heraklion	heraklion	R	1	ne=Location
 
 1	L'	lo	D	1	
-2	hotel_Lato	hotel_lato	N	1	ne=Hotel
+2	hotel_Lato	hotel_lato	R	1	ne=Hotel
 3	si	si	Q	1	
 4	trova	trovare	V	1	
 5	nel	nel	P	1	
@@ -25,10 +25,10 @@
 15	,	,	O	1	
 16	tra	tra	P	1	
 17	la	lo	D	1	
-18	fortezza_veneziana	fortezza_veneziano	G	1	ne=POI
+18	fortezza_veneziana	fortezza_veneziano	R	1	ne=POI
 19	ed	ed	Q	1	
 20	il	lo	D	1	
-21	museo_archeologico	museo_archeologico	G	1	ne=POI
+21	museo_archeologico	museo_archeologico	R	1	ne=POI
 22	(	(	O	1	
 23	da	da	P	1	
 24	non	non	A	1	
@@ -149,7 +149,7 @@
 9	ottimo	ottimo	N	1	
 10	ristorante	ristorare	V	1	
 11	l'	lo	D	1	
-12	Herbs_Garden	herbs_garden	N	1	ne=Restaurant
+12	Herbs_Garden	herbs_garden	R	1	ne=Restaurant
 13	che	che	Q	1	
 14	offre	offrire	V	1	
 15	una	uno	D	1	

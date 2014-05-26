@@ -1,10 +1,10 @@
 1	Séjours	Séjours	G	1	
 2	en	en	P	1	
-3	2010	2010	D	1	ne=Time
+3	2010	2010	R	1	ne=Time
 4	et	et	C	1	
-5	2011	2011	G	1	ne=Time
+5	2011	2011	R	1	ne=Time
 6	au	au	P	1	
-7	Dana_Beach	Dana_Beach	N	1	ne=Hotel
+7	Dana_Beach	Dana_Beach	R	1	ne=Hotel
 
 1	Deux	Deux	D	1	
 2	années	année	N	1	
@@ -16,7 +16,7 @@
 8	au	au	P	1	
 9	mois	moi	N	1	
 10	de	de	P	1	
-11	mai	mai	N	1	ne=Date
+11	mai	mai	R	1	ne=Date
 12	.	.	O	1	
 
 1	Vaste	vaste	G	1	
@@ -143,9 +143,9 @@
 24	au	au	P	1	
 25	départ	départ	N	1	
 26	de	de	P	1	
-27	Paris	pari	N	1	ne=Location
+27	Paris	pari	R	1	ne=Location
 28	pour	pour	P	1	
-29	2013	2013	N	1	ne=Time
+29	2013	2013	R	1	ne=Time
 30	...	...	O	1	
 31	dommage	dommage	N	1	
 

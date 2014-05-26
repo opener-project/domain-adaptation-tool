@@ -156,7 +156,7 @@
 11	de	de	P	1	
 12	la	le	D	1	
 13	gare	gare	N	1	
-14	Termini	Termini	N	1	ne=POI
+14	Termini	Termini	R	1	ne=POI
 15	et	et	C	1	
 16	accès	accès	N	1	
 17	métro	métro	N	1	

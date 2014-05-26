@@ -71,7 +71,7 @@
 13	verbringt	verbringen	V	1	
 14	.	.	O	1	
 
-1	Die_Dame_an_der_Rezeption	die_Dame_an_die_Rezeption	N	1	ne=Person
+1	Die_Dame_an_der_Rezeption	die_Dame_an_die_Rezeption	R	1	ne=Person
 2	machte	machen	V	1	
 3	auf	auf	P	1	
 4	mich	ich	Q	1	

@@ -46,7 +46,7 @@
 40	du	du	D	1	
 41	port	port	N	1	
 42	et	et	C	1	
-43	du_parc_de_montjuic	du_parc_de_montjuic	N	1	ne=POI
+43	du_parc_de_montjuic	du_parc_de_montjuic	R	1	ne=POI
 44	,	,	O	1	
 45	des	un	D	1	
 46	commerces	commerce	N	1	
@@ -75,7 +75,7 @@
 69	a	avoir	V	1	
 70	pied	pied	N	1	
 71	de	de	P	1	
-72	la_pension_peiro	le_pension_peiro	G	1	ne=Hotel
+72	la_pension_peiro	le_pension_peiro	R	1	ne=Hotel
 73	,	,	O	1	
-74	metro_Parallel	metro_Parallel	N	1	ne=POI
+74	metro_Parallel	metro_Parallel	R	1	ne=POI
 

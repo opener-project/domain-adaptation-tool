@@ -8,7 +8,7 @@
 2	3	3	O	1	
 3	noches	noches	N	1	
 4	en	en	P	1	
-5	noviembre_de_2013	noviembre_de_2013	O	1	ne=Date
+5	noviembre_de_2013	noviembre_de_2013	R	1	ne=Date
 6	.	.	O	1	
 
 1	La	La	R	1	
@@ -119,7 +119,7 @@
 4	50	50	O	1	
 5	metros	metro	N	1	
 6	de	de	P	1	
-7	la_estación_de_Sants	la_estación_de_sants	N	1	ne=POI
+7	la_estación_de_Sants	la_estación_de_sants	R	1	ne=POI
 8	,	,	O	1	
 9	con	con	A	1	
 10	parada	parada	N	1	

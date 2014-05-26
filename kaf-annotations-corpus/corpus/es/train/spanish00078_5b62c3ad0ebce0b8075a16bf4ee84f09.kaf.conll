@@ -28,7 +28,7 @@
 20	una	una	G	1	
 21	ciudad	ciudad	G	1	
 22	como	como	N	1	
-23	roma	roma	N	1	ne=Location
+23	roma	roma	R	1	ne=Location
 24	el	el	N	1	
 25	hotel	hotel	N	1	
 26	se	se	Q	1	

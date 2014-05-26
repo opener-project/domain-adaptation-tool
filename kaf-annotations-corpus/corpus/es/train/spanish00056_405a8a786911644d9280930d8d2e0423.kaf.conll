@@ -14,7 +14,7 @@
 4	céntrico	céntrico	N	1	
 5	,	,	O	1	
 6	en	en	O	1	
-7	plena_Gran_Vía_madrileña	plena_gran_Vía_madrileña	N	1	ne=Location
+7	plena_Gran_Vía_madrileña	plena_gran_Vía_madrileña	R	1	ne=Location
 8	,	,	O	1	
 9	con	con	G	1	
 10	acceso	acceso	N	1	

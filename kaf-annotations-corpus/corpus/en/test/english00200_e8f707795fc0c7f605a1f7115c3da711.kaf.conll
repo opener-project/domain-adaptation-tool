@@ -43,7 +43,7 @@
 9	that	that	O	1	
 10	goes	go	V	1	
 11	to	to	P	1	
-12	the_RER_station	the_RER_station	N	1	ne=POI
+12	the_RER_station	the_RER_station	R	1	ne=POI
 13	.	.	O	1	
 
 1	In	in	P	1	
@@ -51,7 +51,7 @@
 3	area	area	N	1	
 4	there	there	O	1	
 5	is	be	V	1	
-6	famous_Rungis_market	famous_Rungis_market	N	1	ne=Attraction
+6	famous_Rungis_market	famous_Rungis_market	R	1	ne=Attraction
 7	,	,	O	1	
 8	the	the	D	1	
 9	largest	largest	G	1	

@@ -19,7 +19,7 @@
 5	im	in	P	1	
 6	kleinen	klein	G	1	
 7	Örtchen	Örtchen	N	1	
-8	Tirrenia	Tirrenia	O	1	ne=Location
+8	Tirrenia	Tirrenia	R	1	ne=Location
 9	das	die	D	1	
 10	nur	nur	A	1	
 11	wenige	wenige	Q	1	
@@ -37,7 +37,7 @@
 5	sind	sein	V	1	
 6	es	es	Q	1	
 7	ca.	ca.	A	1	
-8	15_Minuten	15_Minute	N	1	ne=Time
+8	15_Minuten	15_Minute	R	1	ne=Time
 9	.	.	O	1	
 
 1	Der	die	D	1	

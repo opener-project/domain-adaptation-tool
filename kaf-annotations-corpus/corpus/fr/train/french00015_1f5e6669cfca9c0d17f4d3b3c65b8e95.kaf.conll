@@ -1,4 +1,4 @@
-1	Hotel_Titanic_Beach_Spa_&_Aqua_Park	Hotel_Titanic_Beach_Spa_&amp;amp;_Aqua_Park	N	1	ne=Hotel
+1	Hotel_Titanic_Beach_Spa_&_Aqua_Park	Hotel_Titanic_Beach_Spa_&amp;amp;_Aqua_Park	R	1	ne=Hotel
 
 1	Aux	Aux	P	1	
 2	sujet	sujet	N	1	
@@ -38,7 +38,7 @@
 6	detache	detache	N	1	
 7	des	un	D	1	
 8	autres	autre	G	1	
-9	Le_CAL	le_cal	N	1	ne=Restaurant
+9	Le_CAL	le_cal	R	1	ne=Restaurant
 10	est	être	V	1	
 11	le	le	D	1	
 12	plus	plus	G	1	

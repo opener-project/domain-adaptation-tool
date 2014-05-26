@@ -4,7 +4,7 @@
 4	hotel	hotel	N	1	
 5	bij	bij	P	1	
 6	de	de	D	1	
-7	Rue_Fbg_St_·_Honoré	Rue_Fbg_St_·_Honoré	O	1	ne=Location
+7	Rue_Fbg_St_·_Honoré	Rue_Fbg_St_·_Honoré	R	1	ne=Location
 
 1	Mooi	mooi	G	1	
 2	Art	Art	N	1	
@@ -14,7 +14,7 @@
 6	de	de	D	1	
 7	buurt	buurt	N	1	
 8	van	van	P	1	
-9	La_Madeleine	La_Madeleine	O	1	ne=Attraction
+9	La_Madeleine	La_Madeleine	R	1	ne=Attraction
 10	.	.	O	1	
 
 1	op	op	P	1	
@@ -22,11 +22,11 @@
 3	steenworp	steenworp	N	1	
 4	van	van	P	1	
 5	de	de	D	1	
-6	Rue_Royale	Rue_royale	N	1	ne=Location
+6	Rue_Royale	Rue_royale	R	1	ne=Location
 7	,	,	O	1	
-8	Place_de_la_Madeleine	Place_de_la_Madeleine	O	1	ne=POI
+8	Place_de_la_Madeleine	Place_de_la_Madeleine	R	1	ne=POI
 9	,	,	O	1	
-10	Rue_Faubourg_St_·_Honore	Rue_Faubourg_St_·_Honore	O	1	ne=Location
+10	Rue_Faubourg_St_·_Honore	Rue_Faubourg_St_·_Honore	R	1	ne=Location
 11	en	en	C	1	
 12	de	de	D	1	
 13	Place_Concorde	Place_concorde	R	1	ne=POI

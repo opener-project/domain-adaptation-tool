@@ -29,7 +29,7 @@
 2	der	die	D	1	
 3	Nähe	Nähe	N	1	
 4	zum	zu	P	1	
-5	Paris_Nord_Bahnhofs	Paris_Nord_Bahnhof	N	1	ne=POI
+5	Paris_Nord_Bahnhofs	Paris_Nord_Bahnhof	R	1	ne=POI
 6	,	,	O	1	
 7	Paris	Paris	R	1	ne=Location
 8	ist	sein	V	1	

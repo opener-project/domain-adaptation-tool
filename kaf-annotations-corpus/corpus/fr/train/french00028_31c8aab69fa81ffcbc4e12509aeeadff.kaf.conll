@@ -26,10 +26,10 @@
 10	mobil	mobil	N	1	
 11	home	home	G	1	
 12	(	(	O	1	
-13	de_5_heures_le_matin	de_5_heure_le_matin	N	1	ne=Time
+13	de_5_heures_le_matin	de_5_heure_le_matin	R	1	ne=Time
 14	à	à	P	1	
 15	environ	environ	G	1	
-16	23_heures_le_soir	23_heure_le_soir	N	1	ne=Time
+16	23_heures_le_soir	23_heure_le_soir	R	1	ne=Time
 17	)	)	O	1	
 18	.	.	O	1	
 

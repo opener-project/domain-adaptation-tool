@@ -58,12 +58,12 @@
 13	caminando	caminando	V	1	
 14	a	a	D	1	
 15	la	la	N	1	
-16	fontana_di_Trevi	fontana_di_trevi	O	1	ne=Attraction
+16	fontana_di_Trevi	fontana_di_trevi	R	1	ne=Attraction
 17	y	y	G	1	
 18	15	15	O	1	
 19	minutos	minutos	N	1	
 20	al	al	G	1	
-21	coliseo	coliseo	N	1	ne=Attraction
+21	coliseo	coliseo	R	1	ne=Attraction
 22	.	.	O	1	
 
 1	Acceso	Acceso	R	1	

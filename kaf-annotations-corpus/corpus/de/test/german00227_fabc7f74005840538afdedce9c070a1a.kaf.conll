@@ -158,11 +158,11 @@
 7	wir	wir	Q	1	
 8	sind	sein	V	1	
 9	nach	nach	P	1	
-10	Breskens	Breskens	O	1	ne=Location
+10	Breskens	Breskens	R	1	ne=Location
 11	gefahren	fahren	V	1	
 12	(	(	O	1	
 13	ca.	ca.	A	1	
-14	25_Min.	25_min.	N	1	ne=Time
+14	25_Min.	25_min.	R	1	ne=Time
 15	mit	mit	P	1	
 16	dem	die	D	1	
 17	Auto	Auto	N	1	

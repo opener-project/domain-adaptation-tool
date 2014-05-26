@@ -8,7 +8,7 @@
 4	wij	wij	Q	1	
 5	verbleven	verblijven	V	1	
 6	daar	daar	A	1	
-7	8_dgn	@card@_dgn	O	1	ne=Date
+7	8_dgn	@card@_dgn	R	1	ne=Date
 8	all	all	O	1	
 9	incl.	incl	O	1	
 10	incl.	.	O	1	
@@ -34,12 +34,12 @@
 10	(	(	O	1	
 11	ong.	ong	O	1	
 12	ong.	.	O	1	
-13	30_min.	@card@_min	N	1	ne=Time
+13	30_min.	@card@_min	R	1	ne=Time
 14	min.	.	O	1	
 15	)	)	O	1	
 16	.	.	O	1	
 
-1	Sunrise	Sunrise	O	1	ne=Hotel
+1	Sunrise	Sunrise	R	1	ne=Hotel
 2	is	zijn	V	1	
 3	een	een	D	1	
 4	heel	heel	G	1	
@@ -125,7 +125,7 @@
 3	Mexicaans	Mexicaans	G	1	
 4	hotel	hotel	N	1	
 5	bij	bij	P	1	
-6	Mamlouk	Mamlouk	O	1	ne=Location
+6	Mamlouk	Mamlouk	R	1	ne=Location
 7	is	zijn	V	1	
 8	wel	wel	A	1	
 9	een	een	D	1	

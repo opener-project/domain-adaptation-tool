@@ -60,7 +60,7 @@
 4	z.B.	z.b.	P	1	
 5	mehr	mehr	A	1	
 6	als	als	C	1	
-7	4_Euro	4_Euro	N	1	ne=Money
+7	4_Euro	4_Euro	R	1	ne=Money
 8	!	!	O	1	
 
 1	Soviel	soviele	Q	1	
@@ -74,9 +74,9 @@
 9	oder	oder	C	1	
 10	das	die	D	1	
 11	altehrwürdige	altehrwürdig	G	1	
-12	Tophotel_Galle_Face	Tophotel_Galle_Face	N	1	ne=Hotel
+12	Tophotel_Galle_Face	Tophotel_Galle_Face	R	1	ne=Hotel
 13	in	in	P	1	
-14	Colombo	Colombo	O	1	ne=Location
+14	Colombo	Colombo	R	1	ne=Location
 15	.	.	O	1	
 
 1	Die	die	D	1	

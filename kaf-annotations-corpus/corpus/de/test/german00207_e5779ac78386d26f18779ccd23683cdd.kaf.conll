@@ -9,7 +9,7 @@
 2	einen	eine	D	1	
 3	Kurzen	kurz	G	1	
 4	Aufenthalt	Aufenthalt	N	1	
-5	1_·_3_Tage	1_·_3_Tag	N	1	ne=Date
+5	1_·_3_Tage	1_·_3_Tag	R	1	ne=Date
 6	für	für	P	1	
 7	eine	eine	D	1	
 8	Städtereise	Städtereise	N	1	
@@ -132,9 +132,9 @@
 13	,	,	O	1	
 14	Tivoli	Tivoli	R	1	ne=Attraction
 15	,	,	O	1	
-16	Nyhavn	Nyhavn	O	1	ne=Attraction
+16	Nyhavn	Nyhavn	R	1	ne=Attraction
 17	,	,	O	1	
-18	Stroget	Stroget	O	1	ne=Attraction
+18	Stroget	Stroget	R	1	ne=Attraction
 19	etc.	etc.	A	1	
 
 1	Das	die	D	1	

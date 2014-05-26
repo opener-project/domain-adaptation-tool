@@ -43,7 +43,7 @@
 5	bien	bien	G	1	
 6	accueillis	accueillir	V	1	
 7	par	par	P	1	
-8	Mme_Marcelle	Mme_Marcelle	N	1	ne=Person
+8	Mme_Marcelle	Mme_Marcelle	R	1	ne=Person
 9	qui	qui	P	1	
 10	parle	parler	V	1	
 11	très	très	G	1	

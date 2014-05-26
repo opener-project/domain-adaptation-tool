@@ -93,7 +93,7 @@
 6	celui	celui	P	1	
 7	du	du	P	1	
 8	restaurant	restaurer	V	1	
-9	"_Rose_"	&quot;_rose_&quot;	O	1	ne=Restaurant
+9	"_Rose_"	&quot;_rose_&quot;	R	1	ne=Restaurant
 10	,	,	O	1	
 11	très	très	G	1	
 12	gentil	gentil	G	1	

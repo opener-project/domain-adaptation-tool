@@ -23,11 +23,11 @@
 5	Sage	Sage	N	1	
 6	und	und	C	1	
 7	Schreibe	Schreibe	O	1	
-8	60_Euro	60_Euro	N	1	ne=Money
+8	60_Euro	60_Euro	R	1	ne=Money
 9	(	(	O	1	
 10	an	an	P	1	
 11	einem	eine	D	1	
-12	Wochenende	Wochenende	N	1	ne=Date
+12	Wochenende	Wochenende	R	1	ne=Date
 13	!	!	O	1	
 14	)	)	O	1	
 15	buchen	buchen	V	1	
@@ -118,7 +118,7 @@
 1	Taxi	Taxi	N	1	
 2	kostet	kosten	V	1	
 3	etwa	etwa	A	1	
-4	15_Euro	15_Euro	N	1	ne=Money
+4	15_Euro	15_Euro	R	1	ne=Money
 5	inkl	inkl	O	1	
 6	.	.	O	1	
 

@@ -92,7 +92,7 @@
 5	surtout	surtout	G	1	
 6	celui	celui	P	1	
 7	du	du	P	1	
-8	restaurant_"_Rose_"	restaurer_&amp;quot;_rose_&amp;quot;	O	1	ne=Restaurant
+8	restaurant_"_Rose_"	restaurer_&amp;quot;_rose_&amp;quot;	R	1	ne=Restaurant
 9	,	,	O	1	
 10	très	très	G	1	
 11	gentil	gentil	G	1	

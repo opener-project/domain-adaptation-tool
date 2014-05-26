@@ -91,7 +91,7 @@
 6	en	en	C	1	
 7	uit	uit	P	1	
 8	het	het	D	1	
-9	Verenigd_Koninkrijk	Verenigd_koninkrijk	N	1	ne=Location
+9	Verenigd_Koninkrijk	Verenigd_koninkrijk	R	1	ne=Location
 10	.	.	O	1	
 
 1	Perfect	perfect	G	1	

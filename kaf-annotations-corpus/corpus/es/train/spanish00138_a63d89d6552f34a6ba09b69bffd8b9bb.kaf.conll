@@ -13,7 +13,7 @@
 11	en	en	P	1	
 12	el	el	N	1	
 13	omm	omm	N	1	
-14	2_noches	2_noches	N	1	ne=Hotel
+14	2_noches	2_noches	R	1	ne=Hotel
 15	de	de	P	1	
 16	fin	fin	G	1	
 17	de	de	P	1	

@@ -100,10 +100,10 @@
 6	un	un	D	1	
 7	hotel	hotel	N	1	
 8	a	avoir	V	1	
-9	barcelone	barcelone	D	1	ne=Location
+9	barcelone	barcelone	R	1	ne=Location
 10	c'	c'	Q	1	
 11	est	être	V	1	
-12	l'_hotel_princesse	le_hotel_princesse	G	1	ne=Hotel
+12	l'_hotel_princesse	le_hotel_princesse	R	1	ne=Hotel
 13	!	!	O	1	
 
 1	qui	qui	P	1	

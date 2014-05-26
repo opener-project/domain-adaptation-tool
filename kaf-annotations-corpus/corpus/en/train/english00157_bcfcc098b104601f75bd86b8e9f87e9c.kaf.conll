@@ -131,6 +131,6 @@
 28	good	good	G	1	
 29	espresso	espresso	N	1	
 30	at	at	P	1	
-31	the_columbus_bar	the_columbus_bar	N	1	ne=Attraction
+31	the_columbus_bar	the_columbus_bar	R	1	ne=Attraction
 32	.	.	O	1	
 

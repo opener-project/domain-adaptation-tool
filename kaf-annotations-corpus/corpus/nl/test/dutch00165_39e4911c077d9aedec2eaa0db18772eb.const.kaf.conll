@@ -8,9 +8,9 @@
 3	'	'	O	1	
 4	s	s	N	1	
 
-1	17_sept	@card@_sept	O	1	ne=Date
+1	17_sept	@card@_sept	R	1	ne=Date
 2	·	·	O	1	
-3	1okt	1okt	O	1	ne=Date
+3	1okt	1okt	R	1	ne=Date
 4	.	.	O	1	
 
 1	Beroemste	Beroemste	O	1	

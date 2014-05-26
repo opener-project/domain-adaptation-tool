@@ -1,9 +1,9 @@
 1	Schöner	schön	G	1	
 2	Aufenthalt	Aufenthalt	N	1	
 3	im	in	P	1	
-4	Holiday_In	Holiday_in	P	1	ne=Hotel
+4	Holiday_In	Holiday_in	R	1	ne=Hotel
 5	in	in	P	1	
-6	Leiden	Leiden	N	1	ne=Location
+6	Leiden	Leiden	R	1	ne=Location
 
 1	Wir	wir	Q	1	
 2	hatten	haben	V	1	
@@ -111,7 +111,7 @@
 12	nach	nach	P	1	
 13	Amsterdam	Amsterdam	R	1	ne=Location
 14	oder	oder	C	1	
-15	Den_Hag	die_Hag	O	1	ne=Location
+15	Den_Hag	die_Hag	R	1	ne=Location
 16	.	.	O	1	
 
 1	Zum	zu	P	1	

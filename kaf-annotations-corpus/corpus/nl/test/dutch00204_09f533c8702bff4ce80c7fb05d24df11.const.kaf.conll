@@ -32,7 +32,7 @@
 3	het	het	D	1	
 4	hotel	hotel	N	1	
 5	was	wezen|zijn	V	1	
-6	7_minuten	@card@_minuut	N	1	ne=Time
+6	7_minuten	@card@_minuut	R	1	ne=Time
 7	.	.	O	1	
 
 1	Het	het	D	1	
@@ -57,7 +57,7 @@
 5	.	.	O	1	
 
 1	Op	op	P	1	
-2	5_minuten	@card@_minuut	N	1	ne=Time
+2	5_minuten	@card@_minuut	R	1	ne=Time
 3	lopen	lopen	V	1	
 4	(	(	O	1	
 5	over	over	P	1	
@@ -74,7 +74,7 @@
 16	bussen.	.	O	1	
 17	per	per	P	1	
 18	rit	rit	N	1	
-19	1,50	@card@	O	1	ne=Money
+19	1,50	@card@	R	1	ne=Money
 20	per	per	P	1	
 21	persoon	persoon	N	1	
 22	.	.	O	1	
@@ -84,9 +84,9 @@
 3	brengt	brengen	V	1	
 4	je	je	Q	1	
 5	binnen	binnen	P	1	
-6	10_minuten	@card@_minuut	N	1	ne=Time
+6	10_minuten	@card@_minuut	R	1	ne=Time
 7	naar	naar	P	1	
-8	Station_America	station_America	O	1	ne=POI
+8	Station_America	station_America	R	1	ne=POI
 9	.	.	O	1	
 
 1	Hier	hier	A	1	
@@ -128,15 +128,15 @@
 3	deze	deze	Q	1	
 4	pas	pas	A	1	
 5	is	zijn	V	1	
-6	13,00_euro	@card@_euro	N	1	ne=Money
+6	13,00_euro	@card@_euro	R	1	ne=Money
 7	voor	voor	P	1	
-8	3_dagen	@card@_dag	N	1	ne=Date
+8	3_dagen	@card@_dag	R	1	ne=Date
 9	.	.	O	1	
 
 1	Verbinding	verbinding	N	1	
 2	hotel	hotel	N	1	
 3	naar	naar	P	1	
-4	Madrid_Centrum	Madrid_centrum	N	1	ne=Location
+4	Madrid_Centrum	Madrid_centrum	R	1	ne=Location
 5	is	zijn	V	1	
 6	prima	prima	G	1	
 7	geregeld.	regelen	V	1	
@@ -150,7 +150,7 @@
 15	nooit	nooit	A	1	
 16	meer	meer	A	1	
 17	dan	dan	C	1	
-18	2_minuten	@card@_minuut	N	1	ne=Time
+18	2_minuten	@card@_minuut	R	1	ne=Time
 19	.	.	O	1	
 
 1	Wij	wij	Q	1	
@@ -161,7 +161,7 @@
 6	in	in	P	1	
 7	dit	dit	D	1	
 8	hotel	hotel	N	1	
-9	60_euro	@card@_euro	N	1	ne=Money
+9	60_euro	@card@_euro	R	1	ne=Money
 10	per	per	P	1	
 11	nacht	nacht	N	1	
 12	incl.	incl	O	1	

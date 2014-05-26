@@ -11,7 +11,7 @@
 9	all'	all'	P	1	
 10	hotel_San_Gregorio	hotel_san_gregorio	R	1	ne=Hotel
 11	di	di	P	1	
-12	Pienza	pienza	N	1	ne=Location
+12	Pienza	pienza	R	1	ne=Location
 13	.	.	O	1	
 
 1	Conoscevo	conoscere	V	1	
@@ -57,7 +57,7 @@
 31	borgo	borgo	N	1	
 32	medioevale	medioevale	G	1	
 33	di	di	P	1	
-34	Pienza	pienza	N	1	ne=Location
+34	Pienza	pienza	R	1	ne=Location
 35	,	,	O	1	
 36	le	lo	D	1	
 37	camee	camee	N	1	
@@ -105,7 +105,7 @@
 12	un	uno	D	1	
 13	ristorante	ristorante	N	1	
 14	"	&quot;	O	1	
-15	La_Piazzetta	lo_piazzetta	N	1	ne=Restaurant
+15	La_Piazzetta	lo_piazzetta	R	1	ne=Restaurant
 16	"	&quot;	O	1	
 17	dove	dove	A	1	
 18	viene	venire	V	1	
@@ -136,7 +136,7 @@
 5	è	è	R	1	
 6	ottimo	ottimo	G	1	
 7	(	(	O	1	
-8	125_€	125_€	N	1	ne=Money
+8	125_€	125_€	R	1	ne=Money
 9	la	lo	D	1	
 10	suite	suite	N	1	
 11	per	per	P	1	

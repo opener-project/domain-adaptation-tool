@@ -1,7 +1,7 @@
 1	Hôtel	hôtel	N	1	
 2	confortable	confortable	G	1	
 3	à	à	P	1	
-4	Ekaterinburg	Ekaterinburg	N	1	ne=Location
+4	Ekaterinburg	Ekaterinburg	R	1	ne=Location
 
 1	J'	J'	Q	1	
 2	avais	avoir	V	1	
@@ -95,11 +95,11 @@
 17	:	:	O	1	
 18	)	)	O	1	
 
-1	Le_Park_Inn	le_Park_Inn	N	1	ne=Hotel
+1	Le_Park_Inn	le_Park_Inn	R	1	ne=Hotel
 2	est	être	V	1	
 3	près	près	P	1	
 4	de	de	P	1	
-5	l'_opéra	le_opéra	N	1	ne=POI
+5	l'_opéra	le_opéra	R	1	ne=POI
 6	et	et	C	1	
 7	convient	convenir	V	1	
 8	donc	donc	G	1	
@@ -109,7 +109,7 @@
 12	à	à	P	1	
 13	pied	pied	N	1	
 14	d'	d'	P	1	
-15	Ekaterinburg	Ekaterinburg	N	1	ne=Location
+15	Ekaterinburg	Ekaterinburg	R	1	ne=Location
 16	·	·	O	1	
 17	il	il	Q	1	
 18	suffit	suffire	V	1	
@@ -167,7 +167,7 @@
 
 1	Typique	typique	N	1	
 2	des	des	P	1	
-3	Park_Inn	Park_Inn	N	1	ne=Hotel
+3	Park_Inn	Park_Inn	R	1	ne=Hotel
 4	,	,	O	1	
 5	coloré	colorer	V	1	
 6	et	et	C	1	

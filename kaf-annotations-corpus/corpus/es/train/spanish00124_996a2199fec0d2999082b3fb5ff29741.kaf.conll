@@ -13,7 +13,7 @@
 4	nuestra	nuestra	O	1	
 5	estancia	estancia	O	1	
 6	en	en	O	1	
-7	Meknés	meknés	O	1	ne=Location
+7	Meknés	meknés	R	1	ne=Location
 8	(	(	O	1	
 9	o	o	A	1	
 10	Mequinez	Mequinez	R	1	ne=Location
@@ -126,7 +126,7 @@
 6	y	y	G	1	
 7	por	por	N	1	
 8	unos	unos	N	1	
-9	35_euros	35_euro	N	1	ne=Money
+9	35_euros	35_euro	R	1	ne=Money
 10	por	por	G	1	
 11	cabeza	cabeza	N	1	
 12	dormimos	dormimos	N	1	
@@ -141,7 +141,7 @@
 21	los	los	O	1	
 22	misterios	misterios	O	1	
 23	de	de	O	1	
-24	la_cercana_(_0,5_Km_._)_medina	la_cercana_(_0,5_Km_._)_medina	O	1	ne=Location
+24	la_cercana_(_0,5_Km_._)_medina	la_cercana_(_0,5_Km_._)_medina	R	1	ne=Location
 25	y	y	G	1	
 26	kasbah_de_Mequinez	kasbah_de_Mequinez	R	1	ne=Location
 27	.	.	O	1	

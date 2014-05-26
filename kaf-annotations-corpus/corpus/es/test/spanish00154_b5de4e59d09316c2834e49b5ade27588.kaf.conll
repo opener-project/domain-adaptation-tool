@@ -24,7 +24,7 @@
 15	en	en	O	1	
 16	los	los	O	1	
 17	años	años	O	1	
-18	70_y_por	70_y_por	N	1	ne=Date
+18	70_y_por	70_y_por	R	1	ne=Date
 19	mas	mama	N	1	
 20	que	que	V	1	
 21	lo	lo	G	1	

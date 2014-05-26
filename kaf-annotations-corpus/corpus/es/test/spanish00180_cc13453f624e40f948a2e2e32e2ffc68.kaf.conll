@@ -93,7 +93,7 @@
 6	al	al	G	1	
 7	lado	lado	O	1	
 8	de	de	O	1	
-9	la_plaza_de_la_república	la_plaza_de_la_república	O	1	ne=Location
+9	la_plaza_de_la_república	la_plaza_de_la_república	R	1	ne=Location
 10	,	,	O	1	
 11	cerca	cerca	O	1	
 12	de	de	O	1	

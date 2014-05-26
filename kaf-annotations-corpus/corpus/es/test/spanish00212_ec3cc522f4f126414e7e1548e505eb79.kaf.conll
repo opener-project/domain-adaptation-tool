@@ -19,7 +19,7 @@
 13	pasos	pasos	O	1	
 14	de	de	O	1	
 15	la	la	O	1	
-16	Puerta_del_sol	Puerta_del_sol	N	1	ne=Location
+16	Puerta_del_sol	Puerta_del_sol	R	1	ne=Location
 17	,	,	O	1	
 18	se	se	N	1	
 19	puede	puede	N	1	
@@ -59,7 +59,7 @@
 22	15min	15min	O	1	
 23	caminando	caminando	N	1	
 24	está	está	O	1	
-25	la_estación_de_Atocha	la_estación_de_atocha	O	1	ne=POI
+25	la_estación_de_Atocha	la_estación_de_atocha	R	1	ne=POI
 26	.	.	O	1	
 
 1	El	El	R	1	

@@ -46,7 +46,7 @@
 28	court	court	G	1	
 29	séjour	séjour	N	1	
 30	à	à	P	1	
-31	walibi_et_aqualibi	walibi_et_aqualibi	V	1	ne=Attraction
+31	walibi_et_aqualibi	walibi_et_aqualibi	R	1	ne=Attraction
 32	.	.	O	1	
 
 1	Habitué	habituer	V	1	

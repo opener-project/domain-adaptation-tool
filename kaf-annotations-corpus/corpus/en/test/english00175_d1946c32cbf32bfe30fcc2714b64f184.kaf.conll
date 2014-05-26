@@ -68,7 +68,7 @@
 7	,	,	O	1	
 8	starting	start	V	1	
 9	at	at	P	1	
-10	9_a._m	9_a._m	N	1	ne=Time
+10	9_a._m	9_a._m	R	1	ne=Time
 11	.	.	O	1	
 
 1	·	·	A	1	

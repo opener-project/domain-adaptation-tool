@@ -9,7 +9,7 @@
 5	executive	executive	N	1	
 6	room	room	N	1	
 7	for	for	P	1	
-8	400_euros	400_euro	N	1	ne=Money
+8	400_euros	400_euro	R	1	ne=Money
 9	for	for	P	1	
 10	3	3	O	1	
 11	nights	night	N	1	

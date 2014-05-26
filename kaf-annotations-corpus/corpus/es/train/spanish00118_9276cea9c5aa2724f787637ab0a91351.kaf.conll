@@ -7,7 +7,7 @@
 4	mujer	mujer	V	1	
 5	a	a	D	1	
 6	Sirenis_Tropical	Sirenis_Tropical	R	1	ne=Hotel
-7	este_pasado_mes_de_noviembre	este_pasado_mes_de_noviembre	G	1	ne=Date
+7	este_pasado_mes_de_noviembre	este_pasado_mes_de_noviembre	R	1	ne=Date
 8	y	y	G	1	
 9	han	han	G	1	
 10	sido	sido	N	1	

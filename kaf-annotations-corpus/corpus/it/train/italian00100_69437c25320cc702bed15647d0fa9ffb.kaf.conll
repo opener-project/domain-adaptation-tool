@@ -22,7 +22,7 @@
 13	Milano	milano	R	1	ne=Location
 14	,	,	O	1	
 15	la	lo	D	1	
-16	stazione_Centrale	stazione_centrale	G	1	ne=POI
+16	stazione_Centrale	stazione_centrale	R	1	ne=POI
 17	è	è	R	1	
 18	raggiungibile	raggiungibile	G	1	
 19	a	a	P	1	

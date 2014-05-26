@@ -33,9 +33,9 @@
 12	,	,	O	1	
 13	les	le	D	1	
 14	gérants	gérant	N	1	
-15	yohann	yohann	N	1	ne=Person
+15	yohann	yohann	R	1	ne=Person
 16	et	et	C	1	
-17	Virginie	virginie	N	1	ne=Person
+17	Virginie	virginie	R	1	ne=Person
 18	très	très	G	1	
 19	gentils	gentil	N	1	
 20	et	et	C	1	

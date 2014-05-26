@@ -5,7 +5,7 @@
 
 1	séjour	séjour	N	1	
 2	en	en	P	1	
-3	septembre	septembre	N	1	ne=Date
+3	septembre	septembre	R	1	ne=Date
 4	:	:	O	1	
 5	promotion	promotion	N	1	
 
@@ -44,11 +44,11 @@
 33	(	(	O	1	
 34	près	près	P	1	
 35	de	de	P	1	
-36	cassis	cassis	N	1	ne=Location
+36	cassis	cassis	R	1	ne=Location
 37	,	,	O	1	
-38	Bandol	Bandol	N	1	ne=Location
+38	Bandol	Bandol	R	1	ne=Location
 39	,	,	O	1	
-40	Marseille	Marseille	N	1	ne=Location
+40	Marseille	Marseille	R	1	ne=Location
 41	,	,	O	1	
 42	etc.	etc.	G	1	
 43	)	)	O	1	

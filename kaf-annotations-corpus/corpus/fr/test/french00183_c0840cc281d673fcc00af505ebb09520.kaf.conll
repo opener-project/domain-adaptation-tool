@@ -79,7 +79,7 @@
 9	en	en	P	1	
 10	plein	plein	G	1	
 11	sur	sur	P	1	
-12	les_ramblas	le_ramblas	N	1	ne=POI
+12	les_ramblas	le_ramblas	R	1	ne=POI
 13	!	!	O	1	
 
 1	Idéal	idéal	N	1	
@@ -100,7 +100,7 @@
 8	les	le	D	1	
 9	cheminée	cheminée	N	1	
 10	du	du	P	1	
-11	"_Palau_Guëll	&quot;_Palau_Guëll	N	1	ne=POI
+11	"_Palau_Guëll	&quot;_Palau_Guëll	R	1	ne=POI
 12	"	&quot;	O	1	
 13	!!	!!	O	1	
 

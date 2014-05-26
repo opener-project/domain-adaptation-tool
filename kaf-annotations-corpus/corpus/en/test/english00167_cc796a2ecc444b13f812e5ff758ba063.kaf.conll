@@ -40,7 +40,7 @@
 3	to	to	P	1	
 4	Flower_Market	Flower_Market	R	1	ne=Attraction
 5	,	,	O	1	
-6	Pathé_cinema	Pathé_cinema	N	1	ne=Attraction
+6	Pathé_cinema	Pathé_cinema	R	1	ne=Attraction
 7	,	,	O	1	
 8	bars	bar	N	1	
 9	for	for	P	1	

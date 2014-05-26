@@ -14,26 +14,26 @@
 5	cuentra	cuentra	O	1	
 6	en	en	O	1	
 7	la	la	O	1	
-8	gran_via	gran_via	P	1	ne=Location
+8	gran_via	gran_via	R	1	ne=Location
 9	una	una	G	1	
 10	de	de	P	1	
 11	las	las	N	1	
 12	arterias	arterias	P	1	
 13	principales	principales	N	1	
 14	de	de	P	1	
-15	madrid	madrid	G	1	ne=Location
+15	madrid	madrid	R	1	ne=Location
 16	a	a	D	1	
 17	5	5	O	1	
 18	minuto	minuto	N	1	
 19	de	de	P	1	
 20	casi	casi	N	1	
 21	todo	todo	P	1	
-22	el_museo_del_prado	el_museo_del_prado	O	1	ne=Attraction
+22	el_museo_del_prado	el_museo_del_prado	R	1	ne=Attraction
 23	,	,	O	1	
-24	chuecas	chuecas	V	1	ne=Location
-25	la_plaza_mayor	la_plaza_mayor	N	1	ne=Location
+24	chuecas	chuecas	R	1	ne=Location
+25	la_plaza_mayor	la_plaza_mayor	R	1	ne=Location
 26	,	,	O	1	
-27	el_palacio_real	el_palacio_real	G	1	ne=Attraction
+27	el_palacio_real	el_palacio_real	R	1	ne=Attraction
 28	al	al	G	1	
 29	lado	lado	N	1	
 30	de	de	P	1	
@@ -76,7 +76,7 @@
 67	frente	frente	G	1	
 68	hay	hay	N	1	
 69	un	un	G	1	
-70	Mc_donal	Mc_donal	G	1	ne=Attraction
+70	Mc_donal	Mc_donal	R	1	ne=Attraction
 71	y	y	G	1	
 72	cafeteria	cafeteria	N	1	
 73	y	y	A	1	
@@ -102,7 +102,7 @@
 93	estando	estando	N	1	
 94	en	en	P	1	
 95	la	la	D	1	
-96	gran_via	gran_via	P	1	ne=Location
+96	gran_via	gran_via	R	1	ne=Location
 97	las	las	G	1	
 98	habitaciones	habitaciones	N	1	
 99	estan	estan	V	1	

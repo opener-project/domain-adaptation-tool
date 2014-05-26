@@ -53,11 +53,11 @@
 13	de	de	O	1	
 14	caro	caro	O	1	
 15	(	(	O	1	
-16	15_€	15_€	N	1	ne=Money
+16	15_€	15_€	R	1	ne=Money
 17	)	)	O	1	
 18	cerraba	cerraba	N	1	
 19	a	a	D	1	
-20	las_23:00_h	las_23:00_h	G	1	ne=Time
+20	las_23:00_h	las_23:00_h	R	1	ne=Time
 21	con	con	G	1	
 22	lo	lo	N	1	
 23	cual	cual	G	1	
@@ -89,9 +89,9 @@
 49	ha	ha	O	1	
 50	sido	sido	O	1	
 51	de	de	O	1	
-52	viernes	viernes	O	1	ne=Date
+52	viernes	viernes	R	1	ne=Date
 53	a	a	D	1	
-54	domingo	domingo	N	1	ne=Date
+54	domingo	domingo	R	1	ne=Date
 55	.	.	O	1	
 
 1	La	La	R	1	

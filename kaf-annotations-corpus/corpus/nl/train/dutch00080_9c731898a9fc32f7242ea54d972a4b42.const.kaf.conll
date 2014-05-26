@@ -23,7 +23,7 @@
 7	bij	bij	P	1	
 8	aankomst	aankomst	N	1	
 9	staat	staat	N	1	
-10	hossam_de_bellcaptian	hossam_de_bellcaptian	O	1	ne=Person
+10	hossam_de_bellcaptian	hossam_de_bellcaptian	R	1	ne=Person
 11	voor	voor	P	1	
 12	je	je	Q	1	
 13	klaar	klaar	G	1	

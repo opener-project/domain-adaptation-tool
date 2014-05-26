@@ -54,7 +54,7 @@
 48	es	es	N	1	
 49	decir	decir	V	1	
 50	pagamos	pagamos	N	1	
-51	280_euros	280_euro	N	1	ne=Money
+51	280_euros	280_euro	R	1	ne=Money
 52	mas	mas	V	1	
 53	por	por	G	1	
 54	tener	tener	N	1	
@@ -131,9 +131,9 @@
 5	el	el	N	1	
 6	bahia	bahia	N	1	
 7	principe	principe	N	1	
-8	de_costa_adeje_en_tenerife_que	de_costa_adeje_en_tenerife_que	G	1	ne=Hotel
+8	de_costa_adeje_en_tenerife_que	de_costa_adeje_en_tenerife_que	R	1	ne=Hotel
 9	nos	nos	N	1	
-10	encanto	encanto	P	1	ne=Location
+10	encanto	encanto	R	1	ne=Location
 11	el	el	N	1	
 12	año	año	N	1	
 13	anterior	anterior	A	1	

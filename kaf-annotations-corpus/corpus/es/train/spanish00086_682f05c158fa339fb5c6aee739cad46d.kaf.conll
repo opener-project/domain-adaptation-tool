@@ -156,7 +156,7 @@
 11	algunos	algunos	N	1	
 12	camping	camp	V	1	
 13	de	de	P	1	
-14	Andalucía_sur	Andalucía_sur	N	1	ne=Location
+14	Andalucía_sur	Andalucía_sur	R	1	ne=Location
 15	.	.	O	1	
 
 1	Las	Las	R	1	

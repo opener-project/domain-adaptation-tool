@@ -11,7 +11,7 @@
 9	visit	visit	N	1	
 10	,	,	O	1	
 11	last	last	G	1	
-12	october	october	N	1	ne=Date
+12	october	october	R	1	ne=Date
 13	we	we	Q	1	
 14	booked	book	V	1	
 15	directly	directly	A	1	

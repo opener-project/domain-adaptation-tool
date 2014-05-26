@@ -16,7 +16,7 @@
 13	nuit	nuit	N	1	
 14	jusqu'	jusque	P	1	
 15	à	à	P	1	
-16	3_ou_4_heures	3_ou_4_heure	N	1	ne=Time
+16	3_ou_4_heures	3_ou_4_heure	R	1	ne=Time
 17	du	du	P	1	
 18	matin.	matin.	N	1	
 19	lorsqu'	lorsqu'	O	1	

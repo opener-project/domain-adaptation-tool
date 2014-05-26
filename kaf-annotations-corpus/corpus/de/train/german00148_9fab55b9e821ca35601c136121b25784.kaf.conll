@@ -73,7 +73,7 @@
 8	8	8	O	1	
 9	Min.	min.	N	1	
 10	von	von	P	1	
-11	der_RER_·_Station	die_RER_·_Station	N	1	ne=POI
+11	der_RER_·_Station	die_RER_·_Station	R	1	ne=POI
 12	,	,	O	1	
 13	in	in	P	1	
 14	20	20	O	1	

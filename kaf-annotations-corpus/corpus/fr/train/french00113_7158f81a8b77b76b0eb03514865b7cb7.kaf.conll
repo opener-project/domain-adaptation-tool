@@ -68,7 +68,7 @@
 63	pour	pour	P	1	
 64	les	le	D	1	
 65	enfants	enfant	N	1	
-66	le_matin_de_10h_a_12h	le_matin_de_10h_avoir_12h	V	1	ne=Time
+66	le_matin_de_10h_a_12h	le_matin_de_10h_avoir_12h	R	1	ne=Time
 67	come	come	P	1	
 68	le	le	D	1	
 69	quad	quad	N	1	

@@ -15,7 +15,7 @@
 6	the	the	D	1	
 7	beach	beach	N	1	
 8	in	in	P	1	
-9	the_heart_of_Art_Deco_district	the_heart_of_Art_Deco_district	N	1	ne=Location
+9	the_heart_of_Art_Deco_district	the_heart_of_Art_Deco_district	R	1	ne=Location
 10	.	.	O	1	
 
 1	Room	Room	R	1	

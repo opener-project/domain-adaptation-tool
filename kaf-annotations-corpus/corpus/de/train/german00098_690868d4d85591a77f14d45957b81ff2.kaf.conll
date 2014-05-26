@@ -44,7 +44,7 @@
 15	.	.	O	1	
 
 1	Um	um	P	1	
-2	16:00_Uhr	@card@_Uhr	N	1	ne=Time
+2	16:00_Uhr	@card@_Uhr	R	1	ne=Time
 3	wird	werden	V	1	
 4	gratis	gratis	G	1	
 5	Fruchtsalat	Fruchtsalat	N	1	

@@ -15,11 +15,11 @@
 7	vous	lui	Q	1	
 8	êtes	être	V	1	
 9	en	en	P	1	
-10	AFRIQUE	AFRIQUE	N	1	ne=Location
+10	AFRIQUE	AFRIQUE	R	1	ne=Location
 11	et	et	C	1	
 12	non	non	G	1	
 13	en	en	P	1	
-14	Europe.Les	Europe.Les	D	1	ne=Location
+14	Europe.Les	Europe.Les	R	1	ne=Location
 15	hôtels	hôtel	N	1	
 16	souffrent	souffrir	V	1	
 
@@ -48,7 +48,7 @@
 23	plein	plein	G	1	
 24	désert	désert	N	1	
 25	d'	d'	P	1	
-26	Afrique	Afrique	N	1	ne=Location
+26	Afrique	Afrique	R	1	ne=Location
 27	.	.	O	1	
 
 1	L’	L’	D	1	

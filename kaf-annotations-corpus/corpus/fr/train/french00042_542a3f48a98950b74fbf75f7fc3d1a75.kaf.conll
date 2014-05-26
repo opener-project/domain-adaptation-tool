@@ -1,4 +1,4 @@
-1	Hôtel_Carlton	hôtel_Carlton	N	1	ne=Hotel
+1	Hôtel_Carlton	hôtel_Carlton	R	1	ne=Hotel
 
 1	Cet	ce	D	1	
 2	hôtel	hôtel	N	1	
@@ -8,11 +8,11 @@
 6	sud	sud	N	1	
 7	de	de	P	1	
 8	la	le	D	1	
-9	France	France	N	1	ne=Location
+9	France	France	R	1	ne=Location
 10	plus	plus	G	1	
 11	précisément	précisément	G	1	
 12	à	à	P	1	
-13	canne	canne	N	1	ne=Location
+13	canne	canne	R	1	ne=Location
 14	est	être	V	1	
 15	un	un	D	1	
 16	hôtel	hôtel	N	1	

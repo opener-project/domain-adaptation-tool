@@ -27,12 +27,12 @@
 9	peinture	peinture	N	1	
 10	(	(	O	1	
 11	début	début	N	1	
-12	juillet	juillet	N	1	ne=Date
+12	juillet	juillet	R	1	ne=Date
 13	comment	comment	G	1	
 14	ce	ce	P	1	
 15	sera	être	V	1	
 16	fin	fin	G	1	
-17	août	août	N	1	ne=Date
+17	août	août	R	1	ne=Date
 18	...	...	O	1	
 19	)	)	O	1	
 

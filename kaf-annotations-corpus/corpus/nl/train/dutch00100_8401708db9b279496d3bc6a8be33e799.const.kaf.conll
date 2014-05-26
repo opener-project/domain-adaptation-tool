@@ -38,7 +38,7 @@
 14	maar	maar	C	1	
 15	kon	kunnen	V	1	
 16	je	je	Q	1	
-17	de_volgende_dag	de_volgend_dag	N	1	ne=Date
+17	de_volgende_dag	de_volgend_dag	R	1	ne=Date
 18	verkassen	verkassen	V	1	
 19	en	en	C	1	
 20	garanderen	garanderen	V	1	
@@ -46,7 +46,7 @@
 22	een	een	D	1	
 23	plek	plek	N	1	
 24	voor	voor	P	1	
-25	vier_dagen	vier_dag	N	1	ne=Date
+25	vier_dagen	vier_dag	R	1	ne=Date
 26	.	.	O	1	
 
 1	Maar	maar	C	1	
@@ -74,13 +74,13 @@
 23	.	.	O	1	
 
 1	Maar	maar	C	1	
-2	de_dag_erna	de_dag_erna	Q	1	ne=Date
+2	de_dag_erna	de_dag_erna	R	1	ne=Date
 3	is	zijn	V	1	
 4	die	die	D	1	
 5	gegarandeerde	garanderen	V	1	
 6	plek	plek	N	1	
 7	voor	voor	P	1	
-8	vier_dagen	vier_dag	N	1	ne=Date
+8	vier_dagen	vier_dag	R	1	ne=Date
 9	er	er	Q	1	
 10	helemaal	helemaal	A	1	
 11	niet	niet	A	1	
@@ -122,13 +122,13 @@
 7	een	een	D	1	
 8	nacht	nacht	N	1	
 9	van	van	P	1	
-10	55_euro	@card@_euro	N	1	ne=Money
+10	55_euro	@card@_euro	R	1	ne=Money
 11	te	te	O	1	
 12	zijn	zijn	V	1	
 13	.	.	O	1	
 
 1	Bij	bij	P	1	
-2	het_Caldanazzo_meer	het_Caldanazzo_meer	A	1	ne=Location
+2	het_Caldanazzo_meer	het_Caldanazzo_meer	R	1	ne=Location
 3	zijn	zijn	V	1	
 4	de	de	D	1	
 5	campings	camping	N	1	

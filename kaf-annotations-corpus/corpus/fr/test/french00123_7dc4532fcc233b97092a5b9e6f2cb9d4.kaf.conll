@@ -6,9 +6,9 @@
 6	!	!	O	1	
 
 1	Au	Au	P	1	
-2	Grand_Aquarium	grand_aquarium	N	1	ne=Attraction
+2	Grand_Aquarium	grand_aquarium	R	1	ne=Attraction
 3	de	de	P	1	
-4	St_Malo	St_Malo	N	1	ne=Location
+4	St_Malo	St_Malo	R	1	ne=Location
 5	,	,	O	1	
 6	les	le	D	1	
 7	poissons	poisson	N	1	

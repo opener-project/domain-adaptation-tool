@@ -100,7 +100,7 @@
 9	van	van	P	1	
 10	het	het	D	1	
 11	naastgelegen	naastgelegen	O	1	
-12	Mamlouk_Resort	Mamlouk_Resort	O	1	ne=Hotel
+12	Mamlouk_Resort	Mamlouk_Resort	R	1	ne=Hotel
 13	.	.	O	1	
 
 1	Wat	wat	Q	1	

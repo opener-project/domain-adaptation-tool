@@ -1,7 +1,7 @@
 1	Mijn	mijn	D	1	
 2	pelgrimstocht	pelgrimstocht	N	1	
 3	naar	naar	P	1	
-4	Tonda	Tonda	O	1	ne=Location
+4	Tonda	Tonda	R	1	ne=Location
 
 1	Ik	ik	Q	1	
 2	maakte	maken	V	1	
@@ -37,7 +37,7 @@
 9	ik	ik	Q	1	
 10	nog	nog	A	1	
 11	eenmaal	eenmaal	A	1	
-12	Tonda	Tonda	O	1	ne=Location
+12	Tonda	Tonda	R	1	ne=Location
 13	zien	zien	V	1	
 14	.	.	O	1	
 

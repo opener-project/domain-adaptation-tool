@@ -78,7 +78,7 @@
 3	attractions	attraction	N	1	
 4	:	:	O	1	
 5	The	the	D	1	
-6	Hop_·_On_Hop_·_Off_bus	Hop_·_on_Hop_·_Off_bus	N	1	ne=Attraction
+6	Hop_·_On_Hop_·_Off_bus	Hop_·_on_Hop_·_Off_bus	R	1	ne=Attraction
 7	is	be	V	1	
 8	a	a	D	1	
 9	great	great	G	1	

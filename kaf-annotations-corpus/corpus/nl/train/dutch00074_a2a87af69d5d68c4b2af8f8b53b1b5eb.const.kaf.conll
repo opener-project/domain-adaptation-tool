@@ -1,7 +1,7 @@
 1	Goede	goed	G	1	
 2	uitvalsbasis	uitvalsbasis	N	1	
 3	om	om	C	1	
-4	Valencia	Valencia	O	1	ne=Location
+4	Valencia	Valencia	R	1	ne=Location
 5	te	te	O	1	
 6	ontdekken	ontdekken	V	1	
 
@@ -90,7 +90,7 @@
 11	de	de	D	1	
 12	mensen	mens	N	1	
 13	in	in	P	1	
-14	Valencia	Valencia	O	1	ne=Location
+14	Valencia	Valencia	R	1	ne=Location
 15	)	)	O	1	
 16	is	zijn	V	1	
 17	voornamelijk	voornamelijk	A	1	

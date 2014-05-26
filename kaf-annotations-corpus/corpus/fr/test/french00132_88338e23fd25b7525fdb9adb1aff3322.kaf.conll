@@ -1,5 +1,5 @@
 1	Hôtel	hôtel	N	1	
-2	Be_Live_Grand_Marien	Be_live_grand_Marien	N	1	ne=Hotel
+2	Be_Live_Grand_Marien	Be_live_grand_Marien	R	1	ne=Hotel
 
 1	Hotel	Hotel	N	1	
 2	propre	propre	G	1	
@@ -84,7 +84,7 @@
 10	aucune	aucun	D	1	
 11	reaction	reaction	N	1	
 12	par	par	P	1	
-13	Be_Live	Be_Live	O	1	ne=Hotel
+13	Be_Live	Be_Live	R	1	ne=Hotel
 14	quand	quand	C	1	
 15	vous	lui	Q	1	
 16	fait	faire	V	1	

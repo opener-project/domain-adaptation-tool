@@ -120,7 +120,7 @@
 6	good	good	N	1	
 7	location	location	N	1	
 8	aside	aside	A	1	
-9	the_liverpool_One_Shopping_centre	the_liverpool_one_Shopping_centre	N	1	ne=Attraction
+9	the_liverpool_One_Shopping_centre	the_liverpool_one_Shopping_centre	R	1	ne=Attraction
 10	,	,	O	1	
 11	with	with	P	1	
 12	a	a	D	1	

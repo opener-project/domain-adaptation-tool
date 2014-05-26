@@ -63,7 +63,7 @@
 8	ontbijt	ontbijt	N	1	
 9	,	,	O	1	
 10	om	om	C	1	
-11	9_uur	@card@_uur	N	1	ne=Time
+11	9_uur	@card@_uur	R	1	ne=Time
 12	was	wezen|zijn	V	1	
 13	er	er	Q	1	
 14	bijna	bijna	A	1	
@@ -93,7 +93,7 @@
 14	,	,	O	1	
 15	wachten	wachten	V	1	
 16	tot	tot	P	1	
-17	20u30	20u30	O	1	ne=Time
+17	20u30	20u30	R	1	ne=Time
 18	was	wezen|zijn	V	1	
 19	geen	geen	D	1	
 20	uitzondering	uitzondering	N	1	

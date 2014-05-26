@@ -124,7 +124,7 @@
 118	Food.Piscine	Food.Piscine	N	1	
 119	froide	froide	V	1	
 120	en	en	P	1	
-121	juillet.Que	juillet.Que	N	1	ne=Date
+121	juillet.Que	juillet.Que	R	1	ne=Date
 122	du	du	P	1	
 123	négatif	négatif	N	1	
 124	.Hôtel	.Hôtel	G	1	

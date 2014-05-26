@@ -23,7 +23,7 @@
 14	raisons	raison	N	1	
 15	professionnelles	professionnel	G	1	
 16	entre	entre	P	1	
-17	août_et_novembre_2012	août_et_novembre_2012	G	1	ne=Date
+17	août_et_novembre_2012	août_et_novembre_2012	R	1	ne=Date
 18	et	et	C	1	
 19	je	je	Q	1	
 20	dois	dois	G	1	
@@ -36,10 +36,10 @@
 27	autres	autre	G	1	
 28	hôtels	hôtel	N	1	
 29	sur	sur	P	1	
-30	Genève	Genève	N	1	ne=Location
+30	Genève	Genève	R	1	ne=Location
 31	,	,	O	1	
 32	le	le	D	1	
-33	Warwick	Warwick	N	1	ne=Hotel
+33	Warwick	Warwick	R	1	ne=Hotel
 34	apporte	apporter	V	1	
 35	un	un	D	1	
 36	must	must	N	1	
@@ -87,7 +87,7 @@
 5	fois	foi	N	1	
 6	au	au	P	1	
 7	restaurant	restaurer	V	1	
-8	Teseo	Teseo	N	1	ne=Attraction
+8	Teseo	Teseo	R	1	ne=Attraction
 9	,	,	O	1	
 10	une	un	D	1	
 11	fois	foi	N	1	

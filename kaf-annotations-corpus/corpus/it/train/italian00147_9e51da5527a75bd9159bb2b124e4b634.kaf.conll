@@ -39,7 +39,7 @@
 22	e	e	Q	1	
 23	'	'	Q	1	
 24	costata	costare	V	1	
-25	329,00_euro	329,00_euro	N	1	ne=Money
+25	329,00_euro	329,00_euro	R	1	ne=Money
 26	a	a	P	1	
 27	notte	notte	N	1	
 
@@ -62,7 +62,7 @@
 3	nolo	nolo	V	1	
 4	biciclette	bicicletta	N	1	
 5	(	(	O	1	
-6	€_30	€_30	N	1	ne=Money
+6	€_30	€_30	R	1	ne=Money
 7	per	per	P	1	
 8	due	due	N	1	
 9	bici	bici	N	1	
@@ -87,7 +87,7 @@
 28	del	del	P	1	
 29	tassista	tassista	N	1	
 30	tra	tra	P	1	
-31	€_45,00	€_45,00	N	1	ne=Money
+31	€_45,00	€_45,00	R	1	ne=Money
 32	ed	ed	Q	1	
-33	€_50,00	€_50,00	G	1	ne=Money
+33	€_50,00	€_50,00	R	1	ne=Money
 

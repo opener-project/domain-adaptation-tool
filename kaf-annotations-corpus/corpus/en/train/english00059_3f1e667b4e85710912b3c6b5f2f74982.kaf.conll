@@ -38,7 +38,7 @@
 7	ariport	ariport	N	1	
 8	and	and	C	1	
 9	found	find	V	1	
-10	Ibis_Hotel_Paris_Charles_de_Gaulle_Paris_Nord_2	Ibis_Hotel_Paris_Charles_de_Gaulle_Paris_Nord_2	O	1	ne=Hotel
+10	Ibis_Hotel_Paris_Charles_de_Gaulle_Paris_Nord_2	Ibis_Hotel_Paris_Charles_de_Gaulle_Paris_Nord_2	R	1	ne=Hotel
 11	a	a	D	1	
 12	reasonable	reasonable	G	1	
 13	one	one	O	1	

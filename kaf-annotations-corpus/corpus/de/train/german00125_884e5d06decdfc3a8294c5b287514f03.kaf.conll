@@ -13,7 +13,7 @@
 7	wunderschönen	wunderschön	G	1	
 8	Strand	Strand	N	1	
 9	von	von	P	1	
-10	Playa_de_Muro	Playa_de_Muro	O	1	ne=Location
+10	Playa_de_Muro	Playa_de_Muro	R	1	ne=Location
 11	.	.	O	1	
 
 1	Es	es	Q	1	
@@ -35,7 +35,7 @@
 4	direkt	direkt	G	1	
 5	mit	mit	P	1	
 6	dem	die	D	1	
-7	Hotel_Iberostar_Playa_de_Muro	Hotel_Iberostar_Playa_de_Muro	O	1	ne=Hotel
+7	Hotel_Iberostar_Playa_de_Muro	Hotel_Iberostar_Playa_de_Muro	R	1	ne=Hotel
 8	verbunden	verbinden	V	1	
 9	,	,	O	1	
 10	wo	wo	Q	1	

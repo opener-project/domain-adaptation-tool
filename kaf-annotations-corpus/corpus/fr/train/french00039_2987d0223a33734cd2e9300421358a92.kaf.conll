@@ -29,7 +29,7 @@
 7	min.	min.	N	1	
 8	à	à	P	1	
 9	pied	pied	N	1	
-10	du_pont_Charles	du_pont_Charles	N	1	ne=POI
+10	du_pont_Charles	du_pont_Charles	R	1	ne=POI
 11	)	)	O	1	
 12	mais	mais	C	1	
 13	au	au	P	1	
@@ -77,7 +77,7 @@
 5	hors	hors	P	1	
 6	service	service	N	1	
 7	fin	fin	G	1	
-8	août_2011	août_2011	G	1	ne=Date
+8	août_2011	août_2011	R	1	ne=Date
 9	et	et	C	1	
 10	aucune	aucun	D	1	
 11	compensation	compensation	N	1	

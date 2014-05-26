@@ -1,6 +1,6 @@
 1	Immer	immer	A	1	
 2	wieder	wieder	A	1	
-3	Beach_Albatros	Beach_Albatros	N	1	ne=Hotel
+3	Beach_Albatros	Beach_Albatros	R	1	ne=Hotel
 4	!	!	O	1	
 
 1	Eine	eine	Q	1	
@@ -110,7 +110,7 @@
 4	,	,	O	1	
 5	sollte	sollen	V	1	
 6	nach	nach	P	1	
-7	Hurghada	Hurghada	O	1	ne=Location
+7	Hurghada	Hurghada	R	1	ne=Location
 8	fahren	fahren	V	1	
 9	und	und	C	1	
 10	möglichst	möglichst	A	1	

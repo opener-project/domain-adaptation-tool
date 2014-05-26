@@ -67,7 +67,7 @@
 3	ist	sein	V	1	
 4	selbst	selbst	A	1	
 5	seine	sein	Q	1	
-6	9_Euro	9_Euro	N	1	ne=Money
+6	9_Euro	9_Euro	R	1	ne=Money
 7	nicht	nicht	O	1	
 8	wert	wert	G	1	
 9	!	!	O	1	

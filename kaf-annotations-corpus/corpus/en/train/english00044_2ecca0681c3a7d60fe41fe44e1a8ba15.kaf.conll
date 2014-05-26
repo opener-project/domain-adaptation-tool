@@ -52,7 +52,7 @@
 5	,	,	O	1	
 6	Weal	Weal	R	1	ne=Restaurant
 7	and	and	C	1	
-8	Milad_Restaurant_bar	Milad_Restaurant_bar	N	1	ne=Restaurant
+8	Milad_Restaurant_bar	Milad_Restaurant_bar	R	1	ne=Restaurant
 9	were	be	V	1	
 10	realy	realy	A	1	
 11	reliable	reliable	G	1	

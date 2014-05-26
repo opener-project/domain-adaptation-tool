@@ -46,12 +46,12 @@
 44	la	la	O	1	
 45	parada	parada	O	1	
 46	del	del	O	1	
-47	autobús_Nº_80	autobús_Nº_80	O	1	ne=POI
+47	autobús_Nº_80	autobús_Nº_80	R	1	ne=POI
 48	que	que	G	1	
 49	funciona	funciona	N	1	
 50	hasta	hasta	N	1	
 51	pasadas	pasadas	V	1	
-52	las_12_de_la_noche	las_12_de_la_noche	O	1	ne=Time
+52	las_12_de_la_noche	las_12_de_la_noche	R	1	ne=Time
 53	y	y	G	1	
 54	os	os	N	1	
 55	lleva	lleva	O	1	
@@ -99,7 +99,7 @@
 7	muy	muy	G	1	
 8	cerca	cerca	N	1	
 9	la	la	N	1	
-10	Ópera	ópera	N	1	ne=Attraction
+10	Ópera	ópera	R	1	ne=Attraction
 11	,	,	O	1	
 12	Madelaine	Madelaine	R	1	ne=Attraction
 13	,	,	O	1	
@@ -117,7 +117,7 @@
 9	muy	muy	O	1	
 10	concreta	concreta	O	1	
 11	Clicko	clicko	O	1	
-12	sobre	sobre	O	1	ne=Person
+12	sobre	sobre	R	1	ne=Person
 13	esa	esa	O	1	
 14	zona	zona	O	1	
 15	que	que	O	1	

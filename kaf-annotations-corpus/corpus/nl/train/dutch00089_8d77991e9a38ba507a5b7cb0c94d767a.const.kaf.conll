@@ -1,5 +1,5 @@
-1	Rixos	Rixos	O	1	ne=Hotel
-2	Belek	Belek	O	1	ne=Location
+1	Rixos	Rixos	R	1	ne=Hotel
+2	Belek	Belek	R	1	ne=Location
 3	voor	voor	P	1	
 4	een	een	D	1	
 5	onvergetelijke	onvergetelijk	G	1	
@@ -94,7 +94,7 @@
 7	,	,	O	1	
 8	maar	maar	C	1	
 9	vooral	vooral	A	1	
-10	Gokhan	Gokhan	O	1	ne=Person
+10	Gokhan	Gokhan	R	1	ne=Person
 11	van	van	P	1	
 12	de	de	D	1	
 13	guestrelation	guestrelation	O	1	

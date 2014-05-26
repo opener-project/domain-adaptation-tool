@@ -6,7 +6,7 @@
 1	Estuvimos	estuvimos	N	1	
 2	alojados	alojados	N	1	
 3	en	en	P	1	
-4	Agosto_de_2012	Agosto_de_2012	O	1	ne=Date
+4	Agosto_de_2012	Agosto_de_2012	R	1	ne=Date
 5	.	.	O	1	
 
 1	El	El	R	1	
@@ -53,7 +53,7 @@
 24	actuaciones	actuaciones	N	1	
 25	hasta	hasta	V	1	
 26	las	las	A	1	
-27	3_de_la_madrugada	3_de_la_madrugada	N	1	ne=Time
+27	3_de_la_madrugada	3_de_la_madrugada	R	1	ne=Time
 28	,	,	O	1	
 29	con	con	A	1	
 30	lo	lo	G	1	

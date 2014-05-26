@@ -5,7 +5,7 @@
 3	stay	stay	N	1	
 4	here	here	A	1	
 5	at	at	P	1	
-6	titanic	titanic	G	1	ne=Hotel
+6	titanic	titanic	R	1	ne=Hotel
 7	i	i	N	1	
 8	had	have	V	1	
 9	a	a	D	1	

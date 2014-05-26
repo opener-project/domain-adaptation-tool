@@ -45,7 +45,7 @@
 38	du	du	P	1	
 39	billet	billet	N	1	
 40	pour	pour	P	1	
-41	l'_ile_Maurice	le_ile_Maurice	N	1	ne=Location
+41	l'_ile_Maurice	le_ile_Maurice	R	1	ne=Location
 42	n'	n'	G	1	
 43	est	être	V	1	
 44	déjà	déjà	G	1	

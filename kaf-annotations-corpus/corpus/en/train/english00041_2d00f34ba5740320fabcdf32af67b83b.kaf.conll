@@ -12,7 +12,7 @@
 8	5	5	O	1	
 9	km	km	N	1	
 10	from	from	P	1	
-11	Orly_airport	Orly_airport	N	1	ne=POI
+11	Orly_airport	Orly_airport	R	1	ne=POI
 12	.	.	O	1	
 
 1	I	i	Q	1	

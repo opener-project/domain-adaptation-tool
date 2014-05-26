@@ -86,10 +86,10 @@
 18	5	5	D	1	
 19	min	min	N	1	
 20	du	du	D	1	
-21	colisée	colisée	V	1	ne=POI
+21	colisée	colisée	R	1	ne=POI
 22	et	et	C	1	
 23	de	de	P	1	
-24	sainte_marie_majeure	saint_marie_majeur	G	1	ne=POI
+24	sainte_marie_majeure	saint_marie_majeur	R	1	ne=POI
 25	,	,	O	1	
 26	la	le	D	1	
 27	pluspart	pluspart	N	1	
@@ -133,7 +133,7 @@
 10	week	week	N	1	
 11	end	end	G	1	
 12	à	à	P	1	
-13	rome	rome	N	1	ne=Location
+13	rome	rome	R	1	ne=Location
 14	,	,	O	1	
 15	dans	dans	P	1	
 16	une	un	D	1	

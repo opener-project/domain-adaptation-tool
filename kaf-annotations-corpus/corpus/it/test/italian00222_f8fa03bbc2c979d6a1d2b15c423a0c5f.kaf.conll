@@ -9,7 +9,7 @@
 3	esserci	esserci	R	1	
 4	stato	essere	V	1	
 5	all'	all'	P	1	
-6	Hotel_da_Fine	hotel_da_fine	N	1	ne=Hotel
+6	Hotel_da_Fine	hotel_da_fine	R	1	ne=Hotel
 7	almeno	almeno	A	1	
 8	10	10	G	1	
 9	volte	volgere	V	1	
@@ -32,7 +32,7 @@
 3	è	è	A	1	
 4	stata	essere	V	1	
 5	ad	ad	P	1	
-6	ottobre_2012	ottobre_2012	N	1	ne=Date
+6	ottobre_2012	ottobre_2012	R	1	ne=Date
 7	in	in	P	1	
 8	occasione	occasione	N	1	
 9	di	di	P	1	

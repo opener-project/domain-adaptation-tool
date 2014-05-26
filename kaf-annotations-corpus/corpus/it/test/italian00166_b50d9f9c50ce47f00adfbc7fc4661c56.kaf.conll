@@ -8,7 +8,7 @@
 5	hotel_Sheraton_Roma	hotel_sheraton_roma	R	1	ne=Hotel
 6	,	,	O	1	
 7	in	in	P	1	
-8	Viale_del_Pattinaggio_100	viale_del_pattinaggio_100	G	1	ne=Location
+8	Viale_del_Pattinaggio_100	viale_del_pattinaggio_100	R	1	ne=Location
 9	e	e	Q	1	
 10	devo	dovere	V	1	
 11	ammettere	ammettere	V	1	

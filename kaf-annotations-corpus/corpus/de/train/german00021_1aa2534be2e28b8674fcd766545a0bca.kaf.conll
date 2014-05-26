@@ -4,9 +4,9 @@
 1	Hotel	Hotel	N	1	
 2	liegt	liegen	V	1	
 3	zwischen	zwischen	P	1	
-4	Mastichari	Mastichari	O	1	ne=Location
+4	Mastichari	Mastichari	R	1	ne=Location
 5	und	und	C	1	
-6	Marmari	Marmari	O	1	ne=Location
+6	Marmari	Marmari	R	1	ne=Location
 7	,	,	O	1	
 8	in	in	P	1	
 9	der	die	D	1	

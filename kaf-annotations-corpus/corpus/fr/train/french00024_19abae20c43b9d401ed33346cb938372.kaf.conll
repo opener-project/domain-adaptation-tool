@@ -6,7 +6,7 @@
 6	bébé	bébé	N	1	
 7	à	à	P	1	
 8	l’	l’	D	1	
-9	AliBey_Resort_Side	AliBey_Resort_Side	N	1	ne=Hotel
+9	AliBey_Resort_Side	AliBey_Resort_Side	R	1	ne=Hotel
 
 1	Amoureuse	amoureux	N	1	
 2	des	un	D	1	
@@ -35,7 +35,7 @@
 25	·	·	O	1	
 26	in	in	O	1	
 27	en	en	P	1	
-28	Turquie	Turquie	N	1	ne=Location
+28	Turquie	Turquie	R	1	ne=Location
 29	.	.	O	1	
 
 1	Après	Après	P	1	
@@ -56,7 +56,7 @@
 16	l’	l’	D	1	
 17	évidence	évidence	N	1	
 18	…	…	V	1	
-19	La_Turquie	le_Turquie	N	1	ne=Location
+19	La_Turquie	le_Turquie	R	1	ne=Location
 20	figure	figurer	V	1	
 21	parmi	parmi	P	1	
 22	les	le	D	1	
@@ -82,7 +82,7 @@
 42	de	de	P	1	
 43	peloton	peloton	N	1	
 44	l’	l’	N	1	
-45	Ali_Bey_Resort_Side_(_*_*_*_*_*	Ali_bey_Resort_Side_(_*_*_*_*_*	N	1	ne=Hotel
+45	Ali_Bey_Resort_Side_(_*_*_*_*_*	Ali_bey_Resort_Side_(_*_*_*_*_*	R	1	ne=Hotel
 46	)	)	O	1	
 47	.	.	O	1	
 
@@ -91,7 +91,7 @@
 3	atouts	atout	N	1	
 4	de	de	P	1	
 5	l'	le	D	1	
-6	Ali_Bey_Resort_Side	Ali_bey_Resort_Side	N	1	ne=Hotel
+6	Ali_Bey_Resort_Side	Ali_bey_Resort_Side	R	1	ne=Hotel
 7	:	:	O	1	
 
 1	·	·	N	1	
@@ -128,7 +128,7 @@
 9	à	à	P	1	
 10	disposition	disposition	N	1	
 
-1	L'_Ali_Bey_Resort_Side_(_*_*_*_*_*_)	le_Ali_bey_Resort_Side_(_*_*_*_*_*_)	O	1	ne=Hotel
+1	L'_Ali_Bey_Resort_Side_(_*_*_*_*_*_)	le_Ali_bey_Resort_Side_(_*_*_*_*_*_)	R	1	ne=Hotel
 2	est	être	V	1	
 3	un	un	D	1	
 4	club	club	N	1	

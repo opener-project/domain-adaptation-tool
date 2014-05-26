@@ -67,7 +67,7 @@
 20	,	,	O	1	
 21	Javier_Mariscal	Javier_Mariscal	R	1	ne=Person
 22	,	,	O	1	
-23	Victorio_y_Lucchino	Victorio_y_lucchino	N	1	ne=Person
+23	Victorio_y_Lucchino	Victorio_y_lucchino	R	1	ne=Person
 24	...	...	O	1	
 25	incluso	incluso	P	1	
 26	los	los	N	1	

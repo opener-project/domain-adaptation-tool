@@ -1,9 +1,9 @@
 1	Bien	Bien	G	1	
 2	placé	placer	V	1	
 3	(	(	O	1	
-4	parc_expo	parc_exposition	N	1	ne=POI
+4	parc_expo	parc_exposition	R	1	ne=POI
 5	et	et	C	1	
-6	Versailles	Versailles	N	1	ne=POI
+6	Versailles	Versailles	R	1	ne=POI
 7	)	)	O	1	
 8	et	et	C	1	
 9	agréable	agréable	G	1	
@@ -61,7 +61,7 @@
 51	un	un	D	1	
 52	plus	plus	G	1	
 53	pour	pour	P	1	
-54	Paris	pari	N	1	ne=Location
+54	Paris	pari	R	1	ne=Location
 55	!!	!!	O	1	
 
 1	A	A	P	1	
@@ -71,9 +71,9 @@
 5	en	en	P	1	
 6	commun	commun	N	1	
 7	et	et	C	1	
-8	du_parc_des_exposition	du_parc_des_exposition	N	1	ne=POI
+8	du_parc_des_exposition	du_parc_des_exposition	R	1	ne=POI
 9	de	de	P	1	
-10	Versailles	Versailles	N	1	ne=POI
+10	Versailles	Versailles	R	1	ne=POI
 11	!!	!!	N	1	
 
 1	A	A	P	1	

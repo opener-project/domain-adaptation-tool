@@ -29,7 +29,7 @@
 6	hebben	hebben	V	1	
 7	de	de	D	1	
 8	kids	kids	O	1	
-9	2_weken	@card@_week	N	1	ne=Time
+9	2_weken	@card@_week	R	1	ne=Time
 10	niet	niet	A	1	
 11	gezien	gezien	P	1	
 12	ze	ze	Q	1	

@@ -1,6 +1,6 @@
-1	RESTAURANT_FLORIDA	restaurant_FLORIDA	G	1	ne=Restaurant
+1	RESTAURANT_FLORIDA	restaurant_FLORIDA	R	1	ne=Restaurant
 2	à	à	P	1	
-3	BROCHON	BROCHON	N	1	ne=Location
+3	BROCHON	BROCHON	R	1	ne=Location
 4	,	,	O	1	
 5	accueil	accueil	N	1	
 6	à	à	P	1	
@@ -16,14 +16,14 @@
 8	les	le	D	1	
 9	deux	deux	P	1	
 10	de	de	P	1	
-11	Paris	pari	N	1	ne=Location
+11	Paris	pari	R	1	ne=Location
 12	,	,	O	1	
 13	étions	être	V	1	
 14	en	en	P	1	
 15	visite	visite	N	1	
 16	touristique	touristique	G	1	
 17	en	en	P	1	
-18	Côte_d'_Or	côte_d'_Or	C	1	ne=Location
+18	Côte_d'_Or	côte_d'_Or	R	1	ne=Location
 19	.	.	O	1	
 
 1	Nous	lui	Q	1	
@@ -125,14 +125,14 @@
 17	image	image	N	1	
 18	de	de	P	1	
 19	la	le	D	1	
-20	Côte_d'_Or	côte_d'_Or	C	1	ne=Location
+20	Côte_d'_Or	côte_d'_Or	R	1	ne=Location
 21	grâce	grâce	N	1	
 22	à	à	P	1	
 23	ce	ce	D	1	
-24	restaurant_PARC_FLORIDA	restaurant_parc_FLORIDA	N	1	ne=Hotel
+24	restaurant_PARC_FLORIDA	restaurant_parc_FLORIDA	R	1	ne=Hotel
 25	situé	situer	V	1	
 26	à	à	P	1	
-27	BROCHON	BROCHON	N	1	ne=Location
+27	BROCHON	BROCHON	R	1	ne=Location
 28	.	.	O	1	
 
 1	Elles	lui	Q	1	

@@ -17,7 +17,7 @@
 8	métro	métro	N	1	
 9	de	de	P	1	
 10	"	&quot;	O	1	
-11	Muzeum	Muzeum	N	1	ne=POI
+11	Muzeum	Muzeum	R	1	ne=POI
 12	"	&quot;	O	1	
 13	et	et	C	1	
 14	la	le	D	1	

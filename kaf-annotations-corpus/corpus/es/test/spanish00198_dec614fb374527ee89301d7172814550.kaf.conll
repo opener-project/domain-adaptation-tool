@@ -15,9 +15,9 @@
 6	mi	mi	G	1	
 7	pareja	pareja	N	1	
 8	del	del	N	1	
-9	15	15	O	1	ne=Date
+9	15	15	R	1	ne=Date
 10	al	al	G	1	
-11	22_de_octubre	22_de_octubre	N	1	ne=Date
+11	22_de_octubre	22_de_octubre	R	1	ne=Date
 12	.	.	O	1	
 
 1	El	El	R	1	
@@ -143,7 +143,7 @@
 17	ocupacion	ocupacion	N	1	
 18	es	es	N	1	
 19	un	un	G	1	
-20	90_%	90_%	N	1	ne=Percent
+20	90_%	90_%	R	1	ne=Percent
 21	alemana	alemana	N	1	
 22	y	y	G	1	
 23	en	en	O	1	

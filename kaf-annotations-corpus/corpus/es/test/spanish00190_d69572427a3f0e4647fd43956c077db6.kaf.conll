@@ -13,7 +13,7 @@
 10	,	,	O	1	
 11	situada	situada	N	1	
 12	en	en	P	1	
-13	el_barrio_del_Carmen	el_barrio_del_carmen	N	1	ne=Location
+13	el_barrio_del_Carmen	el_barrio_del_carmen	R	1	ne=Location
 14	.	.	O	1	
 
 1	La	La	R	1	

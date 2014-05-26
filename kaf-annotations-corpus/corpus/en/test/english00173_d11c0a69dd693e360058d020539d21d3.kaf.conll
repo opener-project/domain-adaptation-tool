@@ -48,7 +48,7 @@
 6	the	the	D	1	
 7	train	train	N	1	
 8	(	(	O	1	
-9	Amsterdam_Amstel_station	amsterdam_Amstel_station	N	1	ne=POI
+9	Amsterdam_Amstel_station	amsterdam_Amstel_station	R	1	ne=POI
 10	)	)	O	1	
 11	and	and	C	1	
 12	trams	tram	N	1	
@@ -60,7 +60,7 @@
 4	we	we	Q	1	
 5	chose	choose	V	1	
 6	the	the	D	1	
-7	Casa_400	Casa_400	O	1	ne=Hotel
+7	Casa_400	Casa_400	R	1	ne=Hotel
 8	.	.	O	1	
 
 1	and	and	C	1	

@@ -7,7 +7,7 @@
 7	une	un	D	1	
 8	star	star	N	1	
 9	de	de	P	1	
-10	Cannes	canne	N	1	ne=Location
+10	Cannes	canne	R	1	ne=Location
 
 1	j'	j'	Q	1	
 2	ai	avoir	V	1	
@@ -38,7 +38,7 @@
 3	situé	situer	V	1	
 4	sur	sur	P	1	
 5	la	le	D	1	
-6	croisette	croisette	N	1	ne=POI
+6	croisette	croisette	R	1	ne=POI
 7	,	,	O	1	
 8	face	face	N	1	
 9	à	à	P	1	

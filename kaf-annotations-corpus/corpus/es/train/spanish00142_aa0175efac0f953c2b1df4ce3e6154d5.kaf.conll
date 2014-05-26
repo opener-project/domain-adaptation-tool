@@ -24,7 +24,7 @@
 17	si	si	N	1	
 18	llegas	llegas	V	1	
 19	a	a	D	1	
-20	las_3_a.m.	las_3_a.m.	N	1	ne=Time
+20	las_3_a.m.	las_3_a.m.	R	1	ne=Time
 21	,	,	O	1	
 22	por	por	N	1	
 23	ejemplo	ejemplo	N	1	
@@ -122,7 +122,7 @@
 15	la	la	D	1	
 16	habitación	habitación	N	1	
 17	(	(	O	1	
-18	96_euros	96_euro	N	1	ne=Money
+18	96_euros	96_euro	R	1	ne=Money
 19	/	/	A	1	
 20	noche	noche	V	1	
 21	)	)	O	1	
@@ -138,9 +138,9 @@
 8	tiempo	tiempo	O	1	
 9	:	:	O	1	
 10	de	de	O	1	
-11	6	6	O	1	ne=Time
+11	6	6	R	1	ne=Time
 12	a	a	D	1	
-13	9:30	9:30	O	1	ne=Time
+13	9:30	9:30	R	1	ne=Time
 
 1	La	La	R	1	
 2	wifi	wifi	O	1	

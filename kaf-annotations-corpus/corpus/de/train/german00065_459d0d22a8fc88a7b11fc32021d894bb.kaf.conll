@@ -1,9 +1,9 @@
 1	Direkte	direkt	G	1	
 2	Lage	Lage	N	1	
 3	am	an	P	1	
-4	Gare_du_Nord	Gare_du_Nord	N	1	ne=POI
+4	Gare_du_Nord	Gare_du_Nord	R	1	ne=POI
 
-1	Mercure_Terminus_Nord	Mercure_Terminus_Nord	N	1	ne=Hotel
+1	Mercure_Terminus_Nord	Mercure_Terminus_Nord	R	1	ne=Hotel
 2	ist	sein	V	1	
 3	ein	eine	D	1	
 4	älteres	alt	G	1	

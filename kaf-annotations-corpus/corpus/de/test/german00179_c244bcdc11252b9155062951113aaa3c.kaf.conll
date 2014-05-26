@@ -69,7 +69,7 @@
 23	noch	noch	A	1	
 24	überteuert	überteuern	V	1	
 25	ca	ca	O	1	
-26	130_€	130_€	O	1	ne=Money
+26	130_€	130_€	R	1	ne=Money
 27	/	/	O	1	
 28	pro	pro	P	1	
 29	Nacht	Nacht	N	1	

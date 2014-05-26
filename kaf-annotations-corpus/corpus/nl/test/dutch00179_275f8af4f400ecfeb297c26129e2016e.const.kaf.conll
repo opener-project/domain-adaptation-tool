@@ -11,7 +11,7 @@
 5	misverstanden	misverstand	N	1	
 6	zijn	zijn	V	1	
 7	over	over	P	1	
-8	Titanic_Beach	Titanic_Beach	O	1	ne=Hotel
+8	Titanic_Beach	Titanic_Beach	R	1	ne=Hotel
 9	en	en	C	1	
 10	spa	spa	N	1	
 11	resort	resort	O	1	
@@ -157,7 +157,7 @@
 9	dat	dat	C	1	
 10	het	het	Q	1	
 11	om	om	P	1	
-12	7_uur	@card@_uur	N	1	ne=Time
+12	7_uur	@card@_uur	R	1	ne=Time
 13	'	'	O	1	
 14	s	s	N	1	
 15	avonds	avond	N	1	

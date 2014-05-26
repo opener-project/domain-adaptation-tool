@@ -1,9 +1,9 @@
-1	Funny_world	Funny_world	O	1	ne=Attraction
+1	Funny_world	Funny_world	R	1	ne=Attraction
 2	à	à	P	1	
 3	30	30	D	1	
 4	min	min	N	1	
 5	de	de	P	1	
-6	STRASBOURG	STRASBOURG	N	1	ne=Location
+6	STRASBOURG	STRASBOURG	R	1	ne=Location
 
 1	Ce	ce	D	1	
 2	petit	petit	G	1	
@@ -23,12 +23,12 @@
 16	après	après	P	1	
 17	avoir	avoir	V	1	
 18	passé	passer	V	1	
-19	le_rhin	le_rhin	N	1	ne=POI
+19	le_rhin	le_rhin	R	1	ne=POI
 20	via	via	P	1	
 21	le	le	D	1	
 22	bac	bac	N	1	
 23	à	à	P	1	
-24	Rhinau	Rhinau	N	1	ne=Location
+24	Rhinau	Rhinau	R	1	ne=Location
 25	.	.	O	1	
 
 1	Ce	ce	D	1	
@@ -160,7 +160,7 @@
 9	autres	autres	P	1	
 10	attractions	attraction	N	1	
 11	en	en	P	1	
-12	Allemagne	Allemagne	N	1	ne=Location
+12	Allemagne	Allemagne	R	1	ne=Location
 13	mais	mais	C	1	
 14	là	là	G	1	
 15	ça	ça	P	1	

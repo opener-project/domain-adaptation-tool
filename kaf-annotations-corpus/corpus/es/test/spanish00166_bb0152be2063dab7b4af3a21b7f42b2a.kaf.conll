@@ -1,4 +1,4 @@
-1	100_%	100_%	N	1	ne=Percent
+1	100_%	100_%	R	1	ne=Percent
 2	Recomendable	recomendable	G	1	
 3	.	.	O	1	
 
@@ -15,7 +15,7 @@
 4	en	en	P	1	
 5	avión	avión	G	1	
 6	hasta	hasta	N	1	
-7	Leeds	leeds	V	1	ne=Location
+7	Leeds	leeds	R	1	ne=Location
 8	(	(	O	1	
 9	West_Yorkshire	west_Yorkshire	R	1	ne=Location
 10	)	)	O	1	

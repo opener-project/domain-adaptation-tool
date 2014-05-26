@@ -12,7 +12,7 @@
 9	domaine	domaine	N	1	
 10	de	de	P	1	
 11	l'	le	D	1	
-12	esquiras	esquiras	N	1	ne=Hotel
+12	esquiras	esquiras	R	1	ne=Hotel
 13	,	,	O	1	
 14	dès	dès	P	1	
 15	notre	son	D	1	
@@ -91,7 +91,7 @@
 15	sont	être	V	1	
 16	heureux	heureux	G	1	
 17	à	à	P	1	
-18	l'_esquiras	le_esquiras	N	1	ne=Hotel
+18	l'_esquiras	le_esquiras	R	1	ne=Hotel
 19	.	.	O	1	
 
 1	Merci	merci	N	1	

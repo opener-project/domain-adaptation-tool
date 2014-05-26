@@ -31,7 +31,7 @@
 20	si	si	G	1	
 21	volviera	volviera	N	1	
 22	a	a	D	1	
-23	punta_cana	punta_cana	N	1	ne=Location
+23	punta_cana	punta_cana	R	1	ne=Location
 24	,	,	O	1	
 25	sin	sin	N	1	
 26	dudas	dudas	N	1	

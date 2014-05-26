@@ -84,7 +84,7 @@
 9	y	y	G	1	
 10	atencion	atencion	N	1	
 11	al	al	G	1	
-12	100_%	100_%	N	1	ne=Percent
+12	100_%	100_%	R	1	ne=Percent
 13	y	y	G	1	
 14	su	su	N	1	
 15	precio	precio	N	1	

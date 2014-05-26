@@ -13,7 +13,7 @@
 4	au	au	P	1	
 5	camping	camping	N	1	
 6	de	de	P	1	
-7	la_baie_des_anges	le_baie_des_ange	N	1	ne=Hotel
+7	la_baie_des_anges	le_baie_des_ange	R	1	ne=Hotel
 8	pas	pas	G	1	
 9	très	très	G	1	
 10	rassurés	rassurer	V	1	
@@ -146,9 +146,9 @@
 8	camping	camping	N	1	
 9	de	de	P	1	
 10	la	le	D	1	
-11	baie_des_anges	baie_des_ange	N	1	ne=Hotel
+11	baie_des_anges	baie_des_ange	R	1	ne=Hotel
 12	et	et	C	1	
 13	de	de	P	1	
-14	La_Ciotat	le_Ciotat	N	1	ne=Location
+14	La_Ciotat	le_Ciotat	R	1	ne=Location
 15	!	!	O	1	
 

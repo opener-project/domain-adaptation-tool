@@ -28,7 +28,7 @@
 24	l'	le	D	1	
 25	animateur	animateur	N	1	
 26	chef	chef	N	1	
-27	Bilal	Bilal	N	1	ne=Person
+27	Bilal	Bilal	R	1	ne=Person
 28	ainsi	ainsi	G	1	
 29	que	que	C	1	
 30	son	son	D	1	

@@ -11,7 +11,7 @@
 2	hotel	hotel	N	1	
 3	lies	lie	V	1	
 4	in	in	P	1	
-5	the_south_of_Amsterdam	the_south_of_amsterdam	N	1	ne=Location
+5	the_south_of_Amsterdam	the_south_of_amsterdam	R	1	ne=Location
 6	.	.	O	1	
 
 1	The	the	D	1	
@@ -51,7 +51,7 @@
 6	20	20	O	1	
 7	minutes	minute	N	1	
 8	to	to	P	1	
-9	downtown_Amsterdam	downtown_amsterdam	N	1	ne=Location
+9	downtown_Amsterdam	downtown_amsterdam	R	1	ne=Location
 10	.	.	O	1	
 
 1	The	the	D	1	

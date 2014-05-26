@@ -81,7 +81,7 @@
 29	splendid	splendid	G	1	
 30	view	view	N	1	
 31	at	at	P	1	
-32	Siena_’s_countryside	Siena_’s_countryside	N	1	ne=Location
+32	Siena_’s_countryside	Siena_’s_countryside	R	1	ne=Location
 33	.	.	O	1	
 
 1	To	to	P	1	

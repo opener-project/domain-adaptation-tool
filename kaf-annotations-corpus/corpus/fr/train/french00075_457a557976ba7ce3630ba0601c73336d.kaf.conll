@@ -14,7 +14,7 @@
 4	son	son	D	1	
 5	nom	nom	N	1	
 6	de	de	P	1	
-7	PALACE	palace	N	1	ne=Hotel
+7	PALACE	palace	R	1	ne=Hotel
 8	.	.	O	1	
 
 1	le	le	D	1	

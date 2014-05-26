@@ -12,7 +12,7 @@
 7	,	,	O	1	
 8	celuis	celuis	P	1	
 9	de	de	P	1	
-10	SAINT_CYPRIEN	saint_CYPRIEN	N	1	ne=Location
+10	SAINT_CYPRIEN	saint_CYPRIEN	R	1	ne=Location
 11	est	être	V	1	
 12	plus	plus	G	1	
 13	grand	grand	G	1	
@@ -28,6 +28,6 @@
 4	plus	plus	G	1	
 5	celui	celui	P	1	
 6	de	de	P	1	
-7	PORT_LEUCATE	port_LEUCATE	N	1	ne=Location
+7	PORT_LEUCATE	port_LEUCATE	R	1	ne=Location
 8	.	.	O	1	
 

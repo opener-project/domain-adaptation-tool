@@ -11,7 +11,7 @@
 1	De	De	P	1	
 2	retour	retour	N	1	
 3	de	de	P	1	
-4	Rhodes	Rhodes	D	1	ne=Location
+4	Rhodes	Rhodes	R	1	ne=Location
 5	ce	ce	D	1	
 6	matin	matin	N	1	
 7	.	.	O	1	
@@ -110,11 +110,11 @@
 42	grand	grand	G	1	
 43	bravo	bravo	N	1	
 44	à	à	P	1	
-45	Victoria	victoria	N	1	ne=Person
+45	Victoria	victoria	R	1	ne=Person
 46	,	,	O	1	
-47	Christina	Christina	N	1	ne=Person
+47	Christina	Christina	R	1	ne=Person
 48	et	et	C	1	
-49	Nelu	Nelu	N	1	ne=Person
+49	Nelu	Nelu	R	1	ne=Person
 50	,	,	O	1	
 51	nos	son	D	1	
 52	serveurs	serveur	N	1	

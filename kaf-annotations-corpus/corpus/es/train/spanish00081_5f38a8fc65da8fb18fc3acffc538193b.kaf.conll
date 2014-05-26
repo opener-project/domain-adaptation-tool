@@ -13,7 +13,7 @@
 6	segunda	segunda	N	1	
 7	vez	vez	N	1	
 8	en	en	P	1	
-9	diciembre_de_2012	diciembre_de_2012	O	1	ne=Date
+9	diciembre_de_2012	diciembre_de_2012	R	1	ne=Date
 10	.	.	O	1	
 
 1	El	El	R	1	
@@ -76,14 +76,14 @@
 11	a	a	D	1	
 12	pie	pie	N	1	
 13	del	del	O	1	
-14	Bayside	bayside	G	1	ne=Location
+14	Bayside	bayside	R	1	ne=Location
 15	y	y	G	1	
 16	del	del	G	1	
 17	American_Airlines_Arena	American_Airlines_Arena	R	1	ne=Attraction
 18	.	.	O	1	
 
 1	Tienes	Tienes	R	1	
-2	el_metromover	el_metromover	N	1	ne=POI
+2	el_metromover	el_metromover	R	1	ne=POI
 3	a	a	D	1	
 4	una	una	G	1	
 5	calle	calle	N	1	
@@ -123,9 +123,9 @@
 21	así	así	V	1	
 22	como	como	G	1	
 23	de	de	P	1	
-24	17h	17h	D	1	ne=Time
+24	17h	17h	R	1	ne=Time
 25	a	a	D	1	
-26	19h	19h	O	1	ne=Time
+26	19h	19h	R	1	ne=Time
 27	puedes	puedes	N	1	
 28	disfrutar	disfrutar	G	1	
 29	de	de	P	1	

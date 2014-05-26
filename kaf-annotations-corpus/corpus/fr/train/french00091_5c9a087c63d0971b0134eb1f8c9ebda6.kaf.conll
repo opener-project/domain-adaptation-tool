@@ -95,7 +95,7 @@
 17	plage	plage	N	1	
 18	jusqu'	jusque	P	1	
 19	à	à	P	1	
-20	Side	Side	N	1	ne=Location
+20	Side	Side	R	1	ne=Location
 21	,	,	O	1	
 22	environ	environ	G	1	
 23	30	30	D	1	

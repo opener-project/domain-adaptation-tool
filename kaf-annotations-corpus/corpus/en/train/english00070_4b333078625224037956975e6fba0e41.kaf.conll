@@ -36,7 +36,7 @@
 25	restaurants	restaurant	N	1	
 26	etc.	etc.	V	1	
 27	that	that	P	1	
-28	Leeds	leeds	V	1	ne=Location
+28	Leeds	leeds	R	1	ne=Location
 29	has	have	V	1	
 30	to	to	P	1	
 31	offer	offer	V	1	

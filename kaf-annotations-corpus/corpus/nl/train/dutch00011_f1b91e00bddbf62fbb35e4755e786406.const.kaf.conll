@@ -3,7 +3,7 @@
 3	kort	kort	G	1	
 4	bij	bij	P	1	
 5	het	het	D	1	
-6	Guggenheim_museum	Guggenheim_museum	N	1	ne=Attraction
+6	Guggenheim_museum	Guggenheim_museum	R	1	ne=Attraction
 
 1	Leuk	leuk	G	1	
 2	hotel	hotel	N	1	
@@ -11,7 +11,7 @@
 4	wandelafstand	wandelafstand	O	1	
 5	van	van	P	1	
 6	het	het	D	1	
-7	Guggenheim_Museum	Guggenheim_museum	N	1	ne=Attraction
+7	Guggenheim_Museum	Guggenheim_museum	R	1	ne=Attraction
 8	en	en	C	1	
 9	in	in	P	1	
 10	centrum	centrum	N	1	

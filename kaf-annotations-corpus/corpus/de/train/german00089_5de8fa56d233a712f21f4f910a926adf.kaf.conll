@@ -108,7 +108,7 @@
 3	heute	heute	A	1	
 4	,	,	O	1	
 5	das	die	D	1	
-6	Hotel_Avenue	Hotel_Avenue	N	1	ne=Hotel
+6	Hotel_Avenue	Hotel_Avenue	R	1	ne=Hotel
 7	ist	sein	V	1	
 8	gut	gut	G	1	
 9	wenn	wenn	C	1	
@@ -146,5 +146,5 @@
 8	sprechen	sprechen	V	1	
 9	gegen	gegen	P	1	
 10	das	die	D	1	
-11	Hotel_Avenue	Hotel_Avenue	N	1	ne=Hotel
+11	Hotel_Avenue	Hotel_Avenue	R	1	ne=Hotel
 

@@ -77,7 +77,7 @@
 8	Bayrische	bayrisch	G	1	
 9	Ziele	Ziel	N	1	
 10	wie	wie	C	1	
-11	Tergernsee	Tergernsee	O	1	ne=Location
+11	Tergernsee	Tergernsee	R	1	ne=Location
 12	,	,	O	1	
 13	Schliersee	Schliersee	R	1	ne=Location
 14	oder	oder	C	1	

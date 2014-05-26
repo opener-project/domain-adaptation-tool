@@ -65,5 +65,5 @@
 27	llega	llega	N	1	
 28	directamente	directamente	N	1	
 29	hasta	hasta	O	1	
-30	la_plaza_del_domo	la_plaza_del_domo	O	1	ne=Attraction
+30	la_plaza_del_domo	la_plaza_del_domo	R	1	ne=Attraction
 

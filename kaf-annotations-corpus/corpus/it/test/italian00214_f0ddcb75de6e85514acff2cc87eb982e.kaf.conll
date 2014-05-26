@@ -38,7 +38,7 @@
 14	possibile	possibile	G	1	
 15	arrivare	arrivare	V	1	
 16	alla	alla	P	1	
-17	Moschea	moschea	N	1	ne=POI
+17	Moschea	moschea	R	1	ne=POI
 18	o	o	Q	1	
 19	alla	alla	P	1	
 20	parte	parte	N	1	

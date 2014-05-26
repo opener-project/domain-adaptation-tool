@@ -15,7 +15,7 @@
 13	hotels	hotels	N	1	
 14	de	de	P	1	
 15	la	le	D	1	
-16	cotes_d'_azur	cote_d'_azur	N	1	ne=Location
+16	cotes_d'_azur	cote_d'_azur	R	1	ne=Location
 17	,	,	O	1	
 18	tout	tout	G	1	
 19	y	y	Q	1	

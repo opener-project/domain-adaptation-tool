@@ -43,7 +43,7 @@
 22	bien	bien	G	1	
 23	situé	situer	V	1	
 24	dans	dans	P	1	
-25	Annecy	Annecy	N	1	ne=Location
+25	Annecy	Annecy	R	1	ne=Location
 26	(	(	O	1	
 27	5min	5min	N	1	
 28	à	à	P	1	

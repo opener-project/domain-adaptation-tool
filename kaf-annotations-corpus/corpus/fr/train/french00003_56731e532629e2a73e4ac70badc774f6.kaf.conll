@@ -130,7 +130,7 @@
 14	à	à	P	1	
 15	voir	voir	V	1	
 16	avec	avec	P	1	
-17	l'_Avent_d'_Orgnac	le_avent_d'_Orgnac	N	1	ne=POI
+17	l'_Avent_d'_Orgnac	le_avent_d'_Orgnac	R	1	ne=POI
 18	,	,	O	1	
 19	Bref	bref	G	1	
 20	une	un	D	1	
@@ -141,7 +141,7 @@
 25	enfants	enfant	N	1	
 26	le	le	D	1	
 27	patrimoine	patrimoine	N	1	
-28	Belge	belge	N	1	ne=Location
+28	Belge	belge	R	1	ne=Location
 29	mais	mais	C	1	
 30	pas	pas	G	1	
 31	deux	deux	G	1	

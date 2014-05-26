@@ -94,7 +94,7 @@
 3	!	!	O	1	
 
 1	bij	bij	A	1	
-2	de_chinees	de_chinezen	V	1	ne=Restaurant
+2	de_chinees	de_chinezen	R	1	ne=Restaurant
 3	lunchen	lunchen	V	1	
 4	is	zijn	V	1	
 5	perfect	perfect	G	1	
@@ -125,8 +125,8 @@
 6	gevoel	gevoelen	V	1	
 7	overgehouden	overhouden	V	1	
 8	aan	aan	P	1	
-9	2_weken	@card@_week	N	1	ne=Date
-10	titanic_beach	titanic_beach	O	1	ne=Hotel
+9	2_weken	@card@_week	R	1	ne=Date
+10	titanic_beach	titanic_beach	R	1	ne=Hotel
 11	,	,	O	1	
 12	vonden	vinden	V	1	
 13	het	het	D	1	

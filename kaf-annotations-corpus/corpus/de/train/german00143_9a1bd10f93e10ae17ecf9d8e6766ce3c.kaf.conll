@@ -43,9 +43,9 @@
 3	dem	die	D	1	
 4	Taxi	Taxi	N	1	
 5	nach	nach	P	1	
-6	Ouranoupoulis	Ouranoupoulis	O	1	ne=Location
+6	Ouranoupoulis	Ouranoupoulis	R	1	ne=Location
 7	(	(	O	1	
-8	10_Euro	10_Euro	N	1	ne=Money
+8	10_Euro	10_Euro	R	1	ne=Money
 9	/	/	O	1	
 10	Strecke	Strecke	N	1	
 11	)	)	O	1	

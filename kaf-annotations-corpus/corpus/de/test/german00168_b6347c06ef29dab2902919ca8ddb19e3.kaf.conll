@@ -11,7 +11,7 @@
 4	in	in	P	1	
 5	der	die	D	1	
 6	Nähe	Nähe	N	1	
-7	des_Gare_du_Nord	die_Gare_du_Nord	N	1	ne=Attraction
+7	des_Gare_du_Nord	die_Gare_du_Nord	R	1	ne=Attraction
 8	.	.	O	1	
 
 1	Man	man	Q	1	
@@ -23,7 +23,7 @@
 7	Metro	Metro	R	1	
 8	Station	Station	N	1	
 9	,	,	O	1	
-10	den_Gare_du_Nord	die_Gare_du_Nord	N	1	ne=POI
+10	den_Gare_du_Nord	die_Gare_du_Nord	R	1	ne=POI
 11	und	und	C	1	
 12	eine	eine	D	1	
 13	Bushaltestelle	Bushaltestelle	N	1	

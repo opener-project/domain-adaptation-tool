@@ -1,6 +1,6 @@
 1	Séjour	séjour	N	1	
 2	à	à	P	1	
-3	Milan	milan	N	1	ne=Location
+3	Milan	milan	R	1	ne=Location
 4	magasin	magasin	N	1	
 5	à	à	P	1	
 6	coter	coter	V	1	

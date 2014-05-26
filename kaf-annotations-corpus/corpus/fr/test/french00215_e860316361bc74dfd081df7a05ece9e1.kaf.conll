@@ -25,7 +25,7 @@
 20	où	où	P	1	
 21	nous	lui	Q	1	
 22	rendre	rendre	V	1	
-23	le_31.12	le_31.12	G	1	ne=Date
+23	le_31.12	le_31.12	R	1	ne=Date
 24	,	,	O	1	
 25	sympa	sympa	G	1	
 26	et	et	C	1	
@@ -38,7 +38,7 @@
 4	pour	pour	P	1	
 5	les	le	D	1	
 6	hôtels	hôtel	N	1	
-7	Mercure	mercure	N	1	ne=Hotel
+7	Mercure	mercure	R	1	ne=Hotel
 8	,	,	O	1	
 9	je	je	Q	1	
 10	me	me	Q	1	
@@ -114,7 +114,7 @@
 13	(	(	O	1	
 14	à	à	P	1	
 15	peine	peine	N	1	
-16	10_min	10_min	N	1	ne=Time
+16	10_min	10_min	R	1	ne=Time
 17	à	à	P	1	
 18	pied	pied	N	1	
 19	)	)	O	1	

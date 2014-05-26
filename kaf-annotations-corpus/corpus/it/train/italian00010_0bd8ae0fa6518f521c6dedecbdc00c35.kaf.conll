@@ -11,7 +11,7 @@
 4	questo	questo	G	1	
 5	hotel	hotel	N	1	
 6	dal	dal	P	1	
-7	24_dicembre	24_dicembre	N	1	ne=Date
+7	24_dicembre	24_dicembre	R	1	ne=Date
 8	al	al	P	1	
 9	27	27	N	1	
 10	dicembre	dicembre	N	1	
@@ -51,7 +51,7 @@
 24	alla	alla	P	1	
 25	fermata	fermata	N	1	
 26	di	di	P	1	
-27	Sharaf_DG_Metro_Station_2	sharaf_dg_metro_station_2	N	1	ne=POI
+27	Sharaf_DG_Metro_Station_2	sharaf_dg_metro_station_2	R	1	ne=POI
 28	)	)	O	1	
 29	.	.	O	1	
 
@@ -127,7 +127,7 @@
 16	in	in	P	1	
 17	contanti	contante	N	1	
 18	(	(	O	1	
-19	45_€	45_€	O	1	ne=Money
+19	45_€	45_€	R	1	ne=Money
 20	circa	circa	P	1	
 21	)	)	O	1	
 22	.	.	O	1	

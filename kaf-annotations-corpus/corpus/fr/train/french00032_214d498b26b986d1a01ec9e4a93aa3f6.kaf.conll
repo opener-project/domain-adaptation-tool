@@ -1,6 +1,6 @@
 1	Sejour	Sejour	P	1	
-2	Egypte	Egypte	N	1	ne=Location
-3	2012	2012	G	1	ne=Date
+2	Egypte	Egypte	R	1	ne=Location
+3	2012	2012	R	1	ne=Date
 
 1	Depuis	Depuis	P	1	
 2	l'	le	D	1	
@@ -73,7 +73,7 @@
 18	la	le	D	1	
 19	plage	plage	N	1	
 20	et	et	C	1	
-21	la_mer_Rouge	le_mer_rouge	G	1	ne=POI
+21	la_mer_Rouge	le_mer_rouge	R	1	ne=POI
 22	.	.	O	1	
 
 1	Lors	Lors	N	1	
@@ -82,7 +82,7 @@
 4	sejour	sejour	N	1	
 5	(	(	O	1	
 6	fin	fin	N	1	
-7	août	août	N	1	ne=Date
+7	août	août	R	1	ne=Date
 8	)	)	O	1	
 9	,	,	O	1	
 10	la	le	D	1	
@@ -94,10 +94,10 @@
 16	d'	d'	P	1	
 17	origine	origine	N	1	
 18	d'	d'	P	1	
-19	Europe_de_L'_est	Europe_de_le_être	V	1	ne=Location
+19	Europe_de_L'_est	Europe_de_le_être	R	1	ne=Location
 20	et	et	C	1	
 21	de	de	P	1	
-22	Russie	Russie	N	1	ne=Location
+22	Russie	Russie	R	1	ne=Location
 23	.	.	O	1	
 
 1	Nous	lui	Q	1	

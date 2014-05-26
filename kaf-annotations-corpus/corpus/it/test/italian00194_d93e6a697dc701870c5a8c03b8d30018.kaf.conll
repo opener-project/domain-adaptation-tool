@@ -27,7 +27,7 @@
 5	particolarmente	particolarmente	A	1	
 6	quella	quella	Q	1	
 7	della	della	P	1	
-8	stazione_ferroviaria_di_Roma_Termini	stazione_ferroviario_di_roma_termine	N	1	ne=POI
+8	stazione_ferroviaria_di_Roma_Termini	stazione_ferroviario_di_roma_termine	R	1	ne=POI
 9	,	,	O	1	
 10	nodo	nodo	N	1	
 11	della	della	P	1	

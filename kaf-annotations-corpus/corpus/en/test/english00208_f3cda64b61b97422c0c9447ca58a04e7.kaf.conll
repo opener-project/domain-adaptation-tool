@@ -135,6 +135,6 @@
 5	of	of	P	1	
 6	the	the	D	1	
 7	other	other	G	1	
-8	NN_hotels	NN_hotel	N	1	ne=Hotel
+8	NN_hotels	NN_hotel	R	1	ne=Hotel
 9	.	.	O	1	
 

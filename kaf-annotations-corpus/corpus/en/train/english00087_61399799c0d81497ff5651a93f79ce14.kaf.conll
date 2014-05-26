@@ -45,7 +45,7 @@
 11	and	and	C	1	
 12	lasted	lasted	G	1	
 13	until	until	P	1	
-14	3am	3am	O	1	ne=Time
+14	3am	3am	R	1	ne=Time
 15	.	.	O	1	
 
 1	After	after	P	1	
@@ -53,7 +53,7 @@
 3	the	the	D	1	
 4	reception	reception	N	1	
 5	at	at	P	1	
-6	2am	2am	G	1	ne=Time
+6	2am	2am	R	1	ne=Time
 7	asking	asking	N	1	
 8	to	to	P	1	
 9	contact	contact	V	1	

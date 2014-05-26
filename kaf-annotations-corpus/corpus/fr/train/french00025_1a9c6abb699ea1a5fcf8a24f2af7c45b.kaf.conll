@@ -1,7 +1,7 @@
 1	Animateurs	animateur	N	1	
-2	Haykel	Haykel	N	1	ne=Person
+2	Haykel	Haykel	R	1	ne=Person
 3	et	et	C	1	
-4	Karim	Karim	N	1	ne=Person
+4	Karim	Karim	R	1	ne=Person
 5	alias	alias	G	1	
 6	Kimo	Kimo	N	1	
 
@@ -35,7 +35,7 @@
 28	gènes	gène	N	1	
 29	,	,	O	1	
 30	qu’	qu’	C	1	
-31	Hurghada	Hurghada	N	1	ne=Location
+31	Hurghada	Hurghada	R	1	ne=Location
 32	ne	ne	G	1	
 33	soit	être	V	1	
 34	pas	pas	G	1	
@@ -71,9 +71,9 @@
 64	surtout	surtout	G	1	
 65	à	à	P	1	
 66	remercier	remercier	V	1	
-67	Haykel	Haykel	N	1	ne=Person
+67	Haykel	Haykel	R	1	ne=Person
 68	et	et	C	1	
-69	Kimo	Kimo	N	1	ne=Person
+69	Kimo	Kimo	R	1	ne=Person
 70	,	,	O	1	
 71	les	le	D	1	
 72	seuls	seul	G	1	

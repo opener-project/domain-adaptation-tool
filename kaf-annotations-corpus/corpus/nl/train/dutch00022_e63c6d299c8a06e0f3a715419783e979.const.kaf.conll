@@ -4,7 +4,7 @@
 4	gast	gast	N	1	
 5	geweest	wezen|zijn	V	1	
 6	bij	bij	P	1	
-7	Lindstow_Van_der_Valk	Lindstow_Van_de_valk	N	1	ne=Hotel
+7	Lindstow_Van_der_Valk	Lindstow_Van_de_valk	R	1	ne=Hotel
 
 1	Graag	graag	A	1	
 2	willen	willen	V	1	
@@ -59,7 +59,7 @@
 5	dat	dat	Q	1	
 6	bij	bij	P	1	
 7	binnekomst	binnekomst	O	1	
-8	mijn_jongste_zoon_(_5_Jaar	mijn_jong_zoon_(_@card@_jaar	N	1	ne=Person
+8	mijn_jongste_zoon_(_5_Jaar	mijn_jong_zoon_(_@card@_jaar	R	1	ne=Person
 9	)	)	O	1	
 10	een	een	D	1	
 11	doos	doos	N	1	

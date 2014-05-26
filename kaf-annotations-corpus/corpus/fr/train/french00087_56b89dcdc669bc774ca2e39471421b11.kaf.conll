@@ -28,9 +28,9 @@
 20	bien	bien	G	1	
 21	situé	situer	V	1	
 22	pour	pour	P	1	
-23	les_palais_des_festivals	le_palais_des_festival	N	1	ne=POI
+23	les_palais_des_festivals	le_palais_des_festival	R	1	ne=POI
 24	et	et	C	1	
-25	la_gare_ferroviaire	le_gare_ferroviaire	G	1	ne=POI
+25	la_gare_ferroviaire	le_gare_ferroviaire	R	1	ne=POI
 26	.Supermarché	.Supermarché	N	1	
 27	AH	AH	N	1	
 28	tout	tout	G	1	

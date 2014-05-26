@@ -55,12 +55,12 @@
 53	calle	calle	N	1	
 54	de	de	P	1	
 55	la	la	D	1	
-56	fontana_di_trevi	fontana_di_trevi	O	1	ne=Attraction
+56	fontana_di_trevi	fontana_di_trevi	R	1	ne=Attraction
 57	y	y	G	1	
 58	al	al	G	1	
 59	lado	lado	N	1	
 60	de	de	P	1	
-61	plaza_de_españa	plaza_de_españa	O	1	ne=Location
+61	plaza_de_españa	plaza_de_españa	R	1	ne=Location
 62	,	,	O	1	
 63	tambiñen	tambiñen	G	1	
 64	habia	habia	N	1	
@@ -79,7 +79,7 @@
 77	si	si	N	1	
 78	volviera	volviera	V	1	
 79	a	a	D	1	
-80	roma	roma	N	1	ne=Location
+80	roma	roma	R	1	ne=Location
 81	que	que	N	1	
 82	seguro	seguro	O	1	
 83	volvere	volvere	V	1	

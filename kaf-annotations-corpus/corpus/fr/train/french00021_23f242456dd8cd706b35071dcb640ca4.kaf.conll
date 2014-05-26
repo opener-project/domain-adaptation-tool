@@ -78,7 +78,7 @@
 72	aucune	aucun	D	1	
 73	animation	animation	N	1	
 74	en	en	P	1	
-75	juin	juin	N	1	ne=Date
+75	juin	juin	R	1	ne=Date
 76	(	(	O	1	
 77	alors	alors	G	1	
 78	que	que	C	1	

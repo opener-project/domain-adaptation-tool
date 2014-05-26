@@ -1,0 +1,25 @@
+Category -> TF-IDF mapping
+
+4.0	november
+8.0	China
+8.0	Hurghada
+8.0	Frankrijk
+8.0	·
+8.0	Rue
+10.0	mohamed
+9.0	Rixos
+9.0	Spa
+
+----------------------------------
+
+TF-IDF dictionary
+
+Spa	0.8888888888888888
+november	0.0
+Frankrijk	0.3333333333333333
+Rue	0.5555555555555556
+Rixos	0.7777777777777778
+·	0.4444444444444444
+mohamed	0.6666666666666666
+Hurghada	0.2222222222222222
+China	0.1111111111111111

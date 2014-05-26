@@ -136,7 +136,7 @@
 10	1keer	1keer	O	1	
 11	in	in	P	1	
 12	de	de	D	1	
-13	7dagen	7dagen	O	1	ne=Date
+13	7dagen	7dagen	R	1	ne=Date
 14	een	een	D	1	
 15	al	al	D	1	
 16	la	la	N	1	

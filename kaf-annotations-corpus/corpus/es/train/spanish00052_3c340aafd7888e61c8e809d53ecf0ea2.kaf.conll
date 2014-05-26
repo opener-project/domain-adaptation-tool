@@ -70,7 +70,7 @@
 6	al	al	G	1	
 7	lado	lado	N	1	
 8	de	de	O	1	
-9	las_Playas_del_Duque	las_playas_del_duque	O	1	ne=Location
+9	las_Playas_del_Duque	las_playas_del_duque	R	1	ne=Location
 10	y	y	G	1	
 11	cerca	cerca	N	1	
 12	de	de	P	1	

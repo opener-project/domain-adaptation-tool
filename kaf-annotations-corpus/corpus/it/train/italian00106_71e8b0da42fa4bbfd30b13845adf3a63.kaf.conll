@@ -13,7 +13,7 @@
 3	è	è	R	1	
 4	ottima	ottimo	G	1	
 5	:	:	O	1	
-6	via_Veneto	via_veneto	G	1	ne=Location
+6	via_Veneto	via_veneto	R	1	ne=Location
 7	nel	nel	P	1	
 8	Centro	centro	N	1	
 9	della	della	P	1	
@@ -63,7 +63,7 @@
 18	che	che	Q	1	
 19	spazia	spaziare	V	1	
 20	dalla	dalla	P	1	
-21	cupola_del_Vaticano	cupola_del_vaticano	N	1	ne=POI
+21	cupola_del_Vaticano	cupola_del_vaticano	R	1	ne=POI
 22	,	,	O	1	
 23	all'	all'	P	1	
 24	altare	altare	N	1	

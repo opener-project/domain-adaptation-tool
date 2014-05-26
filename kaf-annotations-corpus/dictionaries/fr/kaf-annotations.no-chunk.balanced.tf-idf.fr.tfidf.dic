@@ -1,0 +1,25 @@
+Category -> TF-IDF mapping
+
+3.0	septembre
+6.0	Paris
+7.0	Titanic
+7.0	Spa
+7.0	Beach
+7.0	hôtel
+7.0	Hôtel
+7.0	baie
+7.0	anges
+
+----------------------------------
+
+TF-IDF dictionary
+
+baie	0.7777777777777778
+Hôtel	0.6666666666666666
+Spa	0.3333333333333333
+septembre	0.0
+Beach	0.4444444444444444
+Paris	0.1111111111111111
+anges	0.8888888888888888
+hôtel	0.5555555555555556
+Titanic	0.2222222222222222

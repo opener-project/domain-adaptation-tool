@@ -71,7 +71,7 @@
 10	de	de	O	1	
 11	aire	aire	O	1	
 12	(	(	O	1	
-13	0,50_€	0,50_€	N	1	ne=Money
+13	0,50_€	0,50_€	R	1	ne=Money
 14	)	)	O	1	
 15	para	para	N	1	
 16	inflar	inflar	N	1	
@@ -85,7 +85,7 @@
 24	a	a	D	1	
 25	internet	internet	N	1	
 26	:	:	O	1	
-27	2,5_€	2,5_€	N	1	ne=Money
+27	2,5_€	2,5_€	R	1	ne=Money
 28	(	(	O	1	
 29	carísimo	carísimo	N	1	
 30	)	)	O	1	

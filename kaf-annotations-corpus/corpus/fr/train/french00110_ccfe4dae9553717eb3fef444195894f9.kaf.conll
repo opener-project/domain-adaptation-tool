@@ -10,9 +10,9 @@
 6	même	même	G	1	
 7	période	période	N	1	
 8	que	que	P	1	
-9	perdreau	perdreau	V	1	ne=Person
+9	perdreau	perdreau	R	1	ne=Person
 10	au	au	P	1	
-11	camping_l'_estanquet	camping_le_estanquet	N	1	ne=Hotel
+11	camping_l'_estanquet	camping_le_estanquet	R	1	ne=Hotel
 12	mais	mais	C	1	
 13	nous	lui	Q	1	
 14	ne	ne	G	1	
@@ -136,7 +136,7 @@
 4	année	année	N	1	
 5	prochaine	prochain	G	1	
 6	à	à	P	1	
-7	l'_estanquet	le_estanquet	N	1	ne=Hotel
+7	l'_estanquet	le_estanquet	R	1	ne=Hotel
 8	pour	pour	P	1	
 9	la	le	D	1	
 10	3eme	3eme	D	1	

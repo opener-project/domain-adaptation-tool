@@ -15,7 +15,7 @@
 1	Si	si	Q	1	
 2	trova	trovare	V	1	
 3	a	a	P	1	
-4	Viareggio	viareggio	N	1	ne=Location
+4	Viareggio	viareggio	R	1	ne=Location
 5	in	in	P	1	
 6	posizione	posizione	N	1	
 7	decentrata	decentrato	G	1	
@@ -135,7 +135,7 @@
 15	e	e	Q	1	
 16	dietro	dietro	P	1	
 17	le	lo	D	1	
-18	Apuane	apuane	G	1	ne=POI
+18	Apuane	apuane	R	1	ne=POI
 19	è	è	R	1	
 20	veramente	veramente	A	1	
 21	mitica	mitico	G	1	

@@ -29,7 +29,7 @@
 2	,	,	O	1	
 3	nooit	nooit	A	1	
 4	meer	meer	A	1	
-5	Best_Western	Best_Western	O	1	ne=Hotel
+5	Best_Western	Best_Western	R	1	ne=Hotel
 6	.	.	O	1	
 
 1	Gratis	gratis	G	1	
@@ -40,7 +40,7 @@
 6	snelheid	snelheid	N	1	
 7	die	die	Q	1	
 8	in	in	P	1	
-9	de_90er_jaren_van_de_vorige_eeuw	de_90er_jaar_van_de_vorig_eeuw	N	1	ne=Date
+9	de_90er_jaren_van_de_vorige_eeuw	de_90er_jaar_van_de_vorig_eeuw	R	1	ne=Date
 10	acceptabel	acceptabel	G	1	
 11	was	wezen|zijn	V	1	
 12	.	.	O	1	

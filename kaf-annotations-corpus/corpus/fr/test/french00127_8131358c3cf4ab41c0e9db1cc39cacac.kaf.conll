@@ -80,7 +80,7 @@
 38	un	un	D	1	
 39	coup	coup	N	1	
 40	à	à	P	1	
-41	20_h	20_h	N	1	ne=Time
+41	20_h	20_h	R	1	ne=Time
 42	!!	!!	G	1	
 
 1	)	)	O	1	

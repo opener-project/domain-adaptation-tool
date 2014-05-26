@@ -7,7 +7,7 @@
 7	Barcelona	Barcelona	R	1	ne=Location
 
 1	Llegamos	Llegamos	R	1	
-2	el_4_de_enero	el_4_de_enero	N	1	ne=Date
+2	el_4_de_enero	el_4_de_enero	R	1	ne=Date
 3	,	,	O	1	
 4	la	la	D	1	
 5	habitacion	habitacion	N	1	

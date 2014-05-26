@@ -60,7 +60,7 @@
 4	dag	dag	N	1	
 5	door	door	P	1	
 6	vanaf	vanaf	P	1	
-7	een_uur_of_10_tot_'_s_avonds_na_11	een_uur_of_@card@_tot_'_s_avond_na_@card@	O	1	ne=Time
+7	een_uur_of_10_tot_'_s_avonds_na_11	een_uur_of_@card@_tot_'_s_avond_na_@card@	R	1	ne=Time
 8	en	en	C	1	
 9	en	en	C	1	
 10	bijzonder	bijzonder	G	1	

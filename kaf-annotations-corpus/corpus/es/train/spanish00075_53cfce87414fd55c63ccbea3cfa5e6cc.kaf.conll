@@ -5,7 +5,7 @@
 2	peor	peor	N	1	
 3	hotel	hotel	N	1	
 4	de	de	P	1	
-5	punta_cana	punta_cana	N	1	ne=Location
+5	punta_cana	punta_cana	R	1	ne=Location
 6	!	!	O	1	
 
 1	No	no	D	1	
@@ -48,7 +48,7 @@
 34	caliente	caliente	N	1	
 35	,	,	O	1	
 36	a	a	D	1	
-37	las_12_de_la_noche	las_12_de_la_noche	G	1	ne=Time
+37	las_12_de_la_noche	las_12_de_la_noche	R	1	ne=Time
 38	se	se	N	1	
 39	quedan	quedan	N	1	
 40	sin	sin	N	1	
@@ -70,13 +70,13 @@
 1	Recordar	Recordar	R	1	
 2	cadena	cadena	N	1	
 3	be	be	V	1	
-4	live_nooo_!	live_nooo_!	O	1	ne=Hotel
+4	live_nooo_!	live_nooo_!	R	1	ne=Hotel
 
 1	y	y	G	1	
 2	halcon	halcon	N	1	
 3	y	y	G	1	
-4	travelplan	travelplan	N	1	ne=Hotel
+4	travelplan	travelplan	R	1	ne=Hotel
 5	mucho	mucho	G	1	
-6	menos	menos	N	1	ne=Hotel
+6	menos	menos	R	1	ne=Hotel
 7	.	.	O	1	
 

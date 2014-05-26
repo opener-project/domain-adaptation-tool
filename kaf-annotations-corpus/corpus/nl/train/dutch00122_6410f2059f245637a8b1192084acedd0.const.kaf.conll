@@ -110,12 +110,12 @@
 18	je	je	Q	1	
 19	zo	zo	A	1	
 20	naar	naar	P	1	
-21	Kardamena	Kardamena	O	1	ne=Location
+21	Kardamena	Kardamena	R	1	ne=Location
 22	of	of	C	1	
 23	naar	naar	P	1	
-24	kosstad	kosstad	O	1	ne=Location
+24	kosstad	kosstad	R	1	ne=Location
 25	.	.	O	1	
 
-1	Christine	Christine	O	1	ne=Person
+1	Christine	Christine	R	1	ne=Person
 2	.	.	O	1	
 

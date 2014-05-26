@@ -46,7 +46,7 @@
 14	,	,	O	1	
 15	posizionato	posizionare	V	1	
 16	nel	nel	P	1	
-17	Quartiere_EUR	quartiere_eur	N	1	ne=Location
+17	Quartiere_EUR	quartiere_eur	R	1	ne=Location
 18	,	,	O	1	
 19	offre	offrire	V	1	
 20	un	uno	D	1	

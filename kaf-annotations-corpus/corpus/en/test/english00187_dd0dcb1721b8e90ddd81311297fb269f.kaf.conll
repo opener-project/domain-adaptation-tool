@@ -140,6 +140,6 @@
 17	personal	personal	G	1	
 18	belongings	belonging	N	1	
 19	worth	worth	G	1	
-20	about_200_euros	about_200_euro	N	1	ne=Money
+20	about_200_euros	about_200_euro	R	1	ne=Money
 21	!	!	O	1	
 

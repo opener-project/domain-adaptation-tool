@@ -76,7 +76,7 @@
 11	Managements	Management	N	1	
 12	,	,	O	1	
 13	bei	bei	P	1	
-14	75_%	75_%	N	1	ne=Percent
+14	75_%	75_%	R	1	ne=Percent
 15	Prozent	Prozent	N	1	
 16	liegt	liegen	V	1	
 17	,	,	O	1	
@@ -102,7 +102,7 @@
 6	der	die	Q	1	
 7	auch	auch	A	1	
 8	das	die	D	1	
-9	Dana_Beach_Resort	Dana_Beach_Resort	O	1	ne=Hotel
+9	Dana_Beach_Resort	Dana_Beach_Resort	R	1	ne=Hotel
 10	gehört	gehören	V	1	
 11	,	,	O	1	
 12	komplett	komplett	G	1	
@@ -126,7 +126,7 @@
 3	liegt	liegen	V	1	
 4	direkt	direkt	G	1	
 5	am	an	P	1	
-6	Roten_Meer	rot_Meer	N	1	ne=Location
+6	Roten_Meer	rot_Meer	R	1	ne=Location
 7	.	.	O	1	
 
 1	Der	die	D	1	

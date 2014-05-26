@@ -94,7 +94,7 @@
 8	dem	die	D	1	
 9	Hotel	Hotel	N	1	
 10	zusätzlich	zusätzlich	G	1	
-11	12,50	12,50	O	1	ne=Money
+11	12,50	12,50	R	1	ne=Money
 12	pro	pro	P	1	
 13	24h	24h	O	1	
 14	.	.	O	1	

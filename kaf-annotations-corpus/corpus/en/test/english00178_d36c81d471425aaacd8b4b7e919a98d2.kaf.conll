@@ -54,7 +54,7 @@
 44	rail	rail	N	1	
 45	connections	connection	N	1	
 46	and	and	C	1	
-47	airport_RER_line_B	airport_RER_line_b	N	1	ne=POI
+47	airport_RER_line_B	airport_RER_line_b	R	1	ne=POI
 48	,	,	O	1	
 49	this	this	D	1	
 50	hotel	hotel	N	1	

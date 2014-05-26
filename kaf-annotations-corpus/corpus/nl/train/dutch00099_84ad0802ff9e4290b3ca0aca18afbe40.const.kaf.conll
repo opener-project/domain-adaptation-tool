@@ -67,11 +67,11 @@
 14	en	en	C	1	
 15	voor	voor	P	1	
 16	zoon	zoon	N	1	
-17	5_euro	@card@_euro	N	1	ne=Money
+17	5_euro	@card@_euro	R	1	ne=Money
 18	sta	staan	V	1	
 19	je	je	Q	1	
 20	in	in	P	1	
-21	hurgada	hurgada	O	1	ne=Location
+21	hurgada	hurgada	R	1	ne=Location
 22	stad	stad	N	1	
 23	.	.	O	1	
 

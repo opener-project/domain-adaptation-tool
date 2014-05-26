@@ -22,7 +22,7 @@
 17	vacanza	vacanza	N	1	
 18	splendida	splendido	G	1	
 19	alle	alle	P	1	
-20	Pianacce	pianacce	N	1	ne=Hotel
+20	Pianacce	pianacce	R	1	ne=Hotel
 21	.	.	O	1	
 
 1	Luogo	luogo	R	1	

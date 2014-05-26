@@ -73,7 +73,7 @@
 57	pouvions	pouvoir	V	1	
 58	rentrer	rentrer	V	1	
 59	en	en	P	1	
-60	france	france	N	1	ne=Location
+60	france	france	R	1	ne=Location
 61	et	et	C	1	
 62	qu'	qu'	C	1	
 63	il	il	Q	1	

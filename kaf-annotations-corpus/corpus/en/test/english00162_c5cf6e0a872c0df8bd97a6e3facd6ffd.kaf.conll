@@ -60,7 +60,7 @@
 22	it	it	Q	1	
 23	,	,	O	1	
 24	or	or	C	1	
-25	the_Hallmark_hotel_restaurant	the_Hallmark_hotel_restaurant	N	1	ne=Restaurant
+25	the_Hallmark_hotel_restaurant	the_Hallmark_hotel_restaurant	R	1	ne=Restaurant
 26	,	,	O	1	
 27	just	just	A	1	
 28	across	across	P	1	

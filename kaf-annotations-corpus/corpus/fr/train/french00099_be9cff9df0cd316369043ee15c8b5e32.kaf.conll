@@ -1,4 +1,4 @@
-1	Titanic_Beach_Spa_&_Aqua_Park_Hurghada	Titanic_Beach_Spa_&amp;amp;_Aqua_Park_Hurghada	N	1	ne=Hotel
+1	Titanic_Beach_Spa_&_Aqua_Park_Hurghada	Titanic_Beach_Spa_&amp;amp;_Aqua_Park_Hurghada	R	1	ne=Hotel
 2	:	:	O	1	
 3	)	)	O	1	
 
@@ -59,9 +59,9 @@
 11	faut	faut	O	1	
 12	venir	venir	V	1	
 13	a	avoir	V	1	
-14	Hurghada	Hurghada	N	1	ne=Location
+14	Hurghada	Hurghada	R	1	ne=Location
 15	,	,	O	1	
 16	hotel	hotel	N	1	
-17	Titanic_beach	Titanic_beach	N	1	ne=Hotel
+17	Titanic_beach	Titanic_beach	R	1	ne=Hotel
 18	,	,	O	1	
 

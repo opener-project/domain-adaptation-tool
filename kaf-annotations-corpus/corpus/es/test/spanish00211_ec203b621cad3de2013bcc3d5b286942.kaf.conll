@@ -4,9 +4,9 @@
 4	enclavado	enclavado	V	1	
 
 1	Estuvimos	Estuvimos	R	1	
-2	el_viernes_8	el_viernes_8	O	1	ne=Date
+2	el_viernes_8	el_viernes_8	R	1	ne=Date
 3	y	y	G	1	
-4	sabado_9_de_julio	sabado_9_de_julio	N	1	ne=Date
+4	sabado_9_de_julio	sabado_9_de_julio	R	1	ne=Date
 5	a	a	D	1	
 6	un	un	G	1	
 7	evento	evento	N	1	

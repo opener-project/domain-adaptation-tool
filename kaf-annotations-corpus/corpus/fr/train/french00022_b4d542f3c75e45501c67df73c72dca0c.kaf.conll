@@ -53,7 +53,7 @@
 7	que	que	C	1	
 8	celui	celui	P	1	
 9	de	de	P	1	
-10	saint_cyr	saint_cyr	N	1	ne=Location
+10	saint_cyr	saint_cyr	R	1	ne=Location
 11	,	,	O	1	
 12	alors	alors	G	1	
 13	que	que	C	1	

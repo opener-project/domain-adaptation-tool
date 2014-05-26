@@ -19,7 +19,7 @@
 12	on	on	Q	1	
 13	droit	droit	N	1	
 14	vers	vers	P	1	
-15	5h_du_matin	5h_du_matin	N	1	ne=Time
+15	5h_du_matin	5h_du_matin	R	1	ne=Time
 16	au	au	P	1	
 17	bruit	bruit	N	1	
 18	infernal	infernal	G	1	

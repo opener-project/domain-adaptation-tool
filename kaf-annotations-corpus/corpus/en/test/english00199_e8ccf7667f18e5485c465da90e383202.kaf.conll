@@ -48,7 +48,7 @@
 2	preferred	prefer	V	1	
 3	to	to	P	1	
 4	use	use	V	1	
-5	the_Sunrise_restaurant	the_Sunrise_restaurant	N	1	ne=Restaurant
+5	the_Sunrise_restaurant	the_Sunrise_restaurant	R	1	ne=Restaurant
 6	apposed	appose	V	1	
 7	to	to	P	1	
 8	the_Sentido	the_Sentido	R	1	ne=Restaurant
@@ -100,7 +100,7 @@
 7	Egyptians	Egyptians	R	1	ne=Person
 8	and	and	C	1	
 9	only	only	A	1	
-10	a_few_English	a_few_english	N	1	ne=Person
+10	a_few_English	a_few_english	R	1	ne=Person
 11	,	,	O	1	
 12	most	most	G	1	
 13	of	of	P	1	

@@ -14,9 +14,9 @@
 3	voor	voor	P	1	
 4	uitstapjes	uitstapje	N	1	
 5	naar	naar	P	1	
-6	parijs	parijs	O	1	ne=Location
+6	parijs	parijs	R	1	ne=Location
 7	of	of	C	1	
-8	disneyland	disneyland	O	1	ne=Attraction
+8	disneyland	disneyland	R	1	ne=Attraction
 9	.	.	O	1	
 
 1	Stacaravan	Stacaravan	O	1	

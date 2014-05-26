@@ -68,9 +68,9 @@
 12	tram	tram	N	1	
 13	gratuit	gratuit	G	1	
 14	pour	pour	P	1	
-15	luxor	luxor	N	1	ne=Location
+15	luxor	luxor	R	1	ne=Location
 16	et	et	C	1	
-17	mandalay_bay	mandalay_bay	G	1	ne=Location
+17	mandalay_bay	mandalay_bay	R	1	ne=Location
 18	meme	meme	N	1	
 19	si	si	C	1	
 20	il	il	Q	1	
@@ -82,10 +82,10 @@
 26	pour	pour	P	1	
 27	atteindre	atteindre	V	1	
 28	le	le	D	1	
-29	bellagio	bellagio	N	1	ne=Hotel
+29	bellagio	bellagio	R	1	ne=Hotel
 30	ou	ou	C	1	
 31	l'	le	D	1	
-32	aria	aria	N	1	ne=Hotel
+32	aria	aria	R	1	ne=Hotel
 33	.	.	O	1	
 
 1	On	On	Q	1	

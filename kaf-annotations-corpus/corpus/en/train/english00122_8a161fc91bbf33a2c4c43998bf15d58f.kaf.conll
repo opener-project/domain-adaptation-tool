@@ -66,7 +66,7 @@
 42	,	,	O	1	
 43	breakfast	breakfast	N	1	
 44	costs	cost	N	1	
-45	30_euro	30_euro	N	1	ne=Money
+45	30_euro	30_euro	R	1	ne=Money
 46	per	per	P	1	
 47	person	person	N	1	
 48	:	:	O	1	

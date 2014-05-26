@@ -45,7 +45,7 @@
 6	eender	eender	G	1	
 7	welke	welk	D	1	
 8	egyptenaar	Egyptenaar	N	1	
-9	2_€	@card@_€	O	1	ne=Money
+9	2_€	@card@_€	R	1	ne=Money
 10	of	of	C	1	
 11	wat	wat	Q	1	
 12	je	je	Q	1	
@@ -137,17 +137,17 @@
 27	in	in	P	1	
 28	mei	mei	R	1	ne=Date
 29	14dagen.	14dagen	O	1	
-30	14dagen.	.	O	1	ne=Date
+30	14dagen.	.	R	1	ne=Date
 31	in	in	P	1	
-32	august	august	O	1	ne=Date
-33	7dagen	7dagen	O	1	ne=Date
+32	august	august	R	1	ne=Date
+33	7dagen	7dagen	R	1	ne=Date
 34	,	,	O	1	
 35	en	en	C	1	
 36	hebben	hebben	V	1	
 37	al	al	A	1	
 38	geboekt	boeken	V	1	
 39	voor	voor	P	1	
-40	14_dagen	@card@_dag	N	1	ne=Date
+40	14_dagen	@card@_dag	R	1	ne=Date
 41	in	in	P	1	
 42	november	november	R	1	ne=Date
 43	.	.	O	1	

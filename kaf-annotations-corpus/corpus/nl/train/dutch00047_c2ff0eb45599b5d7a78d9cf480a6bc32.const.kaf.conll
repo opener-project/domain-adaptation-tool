@@ -1,4 +1,4 @@
-1	Lindner_hotel	Lindner_hotel	N	1	ne=Hotel
+1	Lindner_hotel	Lindner_hotel	R	1	ne=Hotel
 
 1	Het	het	D	1	
 2	onthaal	onthaal	N	1	
@@ -77,5 +77,5 @@
 8	terug	terug	A	1	
 9	.	.	O	1	
 
-1	Peter	peter	N	1	ne=Person
+1	Peter	peter	R	1	ne=Person
 

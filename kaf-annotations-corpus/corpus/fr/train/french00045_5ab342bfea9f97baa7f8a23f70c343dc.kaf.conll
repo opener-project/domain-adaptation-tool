@@ -6,7 +6,7 @@
 4	un	un	D	1	
 5	superbe	superbe	G	1	
 6	séjour	séjour	N	1	
-7	au_camping_l'_Estanquet	au_camping_le_Estanquet	N	1	ne=Hotel
+7	au_camping_l'_Estanquet	au_camping_le_Estanquet	R	1	ne=Hotel
 8	ou	ou	C	1	
 9	l'	le	D	1	
 10	animation	animation	N	1	
@@ -72,7 +72,7 @@
 70	autour	autour	N	1	
 71	de	de	P	1	
 72	la	le	D	1	
-73	Palmyre	Palmyre	N	1	ne=Location
+73	Palmyre	Palmyre	R	1	ne=Location
 74	(	(	O	1	
 75	marche	marche	N	1	
 76	,	,	O	1	
@@ -119,8 +119,8 @@
 117	on	on	Q	1	
 118	retourne	retourner	V	1	
 119	en	en	P	1	
-120	mai	mai	N	1	ne=Time
+120	mai	mai	R	1	ne=Time
 121	et	et	C	1	
 122	en	en	P	1	
-123	août	août	N	1	ne=Time
+123	août	août	R	1	ne=Time
 

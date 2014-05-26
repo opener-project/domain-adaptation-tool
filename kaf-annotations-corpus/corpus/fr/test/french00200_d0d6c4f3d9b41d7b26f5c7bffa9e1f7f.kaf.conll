@@ -7,7 +7,7 @@
 4	une	un	D	1	
 5	semaine	semaine	N	1	
 6	à	à	P	1	
-7	la_sardane	le_sardane	N	1	ne=Hotel
+7	la_sardane	le_sardane	R	1	ne=Hotel
 8	,	,	O	1	
 9	et	et	C	1	
 10	que	que	C	1	
@@ -45,7 +45,7 @@
 42	pied	pied	N	1	
 43	,	,	O	1	
 44	et	et	C	1	
-45	collioure	collioure	V	1	ne=Location
+45	collioure	collioure	R	1	ne=Location
 46	en	en	P	1	
 47	bateau	bateau	N	1	
 48	....	....	G	1	

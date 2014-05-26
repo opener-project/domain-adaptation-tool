@@ -23,7 +23,7 @@
 13	10	10	O	1	
 14	min	min	O	1	
 15	zum	zu	P	1	
-16	Placa_de_Catalunya	Placa_de_Catalunya	O	1	ne=POI
+16	Placa_de_Catalunya	Placa_de_Catalunya	R	1	ne=POI
 17	)	)	O	1	
 18	und	und	C	1	
 19	sehr	sehr	A	1	
@@ -32,7 +32,7 @@
 22	(	(	O	1	
 23	wir	wir	Q	1	
 24	haben	haben	V	1	
-25	23_Euro	23_Euro	N	1	ne=Money
+25	23_Euro	23_Euro	R	1	ne=Money
 26	pro	pro	P	1	
 27	Nacht	Nacht	N	1	
 28	pro	pro	P	1	

@@ -31,7 +31,7 @@
 26	desde	desde	O	1	
 27	donde	donde	O	1	
 28	todo	todo	O	1	
-29	Milán	milán	O	1	ne=Location
+29	Milán	milán	R	1	ne=Location
 30	y	y	G	1	
 31	el_Norte_de_Italia	el_Norte_de_Italia	R	1	ne=Location
 32	está	está	N	1	

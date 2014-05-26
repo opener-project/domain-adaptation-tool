@@ -27,7 +27,7 @@
 2	is	be	V	1	
 3	situated	situate	V	1	
 4	in	in	P	1	
-5	Frankfurt_Flughaven_railway_station	Frankfurt_Flughaven_railway_station	N	1	ne=POI
+5	Frankfurt_Flughaven_railway_station	Frankfurt_Flughaven_railway_station	R	1	ne=POI
 6	,	,	O	1	
 7	so	so	A	1	
 8	as	as	P	1	
@@ -105,7 +105,7 @@
 3	room	room	N	1	
 4	only	only	A	1	
 5	cost	cost	V	1	
-6	75_Euros	75_euro	N	1	ne=Money
+6	75_Euros	75_euro	R	1	ne=Money
 7	for	for	P	1	
 8	the	the	D	1	
 9	night	night	N	1	

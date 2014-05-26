@@ -91,7 +91,7 @@
 17	/	/	P	1	
 18	prix	prix	N	1	
 19	(	(	O	1	
-20	septembre	septembre	N	1	ne=Date
+20	septembre	septembre	R	1	ne=Date
 21	)	)	O	1	
 22	.	.	O	1	
 23	personnel	personnel	N	1	

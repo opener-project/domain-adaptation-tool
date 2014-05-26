@@ -82,7 +82,7 @@
 7	rumore	rumore	N	1	
 8	,	,	O	1	
 9	alle	alle	P	1	
-10	8_del_mattino	8_del_mattino	N	1	ne=Time
+10	8_del_mattino	8_del_mattino	R	1	ne=Time
 11	ho	avere	V	1	
 12	richiesto	richiesto	N	1	
 13	di	di	P	1	

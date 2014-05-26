@@ -102,7 +102,7 @@
 7	un	un	D	1	
 8	transat	transat	N	1	
 9	après	après	P	1	
-10	8h30	8h30	N	1	ne=Time
+10	8h30	8h30	R	1	ne=Time
 11	mais	mais	C	1	
 12	je	je	Q	1	
 13	ne	ne	G	1	

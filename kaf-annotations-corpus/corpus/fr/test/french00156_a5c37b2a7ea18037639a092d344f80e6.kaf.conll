@@ -19,7 +19,7 @@
 10	l'	le	D	1	
 11	avion	avion	N	1	
 12	à	à	P	1	
-13	Brussels_Airport	Brussels_Airport	N	1	ne=POI
+13	Brussels_Airport	Brussels_Airport	R	1	ne=POI
 14	.	.	O	1	
 
 1	Permet	Permet	N	1	

@@ -67,7 +67,7 @@
 5	Bedienungspersonal	Bedienungspersonal	N	1	
 6	bestand	bestehen	V	1	
 7	zu	zu	P	1	
-8	80_%	80_%	N	1	ne=Percent
+8	80_%	80_%	R	1	ne=Percent
 9	nur	nur	A	1	
 10	aus	aus	P	1	
 11	Ungelernten	Ungelernte	N	1	

@@ -88,9 +88,9 @@
 17	bien	bien	G	1	
 18	y	y	Q	1	
 19	revoir	revoir	V	1	
-20	Aymeric	Aymeric	N	1	ne=Person
+20	Aymeric	Aymeric	R	1	ne=Person
 21	et	et	C	1	
-22	céline	céline	G	1	ne=Person
+22	céline	céline	R	1	ne=Person
 23	cette	ce	D	1	
 24	année	année	N	1	
 25	!	!	O	1	

@@ -85,7 +85,7 @@
 29	.	.	O	1	
 
 1	And	and	C	1	
-2	the_Luxemburg_gardens	the_Luxemburg_garden	N	1	ne=Attraction
+2	the_Luxemburg_gardens	the_Luxemburg_garden	R	1	ne=Attraction
 3	are	be	V	1	
 4	also	also	A	1	
 5	in	in	P	1	

@@ -7,7 +7,7 @@
 4	direkt	direkt	G	1	
 5	an	an	P	1	
 6	der	die	D	1	
-7	Warnow	Warnow	O	1	ne=Location
+7	Warnow	Warnow	R	1	ne=Location
 8	,	,	O	1	
 9	ca.	ca.	A	1	
 10	15	15	O	1	
@@ -77,7 +77,7 @@
 7	eine	eine	D	1	
 8	Tiefgarage	Tiefgarage	N	1	
 9	für	für	P	1	
-10	€_8.00	€_8.00	O	1	ne=Money
+10	€_8.00	€_8.00	R	1	ne=Money
 11	am	an	P	1	
 12	Tag	Tag	N	1	
 13	,	,	O	1	

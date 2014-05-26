@@ -9,7 +9,7 @@
 5	bonne	bon	G	1	
 6	journée	journée	N	1	
 7	à	à	P	1	
-8	l'_aqualand_du_cap_d'_agde	le_aqualand_du_cap_d'_agde	N	1	ne=Attraction
+8	l'_aqualand_du_cap_d'_agde	le_aqualand_du_cap_d'_agde	R	1	ne=Attraction
 9	,	,	O	1	
 10	les	le	D	1	
 11	jeux	jeu	N	1	
@@ -25,8 +25,8 @@
 21	à	à	P	1	
 22	celui	celui	P	1	
 23	de	de	P	1	
-24	st_cyprien.	st_cyprien.	P	1	ne=Location
-25	l'_ile_aux_pirates	le_ile_aux_pirate	N	1	ne=Attraction
+24	st_cyprien.	st_cyprien.	R	1	ne=Location
+25	l'_ile_aux_pirates	le_ile_aux_pirate	R	1	ne=Attraction
 26	pour	pour	P	1	
 27	enfant	enfant	N	1	
 28	est	être	V	1	

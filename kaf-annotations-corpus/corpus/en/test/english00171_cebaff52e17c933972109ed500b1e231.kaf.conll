@@ -1,17 +1,17 @@
 1	Holidays	holiday	N	1	
 2	at	at	P	1	
-3	the_Titanic_Beach_hotel	the_Titanic_Beach_hotel	N	1	ne=Hotel
-4	May_2013	May_2013	O	1	ne=Date
+3	the_Titanic_Beach_hotel	the_Titanic_Beach_hotel	R	1	ne=Hotel
+4	May_2013	May_2013	R	1	ne=Date
 
 1	We	we	Q	1	
 2	stayed	stay	V	1	
 3	at	at	P	1	
-4	Titanic_beach	Titanic_beach	N	1	ne=Hotel
+4	Titanic_beach	Titanic_beach	R	1	ne=Hotel
 5	for	for	P	1	
 6	one	one	O	1	
 7	week	week	N	1	
 8	on	on	A	1	
-9	May_2013	May_2013	O	1	ne=Date
+9	May_2013	May_2013	R	1	ne=Date
 10	.	.	O	1	
 
 1	Overall	overall	G	1	

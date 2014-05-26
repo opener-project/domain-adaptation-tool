@@ -11,9 +11,9 @@
 6	de	de	P	1	
 7	vacances	vacance	N	1	
 8	dans	dans	P	1	
-9	l'_hotel_Titanic_beach	le_hotel_Titanic_beach	N	1	ne=Hotel
+9	l'_hotel_Titanic_beach	le_hotel_Titanic_beach	R	1	ne=Hotel
 10	a	avoir	V	1	
-11	Hurghada	Hurghada	N	1	ne=Location
+11	Hurghada	Hurghada	R	1	ne=Location
 12	.	.	O	1	
 
 1	Le	le	D	1	

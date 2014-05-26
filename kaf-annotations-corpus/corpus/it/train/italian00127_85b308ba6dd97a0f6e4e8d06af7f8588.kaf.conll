@@ -18,13 +18,13 @@
 3	,	,	O	1	
 4	vicinissima	vicinissima	G	1	
 5	alla	alla	P	1	
-6	Stazione_Centrale	stazione_centrale	N	1	ne=POI
+6	Stazione_Centrale	stazione_centrale	R	1	ne=POI
 7	,	,	O	1	
 8	al	al	P	1	
 9	centro	centro	N	1	
 10	,	,	O	1	
 11	al	al	P	1	
-12	quartiere_a_luci_rosse	quartiere_a_luce_rosso	G	1	ne=POI
+12	quartiere_a_luci_rosse	quartiere_a_luce_rosso	R	1	ne=POI
 13	,	,	O	1	
 14	la	lo	D	1	
 15	simpatia	simpatia	N	1	

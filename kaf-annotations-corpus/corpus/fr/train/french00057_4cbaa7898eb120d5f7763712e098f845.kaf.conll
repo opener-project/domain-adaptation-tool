@@ -1,8 +1,8 @@
 1	Bof	Bof	N	1	
 
 1	En	En	P	1	
-2	juillet	juillet	N	1	ne=Date
-3	Aout	Aout	N	1	ne=Date
+2	juillet	juillet	R	1	ne=Date
+3	Aout	Aout	R	1	ne=Date
 4	rien	rien	P	1	
 5	à	à	P	1	
 6	voir	voir	V	1	
@@ -15,11 +15,11 @@
 13	migration	migration	N	1	
 
 1	PRÉFÉRER	PRÉFÉRER	N	1	
-2	LE_JARDIN_DES_PAPILLONS	le_jardin_DES_papillon	N	1	ne=Attraction
+2	LE_JARDIN_DES_PAPILLONS	le_jardin_DES_papillon	R	1	ne=Attraction
 3	en	en	P	1	
 4	direction	direction	N	1	
 5	de	de	P	1	
-6	Cazeaux	Cazeaux	N	1	ne=Location
+6	Cazeaux	Cazeaux	R	1	ne=Location
 7	(	(	O	1	
 8	note	note	N	1	
 9	8	8	O	1	

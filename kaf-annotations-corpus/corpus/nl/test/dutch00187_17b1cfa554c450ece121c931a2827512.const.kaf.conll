@@ -17,7 +17,7 @@
 9	moderne	modern	G	1	
 10	deel	deel	N	1	
 11	van	van	P	1	
-12	BCN	BCN	O	1	ne=Location
+12	BCN	BCN	R	1	ne=Location
 13	,	,	O	1	
 14	nabij	nabij	P	1	
 15	het	het	D	1	
@@ -116,7 +116,7 @@
 4	inclusief	inclusief	A	1	
 5	en	en	C	1	
 6	kost	kost	N	1	
-7	EUR_20	EUR_@card@	O	1	ne=Money
+7	EUR_20	EUR_@card@	R	1	ne=Money
 8	plus	plus	P	1	
 9	tax	tax	O	1	
 10	,	,	O	1	

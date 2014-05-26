@@ -3,7 +3,7 @@
 3	en	en	P	1	
 4	amoureux	amoureux	N	1	
 5	à	à	P	1	
-6	Barcelone	Barcelone	N	1	ne=Location
+6	Barcelone	Barcelone	R	1	ne=Location
 
 1	Nous	lui	Q	1	
 2	avons	avoir	V	1	

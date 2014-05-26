@@ -10,7 +10,7 @@
 7	verbleven	verblijven	V	1	
 8	we	we	Q	1	
 9	in	in	P	1	
-10	het_Eburon_hotel	het_Eburon_hotel	N	1	ne=Hotel
+10	het_Eburon_hotel	het_Eburon_hotel	R	1	ne=Hotel
 11	vanwege	vanwege	P	1	
 12	de	de	D	1	
 13	trouw	trouw	N	1	
@@ -65,7 +65,7 @@
 1	Er	er	Q	1	
 2	was	wassen	V	1	
 3	geen	geen	D	1	
-4	24_uur	@card@_uur	N	1	ne=Time
+4	24_uur	@card@_uur	R	1	ne=Time
 5	receptie	receptie	N	1	
 6	waardoor	waardoor	Q	1	
 7	we	we	Q	1	
@@ -75,7 +75,7 @@
 11	moesten	moeten	V	1	
 12	uithalen	uithalen	V	1	
 13	om	om	C	1	
-14	snachts	snachts	O	1	ne=Time
+14	snachts	snachts	R	1	ne=Time
 15	het	het	D	1	
 16	hotel	hotel	N	1	
 17	weer	weer	A	1	

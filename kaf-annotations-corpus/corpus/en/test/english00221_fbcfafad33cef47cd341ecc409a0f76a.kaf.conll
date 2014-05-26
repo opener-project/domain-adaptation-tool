@@ -8,7 +8,7 @@
 3	reason	reason	N	1	
 4	to	to	P	1	
 5	choose	choose	V	1	
-6	Lord_Byron_hotel	Lord_Byron_hotel	N	1	ne=Hotel
+6	Lord_Byron_hotel	Lord_Byron_hotel	R	1	ne=Hotel
 7	was	be	V	1	
 8	it	it	Q	1	
 9	's	have	V	1	

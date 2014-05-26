@@ -13,7 +13,7 @@
 10	la	lo	D	1	
 11	gentilezza	gentilezza	N	1	
 12	del	del	P	1	
-13	Signor_Filippe	signor_filippe	N	1	ne=Person
+13	Signor_Filippe	signor_filippe	R	1	ne=Person
 14	.	.	O	1	
 
 1	Non	non	A	1	

@@ -5,7 +5,7 @@
 5	'	'	Q	1	
 
 1	Dal	dal	P	1	
-2	29_Giugno	29_giugno	N	1	ne=Date
+2	29_Giugno	29_giugno	R	1	ne=Date
 3	al	al	P	1	
 4	04_Luglo	04_luglo	R	1	ne=Date
 5	ho	avere	V	1	
@@ -59,7 +59,7 @@
 9	nonche	nonche	Q	1	
 10	'	'	Q	1	
 11	tranquillissimi	tranquillissimi	G	1	
-12	Campeggio_la_Spiaggia	campeggio_lo_spiaggia	V	1	ne=Hotel
+12	Campeggio_la_Spiaggia	campeggio_lo_spiaggia	R	1	ne=Hotel
 13	in	in	P	1	
 14	localita	localita	N	1	
 15	'	'	Q	1	
@@ -119,7 +119,7 @@
 52	passi	passo	N	1	
 53	dal	dal	P	1	
 54	paese	paese	N	1	
-55	Passignano	passignano	V	1	ne=Location
+55	Passignano	passignano	R	1	ne=Location
 56	e	e	Q	1	
 57	dall	dall	P	1	
 58	'	'	Q	1	
@@ -127,7 +127,7 @@
 60	verso	verso	P	1	
 61	la	lo	D	1	
 62	stupenda	stupenda	N	1	
-63	isola_Maggiore	isolare_maggiore	N	1	ne=POI
+63	isola_Maggiore	isolare_maggiore	R	1	ne=POI
 64	che	che	Q	1	
 65	vi	vi	Q	1	
 66	consiglio	consiglio	N	1	

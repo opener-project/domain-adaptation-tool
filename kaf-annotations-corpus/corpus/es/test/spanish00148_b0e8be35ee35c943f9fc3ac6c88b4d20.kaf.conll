@@ -23,7 +23,7 @@
 16	un	un	G	1	
 17	tiro	tiro	N	1	
 18	del	del	O	1	
-19	cercanías	cercanías	O	1	ne=POI
+19	cercanías	cercanías	R	1	ne=POI
 20	para	para	O	1	
 21	evitar	evitar	O	1	
 22	el	el	O	1	

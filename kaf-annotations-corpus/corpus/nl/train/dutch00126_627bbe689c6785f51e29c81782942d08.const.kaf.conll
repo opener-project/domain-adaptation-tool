@@ -39,11 +39,11 @@
 6	authentiek	authentiek	G	1	
 7	grachtenpand	grachtenpand	N	1	
 8	aan	aan	P	1	
-9	de_Singel	de_singel	N	1	ne=Location
+9	de_Singel	de_singel	R	1	ne=Location
 10	binnen	binnen	P	1	
 11	loopafstand	loopafstand	N	1	
 12	van	van	P	1	
-13	het_Centraal_Station	het_centraal_station	N	1	ne=POI
+13	het_Centraal_Station	het_centraal_station	R	1	ne=POI
 14	,	,	O	1	
 15	dus	dus	A	1	
 16	goed	goed	N	1	

@@ -28,7 +28,7 @@
 7	l'	le	D	1	
 8	intervention	intervention	N	1	
 9	de	de	P	1	
-10	Michel	Michel	N	1	ne=Person
+10	Michel	Michel	R	1	ne=Person
 11	(	(	O	1	
 12	technicien	technicien	N	1	
 13	charmant	charmant	G	1	
@@ -90,9 +90,9 @@
 13	trains	train	N	1	
 14	régulièrement	régulièrement	G	1	
 15	entre	entre	P	1	
-16	5h	5h	D	1	ne=Time
+16	5h	5h	R	1	ne=Time
 17	et	et	C	1	
-18	23h	23h	D	1	ne=Time
+18	23h	23h	R	1	ne=Time
 
 1	Animations	animation	N	1	
 2	très	très	G	1	
@@ -107,7 +107,7 @@
 11	.	.	O	1	
 
 1	Personnel	personnel	N	1	
-2	Homair	Homair	N	1	ne=Person
+2	Homair	Homair	R	1	ne=Person
 3	très	très	G	1	
 4	sympa	sympa	G	1	
 5	.	.	O	1	

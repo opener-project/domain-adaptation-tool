@@ -1,14 +1,14 @@
 1	Klasse	klasse	N	1	
 2	hotel	hotel	N	1	
-3	Topaz_Club	Topaz_club	N	1	ne=Hotel
+3	Topaz_Club	Topaz_club	R	1	ne=Hotel
 4	,	,	O	1	
 5	Hurghada_Egypte	Hurghada_Egypte	R	1	ne=Location
 
-1	topaz_club_hotel	topaz_club_hotel	N	1	ne=Hotel
+1	topaz_club_hotel	topaz_club_hotel	R	1	ne=Hotel
 2	4	@card@	O	1	
 3	sterren	ster	N	1	
 4	hurghada	hurghada	O	1	
-5	egypte	egypte	O	1	ne=Location
+5	egypte	egypte	R	1	ne=Location
 6	.	.	O	1	
 
 1	mooi	mooi	G	1	
