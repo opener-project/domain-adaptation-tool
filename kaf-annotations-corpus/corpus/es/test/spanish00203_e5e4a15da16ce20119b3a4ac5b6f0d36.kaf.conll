@@ -1,150 +1,154 @@
-1	Hotel	Hotel	R	1	
-2	normal	normal	G	1	
-3	situado	situado	N	1	
-4	en	en	O	1	
-5	buena	buena	O	1	
-6	zona	zona	O	1	
+1	Hotel	Hotel	R	1	O
+2	normal	normal	G	1	O
+3	situado	situado	N	1	O
+4	en	en	O	1	O
+5	buena	buena	O	1	O
+6	zona	zona	O	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	de	de	P	1	
-5	3	3	O	1	
-6	estrellas	estrellas	N	1	
-7	.	.	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	de	de	P	1	O
+5	3	3	O	1	O
+6	estrellas	estrellas	N	1	O
+7	.	.	O	1	O
 
-1	La	La	R	1	
-2	situción	situción	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	buena	buena	N	1	
-6	ya	ya	N	1	
-7	que	que	V	1	
-8	cuenta	cuenta	G	1	
-9	con	con	A	1	
-10	varias	varias	V	1	
-11	lineas	lineas	N	1	
-12	de	de	P	1	
-13	tranvía	tranvía	N	1	
-14	y	y	G	1	
-15	el	el	N	1	
-16	metro	metro	N	1	
-17	muy	muy	G	1	
-18	cerca	cerca	N	1	
-19	.	.	O	1	
+1	La	La	R	1	O
+2	situción	situción	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	buena	buena	N	1	O
+6	ya	ya	N	1	O
+7	que	que	V	1	O
+8	cuenta	cuenta	G	1	O
+9	con	con	A	1	O
+10	varias	varias	V	1	O
+11	lineas	lineas	N	1	O
+12	de	de	P	1	O
+13	tranvía	tranvía	N	1	O
+14	y	y	G	1	O
+15	el	el	N	1	O
+16	metro	metro	N	1	O
+17	muy	muy	G	1	O
+18	cerca	cerca	N	1	O
+19	.	.	O	1	O
 
-1	Debajo	Debajo	R	1	
-2	del	del	D	1	
-3	hotel	hotel	N	1	
-4	hay	hay	N	1	
-5	un	un	G	1	
-6	restaurante	restaurante	N	1	
-7	interesante	interesante	N	1	
-8	y	y	A	1	
-9	a	a	D	1	
-10	buen	buen	G	1	
-11	precio	precio	N	1	
-12	en	en	P	1	
-13	el	el	N	1	
-14	que	que	N	1	
-15	el	el	N	1	
-16	personal	personal	G	1	
-17	habla	habla	N	1	
-18	inglés	inglés	N	1	
-19	.	.	O	1	
+1	Debajo	Debajo	R	1	O
+2	del	del	D	1	O
+3	hotel	hotel	N	1	O
+4	hay	hay	N	1	O
+5	un	un	G	1	O
+6	restaurante	restaurante	N	1	O
+7	interesante	interesante	N	1	O
+8	y	y	A	1	O
+9	a	a	D	1	O
+10	buen	buen	G	1	O
+11	precio	precio	N	1	O
+12	en	en	P	1	O
+13	el	el	N	1	O
+14	que	que	N	1	O
+15	el	el	N	1	O
+16	personal	personal	G	1	O
+17	habla	habla	N	1	O
+18	inglés	inglés	N	1	O
+19	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	V	1	
-3	son	son	N	1	
-4	correctas	correctas	N	1	
-5	,	,	O	1	
-6	aunque	aunque	G	1	
-7	tienen	tienen	N	1	
-8	varios	varios	N	1	
-9	detalles	detalles	N	1	
-10	sin	sin	V	1	
-11	rematar	rematar	N	1	
-12	correctamente	correctamente	G	1	
-13	,	,	O	1	
-14	lo	lo	G	1	
-15	que	que	N	1	
-16	afea	afea	O	1	
-17	bastante	bastante	O	1	
-18	la	la	O	1	
-19	habitación	habitación	O	1	
-20	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	V	1	O
+3	son	son	N	1	O
+4	correctas	correctas	N	1	O
+5	,	,	O	1	O
+6	aunque	aunque	G	1	O
+7	tienen	tienen	N	1	O
+8	varios	varios	N	1	O
+9	detalles	detalles	N	1	O
+10	sin	sin	V	1	O
+11	rematar	rematar	N	1	O
+12	correctamente	correctamente	G	1	O
+13	,	,	O	1	O
+14	lo	lo	G	1	O
+15	que	que	N	1	O
+16	afea	afea	O	1	O
+17	bastante	bastante	O	1	O
+18	la	la	O	1	O
+19	habitación	habitación	O	1	O
+20	.	.	O	1	O
 
-1	Si	Si	R	1	
-2	a	a	D	1	
-3	uno	uno	G	1	
-4	lo	lo	G	1	
-5	alojan	alojan	G	1	
-6	en	en	O	1	
-7	la	la	O	1	
-8	planta	planta	O	1	
-9	1	1	O	1	
-10	,	,	O	1	
-11	corre	corre	G	1	
-12	el	el	N	1	
-13	riesgo	riesgo	O	1	
-14	de	de	O	1	
-15	escuchar	escuchar	O	1	
-16	desde	desde	O	1	
-17	su	su	O	1	
-18	habitación	habitación	O	1	
-19	todo	todo	O	1	
-20	lo	lo	O	1	
-21	que	que	O	1	
-22	esté	esté	O	1	
-23	pasando	pasando	O	1	
-24	en	en	O	1	
-25	el	el	O	1	
-26	piano	piano	O	1	
-27	bar	bar	O	1	
-28	del	del	O	1	
-29	hotel	hotel	N	1	
-30	,	,	O	1	
-31	incluido	incluido	V	1	
-32	el	el	N	1	
-33	trasiego	trasiego	O	1	
-34	de	de	O	1	
-35	mesas	mesas	O	1	
-36	y	y	G	1	
-37	sillas	sillas	G	1	
-38	hacia	hacia	N	1	
-39	la_1_de_la_mañana	la_1_de_la_mañana	R	1	ne=Time
-40	para	para	O	1	
-41	prepararlo	prepararlo	O	1	
-42	para	para	O	1	
-43	el	el	O	1	
-44	desayuno	desayuno	O	1	
-45	del	del	O	1	
-46	día	día	O	1	
-47	siguiente	siguiente	O	1	
-48	.	.	O	1	
+1	Si	Si	R	1	O
+2	a	a	D	1	O
+3	uno	uno	G	1	O
+4	lo	lo	G	1	O
+5	alojan	alojan	G	1	O
+6	en	en	O	1	O
+7	la	la	O	1	O
+8	planta	planta	O	1	O
+9	1	1	O	1	O
+10	,	,	O	1	O
+11	corre	corre	G	1	O
+12	el	el	N	1	O
+13	riesgo	riesgo	O	1	O
+14	de	de	O	1	O
+15	escuchar	escuchar	O	1	O
+16	desde	desde	O	1	O
+17	su	su	O	1	O
+18	habitación	habitación	O	1	O
+19	todo	todo	O	1	O
+20	lo	lo	O	1	O
+21	que	que	O	1	O
+22	esté	esté	O	1	O
+23	pasando	pasando	O	1	O
+24	en	en	O	1	O
+25	el	el	O	1	O
+26	piano	piano	O	1	O
+27	bar	bar	O	1	O
+28	del	del	O	1	O
+29	hotel	hotel	N	1	O
+30	,	,	O	1	O
+31	incluido	incluido	V	1	O
+32	el	el	N	1	O
+33	trasiego	trasiego	O	1	O
+34	de	de	O	1	O
+35	mesas	mesas	O	1	O
+36	y	y	G	1	O
+37	sillas	sillas	G	1	O
+38	hacia	hacia	N	1	O
+39	la	la	N	1	I-Time
+40	1	1	O	1	I-Time
+41	de	de	O	1	I-Time
+42	la	la	O	1	I-Time
+43	mañana	mañana	O	1	I-Time
+44	para	para	O	1	O
+45	prepararlo	prepararlo	O	1	O
+46	para	para	O	1	O
+47	el	el	O	1	O
+48	desayuno	desayuno	O	1	O
+49	del	del	O	1	O
+50	día	día	O	1	O
+51	siguiente	siguiente	O	1	O
+52	.	.	O	1	O
 
-1	A	a	D	1	
-2	primera	primera	O	1	
-3	hora	hora	O	1	
-4	de	de	O	1	
-5	la	la	O	1	
-6	mañana	mañana	O	1	
-7	la	la	O	1	
-8	habitación	habitación	O	1	
-9	puede	puede	O	1	
-10	estar	estar	O	1	
-11	un	un	O	1	
-12	poco	poco	O	1	
-13	"	"	O	1	
-14	fresca	fresca	O	1	
-15	"	"	O	1	
-16	.	.	O	1	
+1	A	a	D	1	O
+2	primera	primera	O	1	O
+3	hora	hora	O	1	O
+4	de	de	O	1	O
+5	la	la	O	1	O
+6	mañana	mañana	O	1	O
+7	la	la	O	1	O
+8	habitación	habitación	O	1	O
+9	puede	puede	O	1	O
+10	estar	estar	O	1	O
+11	un	un	O	1	O
+12	poco	poco	O	1	O
+13	"	"	O	1	O
+14	fresca	fresca	O	1	O
+15	"	"	O	1	O
+16	.	.	O	1	O
 
-1	El	El	R	1	
-2	baño	baño	N	1	
-3	y	y	A	1	
-4	la	la	D	1	
-5	ducha	ducha	N	1	
-6	están	están	N	1	
-7	bien	bien	G	1	
+1	El	El	R	1	O
+2	baño	baño	N	1	O
+3	y	y	A	1	O
+4	la	la	D	1	O
+5	ducha	ducha	N	1	O
+6	están	están	N	1	O
+7	bien	bien	G	1	O
 

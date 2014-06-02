@@ -1,133 +1,134 @@
-1	Amis	ami	N	1	
-2	vacanciers	vacanciers	G	1	
-3	,	,	O	1	
-4	fuyez	fuyez	C	1	
-5	cet	ce	D	1	
-6	hotel	hotel	N	1	
+1	Amis	ami	N	1	O
+2	vacanciers	vacanciers	G	1	O
+3	,	,	O	1	O
+4	fuyez	fuyez	C	1	O
+5	cet	ce	D	1	O
+6	hotel	hotel	N	1	O
 
-1	Bonne	bon	G	1	
-2	odeur	odeur	N	1	
-3	d'	d'	P	1	
-4	egout	egout	N	1	
-5	dans	dans	P	1	
-6	les	le	D	1	
-7	batiments	batiments	N	1	
-8	4OOO	4OOO	P	1	
-9	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	D	1	
+1	Bonne	bon	G	1	O
+2	odeur	odeur	N	1	O
+3	d'	d'	P	1	O
+4	egout	egout	N	1	O
+5	dans	dans	P	1	O
+6	les	le	D	1	O
+7	batiments	batiments	N	1	O
+8	4OOO	4OOO	P	1	O
+9	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	D	1	O
 
-1	pas	pas	N	1	
-2	de	de	P	1	
-3	changement	changement	N	1	
-4	de	de	P	1	
-5	draps	drap	N	1	
-6	en	en	P	1	
-7	15	15	D	1	
-8	jours	jour	N	1	
-9	(	(	O	1	
-10	chaud	chaud	G	1	
-11	,	,	O	1	
-12	on	on	Q	1	
-13	sue	savoir	V	1	
-14	)	)	O	1	
-15	!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!	P	1	
+1	pas	pas	N	1	O
+2	de	de	P	1	O
+3	changement	changement	N	1	O
+4	de	de	P	1	O
+5	draps	drap	N	1	O
+6	en	en	P	1	O
+7	15	15	D	1	O
+8	jours	jour	N	1	O
+9	(	(	O	1	O
+10	chaud	chaud	G	1	O
+11	,	,	O	1	O
+12	on	on	Q	1	O
+13	sue	savoir	V	1	O
+14	)	)	O	1	O
+15	!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!	P	1	O
 
-1	Animation	animation	N	1	
-2	mediocre	mediocre	V	1	
-3	,	,	O	1	
-4	tres	tres	P	1	
-5	en	en	P	1	
-6	dessous	dessous	G	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	ceinture	ceinture	N	1	
-10	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	P	1	
+1	Animation	animation	N	1	O
+2	mediocre	mediocre	V	1	O
+3	,	,	O	1	O
+4	tres	tres	P	1	O
+5	en	en	P	1	O
+6	dessous	dessous	G	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	ceinture	ceinture	N	1	O
+10	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	P	1	O
 
-1	restauration	restauration	N	1	
-2	identique	identique	G	1	
-3	tout	tout	G	1	
-4	au	au	P	1	
-5	long	long	G	1	
-6	du	du	D	1	
-7	sejour	sejour	N	1	
-8	(	(	O	1	
-9	poulet	poulet	N	1	
-10	,	,	O	1	
-11	dinde	dinde	V	1	
-12	,	,	O	1	
-13	boulettes	boulette	N	1	
-14	à	à	P	1	
-15	toutes	tout	G	1	
-16	les	le	D	1	
-17	sauces	sauce	N	1	
-18	et	et	C	1	
-19	à	à	P	1	
-20	tous	tout	G	1	
-21	les	le	D	1	
-22	jours	jour	N	1	
-23	......	......	G	1	
-24	ecoeurant	ecoeurant	V	1	
-25	à	à	P	1	
-26	force	force	N	1	
-27	)	)	O	1	
-28	!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!	O	1	
+1	restauration	restauration	N	1	O
+2	identique	identique	G	1	O
+3	tout	tout	G	1	O
+4	au	au	P	1	O
+5	long	long	G	1	O
+6	du	du	D	1	O
+7	sejour	sejour	N	1	O
+8	(	(	O	1	O
+9	poulet	poulet	N	1	O
+10	,	,	O	1	O
+11	dinde	dinde	V	1	O
+12	,	,	O	1	O
+13	boulettes	boulette	N	1	O
+14	à	à	P	1	O
+15	toutes	tout	G	1	O
+16	les	le	D	1	O
+17	sauces	sauce	N	1	O
+18	et	et	C	1	O
+19	à	à	P	1	O
+20	tous	tout	G	1	O
+21	les	le	D	1	O
+22	jours	jour	N	1	O
+23	......	......	G	1	O
+24	ecoeurant	ecoeurant	V	1	O
+25	à	à	P	1	O
+26	force	force	N	1	O
+27	)	)	O	1	O
+28	!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!	O	1	O
 
-1	et	et	C	1	
-2	pour	pour	P	1	
-3	finir	finir	V	1	
-4	,	,	O	1	
-5	Reception	Reception	N	1	
-6	se	se	Q	1	
-7	foutant	foutre	V	1	
-8	pas	pas	G	1	
-9	mal	mal	G	1	
-10	de	de	P	1	
-11	vous	lui	Q	1	
-12	........	........	O	1	
-13	Hotel	Hotel	N	1	
-14	reellement	reellement	G	1	
-15	en	en	P	1	
-16	dessous	dessous	G	1	
-17	de	de	P	1	
-18	tout	tout	G	1	
-19	,	,	O	1	
-20	j'	j'	Q	1	
-21	aimais	aimer	V	1	
-22	la	le	D	1	
-23	Turquie	Turquie	N	1	
-24	mais	mais	C	1	
-25	cet	ce	D	1	
-26	hotel	hotel	N	1	
-27	m'	m'	Q	1	
-28	a	avoir	V	1	
-29	tellement	tellement	G	1	
-30	decu	decu	V	1	
-31	que	que	C	1	
-32	je	je	Q	1	
-33	n'	n'	G	1	
-34	y	y	Q	1	
-35	retournerais	retournerais	D	1	
-36	plus	plus	G	1	
-37	!	!	O	1	
+1	et	et	C	1	O
+2	pour	pour	P	1	O
+3	finir	finir	V	1	O
+4	,	,	O	1	O
+5	Reception	Reception	N	1	O
+6	se	se	Q	1	O
+7	foutant	foutre	V	1	O
+8	pas	pas	G	1	O
+9	mal	mal	G	1	O
+10	de	de	P	1	O
+11	vous	lui	Q	1	O
+12	........	........	O	1	O
+13	Hotel	Hotel	N	1	O
+14	reellement	reellement	G	1	O
+15	en	en	P	1	O
+16	dessous	dessous	G	1	O
+17	de	de	P	1	O
+18	tout	tout	G	1	O
+19	,	,	O	1	O
+20	j'	j'	Q	1	O
+21	aimais	aimer	V	1	O
+22	la	le	D	1	O
+23	Turquie	Turquie	N	1	O
+24	mais	mais	C	1	O
+25	cet	ce	D	1	O
+26	hotel	hotel	N	1	O
+27	m'	m'	Q	1	O
+28	a	avoir	V	1	O
+29	tellement	tellement	G	1	O
+30	decu	decu	V	1	O
+31	que	que	C	1	O
+32	je	je	Q	1	O
+33	n'	n'	G	1	O
+34	y	y	Q	1	O
+35	retournerais	retournerais	D	1	O
+36	plus	plus	G	1	O
+37	!	!	O	1	O
 
-1	JE	JE	G	1	
-2	retournerais	retournerais	G	1	
-3	volontiers	volontiers	N	1	
-4	à	à	P	1	
-5	Djerba	Djerba	R	1	ne=Location
-6	(	(	O	1	
-7	essayez	essayez	P	1	
-8	le	le	D	1	
-9	FIESTA	fiesta	R	1	ne=Hotel
-10	ou	ou	C	1	
-11	le_Laico	le_Laico	R	1	ne=Hotel
-12	,	,	O	1	
-13	et	et	C	1	
-14	vous	lui	Q	1	
-15	apprecierez	apprecierez	V	1	
-16	les	le	D	1	
-17	bonnes	bon	G	1	
-18	vacances	vacance	N	1	
-19	)	)	O	1	
-20	SUR	SUR	P	1	
-21	!	!	O	1	
+1	JE	JE	G	1	O
+2	retournerais	retournerais	G	1	O
+3	volontiers	volontiers	N	1	O
+4	à	à	P	1	O
+5	Djerba	Djerba	R	1	I-Location
+6	(	(	O	1	O
+7	essayez	essayez	P	1	O
+8	le	le	D	1	O
+9	FIESTA	fiesta	R	1	I-Hotel
+10	ou	ou	C	1	O
+11	le	le	D	1	I-Hotel
+12	Laico	Laico	N	1	I-Hotel
+13	,	,	O	1	O
+14	et	et	C	1	O
+15	vous	lui	Q	1	O
+16	apprecierez	apprecierez	V	1	O
+17	les	le	D	1	O
+18	bonnes	bon	G	1	O
+19	vacances	vacance	N	1	O
+20	)	)	O	1	O
+21	SUR	SUR	P	1	O
+22	!	!	O	1	O
 

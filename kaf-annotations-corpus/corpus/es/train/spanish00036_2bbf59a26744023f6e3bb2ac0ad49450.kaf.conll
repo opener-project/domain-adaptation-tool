@@ -1,65 +1,65 @@
-1	Muy	Muy	R	1	
-2	buen	buen	O	1	
-3	Hotel	Hotel	R	1	
-4	en	en	P	1	
-5	el	el	G	1	
-6	centro	centro	N	1	
-7	de	de	P	1	
-8	Madrid	Madrid	R	1	
+1	Muy	Muy	R	1	O
+2	buen	buen	O	1	O
+3	Hotel	Hotel	R	1	O
+4	en	en	P	1	O
+5	el	el	G	1	O
+6	centro	centro	N	1	O
+7	de	de	P	1	O
+8	Madrid	Madrid	R	1	O
 
-1	Hola	Hola	R	1	
-2	amigos	amigos	P	1	
-3	me	me	Q	1	
-4	he	he	Q	1	
-5	alojado	alojado	A	1	
-6	varias	varias	V	1	
-7	veces	veces	N	1	
-8	en	en	P	1	
-9	este	este	N	1	
-10	hotel	hotel	N	1	
-11	por	por	N	1	
-12	temas	temas	N	1	
-13	de	de	P	1	
-14	negocios.Esta	negocios.Esta	R	1	
-15	muy	muy	O	1	
-16	bien	bien	V	1	
-17	situado	situado	N	1	
-18	para	para	G	1	
-19	estar	estar	N	1	
-20	en	en	P	1	
-21	el	el	N	1	
-22	centro	centro	N	1	
-23	de	de	P	1	
-24	madrid	madrid	G	1	
-25	y	y	G	1	
-26	poder	poder	N	1	
-27	aceder	aceder	N	1	
-28	al	al	G	1	
-29	mismo	mismo	N	1	
-30	centro	centro	N	1	
-31	andando.Hotel	andando.Hotel	R	1	
-32	buena	buena	N	1	
-33	calidad	calidad	N	1	
-34	precio	precio	G	1	
-35	muy	muy	G	1	
-36	limpio	limpio	N	1	
-37	y	y	G	1	
-38	personal	personal	G	1	
-39	agradable.Tiene	agradable.Tiene	R	1	
-40	servicio	servicio	N	1	
-41	de	de	P	1	
-42	caja	caja	N	1	
-43	fuerte	fuerte	N	1	
-44	gratis	gratis	V	1	
-45	y	y	G	1	
-46	mini	mini	N	1	
-47	bar	bar	N	1	
-48	.	.	O	1	
+1	Hola	Hola	R	1	O
+2	amigos	amigos	P	1	O
+3	me	me	Q	1	O
+4	he	he	Q	1	O
+5	alojado	alojado	A	1	O
+6	varias	varias	V	1	O
+7	veces	veces	N	1	O
+8	en	en	P	1	O
+9	este	este	N	1	O
+10	hotel	hotel	N	1	O
+11	por	por	N	1	O
+12	temas	temas	N	1	O
+13	de	de	P	1	O
+14	negocios.Esta	negocios.Esta	R	1	O
+15	muy	muy	O	1	O
+16	bien	bien	V	1	O
+17	situado	situado	N	1	O
+18	para	para	G	1	O
+19	estar	estar	N	1	O
+20	en	en	P	1	O
+21	el	el	N	1	O
+22	centro	centro	N	1	O
+23	de	de	P	1	O
+24	madrid	madrid	G	1	O
+25	y	y	G	1	O
+26	poder	poder	N	1	O
+27	aceder	aceder	N	1	O
+28	al	al	G	1	O
+29	mismo	mismo	N	1	O
+30	centro	centro	N	1	O
+31	andando.Hotel	andando.Hotel	R	1	O
+32	buena	buena	N	1	O
+33	calidad	calidad	N	1	O
+34	precio	precio	G	1	O
+35	muy	muy	G	1	O
+36	limpio	limpio	N	1	O
+37	y	y	G	1	O
+38	personal	personal	G	1	O
+39	agradable.Tiene	agradable.Tiene	R	1	O
+40	servicio	servicio	N	1	O
+41	de	de	P	1	O
+42	caja	caja	N	1	O
+43	fuerte	fuerte	N	1	O
+44	gratis	gratis	V	1	O
+45	y	y	G	1	O
+46	mini	mini	N	1	O
+47	bar	bar	N	1	O
+48	.	.	O	1	O
 
-1	Buenas	buenas	N	1	
-2	habitaciones	habitaciones	N	1	
-3	os	os	N	1	
-4	lo	lo	V	1	
-5	recomiendo	recomiendo	N	1	
-6	.	.	O	1	
+1	Buenas	buenas	N	1	O
+2	habitaciones	habitaciones	N	1	O
+3	os	os	N	1	O
+4	lo	lo	V	1	O
+5	recomiendo	recomiendo	N	1	O
+6	.	.	O	1	O
 

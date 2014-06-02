@@ -13,6 +13,11 @@ use encoding 'UTF-8';
 my $NE = "-ne";
 my $TRAIN_SIZE = 1308;
 my $TEST_SIZE  = 164;
+
+my $BIO_BEGIN = "B-";
+my $BIO_IN    = "I-";
+my $BIO_OUT   = "O";
+
 if (scalar(@ARGV) < 4) {
 	&printHelp();
 }
@@ -60,11 +65,14 @@ while (my $input_filename = readdir(INPUT_DIR)) {
 		else {
 			open (OUTPUT_FILE, ">".$output_test_dir."/".$input_filename);
 		}
+		binmode(OUTPUT_FILE, ":utf8");
 
+		my $lastIsEntity = 0;
 		while (my $line = <INPUT_FILE>) {
 			chomp($line);
 			if ($line =~ m/^#/ || length($line) < 10) {
 				print OUTPUT_FILE "$line\n";
+				$lastIsEntity = 0;
 			}
 			else {
 				my @columns = split("\t", $line);
@@ -78,12 +86,28 @@ while (my $input_filename = readdir(INPUT_DIR)) {
 					$text .= $columns[0]."\t".$columns[1]."\t".$columns[2]."\t".$pos."\t".$columns[4];
 				}
 				else {
-					#          index            word             lemma          pos          head         entity
-					$text .= $columns[0]."\t".$columns[1]."\t".$columns[2]."\t".$pos."\t".$columns[4]."\t".$columns[7];
+					my $entity = $columns[7];
+					if ($entity =~ m/ne=(\w+)/) { # is an entity
+						my $type = $1;
+						if ($lastIsEntity == 0) { # put IN tag
+							#          index            word             lemma          pos          head         entity
+							$text .= $columns[0]."\t".$columns[1]."\t".$columns[2]."\t".$pos."\t".$columns[4]."\t".$BIO_IN.$type;
+						}
+						else { # put B tag
+							#          index            word             lemma          pos          head         entity
+							$text .= $columns[0]."\t".$columns[1]."\t".$columns[2]."\t".$pos."\t".$columns[4]."\t".$BIO_BEGIN.$type;
+						}
+						$lastIsEntity = 1;
+					}
+					else {  # is not an entity
+						#          index            word             lemma          pos          head         entity
+						$text .= $columns[0]."\t".$columns[1]."\t".$columns[2]."\t".$pos."\t".$columns[4]."\t".$BIO_OUT;
+						$lastIsEntity = 0;
+					}
 				}
 				print OUTPUT_FILE "$text\n";
-			}
-		}
+			} # line printed
+		} # file processed
 		close(OUTPUT_FILE);
 		$cont++;
 	}

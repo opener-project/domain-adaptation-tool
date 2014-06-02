@@ -1,90 +1,90 @@
-1	In	in	P	1	
-2	mancanza	mancanza	N	1	
-3	di	di	P	1	
-4	meglio	meglio	N	1	
+1	In	in	P	1	O
+2	mancanza	mancanza	N	1	O
+3	di	di	P	1	O
+4	meglio	meglio	N	1	O
 
-1	Hotel	hotel	N	1	
-2	abbastanza	abbastanza	A	1	
-3	centrale	centrale	G	1	
-4	decisamente	decisamente	G	1	
-5	essenziale	essenziale	G	1	
-6	nei	nei	P	1	
-7	contenuti	contenuto	N	1	
-8	e	e	Q	1	
-9	nei	nei	P	1	
-10	modi	modio	N	1	
-11	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	abbastanza	abbastanza	A	1	O
+3	centrale	centrale	G	1	O
+4	decisamente	decisamente	G	1	O
+5	essenziale	essenziale	G	1	O
+6	nei	nei	P	1	O
+7	contenuti	contenuto	N	1	O
+8	e	e	Q	1	O
+9	nei	nei	P	1	O
+10	modi	modio	N	1	O
+11	.	.	O	1	O
 
-1	Arredamento	arredamento	N	1	
-2	triste	triste	G	1	
-3	ed	ed	Q	1	
-4	obsoleto	obsoleto	G	1	
-5	.	.	O	1	
+1	Arredamento	arredamento	N	1	O
+2	triste	triste	G	1	O
+3	ed	ed	Q	1	O
+4	obsoleto	obsoleto	G	1	O
+5	.	.	O	1	O
 
-1	Camere	camera	N	1	
-2	piccole	piccolo	G	1	
-3	e	e	Q	1	
-4	poco	poco	A	1	
-5	accoglienti	accogliere	V	1	
-6	.	.	O	1	
+1	Camere	camera	N	1	O
+2	piccole	piccolo	G	1	O
+3	e	e	Q	1	O
+4	poco	poco	A	1	O
+5	accoglienti	accogliere	V	1	O
+6	.	.	O	1	O
 
-1	Bagno	bagno	R	1	
-2	essenziale	essenziale	G	1	
-3	.	.	O	1	
+1	Bagno	bagno	R	1	O
+2	essenziale	essenziale	G	1	O
+3	.	.	O	1	O
 
-1	Quotidiani	quotidiano	R	1	
-2	nazionali	nazionale	G	1	
-3	in	in	P	1	
-4	omaggio	omaggio	N	1	
-5	assenti	assente	G	1	
-6	o	o	Q	1	
-7	in	in	P	1	
-8	copia	copia	N	1	
-9	unica	unico	G	1	
-10	.	.	O	1	
+1	Quotidiani	quotidiano	R	1	O
+2	nazionali	nazionale	G	1	O
+3	in	in	P	1	O
+4	omaggio	omaggio	N	1	O
+5	assenti	assente	G	1	O
+6	o	o	Q	1	O
+7	in	in	P	1	O
+8	copia	copia	N	1	O
+9	unica	unico	G	1	O
+10	.	.	O	1	O
 
-1	Personale	personale	N	1	
-2	scortese	scortese	G	1	
-3	e	e	Q	1	
-4	non	non	A	1	
-5	professionale	professionale	G	1	
-6	.	.	O	1	
+1	Personale	personale	N	1	O
+2	scortese	scortese	G	1	O
+3	e	e	Q	1	O
+4	non	non	A	1	O
+5	professionale	professionale	G	1	O
+6	.	.	O	1	O
 
-1	Sala	sala	R	1	
-2	colazione	colazione	N	1	
-3	assolutamente	assolutamente	A	1	
-4	anonima	anonimo	G	1	
-5	con	con	P	1	
-6	fatti	fatto	N	1	
-7	curiosi	curioso	G	1	
-8	come	come	Q	1	
-9	il	lo	D	1	
-10	succo	succo	N	1	
-11	d'	d'	P	1	
-12	arancia	arancia	N	1	
-13	mescolato	mescolare	V	1	
-14	con	con	P	1	
-15	l'	lo	D	1	
-16	acqua	acqua	N	1	
-17	...	...	O	1	
+1	Sala	sala	R	1	O
+2	colazione	colazione	N	1	O
+3	assolutamente	assolutamente	A	1	O
+4	anonima	anonimo	G	1	O
+5	con	con	P	1	O
+6	fatti	fatto	N	1	O
+7	curiosi	curioso	G	1	O
+8	come	come	Q	1	O
+9	il	lo	D	1	O
+10	succo	succo	N	1	O
+11	d'	d'	P	1	O
+12	arancia	arancia	N	1	O
+13	mescolato	mescolare	V	1	O
+14	con	con	P	1	O
+15	l'	lo	D	1	O
+16	acqua	acqua	N	1	O
+17	...	...	O	1	O
 
-1	Questo	questo	G	1	
-2	Hotel	hotel	N	1	
-3	è	è	G	1	
-4	da	da	P	1	
-5	prendere	prendere	V	1	
-6	in	in	P	1	
-7	considerazione	considerazione	N	1	
-8	o	o	Q	1	
-9	su	su	P	1	
-10	offerte	offerta	N	1	
-11	di	di	P	1	
-12	prezzo	prezzo	N	1	
-13	stracciate	stracciare	V	1	
-14	o	o	Q	1	
-15	in	in	P	1	
-16	caso	caso	N	1	
-17	di	di	P	1	
-18	necessità	necessita'	N	1	
-19	.	.	O	1	
+1	Questo	questo	G	1	O
+2	Hotel	hotel	N	1	O
+3	è	è	G	1	O
+4	da	da	P	1	O
+5	prendere	prendere	V	1	O
+6	in	in	P	1	O
+7	considerazione	considerazione	N	1	O
+8	o	o	Q	1	O
+9	su	su	P	1	O
+10	offerte	offerta	N	1	O
+11	di	di	P	1	O
+12	prezzo	prezzo	N	1	O
+13	stracciate	stracciare	V	1	O
+14	o	o	Q	1	O
+15	in	in	P	1	O
+16	caso	caso	N	1	O
+17	di	di	P	1	O
+18	necessità	necessita'	N	1	O
+19	.	.	O	1	O
 

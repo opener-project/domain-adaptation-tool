@@ -1,133 +1,133 @@
-1	A	A	P	1	
-2	déconseiller	déconseiller	V	1	
+1	A	A	P	1	O
+2	déconseiller	déconseiller	V	1	O
 
-1	Points	Points	G	1	
-2	positifs	positif	G	1	
-3	:	:	O	1	
-4	moblihome	moblihome	N	1	
-5	appartenant	appartenir	V	1	
-6	à	à	P	1	
-7	un	un	D	1	
-8	propriétaire	propriétaire	N	1	
-9	en	en	P	1	
-10	très	très	G	1	
-11	bonne	bon	G	1	
-12	état	état	N	1	
-13	et	et	C	1	
-14	bien	bien	G	1	
-15	aménagé	aménager	V	1	
-16	cependant	cependant	G	1	
-17	emplacement	emplacement	N	1	
-18	minuscule	minuscule	G	1	
-19	autour	autour	G	1	
-20	du	du	D	1	
-21	mobilhome	mobilhome	O	1	
-22	,	,	O	1	
-23	piscine	piscine	N	1	
-24	extérieure	extérieur	G	1	
-25	correcte	correct	G	1	
-26	,	,	O	1	
-27	piscine	piscine	N	1	
-28	intérieure	intérieur	G	1	
-29	très	très	G	1	
-30	belle	beau	G	1	
-31	même	même	G	1	
-32	si	si	C	1	
-33	pas	pas	G	1	
-34	terminée	terminer	V	1	
-35	cependant	cependant	G	1	
-36	bruyante	bruyant	G	1	
-37	.	.	O	1	
+1	Points	Points	G	1	O
+2	positifs	positif	G	1	O
+3	:	:	O	1	O
+4	moblihome	moblihome	N	1	O
+5	appartenant	appartenir	V	1	O
+6	à	à	P	1	O
+7	un	un	D	1	O
+8	propriétaire	propriétaire	N	1	O
+9	en	en	P	1	O
+10	très	très	G	1	O
+11	bonne	bon	G	1	O
+12	état	état	N	1	O
+13	et	et	C	1	O
+14	bien	bien	G	1	O
+15	aménagé	aménager	V	1	O
+16	cependant	cependant	G	1	O
+17	emplacement	emplacement	N	1	O
+18	minuscule	minuscule	G	1	O
+19	autour	autour	G	1	O
+20	du	du	D	1	O
+21	mobilhome	mobilhome	O	1	O
+22	,	,	O	1	O
+23	piscine	piscine	N	1	O
+24	extérieure	extérieur	G	1	O
+25	correcte	correct	G	1	O
+26	,	,	O	1	O
+27	piscine	piscine	N	1	O
+28	intérieure	intérieur	G	1	O
+29	très	très	G	1	O
+30	belle	beau	G	1	O
+31	même	même	G	1	O
+32	si	si	C	1	O
+33	pas	pas	G	1	O
+34	terminée	terminer	V	1	O
+35	cependant	cependant	G	1	O
+36	bruyante	bruyant	G	1	O
+37	.	.	O	1	O
 
-1	Points	point	N	1	
-2	négatifs	négatif	G	1	
-3	:	:	O	1	
-4	camping	camping	N	1	
-5	en	en	P	1	
-6	mauvais	mauvais	G	1	
-7	état	état	N	1	
-8	général	général	G	1	
-9	(	(	O	1	
-10	cadre	cadre	N	1	
-11	pas	pas	G	1	
-12	très	très	G	1	
-13	"	&amp;quot;	O	1	
-14	vacances	vacance	N	1	
-15	"	&amp;quot;	O	1	
-16	)	)	O	1	
-17	,	,	O	1	
-18	vue	voir	V	1	
-19	sur	sur	P	1	
-20	des	un	D	1	
-21	gravats	gravat	N	1	
-22	de	de	P	1	
-23	notre	son	D	1	
-24	moblihome	moblihome	N	1	
-25	,	,	O	1	
-26	mini	mini	N	1	
-27	golf	golf	N	1	
-28	en	en	P	1	
-29	friche	friche	N	1	
-30	,	,	O	1	
-31	du	du	P	1	
-32	toboggan	toboggan	D	1	
-33	vue	voir	V	1	
-34	sur	sur	P	1	
-35	le	le	D	1	
-36	stockage	stockage	N	1	
-37	"	&amp;quot;	O	1	
-38	déchetterie	déchetterie	N	1	
-39	"	&amp;quot;	O	1	
-40	du	du	P	1	
-41	camping	camping	N	1	
-42	,	,	O	1	
-43	piscine	piscine	N	1	
-44	couverte	couvrir	V	1	
-45	non	non	G	1	
-46	fini	finir	V	1	
-47	encore	encore	G	1	
-48	des	un	D	1	
-49	tas	tas	N	1	
-50	de	de	P	1	
-51	gravats	gravat	N	1	
-52	autour	autour	G	1	
-53	,	,	O	1	
-54	une	un	D	1	
-55	seule	seul	G	1	
-56	table	table	N	1	
-57	de	de	P	1	
-58	ping	ping	N	1	
-59	pong	pong	G	1	
-60	en	en	P	1	
-61	très	très	G	1	
-62	mauvais	mauvais	G	1	
-63	état	état	N	1	
-64	,	,	O	1	
-65	activités	activité	N	1	
-66	proprosées	proprosées	G	1	
-67	moyennes	moyen	G	1	
-68	,	,	O	1	
-69	musique	musique	N	1	
-70	forte	fort	G	1	
-71	jusque	jusque	P	1	
-72	23h30	23h30	R	1	ne=Time
-73	,	,	O	1	
-74	sanitaires	sanitaires	P	1	
-75	plus	plus	G	1	
-76	souvent	souvent	G	1	
-77	sale	sale	G	1	
-78	que	que	C	1	
-79	propre	propre	G	1	
-80	,	,	O	1	
-81	mer	mer	N	1	
-82	a	avoir	V	1	
-83	5km	5km	V	1	
-84	,	,	O	1	
-85	pleinte	pleinte	G	1	
-86	auprès	auprès	P	1	
-87	des	un	D	1	
-88	employés	employé	N	1	
-89	aucun	aucun	D	1	
-90	retour	retour	N	1	
-91	.	.	O	1	
+1	Points	point	N	1	O
+2	négatifs	négatif	G	1	O
+3	:	:	O	1	O
+4	camping	camping	N	1	O
+5	en	en	P	1	O
+6	mauvais	mauvais	G	1	O
+7	état	état	N	1	O
+8	général	général	G	1	O
+9	(	(	O	1	O
+10	cadre	cadre	N	1	O
+11	pas	pas	G	1	O
+12	très	très	G	1	O
+13	"	&amp;quot;	O	1	O
+14	vacances	vacance	N	1	O
+15	"	&amp;quot;	O	1	O
+16	)	)	O	1	O
+17	,	,	O	1	O
+18	vue	voir	V	1	O
+19	sur	sur	P	1	O
+20	des	un	D	1	O
+21	gravats	gravat	N	1	O
+22	de	de	P	1	O
+23	notre	son	D	1	O
+24	moblihome	moblihome	N	1	O
+25	,	,	O	1	O
+26	mini	mini	N	1	O
+27	golf	golf	N	1	O
+28	en	en	P	1	O
+29	friche	friche	N	1	O
+30	,	,	O	1	O
+31	du	du	P	1	O
+32	toboggan	toboggan	D	1	O
+33	vue	voir	V	1	O
+34	sur	sur	P	1	O
+35	le	le	D	1	O
+36	stockage	stockage	N	1	O
+37	"	&amp;quot;	O	1	O
+38	déchetterie	déchetterie	N	1	O
+39	"	&amp;quot;	O	1	O
+40	du	du	P	1	O
+41	camping	camping	N	1	O
+42	,	,	O	1	O
+43	piscine	piscine	N	1	O
+44	couverte	couvrir	V	1	O
+45	non	non	G	1	O
+46	fini	finir	V	1	O
+47	encore	encore	G	1	O
+48	des	un	D	1	O
+49	tas	tas	N	1	O
+50	de	de	P	1	O
+51	gravats	gravat	N	1	O
+52	autour	autour	G	1	O
+53	,	,	O	1	O
+54	une	un	D	1	O
+55	seule	seul	G	1	O
+56	table	table	N	1	O
+57	de	de	P	1	O
+58	ping	ping	N	1	O
+59	pong	pong	G	1	O
+60	en	en	P	1	O
+61	très	très	G	1	O
+62	mauvais	mauvais	G	1	O
+63	état	état	N	1	O
+64	,	,	O	1	O
+65	activités	activité	N	1	O
+66	proprosées	proprosées	G	1	O
+67	moyennes	moyen	G	1	O
+68	,	,	O	1	O
+69	musique	musique	N	1	O
+70	forte	fort	G	1	O
+71	jusque	jusque	P	1	O
+72	23h30	23h30	R	1	I-Time
+73	,	,	O	1	O
+74	sanitaires	sanitaires	P	1	O
+75	plus	plus	G	1	O
+76	souvent	souvent	G	1	O
+77	sale	sale	G	1	O
+78	que	que	C	1	O
+79	propre	propre	G	1	O
+80	,	,	O	1	O
+81	mer	mer	N	1	O
+82	a	avoir	V	1	O
+83	5km	5km	V	1	O
+84	,	,	O	1	O
+85	pleinte	pleinte	G	1	O
+86	auprès	auprès	P	1	O
+87	des	un	D	1	O
+88	employés	employé	N	1	O
+89	aucun	aucun	D	1	O
+90	retour	retour	N	1	O
+91	.	.	O	1	O
 

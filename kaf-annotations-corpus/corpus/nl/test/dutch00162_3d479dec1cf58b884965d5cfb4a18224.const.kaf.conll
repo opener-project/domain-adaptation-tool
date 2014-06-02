@@ -1,198 +1,198 @@
-1	Geen	geen	D	1	
-2	aanrader	aanrader	N	1	
+1	Geen	geen	D	1	O
+2	aanrader	aanrader	N	1	O
 
-1	voor	voor	P	1	
-2	de	de	D	1	
-3	derde	drie	O	1	
-4	keer	keer	N	1	
-5	naar	naar	P	1	
-6	Italië	Italië	R	1	
-7	en	en	C	1	
-8	het	het	Q	1	
-9	viel	vallen	V	1	
-10	deze	deze	D	1	
-11	keer	keer	N	1	
-12	toch	toch	A	1	
-13	wat	wat	A	1	
-14	tegen	tegen	P	1	
-15	.	.	O	1	
+1	voor	voor	P	1	O
+2	de	de	D	1	O
+3	derde	drie	O	1	O
+4	keer	keer	N	1	O
+5	naar	naar	P	1	O
+6	Italië	Italië	R	1	O
+7	en	en	C	1	O
+8	het	het	Q	1	O
+9	viel	vallen	V	1	O
+10	deze	deze	D	1	O
+11	keer	keer	N	1	O
+12	toch	toch	A	1	O
+13	wat	wat	A	1	O
+14	tegen	tegen	P	1	O
+15	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	hadden	hebben	V	1	
-3	een	een	D	1	
-4	tent	tent	N	1	
-5	gehuurd	huren	V	1	
-6	,	,	O	1	
-7	was	wezen|zijn	V	1	
-8	niet	niet	A	1	
-9	heel	heel	A	1	
-10	schoon	schoon	G	1	
-11	en	en	C	1	
-12	erg	erg	A	1	
-13	weinig	weinig	O	1	
-14	privacy	privacy	N	1	
-15	,	,	O	1	
-16	zaten	zitten	V	1	
-17	10	@card@	O	1	
-18	meter	meter	N	1	
-19	van	van	P	1	
-20	de	de	D	1	
-21	disco	disco	N	1	
-22	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hadden	hebben	V	1	O
+3	een	een	D	1	O
+4	tent	tent	N	1	O
+5	gehuurd	huren	V	1	O
+6	,	,	O	1	O
+7	was	wezen|zijn	V	1	O
+8	niet	niet	A	1	O
+9	heel	heel	A	1	O
+10	schoon	schoon	G	1	O
+11	en	en	C	1	O
+12	erg	erg	A	1	O
+13	weinig	weinig	O	1	O
+14	privacy	privacy	N	1	O
+15	,	,	O	1	O
+16	zaten	zitten	V	1	O
+17	10	@card@	O	1	O
+18	meter	meter	N	1	O
+19	van	van	P	1	O
+20	de	de	D	1	O
+21	disco	disco	N	1	O
+22	.	.	O	1	O
 
-1	Eerste	een	O	1	
-2	dag	dag	N	1	
-3	erg	erg	A	1	
-4	veel	veel	A	1	
-5	lawaai	lawaai	N	1	
-6	HELE	heel	G	1	
-7	luide	luid	G	1	
-8	muziek	muziek	N	1	
-9	tot	tot	P	1	
-10	1	@card@	O	1	
-11	uur	uur	N	1	
-12	'	'	O	1	
-13	s	s	N	1	
-14	nachts	nacht	N	1	
-15	,	,	O	1	
-16	de	de	D	1	
-17	rest	rest	N	1	
-18	van	van	P	1	
-19	de	de	D	1	
-20	week	week	N	1	
-21	gelukkig	gelukkig	G	1	
-22	tot	tot	P	1	
-23	11	@card@	O	1	
-24	uur	uur	N	1	
-25	,	,	O	1	
-26	toch	toch	A	1	
-27	wel	wel	A	1	
-28	erg	erg	G	1	
-29	laat	laten	V	1	
-30	voor	voor	P	1	
-31	kindjes	kind	N	1	
-32	van	van	P	1	
-33	5	@card@	O	1	
-34	en	en	C	1	
-35	3	@card@	O	1	
-36	!	!	O	1	
-37	Sanitair	sanitair	G	1	
-38	ronduit	ronduit	A	1	
-39	slecht	slecht	G	1	
-40	!	!	O	1	
-41	9	@card@	O	1	
-42	van	van	P	1	
-43	de	de	D	1	
-44	10	@card@	O	1	
-45	W.C	W.	O	1	
-46	W.C	C	N	1	
-47	zaten	zitten	V	1	
-48	op	op	P	1	
-49	slot	slot	N	1	
-50	,	,	O	1	
-51	douches	douche	N	1	
-52	koud	koud	G	1	
-53	en	en	C	1	
-54	bijna	bijna	A	1	
-55	geen	geen	D	1	
-56	straal	straal	N	1	
-57	.	.	O	1	
+1	Eerste	een	O	1	O
+2	dag	dag	N	1	O
+3	erg	erg	A	1	O
+4	veel	veel	A	1	O
+5	lawaai	lawaai	N	1	O
+6	HELE	heel	G	1	O
+7	luide	luid	G	1	O
+8	muziek	muziek	N	1	O
+9	tot	tot	P	1	O
+10	1	@card@	O	1	O
+11	uur	uur	N	1	O
+12	'	'	O	1	O
+13	s	s	N	1	O
+14	nachts	nacht	N	1	O
+15	,	,	O	1	O
+16	de	de	D	1	O
+17	rest	rest	N	1	O
+18	van	van	P	1	O
+19	de	de	D	1	O
+20	week	week	N	1	O
+21	gelukkig	gelukkig	G	1	O
+22	tot	tot	P	1	O
+23	11	@card@	O	1	O
+24	uur	uur	N	1	O
+25	,	,	O	1	O
+26	toch	toch	A	1	O
+27	wel	wel	A	1	O
+28	erg	erg	G	1	O
+29	laat	laten	V	1	O
+30	voor	voor	P	1	O
+31	kindjes	kind	N	1	O
+32	van	van	P	1	O
+33	5	@card@	O	1	O
+34	en	en	C	1	O
+35	3	@card@	O	1	O
+36	!	!	O	1	O
+37	Sanitair	sanitair	G	1	O
+38	ronduit	ronduit	A	1	O
+39	slecht	slecht	G	1	O
+40	!	!	O	1	O
+41	9	@card@	O	1	O
+42	van	van	P	1	O
+43	de	de	D	1	O
+44	10	@card@	O	1	O
+45	W.C	W.	O	1	O
+46	W.C	C	N	1	O
+47	zaten	zitten	V	1	O
+48	op	op	P	1	O
+49	slot	slot	N	1	O
+50	,	,	O	1	O
+51	douches	douche	N	1	O
+52	koud	koud	G	1	O
+53	en	en	C	1	O
+54	bijna	bijna	A	1	O
+55	geen	geen	D	1	O
+56	straal	straal	N	1	O
+57	.	.	O	1	O
 
-1	Zwembad	zwembad	N	1	
-2	was	wezen|zijn	V	1	
-3	schoon	schoon	G	1	
-4	genoeg	genoeg	A	1	
-5	,	,	O	1	
-6	,bedjes	,	O	1	
-7	,bedjes	bed	N	1	
-8	,	,	O	1	
-9	glijbaantje	glijbaan	N	1	
-10	was	wezen|zijn	V	1	
-11	alleen	alleen	A	1	
-12	wel	wel	A	1	
-13	leuk	leuk	G	1	
-14	geweest	wezen|zijn	V	1	
-15	.	.	O	1	
+1	Zwembad	zwembad	N	1	O
+2	was	wezen|zijn	V	1	O
+3	schoon	schoon	G	1	O
+4	genoeg	genoeg	A	1	O
+5	,	,	O	1	O
+6	,bedjes	,	O	1	O
+7	,bedjes	bed	N	1	O
+8	,	,	O	1	O
+9	glijbaantje	glijbaan	N	1	O
+10	was	wezen|zijn	V	1	O
+11	alleen	alleen	A	1	O
+12	wel	wel	A	1	O
+13	leuk	leuk	G	1	O
+14	geweest	wezen|zijn	V	1	O
+15	.	.	O	1	O
 
-1	Afhaal	afhalen	V	1	
-2	pizza	pizza	N	1	
-3	zijn	zijn	D	1	
-4	oké	oké	O	1	
-5	,	,	O	1	
-6	alleen	alleen	A	1	
-7	jammer	jammeren	V	1	
-8	dat	dat	C	1	
-9	er	er	Q	1	
-10	niet	niet	A	1	
-11	echt	echt	A	1	
-12	een	een	D	1	
-13	restaurant	restaurant	N	1	
-14	bij	bij	P	1	
-15	zit	zit	N	1	
-16	.	.	O	1	
+1	Afhaal	afhalen	V	1	O
+2	pizza	pizza	N	1	O
+3	zijn	zijn	D	1	O
+4	oké	oké	O	1	O
+5	,	,	O	1	O
+6	alleen	alleen	A	1	O
+7	jammer	jammeren	V	1	O
+8	dat	dat	C	1	O
+9	er	er	Q	1	O
+10	niet	niet	A	1	O
+11	echt	echt	A	1	O
+12	een	een	D	1	O
+13	restaurant	restaurant	N	1	O
+14	bij	bij	P	1	O
+15	zit	zit	N	1	O
+16	.	.	O	1	O
 
-1	Omgeving	omgeving	N	1	
-2	is	zijn	V	1	
-3	mooi	mooi	G	1	
-4	en	en	C	1	
-5	het	het	D	1	
-6	weer	weer	N	1	
-7	was	wezen|zijn	V	1	
-8	ook	ook	A	1	
-9	heerlijk	heerlijk	G	1	
-10	.	.	O	1	
+1	Omgeving	omgeving	N	1	O
+2	is	zijn	V	1	O
+3	mooi	mooi	G	1	O
+4	en	en	C	1	O
+5	het	het	D	1	O
+6	weer	weer	N	1	O
+7	was	wezen|zijn	V	1	O
+8	ook	ook	A	1	O
+9	heerlijk	heerlijk	G	1	O
+10	.	.	O	1	O
 
-1	Wil	willen	V	1	
-2	niet	niet	A	1	
-3	helemaal	helemaal	A	1	
-4	negatief	negatief	G	1	
-5	zijn	zijn	V	1	
-6	,	,	O	1	
-7	maar	maar	C	1	
-8	met	met	P	1	
-9	kleine	klein	G	1	
-10	kinderen	kind	N	1	
-11	is	zijn	V	1	
-12	deze	deze	D	1	
-13	camping	camping	N	1	
-14	niet	niet	A	1	
-15	zo	zo	A	1	
-16	'	'	O	1	
-17	n	n	N	1	
-18	succes	succes	N	1	
-19	.	.	O	1	
+1	Wil	willen	V	1	O
+2	niet	niet	A	1	O
+3	helemaal	helemaal	A	1	O
+4	negatief	negatief	G	1	O
+5	zijn	zijn	V	1	O
+6	,	,	O	1	O
+7	maar	maar	C	1	O
+8	met	met	P	1	O
+9	kleine	klein	G	1	O
+10	kinderen	kind	N	1	O
+11	is	zijn	V	1	O
+12	deze	deze	D	1	O
+13	camping	camping	N	1	O
+14	niet	niet	A	1	O
+15	zo	zo	A	1	O
+16	'	'	O	1	O
+17	n	n	N	1	O
+18	succes	succes	N	1	O
+19	.	.	O	1	O
 
-1	Mocht	mogen	V	1	
-2	je	je	Q	1	
-3	toch	toch	A	1	
-4	gaan	gaan	V	1	
-5	:	:	O	1	
-6	ga	gaan	V	1	
-7	niet	niet	A	1	
-8	in	in	P	1	
-9	een	een	D	1	
-10	huurtent	huurtent	O	1	
-11	,	,	O	1	
-12	ga	gaan	V	1	
-13	in	in	P	1	
-14	een	een	D	1	
-15	huisje	huisje	N	1	
-16	of	of	C	1	
-17	op	op	P	1	
-18	een	een	D	1	
-19	eigen	eigen	G	1	
-20	plek	plek	N	1	
-21	,	,	O	1	
-22	dan	dan	A	1	
-23	heb	hebben	V	1	
-24	je	je	Q	1	
-25	niet	niet	A	1	
-26	zo	zo	A	1	
-27	'	'	O	1	
-28	n	n	N	1	
-29	last	last	N	1	
-30	van	van	P	1	
-31	het	het	D	1	
-32	lawaai	lawaai	N	1	
-33	!	!	O	1	
+1	Mocht	mogen	V	1	O
+2	je	je	Q	1	O
+3	toch	toch	A	1	O
+4	gaan	gaan	V	1	O
+5	:	:	O	1	O
+6	ga	gaan	V	1	O
+7	niet	niet	A	1	O
+8	in	in	P	1	O
+9	een	een	D	1	O
+10	huurtent	huurtent	O	1	O
+11	,	,	O	1	O
+12	ga	gaan	V	1	O
+13	in	in	P	1	O
+14	een	een	D	1	O
+15	huisje	huisje	N	1	O
+16	of	of	C	1	O
+17	op	op	P	1	O
+18	een	een	D	1	O
+19	eigen	eigen	G	1	O
+20	plek	plek	N	1	O
+21	,	,	O	1	O
+22	dan	dan	A	1	O
+23	heb	hebben	V	1	O
+24	je	je	Q	1	O
+25	niet	niet	A	1	O
+26	zo	zo	A	1	O
+27	'	'	O	1	O
+28	n	n	N	1	O
+29	last	last	N	1	O
+30	van	van	P	1	O
+31	het	het	D	1	O
+32	lawaai	lawaai	N	1	O
+33	!	!	O	1	O
 

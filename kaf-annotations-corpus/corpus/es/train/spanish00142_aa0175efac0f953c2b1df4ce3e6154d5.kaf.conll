@@ -1,157 +1,163 @@
-1	Funcional	Funcional	R	1	
-2	.	.	O	1	
+1	Funcional	Funcional	R	1	O
+2	.	.	O	1	O
 
-1	Sin	Sin	R	1	
-2	lujos	lujos	N	1	
-3	.	.	O	1	
+1	Sin	Sin	R	1	O
+2	lujos	lujos	N	1	O
+3	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	es	es	V	1	
-4	perfecto	perfecto	V	1	
-5	para	para	N	1	
-6	no	no	D	1	
-7	perder	perder	N	1	
-8	mucho	mucho	G	1	
-9	tiempo	tiempo	N	1	
-10	para	para	N	1	
-11	alojarse	alojarse	A	1	
-12	al	al	G	1	
-13	llegar	llegar	N	1	
-14	a	a	D	1	
-15	Dubai	Dubai	R	1	ne=Location
-16	,	,	O	1	
-17	si	si	N	1	
-18	llegas	llegas	V	1	
-19	a	a	D	1	
-20	las_3_a.m.	las_3_a.m.	R	1	ne=Time
-21	,	,	O	1	
-22	por	por	N	1	
-23	ejemplo	ejemplo	N	1	
-24	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	es	es	V	1	O
+4	perfecto	perfecto	V	1	O
+5	para	para	N	1	O
+6	no	no	D	1	O
+7	perder	perder	N	1	O
+8	mucho	mucho	G	1	O
+9	tiempo	tiempo	N	1	O
+10	para	para	N	1	O
+11	alojarse	alojarse	A	1	O
+12	al	al	G	1	O
+13	llegar	llegar	N	1	O
+14	a	a	D	1	O
+15	Dubai	Dubai	R	1	I-Location
+16	,	,	O	1	O
+17	si	si	N	1	O
+18	llegas	llegas	V	1	O
+19	a	a	D	1	O
+20	las	las	G	1	I-Time
+21	3	3	O	1	I-Time
+22	a.m.	a.m.	N	1	I-Time
+23	,	,	O	1	O
+24	por	por	N	1	O
+25	ejemplo	ejemplo	N	1	O
+26	.	.	O	1	O
 
-1	Está	Está	R	1	
-2	frente	frente	V	1	
-3	a	a	D	1	
-4	la	la	N	1	
-5	terminal	terminal	G	1	
-6	3	3	O	1	
-7	del	del	G	1	
-8	aeropuerto	aeropuerto	G	1	
-9	y	y	G	1	
-10	tiene	tiene	N	1	
-11	un	un	G	1	
-12	servicio	servicio	N	1	
-13	de	de	P	1	
-14	shuttle	shuttle	G	1	
-15	gratuito	gratuito	N	1	
-16	cada	cada	N	1	
-17	media	medium	N	1	
-18	hora	hora	N	1	
-19	.	.	O	1	
+1	Está	Está	R	1	O
+2	frente	frente	V	1	O
+3	a	a	D	1	O
+4	la	la	N	1	O
+5	terminal	terminal	G	1	O
+6	3	3	O	1	O
+7	del	del	G	1	O
+8	aeropuerto	aeropuerto	G	1	O
+9	y	y	G	1	O
+10	tiene	tiene	N	1	O
+11	un	un	G	1	O
+12	servicio	servicio	N	1	O
+13	de	de	P	1	O
+14	shuttle	shuttle	G	1	O
+15	gratuito	gratuito	N	1	O
+16	cada	cada	N	1	O
+17	media	medium	N	1	O
+18	hora	hora	N	1	O
+19	.	.	O	1	O
 
-1	Además	además	N	1	
-2	,	,	O	1	
-3	está	está	O	1	
-4	cerca	cerca	O	1	
-5	del	del	O	1	
-6	metro	metro	O	1	
-7	(	(	O	1	
-8	parada_Emirates	parada_Emirates	R	1	ne=POI
-9	)	)	O	1	
-10	,	,	O	1	
-11	que	que	V	1	
-12	a	a	D	1	
-13	nosotros	nosotros	N	1	
-14	nos	nos	N	1	
-15	vino	vino	G	1	
-16	muy	muy	G	1	
-17	bien	bien	G	1	
-18	para	para	N	1	
-19	ir	ir	Q	1	
-20	al	al	G	1	
-21	recinto	recinto	N	1	
-22	ferial	ferial	N	1	
-23	en	en	P	1	
-24	World_Trade_Center	World_Trade_Center	R	1	ne=Attraction
-25	.	.	O	1	
+1	Además	además	N	1	O
+2	,	,	O	1	O
+3	está	está	O	1	O
+4	cerca	cerca	O	1	O
+5	del	del	O	1	O
+6	metro	metro	O	1	O
+7	(	(	O	1	O
+8	parada	parada	G	1	I-POI
+9	Emirates	Emirates	R	1	I-POI
+10	)	)	O	1	O
+11	,	,	O	1	O
+12	que	que	V	1	O
+13	a	a	D	1	O
+14	nosotros	nosotros	N	1	O
+15	nos	nos	N	1	O
+16	vino	vino	G	1	O
+17	muy	muy	G	1	O
+18	bien	bien	G	1	O
+19	para	para	N	1	O
+20	ir	ir	Q	1	O
+21	al	al	G	1	O
+22	recinto	recinto	N	1	O
+23	ferial	ferial	N	1	O
+24	en	en	P	1	O
+25	World	World	R	1	I-Attraction
+26	Trade	Trade	R	1	I-Attraction
+27	Center	Center	R	1	I-Attraction
+28	.	.	O	1	O
 
-1	Sin	Sin	R	1	
-2	embargo	embargo	N	1	
-3	,	,	O	1	
-4	no	no	D	1	
-5	hay	hay	N	1	
-6	que	que	V	1	
-7	esperar	esperar	A	1	
-8	lujos	lujos	N	1	
-9	.	.	O	1	
+1	Sin	Sin	R	1	O
+2	embargo	embargo	N	1	O
+3	,	,	O	1	O
+4	no	no	D	1	O
+5	hay	hay	N	1	O
+6	que	que	V	1	O
+7	esperar	esperar	A	1	O
+8	lujos	lujos	N	1	O
+9	.	.	O	1	O
 
-1	De	De	R	1	
-2	hecho	hecho	G	1	
-3	,	,	O	1	
-4	ni	ni	G	1	
-5	te	te	G	1	
-6	suben	suben	G	1	
-7	las	las	N	1	
-8	maletas	maletas	V	1	
-9	a	a	D	1	
-10	la	la	N	1	
-11	habitación	habitación	N	1	
-12	cuando	cuando	N	1	
-13	haces	haces	V	1	
-14	el	el	N	1	
-15	check	check	N	1	
-16	·	·	N	1	
-17	in	in	P	1	
-18	.	.	O	1	
+1	De	De	R	1	O
+2	hecho	hecho	G	1	O
+3	,	,	O	1	O
+4	ni	ni	G	1	O
+5	te	te	G	1	O
+6	suben	suben	G	1	O
+7	las	las	N	1	O
+8	maletas	maletas	V	1	O
+9	a	a	D	1	O
+10	la	la	N	1	O
+11	habitación	habitación	N	1	O
+12	cuando	cuando	N	1	O
+13	haces	haces	V	1	O
+14	el	el	N	1	O
+15	check	check	N	1	O
+16	·	·	N	1	O
+17	in	in	P	1	O
+18	.	.	O	1	O
 
-1	Por	Por	R	1	
-2	eso	eso	N	1	
-3	,	,	O	1	
-4	quizás	quizás	V	1	
-5	sea	sea	N	1	
-6	un	un	G	1	
-7	poco	poco	N	1	
-8	caro	caro	N	1	
-9	en	en	P	1	
-10	relación	relación	V	1	
-11	a	a	D	1	
-12	las	las	G	1	
-13	comodidades	comodidades	N	1	
-14	de	de	P	1	
-15	la	la	D	1	
-16	habitación	habitación	N	1	
-17	(	(	O	1	
-18	96_euros	96_euro	R	1	ne=Money
-19	/	/	A	1	
-20	noche	noche	V	1	
-21	)	)	O	1	
-22	.	.	O	1	
+1	Por	Por	R	1	O
+2	eso	eso	N	1	O
+3	,	,	O	1	O
+4	quizás	quizás	V	1	O
+5	sea	sea	N	1	O
+6	un	un	G	1	O
+7	poco	poco	N	1	O
+8	caro	caro	N	1	O
+9	en	en	P	1	O
+10	relación	relación	V	1	O
+11	a	a	D	1	O
+12	las	las	G	1	O
+13	comodidades	comodidades	N	1	O
+14	de	de	P	1	O
+15	la	la	D	1	O
+16	habitación	habitación	N	1	O
+17	(	(	O	1	O
+18	96	96	O	1	I-Money
+19	euros	euro	N	1	I-Money
+20	/	/	A	1	O
+21	noche	noche	V	1	O
+22	)	)	O	1	O
+23	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	O	1	
-3	también	también	O	1	
-4	se	se	O	1	
-5	sirve	sirve	O	1	
-6	durante	durante	O	1	
-7	escaso	escaso	O	1	
-8	tiempo	tiempo	O	1	
-9	:	:	O	1	
-10	de	de	O	1	
-11	6	6	R	1	ne=Time
-12	a	a	D	1	
-13	9:30	9:30	R	1	ne=Time
+1	El	El	R	1	O
+2	desayuno	desayuno	O	1	O
+3	también	también	O	1	O
+4	se	se	O	1	O
+5	sirve	sirve	O	1	O
+6	durante	durante	O	1	O
+7	escaso	escaso	O	1	O
+8	tiempo	tiempo	O	1	O
+9	:	:	O	1	O
+10	de	de	O	1	O
+11	6	6	R	1	I-Time
+12	a	a	D	1	O
+13	9:30	9:30	R	1	I-Time
 
-1	La	La	R	1	
-2	wifi	wifi	O	1	
-3	es	es	N	1	
-4	gratuita	gratuita	V	1	
-5	y	y	G	1	
-6	funciona	funciona	N	1	
-7	correctamente	correctamente	V	1	
-8	y	y	G	1	
-9	el	el	N	1	
-10	baño	baño	N	1	
-11	está	está	N	1	
-12	bien	bien	G	1	
+1	La	La	R	1	O
+2	wifi	wifi	O	1	O
+3	es	es	N	1	O
+4	gratuita	gratuita	V	1	O
+5	y	y	G	1	O
+6	funciona	funciona	N	1	O
+7	correctamente	correctamente	V	1	O
+8	y	y	G	1	O
+9	el	el	N	1	O
+10	baño	baño	N	1	O
+11	está	está	N	1	O
+12	bien	bien	G	1	O
 

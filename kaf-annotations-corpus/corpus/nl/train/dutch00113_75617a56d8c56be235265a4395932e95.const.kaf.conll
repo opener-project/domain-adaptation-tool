@@ -1,120 +1,120 @@
-1	Super	super	G	1	
-2	sfeer	sfeer	N	1	
+1	Super	super	G	1	O
+2	sfeer	sfeer	N	1	O
 
-1	heel	heel	G	1	
-2	leuk	leuk	G	1	
-3	hotel.	hotel	N	1	
-4	hotel.	.	O	1	
-5	heel	heel	G	1	
-6	goede	goed	G	1	
-7	service	service	N	1	
-8	en	en	C	1	
-9	heel	heel	A	1	
-10	hulpvaardig.	hulpvaardig	G	1	
-11	hulpvaardig.	.	O	1	
-12	een	een	D	1	
-13	familiegevoel	familiegevoel	O	1	
-14	van	van	P	1	
-15	de	de	D	1	
-16	eerste	een	O	1	
-17	tot	tot	P	1	
-18	de	de	D	1	
-19	laatste	laat	G	1	
-20	dag.	dag	N	1	
-21	dag.	.	O	1	
-22	wij	wij	Q	1	
-23	hebben	hebben	V	1	
-24	de	de	D	1	
-25	daar	daar	A	1	
-26	de	de	D	1	
-27	vakanatie	vakanatie	O	1	
-28	van	van	P	1	
-29	ons	ons	D	1	
-30	leven	leven	N	1	
-31	gehad.	hebben	V	1	
-32	gehad.	.	O	1	
-33	het	het	Q	1	
-34	was	wezen|zijn	V	1	
-35	er	er	Q	1	
-36	heel	heel	G	1	
-37	aangenaam	aangenaam	G	1	
-38	en	en	C	1	
-39	heel	heel	G	1	
-40	mooie	mooi	G	1	
-41	boottocht	boottocht	N	1	
-42	gedaan	doen	V	1	
-43	met	met	P	1	
-44	snorkelen	snorkelen	N	1	
-45	en	en	C	1	
-46	het	het	D	1	
-47	bezoeken	bezoek	N	1	
-48	van	van	P	1	
-49	de	de	D	1	
-50	eilanden	eiland	N	1	
-51	een	een	D	1	
-52	echte	echt	G	1	
-53	aanrader.	aanrader	N	1	
-54	aanrader.	.	O	1	
-55	vraag	vraag	N	1	
-56	naar	naar	P	1	
-57	recha	recha	R	1	ne=Person
-58	van	van	P	1	
-59	trust	trust	N	1	
-60	voor	voor	P	1	
-61	de	de	D	1	
-62	boottocht.	boottocht	N	1	
-63	boottocht.	.	O	1	
-64	ook	ook	A	1	
-65	de	de	D	1	
-66	kamelentocht	kamelentocht	O	1	
-67	was	wezen|zijn	V	1	
-68	super	super	G	1	
-69	bij	bij	P	1	
-70	zonsondergang	zonsondergang	N	1	
-71	via	via	P	1	
-72	sameh	sameh	R	1	ne=Person
-73	die	die	Q	1	
-74	het	het	Q	1	
-75	regelt.	regelen	V	1	
-76	regelt.	.	O	1	
-77	zeker	zeker	G	1	
-78	doen	doen	V	1	
-79	...	...	O	1	
-80	prachtig	prachtig	G	1	
-81	.	.	O	1	
+1	heel	heel	G	1	O
+2	leuk	leuk	G	1	O
+3	hotel.	hotel	N	1	O
+4	hotel.	.	O	1	O
+5	heel	heel	G	1	O
+6	goede	goed	G	1	O
+7	service	service	N	1	O
+8	en	en	C	1	O
+9	heel	heel	A	1	O
+10	hulpvaardig.	hulpvaardig	G	1	O
+11	hulpvaardig.	.	O	1	O
+12	een	een	D	1	O
+13	familiegevoel	familiegevoel	O	1	O
+14	van	van	P	1	O
+15	de	de	D	1	O
+16	eerste	een	O	1	O
+17	tot	tot	P	1	O
+18	de	de	D	1	O
+19	laatste	laat	G	1	O
+20	dag.	dag	N	1	O
+21	dag.	.	O	1	O
+22	wij	wij	Q	1	O
+23	hebben	hebben	V	1	O
+24	de	de	D	1	O
+25	daar	daar	A	1	O
+26	de	de	D	1	O
+27	vakanatie	vakanatie	O	1	O
+28	van	van	P	1	O
+29	ons	ons	D	1	O
+30	leven	leven	N	1	O
+31	gehad.	hebben	V	1	O
+32	gehad.	.	O	1	O
+33	het	het	Q	1	O
+34	was	wezen|zijn	V	1	O
+35	er	er	Q	1	O
+36	heel	heel	G	1	O
+37	aangenaam	aangenaam	G	1	O
+38	en	en	C	1	O
+39	heel	heel	G	1	O
+40	mooie	mooi	G	1	O
+41	boottocht	boottocht	N	1	O
+42	gedaan	doen	V	1	O
+43	met	met	P	1	O
+44	snorkelen	snorkelen	N	1	O
+45	en	en	C	1	O
+46	het	het	D	1	O
+47	bezoeken	bezoek	N	1	O
+48	van	van	P	1	O
+49	de	de	D	1	O
+50	eilanden	eiland	N	1	O
+51	een	een	D	1	O
+52	echte	echt	G	1	O
+53	aanrader.	aanrader	N	1	O
+54	aanrader.	.	O	1	O
+55	vraag	vraag	N	1	O
+56	naar	naar	P	1	O
+57	recha	recha	R	1	I-Person
+58	van	van	P	1	O
+59	trust	trust	N	1	O
+60	voor	voor	P	1	O
+61	de	de	D	1	O
+62	boottocht.	boottocht	N	1	O
+63	boottocht.	.	O	1	O
+64	ook	ook	A	1	O
+65	de	de	D	1	O
+66	kamelentocht	kamelentocht	O	1	O
+67	was	wezen|zijn	V	1	O
+68	super	super	G	1	O
+69	bij	bij	P	1	O
+70	zonsondergang	zonsondergang	N	1	O
+71	via	via	P	1	O
+72	sameh	sameh	R	1	I-Person
+73	die	die	Q	1	O
+74	het	het	Q	1	O
+75	regelt.	regelen	V	1	O
+76	regelt.	.	O	1	O
+77	zeker	zeker	G	1	O
+78	doen	doen	V	1	O
+79	...	...	O	1	O
+80	prachtig	prachtig	G	1	O
+81	.	.	O	1	O
 
-1	bedankt	bedanken	V	1	
-2	aan	aan	P	1	
-3	gerges	gerges	R	1	ne=Person
-4	voor	voor	P	1	
-5	overal	overal	A	1	
-6	de	de	D	1	
-7	snelle	snel	G	1	
-8	hulp	hulp	N	1	
-9	en	en	C	1	
-10	sympathie.	sympathie	N	1	
-11	sympathie.	.	O	1	
-12	het	het	D	1	
-13	strand	strand	N	1	
-14	is	zijn	V	1	
-15	prachtig	prachtig	G	1	
-16	en	en	C	1	
-17	de	de	D	1	
-18	ligzetels	ligzetels	O	1	
-19	zowel	zowel	C	1	
-20	op	op	P	1	
-21	strand	strand	N	1	
-22	en	en	C	1	
-23	hotel	hotel	N	1	
-24	zijn	zijn	V	1	
-25	heel	heel	A	1	
-26	comfortabel.	comfortabel	G	1	
-27	comfortabel.	.	O	1	
-28	lekker	lek|lekker	G	1	
-29	frietjes	friet	N	1	
-30	wijn	wijn	N	1	
-31	en	en	C	1	
-32	soep	soep	N	1	
-33	...	...	O	1	
-34	mmmm	mmmm	O	1	
+1	bedankt	bedanken	V	1	O
+2	aan	aan	P	1	O
+3	gerges	gerges	R	1	I-Person
+4	voor	voor	P	1	O
+5	overal	overal	A	1	O
+6	de	de	D	1	O
+7	snelle	snel	G	1	O
+8	hulp	hulp	N	1	O
+9	en	en	C	1	O
+10	sympathie.	sympathie	N	1	O
+11	sympathie.	.	O	1	O
+12	het	het	D	1	O
+13	strand	strand	N	1	O
+14	is	zijn	V	1	O
+15	prachtig	prachtig	G	1	O
+16	en	en	C	1	O
+17	de	de	D	1	O
+18	ligzetels	ligzetels	O	1	O
+19	zowel	zowel	C	1	O
+20	op	op	P	1	O
+21	strand	strand	N	1	O
+22	en	en	C	1	O
+23	hotel	hotel	N	1	O
+24	zijn	zijn	V	1	O
+25	heel	heel	A	1	O
+26	comfortabel.	comfortabel	G	1	O
+27	comfortabel.	.	O	1	O
+28	lekker	lek|lekker	G	1	O
+29	frietjes	friet	N	1	O
+30	wijn	wijn	N	1	O
+31	en	en	C	1	O
+32	soep	soep	N	1	O
+33	...	...	O	1	O
+34	mmmm	mmmm	O	1	O
 

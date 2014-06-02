@@ -1,198 +1,200 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	séjour	séjour	N	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	séjour	séjour	N	1	O
 
-1	De	De	P	1	
-2	retour	retour	V	1	
-3	d'	d'	P	1	
-4	une	un	D	1	
-5	semaine	semaine	N	1	
-6	à	à	P	1	
-7	Sen_Yan	sen_Yan	R	1	ne=Hotel
-8	,	,	O	1	
-9	nous	lui	Q	1	
-10	avons	avoir	V	1	
-11	passé	passer	V	1	
-12	un	un	D	1	
-13	très	très	G	1	
-14	agréable	agréable	G	1	
-15	séjour	séjour	N	1	
-16	,	,	O	1	
-17	reposant	reposer	V	1	
-18	,	,	O	1	
-19	nos	son	D	1	
-20	enfants	enfant	N	1	
-21	étaient	étayer	V	1	
-22	aussi	aussi	G	1	
-23	enchantés	enchanter	V	1	
-24	par	par	P	1	
-25	les	le	D	1	
-26	activités	activité	N	1	
-27	et	et	C	1	
-28	infrastructures	infrastructure	N	1	
-29	proposées	proposer	G	1	
-30	.	.	O	1	
+1	De	De	P	1	O
+2	retour	retour	V	1	O
+3	d'	d'	P	1	O
+4	une	un	D	1	O
+5	semaine	semaine	N	1	O
+6	à	à	P	1	O
+7	Sen	sen	N	1	I-Hotel
+8	Yan	Yan	N	1	I-Hotel
+9	,	,	O	1	O
+10	nous	lui	Q	1	O
+11	avons	avoir	V	1	O
+12	passé	passer	V	1	O
+13	un	un	D	1	O
+14	très	très	G	1	O
+15	agréable	agréable	G	1	O
+16	séjour	séjour	N	1	O
+17	,	,	O	1	O
+18	reposant	reposer	V	1	O
+19	,	,	O	1	O
+20	nos	son	D	1	O
+21	enfants	enfant	N	1	O
+22	étaient	étayer	V	1	O
+23	aussi	aussi	G	1	O
+24	enchantés	enchanter	V	1	O
+25	par	par	P	1	O
+26	les	le	D	1	O
+27	activités	activité	N	1	O
+28	et	et	C	1	O
+29	infrastructures	infrastructure	N	1	O
+30	proposées	proposer	G	1	O
+31	.	.	O	1	O
 
-1	Concernant	concerner	V	1	
-2	les	le	D	1	
-3	commentaires	commentaire	N	1	
-4	sur	sur	P	1	
-5	les	le	D	1	
-6	spectacles	spectacle	N	1	
-7	payants	payants	V	1	
-8	,	,	O	1	
-9	vu	voir	V	1	
-10	le	le	D	1	
-11	travail	travail	N	1	
-12	,	,	O	1	
-13	les	le	D	1	
-14	costumes	costume	N	1	
-15	,	,	O	1	
-16	décors	décor	N	1	
-17	....	....	O	1	
-18	il	il	Q	1	
-19	y	y	Q	1	
-20	a	avoir	V	1	
-21	forcement	forcement	G	1	
-22	un	un	D	1	
-23	cout	cout	N	1	
-24	.	.	O	1	
+1	Concernant	concerner	V	1	O
+2	les	le	D	1	O
+3	commentaires	commentaire	N	1	O
+4	sur	sur	P	1	O
+5	les	le	D	1	O
+6	spectacles	spectacle	N	1	O
+7	payants	payants	V	1	O
+8	,	,	O	1	O
+9	vu	voir	V	1	O
+10	le	le	D	1	O
+11	travail	travail	N	1	O
+12	,	,	O	1	O
+13	les	le	D	1	O
+14	costumes	costume	N	1	O
+15	,	,	O	1	O
+16	décors	décor	N	1	O
+17	....	....	O	1	O
+18	il	il	Q	1	O
+19	y	y	Q	1	O
+20	a	avoir	V	1	O
+21	forcement	forcement	G	1	O
+22	un	un	D	1	O
+23	cout	cout	N	1	O
+24	.	.	O	1	O
 
-1	Les	le	D	1	
-2	spectacles	spectacle	N	1	
-3	sont	être	V	1	
-4	certes	certes	G	1	
-5	au	au	P	1	
-6	prix	prix	N	1	
-7	de	de	P	1	
-8	8	8	D	1	
-9	/	/	O	1	
-10	10	10	D	1	
-11	euros	euro	N	1	
-12	avec	avec	P	1	
-13	un	un	D	1	
-14	cocktail	cocktail	N	1	
-15	compris	compris	N	1	
-16	(	(	O	1	
-17	vendu	vendre	V	1	
-18	à	à	P	1	
-19	6	6	D	1	
-20	€	€	N	1	
-21	)	)	O	1	
-22	,	,	O	1	
-23	soit	soit	C	1	
-24	le	le	D	1	
-25	prix	prix	N	1	
-26	du	du	P	1	
-27	spectable	spectable	G	1	
-28	revient	revenir	V	1	
-29	à	à	P	1	
-30	2	2	D	1	
-31	/	/	P	1	
-32	4	4	D	1	
-33	€	€	N	1	
-34	(	(	O	1	
-35	un	un	D	1	
-36	tarif	tarif	N	1	
-37	enfant	enfant	G	1	
-38	devrait	devoir	V	1	
-39	tout	tout	G	1	
-40	de	de	P	1	
-41	meme	meme	N	1	
-42	etre	etre	P	1	
-43	proposé	proposé	N	1	
-44	)	)	O	1	
-45	.	.	O	1	
+1	Les	le	D	1	O
+2	spectacles	spectacle	N	1	O
+3	sont	être	V	1	O
+4	certes	certes	G	1	O
+5	au	au	P	1	O
+6	prix	prix	N	1	O
+7	de	de	P	1	O
+8	8	8	D	1	O
+9	/	/	O	1	O
+10	10	10	D	1	O
+11	euros	euro	N	1	O
+12	avec	avec	P	1	O
+13	un	un	D	1	O
+14	cocktail	cocktail	N	1	O
+15	compris	compris	N	1	O
+16	(	(	O	1	O
+17	vendu	vendre	V	1	O
+18	à	à	P	1	O
+19	6	6	D	1	O
+20	€	€	N	1	O
+21	)	)	O	1	O
+22	,	,	O	1	O
+23	soit	soit	C	1	O
+24	le	le	D	1	O
+25	prix	prix	N	1	O
+26	du	du	P	1	O
+27	spectable	spectable	G	1	O
+28	revient	revenir	V	1	O
+29	à	à	P	1	O
+30	2	2	D	1	O
+31	/	/	P	1	O
+32	4	4	D	1	O
+33	€	€	N	1	O
+34	(	(	O	1	O
+35	un	un	D	1	O
+36	tarif	tarif	N	1	O
+37	enfant	enfant	G	1	O
+38	devrait	devoir	V	1	O
+39	tout	tout	G	1	O
+40	de	de	P	1	O
+41	meme	meme	N	1	O
+42	etre	etre	P	1	O
+43	proposé	proposé	N	1	O
+44	)	)	O	1	O
+45	.	.	O	1	O
 
-1	Ce	Ce	P	1	
-2	qui	qui	P	1	
-3	est	être	V	1	
-4	étonnant	étonnant	G	1	
-5	,	,	O	1	
-6	c'	c'	Q	1	
-7	est	être	V	1	
-8	que	que	C	1	
-9	cet	ce	D	1	
-10	item	item	N	1	
-11	du	du	P	1	
-12	prix	prix	N	1	
-13	revient	revenir	V	1	
-14	sur	sur	P	1	
-15	tous	tout	G	1	
-16	les	le	D	1	
-17	commentaires	commentaire	N	1	
-18	alors	alors	G	1	
-19	que	que	C	1	
-20	sur	sur	P	1	
-21	place	place	N	1	
-22	,	,	O	1	
-23	très	très	G	1	
-24	peu	peu	G	1	
-25	de	de	P	1	
-26	personnes	personne	N	1	
-27	profittent	profittent	V	1	
-28	des	un	D	1	
-29	activités	activité	N	1	
-30	GRATUITES	gratuit	G	1	
-31	(	(	O	1	
-32	aquagym	aquagym	N	1	
-33	,	,	O	1	
-34	tir	tir	V	1	
-35	à	à	P	1	
-36	l'	le	D	1	
-37	arc	arc	N	1	
-38	,	,	O	1	
-39	zumba	zumba	N	1	
-40	,	,	O	1	
-41	danse	danse	N	1	
-42	latine	latin	G	1	
-43	,	,	O	1	
-44	relaxation	relaxation	N	1	
-45	,	,	O	1	
-46	sports	sport	N	1	
-47	co	co	G	1	
-48	,	,	O	1	
-49	abdo	abdo	V	1	
-50	·	·	P	1	
-51	fessier	fessier	V	1	
-52	,	,	O	1	
-53	steps	steps	G	1	
-54	,	,	O	1	
-55	jeux	jeu	N	1	
-56	apéro	apéro	P	1	
-57	....	....	N	1	
-58	)	)	O	1	
-59	.	.	O	1	
+1	Ce	Ce	P	1	O
+2	qui	qui	P	1	O
+3	est	être	V	1	O
+4	étonnant	étonnant	G	1	O
+5	,	,	O	1	O
+6	c'	c'	Q	1	O
+7	est	être	V	1	O
+8	que	que	C	1	O
+9	cet	ce	D	1	O
+10	item	item	N	1	O
+11	du	du	P	1	O
+12	prix	prix	N	1	O
+13	revient	revenir	V	1	O
+14	sur	sur	P	1	O
+15	tous	tout	G	1	O
+16	les	le	D	1	O
+17	commentaires	commentaire	N	1	O
+18	alors	alors	G	1	O
+19	que	que	C	1	O
+20	sur	sur	P	1	O
+21	place	place	N	1	O
+22	,	,	O	1	O
+23	très	très	G	1	O
+24	peu	peu	G	1	O
+25	de	de	P	1	O
+26	personnes	personne	N	1	O
+27	profittent	profittent	V	1	O
+28	des	un	D	1	O
+29	activités	activité	N	1	O
+30	GRATUITES	gratuit	G	1	O
+31	(	(	O	1	O
+32	aquagym	aquagym	N	1	O
+33	,	,	O	1	O
+34	tir	tir	V	1	O
+35	à	à	P	1	O
+36	l'	le	D	1	O
+37	arc	arc	N	1	O
+38	,	,	O	1	O
+39	zumba	zumba	N	1	O
+40	,	,	O	1	O
+41	danse	danse	N	1	O
+42	latine	latin	G	1	O
+43	,	,	O	1	O
+44	relaxation	relaxation	N	1	O
+45	,	,	O	1	O
+46	sports	sport	N	1	O
+47	co	co	G	1	O
+48	,	,	O	1	O
+49	abdo	abdo	V	1	O
+50	·	·	P	1	O
+51	fessier	fessier	V	1	O
+52	,	,	O	1	O
+53	steps	steps	G	1	O
+54	,	,	O	1	O
+55	jeux	jeu	N	1	O
+56	apéro	apéro	P	1	O
+57	....	....	N	1	O
+58	)	)	O	1	O
+59	.	.	O	1	O
 
-1	Merci	merci	N	1	
-2	aux	aux	P	1	
-3	animateurs	animateur	N	1	
-4	.	.	O	1	
+1	Merci	merci	N	1	O
+2	aux	aux	P	1	O
+3	animateurs	animateur	N	1	O
+4	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	retournerons	retourner	V	1	
-3	certainement	certainement	G	1	
-4	à	à	P	1	
-5	Sen_Yan	sen_Yan	R	1	ne=Hotel
-6	pour	pour	P	1	
-7	un	un	D	1	
-8	prochain	prochain	G	1	
-9	séjour	séjour	N	1	
-10	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	retournerons	retourner	V	1	O
+3	certainement	certainement	G	1	O
+4	à	à	P	1	O
+5	Sen	sen	N	1	I-Hotel
+6	Yan	Yan	N	1	I-Hotel
+7	pour	pour	P	1	O
+8	un	un	D	1	O
+9	prochain	prochain	G	1	O
+10	séjour	séjour	N	1	O
+11	.	.	O	1	O
 
-1	Une	un	D	1	
-2	note	note	N	1	
-3	particulière	particulier	G	1	
-4	au	au	P	1	
-5	couple	couple	D	1	
-6	gérant	gérant	N	1	
-7	de	de	P	1	
-8	l'	le	D	1	
-9	épicerie	épicerie	N	1	
-10	,	,	O	1	
-11	très	très	G	1	
-12	pro	pro	N	1	
-13	et	et	C	1	
-14	courtois	courtois	N	1	
-15	.	.	O	1	
+1	Une	un	D	1	O
+2	note	note	N	1	O
+3	particulière	particulier	G	1	O
+4	au	au	P	1	O
+5	couple	couple	D	1	O
+6	gérant	gérant	N	1	O
+7	de	de	P	1	O
+8	l'	le	D	1	O
+9	épicerie	épicerie	N	1	O
+10	,	,	O	1	O
+11	très	très	G	1	O
+12	pro	pro	N	1	O
+13	et	et	C	1	O
+14	courtois	courtois	N	1	O
+15	.	.	O	1	O
 

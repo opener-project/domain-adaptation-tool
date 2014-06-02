@@ -1,159 +1,159 @@
-1	Super	Super	N	1	
-2	Hotel	Hotel	N	1	
-3	mit	mit	P	1	
-4	herausragendem	herausragend	G	1	
-5	Service	Service	N	1	
+1	Super	Super	N	1	O
+2	Hotel	Hotel	N	1	O
+3	mit	mit	P	1	O
+4	herausragendem	herausragend	G	1	O
+5	Service	Service	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	trotz	trotz	P	1	
-5	,	,	O	1	
-6	dass	dass	C	1	
-7	es	es	Q	1	
-8	schon	schon	A	1	
-9	20	20	O	1	
-10	Jahre	Jahr	N	1	
-11	alt	alt	G	1	
-12	ist	sein	V	1	
-13	(	(	O	1	
-14	merkt	merken	V	1	
-15	man	man	Q	1	
-16	nur	nur	A	1	
-17	am	an	P	1	
-18	Stil	Stil	N	1	
-19	der	die	D	1	
-20	Möbel	Möbel	N	1	
-21	)	)	O	1	
-22	,	,	O	1	
-23	in	in	P	1	
-24	einen	eine	D	1	
-25	bemerkenswerten	bemerkenswert	G	1	
-26	Zustand	Zustand	N	1	
-27	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	trotz	trotz	P	1	O
+5	,	,	O	1	O
+6	dass	dass	C	1	O
+7	es	es	Q	1	O
+8	schon	schon	A	1	O
+9	20	20	O	1	O
+10	Jahre	Jahr	N	1	O
+11	alt	alt	G	1	O
+12	ist	sein	V	1	O
+13	(	(	O	1	O
+14	merkt	merken	V	1	O
+15	man	man	Q	1	O
+16	nur	nur	A	1	O
+17	am	an	P	1	O
+18	Stil	Stil	N	1	O
+19	der	die	D	1	O
+20	Möbel	Möbel	N	1	O
+21	)	)	O	1	O
+22	,	,	O	1	O
+23	in	in	P	1	O
+24	einen	eine	D	1	O
+25	bemerkenswerten	bemerkenswert	G	1	O
+26	Zustand	Zustand	N	1	O
+27	.	.	O	1	O
 
-1	An	an	P	1	
-2	der	die	D	1	
-3	Sauberkeit	Sauberkeit	N	1	
-4	gibt	geben	V	1	
-5	es	es	Q	1	
-6	nichts	nichts	Q	1	
-7	zu	zu	O	1	
-8	meckern	meckern	V	1	
-9	.	.	O	1	
+1	An	an	P	1	O
+2	der	die	D	1	O
+3	Sauberkeit	Sauberkeit	N	1	O
+4	gibt	geben	V	1	O
+5	es	es	Q	1	O
+6	nichts	nichts	Q	1	O
+7	zu	zu	O	1	O
+8	meckern	meckern	V	1	O
+9	.	.	O	1	O
 
-1	Alles	alle	Q	1	
-2	in	in	P	1	
-3	wird	werden	V	1	
-4	in	in	P	1	
-5	einen	eine	D	1	
-6	Super	Super	N	1	
-7	Zustand	Zustand	N	1	
-8	gehalten	halten	V	1	
-9	.	.	O	1	
+1	Alles	alle	Q	1	O
+2	in	in	P	1	O
+3	wird	werden	V	1	O
+4	in	in	P	1	O
+5	einen	eine	D	1	O
+6	Super	Super	N	1	O
+7	Zustand	Zustand	N	1	O
+8	gehalten	halten	V	1	O
+9	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	ein	eine	D	1	
-4	Clubzimmer	Clubzimmer	O	1	
-5	mit	mit	P	1	
-6	Frühstück	Frühstück	N	1	
-7	,	,	O	1	
-8	mehr	mehr	A	1	
-9	braucht	brauchen	V	1	
-10	man	man	Q	1	
-11	auch	auch	A	1	
-12	nicht	nicht	O	1	
-13	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	ein	eine	D	1	O
+4	Clubzimmer	Clubzimmer	O	1	O
+5	mit	mit	P	1	O
+6	Frühstück	Frühstück	N	1	O
+7	,	,	O	1	O
+8	mehr	mehr	A	1	O
+9	braucht	brauchen	V	1	O
+10	man	man	Q	1	O
+11	auch	auch	A	1	O
+12	nicht	nicht	O	1	O
+13	.	.	O	1	O
 
-1	Bei	bei	P	1	
-2	Buchung	Buchung	N	1	
-3	eines	eine	D	1	
-4	Clubzimmers	Clubzimmers	O	1	
-5	ist	sein	V	1	
-6	die	die	D	1	
-7	Club	Club	N	1	
-8	·	·	O	1	
-9	Lounge	Lounge	O	1	
-10	mit	mit	P	1	
-11	eingeschlossen	eingeschlossen	G	1	
-12	.	.	O	1	
+1	Bei	bei	P	1	O
+2	Buchung	Buchung	N	1	O
+3	eines	eine	D	1	O
+4	Clubzimmers	Clubzimmers	O	1	O
+5	ist	sein	V	1	O
+6	die	die	D	1	O
+7	Club	Club	N	1	O
+8	·	·	O	1	O
+9	Lounge	Lounge	O	1	O
+10	mit	mit	P	1	O
+11	eingeschlossen	eingeschlossen	G	1	O
+12	.	.	O	1	O
 
-1	Dort	dort	A	1	
-2	bekommt	bekommen	V	1	
-3	man	man	Q	1	
-4	ab	ab	P	1	
-5	15:00	@card@	O	1	
-6	Uhr	Uhr	N	1	
-7	,	,	O	1	
-8	Kaffee	Kaffee	N	1	
-9	,	,	O	1	
-10	Tee	Tee	N	1	
-11	und	und	C	1	
-12	andere	andere	Q	1	
-13	Getränke	Getränk	N	1	
-14	einschließlich	einschließlich	P	1	
-15	kleine	klein	G	1	
-16	Kuchenhäppchen	Kuchenhäppchen	O	1	
-17	und	und	C	1	
-18	Sandwiches	Sandwich	N	1	
-19	.	.	O	1	
+1	Dort	dort	A	1	O
+2	bekommt	bekommen	V	1	O
+3	man	man	Q	1	O
+4	ab	ab	P	1	O
+5	15:00	@card@	O	1	O
+6	Uhr	Uhr	N	1	O
+7	,	,	O	1	O
+8	Kaffee	Kaffee	N	1	O
+9	,	,	O	1	O
+10	Tee	Tee	N	1	O
+11	und	und	C	1	O
+12	andere	andere	Q	1	O
+13	Getränke	Getränk	N	1	O
+14	einschließlich	einschließlich	P	1	O
+15	kleine	klein	G	1	O
+16	Kuchenhäppchen	Kuchenhäppchen	O	1	O
+17	und	und	C	1	O
+18	Sandwiches	Sandwich	N	1	O
+19	.	.	O	1	O
 
-1	Ab	ab	P	1	
-2	18:30	@card@	O	1	
-3	Uhr	Uhr	N	1	
-4	gab	geben	V	1	
-5	es	es	Q	1	
-6	Canapés	Canapés	O	1	
-7	und	und	C	1	
-8	diverse	divers	G	1	
-9	alkoholfreie	alkoholfrei	G	1	
-10	Getränke	Getränk	N	1	
-11	und	und	C	1	
-12	natürlich	natürlich	A	1	
-13	Wein	Wein	N	1	
-14	,	,	O	1	
-15	Prosecco	Prosecco	O	1	
-16	usw.	usw.	A	1	
-17	Alles	alle	Q	1	
-18	im	in	P	1	
-19	Preis	Preis	N	1	
-20	mit	mit	V	1	
-21	enthalten	enthalten	V	1	
-22	.	.	O	1	
+1	Ab	ab	P	1	O
+2	18:30	@card@	O	1	O
+3	Uhr	Uhr	N	1	O
+4	gab	geben	V	1	O
+5	es	es	Q	1	O
+6	Canapés	Canapés	O	1	O
+7	und	und	C	1	O
+8	diverse	divers	G	1	O
+9	alkoholfreie	alkoholfrei	G	1	O
+10	Getränke	Getränk	N	1	O
+11	und	und	C	1	O
+12	natürlich	natürlich	A	1	O
+13	Wein	Wein	N	1	O
+14	,	,	O	1	O
+15	Prosecco	Prosecco	O	1	O
+16	usw.	usw.	A	1	O
+17	Alles	alle	Q	1	O
+18	im	in	P	1	O
+19	Preis	Preis	N	1	O
+20	mit	mit	V	1	O
+21	enthalten	enthalten	V	1	O
+22	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Gästestruktur	Gästestruktur	N	1	
-3	ist	sein	V	1	
-4	gemischt	gemischt	G	1	
-5	,	,	O	1	
-6	Schweizer	Schweizer	N	1	
-7	,	,	O	1	
-8	Engländer	Engländer	N	1	
-9	weinig	weinig	G	1	
-10	Deutsche	Deutsche	N	1	
-11	.	.	O	1	
+1	Die	die	D	1	O
+2	Gästestruktur	Gästestruktur	N	1	O
+3	ist	sein	V	1	O
+4	gemischt	gemischt	G	1	O
+5	,	,	O	1	O
+6	Schweizer	Schweizer	N	1	O
+7	,	,	O	1	O
+8	Engländer	Engländer	N	1	O
+9	weinig	weinig	G	1	O
+10	Deutsche	Deutsche	N	1	O
+11	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Hauptanteil	Hauptanteil	N	1	
-3	sind	sein	V	1	
-4	aber	aber	A	1	
-5	Russen	Russe	N	1	
-6	.	.	O	1	
+1	Der	die	D	1	O
+2	Hauptanteil	Hauptanteil	N	1	O
+3	sind	sein	V	1	O
+4	aber	aber	A	1	O
+5	Russen	Russe	N	1	O
+6	.	.	O	1	O
 
-1	Für	für	P	1	
-2	das	die	D	1	
-3	Benehmen	Benehmen	N	1	
-4	beim	bei	P	1	
-5	Essen	Essen	N	1	
-6	diverser	divers	G	1	
-7	russischen	russisch	G	1	
-8	Gäste	Gast	N	1	
-9	,	,	O	1	
-10	kann	können	V	1	
-11	das	die	D	1	
-12	Hotel	Hotel	N	1	
-13	aber	aber	A	1	
-14	nichts	nichts	Q	1	
-15	.	.	O	1	
+1	Für	für	P	1	O
+2	das	die	D	1	O
+3	Benehmen	Benehmen	N	1	O
+4	beim	bei	P	1	O
+5	Essen	Essen	N	1	O
+6	diverser	divers	G	1	O
+7	russischen	russisch	G	1	O
+8	Gäste	Gast	N	1	O
+9	,	,	O	1	O
+10	kann	können	V	1	O
+11	das	die	D	1	O
+12	Hotel	Hotel	N	1	O
+13	aber	aber	A	1	O
+14	nichts	nichts	Q	1	O
+15	.	.	O	1	O
 

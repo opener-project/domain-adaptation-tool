@@ -1,77 +1,77 @@
-1	Me	me	Q	1	
-2	gusto	gusto	V	1	
+1	Me	me	Q	1	O
+2	gusto	gusto	V	1	O
 
-1	Me	me	Q	1	
-2	gusto	gusto	V	1	
-3	estar	estar	N	1	
-4	en	en	P	1	
-5	ese	ese	G	1	
-6	hotel.	hotel.	N	1	
-7	aunque	aunque	G	1	
-8	solo	solo	N	1	
-9	estuvimos	estuvimos	N	1	
-10	2	2	O	1	
-11	dias	dias	N	1	
-12	,	,	O	1	
-13	fuimos	fuimos	N	1	
-14	por	por	V	1	
-15	cosas	cosas	N	1	
-16	personales	personales	N	1	
-17	,	,	O	1	
-18	si	si	G	1	
-19	pudiese	pudiese	N	1	
-20	en	en	P	1	
-21	otra	otra	G	1	
-22	próxima	próxima	N	1	
-23	vez	vez	N	1	
-24	igual	igual	G	1	
-25	lo	lo	N	1	
-26	visitaría	visitaría	O	1	
-27	de	de	O	1	
-28	nuevo	nuevo	O	1	
-29	....	....	O	1	
-30	se	se	O	1	
-31	siente	siente	O	1	
-32	uno	uno	O	1	
-33	muy	muy	O	1	
-34	a	a	D	1	
-35	gusto	gusto	N	1	
-36	,	,	O	1	
-37	tranquilo	tranquilo	N	1	
-38	aunque	aunque	N	1	
-39	siempre	siempre	G	1	
-40	digo	digo	G	1	
-41	lo	lo	G	1	
-42	mismo	mismo	N	1	
-43	igual	igual	N	1	
-44	a	a	D	1	
-45	unos	unos	G	1	
-46	nos	nos	N	1	
-47	toca	toca	P	1	
-48	todo	todo	V	1	
-49	bien	bien	G	1	
-50	y	y	G	1	
-51	algunos	algunos	N	1	
-52	otros	otros	N	1	
-53	en	en	P	1	
-54	ese	ese	D	1	
-55	momento	momento	O	1	
-56	pudiese	pudiese	O	1	
-57	haber	haber	O	1	
-58	algún	algún	O	1	
-59	fallo	fallo	O	1	
-60	,	,	O	1	
-61	....	....	O	1	
-62	así	así	A	1	
-63	que	que	V	1	
-64	siempre	siempre	G	1	
-65	respeto	respeto	N	1	
-66	las	las	V	1	
-67	opiniones	opiniones	N	1	
-68	de	de	P	1	
-69	los	los	N	1	
-70	demás	demás	N	1	
-71	.	.	O	1	
+1	Me	me	Q	1	O
+2	gusto	gusto	V	1	O
+3	estar	estar	N	1	O
+4	en	en	P	1	O
+5	ese	ese	G	1	O
+6	hotel.	hotel.	N	1	O
+7	aunque	aunque	G	1	O
+8	solo	solo	N	1	O
+9	estuvimos	estuvimos	N	1	O
+10	2	2	O	1	O
+11	dias	dias	N	1	O
+12	,	,	O	1	O
+13	fuimos	fuimos	N	1	O
+14	por	por	V	1	O
+15	cosas	cosas	N	1	O
+16	personales	personales	N	1	O
+17	,	,	O	1	O
+18	si	si	G	1	O
+19	pudiese	pudiese	N	1	O
+20	en	en	P	1	O
+21	otra	otra	G	1	O
+22	próxima	próxima	N	1	O
+23	vez	vez	N	1	O
+24	igual	igual	G	1	O
+25	lo	lo	N	1	O
+26	visitaría	visitaría	O	1	O
+27	de	de	O	1	O
+28	nuevo	nuevo	O	1	O
+29	....	....	O	1	O
+30	se	se	O	1	O
+31	siente	siente	O	1	O
+32	uno	uno	O	1	O
+33	muy	muy	O	1	O
+34	a	a	D	1	O
+35	gusto	gusto	N	1	O
+36	,	,	O	1	O
+37	tranquilo	tranquilo	N	1	O
+38	aunque	aunque	N	1	O
+39	siempre	siempre	G	1	O
+40	digo	digo	G	1	O
+41	lo	lo	G	1	O
+42	mismo	mismo	N	1	O
+43	igual	igual	N	1	O
+44	a	a	D	1	O
+45	unos	unos	G	1	O
+46	nos	nos	N	1	O
+47	toca	toca	P	1	O
+48	todo	todo	V	1	O
+49	bien	bien	G	1	O
+50	y	y	G	1	O
+51	algunos	algunos	N	1	O
+52	otros	otros	N	1	O
+53	en	en	P	1	O
+54	ese	ese	D	1	O
+55	momento	momento	O	1	O
+56	pudiese	pudiese	O	1	O
+57	haber	haber	O	1	O
+58	algún	algún	O	1	O
+59	fallo	fallo	O	1	O
+60	,	,	O	1	O
+61	....	....	O	1	O
+62	así	así	A	1	O
+63	que	que	V	1	O
+64	siempre	siempre	G	1	O
+65	respeto	respeto	N	1	O
+66	las	las	V	1	O
+67	opiniones	opiniones	N	1	O
+68	de	de	P	1	O
+69	los	los	N	1	O
+70	demás	demás	N	1	O
+71	.	.	O	1	O
 
-1	Gracias	Gracias	R	1	
+1	Gracias	Gracias	R	1	O
 

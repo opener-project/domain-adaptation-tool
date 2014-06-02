@@ -1,75 +1,76 @@
-1	Hôtel	hôtel	N	1	
-2	idéal	idéal	G	1	
-3	pour	pour	P	1	
-4	mariage	mariage	N	1	
+1	Hôtel	hôtel	N	1	O
+2	idéal	idéal	G	1	O
+3	pour	pour	P	1	O
+4	mariage	mariage	N	1	O
 
-1	Bonjour	Bonjour	G	1	
-2	,	,	O	1	
+1	Bonjour	Bonjour	G	1	O
+2	,	,	O	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	choisi	choisir	V	1	
-4	cet	ce	D	1	
-5	hôtel	hôtel	N	1	
-6	dans	dans	P	1	
-7	le	le	D	1	
-8	cadre	cadre	N	1	
-9	de	de	P	1	
-10	notre	son	D	1	
-11	mariage	mariage	N	1	
-12	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	choisi	choisir	V	1	O
+4	cet	ce	D	1	O
+5	hôtel	hôtel	N	1	O
+6	dans	dans	P	1	O
+7	le	le	D	1	O
+8	cadre	cadre	N	1	O
+9	de	de	P	1	O
+10	notre	son	D	1	O
+11	mariage	mariage	N	1	O
+12	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	juste	juste	G	1	
-5	incroyable	incroyable	G	1	
-6	,	,	O	1	
-7	toujours	toujours	G	1	
-8	souriant	souriant	G	1	
-9	et	et	C	1	
-10	aux	aux	P	1	
-11	petits	petit	G	1	
-12	soins	soin	N	1	
-13	,	,	O	1	
-14	les	le	D	1	
-15	restaurants	restaurant	N	1	
-16	offrent	offrir	V	1	
-17	une	un	D	1	
-18	grande	grand	G	1	
-19	variété	variété	N	1	
-20	et	et	C	1	
-21	de	de	P	1	
-22	qualité	qualité	N	1	
-23	,	,	O	1	
-24	la	le	D	1	
-25	plage	plage	N	1	
-26	merveilleuse	merveilleux	G	1	
-27	,	,	O	1	
-28	le	le	D	1	
-29	lieu	lieu	N	1	
-30	surplombé	surplomber	G	1	
-31	par	par	P	1	
-32	le_Morne	le_morne	R	1	ne=Location
-33	est	être	V	1	
-34	magique	magique	G	1	
-35	,	,	O	1	
-36	la	le	D	1	
-37	wedding	wedding	N	1	
-38	Planner	Planner	P	1	
-39	géniale	géniale	N	1	
-40	...	...	O	1	
-41	L'	le	D	1	
-42	un	un	P	1	
-43	des	des	P	1	
-44	meilleurs	meilleurs	D	1	
-45	hôtels	hôtel	N	1	
-46	de	de	P	1	
-47	l'	le	D	1	
-48	Ile	Ile	C	1	
-49	pour	pour	P	1	
-50	se	se	Q	1	
-51	reposer	reposer	V	1	
-52	au	au	P	1	
-53	calme	calme	N	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	juste	juste	G	1	O
+5	incroyable	incroyable	G	1	O
+6	,	,	O	1	O
+7	toujours	toujours	G	1	O
+8	souriant	souriant	G	1	O
+9	et	et	C	1	O
+10	aux	aux	P	1	O
+11	petits	petit	G	1	O
+12	soins	soin	N	1	O
+13	,	,	O	1	O
+14	les	le	D	1	O
+15	restaurants	restaurant	N	1	O
+16	offrent	offrir	V	1	O
+17	une	un	D	1	O
+18	grande	grand	G	1	O
+19	variété	variété	N	1	O
+20	et	et	C	1	O
+21	de	de	P	1	O
+22	qualité	qualité	N	1	O
+23	,	,	O	1	O
+24	la	le	D	1	O
+25	plage	plage	N	1	O
+26	merveilleuse	merveilleux	G	1	O
+27	,	,	O	1	O
+28	le	le	D	1	O
+29	lieu	lieu	N	1	O
+30	surplombé	surplomber	G	1	O
+31	par	par	P	1	O
+32	le	le	D	1	I-Location
+33	Morne	morne	N	1	I-Location
+34	est	être	V	1	O
+35	magique	magique	G	1	O
+36	,	,	O	1	O
+37	la	le	D	1	O
+38	wedding	wedding	N	1	O
+39	Planner	Planner	P	1	O
+40	géniale	géniale	N	1	O
+41	...	...	O	1	O
+42	L'	le	D	1	O
+43	un	un	P	1	O
+44	des	des	P	1	O
+45	meilleurs	meilleurs	D	1	O
+46	hôtels	hôtel	N	1	O
+47	de	de	P	1	O
+48	l'	le	D	1	O
+49	Ile	Ile	C	1	O
+50	pour	pour	P	1	O
+51	se	se	Q	1	O
+52	reposer	reposer	V	1	O
+53	au	au	P	1	O
+54	calme	calme	N	1	O
 

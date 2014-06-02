@@ -1,254 +1,254 @@
-1	Trop	Trop	G	1	
-2	bien	bien	G	1	
-3	avec	avec	P	1	
-4	les	le	D	1	
-5	enfants	enfant	N	1	
-6	!	!	O	1	
+1	Trop	Trop	G	1	O
+2	bien	bien	G	1	O
+3	avec	avec	P	1	O
+4	les	le	D	1	O
+5	enfants	enfant	N	1	O
+6	!	!	O	1	O
 
-1	j'	j'	Q	1	
-2	y	y	Q	1	
-3	suis	suivre	V	1	
-4	allée	aller	V	1	
-5	avec	avec	P	1	
-6	mon	son	D	1	
-7	neveu	neveu	N	1	
-8	et	et	C	1	
-9	ma	son	D	1	
-10	nièce	nièce	N	1	
-11	,	,	O	1	
-12	2	2	D	1	
-13	enfants	enfant	N	1	
-14	de	de	P	1	
-15	10	10	D	1	
-16	et	et	C	1	
-17	12	12	D	1	
-18	ans	an	N	1	
-19	,	,	O	1	
-20	donc	donc	C	1	
-21	qui	qui	P	1	
-22	commencent	commencer	V	1	
-23	un	un	D	1	
-24	peu	peu	G	1	
-25	à	à	P	1	
-26	entrer	entrer	V	1	
-27	dans	dans	P	1	
-28	l'	le	D	1	
-29	âge	âge	N	1	
-30	"	&amp;quot;	O	1	
-31	rebelle	rebelle	G	1	
-32	"	&amp;quot;	O	1	
-33	,	,	O	1	
-34	pourtant	pourtant	G	1	
-35	ils	ils	Q	1	
-36	se	se	Q	1	
-37	sont	être	V	1	
-38	éclatés	éclater	V	1	
-39	!	!	O	1	
+1	j'	j'	Q	1	O
+2	y	y	Q	1	O
+3	suis	suivre	V	1	O
+4	allée	aller	V	1	O
+5	avec	avec	P	1	O
+6	mon	son	D	1	O
+7	neveu	neveu	N	1	O
+8	et	et	C	1	O
+9	ma	son	D	1	O
+10	nièce	nièce	N	1	O
+11	,	,	O	1	O
+12	2	2	D	1	O
+13	enfants	enfant	N	1	O
+14	de	de	P	1	O
+15	10	10	D	1	O
+16	et	et	C	1	O
+17	12	12	D	1	O
+18	ans	an	N	1	O
+19	,	,	O	1	O
+20	donc	donc	C	1	O
+21	qui	qui	P	1	O
+22	commencent	commencer	V	1	O
+23	un	un	D	1	O
+24	peu	peu	G	1	O
+25	à	à	P	1	O
+26	entrer	entrer	V	1	O
+27	dans	dans	P	1	O
+28	l'	le	D	1	O
+29	âge	âge	N	1	O
+30	"	&amp;quot;	O	1	O
+31	rebelle	rebelle	G	1	O
+32	"	&amp;quot;	O	1	O
+33	,	,	O	1	O
+34	pourtant	pourtant	G	1	O
+35	ils	ils	Q	1	O
+36	se	se	Q	1	O
+37	sont	être	V	1	O
+38	éclatés	éclater	V	1	O
+39	!	!	O	1	O
 
-1	On	On	Q	1	
-2	a	avoir	V	1	
-3	fait	faire	V	1	
-4	la	le	D	1	
-5	partie	partie	N	1	
-6	à	à	P	1	
-7	pied	pied	N	1	
-8	le	le	D	1	
-9	matin	matin	N	1	
-10	,	,	O	1	
-11	avant	avant	P	1	
-12	qu'	qu'	C	1	
-13	il	il	Q	1	
-14	ne	ne	G	1	
-15	fasse	faire	V	1	
-16	trop	trop	G	1	
-17	chaud	chaud	G	1	
-18	,	,	O	1	
-19	du	du	P	1	
-20	coup	coup	N	1	
-21	il	il	Q	1	
-22	n'	n'	G	1	
-23	y	y	Q	1	
-24	avait	avoir	V	1	
-25	pas	pas	G	1	
-26	trop	trop	G	1	
-27	de	de	P	1	
-28	monde	monde	N	1	
-29	et	et	C	1	
-30	on	on	Q	1	
-31	a	avoir	V	1	
-32	profité	profiter	V	1	
-33	de	de	P	1	
-34	tout	tout	P	1	
-35	:	:	O	1	
-36	les	le	D	1	
-37	animaux	animal	N	1	
-38	,	,	O	1	
-39	les	le	D	1	
-40	jeux	jeu	N	1	
-41	"	&amp;quot;	O	1	
-42	sportifs	sportif	G	1	
-43	"	&amp;quot;	O	1	
-44	,	,	O	1	
-45	les	le	D	1	
-46	jeux	jeu	N	1	
-47	un	un	P	1	
-48	peu	peu	G	1	
-49	plus	plus	G	1	
-50	"	&amp;quot;	O	1	
-51	intellos	intellectuel	N	1	
-52	"	&amp;quot;	O	1	
-53	.	.	O	1	
+1	On	On	Q	1	O
+2	a	avoir	V	1	O
+3	fait	faire	V	1	O
+4	la	le	D	1	O
+5	partie	partie	N	1	O
+6	à	à	P	1	O
+7	pied	pied	N	1	O
+8	le	le	D	1	O
+9	matin	matin	N	1	O
+10	,	,	O	1	O
+11	avant	avant	P	1	O
+12	qu'	qu'	C	1	O
+13	il	il	Q	1	O
+14	ne	ne	G	1	O
+15	fasse	faire	V	1	O
+16	trop	trop	G	1	O
+17	chaud	chaud	G	1	O
+18	,	,	O	1	O
+19	du	du	P	1	O
+20	coup	coup	N	1	O
+21	il	il	Q	1	O
+22	n'	n'	G	1	O
+23	y	y	Q	1	O
+24	avait	avoir	V	1	O
+25	pas	pas	G	1	O
+26	trop	trop	G	1	O
+27	de	de	P	1	O
+28	monde	monde	N	1	O
+29	et	et	C	1	O
+30	on	on	Q	1	O
+31	a	avoir	V	1	O
+32	profité	profiter	V	1	O
+33	de	de	P	1	O
+34	tout	tout	P	1	O
+35	:	:	O	1	O
+36	les	le	D	1	O
+37	animaux	animal	N	1	O
+38	,	,	O	1	O
+39	les	le	D	1	O
+40	jeux	jeu	N	1	O
+41	"	&amp;quot;	O	1	O
+42	sportifs	sportif	G	1	O
+43	"	&amp;quot;	O	1	O
+44	,	,	O	1	O
+45	les	le	D	1	O
+46	jeux	jeu	N	1	O
+47	un	un	P	1	O
+48	peu	peu	G	1	O
+49	plus	plus	G	1	O
+50	"	&amp;quot;	O	1	O
+51	intellos	intellectuel	N	1	O
+52	"	&amp;quot;	O	1	O
+53	.	.	O	1	O
 
-1	On	On	Q	1	
-2	a	avoir	V	1	
-3	réussi	réussir	V	1	
-4	à	à	P	1	
-5	arriver	arriver	V	1	
-6	pile	pile	N	1	
-7	à	à	P	1	
-8	l'	le	D	1	
-9	heure	heure	N	1	
-10	de	de	P	1	
-11	l'	le	D	1	
-12	animation	animation	N	1	
-13	avec	avec	P	1	
-14	les	le	D	1	
-15	otaries	otarie	N	1	
-16	,	,	O	1	
-17	elles	lui	Q	1	
-18	étaient	étayer	V	1	
-19	plus	plus	G	1	
-20	obéissantes	obéissant	G	1	
-21	que	que	C	1	
-22	certains	certains	P	1	
-23	(	(	O	1	
-24	non	non	G	1	
-25	,	,	O	1	
-26	non	non	G	1	
-27	,	,	O	1	
-28	je	je	Q	1	
-29	ne	ne	G	1	
-30	vise	viser	V	1	
-31	personne	personne	P	1	
-32	...	...	O	1	
-33	)	)	O	1	
-34	.	.	O	1	
+1	On	On	Q	1	O
+2	a	avoir	V	1	O
+3	réussi	réussir	V	1	O
+4	à	à	P	1	O
+5	arriver	arriver	V	1	O
+6	pile	pile	N	1	O
+7	à	à	P	1	O
+8	l'	le	D	1	O
+9	heure	heure	N	1	O
+10	de	de	P	1	O
+11	l'	le	D	1	O
+12	animation	animation	N	1	O
+13	avec	avec	P	1	O
+14	les	le	D	1	O
+15	otaries	otarie	N	1	O
+16	,	,	O	1	O
+17	elles	lui	Q	1	O
+18	étaient	étayer	V	1	O
+19	plus	plus	G	1	O
+20	obéissantes	obéissant	G	1	O
+21	que	que	C	1	O
+22	certains	certains	P	1	O
+23	(	(	O	1	O
+24	non	non	G	1	O
+25	,	,	O	1	O
+26	non	non	G	1	O
+27	,	,	O	1	O
+28	je	je	Q	1	O
+29	ne	ne	G	1	O
+30	vise	viser	V	1	O
+31	personne	personne	P	1	O
+32	...	...	O	1	O
+33	)	)	O	1	O
+34	.	.	O	1	O
 
-1	Après	Après	P	1	
-2	le	le	D	1	
-3	pique	pique	N	1	
-4	·	·	G	1	
-5	nique	nique	N	1	
-6	,	,	O	1	
-7	direction	direction	N	1	
-8	la	le	D	1	
-9	partie	partie	N	1	
-10	à	à	P	1	
-11	visiter	visiter	V	1	
-12	en	en	P	1	
-13	voiture	voiture	N	1	
-14	,	,	O	1	
-15	on	on	Q	1	
-16	a	avoir	V	1	
-17	vu	voir	V	1	
-18	Goliath	Goliath	N	1	
-19	,	,	O	1	
-20	le	le	D	1	
-21	"	&amp;quot;	O	1	
-22	petit	petit	G	1	
-23	"	&amp;quot;	O	1	
-24	rhinocéros	rhinocéros	N	1	
-25	né	naître	V	1	
-26	il	il	Q	1	
-27	y	y	Q	1	
-28	a	avoir	V	1	
-29	quelques	quelque	D	1	
-30	mois	moi	N	1	
-31	.	.	O	1	
+1	Après	Après	P	1	O
+2	le	le	D	1	O
+3	pique	pique	N	1	O
+4	·	·	G	1	O
+5	nique	nique	N	1	O
+6	,	,	O	1	O
+7	direction	direction	N	1	O
+8	la	le	D	1	O
+9	partie	partie	N	1	O
+10	à	à	P	1	O
+11	visiter	visiter	V	1	O
+12	en	en	P	1	O
+13	voiture	voiture	N	1	O
+14	,	,	O	1	O
+15	on	on	Q	1	O
+16	a	avoir	V	1	O
+17	vu	voir	V	1	O
+18	Goliath	Goliath	N	1	O
+19	,	,	O	1	O
+20	le	le	D	1	O
+21	"	&amp;quot;	O	1	O
+22	petit	petit	G	1	O
+23	"	&amp;quot;	O	1	O
+24	rhinocéros	rhinocéros	N	1	O
+25	né	naître	V	1	O
+26	il	il	Q	1	O
+27	y	y	Q	1	O
+28	a	avoir	V	1	O
+29	quelques	quelque	D	1	O
+30	mois	moi	N	1	O
+31	.	.	O	1	O
 
-1	Beau	beau	N	1	
-2	bébé	bébé	N	1	
-3	!	!	O	1	
+1	Beau	beau	N	1	O
+2	bébé	bébé	N	1	O
+3	!	!	O	1	O
 
-1	Après	Après	P	1	
-2	il	il	Q	1	
-3	y	y	Q	1	
-4	avait	avoir	V	1	
-5	les	le	D	1	
-6	ours	ours	N	1	
-7	,	,	O	1	
-8	dont	dont	P	1	
-9	certains	certains	P	1	
-10	en	en	P	1	
-11	plein	plein	G	1	
-12	milieu	milieu	N	1	
-13	de	de	P	1	
-14	la	le	D	1	
-15	route	route	N	1	
-16	,	,	O	1	
-17	on	on	Q	1	
-18	avait	avoir	V	1	
-19	un	un	D	1	
-20	peu	peu	G	1	
-21	l'	le	D	1	
-22	impression	impression	N	1	
-23	d'	d'	P	1	
-24	être	être	V	1	
-25	à	à	P	1	
-26	un	un	D	1	
-27	cours	cour	N	1	
-28	de	de	P	1	
-29	conduite	conduite	N	1	
-30	"	&amp;quot;	O	1	
-31	alors	alors	G	1	
-32	vous	lui	Q	1	
-33	allez	aller	V	1	
-34	slalomer	slalomer	V	1	
-35	entre	entre	P	1	
-36	les	le	D	1	
-37	cônes	cône	N	1	
-38	"	&amp;quot;	O	1	
-39	!	!	O	1	
-40	!	!	O	1	
-41	!	!	O	1	
+1	Après	Après	P	1	O
+2	il	il	Q	1	O
+3	y	y	Q	1	O
+4	avait	avoir	V	1	O
+5	les	le	D	1	O
+6	ours	ours	N	1	O
+7	,	,	O	1	O
+8	dont	dont	P	1	O
+9	certains	certains	P	1	O
+10	en	en	P	1	O
+11	plein	plein	G	1	O
+12	milieu	milieu	N	1	O
+13	de	de	P	1	O
+14	la	le	D	1	O
+15	route	route	N	1	O
+16	,	,	O	1	O
+17	on	on	Q	1	O
+18	avait	avoir	V	1	O
+19	un	un	D	1	O
+20	peu	peu	G	1	O
+21	l'	le	D	1	O
+22	impression	impression	N	1	O
+23	d'	d'	P	1	O
+24	être	être	V	1	O
+25	à	à	P	1	O
+26	un	un	D	1	O
+27	cours	cour	N	1	O
+28	de	de	P	1	O
+29	conduite	conduite	N	1	O
+30	"	&amp;quot;	O	1	O
+31	alors	alors	G	1	O
+32	vous	lui	Q	1	O
+33	allez	aller	V	1	O
+34	slalomer	slalomer	V	1	O
+35	entre	entre	P	1	O
+36	les	le	D	1	O
+37	cônes	cône	N	1	O
+38	"	&amp;quot;	O	1	O
+39	!	!	O	1	O
+40	!	!	O	1	O
+41	!	!	O	1	O
 
-1	"	&amp;quot;	O	1	
-2	val	val	G	1	
-3	"	&amp;quot;	O	1	
-4	,	,	O	1	
-5	je	je	Q	1	
-6	ne	ne	G	1	
-7	sais	savoir	V	1	
-8	pas	pas	G	1	
-9	comment	comment	G	1	
-10	vous	lui	Q	1	
-11	avez	avoir	V	1	
-12	fait	faire	V	1	
-13	pour	pour	P	1	
-14	"	&amp;quot;	O	1	
-15	rater	rater	V	1	
-16	"	&amp;quot;	O	1	
-17	la	le	D	1	
-18	promenade	promenade	N	1	
-19	à	à	P	1	
-20	pied	pied	N	1	
-21	?	?	O	1	
-22	!	!	O	1	
+1	"	&amp;quot;	O	1	O
+2	val	val	G	1	O
+3	"	&amp;quot;	O	1	O
+4	,	,	O	1	O
+5	je	je	Q	1	O
+6	ne	ne	G	1	O
+7	sais	savoir	V	1	O
+8	pas	pas	G	1	O
+9	comment	comment	G	1	O
+10	vous	lui	Q	1	O
+11	avez	avoir	V	1	O
+12	fait	faire	V	1	O
+13	pour	pour	P	1	O
+14	"	&amp;quot;	O	1	O
+15	rater	rater	V	1	O
+16	"	&amp;quot;	O	1	O
+17	la	le	D	1	O
+18	promenade	promenade	N	1	O
+19	à	à	P	1	O
+20	pied	pied	N	1	O
+21	?	?	O	1	O
+22	!	!	O	1	O
 
-1	Il	Il	Q	1	
-2	y	y	Q	1	
-3	a	avoir	V	1	
-4	plein	plein	G	1	
-5	de	de	P	1	
-6	panneaux	panneau	N	1	
-7	et	et	C	1	
-8	on	on	Q	1	
-9	nous	lui	Q	1	
-10	remet	remettre	V	1	
-11	un	un	D	1	
-12	plan	plan	N	1	
-13	à	à	P	1	
-14	l'	le	D	1	
-15	entrée	entrée	N	1	
-16	.	.	O	1	
+1	Il	Il	Q	1	O
+2	y	y	Q	1	O
+3	a	avoir	V	1	O
+4	plein	plein	G	1	O
+5	de	de	P	1	O
+6	panneaux	panneau	N	1	O
+7	et	et	C	1	O
+8	on	on	Q	1	O
+9	nous	lui	Q	1	O
+10	remet	remettre	V	1	O
+11	un	un	D	1	O
+12	plan	plan	N	1	O
+13	à	à	P	1	O
+14	l'	le	D	1	O
+15	entrée	entrée	N	1	O
+16	.	.	O	1	O
 

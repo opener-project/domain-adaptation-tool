@@ -1,127 +1,129 @@
-1	Buena	Buena	R	1	
-2	relación	relación	V	1	
-3	calidad	calidad	G	1	
-4	precio	precio	N	1	
+1	Buena	Buena	R	1	O
+2	relación	relación	V	1	O
+3	calidad	calidad	G	1	O
+4	precio	precio	N	1	O
 
-1	Estuvimos	estuvimos	N	1	
-2	3	3	O	1	
-3	noches	noches	N	1	
-4	en	en	G	1	
-5	el_hotel_Fleming	el_hotel_Fleming	R	1	ne=Hotel
-6	.	.	O	1	
+1	Estuvimos	estuvimos	N	1	O
+2	3	3	O	1	O
+3	noches	noches	N	1	O
+4	en	en	G	1	O
+5	el	el	N	1	I-Hotel
+6	hotel	hotel	N	1	I-Hotel
+7	Fleming	Fleming	R	1	I-Hotel
+8	.	.	O	1	O
 
-1	La	La	R	1	
-2	relación	relación	V	1	
-3	calidad	calidad	G	1	
-4	precio	precio	N	1	
-5	es	es	V	1	
-6	muy	muy	G	1	
-7	buena	buena	N	1	
-8	.	.	O	1	
+1	La	La	R	1	O
+2	relación	relación	V	1	O
+3	calidad	calidad	G	1	O
+4	precio	precio	N	1	O
+5	es	es	V	1	O
+6	muy	muy	G	1	O
+7	buena	buena	N	1	O
+8	.	.	O	1	O
 
-1	El	El	R	1	
-2	único	único	R	1	
-3	inconveniente	inconveniente	N	1	
-4	es	es	V	1	
-5	su	su	G	1	
-6	situación	situación	N	1	
-7	,	,	O	1	
-8	aunque	aunque	N	1	
-9	,	,	O	1	
-10	la	la	D	1	
-11	verdad	verdad	N	1	
-12	,	,	O	1	
-13	tampoco	tampoco	N	1	
-14	es	es	N	1	
-15	algo	algo	A	1	
-16	que	que	V	1	
-17	le	le	G	1	
-18	reste	reste	N	1	
-19	muchos	muchos	N	1	
-20	puntos	puntos	N	1	
-21	.	.	O	1	
+1	El	El	R	1	O
+2	único	único	R	1	O
+3	inconveniente	inconveniente	N	1	O
+4	es	es	V	1	O
+5	su	su	G	1	O
+6	situación	situación	N	1	O
+7	,	,	O	1	O
+8	aunque	aunque	N	1	O
+9	,	,	O	1	O
+10	la	la	D	1	O
+11	verdad	verdad	N	1	O
+12	,	,	O	1	O
+13	tampoco	tampoco	N	1	O
+14	es	es	N	1	O
+15	algo	algo	A	1	O
+16	que	que	V	1	O
+17	le	le	G	1	O
+18	reste	reste	N	1	O
+19	muchos	muchos	N	1	O
+20	puntos	puntos	N	1	O
+21	.	.	O	1	O
 
-1	Por	Por	R	1	
-2	lo	lo	A	1	
-3	que	que	V	1	
-4	a	a	D	1	
-5	las	las	G	1	
-6	habitaciones	habitaciones	N	1	
-7	se	se	Q	1	
-8	refiere	refiere	N	1	
-9	,	,	O	1	
-10	su	su	G	1	
-11	tamaño	tamaño	N	1	
-12	es	es	V	1	
-13	el	el	N	1	
-14	adecuado	adecuado	G	1	
-15	para	para	N	1	
-16	viajar	viajar	N	1	
-17	en	en	P	1	
-18	pareja	pareja	N	1	
-19	.	.	O	1	
+1	Por	Por	R	1	O
+2	lo	lo	A	1	O
+3	que	que	V	1	O
+4	a	a	D	1	O
+5	las	las	G	1	O
+6	habitaciones	habitaciones	N	1	O
+7	se	se	Q	1	O
+8	refiere	refiere	N	1	O
+9	,	,	O	1	O
+10	su	su	G	1	O
+11	tamaño	tamaño	N	1	O
+12	es	es	V	1	O
+13	el	el	N	1	O
+14	adecuado	adecuado	G	1	O
+15	para	para	N	1	O
+16	viajar	viajar	N	1	O
+17	en	en	P	1	O
+18	pareja	pareja	N	1	O
+19	.	.	O	1	O
 
-1	No	no	D	1	
-2	son	son	N	1	
-3	muy	muy	N	1	
-4	grandes	grandes	V	1	
-5	pero	pero	A	1	
-6	tampoco	tampoco	G	1	
-7	son	son	N	1	
-8	excesivamente	excesivamente	V	1	
-9	pequeñas	pequeñas	N	1	
-10	.	.	O	1	
+1	No	no	D	1	O
+2	son	son	N	1	O
+3	muy	muy	N	1	O
+4	grandes	grandes	V	1	O
+5	pero	pero	A	1	O
+6	tampoco	tampoco	G	1	O
+7	son	son	N	1	O
+8	excesivamente	excesivamente	V	1	O
+9	pequeñas	pequeñas	N	1	O
+10	.	.	O	1	O
 
-1	El	El	R	1	
-2	buffet	buffet	N	1	
-3	libre	libre	N	1	
-4	del	del	O	1	
-5	almuerzo	almuerzo	O	1	
-6	por	por	O	1	
-7	la	la	O	1	
-8	mañana	mañana	O	1	
-9	es	es	V	1	
-10	muy	muy	G	1	
-11	completo	completo	N	1	
-12	aunque	aunque	N	1	
-13	,	,	O	1	
-14	hay	hay	N	1	
-15	algunos	algunos	N	1	
-16	alimentos	alimentos	V	1	
-17	como	como	N	1	
-18	frutas	frutas	N	1	
-19	que	que	V	1	
-20	se	se	N	1	
-21	tienen	tienen	G	1	
-22	que	que	N	1	
-23	pagar	pagar	N	1	
-24	.	.	O	1	
+1	El	El	R	1	O
+2	buffet	buffet	N	1	O
+3	libre	libre	N	1	O
+4	del	del	O	1	O
+5	almuerzo	almuerzo	O	1	O
+6	por	por	O	1	O
+7	la	la	O	1	O
+8	mañana	mañana	O	1	O
+9	es	es	V	1	O
+10	muy	muy	G	1	O
+11	completo	completo	N	1	O
+12	aunque	aunque	N	1	O
+13	,	,	O	1	O
+14	hay	hay	N	1	O
+15	algunos	algunos	N	1	O
+16	alimentos	alimentos	V	1	O
+17	como	como	N	1	O
+18	frutas	frutas	N	1	O
+19	que	que	V	1	O
+20	se	se	N	1	O
+21	tienen	tienen	G	1	O
+22	que	que	N	1	O
+23	pagar	pagar	N	1	O
+24	.	.	O	1	O
 
-1	Supongo	Supongo	R	1	
-2	que	que	N	1	
-3	es	es	N	1	
-4	devido	devido	V	1	
-5	a	a	D	1	
-6	que	que	G	1	
-7	la	la	D	1	
-8	gente	gente	G	1	
-9	si	si	N	1	
-10	no	no	A	1	
-11	,	,	O	1	
-12	tira	tira	O	1	
-13	demasiada	demasiada	O	1	
-14	comida	comida	O	1	
-15	y	y	G	1	
-16	asi	asi	N	1	
-17	,	,	O	1	
-18	es	es	V	1	
-19	una	una	G	1	
-20	manera	manera	N	1	
-21	de	de	P	1	
-22	regular	regular	G	1	
-23	un	un	G	1	
-24	poco	poco	N	1	
-25	este	este	N	1	
-26	tema	tema	N	1	
-27	.	.	O	1	
+1	Supongo	Supongo	R	1	O
+2	que	que	N	1	O
+3	es	es	N	1	O
+4	devido	devido	V	1	O
+5	a	a	D	1	O
+6	que	que	G	1	O
+7	la	la	D	1	O
+8	gente	gente	G	1	O
+9	si	si	N	1	O
+10	no	no	A	1	O
+11	,	,	O	1	O
+12	tira	tira	O	1	O
+13	demasiada	demasiada	O	1	O
+14	comida	comida	O	1	O
+15	y	y	G	1	O
+16	asi	asi	N	1	O
+17	,	,	O	1	O
+18	es	es	V	1	O
+19	una	una	G	1	O
+20	manera	manera	N	1	O
+21	de	de	P	1	O
+22	regular	regular	G	1	O
+23	un	un	G	1	O
+24	poco	poco	N	1	O
+25	este	este	N	1	O
+26	tema	tema	N	1	O
+27	.	.	O	1	O
 

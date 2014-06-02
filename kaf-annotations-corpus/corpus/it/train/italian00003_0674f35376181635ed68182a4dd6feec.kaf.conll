@@ -1,54 +1,54 @@
-1	Posizione	posizione	N	1	
-2	molto	molto	A	1	
-3	buona	buono	G	1	
-4	,	,	O	1	
-5	ma	ma	Q	1	
-6	personale	personale	G	1	
-7	scortese	scortese	V	1	
-8	.	.	O	1	
+1	Posizione	posizione	N	1	O
+2	molto	molto	A	1	O
+3	buona	buono	G	1	O
+4	,	,	O	1	O
+5	ma	ma	Q	1	O
+6	personale	personale	G	1	O
+7	scortese	scortese	V	1	O
+8	.	.	O	1	O
 
-1	E	e	Q	1	
-2	'	'	Q	1	
-3	in	in	P	1	
-4	una	uno	D	1	
-5	via	via	N	1	
-6	silenziosa	silenzioso	G	1	
-7	comoda	comodo	G	1	
-8	per	per	P	1	
-9	visitare	visitare	V	1	
-10	la	lo	D	1	
-11	città	citta'	N	1	
-12	.	.	O	1	
+1	E	e	Q	1	O
+2	'	'	Q	1	O
+3	in	in	P	1	O
+4	una	uno	D	1	O
+5	via	via	N	1	O
+6	silenziosa	silenzioso	G	1	O
+7	comoda	comodo	G	1	O
+8	per	per	P	1	O
+9	visitare	visitare	V	1	O
+10	la	lo	D	1	O
+11	città	citta'	N	1	O
+12	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	prezzo	prezzo	N	1	
-3	però	però	R	1	
-4	,	,	O	1	
-5	alla	alla	P	1	
-6	luce	luce	N	1	
-7	della	della	P	1	
-8	qualità	qualita'	N	1	
-9	degli	degli	P	1	
-10	interni	interno	N	1	
-11	,	,	O	1	
-12	è	è	N	1	
-13	alto	alto	G	1	
-14	.	.	O	1	
+1	Il	lo	D	1	O
+2	prezzo	prezzo	N	1	O
+3	però	però	R	1	O
+4	,	,	O	1	O
+5	alla	alla	P	1	O
+6	luce	luce	N	1	O
+7	della	della	P	1	O
+8	qualità	qualita'	N	1	O
+9	degli	degli	P	1	O
+10	interni	interno	N	1	O
+11	,	,	O	1	O
+12	è	è	N	1	O
+13	alto	alto	G	1	O
+14	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	N	1	
-3	di	di	P	1	
-4	reception	reception	N	1	
-5	è	è	R	1	
-6	affatto	affatto	A	1	
-7	gentile	gentile	G	1	
-8	e	e	Q	1	
-9	ha	avere	V	1	
-10	una	uno	D	1	
-11	scarsa	scarso	G	1	
-12	conoscenza	conoscenza	N	1	
-13	della	della	P	1	
-14	lingua	lingua	N	1	
-15	inglese	inglese	G	1	
-16	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	N	1	O
+3	di	di	P	1	O
+4	reception	reception	N	1	O
+5	è	è	R	1	O
+6	affatto	affatto	A	1	O
+7	gentile	gentile	G	1	O
+8	e	e	Q	1	O
+9	ha	avere	V	1	O
+10	una	uno	D	1	O
+11	scarsa	scarso	G	1	O
+12	conoscenza	conoscenza	N	1	O
+13	della	della	P	1	O
+14	lingua	lingua	N	1	O
+15	inglese	inglese	G	1	O
+16	.	.	O	1	O
 

@@ -1,124 +1,125 @@
-1	Hôtel	hôtel	N	1	
-2	à	à	P	1	
-3	recommander	recommander	V	1	
-4	,	,	O	1	
-5	très	très	G	1	
-6	bonnes	bon	G	1	
-7	vacances	vacance	N	1	
+1	Hôtel	hôtel	N	1	O
+2	à	à	P	1	O
+3	recommander	recommander	V	1	O
+4	,	,	O	1	O
+5	très	très	G	1	O
+6	bonnes	bon	G	1	O
+7	vacances	vacance	N	1	O
 
-1	séjour	séjour	P	1	
-2	avril_2010	avril_2010	R	1	ne=Date
-3	et	et	C	1	
-4	2011	2011	R	1	ne=Date
-5	,	,	O	1	
-6	hôtel	hôtel	N	1	
-7	très	très	G	1	
-8	beau	beau	G	1	
-9	,	,	O	1	
-10	personnel	personnel	N	1	
-11	de	de	P	1	
-12	réception	réception	N	1	
-13	et	et	C	1	
-14	d'	d'	P	1	
-15	animation	animation	N	1	
-16	ainsi	ainsi	G	1	
-17	qu'	qu'	C	1	
-18	au	au	P	1	
-19	resto	resto	D	1	
-20	super	super	N	1	
-21	,	,	O	1	
-22	seul	seul	G	1	
-23	petit	petit	G	1	
-24	bémol	bémol	N	1	
-25	il	il	Q	1	
-26	est	être	V	1	
-27	vrai	vrai	G	1	
-28	pour	pour	P	1	
-29	1	1	D	1	
-30	pers	pers	N	1	
-31	au	au	P	1	
-32	bar	bar	N	1	
-33	de	de	P	1	
-34	la	le	D	1	
-35	piscine	piscine	N	1	
-36	qui	qui	P	1	
-37	se	se	Q	1	
-38	moquait	moquer	V	1	
-39	dès	dès	P	1	
-40	qu'	qu'	C	1	
-41	on	on	Q	1	
-42	avait	avoir	V	1	
-43	le	le	D	1	
-44	dos	dos	N	1	
-45	tourné	tourner	G	1	
-46	et	et	C	1	
-47	qui	qui	P	1	
-48	affichait	afficher	V	1	
-49	un	un	D	1	
-50	grand	grand	G	1	
-51	sourire	sourire	N	1	
-52	quand	quand	C	1	
-53	le	le	D	1	
-54	russe	russe	N	1	
-55	lui	lui	Q	1	
-56	tandait	tandait	V	1	
-57	le	le	D	1	
-58	gros	gros	G	1	
-59	billet	billet	N	1	
-60	nous	lui	Q	1	
-61	petit	petit	G	1	
-62	français	français	G	1	
-63	c	c	P	1	
-64	pas	pas	G	1	
-65	pareil	pareil	G	1	
-66	.	.	O	1	
+1	séjour	séjour	P	1	O
+2	avril	avril	N	1	I-Date
+3	2010	2010	G	1	I-Date
+4	et	et	C	1	O
+5	2011	2011	R	1	I-Date
+6	,	,	O	1	O
+7	hôtel	hôtel	N	1	O
+8	très	très	G	1	O
+9	beau	beau	G	1	O
+10	,	,	O	1	O
+11	personnel	personnel	N	1	O
+12	de	de	P	1	O
+13	réception	réception	N	1	O
+14	et	et	C	1	O
+15	d'	d'	P	1	O
+16	animation	animation	N	1	O
+17	ainsi	ainsi	G	1	O
+18	qu'	qu'	C	1	O
+19	au	au	P	1	O
+20	resto	resto	D	1	O
+21	super	super	N	1	O
+22	,	,	O	1	O
+23	seul	seul	G	1	O
+24	petit	petit	G	1	O
+25	bémol	bémol	N	1	O
+26	il	il	Q	1	O
+27	est	être	V	1	O
+28	vrai	vrai	G	1	O
+29	pour	pour	P	1	O
+30	1	1	D	1	O
+31	pers	pers	N	1	O
+32	au	au	P	1	O
+33	bar	bar	N	1	O
+34	de	de	P	1	O
+35	la	le	D	1	O
+36	piscine	piscine	N	1	O
+37	qui	qui	P	1	O
+38	se	se	Q	1	O
+39	moquait	moquer	V	1	O
+40	dès	dès	P	1	O
+41	qu'	qu'	C	1	O
+42	on	on	Q	1	O
+43	avait	avoir	V	1	O
+44	le	le	D	1	O
+45	dos	dos	N	1	O
+46	tourné	tourner	G	1	O
+47	et	et	C	1	O
+48	qui	qui	P	1	O
+49	affichait	afficher	V	1	O
+50	un	un	D	1	O
+51	grand	grand	G	1	O
+52	sourire	sourire	N	1	O
+53	quand	quand	C	1	O
+54	le	le	D	1	O
+55	russe	russe	N	1	O
+56	lui	lui	Q	1	O
+57	tandait	tandait	V	1	O
+58	le	le	D	1	O
+59	gros	gros	G	1	O
+60	billet	billet	N	1	O
+61	nous	lui	Q	1	O
+62	petit	petit	G	1	O
+63	français	français	G	1	O
+64	c	c	P	1	O
+65	pas	pas	G	1	O
+66	pareil	pareil	G	1	O
+67	.	.	O	1	O
 
-1	Les	le	D	1	
-2	animateurs	animateur	N	1	
-3	sont	être	V	1	
-4	adorables	adorable	G	1	
-5	à	à	P	1	
-6	n'	n'	G	1	
-7	importe	importe	G	1	
-8	qu'	qu'	P	1	
-9	elle	lui	Q	1	
-10	heure	heure	V	1	
-11	de	de	P	1	
-12	la	le	D	1	
-13	journée	journée	N	1	
-14	,	,	O	1	
-15	ils	ils	Q	1	
-16	ont	avoir	V	1	
-17	vraiment	vraiment	G	1	
-18	beaucoup	beaucoup	G	1	
-19	de	de	P	1	
-20	pêche	pêche	N	1	
-21	et	et	C	1	
-22	s'	s'	Q	1	
-23	efforcent	efforcer	V	1	
-24	de	de	P	1	
-25	faire	faire	V	1	
-26	plaisir	plaisir	V	1	
-27	à	à	P	1	
-28	tout	tout	G	1	
-29	le	le	D	1	
-30	monde	monde	N	1	
-31	petits	petit	G	1	
-32	et	et	C	1	
-33	grands	grand	G	1	
-34	.	.	O	1	
+1	Les	le	D	1	O
+2	animateurs	animateur	N	1	O
+3	sont	être	V	1	O
+4	adorables	adorable	G	1	O
+5	à	à	P	1	O
+6	n'	n'	G	1	O
+7	importe	importe	G	1	O
+8	qu'	qu'	P	1	O
+9	elle	lui	Q	1	O
+10	heure	heure	V	1	O
+11	de	de	P	1	O
+12	la	le	D	1	O
+13	journée	journée	N	1	O
+14	,	,	O	1	O
+15	ils	ils	Q	1	O
+16	ont	avoir	V	1	O
+17	vraiment	vraiment	G	1	O
+18	beaucoup	beaucoup	G	1	O
+19	de	de	P	1	O
+20	pêche	pêche	N	1	O
+21	et	et	C	1	O
+22	s'	s'	Q	1	O
+23	efforcent	efforcer	V	1	O
+24	de	de	P	1	O
+25	faire	faire	V	1	O
+26	plaisir	plaisir	V	1	O
+27	à	à	P	1	O
+28	tout	tout	G	1	O
+29	le	le	D	1	O
+30	monde	monde	N	1	O
+31	petits	petit	G	1	O
+32	et	et	C	1	O
+33	grands	grand	G	1	O
+34	.	.	O	1	O
 
-1	Encore	Encore	G	1	
-2	merci	merci	G	1	
-3	à	à	P	1	
-4	Marco	Marco	R	1	ne=Person
-5	,	,	O	1	
-6	ludivine	ludivine	R	1	ne=Person
-7	et	et	C	1	
-8	tous	tout	G	1	
-9	les	le	D	1	
-10	autres	autre	G	1	
-11	.	.	O	1	
+1	Encore	Encore	G	1	O
+2	merci	merci	G	1	O
+3	à	à	P	1	O
+4	Marco	Marco	R	1	I-Person
+5	,	,	O	1	O
+6	ludivine	ludivine	R	1	I-Person
+7	et	et	C	1	O
+8	tous	tout	G	1	O
+9	les	le	D	1	O
+10	autres	autre	G	1	O
+11	.	.	O	1	O
 
-1	Stéphanie	Stéphanie	R	1	ne=Person
+1	Stéphanie	Stéphanie	R	1	I-Person
 

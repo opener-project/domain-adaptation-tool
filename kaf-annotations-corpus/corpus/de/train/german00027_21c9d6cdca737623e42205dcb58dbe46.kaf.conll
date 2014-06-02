@@ -1,137 +1,137 @@
-1	Nichts	nichts	Q	1	
-2	für	für	P	1	
-3	Familien	Familie	N	1	
-4	mit	mit	P	1	
-5	Kleinkindern	Kleinkind	N	1	
-6	unter	unter	P	1	
-7	3	3	O	1	
-8	Jahre	Jahr	N	1	
+1	Nichts	nichts	Q	1	O
+2	für	für	P	1	O
+3	Familien	Familie	N	1	O
+4	mit	mit	P	1	O
+5	Kleinkindern	Kleinkind	N	1	O
+6	unter	unter	P	1	O
+7	3	3	O	1	O
+8	Jahre	Jahr	N	1	O
 
-1	Vorab	vorab	A	1	
-2	,	,	O	1	
-3	wir	wir	Q	1	
-4	waren	sein	V	1	
-5	nicht	nicht	O	1	
-6	im	in	P	1	
-7	Hotel	Hotel	N	1	
-8	,	,	O	1	
-9	sondern	sondern	C	1	
-10	in	in	P	1	
-11	einem	eine	D	1	
-12	verwohnten	verwohnt	G	1	
-13	und	und	C	1	
-14	unsauberem	unsauber	G	1	
-15	Ferienhaus	Ferienhaus	N	1	
-16	.	.	O	1	
+1	Vorab	vorab	A	1	O
+2	,	,	O	1	O
+3	wir	wir	Q	1	O
+4	waren	sein	V	1	O
+5	nicht	nicht	O	1	O
+6	im	in	P	1	O
+7	Hotel	Hotel	N	1	O
+8	,	,	O	1	O
+9	sondern	sondern	C	1	O
+10	in	in	P	1	O
+11	einem	eine	D	1	O
+12	verwohnten	verwohnt	G	1	O
+13	und	und	C	1	O
+14	unsauberem	unsauber	G	1	O
+15	Ferienhaus	Ferienhaus	N	1	O
+16	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Zustand	Zustand	N	1	
-3	der	die	D	1	
-4	Möbel	Möbel	N	1	
-5	und	und	C	1	
-6	der	die	D	1	
-7	Betten	Bett|Betten	N	1	
-8	ließ	lassen	V	1	
-9	sehr	sehr	A	1	
-10	zu	zu	V	1	
-11	wünschen	wünschen	V	1	
-12	übrig	übrig	G	1	
-13	.	.	O	1	
+1	Der	die	D	1	O
+2	Zustand	Zustand	N	1	O
+3	der	die	D	1	O
+4	Möbel	Möbel	N	1	O
+5	und	und	C	1	O
+6	der	die	D	1	O
+7	Betten	Bett|Betten	N	1	O
+8	ließ	lassen	V	1	O
+9	sehr	sehr	A	1	O
+10	zu	zu	V	1	O
+11	wünschen	wünschen	V	1	O
+12	übrig	übrig	G	1	O
+13	.	.	O	1	O
 
-1	Durchgelegen	durchliegen	V	1	
-2	und	und	C	1	
-3	schmuddelig	schmuddelig	G	1	
-4	!	!	O	1	
-5	!	!	O	1	
+1	Durchgelegen	durchliegen	V	1	O
+2	und	und	C	1	O
+3	schmuddelig	schmuddelig	G	1	O
+4	!	!	O	1	O
+5	!	!	O	1	O
 
-1	Die	die	D	1	
-2	Sauberkeit	Sauberkeit	N	1	
-3	im	in	P	1	
-4	Bad	Bad	R	1	
-5	.....	.....	O	1	
-6	entspricht	entsprechen	V	1	
-7	sicher	sicher	G	1	
-8	nicht	nicht	O	1	
-9	dem	die	D	1	
-10	deutschen	deutsch	G	1	
-11	Standard	Standard	N	1	
-12	!	!	O	1	
-13	!	!	O	1	
-14	!	!	O	1	
+1	Die	die	D	1	O
+2	Sauberkeit	Sauberkeit	N	1	O
+3	im	in	P	1	O
+4	Bad	Bad	R	1	O
+5	.....	.....	O	1	O
+6	entspricht	entsprechen	V	1	O
+7	sicher	sicher	G	1	O
+8	nicht	nicht	O	1	O
+9	dem	die	D	1	O
+10	deutschen	deutsch	G	1	O
+11	Standard	Standard	N	1	O
+12	!	!	O	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
 
-1	Die	die	D	1	
-2	angrenzende	angrenzend	G	1	
-3	Terrasse	Terrasse	N	1	
-4	vor	vor	P	1	
-5	unserem	unser	Q	1	
-6	Wohnzimmer	Wohnzimmer	N	1	
-7	war	sein	V	1	
-8	unsauber	unsauber	G	1	
-9	,	,	O	1	
-10	nicht	nicht	O	1	
-11	gepfelgt	gepfelgt	O	1	
-12	,	,	O	1	
-13	von	von	P	1	
-14	Unkraut	Unkraut	N	1	
-15	überwuchert	überwuchern	V	1	
-16	und	und	C	1	
-17	überall	überall	A	1	
-18	in	in	P	1	
-19	den	die	D	1	
-20	Büschen	Busch	N	1	
-21	lag	liegen	V	1	
-22	Unrat	Unrat	N	1	
-23	.	.	O	1	
+1	Die	die	D	1	O
+2	angrenzende	angrenzend	G	1	O
+3	Terrasse	Terrasse	N	1	O
+4	vor	vor	P	1	O
+5	unserem	unser	Q	1	O
+6	Wohnzimmer	Wohnzimmer	N	1	O
+7	war	sein	V	1	O
+8	unsauber	unsauber	G	1	O
+9	,	,	O	1	O
+10	nicht	nicht	O	1	O
+11	gepfelgt	gepfelgt	O	1	O
+12	,	,	O	1	O
+13	von	von	P	1	O
+14	Unkraut	Unkraut	N	1	O
+15	überwuchert	überwuchern	V	1	O
+16	und	und	C	1	O
+17	überall	überall	A	1	O
+18	in	in	P	1	O
+19	den	die	D	1	O
+20	Büschen	Busch	N	1	O
+21	lag	liegen	V	1	O
+22	Unrat	Unrat	N	1	O
+23	.	.	O	1	O
 
-1	In	in	P	1	
-2	der	die	D	1	
-3	gesamten	gesamt	G	1	
-4	Anlage	Anlage	N	1	
-5	waren	sein	V	1	
-6	"	"	O	1	
-7	Hundeklos	Hundeklo	N	1	
-8	"	"	O	1	
-9	aufgestellt	aufstellen	V	1	
-10	,	,	O	1	
-11	was	was	Q	1	
-12	manche	manche	Q	1	
-13	Besitzer	Besitzer	N	1	
-14	aber	aber	A	1	
-15	nicht	nicht	O	1	
-16	interessierte	interessiert	G	1	
-17	·	·	O	1	
-18	TRETMIENEN	TRETMIENEN	O	1	
-19	waren	sein	V	1	
-20	an	an	P	1	
-21	der	die	D	1	
-22	Tagesordnung	Tagesordnung	N	1	
-23	.	.	O	1	
+1	In	in	P	1	O
+2	der	die	D	1	O
+3	gesamten	gesamt	G	1	O
+4	Anlage	Anlage	N	1	O
+5	waren	sein	V	1	O
+6	"	"	O	1	O
+7	Hundeklos	Hundeklo	N	1	O
+8	"	"	O	1	O
+9	aufgestellt	aufstellen	V	1	O
+10	,	,	O	1	O
+11	was	was	Q	1	O
+12	manche	manche	Q	1	O
+13	Besitzer	Besitzer	N	1	O
+14	aber	aber	A	1	O
+15	nicht	nicht	O	1	O
+16	interessierte	interessiert	G	1	O
+17	·	·	O	1	O
+18	TRETMIENEN	TRETMIENEN	O	1	O
+19	waren	sein	V	1	O
+20	an	an	P	1	O
+21	der	die	D	1	O
+22	Tagesordnung	Tagesordnung	N	1	O
+23	.	.	O	1	O
 
-1	SCHADE	schade	G	1	
-2	für	für	P	1	
-3	die	die	D	1	
-4	anderen	andere	Q	1	
-5	Gäste	Gast	N	1	
-6	,	,	O	1	
-7	egal	egal	G	1	
-8	ob	ob	A	1	
-9	mit	mit	P	1	
-10	oder	oder	C	1	
-11	ohne	ohne	P	1	
-12	Kinder	Kind	N	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
+1	SCHADE	schade	G	1	O
+2	für	für	P	1	O
+3	die	die	D	1	O
+4	anderen	andere	Q	1	O
+5	Gäste	Gast	N	1	O
+6	,	,	O	1	O
+7	egal	egal	G	1	O
+8	ob	ob	A	1	O
+9	mit	mit	P	1	O
+10	oder	oder	C	1	O
+11	ohne	ohne	P	1	O
+12	Kinder	Kind	N	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
 
-1	Hundekacke	Hundekacke	N	1	
-2	unter	unter	P	1	
-3	den	die	D	1	
-4	Schuhen	Schuh	N	1	
-5	ist	sein	V	1	
-6	wiederlich	wiederlich	O	1	
-7	!	!	O	1	
-8	!	!	O	1	
-9	!	!	O	1	
-10	!	!	O	1	
-11	!	!	O	1	
+1	Hundekacke	Hundekacke	N	1	O
+2	unter	unter	P	1	O
+3	den	die	D	1	O
+4	Schuhen	Schuh	N	1	O
+5	ist	sein	V	1	O
+6	wiederlich	wiederlich	O	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
 

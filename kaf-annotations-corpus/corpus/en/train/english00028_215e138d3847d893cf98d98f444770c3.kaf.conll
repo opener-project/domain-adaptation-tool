@@ -1,128 +1,129 @@
-1	Titanic_Mutinee	Titanic_Mutinee	R	1	ne=Hotel
+1	Titanic	Titanic	R	1	I-Hotel
+2	Mutinee	Mutinee	R	1	I-Hotel
 
-1	Clean	clean	G	1	
-2	sizeable	sizeable	G	1	
-3	room	room	N	1	
-4	with	with	P	1	
-5	good	good	G	1	
-6	facilities	facility	N	1	
-7	in	in	P	1	
-8	the	the	D	1	
-9	part	part	N	1	
-10	of	of	P	1	
-11	the	the	D	1	
-12	hotel	hotel	N	1	
-13	we	we	Q	1	
-14	were	be	V	1	
-15	in	in	A	1	
-16	.	.	O	1	
+1	Clean	clean	G	1	O
+2	sizeable	sizeable	G	1	O
+3	room	room	N	1	O
+4	with	with	P	1	O
+5	good	good	G	1	O
+6	facilities	facility	N	1	O
+7	in	in	P	1	O
+8	the	the	D	1	O
+9	part	part	N	1	O
+10	of	of	P	1	O
+11	the	the	D	1	O
+12	hotel	hotel	N	1	O
+13	we	we	Q	1	O
+14	were	be	V	1	O
+15	in	in	A	1	O
+16	.	.	O	1	O
 
-1	There	there	O	1	
-2	were	be	V	1	
-3	larger	larger	G	1	
-4	and	and	C	1	
-5	smaller	smaller	G	1	
-6	rooms	room	N	1	
-7	than	than	P	1	
-8	ours	ours	Q	1	
-9	.	.	O	1	
+1	There	there	O	1	O
+2	were	be	V	1	O
+3	larger	larger	G	1	O
+4	and	and	C	1	O
+5	smaller	smaller	G	1	O
+6	rooms	room	N	1	O
+7	than	than	P	1	O
+8	ours	ours	Q	1	O
+9	.	.	O	1	O
 
-1	We	we	Q	1	
-2	were	be	V	1	
-3	in	in	P	1	
-4	the	the	D	1	
-5	2300	2300	O	1	
-6	range	range	N	1	
-7	of	of	P	1	
-8	rooms	room	N	1	
-9	.	.	O	1	
+1	We	we	Q	1	O
+2	were	be	V	1	O
+3	in	in	P	1	O
+4	the	the	D	1	O
+5	2300	2300	O	1	O
+6	range	range	N	1	O
+7	of	of	P	1	O
+8	rooms	room	N	1	O
+9	.	.	O	1	O
 
-1	Food	Food	R	1	
-2	very	very	A	1	
-3	basic	basic	G	1	
-4	.	.	O	1	
+1	Food	Food	R	1	O
+2	very	very	A	1	O
+3	basic	basic	G	1	O
+4	.	.	O	1	O
 
-1	Although	although	P	1	
-2	edible	edible	G	1	
-3	it	it	Q	1	
-4	was	be	V	1	
-5	very	very	A	1	
-6	very	very	A	1	
-7	borring	borring	V	1	
-8	.	.	O	1	
+1	Although	although	P	1	O
+2	edible	edible	G	1	O
+3	it	it	Q	1	O
+4	was	be	V	1	O
+5	very	very	A	1	O
+6	very	very	A	1	O
+7	borring	borring	V	1	O
+8	.	.	O	1	O
 
-1	The	the	D	1	
-2	all	all	D	1	
-3	inclusive	inclusive	G	1	
-4	spirits	spirit	N	1	
-5	had	have	V	1	
-6	a	a	D	1	
-7	perfume	perfume	G	1	
-8	taste	taste	N	1	
-9	to	to	P	1	
-10	them	them	Q	1	
-11	.	.	O	1	
+1	The	the	D	1	O
+2	all	all	D	1	O
+3	inclusive	inclusive	G	1	O
+4	spirits	spirit	N	1	O
+5	had	have	V	1	O
+6	a	a	D	1	O
+7	perfume	perfume	G	1	O
+8	taste	taste	N	1	O
+9	to	to	P	1	O
+10	them	them	Q	1	O
+11	.	.	O	1	O
 
-1	Vodka	Vodka	R	1	
-2	rum	rum	N	1	
-3	brandy	brandy	N	1	
-4	whisky	whisky	G	1	
-5	although	although	P	1	
-6	were	be	V	1	
-7	diffrent	diffrent	G	1	
-8	had	have	V	1	
-9	a	a	D	1	
-10	similar	similar	G	1	
-11	perfume	perfume	N	1	
-12	flavouring	flavouring	N	1	
-13	.	.	O	1	
+1	Vodka	Vodka	R	1	O
+2	rum	rum	N	1	O
+3	brandy	brandy	N	1	O
+4	whisky	whisky	G	1	O
+5	although	although	P	1	O
+6	were	be	V	1	O
+7	diffrent	diffrent	G	1	O
+8	had	have	V	1	O
+9	a	a	D	1	O
+10	similar	similar	G	1	O
+11	perfume	perfume	N	1	O
+12	flavouring	flavouring	N	1	O
+13	.	.	O	1	O
 
-1	I	i	Q	1	
-2	know	know	V	1	
-3	some	some	D	1	
-4	people	person	N	1	
-5	complained	complain	V	1	
-6	.	.	O	1	
+1	I	i	Q	1	O
+2	know	know	V	1	O
+3	some	some	D	1	O
+4	people	person	N	1	O
+5	complained	complain	V	1	O
+6	.	.	O	1	O
 
-1	Service	service	N	1	
-2	of	of	P	1	
-3	all	all	D	1	
-4	staff	staff	N	1	
-5	was	be	V	1	
-6	wonderful	wonderful	G	1	
-7	.	.	O	1	
+1	Service	service	N	1	O
+2	of	of	P	1	O
+3	all	all	D	1	O
+4	staff	staff	N	1	O
+5	was	be	V	1	O
+6	wonderful	wonderful	G	1	O
+7	.	.	O	1	O
 
-1	But	but	C	1	
-2	a	a	D	1	
-3	lot	lot	N	1	
-4	of	of	P	1	
-5	them	them	Q	1	
-6	let	let	V	1	
-7	you	you	Q	1	
-8	know	know	V	1	
-9	they	they	Q	1	
-10	wanted	want	V	1	
-11	tips	tip	N	1	
-12	.	.	O	1	
+1	But	but	C	1	O
+2	a	a	D	1	O
+3	lot	lot	N	1	O
+4	of	of	P	1	O
+5	them	them	Q	1	O
+6	let	let	V	1	O
+7	you	you	Q	1	O
+8	know	know	V	1	O
+9	they	they	Q	1	O
+10	wanted	want	V	1	O
+11	tips	tip	N	1	O
+12	.	.	O	1	O
 
-1	There	there	O	1	
-2	were	be	V	1	
-3	a	a	D	1	
-4	rody	rody	N	1	
-5	russian	russian	G	1	
-6	contingent	contingent	N	1	
-7	at	at	P	1	
-8	the	the	D	1	
-9	hotel	hotel	N	1	
-10	which	which	O	1	
-11	broke	break	V	1	
-12	out	out	A	1	
-13	in	in	P	1	
-14	fighting	fight	V	1	
-15	on	on	O	1	
-16	at	at	P	1	
-17	least	little	G	1	
-18	one	one	O	1	
-19	occassion	occassion	N	1	
-20	.	.	O	1	
+1	There	there	O	1	O
+2	were	be	V	1	O
+3	a	a	D	1	O
+4	rody	rody	N	1	O
+5	russian	russian	G	1	O
+6	contingent	contingent	N	1	O
+7	at	at	P	1	O
+8	the	the	D	1	O
+9	hotel	hotel	N	1	O
+10	which	which	O	1	O
+11	broke	break	V	1	O
+12	out	out	A	1	O
+13	in	in	P	1	O
+14	fighting	fight	V	1	O
+15	on	on	O	1	O
+16	at	at	P	1	O
+17	least	little	G	1	O
+18	one	one	O	1	O
+19	occassion	occassion	N	1	O
+20	.	.	O	1	O
 

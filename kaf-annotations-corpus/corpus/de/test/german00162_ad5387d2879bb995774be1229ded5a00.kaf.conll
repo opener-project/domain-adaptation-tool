@@ -1,121 +1,121 @@
-1	Schlechtestes	schlecht	G	1	
-2	Hotel	Hotel	N	1	
-3	seit	seit	P	1	
-4	Jahren	Jahr	N	1	
-5	!	!	O	1	
+1	Schlechtestes	schlecht	G	1	O
+2	Hotel	Hotel	N	1	O
+3	seit	seit	P	1	O
+4	Jahren	Jahr	N	1	O
+5	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	,	,	O	1	
-5	obwohl	obwohl	C	1	
-6	es	es	Q	1	
-7	angeblich	angeblich	G	1	
-8	erst	erst	A	1	
-9	3	3	O	1	
-10	Jahre	Jahr	N	1	
-11	alt	alt	G	1	
-12	ist	sein	V	1	
-13	sehr	sehr	A	1	
-14	"	"	O	1	
-15	mitgenommen	mitnehmen	V	1	
-16	"	"	O	1	
-17	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	,	,	O	1	O
+5	obwohl	obwohl	C	1	O
+6	es	es	Q	1	O
+7	angeblich	angeblich	G	1	O
+8	erst	erst	A	1	O
+9	3	3	O	1	O
+10	Jahre	Jahr	N	1	O
+11	alt	alt	G	1	O
+12	ist	sein	V	1	O
+13	sehr	sehr	A	1	O
+14	"	"	O	1	O
+15	mitgenommen	mitnehmen	V	1	O
+16	"	"	O	1	O
+17	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	eine	eine	D	1	
-4	Juniorsuite	Juniorsuite	O	1	
-5	,	,	O	1	
-6	die	die	Q	1	
-7	m.E.	m.e.	P	1	
-8	den	die	D	1	
-9	Namen	Name	N	1	
-10	nicht	nicht	O	1	
-11	verdient	verdienen	V	1	
-12	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	eine	eine	D	1	O
+4	Juniorsuite	Juniorsuite	O	1	O
+5	,	,	O	1	O
+6	die	die	Q	1	O
+7	m.E.	m.e.	P	1	O
+8	den	die	D	1	O
+9	Namen	Name	N	1	O
+10	nicht	nicht	O	1	O
+11	verdient	verdienen	V	1	O
+12	.	.	O	1	O
 
-1	In	in	P	1	
-2	anderen	andere	Q	1	
-3	ägyptischen	ägyptisch	G	1	
-4	Hotels	Hotel	N	1	
-5	machen	machen	V	1	
-6	die	die	D	1	
-7	kleinen	klein	G	1	
-8	Dinge	Ding	N	1	
-9	den	die	D	1	
-10	Unterschied	Unterschied	N	1	
-11	,	,	O	1	
-12	wie	wie	C	1	
-13	z.B.	z.b.	P	1	
-14	die	die	D	1	
-15	gefalteten	gefaltet	G	1	
-16	Handtücher	Handtuch	N	1	
-17	,	,	O	1	
-18	ab	ab	V	1	
-19	und	und	C	1	
-20	an	an	P	1	
-21	eine	eine	D	1	
-22	frische	frisch	G	1	
-23	Blume	Blume	N	1	
-24	auf	auf	P	1	
-25	dem	die	D	1	
-26	ZImmer	Zimmer	N	1	
-27	etc.	etc.	A	1	
-28	das	die	Q	1	
-29	gab	geben	V	1	
-30	es	es	Q	1	
-31	hier	hier	A	1	
-32	gar	gar	A	1	
-33	nicht	nicht	O	1	
-34	.	.	O	1	
+1	In	in	P	1	O
+2	anderen	andere	Q	1	O
+3	ägyptischen	ägyptisch	G	1	O
+4	Hotels	Hotel	N	1	O
+5	machen	machen	V	1	O
+6	die	die	D	1	O
+7	kleinen	klein	G	1	O
+8	Dinge	Ding	N	1	O
+9	den	die	D	1	O
+10	Unterschied	Unterschied	N	1	O
+11	,	,	O	1	O
+12	wie	wie	C	1	O
+13	z.B.	z.b.	P	1	O
+14	die	die	D	1	O
+15	gefalteten	gefaltet	G	1	O
+16	Handtücher	Handtuch	N	1	O
+17	,	,	O	1	O
+18	ab	ab	V	1	O
+19	und	und	C	1	O
+20	an	an	P	1	O
+21	eine	eine	D	1	O
+22	frische	frisch	G	1	O
+23	Blume	Blume	N	1	O
+24	auf	auf	P	1	O
+25	dem	die	D	1	O
+26	ZImmer	Zimmer	N	1	O
+27	etc.	etc.	A	1	O
+28	das	die	Q	1	O
+29	gab	geben	V	1	O
+30	es	es	Q	1	O
+31	hier	hier	A	1	O
+32	gar	gar	A	1	O
+33	nicht	nicht	O	1	O
+34	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Zimmerboy	Zimmerboy	O	1	
-3	hat	haben	V	1	
-4	uns	wir	Q	1	
-5	an	an	P	1	
-6	einem	eine	D	1	
-7	Tag	Tag	N	1	
-8	tatsächlich	tatsächlich	G	1	
-9	gefragt	fragen	V	1	
-10	(	(	O	1	
-11	trotz	trotz	P	1	
-12	Bakschisch	Bakschisch	N	1	
-13	)	)	O	1	
-14	,	,	O	1	
-15	ob	ob	C	1	
-16	er	er	Q	1	
-17	unser	unser	Q	1	
-18	Zimmer	Zimmer	N	1	
-19	auch	auch	A	1	
-20	heute	heute	A	1	
-21	sauber	sauber	G	1	
-22	machen	machen	V	1	
-23	soll	sollen	V	1	
-24	.	.	O	1	
+1	Der	die	D	1	O
+2	Zimmerboy	Zimmerboy	O	1	O
+3	hat	haben	V	1	O
+4	uns	wir	Q	1	O
+5	an	an	P	1	O
+6	einem	eine	D	1	O
+7	Tag	Tag	N	1	O
+8	tatsächlich	tatsächlich	G	1	O
+9	gefragt	fragen	V	1	O
+10	(	(	O	1	O
+11	trotz	trotz	P	1	O
+12	Bakschisch	Bakschisch	N	1	O
+13	)	)	O	1	O
+14	,	,	O	1	O
+15	ob	ob	C	1	O
+16	er	er	Q	1	O
+17	unser	unser	Q	1	O
+18	Zimmer	Zimmer	N	1	O
+19	auch	auch	A	1	O
+20	heute	heute	A	1	O
+21	sauber	sauber	G	1	O
+22	machen	machen	V	1	O
+23	soll	sollen	V	1	O
+24	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	AI	Ai	N	1	
-4	und	und	C	1	
-5	die	die	D	1	
-6	Verpflegung	Verpflegung	N	1	
-7	war	sein	V	1	
-8	schlecht	schlecht	G	1	
-9	!	!	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	AI	Ai	N	1	O
+4	und	und	C	1	O
+5	die	die	D	1	O
+6	Verpflegung	Verpflegung	N	1	O
+7	war	sein	V	1	O
+8	schlecht	schlecht	G	1	O
+9	!	!	O	1	O
 
-1	Im	in	P	1	
-2	Hotel	Hotel	N	1	
-3	waren	sein	V	1	
-4	überwiegend	überwiegend	G	1	
-5	Russen	Russe	N	1	
-6	,	,	O	1	
-7	ein	eine	D	1	
-8	kleiner	klein	G	1	
-9	Teil	Teil	N	1	
-10	Deutsche	Deutsche	N	1	
-11	und	und	C	1	
-12	Engländer	Engländer	N	1	
-13	.	.	O	1	
+1	Im	in	P	1	O
+2	Hotel	Hotel	N	1	O
+3	waren	sein	V	1	O
+4	überwiegend	überwiegend	G	1	O
+5	Russen	Russe	N	1	O
+6	,	,	O	1	O
+7	ein	eine	D	1	O
+8	kleiner	klein	G	1	O
+9	Teil	Teil	N	1	O
+10	Deutsche	Deutsche	N	1	O
+11	und	und	C	1	O
+12	Engländer	Engländer	N	1	O
+13	.	.	O	1	O
 

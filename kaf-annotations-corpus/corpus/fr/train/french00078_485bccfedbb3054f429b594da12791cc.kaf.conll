@@ -1,81 +1,87 @@
-1	Bon	bon	G	1	
-2	rapport	rapport	N	1	
-3	qualité	qualité	N	1	
-4	·	·	P	1	
-5	prix	prix	N	1	
+1	Bon	bon	G	1	O
+2	rapport	rapport	N	1	O
+3	qualité	qualité	N	1	O
+4	·	·	P	1	O
+5	prix	prix	N	1	O
 
-1	chambre	chambre	N	1	
-2	tres	tres	P	1	
-3	sommaire	sommaire	N	1	
-4	mais	mais	C	1	
-5	tres	tres	O	1	
-6	bon	bon	G	1	
-7	marché	marché	N	1	
-8	et	et	C	1	
-9	pas	pas	G	1	
-10	loin	loin	G	1	
-11	du	du	D	1	
-12	centre	centre	N	1	
-13	ville	ville	N	1	
-14	,	,	O	1	
-15	accueil	accueil	N	1	
-16	tres	tres	G	1	
-17	agreable	agreable	G	1	
-18	,	,	O	1	
-19	en	en	P	1	
-20	anglais	anglais	N	1	
-21	pas	pas	G	1	
-22	de	de	P	1	
-23	francais	francais	N	1	
-24	,	,	O	1	
-25	on	on	Q	1	
-26	peu	peu	G	1	
-27	laisser	laisser	V	1	
-28	ses	son	D	1	
-29	bagages	bagage	N	1	
-30	dans	dans	P	1	
-31	une	un	D	1	
-32	pieces	pieces	N	1	
-33	securisé	securisé	G	1	
-34	et	et	C	1	
-35	sous	sous	P	1	
-36	surveilllance	surveilllance	N	1	
-37	,	,	O	1	
-38	pas	pas	G	1	
-39	loin	loin	G	1	
-40	du	du	D	1	
-41	port	port	N	1	
-42	et	et	C	1	
-43	du_parc_de_montjuic	du_parc_de_montjuic	R	1	ne=POI
-44	,	,	O	1	
-45	des	un	D	1	
-46	commerces	commerce	N	1	
-47	a	avoir	V	1	
-48	proximité	proximité	V	1	
-49	,	,	O	1	
-50	des	des	P	1	
-51	restos	restaurant	N	1	
-52	et	et	C	1	
-53	on	on	Q	1	
-54	se	se	Q	1	
-55	sent	sentir	V	1	
-56	bien	bien	G	1	
-57	dans	dans	P	1	
-58	le	le	D	1	
-59	quartier	quartier	N	1	
-60	,	,	O	1	
-61	le	le	D	1	
-62	metro	metro	N	1	
-63	est	être	V	1	
-64	a	avoir	V	1	
-65	meme	meme	P	1	
-66	pas	pas	G	1	
-67	5	5	D	1	
-68	mn	minute	N	1	
-69	a	avoir	V	1	
-70	pied	pied	N	1	
-71	de	de	P	1	
-72	la_pension_peiro	le_pension_peiro	R	1	ne=Hotel
-73	,	,	O	1	
-74	metro_Parallel	metro_Parallel	R	1	ne=POI
+1	chambre	chambre	N	1	O
+2	tres	tres	P	1	O
+3	sommaire	sommaire	N	1	O
+4	mais	mais	C	1	O
+5	tres	tres	O	1	O
+6	bon	bon	G	1	O
+7	marché	marché	N	1	O
+8	et	et	C	1	O
+9	pas	pas	G	1	O
+10	loin	loin	G	1	O
+11	du	du	D	1	O
+12	centre	centre	N	1	O
+13	ville	ville	N	1	O
+14	,	,	O	1	O
+15	accueil	accueil	N	1	O
+16	tres	tres	G	1	O
+17	agreable	agreable	G	1	O
+18	,	,	O	1	O
+19	en	en	P	1	O
+20	anglais	anglais	N	1	O
+21	pas	pas	G	1	O
+22	de	de	P	1	O
+23	francais	francais	N	1	O
+24	,	,	O	1	O
+25	on	on	Q	1	O
+26	peu	peu	G	1	O
+27	laisser	laisser	V	1	O
+28	ses	son	D	1	O
+29	bagages	bagage	N	1	O
+30	dans	dans	P	1	O
+31	une	un	D	1	O
+32	pieces	pieces	N	1	O
+33	securisé	securisé	G	1	O
+34	et	et	C	1	O
+35	sous	sous	P	1	O
+36	surveilllance	surveilllance	N	1	O
+37	,	,	O	1	O
+38	pas	pas	G	1	O
+39	loin	loin	G	1	O
+40	du	du	D	1	O
+41	port	port	N	1	O
+42	et	et	C	1	O
+43	du	du	D	1	I-POI
+44	parc	parc	N	1	I-POI
+45	de	de	P	1	I-POI
+46	montjuic	montjuic	N	1	I-POI
+47	,	,	O	1	O
+48	des	un	D	1	O
+49	commerces	commerce	N	1	O
+50	a	avoir	V	1	O
+51	proximité	proximité	V	1	O
+52	,	,	O	1	O
+53	des	des	P	1	O
+54	restos	restaurant	N	1	O
+55	et	et	C	1	O
+56	on	on	Q	1	O
+57	se	se	Q	1	O
+58	sent	sentir	V	1	O
+59	bien	bien	G	1	O
+60	dans	dans	P	1	O
+61	le	le	D	1	O
+62	quartier	quartier	N	1	O
+63	,	,	O	1	O
+64	le	le	D	1	O
+65	metro	metro	N	1	O
+66	est	être	V	1	O
+67	a	avoir	V	1	O
+68	meme	meme	P	1	O
+69	pas	pas	G	1	O
+70	5	5	D	1	O
+71	mn	minute	N	1	O
+72	a	avoir	V	1	O
+73	pied	pied	N	1	O
+74	de	de	P	1	O
+75	la	le	D	1	I-Hotel
+76	pension	pension	N	1	I-Hotel
+77	peiro	peiro	G	1	I-Hotel
+78	,	,	O	1	O
+79	metro	metro	N	1	I-POI
+80	Parallel	Parallel	N	1	I-POI
 

@@ -1,123 +1,124 @@
-1	Bon	bon	G	1	
-2	camping	camping	N	1	
-3	mais	mais	C	1	
-4	services	service	N	1	
-5	à	à	P	1	
-6	revoir	revoir	V	1	
+1	Bon	bon	G	1	O
+2	camping	camping	N	1	O
+3	mais	mais	C	1	O
+4	services	service	N	1	O
+5	à	à	P	1	O
+6	revoir	revoir	V	1	O
 
-1	Camping	camping	N	1	
-2	bien	bien	G	1	
-3	situé	situer	V	1	
-4	géographiquement	géographiquement	G	1	
-5	et	et	C	1	
-6	plutôt	plutôt	G	1	
-7	correctement	correctement	G	1	
-8	entretenu	entretenir	V	1	
+1	Camping	camping	N	1	O
+2	bien	bien	G	1	O
+3	situé	situer	V	1	O
+4	géographiquement	géographiquement	G	1	O
+5	et	et	C	1	O
+6	plutôt	plutôt	G	1	O
+7	correctement	correctement	G	1	O
+8	entretenu	entretenir	V	1	O
 
-1	Mobil	Mobil	N	1	
-2	home	home	V	1	
-3	bien	bien	G	1	
-4	agence	agence	N	1	
-5	et	et	C	1	
-6	propre	propre	G	1	
-7	à	à	P	1	
-8	notre	son	D	1	
-9	arrivée	arrivé	N	1	
+1	Mobil	Mobil	N	1	O
+2	home	home	V	1	O
+3	bien	bien	G	1	O
+4	agence	agence	N	1	O
+5	et	et	C	1	O
+6	propre	propre	G	1	O
+7	à	à	P	1	O
+8	notre	son	D	1	O
+9	arrivée	arrivé	N	1	O
 
-1	Le	le	D	1	
-2	train	train	N	1	
-3	ni	ni	C	1	
-4	la	le	D	1	
-5	route	route	N	1	
-6	ne	ne	G	1	
-7	sont	être	V	1	
-8	un	un	D	1	
-9	problème	problème	N	1	
+1	Le	le	D	1	O
+2	train	train	N	1	O
+3	ni	ni	C	1	O
+4	la	le	D	1	O
+5	route	route	N	1	O
+6	ne	ne	G	1	O
+7	sont	être	V	1	O
+8	un	un	D	1	O
+9	problème	problème	N	1	O
 
-1	À	À	P	1	
-2	revoir	revoir	V	1	
-3	:	:	O	1	
-4	les	le	D	1	
-5	animations	animation	N	1	
-6	(	(	O	1	
-7	debut	debut	N	1	
-8	a	avoir	V	1	
-9	22_h	22_h	R	1	ne=Time
-10	·	·	G	1	
-11	trop	trop	G	1	
-12	tard	tard	G	1	
-13	si	si	C	1	
-14	les	le	D	1	
-15	enfants	enfant	N	1	
-16	veulent	vouloir	V	1	
-17	participer	participer	V	1	
-18	)	)	O	1	
-19	·	·	O	1	
-20	la	le	D	1	
-21	restauration	restauration	N	1	
-22	(	(	O	1	
-23	trop	trop	G	1	
-24	peu	peu	G	1	
-25	de	de	P	1	
-26	choix	choix	N	1	
-27	)	)	O	1	
-28	·	·	P	1	
-29	le	le	D	1	
-30	service	service	N	1	
-31	au	au	P	1	
-32	bar	bar	N	1	
-33	(	(	O	1	
-34	serveuse	serveur	N	1	
-35	dans	dans	P	1	
-36	une	un	D	1	
-37	tenue	tenue	N	1	
-38	pas	pas	G	1	
-39	adaptée	adapter	V	1	
-40	du	du	P	1	
-41	tout	tout	G	1	
-42	à	à	P	1	
-43	une	un	D	1	
-44	ambiance	ambiance	N	1	
-45	familiale	familial	G	1	
-46	avec	avec	P	1	
-47	des	un	D	1	
-48	enfants	enfant	N	1	
-49	!	!	O	1	
-50	!	!	O	1	
-51	!	!	O	1	
+1	À	À	P	1	O
+2	revoir	revoir	V	1	O
+3	:	:	O	1	O
+4	les	le	D	1	O
+5	animations	animation	N	1	O
+6	(	(	O	1	O
+7	debut	debut	N	1	O
+8	a	avoir	V	1	O
+9	22	22	D	1	I-Time
+10	h	h	N	1	I-Time
+11	·	·	G	1	O
+12	trop	trop	G	1	O
+13	tard	tard	G	1	O
+14	si	si	C	1	O
+15	les	le	D	1	O
+16	enfants	enfant	N	1	O
+17	veulent	vouloir	V	1	O
+18	participer	participer	V	1	O
+19	)	)	O	1	O
+20	·	·	O	1	O
+21	la	le	D	1	O
+22	restauration	restauration	N	1	O
+23	(	(	O	1	O
+24	trop	trop	G	1	O
+25	peu	peu	G	1	O
+26	de	de	P	1	O
+27	choix	choix	N	1	O
+28	)	)	O	1	O
+29	·	·	P	1	O
+30	le	le	D	1	O
+31	service	service	N	1	O
+32	au	au	P	1	O
+33	bar	bar	N	1	O
+34	(	(	O	1	O
+35	serveuse	serveur	N	1	O
+36	dans	dans	P	1	O
+37	une	un	D	1	O
+38	tenue	tenue	N	1	O
+39	pas	pas	G	1	O
+40	adaptée	adapter	V	1	O
+41	du	du	P	1	O
+42	tout	tout	G	1	O
+43	à	à	P	1	O
+44	une	un	D	1	O
+45	ambiance	ambiance	N	1	O
+46	familiale	familial	G	1	O
+47	avec	avec	P	1	O
+48	des	un	D	1	O
+49	enfants	enfant	N	1	O
+50	!	!	O	1	O
+51	!	!	O	1	O
+52	!	!	O	1	O
 
-1	Serveurs	Serveurs	D	1	
-2	traitant	traiter	V	1	
-3	les	le	D	1	
-4	vacanciers	vacancier	N	1	
-5	de	de	P	1	
-6	bidochon	bidochon	N	1	
-7	lors	lors	G	1	
-8	d	d	V	1	
-9	une	un	D	1	
-10	animation	animation	N	1	
-11	·	·	P	1	
-12	le	le	D	1	
-13	laser	laser	N	1	
-14	game	game	V	1	
-15	payant	payant	G	1	
-16	et	et	C	1	
-17	trop	trop	G	1	
-18	dans	dans	P	1	
-19	le	le	D	1	
-20	fond	fond	N	1	
-21	du	du	P	1	
-22	camping	camping	O	1	
+1	Serveurs	Serveurs	D	1	O
+2	traitant	traiter	V	1	O
+3	les	le	D	1	O
+4	vacanciers	vacancier	N	1	O
+5	de	de	P	1	O
+6	bidochon	bidochon	N	1	O
+7	lors	lors	G	1	O
+8	d	d	V	1	O
+9	une	un	D	1	O
+10	animation	animation	N	1	O
+11	·	·	P	1	O
+12	le	le	D	1	O
+13	laser	laser	N	1	O
+14	game	game	V	1	O
+15	payant	payant	G	1	O
+16	et	et	C	1	O
+17	trop	trop	G	1	O
+18	dans	dans	P	1	O
+19	le	le	D	1	O
+20	fond	fond	N	1	O
+21	du	du	P	1	O
+22	camping	camping	O	1	O
 
-1	Dommage	dommage	N	1	
+1	Dommage	dommage	N	1	O
 
-1	Avec	Avec	P	1	
-2	tous	tout	G	1	
-3	ces	ce	D	1	
-4	points	point	N	1	
-5	négatifs	négatif	G	1	
-6	nous	lui	Q	1	
-7	ne	ne	G	1	
-8	reviendrons	revenir	V	1	
-9	pas	pas	G	1	
+1	Avec	Avec	P	1	O
+2	tous	tout	G	1	O
+3	ces	ce	D	1	O
+4	points	point	N	1	O
+5	négatifs	négatif	G	1	O
+6	nous	lui	Q	1	O
+7	ne	ne	G	1	O
+8	reviendrons	revenir	V	1	O
+9	pas	pas	G	1	O
 

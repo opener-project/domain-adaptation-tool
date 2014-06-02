@@ -1,106 +1,106 @@
-1	Sehr	sehr	A	1	
-2	schöner	schön	G	1	
-3	erholsamer	erholsam	G	1	
-4	Urlaub	Urlaub	N	1	
-5	in	in	P	1	
-6	top	top	O	1	
-7	Anlage	Anlage	N	1	
+1	Sehr	sehr	A	1	O
+2	schöner	schön	G	1	O
+3	erholsamer	erholsam	G	1	O
+4	Urlaub	Urlaub	N	1	O
+5	in	in	P	1	O
+6	top	top	O	1	O
+7	Anlage	Anlage	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	in	in	P	1	
-5	einem	eine	D	1	
-6	sehr	sehr	A	1	
-7	gepflegten	gepflegt	G	1	
-8	Zustand	Zustand	N	1	
-9	,	,	O	1	
-10	alles	alle	Q	1	
-11	wird	werden	V	1	
-12	immer	immer	A	1	
-13	sauber	sauber	G	1	
-14	geputzt	putzen	V	1	
-15	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	in	in	P	1	O
+5	einem	eine	D	1	O
+6	sehr	sehr	A	1	O
+7	gepflegten	gepflegt	G	1	O
+8	Zustand	Zustand	N	1	O
+9	,	,	O	1	O
+10	alles	alle	Q	1	O
+11	wird	werden	V	1	O
+12	immer	immer	A	1	O
+13	sauber	sauber	G	1	O
+14	geputzt	putzen	V	1	O
+15	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Garten	Garten	N	1	
-3	des	die	D	1	
-4	Hotels	Hotel	N	1	
-5	ist	sein	V	1	
-6	wunderbar	wunderbar	G	1	
-7	gepflegt	pflegen	V	1	
-8	und	und	C	1	
-9	man	man	Q	1	
-10	sieht	sehen	V	1	
-11	fast	fast	A	1	
-12	täglich	täglich	G	1	
-13	wie	wie	C	1	
-14	die	die	D	1	
-15	Gärtner	Gärtner	N	1	
-16	am	an	P	1	
-17	arbeiten	arbeiten	V	1	
-18	sind	sein	V	1	
-19	.	.	O	1	
+1	Der	die	D	1	O
+2	Garten	Garten	N	1	O
+3	des	die	D	1	O
+4	Hotels	Hotel	N	1	O
+5	ist	sein	V	1	O
+6	wunderbar	wunderbar	G	1	O
+7	gepflegt	pflegen	V	1	O
+8	und	und	C	1	O
+9	man	man	Q	1	O
+10	sieht	sehen	V	1	O
+11	fast	fast	A	1	O
+12	täglich	täglich	G	1	O
+13	wie	wie	C	1	O
+14	die	die	D	1	O
+15	Gärtner	Gärtner	N	1	O
+16	am	an	P	1	O
+17	arbeiten	arbeiten	V	1	O
+18	sind	sein	V	1	O
+19	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Anlage	Anlage	N	1	
-3	ist	sein	V	1	
-4	von	von	P	1	
-5	der	die	D	1	
-6	Größe	Größe	N	1	
-7	noch	noch	A	1	
-8	recht	recht	G	1	
-9	überschaubar	überschaubar	G	1	
-10	und	und	C	1	
-11	es	es	Q	1	
-12	ist	sein	V	1	
-13	sehr	sehr	A	1	
-14	angenehm	angenehm	G	1	
-15	dass	dass	C	1	
-16	alles	alle	Q	1	
-17	in	in	P	1	
-18	diesem	dies	Q	1	
-19	Bungalowstil	Bungalowstil	O	1	
-20	gebaut	bauen	V	1	
-21	wurde	werden	V	1	
-22	.	.	O	1	
+1	Die	die	D	1	O
+2	Anlage	Anlage	N	1	O
+3	ist	sein	V	1	O
+4	von	von	P	1	O
+5	der	die	D	1	O
+6	Größe	Größe	N	1	O
+7	noch	noch	A	1	O
+8	recht	recht	G	1	O
+9	überschaubar	überschaubar	G	1	O
+10	und	und	C	1	O
+11	es	es	Q	1	O
+12	ist	sein	V	1	O
+13	sehr	sehr	A	1	O
+14	angenehm	angenehm	G	1	O
+15	dass	dass	C	1	O
+16	alles	alle	Q	1	O
+17	in	in	P	1	O
+18	diesem	dies	Q	1	O
+19	Bungalowstil	Bungalowstil	O	1	O
+20	gebaut	bauen	V	1	O
+21	wurde	werden	V	1	O
+22	.	.	O	1	O
 
-1	Obwohl	obwohl	C	1	
-2	das	die	D	1	
-3	Hotel	Hotel	N	1	
-4	Ende	Ende	N	1	
-5	Sept.	Sept.	R	1	ne=Date
-6	noch	noch	A	1	
-7	ausgebucht	ausbuchen	V	1	
-8	war	sein	V	1	
-9	,	,	O	1	
-10	ist	sein	V	1	
-11	einem	eine	Q	1	
-12	das	die	D	1	
-13	tagsüber	tagsüber	A	1	
-14	überhaupt	überhaupt	A	1	
-15	nicht	nicht	O	1	
-16	aufgefallen	aufgefallen	V	1	
-17	und	und	C	1	
-18	man	man	Q	1	
-19	hatte	haben	V	1	
-20	immer	immer	A	1	
-21	seine	sein	Q	1	
-22	Ruhe	Ruhe	N	1	
-23	.	.	O	1	
+1	Obwohl	obwohl	C	1	O
+2	das	die	D	1	O
+3	Hotel	Hotel	N	1	O
+4	Ende	Ende	N	1	O
+5	Sept.	Sept.	R	1	I-Date
+6	noch	noch	A	1	O
+7	ausgebucht	ausbuchen	V	1	O
+8	war	sein	V	1	O
+9	,	,	O	1	O
+10	ist	sein	V	1	O
+11	einem	eine	Q	1	O
+12	das	die	D	1	O
+13	tagsüber	tagsüber	A	1	O
+14	überhaupt	überhaupt	A	1	O
+15	nicht	nicht	O	1	O
+16	aufgefallen	aufgefallen	V	1	O
+17	und	und	C	1	O
+18	man	man	Q	1	O
+19	hatte	haben	V	1	O
+20	immer	immer	A	1	O
+21	seine	sein	Q	1	O
+22	Ruhe	Ruhe	N	1	O
+23	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	waren	sein	V	1	
-3	vorwiegend	vorwiegend	G	1	
-4	Deutsche	deutsch	G	1	
-5	Gäste	Gast	N	1	
-6	im	in	P	1	
-7	Hotel	Hotel	N	1	
-8	,	,	O	1	
-9	aber	aber	C	1	
-10	auch	auch	A	1	
-11	Schweizer	Schweizer	N	1	
-12	und	und	C	1	
-13	Österreicher	Österreicher	N	1	
-14	.	.	O	1	
+1	Es	es	Q	1	O
+2	waren	sein	V	1	O
+3	vorwiegend	vorwiegend	G	1	O
+4	Deutsche	deutsch	G	1	O
+5	Gäste	Gast	N	1	O
+6	im	in	P	1	O
+7	Hotel	Hotel	N	1	O
+8	,	,	O	1	O
+9	aber	aber	C	1	O
+10	auch	auch	A	1	O
+11	Schweizer	Schweizer	N	1	O
+12	und	und	C	1	O
+13	Österreicher	Österreicher	N	1	O
+14	.	.	O	1	O
 

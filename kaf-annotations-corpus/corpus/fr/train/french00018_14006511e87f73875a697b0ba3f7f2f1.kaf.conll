@@ -1,82 +1,82 @@
-1	Vreselijk	Vreselijk	N	1	
-2	,	,	O	1	
-3	nooit	nooit	N	1	
-4	meer	meer	G	1	
+1	Vreselijk	Vreselijk	N	1	O
+2	,	,	O	1	O
+3	nooit	nooit	N	1	O
+4	meer	meer	G	1	O
 
-1	camperplaatsen	camperplaatsen	N	1	
-2	lagen	lagen	G	1	
-3	achteraf	achteraf	N	1	
-4	,	,	O	1	
-5	je	je	Q	1	
-6	kon	kon	Q	1	
-7	er	er	V	1	
-8	niet	niet	N	1	
-9	komen	komen	G	1	
-10	zonder	zonder	N	1	
-11	krassen	krassen	G	1	
-12	op	op	O	1	
-13	te	te	Q	1	
-14	lopen	lopen	N	1	
-15	.	.	O	1	
+1	camperplaatsen	camperplaatsen	N	1	O
+2	lagen	lagen	G	1	O
+3	achteraf	achteraf	N	1	O
+4	,	,	O	1	O
+5	je	je	Q	1	O
+6	kon	kon	Q	1	O
+7	er	er	V	1	O
+8	niet	niet	N	1	O
+9	komen	komen	G	1	O
+10	zonder	zonder	N	1	O
+11	krassen	krassen	G	1	O
+12	op	op	O	1	O
+13	te	te	Q	1	O
+14	lopen	lopen	N	1	O
+15	.	.	O	1	O
 
-1	Zelfs	Zelfs	N	1	
-2	in	in	O	1	
-3	naseizoen	naseizoen	O	1	
-4	waren	waren	O	1	
-5	de	de	P	1	
-6	sanitaire	sanitaire	N	1	
-7	voorzieningen	voorzieningen	G	1	
-8	bij	bij	N	1	
-9	lange	langer	V	1	
-10	na	na	V	1	
-11	niet	niet	C	1	
-12	voldoende	voldoende	N	1	
-13	en	en	P	1	
-14	erg	erg	N	1	
-15	ver	ver	G	1	
-16	weg	weg	N	1	
-17	.	.	O	1	
+1	Zelfs	Zelfs	N	1	O
+2	in	in	O	1	O
+3	naseizoen	naseizoen	O	1	O
+4	waren	waren	O	1	O
+5	de	de	P	1	O
+6	sanitaire	sanitaire	N	1	O
+7	voorzieningen	voorzieningen	G	1	O
+8	bij	bij	N	1	O
+9	lange	langer	V	1	O
+10	na	na	V	1	O
+11	niet	niet	C	1	O
+12	voldoende	voldoende	N	1	O
+13	en	en	P	1	O
+14	erg	erg	N	1	O
+15	ver	ver	G	1	O
+16	weg	weg	N	1	O
+17	.	.	O	1	O
 
-1	Camperservice	Camperservice	N	1	
-2	was	was	G	1	
-3	nauwelijks	nauwelijks	N	1	
-4	te	te	Q	1	
-5	bereiken	bereiken	G	1	
-6	,	,	O	1	
-7	als	als	N	1	
-8	je	je	Q	1	
-9	met	mettre	V	1	
-10	een	een	D	1	
-11	kan	kan	N	1	
-12	water	water	V	1	
-13	wilde	wilde	D	1	
-14	halen	halen	N	1	
-15	was	was	P	1	
-16	dat	dat	N	1	
-17	minimaal	minimaal	G	1	
-18	150	150	P	1	
-19	meter	meter	V	1	
-20	lopen	lopen	N	1	
-21	.	.	O	1	
+1	Camperservice	Camperservice	N	1	O
+2	was	was	G	1	O
+3	nauwelijks	nauwelijks	N	1	O
+4	te	te	Q	1	O
+5	bereiken	bereiken	G	1	O
+6	,	,	O	1	O
+7	als	als	N	1	O
+8	je	je	Q	1	O
+9	met	mettre	V	1	O
+10	een	een	D	1	O
+11	kan	kan	N	1	O
+12	water	water	V	1	O
+13	wilde	wilde	D	1	O
+14	halen	halen	N	1	O
+15	was	was	P	1	O
+16	dat	dat	N	1	O
+17	minimaal	minimaal	G	1	O
+18	150	150	P	1	O
+19	meter	meter	V	1	O
+20	lopen	lopen	N	1	O
+21	.	.	O	1	O
 
-1	Slecht	Slecht	N	1	
-2	verlichte	verlichte	V	1	
-3	camping	camping	N	1	
-4	.	.	O	1	
+1	Slecht	Slecht	N	1	O
+2	verlichte	verlichte	V	1	O
+3	camping	camping	N	1	O
+4	.	.	O	1	O
 
-1	Het	Het	N	1	
-2	enige	enige	V	1	
-3	goed	goed	N	1	
-4	was	was	N	1	
-5	de	de	P	1	
-6	ligging	ligging	N	1	
-7	.	.	O	1	
+1	Het	Het	N	1	O
+2	enige	enige	V	1	O
+3	goed	goed	N	1	O
+4	was	was	N	1	O
+5	de	de	P	1	O
+6	ligging	ligging	N	1	O
+7	.	.	O	1	O
 
-1	Heel	Heel	N	1	
-2	veel	veel	G	1	
-3	vaste	vaste	G	1	
-4	plaatsen	plaatsen	N	1	
-5	en	en	P	1	
-6	huisjes	huisjes	N	1	
-7	.	.	O	1	
+1	Heel	Heel	N	1	O
+2	veel	veel	G	1	O
+3	vaste	vaste	G	1	O
+4	plaatsen	plaatsen	N	1	O
+5	en	en	P	1	O
+6	huisjes	huisjes	N	1	O
+7	.	.	O	1	O
 

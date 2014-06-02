@@ -1,163 +1,166 @@
-1	Fascino	fascino	R	1	
-2	e	e	Q	1	
-3	sostanza	sostanza	N	1	
+1	Fascino	fascino	R	1	O
+2	e	e	Q	1	O
+3	sostanza	sostanza	N	1	O
 
-1	E	e	Q	1	
-2	’	’	Q	1	
-3	veramente	veramente	A	1	
-4	un	uno	D	1	
-5	hotel	hotel	N	1	
-6	top	top	N	1	
-7	della	della	P	1	
-8	Versilia	versilia	R	1	ne=POI
-9	.	.	O	1	
+1	E	e	Q	1	O
+2	’	’	Q	1	O
+3	veramente	veramente	A	1	O
+4	un	uno	D	1	O
+5	hotel	hotel	N	1	O
+6	top	top	N	1	O
+7	della	della	P	1	O
+8	Versilia	versilia	R	1	I-POI
+9	.	.	O	1	O
 
-1	Si	si	Q	1	
-2	trova	trovare	V	1	
-3	a	a	P	1	
-4	Viareggio	viareggio	R	1	ne=Location
-5	in	in	P	1	
-6	posizione	posizione	N	1	
-7	decentrata	decentrato	G	1	
-8	dal	dal	P	1	
-9	centro	centro	N	1	
-10	(	(	O	1	
-11	più	piu'	R	1	
-12	vicino	vicino	G	1	
-13	al	al	P	1	
-14	Lido_di_Camaiore	lido_di_camaiore	R	1	ne=Location
-15	)	)	O	1	
-16	.	.	O	1	
+1	Si	si	Q	1	O
+2	trova	trovare	V	1	O
+3	a	a	P	1	O
+4	Viareggio	viareggio	R	1	I-Location
+5	in	in	P	1	O
+6	posizione	posizione	N	1	O
+7	decentrata	decentrato	G	1	O
+8	dal	dal	P	1	O
+9	centro	centro	N	1	O
+10	(	(	O	1	O
+11	più	piu'	R	1	O
+12	vicino	vicino	G	1	O
+13	al	al	P	1	O
+14	Lido	lido	N	1	I-Location
+15	di	di	P	1	I-Location
+16	Camaiore	camaiore	R	1	I-Location
+17	)	)	O	1	O
+18	.	.	O	1	O
 
-1	E	e	Q	1	
-2	’	’	R	1	
-3	veramente	veramente	A	1	
-4	un	uno	D	1	
-5	albergo	albergo	N	1	
-6	di	di	P	1	
-7	fascino	fascino	N	1	
-8	,	,	O	1	
-9	la	lo	D	1	
-10	struttura	struttura	N	1	
-11	è	è	R	1	
-12	dei	dei	P	1	
-13	primi	primo	N	1	
-14	del	del	P	1	
-15	novecento	novecento	N	1	
-16	,	,	O	1	
-17	sapientemente	sapientemente	G	1	
-18	ristrutturata	ristrutturare	V	1	
-19	,	,	O	1	
-20	con	con	P	1	
-21	arredi	arredo	N	1	
-22	originali	originale	N	1	
-23	.	.	O	1	
+1	E	e	Q	1	O
+2	’	’	R	1	O
+3	veramente	veramente	A	1	O
+4	un	uno	D	1	O
+5	albergo	albergo	N	1	O
+6	di	di	P	1	O
+7	fascino	fascino	N	1	O
+8	,	,	O	1	O
+9	la	lo	D	1	O
+10	struttura	struttura	N	1	O
+11	è	è	R	1	O
+12	dei	dei	P	1	O
+13	primi	primo	N	1	O
+14	del	del	P	1	O
+15	novecento	novecento	N	1	O
+16	,	,	O	1	O
+17	sapientemente	sapientemente	G	1	O
+18	ristrutturata	ristrutturare	V	1	O
+19	,	,	O	1	O
+20	con	con	P	1	O
+21	arredi	arredo	N	1	O
+22	originali	originale	N	1	O
+23	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	G	1	
-3	è	è	N	1	
-4	attento	attento	G	1	
-5	ed	ed	Q	1	
-6	abbastanza	abbastanza	A	1	
-7	servizievole	servizievole	G	1	
-8	,	,	O	1	
-9	la	lo	D	1	
-10	colazione	colazione	N	1	
-11	viene	venire	V	1	
-12	data	dare	V	1	
-13	in	in	P	1	
-14	una	uno	D	1	
-15	grandissima	grandissima	G	1	
-16	sala	sala	N	1	
-17	con	con	P	1	
-18	stucchi	stucco	N	1	
-19	ed	ed	Q	1	
-20	è	è	R	1	
-21	ottima	ottimo	G	1	
-22	ed	ed	Q	1	
-23	abbondante	abbondare	V	1	
-24	in	in	P	1	
-25	ogni	ogni	G	1	
-26	settore	settore	N	1	
-27	,	,	O	1	
-28	dal	dal	P	1	
-29	dolce	dolce	N	1	
-30	al	al	P	1	
-31	salato	salato	N	1	
-32	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	G	1	O
+3	è	è	N	1	O
+4	attento	attento	G	1	O
+5	ed	ed	Q	1	O
+6	abbastanza	abbastanza	A	1	O
+7	servizievole	servizievole	G	1	O
+8	,	,	O	1	O
+9	la	lo	D	1	O
+10	colazione	colazione	N	1	O
+11	viene	venire	V	1	O
+12	data	dare	V	1	O
+13	in	in	P	1	O
+14	una	uno	D	1	O
+15	grandissima	grandissima	G	1	O
+16	sala	sala	N	1	O
+17	con	con	P	1	O
+18	stucchi	stucco	N	1	O
+19	ed	ed	Q	1	O
+20	è	è	R	1	O
+21	ottima	ottimo	G	1	O
+22	ed	ed	Q	1	O
+23	abbondante	abbondare	V	1	O
+24	in	in	P	1	O
+25	ogni	ogni	G	1	O
+26	settore	settore	N	1	O
+27	,	,	O	1	O
+28	dal	dal	P	1	O
+29	dolce	dolce	N	1	O
+30	al	al	P	1	O
+31	salato	salato	N	1	O
+32	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	camere	camera	N	1	
-3	sono	essere	V	1	
-4	molto	molto	A	1	
-5	curate	curare	V	1	
-6	e	e	Q	1	
-7	belle	bello	G	1	
-8	,	,	O	1	
-9	anche	anche	Q	1	
-10	quelle	quelle	Q	1	
-11	,	,	O	1	
-12	come	come	Q	1	
-13	la	lo	D	1	
-14	nostra	nostra	Q	1	
-15	,	,	O	1	
-16	che	che	Q	1	
-17	non	non	A	1	
-18	danno	dannare	V	1	
-19	direttamente	direttamente	A	1	
-20	sulla	sulla	P	1	
-21	facciata	facciata	N	1	
-22	a	a	P	1	
-23	mare	mare	N	1	
-24	.	.	O	1	
+1	Le	lo	D	1	O
+2	camere	camera	N	1	O
+3	sono	essere	V	1	O
+4	molto	molto	A	1	O
+5	curate	curare	V	1	O
+6	e	e	Q	1	O
+7	belle	bello	G	1	O
+8	,	,	O	1	O
+9	anche	anche	Q	1	O
+10	quelle	quelle	Q	1	O
+11	,	,	O	1	O
+12	come	come	Q	1	O
+13	la	lo	D	1	O
+14	nostra	nostra	Q	1	O
+15	,	,	O	1	O
+16	che	che	Q	1	O
+17	non	non	A	1	O
+18	danno	dannare	V	1	O
+19	direttamente	direttamente	A	1	O
+20	sulla	sulla	P	1	O
+21	facciata	facciata	N	1	O
+22	a	a	P	1	O
+23	mare	mare	N	1	O
+24	.	.	O	1	O
 
-1	Che	che	Q	1	
-2	dire	dire	V	1	
-3	poi	poi	A	1	
-4	del	del	P	1	
-5	roof	roof	R	1	
-6	.	.	O	1	
+1	Che	che	Q	1	O
+2	dire	dire	V	1	O
+3	poi	poi	A	1	O
+4	del	del	P	1	O
+5	roof	roof	R	1	O
+6	.	.	O	1	O
 
-1	Una	uno	D	1	
-2	vista	vedere	V	1	
-3	eccezionale	eccezionale	G	1	
-4	,	,	O	1	
-5	una	uno	D	1	
-6	bellissima	bellissima	G	1	
-7	piscina	piscina	N	1	
-8	e	e	Q	1	
-9	la	lo	D	1	
-10	cena	cenare	V	1	
-11	con	con	P	1	
-12	davanti	davanti	P	1	
-13	il	lo	D	1	
-14	mare	mare	N	1	
-15	e	e	Q	1	
-16	dietro	dietro	P	1	
-17	le	lo	D	1	
-18	Apuane	apuane	R	1	ne=POI
-19	è	è	R	1	
-20	veramente	veramente	A	1	
-21	mitica	mitico	G	1	
-22	.	.	O	1	
+1	Una	uno	D	1	O
+2	vista	vedere	V	1	O
+3	eccezionale	eccezionale	G	1	O
+4	,	,	O	1	O
+5	una	uno	D	1	O
+6	bellissima	bellissima	G	1	O
+7	piscina	piscina	N	1	O
+8	e	e	Q	1	O
+9	la	lo	D	1	O
+10	cena	cenare	V	1	O
+11	con	con	P	1	O
+12	davanti	davanti	P	1	O
+13	il	lo	D	1	O
+14	mare	mare	N	1	O
+15	e	e	Q	1	O
+16	dietro	dietro	P	1	O
+17	le	lo	D	1	O
+18	Apuane	apuane	R	1	I-POI
+19	è	è	R	1	O
+20	veramente	veramente	A	1	O
+21	mitica	mitico	G	1	O
+22	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	cibo	cibo	N	1	
-3	è	è	R	1	
-4	ottimo	ottimo	G	1	
-5	e	e	Q	1	
-6	curato	curare	V	1	
-7	in	in	P	1	
-8	ogni	ogni	G	1	
-9	particolare	particolare	G	1	
-10	dallo	dallo	P	1	
-11	Chef_Mancino	chef_mancino	R	1	ne=Person
-12	,	,	O	1	
-13	già	già	R	1	
-14	stella	stella	G	1	
-15	Michelin	michelin	R	1	
-16	.	.	O	1	
+1	Il	lo	D	1	O
+2	cibo	cibo	N	1	O
+3	è	è	R	1	O
+4	ottimo	ottimo	G	1	O
+5	e	e	Q	1	O
+6	curato	curare	V	1	O
+7	in	in	P	1	O
+8	ogni	ogni	G	1	O
+9	particolare	particolare	G	1	O
+10	dallo	dallo	P	1	O
+11	Chef	chef	R	1	I-Person
+12	Mancino	mancino	R	1	I-Person
+13	,	,	O	1	O
+14	già	già	R	1	O
+15	stella	stella	G	1	O
+16	Michelin	michelin	R	1	O
+17	.	.	O	1	O
 
-1	Emozionante	emozionare	V	1	
-2	.	.	O	1	
+1	Emozionante	emozionare	V	1	O
+2	.	.	O	1	O
 

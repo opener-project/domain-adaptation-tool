@@ -1,81 +1,81 @@
-1	Muy	Muy	R	1	
-2	confortable	confortable	G	1	
+1	Muy	Muy	R	1	O
+2	confortable	confortable	G	1	O
 
-1	nuestra	nuestra	G	1	
-2	decision	decision	N	1	
-3	al	al	G	1	
-4	elegir	elegir	Q	1	
-5	este	este	N	1	
-6	hotel	hotel	N	1	
-7	fue	fue	N	1	
-8	acertada.	acertada.	O	1	
-9	sin	sin	N	1	
-10	duda	duda	N	1	
-11	repetiremos.	repetiremos.	V	1	
-12	aconsejo	aconsejo	G	1	
-13	probar	probar	N	1	
-14	el	el	N	1	
-15	spa.	spa.	V	1	
-16	a	a	D	1	
-17	nosotros	nosotros	N	1	
-18	nos	nos	O	1	
-19	parecio	parecio	N	1	
-20	super	super	G	1	
-21	·	·	N	1	
-22	relajante	relajante	N	1	
-23	despues	despues	V	1	
-24	de	de	P	1	
-25	un	un	G	1	
-26	dia	dia	N	1	
-27	de	de	P	1	
-28	visita	visita	O	1	
-29	a	a	O	1	
-30	la	la	O	1	
-31	ciudad.	ciudad.	O	1	
-32	tambien	tambien	O	1	
-33	aconsejo	aconsejo	O	1	
-34	solicitar	solicitar	O	1	
-35	todo	todo	O	1	
-36	lo	lo	O	1	
-37	que	que	O	1	
-38	se	se	O	1	
-39	necesite.	necesite.	O	1	
-40	lo	lo	O	1	
-41	suben	suben	O	1	
-42	al	al	G	1	
-43	momento.	momento.	N	1	
-44	tanto	tanto	P	1	
-45	el	el	N	1	
-46	personal	personal	G	1	
-47	de	de	P	1	
-48	limpieza	limpieza	G	1	
-49	como	como	N	1	
-50	el	el	N	1	
-51	de	de	P	1	
-52	recepcion	recepcion	N	1	
-53	muy	muy	G	1	
-54	atentos	atentos	N	1	
-55	y	y	G	1	
-56	serviciales.	serviciales.	N	1	
-57	tiene	tiene	N	1	
-58	en	en	P	1	
-59	el	el	N	1	
-60	miinibar	miinibar	N	1	
-61	4	4	O	1	
-62	aguas	aguas	V	1	
-63	y	y	G	1	
-64	2	2	O	1	
-65	pepsis	pepsis	N	1	
-66	gratuitas	gratuitas	N	1	
-67	y	y	G	1	
-68	tambien	tambien	N	1	
-69	un	un	G	1	
-70	calentador	calentador	O	1	
-71	de	de	O	1	
-72	agua	agua	O	1	
-73	y	y	G	1	
-74	cafes	cafe	N	1	
-75	e	e	V	1	
-76	infusiones	infusiones	N	1	
-77	.	.	O	1	
+1	nuestra	nuestra	G	1	O
+2	decision	decision	N	1	O
+3	al	al	G	1	O
+4	elegir	elegir	Q	1	O
+5	este	este	N	1	O
+6	hotel	hotel	N	1	O
+7	fue	fue	N	1	O
+8	acertada.	acertada.	O	1	O
+9	sin	sin	N	1	O
+10	duda	duda	N	1	O
+11	repetiremos.	repetiremos.	V	1	O
+12	aconsejo	aconsejo	G	1	O
+13	probar	probar	N	1	O
+14	el	el	N	1	O
+15	spa.	spa.	V	1	O
+16	a	a	D	1	O
+17	nosotros	nosotros	N	1	O
+18	nos	nos	O	1	O
+19	parecio	parecio	N	1	O
+20	super	super	G	1	O
+21	·	·	N	1	O
+22	relajante	relajante	N	1	O
+23	despues	despues	V	1	O
+24	de	de	P	1	O
+25	un	un	G	1	O
+26	dia	dia	N	1	O
+27	de	de	P	1	O
+28	visita	visita	O	1	O
+29	a	a	O	1	O
+30	la	la	O	1	O
+31	ciudad.	ciudad.	O	1	O
+32	tambien	tambien	O	1	O
+33	aconsejo	aconsejo	O	1	O
+34	solicitar	solicitar	O	1	O
+35	todo	todo	O	1	O
+36	lo	lo	O	1	O
+37	que	que	O	1	O
+38	se	se	O	1	O
+39	necesite.	necesite.	O	1	O
+40	lo	lo	O	1	O
+41	suben	suben	O	1	O
+42	al	al	G	1	O
+43	momento.	momento.	N	1	O
+44	tanto	tanto	P	1	O
+45	el	el	N	1	O
+46	personal	personal	G	1	O
+47	de	de	P	1	O
+48	limpieza	limpieza	G	1	O
+49	como	como	N	1	O
+50	el	el	N	1	O
+51	de	de	P	1	O
+52	recepcion	recepcion	N	1	O
+53	muy	muy	G	1	O
+54	atentos	atentos	N	1	O
+55	y	y	G	1	O
+56	serviciales.	serviciales.	N	1	O
+57	tiene	tiene	N	1	O
+58	en	en	P	1	O
+59	el	el	N	1	O
+60	miinibar	miinibar	N	1	O
+61	4	4	O	1	O
+62	aguas	aguas	V	1	O
+63	y	y	G	1	O
+64	2	2	O	1	O
+65	pepsis	pepsis	N	1	O
+66	gratuitas	gratuitas	N	1	O
+67	y	y	G	1	O
+68	tambien	tambien	N	1	O
+69	un	un	G	1	O
+70	calentador	calentador	O	1	O
+71	de	de	O	1	O
+72	agua	agua	O	1	O
+73	y	y	G	1	O
+74	cafes	cafe	N	1	O
+75	e	e	V	1	O
+76	infusiones	infusiones	N	1	O
+77	.	.	O	1	O
 

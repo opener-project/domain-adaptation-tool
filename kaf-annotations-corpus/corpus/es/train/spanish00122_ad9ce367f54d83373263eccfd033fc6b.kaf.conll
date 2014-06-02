@@ -1,54 +1,54 @@
-1	Normal	Normal	R	1	
-2	nada	nada	R	1	
-3	que	que	N	1	
-4	destacar	destacar	N	1	
-5	por	por	N	1	
-6	lo	lo	G	1	
-7	que	que	N	1	
-8	nos	nos	N	1	
-9	costo	costo	V	1	
+1	Normal	Normal	R	1	O
+2	nada	nada	R	1	O
+3	que	que	N	1	O
+4	destacar	destacar	N	1	O
+5	por	por	N	1	O
+6	lo	lo	G	1	O
+7	que	que	N	1	O
+8	nos	nos	N	1	O
+9	costo	costo	V	1	O
 
-1	Para	Para	R	1	
-2	el	el	N	1	
-3	precio	precio	N	1	
-4	que	que	N	1	
-5	nos	nos	N	1	
-6	costo	costo	V	1	
-7	no	no	D	1	
-8	estaba	estaba	N	1	
-9	nada	nada	N	1	
-10	mal	mal	G	1	
-11	,	,	O	1	
-12	esta	esta	N	1	
-13	claro	claro	N	1	
-14	que	que	N	1	
-15	sabes	sabes	V	1	
-16	doonde	doonde	G	1	
-17	vas	vas	N	1	
-18	y	y	G	1	
-19	la	la	D	1	
-20	calidad	calidad	V	1	
-21	que	que	G	1	
-22	hay	hay	N	1	
-23	algunos	algunos	N	1	
-24	de	de	P	1	
-25	estos	estos	N	1	
-26	sitios	sitios	N	1	
-27	,	,	O	1	
-28	no	no	D	1	
-29	obstante	obstante	G	1	
-30	lo	lo	G	1	
-31	recomiendo	recomiendo	N	1	
-32	para	para	N	1	
-33	pasar	pasar	N	1	
-34	unos	unos	N	1	
-35	dias	dias	V	1	
-36	de	de	P	1	
-37	relax	relax	G	1	
-38	con	con	G	1	
-39	la	la	N	1	
-40	pareja	pareja	N	1	
-41	o	o	A	1	
-42	familia	familia	N	1	
-43	,	,	O	1	
+1	Para	Para	R	1	O
+2	el	el	N	1	O
+3	precio	precio	N	1	O
+4	que	que	N	1	O
+5	nos	nos	N	1	O
+6	costo	costo	V	1	O
+7	no	no	D	1	O
+8	estaba	estaba	N	1	O
+9	nada	nada	N	1	O
+10	mal	mal	G	1	O
+11	,	,	O	1	O
+12	esta	esta	N	1	O
+13	claro	claro	N	1	O
+14	que	que	N	1	O
+15	sabes	sabes	V	1	O
+16	doonde	doonde	G	1	O
+17	vas	vas	N	1	O
+18	y	y	G	1	O
+19	la	la	D	1	O
+20	calidad	calidad	V	1	O
+21	que	que	G	1	O
+22	hay	hay	N	1	O
+23	algunos	algunos	N	1	O
+24	de	de	P	1	O
+25	estos	estos	N	1	O
+26	sitios	sitios	N	1	O
+27	,	,	O	1	O
+28	no	no	D	1	O
+29	obstante	obstante	G	1	O
+30	lo	lo	G	1	O
+31	recomiendo	recomiendo	N	1	O
+32	para	para	N	1	O
+33	pasar	pasar	N	1	O
+34	unos	unos	N	1	O
+35	dias	dias	V	1	O
+36	de	de	P	1	O
+37	relax	relax	G	1	O
+38	con	con	G	1	O
+39	la	la	N	1	O
+40	pareja	pareja	N	1	O
+41	o	o	A	1	O
+42	familia	familia	N	1	O
+43	,	,	O	1	O
 

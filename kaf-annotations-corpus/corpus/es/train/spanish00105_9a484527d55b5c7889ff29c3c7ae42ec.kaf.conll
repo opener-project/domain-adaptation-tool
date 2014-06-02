@@ -1,133 +1,133 @@
-1	Fin	Fin	R	1	
-2	de	de	O	1	
-3	semana	semana	O	1	
-4	completo	completo	O	1	
+1	Fin	Fin	R	1	O
+2	de	de	O	1	O
+3	semana	semana	O	1	O
+4	completo	completo	O	1	O
 
-1	Hemos	Hemos	R	1	
-2	pasado	pasado	N	1	
-3	dos	dos	N	1	
-4	noches	noches	N	1	
-5	en	en	P	1	
-6	este	este	N	1	
-7	hotel	hotel	N	1	
-8	porque	porque	G	1	
-9	ibamos	ibamos	N	1	
-10	a	a	D	1	
-11	ver	ver	A	1	
-12	un	un	G	1	
-13	par	par	G	1	
-14	de	de	O	1	
-15	espectáculos	espectáculos	O	1	
-16	(	(	O	1	
-17	rey	rey	G	1	
-18	león	león	N	1	
-19	y	y	G	1	
-20	circo	circo	N	1	
-21	del	del	O	1	
-22	sol	sol	V	1	
-23	)	)	O	1	
-24	.	.	O	1	
+1	Hemos	Hemos	R	1	O
+2	pasado	pasado	N	1	O
+3	dos	dos	N	1	O
+4	noches	noches	N	1	O
+5	en	en	P	1	O
+6	este	este	N	1	O
+7	hotel	hotel	N	1	O
+8	porque	porque	G	1	O
+9	ibamos	ibamos	N	1	O
+10	a	a	D	1	O
+11	ver	ver	A	1	O
+12	un	un	G	1	O
+13	par	par	G	1	O
+14	de	de	O	1	O
+15	espectáculos	espectáculos	O	1	O
+16	(	(	O	1	O
+17	rey	rey	G	1	O
+18	león	león	N	1	O
+19	y	y	G	1	O
+20	circo	circo	N	1	O
+21	del	del	O	1	O
+22	sol	sol	V	1	O
+23	)	)	O	1	O
+24	.	.	O	1	O
 
-1	Para	Para	R	1	
-2	empezar	empezar	N	1	
-3	os	os	O	1	
-4	diré	diré	O	1	
-5	que	que	O	1	
-6	por	por	O	1	
-7	ser	ser	O	1	
-8	socio	socio	O	1	
-9	del	del	O	1	
-10	club	club	O	1	
-11	playavip	playavip	O	1	
-12	me	me	O	1	
-13	ofrecieron	ofrecieron	O	1	
-14	una	una	O	1	
-15	habitación	habitación	O	1	
-16	con	con	O	1	
-17	terraza	terraza	O	1	
-18	con	con	O	1	
-19	magníficas	magníficas	O	1	
-20	vistas	vistas	O	1	
-21	a	a	D	1	
-22	Gran	Gran	R	1	
-23	Via	Via	R	1	
-24	,	,	O	1	
-25	además	además	V	1	
-26	nos	nos	N	1	
-27	dieron	dieron	A	1	
-28	una	una	G	1	
-29	entrada	entrada	N	1	
-30	gratuita	gratuita	N	1	
-31	al	al	G	1	
-32	spa	spa	N	1	
-33	.	.	O	1	
+1	Para	Para	R	1	O
+2	empezar	empezar	N	1	O
+3	os	os	O	1	O
+4	diré	diré	O	1	O
+5	que	que	O	1	O
+6	por	por	O	1	O
+7	ser	ser	O	1	O
+8	socio	socio	O	1	O
+9	del	del	O	1	O
+10	club	club	O	1	O
+11	playavip	playavip	O	1	O
+12	me	me	O	1	O
+13	ofrecieron	ofrecieron	O	1	O
+14	una	una	O	1	O
+15	habitación	habitación	O	1	O
+16	con	con	O	1	O
+17	terraza	terraza	O	1	O
+18	con	con	O	1	O
+19	magníficas	magníficas	O	1	O
+20	vistas	vistas	O	1	O
+21	a	a	D	1	O
+22	Gran	Gran	R	1	O
+23	Via	Via	R	1	O
+24	,	,	O	1	O
+25	además	además	V	1	O
+26	nos	nos	N	1	O
+27	dieron	dieron	A	1	O
+28	una	una	G	1	O
+29	entrada	entrada	N	1	O
+30	gratuita	gratuita	N	1	O
+31	al	al	G	1	O
+32	spa	spa	N	1	O
+33	.	.	O	1	O
 
-1	Ni	Ni	R	1	
-2	que	que	N	1	
-3	decir	decir	Q	1	
-4	tiene	tiene	G	1	
-5	que	que	N	1	
-6	la	la	D	1	
-7	ubicación	ubicación	G	1	
-8	del	del	D	1	
-9	hotel	hotel	N	1	
-10	es	es	V	1	
-11	ideal	ideal	G	1	
-12	si	si	N	1	
-13	vas	vas	V	1	
-14	a	a	D	1	
-15	la	la	N	1	
-16	zona	zona	O	1	
-17	de	de	O	1	
-18	los	los	O	1	
-19	teatros	teatros	N	1	
-20	.	.	O	1	
+1	Ni	Ni	R	1	O
+2	que	que	N	1	O
+3	decir	decir	Q	1	O
+4	tiene	tiene	G	1	O
+5	que	que	N	1	O
+6	la	la	D	1	O
+7	ubicación	ubicación	G	1	O
+8	del	del	D	1	O
+9	hotel	hotel	N	1	O
+10	es	es	V	1	O
+11	ideal	ideal	G	1	O
+12	si	si	N	1	O
+13	vas	vas	V	1	O
+14	a	a	D	1	O
+15	la	la	N	1	O
+16	zona	zona	O	1	O
+17	de	de	O	1	O
+18	los	los	O	1	O
+19	teatros	teatros	N	1	O
+20	.	.	O	1	O
 
-1	Precisamente	Precisamente	R	1	
-2	el	el	N	1	
-3	Rey	Rey	R	1	
-4	León	León	R	1	
-5	estaba	estaba	O	1	
-6	justo	justo	O	1	
-7	enfrente	enfrente	O	1	
-8	del	del	O	1	
-9	hotel	hotel	N	1	
-10	.	.	O	1	
+1	Precisamente	Precisamente	R	1	O
+2	el	el	N	1	O
+3	Rey	Rey	R	1	O
+4	León	León	R	1	O
+5	estaba	estaba	O	1	O
+6	justo	justo	O	1	O
+7	enfrente	enfrente	O	1	O
+8	del	del	O	1	O
+9	hotel	hotel	N	1	O
+10	.	.	O	1	O
 
-1	La	La	R	1	
-2	habitación	habitación	N	1	
-3	era	era	N	1	
-4	amplia	amplia	N	1	
-5	y	y	G	1	
-6	acogedora	acogedora	N	1	
-7	,	,	O	1	
-8	el	el	N	1	
-9	baño	baño	O	1	
-10	completo	completo	N	1	
-11	y	y	G	1	
-12	ofrecían	ofrecían	N	1	
-13	minibar	minibar	N	1	
-14	gratuito	gratuito	N	1	
-15	(	(	O	1	
-16	solamente	solamente	G	1	
-17	agua	agua	N	1	
-18	y	y	G	1	
-19	pepsi	pepsi	N	1	
-20	)	)	O	1	
-21	.	.	O	1	
+1	La	La	R	1	O
+2	habitación	habitación	N	1	O
+3	era	era	N	1	O
+4	amplia	amplia	N	1	O
+5	y	y	G	1	O
+6	acogedora	acogedora	N	1	O
+7	,	,	O	1	O
+8	el	el	N	1	O
+9	baño	baño	O	1	O
+10	completo	completo	N	1	O
+11	y	y	G	1	O
+12	ofrecían	ofrecían	N	1	O
+13	minibar	minibar	N	1	O
+14	gratuito	gratuito	N	1	O
+15	(	(	O	1	O
+16	solamente	solamente	G	1	O
+17	agua	agua	N	1	O
+18	y	y	G	1	O
+19	pepsi	pepsi	N	1	O
+20	)	)	O	1	O
+21	.	.	O	1	O
 
-1	En	En	R	1	
-2	definitiva	definitiva	N	1	
-3	,	,	O	1	
-4	que	que	V	1	
-5	salimos	salimos	N	1	
-6	contentos	contentos	O	1	
-7	de	de	O	1	
-8	nuestra	nuestra	O	1	
-9	estancia	estancia	O	1	
-10	.	.	O	1	
+1	En	En	R	1	O
+2	definitiva	definitiva	N	1	O
+3	,	,	O	1	O
+4	que	que	V	1	O
+5	salimos	salimos	N	1	O
+6	contentos	contentos	O	1	O
+7	de	de	O	1	O
+8	nuestra	nuestra	O	1	O
+9	estancia	estancia	O	1	O
+10	.	.	O	1	O
 
-1	Un	un	G	1	
-2	saludo	saludo	N	1	
-3	.	.	O	1	
+1	Un	un	G	1	O
+2	saludo	saludo	N	1	O
+3	.	.	O	1	O
 

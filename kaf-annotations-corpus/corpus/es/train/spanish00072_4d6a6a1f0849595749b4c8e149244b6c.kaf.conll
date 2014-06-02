@@ -1,96 +1,96 @@
-1	Desfavorable	desfavorable	G	1	
+1	Desfavorable	desfavorable	G	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	esta	esta	N	1	
-4	totalmente	totalmente	V	1	
-5	desfasado	desfasado	N	1	
-6	en	en	P	1	
-7	cuanto	cuanto	D	1	
-8	a	a	D	1	
-9	mobiliario	mobiliario	N	1	
-10	y	y	G	1	
-11	instalaciones.El	instalaciones.El	R	1	
-12	aire	aire	N	1	
-13	acondicionado	acondicionado	N	1	
-14	(	(	O	1	
-15	solo	solo	A	1	
-16	hay	hay	N	1	
-17	en	en	P	1	
-18	alguna	alguna	D	1	
-19	habitacion	habitacion	N	1	
-20	)	)	O	1	
-21	metia	metia	N	1	
-22	mucho	mucho	G	1	
-23	ruido	ruido	N	1	
-24	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	esta	esta	N	1	O
+4	totalmente	totalmente	V	1	O
+5	desfasado	desfasado	N	1	O
+6	en	en	P	1	O
+7	cuanto	cuanto	D	1	O
+8	a	a	D	1	O
+9	mobiliario	mobiliario	N	1	O
+10	y	y	G	1	O
+11	instalaciones.El	instalaciones.El	R	1	O
+12	aire	aire	N	1	O
+13	acondicionado	acondicionado	N	1	O
+14	(	(	O	1	O
+15	solo	solo	A	1	O
+16	hay	hay	N	1	O
+17	en	en	P	1	O
+18	alguna	alguna	D	1	O
+19	habitacion	habitacion	N	1	O
+20	)	)	O	1	O
+21	metia	metia	N	1	O
+22	mucho	mucho	G	1	O
+23	ruido	ruido	N	1	O
+24	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	puertas	puertas	V	1	
-3	estaban	estaban	G	1	
-4	podridas	podridas	N	1	
-5	en	en	P	1	
-6	su	su	G	1	
-7	parte	parte	N	1	
-8	inferior	inferior	N	1	
-9	.	.	O	1	
+1	Las	Las	R	1	O
+2	puertas	puertas	V	1	O
+3	estaban	estaban	G	1	O
+4	podridas	podridas	N	1	O
+5	en	en	P	1	O
+6	su	su	G	1	O
+7	parte	parte	N	1	O
+8	inferior	inferior	N	1	O
+9	.	.	O	1	O
 
-1	El	El	R	1	
-2	ascensor	ascensor	P	1	
-3	para	para	G	1	
-4	entre	entre	G	1	
-5	dos	dos	N	1	
-6	plantas	plantas	N	1	
-7	,	,	O	1	
-8	por	por	G	1	
-9	lo	lo	N	1	
-10	que	que	N	1	
-11	tienes	tienes	N	1	
-12	que	que	V	1	
-13	bajar	bajar	G	1	
-14	o	o	P	1	
-15	subir	subir	G	1	
-16	por	por	N	1	
-17	las	las	V	1	
-18	escaleras	escaleras	N	1	
-19	para	para	O	1	
-20	llegar	llegar	V	1	
-21	a	a	D	1	
-22	la	la	N	1	
-23	habitacion	habitacion	N	1	
-24	.	.	O	1	
+1	El	El	R	1	O
+2	ascensor	ascensor	P	1	O
+3	para	para	G	1	O
+4	entre	entre	G	1	O
+5	dos	dos	N	1	O
+6	plantas	plantas	N	1	O
+7	,	,	O	1	O
+8	por	por	G	1	O
+9	lo	lo	N	1	O
+10	que	que	N	1	O
+11	tienes	tienes	N	1	O
+12	que	que	V	1	O
+13	bajar	bajar	G	1	O
+14	o	o	P	1	O
+15	subir	subir	G	1	O
+16	por	por	N	1	O
+17	las	las	V	1	O
+18	escaleras	escaleras	N	1	O
+19	para	para	O	1	O
+20	llegar	llegar	V	1	O
+21	a	a	D	1	O
+22	la	la	N	1	O
+23	habitacion	habitacion	N	1	O
+24	.	.	O	1	O
 
-1	A	a	D	1	
-2	nosotros	nosotros	O	1	
-3	nos	nos	O	1	
-4	cobraron	cobraron	O	1	
-5	de	de	O	1	
-6	mas	mas	O	1	
-7	del	del	O	1	
-8	precio	precio	O	1	
-9	acordado.Y	acordado.y	O	1	
-10	sobre	sobre	O	1	
-11	todo	todo	O	1	
-12	en	en	O	1	
-13	la	la	O	1	
-14	habitaciones	habitaciones	N	1	
-15	HAY	HAY	R	1	
-16	PULGAS	PULGAS	R	1	
-17	.	.	O	1	
+1	A	a	D	1	O
+2	nosotros	nosotros	O	1	O
+3	nos	nos	O	1	O
+4	cobraron	cobraron	O	1	O
+5	de	de	O	1	O
+6	mas	mas	O	1	O
+7	del	del	O	1	O
+8	precio	precio	O	1	O
+9	acordado.Y	acordado.y	O	1	O
+10	sobre	sobre	O	1	O
+11	todo	todo	O	1	O
+12	en	en	O	1	O
+13	la	la	O	1	O
+14	habitaciones	habitaciones	N	1	O
+15	HAY	HAY	R	1	O
+16	PULGAS	PULGAS	R	1	O
+17	.	.	O	1	O
 
-1	Mi	Mi	R	1	
-2	señora	señora	O	1	
-3	tuvo	tuvo	O	1	
-4	que	que	O	1	
-5	ir	ir	O	1	
-6	a	a	O	1	
-7	urgencias	urgencias	O	1	
-8	pues	pues	O	1	
-9	es	es	O	1	
-10	alergica	alergica	O	1	
-11	a	a	O	1	
-12	las	las	O	1	
-13	mismas	mismas	O	1	
-14	,	,	O	1	
-15	.,	.,	O	1	
+1	Mi	Mi	R	1	O
+2	señora	señora	O	1	O
+3	tuvo	tuvo	O	1	O
+4	que	que	O	1	O
+5	ir	ir	O	1	O
+6	a	a	O	1	O
+7	urgencias	urgencias	O	1	O
+8	pues	pues	O	1	O
+9	es	es	O	1	O
+10	alergica	alergica	O	1	O
+11	a	a	O	1	O
+12	las	las	O	1	O
+13	mismas	mismas	O	1	O
+14	,	,	O	1	O
+15	.,	.,	O	1	O
 

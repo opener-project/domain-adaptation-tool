@@ -1,120 +1,120 @@
-1	Usine	usine	N	1	
-2	à	à	P	1	
-3	fric	fric	N	1	
+1	Usine	usine	N	1	O
+2	à	à	P	1	O
+3	fric	fric	N	1	O
 
-1	il	il	Q	1	
-2	est	être	V	1	
-3	vrai	vrai	G	1	
-4	que	que	C	1	
-5	nous	lui	Q	1	
-6	étions	être	V	1	
-7	à	à	P	1	
-8	VEGAS	VEGAS	R	1	ne=Location
-9	,	,	O	1	
-10	mais	mais	C	1	
-11	vu	voir	V	1	
-12	le	le	D	1	
-13	prix	prix	N	1	
-14	des	des	P	1	
-15	chambres	chambre	N	1	
-16	et	et	C	1	
-17	la	le	D	1	
-18	taille	taille	N	1	
-19	de	de	P	1	
-20	l'	le	D	1	
-21	hotel	hotel	N	1	
-22	,	,	O	1	
-23	ai	avoir	V	1	
-24	trouvé	trouver	V	1	
-25	dommage	dommage	N	1	
-26	que	que	C	1	
-27	l'	le	D	1	
-28	accès	accès	N	1	
-29	internet	internet	G	1	
-30	soit	être	V	1	
-31	payant	payer	V	1	
-32	!	!	O	1	
+1	il	il	Q	1	O
+2	est	être	V	1	O
+3	vrai	vrai	G	1	O
+4	que	que	C	1	O
+5	nous	lui	Q	1	O
+6	étions	être	V	1	O
+7	à	à	P	1	O
+8	VEGAS	VEGAS	R	1	I-Location
+9	,	,	O	1	O
+10	mais	mais	C	1	O
+11	vu	voir	V	1	O
+12	le	le	D	1	O
+13	prix	prix	N	1	O
+14	des	des	P	1	O
+15	chambres	chambre	N	1	O
+16	et	et	C	1	O
+17	la	le	D	1	O
+18	taille	taille	N	1	O
+19	de	de	P	1	O
+20	l'	le	D	1	O
+21	hotel	hotel	N	1	O
+22	,	,	O	1	O
+23	ai	avoir	V	1	O
+24	trouvé	trouver	V	1	O
+25	dommage	dommage	N	1	O
+26	que	que	C	1	O
+27	l'	le	D	1	O
+28	accès	accès	N	1	O
+29	internet	internet	G	1	O
+30	soit	être	V	1	O
+31	payant	payer	V	1	O
+32	!	!	O	1	O
 
-1	ai	avoir	V	1	
-2	trouvé	trouver	V	1	
-3	la	le	D	1	
-4	chambre	chambre	N	1	
-5	petite	petit	G	1	
-6	,	,	O	1	
-7	pour	pour	P	1	
-8	une	un	D	1	
-9	double.	double.	G	1	
-10	déco	déco	N	1	
-11	vieillote	vieillote	G	1	
-12	,	,	O	1	
-13	la	le	D	1	
-14	nourriture	nourriture	N	1	
-15	cher	cher	G	1	
-16	pour	pour	P	1	
-17	rien.et	rien.et	P	1	
-18	si	si	C	1	
-19	vous	lui	Q	1	
-20	ne	ne	G	1	
-21	jouez	jouer	V	1	
-22	pas	pas	G	1	
-23	,	,	O	1	
-24	vous	lui	Q	1	
-25	vous	lui	Q	1	
-26	ennuyez	ennuyer	V	1	
-27	à	à	P	1	
-28	mourir	mourir	V	1	
-29	,	,	O	1	
-30	j'	j'	Q	1	
-31	y	y	Q	1	
-32	étais	être	V	1	
-33	suite	suite	N	1	
-34	à	à	P	1	
-35	un	un	D	1	
-36	challenge	challenge	N	1	
-37	du	du	P	1	
-38	boulot	boulot	N	1	
-39	,	,	O	1	
-40	les	le	D	1	
-41	machines	machine	N	1	
-42	à	à	P	1	
-43	sous	sou	N	1	
-44	et	et	C	1	
-45	l'	le	D	1	
-46	éxubérance	éxubérance	N	1	
-47	,	,	O	1	
-48	le	le	D	1	
-49	bruit	bruit	N	1	
-50	,	,	O	1	
-51	la	le	D	1	
-52	longue	long	G	1	
-53	file	file	N	1	
-54	d'	d'	P	1	
-55	attente	attente	N	1	
-56	pour	pour	P	1	
-57	accéder	accéder	V	1	
-58	à	à	P	1	
-59	la	le	D	1	
-60	salle	salle	N	1	
-61	pour	pour	P	1	
-62	le	le	D	1	
-63	petit	petit	G	1	
-64	dej	déjeuner	N	1	
-65	,	,	O	1	
-66	le	le	D	1	
-67	plus	plus	G	1	
-68	beau	beau	G	1	
-69	le	le	D	1	
-70	spectacle	spectacle	N	1	
-71	des	des	P	1	
-72	jets	jet	N	1	
-73	d'	d'	P	1	
-74	eaux	eau	N	1	
-75	,	,	O	1	
-76	mais	mais	C	1	
-77	bon	bon	G	1	
-78	sur	sur	P	1	
-79	5	5	D	1	
-80	jours	jour	N	1	
-81	barbant	barber	V	1	
-82	.....	.....	O	1	
+1	ai	avoir	V	1	O
+2	trouvé	trouver	V	1	O
+3	la	le	D	1	O
+4	chambre	chambre	N	1	O
+5	petite	petit	G	1	O
+6	,	,	O	1	O
+7	pour	pour	P	1	O
+8	une	un	D	1	O
+9	double.	double.	G	1	O
+10	déco	déco	N	1	O
+11	vieillote	vieillote	G	1	O
+12	,	,	O	1	O
+13	la	le	D	1	O
+14	nourriture	nourriture	N	1	O
+15	cher	cher	G	1	O
+16	pour	pour	P	1	O
+17	rien.et	rien.et	P	1	O
+18	si	si	C	1	O
+19	vous	lui	Q	1	O
+20	ne	ne	G	1	O
+21	jouez	jouer	V	1	O
+22	pas	pas	G	1	O
+23	,	,	O	1	O
+24	vous	lui	Q	1	O
+25	vous	lui	Q	1	O
+26	ennuyez	ennuyer	V	1	O
+27	à	à	P	1	O
+28	mourir	mourir	V	1	O
+29	,	,	O	1	O
+30	j'	j'	Q	1	O
+31	y	y	Q	1	O
+32	étais	être	V	1	O
+33	suite	suite	N	1	O
+34	à	à	P	1	O
+35	un	un	D	1	O
+36	challenge	challenge	N	1	O
+37	du	du	P	1	O
+38	boulot	boulot	N	1	O
+39	,	,	O	1	O
+40	les	le	D	1	O
+41	machines	machine	N	1	O
+42	à	à	P	1	O
+43	sous	sou	N	1	O
+44	et	et	C	1	O
+45	l'	le	D	1	O
+46	éxubérance	éxubérance	N	1	O
+47	,	,	O	1	O
+48	le	le	D	1	O
+49	bruit	bruit	N	1	O
+50	,	,	O	1	O
+51	la	le	D	1	O
+52	longue	long	G	1	O
+53	file	file	N	1	O
+54	d'	d'	P	1	O
+55	attente	attente	N	1	O
+56	pour	pour	P	1	O
+57	accéder	accéder	V	1	O
+58	à	à	P	1	O
+59	la	le	D	1	O
+60	salle	salle	N	1	O
+61	pour	pour	P	1	O
+62	le	le	D	1	O
+63	petit	petit	G	1	O
+64	dej	déjeuner	N	1	O
+65	,	,	O	1	O
+66	le	le	D	1	O
+67	plus	plus	G	1	O
+68	beau	beau	G	1	O
+69	le	le	D	1	O
+70	spectacle	spectacle	N	1	O
+71	des	des	P	1	O
+72	jets	jet	N	1	O
+73	d'	d'	P	1	O
+74	eaux	eau	N	1	O
+75	,	,	O	1	O
+76	mais	mais	C	1	O
+77	bon	bon	G	1	O
+78	sur	sur	P	1	O
+79	5	5	D	1	O
+80	jours	jour	N	1	O
+81	barbant	barber	V	1	O
+82	.....	.....	O	1	O
 

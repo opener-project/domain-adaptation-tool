@@ -1,114 +1,117 @@
-1	Gut	gut	G	1	
-2	aber	aber	A	1	
-3	keine	keine	Q	1	
-4	4	4	O	1	
-5	+	+	C	1	
-6	Sterne	Stern	N	1	
+1	Gut	gut	G	1	O
+2	aber	aber	A	1	O
+3	keine	keine	Q	1	O
+4	4	4	O	1	O
+5	+	+	C	1	O
+6	Sterne	Stern	N	1	O
 
-1	Die	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	sind	sein	V	1	
-4	geräumig	geräumig	G	1	
-5	,	,	O	1	
-6	aber	aber	A	1	
-7	renovierungsbedürftig	renovierungsbedürftig	G	1	
-8	wie	wie	C	1	
-9	das	die	D	1	
-10	gesamte	gesamt	G	1	
-11	Hotel	Hotel	N	1	
-12	.	.	O	1	
+1	Die	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	sind	sein	V	1	O
+4	geräumig	geräumig	G	1	O
+5	,	,	O	1	O
+6	aber	aber	A	1	O
+7	renovierungsbedürftig	renovierungsbedürftig	G	1	O
+8	wie	wie	C	1	O
+9	das	die	D	1	O
+10	gesamte	gesamt	G	1	O
+11	Hotel	Hotel	N	1	O
+12	.	.	O	1	O
 
-1	Eher	eher	A	1	
-2	schmucklos	schmucklos	G	1	
-3	.	.	O	1	
+1	Eher	eher	A	1	O
+2	schmucklos	schmucklos	G	1	O
+3	.	.	O	1	O
 
-1	Sie	Sie|sie	Q	1	
-2	sind	sein	V	1	
-3	sauber	sauber	G	1	
-4	,	,	O	1	
-5	was	was	Q	1	
-6	man	man	Q	1	
-7	von	von	P	1	
-8	den	die	D	1	
-9	Tischen	Tisch	N	1	
-10	der	die	D	1	
-11	Restaurants	Restaurant	N	1	
-12	nicht	nicht	O	1	
-13	immer	immer	A	1	
-14	behaupten	behaupten	V	1	
-15	kann	können	V	1	
-16	.	.	O	1	
+1	Sie	Sie|sie	Q	1	O
+2	sind	sein	V	1	O
+3	sauber	sauber	G	1	O
+4	,	,	O	1	O
+5	was	was	Q	1	O
+6	man	man	Q	1	O
+7	von	von	P	1	O
+8	den	die	D	1	O
+9	Tischen	Tisch	N	1	O
+10	der	die	D	1	O
+11	Restaurants	Restaurant	N	1	O
+12	nicht	nicht	O	1	O
+13	immer	immer	A	1	O
+14	behaupten	behaupten	V	1	O
+15	kann	können	V	1	O
+16	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Essen	Essen	N	1	
-3	ist	sein	V	1	
-4	ausgezeichnet	auszeichnen	V	1	
-5	,	,	O	1	
-6	doch	doch	C	1	
-7	sind	sein	V	1	
-8	die	die	D	1	
-9	Preise	Preis	N	1	
-10	für	für	P	1	
-11	Getränke	Getränk	N	1	
-12	unglaublich	unglaublich	G	1	
-13	überteuert	überteuern	V	1	
-14	.	.	O	1	
+1	Das	die	D	1	O
+2	Essen	Essen	N	1	O
+3	ist	sein	V	1	O
+4	ausgezeichnet	auszeichnen	V	1	O
+5	,	,	O	1	O
+6	doch	doch	C	1	O
+7	sind	sein	V	1	O
+8	die	die	D	1	O
+9	Preise	Preis	N	1	O
+10	für	für	P	1	O
+11	Getränke	Getränk	N	1	O
+12	unglaublich	unglaublich	G	1	O
+13	überteuert	überteuern	V	1	O
+14	.	.	O	1	O
 
-1	Ein	eine	D	1	
-2	Cappu	Cappu	O	1	
-3	koset	koset	O	1	
-4	z.B.	z.b.	P	1	
-5	mehr	mehr	A	1	
-6	als	als	C	1	
-7	4_Euro	4_Euro	R	1	ne=Money
-8	!	!	O	1	
+1	Ein	eine	D	1	O
+2	Cappu	Cappu	O	1	O
+3	koset	koset	O	1	O
+4	z.B.	z.b.	P	1	O
+5	mehr	mehr	A	1	O
+6	als	als	C	1	O
+7	4	4	O	1	I-Money
+8	Euro	Euro	N	1	I-Money
+9	!	!	O	1	O
 
-1	Soviel	soviele	Q	1	
-2	nehmen	nehmen	V	1	
-3	nochnicht	nochnicht	O	1	
-4	einmal	einmal	A	1	
-5	das	die	D	1	
-6	Airport	Airport	N	1	
-7	·	·	O	1	
-8	Restaurant	Restaurant	N	1	
-9	oder	oder	C	1	
-10	das	die	D	1	
-11	altehrwürdige	altehrwürdig	G	1	
-12	Tophotel_Galle_Face	Tophotel_Galle_Face	R	1	ne=Hotel
-13	in	in	P	1	
-14	Colombo	Colombo	R	1	ne=Location
-15	.	.	O	1	
+1	Soviel	soviele	Q	1	O
+2	nehmen	nehmen	V	1	O
+3	nochnicht	nochnicht	O	1	O
+4	einmal	einmal	A	1	O
+5	das	die	D	1	O
+6	Airport	Airport	N	1	O
+7	·	·	O	1	O
+8	Restaurant	Restaurant	N	1	O
+9	oder	oder	C	1	O
+10	das	die	D	1	O
+11	altehrwürdige	altehrwürdig	G	1	O
+12	Tophotel	Tophotel	O	1	I-Hotel
+13	Galle	Galle	N	1	I-Hotel
+14	Face	Face	N	1	I-Hotel
+15	in	in	P	1	O
+16	Colombo	Colombo	R	1	I-Location
+17	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Mischung	Mischung	N	1	
-3	der	die	D	1	
-4	Gäste	Gast	N	1	
-5	ist	sein	V	1	
-6	international	international	G	1	
-7	und	und	C	1	
-8	hat	haben	V	1	
-9	Niveau	Niveau	N	1	
-10	.	.	O	1	
+1	Die	die	D	1	O
+2	Mischung	Mischung	N	1	O
+3	der	die	D	1	O
+4	Gäste	Gast	N	1	O
+5	ist	sein	V	1	O
+6	international	international	G	1	O
+7	und	und	C	1	O
+8	hat	haben	V	1	O
+9	Niveau	Niveau	N	1	O
+10	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Alter	Alter	N	1	
-3	der	die	D	1	
-4	Gäste	Gast	N	1	
-5	reicht	reichen	V	1	
-6	von	von	P	1	
-7	Kleinkindern	Kleinkind	N	1	
-8	bis	bis	P	1	
-9	60	60	O	1	
-10	+	+	C	1	
-11	.	.	O	1	
+1	Das	die	D	1	O
+2	Alter	Alter	N	1	O
+3	der	die	D	1	O
+4	Gäste	Gast	N	1	O
+5	reicht	reichen	V	1	O
+6	von	von	P	1	O
+7	Kleinkindern	Kleinkind	N	1	O
+8	bis	bis	P	1	O
+9	60	60	O	1	O
+10	+	+	C	1	O
+11	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	ist	sein	V	1	
-3	bei	bei	P	1	
-4	Einheimischen	Einheimische	N	1	
-5	als	als	C	1	
-6	Hochzeitslokalität	Hochzeitslokalität	O	1	
-7	sehr	sehr	A	1	
-8	beliebt	belieben	V	1	
-9	.	.	O	1	
+1	Es	es	Q	1	O
+2	ist	sein	V	1	O
+3	bei	bei	P	1	O
+4	Einheimischen	Einheimische	N	1	O
+5	als	als	C	1	O
+6	Hochzeitslokalität	Hochzeitslokalität	O	1	O
+7	sehr	sehr	A	1	O
+8	beliebt	belieben	V	1	O
+9	.	.	O	1	O
 

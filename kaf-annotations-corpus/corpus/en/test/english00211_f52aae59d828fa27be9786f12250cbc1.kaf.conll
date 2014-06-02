@@ -1,138 +1,140 @@
-1	Ancient	ancient	G	1	
-2	charme	charme	N	1	
-3	outside	outside	N	1	
-4	,	,	O	1	
-5	very	very	A	1	
-6	modern	modern	G	1	
-7	inside	inside	P	1	
+1	Ancient	ancient	G	1	O
+2	charme	charme	N	1	O
+3	outside	outside	N	1	O
+4	,	,	O	1	O
+5	very	very	A	1	O
+6	modern	modern	G	1	O
+7	inside	inside	P	1	O
 
-1	Great	great	G	1	
-2	place	place	N	1	
-3	to	to	P	1	
-4	stay	stay	V	1	
-5	for	for	P	1	
-6	extended	extended	G	1	
-7	weekend	weekend	N	1	
-8	.	.	O	1	
+1	Great	great	G	1	O
+2	place	place	N	1	O
+3	to	to	P	1	O
+4	stay	stay	V	1	O
+5	for	for	P	1	O
+6	extended	extended	G	1	O
+7	weekend	weekend	N	1	O
+8	.	.	O	1	O
 
-1	Perfect	Perfect	R	1	
-2	location	location	N	1	
-3	allows	allow	V	1	
-4	to	to	P	1	
-5	visit	visit	V	1	
-6	all	all	D	1	
-7	interested	interested	G	1	
-8	places	place	N	1	
-9	in	in	P	1	
-10	Barcelona	Barcelona	R	1	ne=Location
-11	.	.	O	1	
+1	Perfect	Perfect	R	1	O
+2	location	location	N	1	O
+3	allows	allow	V	1	O
+4	to	to	P	1	O
+5	visit	visit	V	1	O
+6	all	all	D	1	O
+7	interested	interested	G	1	O
+8	places	place	N	1	O
+9	in	in	P	1	O
+10	Barcelona	Barcelona	R	1	I-Location
+11	.	.	O	1	O
 
-1	As	as	A	1	
-2	breakfast	breakfast	N	1	
-3	in	in	P	1	
-4	the	the	D	1	
-5	hotel	hotel	N	1	
-6	was	be	V	1	
-7	an	a	D	1	
-8	expensive	expensive	G	1	
-9	option	option	N	1	
-10	,	,	O	1	
-11	we	we	Q	1	
-12	decided	decide	V	1	
-13	to	to	P	1	
-14	go	go	V	1	
-15	to	to	P	1	
-16	famous_Cafe_Zurich	famous_Cafe_Zurich	R	1	ne=Attraction
-17	(	(	O	1	
-18	100	100	O	1	
-19	meters	meter	N	1	
-20	only	only	A	1	
-21	)	)	O	1	
-22	every	every	D	1	
-23	morning	morning	N	1	
-24	and	and	C	1	
-25	enjoy	enjoy	N	1	
-26	lovely	lovely	A	1	
-27	weather	weather	N	1	
-28	and	and	C	1	
-29	many	many	G	1	
-30	peple	peple	N	1	
-31	going	go	V	1	
-32	around	around	A	1	
-33	.	.	O	1	
+1	As	as	A	1	O
+2	breakfast	breakfast	N	1	O
+3	in	in	P	1	O
+4	the	the	D	1	O
+5	hotel	hotel	N	1	O
+6	was	be	V	1	O
+7	an	a	D	1	O
+8	expensive	expensive	G	1	O
+9	option	option	N	1	O
+10	,	,	O	1	O
+11	we	we	Q	1	O
+12	decided	decide	V	1	O
+13	to	to	P	1	O
+14	go	go	V	1	O
+15	to	to	P	1	O
+16	famous	famous	G	1	I-Attraction
+17	Cafe	Cafe	R	1	I-Attraction
+18	Zurich	Zurich	R	1	I-Attraction
+19	(	(	O	1	O
+20	100	100	O	1	O
+21	meters	meter	N	1	O
+22	only	only	A	1	O
+23	)	)	O	1	O
+24	every	every	D	1	O
+25	morning	morning	N	1	O
+26	and	and	C	1	O
+27	enjoy	enjoy	N	1	O
+28	lovely	lovely	A	1	O
+29	weather	weather	N	1	O
+30	and	and	C	1	O
+31	many	many	G	1	O
+32	peple	peple	N	1	O
+33	going	go	V	1	O
+34	around	around	A	1	O
+35	.	.	O	1	O
 
-1	While	while	P	1	
-2	staying	staying	N	1	
-3	in	in	P	1	
-4	the	the	D	1	
-5	place	place	N	1	
-6	you	you	Q	1	
-7	have	have	V	1	
-8	easy	easy	G	1	
-9	access	access	N	1	
-10	to	to	P	1	
-11	hop	hop	V	1	
-12	&	&	C	1	
-13	hop	hop	V	1	
-14	bus	bus	N	1	
-15	tour	tour	N	1	
-16	,	,	O	1	
-17	coach	coach	N	1	
-18	to	to	P	1	
-19	the	the	D	1	
-20	airport	airport	N	1	
-21	and	and	C	1	
-22	Corte	Corte	R	1	
-23	d	d	O	1	
-24	'Ingles	'ingles	N	1	
-25	which	which	O	1	
-26	is	be	V	1	
-27	wonderful	wonderful	G	1	
-28	store	store	N	1	
-29	.	.	O	1	
+1	While	while	P	1	O
+2	staying	staying	N	1	O
+3	in	in	P	1	O
+4	the	the	D	1	O
+5	place	place	N	1	O
+6	you	you	Q	1	O
+7	have	have	V	1	O
+8	easy	easy	G	1	O
+9	access	access	N	1	O
+10	to	to	P	1	O
+11	hop	hop	V	1	O
+12	&	&	C	1	O
+13	hop	hop	V	1	O
+14	bus	bus	N	1	O
+15	tour	tour	N	1	O
+16	,	,	O	1	O
+17	coach	coach	N	1	O
+18	to	to	P	1	O
+19	the	the	D	1	O
+20	airport	airport	N	1	O
+21	and	and	C	1	O
+22	Corte	Corte	R	1	O
+23	d	d	O	1	O
+24	'Ingles	'ingles	N	1	O
+25	which	which	O	1	O
+26	is	be	V	1	O
+27	wonderful	wonderful	G	1	O
+28	store	store	N	1	O
+29	.	.	O	1	O
 
-1	Hotel	hotel	N	1	
-2	interior	interior	N	1	
-3	is	be	V	1	
-4	very	very	A	1	
-5	modern	modern	G	1	
-6	and	and	C	1	
-7	elegant	elegant	G	1	
-8	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	interior	interior	N	1	O
+3	is	be	V	1	O
+4	very	very	A	1	O
+5	modern	modern	G	1	O
+6	and	and	C	1	O
+7	elegant	elegant	G	1	O
+8	.	.	O	1	O
 
-1	Our	our	Q	1	
-2	room	room	N	1	
-3	was	be	V	1	
-4	unfortunately	unfortunately	A	1	
-5	very	very	A	1	
-6	small	small	G	1	
-7	,	,	O	1	
-8	but	but	C	1	
-9	the	the	D	1	
-10	bed	bed	N	1	
-11	were	be	V	1	
-12	very	very	A	1	
-13	comfortable	comfortable	G	1	
-14	,	,	O	1	
-15	linen	linen	G	1	
-16	very	very	A	1	
-17	clean	clean	G	1	
-18	.	.	O	1	
+1	Our	our	Q	1	O
+2	room	room	N	1	O
+3	was	be	V	1	O
+4	unfortunately	unfortunately	A	1	O
+5	very	very	A	1	O
+6	small	small	G	1	O
+7	,	,	O	1	O
+8	but	but	C	1	O
+9	the	the	D	1	O
+10	bed	bed	N	1	O
+11	were	be	V	1	O
+12	very	very	A	1	O
+13	comfortable	comfortable	G	1	O
+14	,	,	O	1	O
+15	linen	linen	G	1	O
+16	very	very	A	1	O
+17	clean	clean	G	1	O
+18	.	.	O	1	O
 
-1	We	we	Q	1	
-2	had	have	V	1	
-3	perfect	perfect	G	1	
-4	time	time	N	1	
-5	while	while	P	1	
-6	staying	staying	G	1	
-7	in	in	P	1	
-8	Regina	Regina	R	1	ne=Hotel
-9	.	.	O	1	
+1	We	we	Q	1	O
+2	had	have	V	1	O
+3	perfect	perfect	G	1	O
+4	time	time	N	1	O
+5	while	while	P	1	O
+6	staying	staying	G	1	O
+7	in	in	P	1	O
+8	Regina	Regina	R	1	I-Hotel
+9	.	.	O	1	O
 
-1	Definitely	definitely	A	1	
-2	can	can	O	1	
-3	be	be	V	1	
-4	highly	highly	A	1	
-5	recommended	recommend	V	1	
-6	.	.	O	1	
+1	Definitely	definitely	A	1	O
+2	can	can	O	1	O
+3	be	be	V	1	O
+4	highly	highly	A	1	O
+5	recommended	recommend	V	1	O
+6	.	.	O	1	O
 

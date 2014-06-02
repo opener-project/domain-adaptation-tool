@@ -1,112 +1,120 @@
-1	Hotel_Royal_Court	hotel_royal_court	R	1	ne=Hotel
-2	Roma	roma	R	1	ne=Location
+1	Hotel	hotel	N	1	I-Hotel
+2	Royal	royal	R	1	I-Hotel
+3	Court	court	R	1	I-Hotel
+4	Roma	roma	R	1	B-Location
 
-1	Sono	essere	V	1	
-2	stato	stato	N	1	
-3	a	a	P	1	
-4	Roma	roma	R	1	ne=Location
-5	diverse	diverso	G	1	
-6	volte	volta	N	1	
-7	per	per	P	1	
-8	lavoro	lavoro	N	1	
-9	.	.	O	1	
+1	Sono	essere	V	1	O
+2	stato	stato	N	1	O
+3	a	a	P	1	O
+4	Roma	roma	R	1	I-Location
+5	diverse	diverso	G	1	O
+6	volte	volta	N	1	O
+7	per	per	P	1	O
+8	lavoro	lavoro	N	1	O
+9	.	.	O	1	O
 
-1	Ho	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	presso	presso	A	1	
-4	alcuni	alcuno	G	1	
-5	hotel	hotel	N	1	
-6	del	del	P	1	
-7	centro	centro	N	1	
-8	.	.	O	1	
+1	Ho	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	presso	presso	A	1	O
+4	alcuni	alcuno	G	1	O
+5	hotel	hotel	N	1	O
+6	del	del	P	1	O
+7	centro	centro	N	1	O
+8	.	.	O	1	O
 
-1	Come	come	A	1	
-2	zona	zona	N	1	
-3	,	,	O	1	
-4	suggerisco	suggerire	V	1	
-5	particolarmente	particolarmente	A	1	
-6	quella	quella	Q	1	
-7	della	della	P	1	
-8	stazione_ferroviaria_di_Roma_Termini	stazione_ferroviario_di_roma_termine	R	1	ne=POI
-9	,	,	O	1	
-10	nodo	nodo	N	1	
-11	della	della	P	1	
-12	metropolitana	metropolitana	N	1	
-13	.	.	O	1	
+1	Come	come	A	1	O
+2	zona	zona	N	1	O
+3	,	,	O	1	O
+4	suggerisco	suggerire	V	1	O
+5	particolarmente	particolarmente	A	1	O
+6	quella	quella	Q	1	O
+7	della	della	P	1	O
+8	stazione	stazione	N	1	I-POI
+9	ferroviaria	ferroviario	G	1	I-POI
+10	di	di	P	1	I-POI
+11	Roma	roma	R	1	I-POI
+12	Termini	termine	N	1	I-POI
+13	,	,	O	1	O
+14	nodo	nodo	N	1	O
+15	della	della	P	1	O
+16	metropolitana	metropolitana	N	1	O
+17	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	hotel_Royal_Court	hotel_royal_court	R	1	ne=Hotel
-3	è	è	N	1	
-4	molto	molto	A	1	
-5	accogliente	accogliere	V	1	
-6	,	,	O	1	
-7	distinto	distinguere	V	1	
-8	,	,	O	1	
-9	con	con	P	1	
-10	parcheggio	parcheggio	N	1	
-11	(	(	O	1	
-12	importantissimo	importantissimo	G	1	
-13	,	,	O	1	
-14	perchè	perche'	N	1	
-15	non	non	A	1	
-16	si	si	Q	1	
-17	trova	trovare	V	1	
-18	un	uno	D	1	
-19	posto	posto	N	1	
-20	neanche	neanche	Q	1	
-21	a	a	P	1	
-22	pagarlo	pagarlo	V	1	
-23	a	a	P	1	
-24	peso	peso	N	1	
-25	d'	d'	P	1	
-26	oro	oro	N	1	
-27	)	)	O	1	
-28	.	.	O	1	
-29	ideale	ideale	G	1	
-30	per	per	P	1	
-31	pernottare	pernottare	V	1	
-32	durante	durante	P	1	
-33	viaggi	viaggio	N	1	
-34	di	di	P	1	
-35	lavoro	lavoro	N	1	
-36	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	I-Hotel
+3	Royal	royal	R	1	I-Hotel
+4	Court	court	R	1	I-Hotel
+5	è	è	N	1	O
+6	molto	molto	A	1	O
+7	accogliente	accogliere	V	1	O
+8	,	,	O	1	O
+9	distinto	distinguere	V	1	O
+10	,	,	O	1	O
+11	con	con	P	1	O
+12	parcheggio	parcheggio	N	1	O
+13	(	(	O	1	O
+14	importantissimo	importantissimo	G	1	O
+15	,	,	O	1	O
+16	perchè	perche'	N	1	O
+17	non	non	A	1	O
+18	si	si	Q	1	O
+19	trova	trovare	V	1	O
+20	un	uno	D	1	O
+21	posto	posto	N	1	O
+22	neanche	neanche	Q	1	O
+23	a	a	P	1	O
+24	pagarlo	pagarlo	V	1	O
+25	a	a	P	1	O
+26	peso	peso	N	1	O
+27	d'	d'	P	1	O
+28	oro	oro	N	1	O
+29	)	)	O	1	O
+30	.	.	O	1	O
+31	ideale	ideale	G	1	O
+32	per	per	P	1	O
+33	pernottare	pernottare	V	1	O
+34	durante	durante	P	1	O
+35	viaggi	viaggio	N	1	O
+36	di	di	P	1	O
+37	lavoro	lavoro	N	1	O
+38	.	.	O	1	O
 
-1	Anche	anche	Q	1	
-2	se	se	Q	1	
-3	siete	essere	V	1	
-4	stanchi	stanchi	N	1	
-5	,	,	O	1	
-6	prima	prima	N	1	
-7	di	di	P	1	
-8	riposarvi	riposarvi	V	1	
-9	in	in	P	1	
-10	una	una	Q	1	
-11	delle	delle	P	1	
-12	comodissime	comodissime	G	1	
-13	stanze	stanza	N	1	
-14	,	,	O	1	
-15	fatevi	fatevi	V	1	
-16	un	uno	D	1	
-17	giro	giro	N	1	
-18	al	al	P	1	
-19	centro	centro	N	1	
-20	storico	storico	G	1	
-21	,	,	O	1	
-22	e	e	Q	1	
-23	soprattutto	soprattutto	A	1	
-24	una	uno	D	1	
-25	bella	bello	G	1	
-26	magnata	magnata	G	1	
-27	in	in	P	1	
-28	uno	uno	Q	1	
-29	dei	dei	P	1	
-30	ristorantini	ristorantini	N	1	
-31	che	che	Q	1	
-32	vi	vi	Q	1	
-33	sapranno	sapranno	V	1	
-34	deliziare	deliziare	V	1	
-35	con	con	P	1	
-36	la	lo	D	1	
-37	cucina	cucina	N	1	
-38	romanesca	romanesco	G	1	
+1	Anche	anche	Q	1	O
+2	se	se	Q	1	O
+3	siete	essere	V	1	O
+4	stanchi	stanchi	N	1	O
+5	,	,	O	1	O
+6	prima	prima	N	1	O
+7	di	di	P	1	O
+8	riposarvi	riposarvi	V	1	O
+9	in	in	P	1	O
+10	una	una	Q	1	O
+11	delle	delle	P	1	O
+12	comodissime	comodissime	G	1	O
+13	stanze	stanza	N	1	O
+14	,	,	O	1	O
+15	fatevi	fatevi	V	1	O
+16	un	uno	D	1	O
+17	giro	giro	N	1	O
+18	al	al	P	1	O
+19	centro	centro	N	1	O
+20	storico	storico	G	1	O
+21	,	,	O	1	O
+22	e	e	Q	1	O
+23	soprattutto	soprattutto	A	1	O
+24	una	uno	D	1	O
+25	bella	bello	G	1	O
+26	magnata	magnata	G	1	O
+27	in	in	P	1	O
+28	uno	uno	Q	1	O
+29	dei	dei	P	1	O
+30	ristorantini	ristorantini	N	1	O
+31	che	che	Q	1	O
+32	vi	vi	Q	1	O
+33	sapranno	sapranno	V	1	O
+34	deliziare	deliziare	V	1	O
+35	con	con	P	1	O
+36	la	lo	D	1	O
+37	cucina	cucina	N	1	O
+38	romanesca	romanesco	G	1	O
 

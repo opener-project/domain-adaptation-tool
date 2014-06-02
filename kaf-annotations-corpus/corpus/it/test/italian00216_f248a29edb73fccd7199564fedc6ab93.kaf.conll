@@ -1,174 +1,174 @@
-1	Vacanza	vacanza	R	1	
-2	Eccellente	eccellere	V	1	
-3	!	!	O	1	
+1	Vacanza	vacanza	R	1	O
+2	Eccellente	eccellere	V	1	O
+3	!	!	O	1	O
 
-1	Valuto	valuto	G	1	
-2	molto	molto	A	1	
-3	positivamente	positivamente	A	1	
-4	l'	lo	D	1	
-5	Atlantic	atlantic	R	1	ne=Hotel
-6	:	:	O	1	
-7	io	io	Q	1	
-8	,	,	O	1	
-9	mia	mio	G	1	
-10	moglie	moglie	N	1	
-11	e	e	Q	1	
-12	il	lo	D	1	
-13	nostro	nostro	G	1	
-14	bimbo	bimbo	N	1	
-15	di	di	P	1	
-16	2	2	G	1	
-17	anni	anno	N	1	
-18	abbiamo	avere	V	1	
-19	appena	appena	A	1	
-20	trascorso	trascorrere	V	1	
-21	una	uno	D	1	
-22	splendida	splendido	G	1	
-23	vacanza	vacanza	N	1	
-24	in	in	P	1	
-25	questo	questo	G	1	
-26	hotel	hotel	N	1	
-27	.	.	O	1	
+1	Valuto	valuto	G	1	O
+2	molto	molto	A	1	O
+3	positivamente	positivamente	A	1	O
+4	l'	lo	D	1	O
+5	Atlantic	atlantic	R	1	I-Hotel
+6	:	:	O	1	O
+7	io	io	Q	1	O
+8	,	,	O	1	O
+9	mia	mio	G	1	O
+10	moglie	moglie	N	1	O
+11	e	e	Q	1	O
+12	il	lo	D	1	O
+13	nostro	nostro	G	1	O
+14	bimbo	bimbo	N	1	O
+15	di	di	P	1	O
+16	2	2	G	1	O
+17	anni	anno	N	1	O
+18	abbiamo	avere	V	1	O
+19	appena	appena	A	1	O
+20	trascorso	trascorrere	V	1	O
+21	una	uno	D	1	O
+22	splendida	splendido	G	1	O
+23	vacanza	vacanza	N	1	O
+24	in	in	P	1	O
+25	questo	questo	G	1	O
+26	hotel	hotel	N	1	O
+27	.	.	O	1	O
 
-1	Molto	molto	A	1	
-2	positiva	positivo	G	1	
-3	la	lo	D	1	
-4	posizione	posizione	N	1	
-5	sul	sul	P	1	
-6	lungomare	lungomare	N	1	
-7	pedonale	pedonale	G	1	
-8	e	e	Q	1	
-9	direttamente	direttamente	A	1	
-10	sulla	sulla	P	1	
-11	spiaggia	spiaggia	N	1	
-12	.	.	O	1	
+1	Molto	molto	A	1	O
+2	positiva	positivo	G	1	O
+3	la	lo	D	1	O
+4	posizione	posizione	N	1	O
+5	sul	sul	P	1	O
+6	lungomare	lungomare	N	1	O
+7	pedonale	pedonale	G	1	O
+8	e	e	Q	1	O
+9	direttamente	direttamente	A	1	O
+10	sulla	sulla	P	1	O
+11	spiaggia	spiaggia	N	1	O
+12	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	ha	avere	V	1	
-4	una	uno	D	1	
-5	grande	grande	G	1	
-6	piscina	piscina	N	1	
-7	con	con	P	1	
-8	acqua	acqua	N	1	
-9	marina	marina	N	1	
-10	molto	molto	A	1	
-11	ben	ben	A	1	
-12	tenuta	tenere	V	1	
-13	,	,	O	1	
-14	il	lo	D	1	
-15	personale	personale	G	1	
-16	è	è	R	1	
-17	gentile	gentile	G	1	
-18	,	,	O	1	
-19	disponibile	disponibile	G	1	
-20	e	e	Q	1	
-21	riservato	riservare	V	1	
-22	e	e	Q	1	
-23	al	al	P	1	
-24	ristorante	ristorante	N	1	
-25	trovate	trovare	V	1	
-26	ogni	ogni	G	1	
-27	ben	ben	A	1	
-28	di	di	P	1	
-29	Dio	dio	N	1	
-30	con	con	P	1	
-31	una	uno	D	1	
-32	scelta	scelta	N	1	
-33	infinita	infinito	G	1	
-34	di	di	P	1	
-35	piatti	piatto	N	1	
-36	,	,	O	1	
-37	dagli	dagli	P	1	
-38	antipasti	antipasto	N	1	
-39	(	(	O	1	
-40	il	lo	D	1	
-41	buffè	buffè	N	1	
-42	è	è	R	1	
-43	eccellente	eccellere	V	1	
-44	)	)	O	1	
-45	ai	ai	P	1	
-46	dolci	dolce	G	1	
-47	sempre	sempre	A	1	
-48	molto	molto	A	1	
-49	buoni	buono	G	1	
-50	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	ha	avere	V	1	O
+4	una	uno	D	1	O
+5	grande	grande	G	1	O
+6	piscina	piscina	N	1	O
+7	con	con	P	1	O
+8	acqua	acqua	N	1	O
+9	marina	marina	N	1	O
+10	molto	molto	A	1	O
+11	ben	ben	A	1	O
+12	tenuta	tenere	V	1	O
+13	,	,	O	1	O
+14	il	lo	D	1	O
+15	personale	personale	G	1	O
+16	è	è	R	1	O
+17	gentile	gentile	G	1	O
+18	,	,	O	1	O
+19	disponibile	disponibile	G	1	O
+20	e	e	Q	1	O
+21	riservato	riservare	V	1	O
+22	e	e	Q	1	O
+23	al	al	P	1	O
+24	ristorante	ristorante	N	1	O
+25	trovate	trovare	V	1	O
+26	ogni	ogni	G	1	O
+27	ben	ben	A	1	O
+28	di	di	P	1	O
+29	Dio	dio	N	1	O
+30	con	con	P	1	O
+31	una	uno	D	1	O
+32	scelta	scelta	N	1	O
+33	infinita	infinito	G	1	O
+34	di	di	P	1	O
+35	piatti	piatto	N	1	O
+36	,	,	O	1	O
+37	dagli	dagli	P	1	O
+38	antipasti	antipasto	N	1	O
+39	(	(	O	1	O
+40	il	lo	D	1	O
+41	buffè	buffè	N	1	O
+42	è	è	R	1	O
+43	eccellente	eccellere	V	1	O
+44	)	)	O	1	O
+45	ai	ai	P	1	O
+46	dolci	dolce	G	1	O
+47	sempre	sempre	A	1	O
+48	molto	molto	A	1	O
+49	buoni	buono	G	1	O
+50	.	.	O	1	O
 
-1	La	lo	D	1	
-2	nostra	nostro	G	1	
-3	camera	camera	N	1	
-4	,	,	O	1	
-5	non	non	A	1	
-6	molto	molto	G	1	
-7	grande	grande	N	1	
-8	,	,	O	1	
-9	era	essere	V	1	
-10	sempre	sempre	A	1	
-11	ben	ben	A	1	
-12	pulita	pulire	V	1	
-13	,	,	O	1	
-14	elegante	elegante	G	1	
-15	e	e	Q	1	
-16	con	con	P	1	
-17	una	uno	D	1	
-18	bella	bello	G	1	
-19	terrazzina	terrazzina	N	1	
-20	privata	privare	V	1	
-21	.	.	O	1	
+1	La	lo	D	1	O
+2	nostra	nostro	G	1	O
+3	camera	camera	N	1	O
+4	,	,	O	1	O
+5	non	non	A	1	O
+6	molto	molto	G	1	O
+7	grande	grande	N	1	O
+8	,	,	O	1	O
+9	era	essere	V	1	O
+10	sempre	sempre	A	1	O
+11	ben	ben	A	1	O
+12	pulita	pulire	V	1	O
+13	,	,	O	1	O
+14	elegante	elegante	G	1	O
+15	e	e	Q	1	O
+16	con	con	P	1	O
+17	una	uno	D	1	O
+18	bella	bello	G	1	O
+19	terrazzina	terrazzina	N	1	O
+20	privata	privare	V	1	O
+21	.	.	O	1	O
 
-1	Per	per	P	1	
-2	i	lo	D	1	
-3	bambini	bambino	N	1	
-4	c'	c'	A	1	
-5	è	essere	V	1	
-6	un	uno	D	1	
-7	miniclub	miniclub	N	1	
-8	durante	durante	P	1	
-9	i	lo	D	1	
-10	pasti	pasto	N	1	
-11	.	.	O	1	
+1	Per	per	P	1	O
+2	i	lo	D	1	O
+3	bambini	bambino	N	1	O
+4	c'	c'	A	1	O
+5	è	essere	V	1	O
+6	un	uno	D	1	O
+7	miniclub	miniclub	N	1	O
+8	durante	durante	P	1	O
+9	i	lo	D	1	O
+10	pasti	pasto	N	1	O
+11	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	prezzo	prezzo	N	1	
-3	non	non	A	1	
-4	è	essere	V	1	
-5	proprio	proprio	A	1	
-6	a	a	P	1	
-7	buon	buon	G	1	
-8	mercato	mercato	N	1	
-9	,	,	O	1	
-10	ma	ma	Q	1	
-11	in	in	P	1	
-12	considerazione	considerazione	N	1	
-13	della	della	P	1	
-14	qualità	qualita'	N	1	
-15	,	,	O	1	
-16	della	della	P	1	
-17	cortesia	cortesia	N	1	
-18	e	e	Q	1	
-19	della	della	P	1	
-20	posizione	posizione	N	1	
-21	di	di	P	1	
-22	questo	questo	G	1	
-23	hotel	hotel	N	1	
-24	direi	dire	V	1	
-25	che	che	Q	1	
-26	sia	essere	V	1	
-27	equilibrato	equilibrare	V	1	
-28	.	.	O	1	
+1	Il	lo	D	1	O
+2	prezzo	prezzo	N	1	O
+3	non	non	A	1	O
+4	è	essere	V	1	O
+5	proprio	proprio	A	1	O
+6	a	a	P	1	O
+7	buon	buon	G	1	O
+8	mercato	mercato	N	1	O
+9	,	,	O	1	O
+10	ma	ma	Q	1	O
+11	in	in	P	1	O
+12	considerazione	considerazione	N	1	O
+13	della	della	P	1	O
+14	qualità	qualita'	N	1	O
+15	,	,	O	1	O
+16	della	della	P	1	O
+17	cortesia	cortesia	N	1	O
+18	e	e	Q	1	O
+19	della	della	P	1	O
+20	posizione	posizione	N	1	O
+21	di	di	P	1	O
+22	questo	questo	G	1	O
+23	hotel	hotel	N	1	O
+24	direi	dire	V	1	O
+25	che	che	Q	1	O
+26	sia	essere	V	1	O
+27	equilibrato	equilibrare	V	1	O
+28	.	.	O	1	O
 
-1	Torneremo	tornare	V	1	
-2	sicuramente	sicuramente	A	1	
-3	per	per	P	1	
-4	le	lo	D	1	
-5	nostre	nostro	G	1	
-6	prossime	prossime	N	1	
-7	vacanze	vacanza	N	1	
-8	!	!	O	1	
+1	Torneremo	tornare	V	1	O
+2	sicuramente	sicuramente	A	1	O
+3	per	per	P	1	O
+4	le	lo	D	1	O
+5	nostre	nostro	G	1	O
+6	prossime	prossime	N	1	O
+7	vacanze	vacanza	N	1	O
+8	!	!	O	1	O
 
-1	Arrivederci	arrivederci	R	1	
-2	Atlantic	atlantic	R	1	ne=Hotel
-3	!	!	O	1	
-4	!	!	O	1	
-5	!	!	O	1	
+1	Arrivederci	arrivederci	R	1	O
+2	Atlantic	atlantic	R	1	I-Hotel
+3	!	!	O	1	O
+4	!	!	O	1	O
+5	!	!	O	1	O
 

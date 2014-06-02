@@ -1,140 +1,141 @@
-1	Not	not	A	1	
-2	for	for	P	1	
-3	me	me	Q	1	
-4	.	.	O	1	
+1	Not	not	A	1	O
+2	for	for	P	1	O
+3	me	me	Q	1	O
+4	.	.	O	1	O
 
-1	This	this	D	1	
-2	hotel	hotel	N	1	
-3	does	do	V	1	
-4	not	not	A	1	
-5	deserve	deserve	V	1	
-6	4	4	O	1	
-7	*	*	O	1	
-8	in	in	P	1	
-9	my	my	Q	1	
-10	opinion	opinion	N	1	
-11	,	,	O	1	
-12	although	although	P	1	
-13	in	in	P	1	
-14	general	general	G	1	
-15	most	much	A	1	
-16	of	of	P	1	
-17	the	the	D	1	
-18	staff	staff	N	1	
-19	were	be	V	1	
-20	very	very	A	1	
-21	pleasant	pleasant	G	1	
-22	,	,	O	1	
-23	the	the	D	1	
-24	upper	upper	G	1	
-25	management	management	N	1	
-26	were	be	V	1	
-27	like	like	P	1	
-28	british	british	G	1	
-29	politicians	politician	N	1	
-30	,	,	O	1	
-31	when	when	O	1	
-32	you	you	Q	1	
-33	complained	complain	V	1	
-34	they	they	Q	1	
-35	did	do	V	1	
-36	not	not	A	1	
-37	give	give	V	1	
-38	you	you	Q	1	
-39	an	a	D	1	
-40	answer	answer	N	1	
-41	but	but	C	1	
-42	changed	change	V	1	
-43	the	the	D	1	
-44	subject	subject	N	1	
-45	.	.	O	1	
+1	This	this	D	1	O
+2	hotel	hotel	N	1	O
+3	does	do	V	1	O
+4	not	not	A	1	O
+5	deserve	deserve	V	1	O
+6	4	4	O	1	O
+7	*	*	O	1	O
+8	in	in	P	1	O
+9	my	my	Q	1	O
+10	opinion	opinion	N	1	O
+11	,	,	O	1	O
+12	although	although	P	1	O
+13	in	in	P	1	O
+14	general	general	G	1	O
+15	most	much	A	1	O
+16	of	of	P	1	O
+17	the	the	D	1	O
+18	staff	staff	N	1	O
+19	were	be	V	1	O
+20	very	very	A	1	O
+21	pleasant	pleasant	G	1	O
+22	,	,	O	1	O
+23	the	the	D	1	O
+24	upper	upper	G	1	O
+25	management	management	N	1	O
+26	were	be	V	1	O
+27	like	like	P	1	O
+28	british	british	G	1	O
+29	politicians	politician	N	1	O
+30	,	,	O	1	O
+31	when	when	O	1	O
+32	you	you	Q	1	O
+33	complained	complain	V	1	O
+34	they	they	Q	1	O
+35	did	do	V	1	O
+36	not	not	A	1	O
+37	give	give	V	1	O
+38	you	you	Q	1	O
+39	an	a	D	1	O
+40	answer	answer	N	1	O
+41	but	but	C	1	O
+42	changed	change	V	1	O
+43	the	the	D	1	O
+44	subject	subject	N	1	O
+45	.	.	O	1	O
 
-1	We	we	Q	1	
-2	tried	try	V	1	
-3	NOT	NOT	R	1	
-4	to	to	P	1	
-5	eat	eat	V	1	
-6	in	in	P	1	
-7	the	the	D	1	
-8	buffet	buffet	N	1	
-9	restaurant	restaurant	N	1	
-10	as	as	P	1	
-11	the	the	D	1	
-12	quality	quality	N	1	
-13	and	and	C	1	
-14	choice	choice	N	1	
-15	of	of	P	1	
-16	food	food	N	1	
-17	was	be	V	1	
-18	very	very	A	1	
-19	limited	limited	G	1	
-20	,	,	O	1	
-21	The	the	D	1	
-22	reception	reception	N	1	
-23	area	area	N	1	
-24	was	be	V	1	
-25	clean	clean	G	1	
-26	and	and	C	1	
-27	the	the	D	1	
-28	lobby	lobby	N	1	
-29	staff	staff	N	1	
-30	were	be	V	1	
-31	very	very	A	1	
-32	helpful	helpful	G	1	
-33	,	,	O	1	
-34	The	the	D	1	
-35	house	house	N	1	
-36	·	·	A	1	
-37	keeping	keep	V	1	
-38	was	be	V	1	
-39	basic	basic	G	1	
-40	but	but	C	1	
-41	not	not	A	1	
-42	impressive	impressive	G	1	
-43	,	,	O	1	
-44	The	the	D	1	
-45	pool	pool	N	1	
-46	,	,	O	1	
-47	bar	bar	N	1	
-48	&	&	C	1	
-49	beach	beach	N	1	
-50	areas	area	N	1	
-51	were	be	V	1	
-52	kept	keep	V	1	
-53	tidy	tidy	A	1	
-54	and	and	C	1	
-55	the	the	D	1	
-56	outdoor	outdoor	G	1	
-57	staff	staff	N	1	
-58	were	be	V	1	
-59	pleasant.	pleasant.	N	1	
-60	there	there	A	1	
-61	were	be	V	1	
-62	quite	quite	A	1	
-63	a	a	D	1	
-64	lot	lot	N	1	
-65	of	of	P	1	
-66	Russian	russian	G	1	
-67	guests	guest	N	1	
-68	there	there	A	1	
-69	(	(	O	1	
-70	approx	approx	N	1	
-71	85_%	85_%	R	1	ne=Percent
-72	)	)	O	1	
-73	with	with	P	1	
-74	a	a	D	1	
-75	minority	minority	N	1	
-76	of	of	P	1	
-77	British	british	G	1	
-78	,	,	O	1	
-79	French	french	G	1	
-80	,	,	O	1	
-81	swedish	swedish	G	1	
-82	,	,	O	1	
-83	German	german	G	1	
-84	,	,	O	1	
-85	Norwiegen	Norwiegen	R	1	
-86	&	&	C	1	
-87	Egyptian	Egyptian	R	1	
-88	.	.	O	1	
+1	We	we	Q	1	O
+2	tried	try	V	1	O
+3	NOT	NOT	R	1	O
+4	to	to	P	1	O
+5	eat	eat	V	1	O
+6	in	in	P	1	O
+7	the	the	D	1	O
+8	buffet	buffet	N	1	O
+9	restaurant	restaurant	N	1	O
+10	as	as	P	1	O
+11	the	the	D	1	O
+12	quality	quality	N	1	O
+13	and	and	C	1	O
+14	choice	choice	N	1	O
+15	of	of	P	1	O
+16	food	food	N	1	O
+17	was	be	V	1	O
+18	very	very	A	1	O
+19	limited	limited	G	1	O
+20	,	,	O	1	O
+21	The	the	D	1	O
+22	reception	reception	N	1	O
+23	area	area	N	1	O
+24	was	be	V	1	O
+25	clean	clean	G	1	O
+26	and	and	C	1	O
+27	the	the	D	1	O
+28	lobby	lobby	N	1	O
+29	staff	staff	N	1	O
+30	were	be	V	1	O
+31	very	very	A	1	O
+32	helpful	helpful	G	1	O
+33	,	,	O	1	O
+34	The	the	D	1	O
+35	house	house	N	1	O
+36	·	·	A	1	O
+37	keeping	keep	V	1	O
+38	was	be	V	1	O
+39	basic	basic	G	1	O
+40	but	but	C	1	O
+41	not	not	A	1	O
+42	impressive	impressive	G	1	O
+43	,	,	O	1	O
+44	The	the	D	1	O
+45	pool	pool	N	1	O
+46	,	,	O	1	O
+47	bar	bar	N	1	O
+48	&	&	C	1	O
+49	beach	beach	N	1	O
+50	areas	area	N	1	O
+51	were	be	V	1	O
+52	kept	keep	V	1	O
+53	tidy	tidy	A	1	O
+54	and	and	C	1	O
+55	the	the	D	1	O
+56	outdoor	outdoor	G	1	O
+57	staff	staff	N	1	O
+58	were	be	V	1	O
+59	pleasant.	pleasant.	N	1	O
+60	there	there	A	1	O
+61	were	be	V	1	O
+62	quite	quite	A	1	O
+63	a	a	D	1	O
+64	lot	lot	N	1	O
+65	of	of	P	1	O
+66	Russian	russian	G	1	O
+67	guests	guest	N	1	O
+68	there	there	A	1	O
+69	(	(	O	1	O
+70	approx	approx	N	1	O
+71	85	85	O	1	I-Percent
+72	%	%	N	1	I-Percent
+73	)	)	O	1	O
+74	with	with	P	1	O
+75	a	a	D	1	O
+76	minority	minority	N	1	O
+77	of	of	P	1	O
+78	British	british	G	1	O
+79	,	,	O	1	O
+80	French	french	G	1	O
+81	,	,	O	1	O
+82	swedish	swedish	G	1	O
+83	,	,	O	1	O
+84	German	german	G	1	O
+85	,	,	O	1	O
+86	Norwiegen	Norwiegen	R	1	O
+87	&	&	C	1	O
+88	Egyptian	Egyptian	R	1	O
+89	.	.	O	1	O
 

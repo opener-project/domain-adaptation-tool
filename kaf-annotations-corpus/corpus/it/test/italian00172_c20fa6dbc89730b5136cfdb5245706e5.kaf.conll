@@ -1,128 +1,128 @@
-1	Consigliatissimo	consigliatissimo	O	1	
-2	per	per	P	1	
-3	Pulizia	pulizia	N	1	
-4	e	e	Q	1	
-5	Tranquillità	tranquillita'	R	1	
+1	Consigliatissimo	consigliatissimo	O	1	O
+2	per	per	P	1	O
+3	Pulizia	pulizia	N	1	O
+4	e	e	Q	1	O
+5	Tranquillità	tranquillita'	R	1	O
 
-1	Ho	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	questo	questo	G	1	
-5	Hotel	hotel	N	1	
-6	diverse	diverso	G	1	
-7	volte	volta	N	1	
-8	nei	nei	P	1	
-9	primi	primo	G	1	
-10	mesi	mese	N	1	
-11	del	del	P	1	
-12	2013	2013	G	1	
-13	e	e	Q	1	
-14	son	son	V	1	
-15	sempre	sempre	A	1	
-16	rimasto	rimanere	V	1	
-17	pienamente	pienamente	A	1	
-18	soddisfatto	soddisfare	V	1	
-19	.	.	O	1	
+1	Ho	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	questo	questo	G	1	O
+5	Hotel	hotel	N	1	O
+6	diverse	diverso	G	1	O
+7	volte	volta	N	1	O
+8	nei	nei	P	1	O
+9	primi	primo	G	1	O
+10	mesi	mese	N	1	O
+11	del	del	P	1	O
+12	2013	2013	G	1	O
+13	e	e	Q	1	O
+14	son	son	V	1	O
+15	sempre	sempre	A	1	O
+16	rimasto	rimanere	V	1	O
+17	pienamente	pienamente	A	1	O
+18	soddisfatto	soddisfare	V	1	O
+19	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	G	1	
-3	è	è	N	1	
-4	sempre	sempre	A	1	
-5	disponibile	disponibile	G	1	
-6	ed	ed	Q	1	
-7	accogliente	accogliere	V	1	
-8	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	G	1	O
+3	è	è	N	1	O
+4	sempre	sempre	A	1	O
+5	disponibile	disponibile	G	1	O
+6	ed	ed	Q	1	O
+7	accogliente	accogliere	V	1	O
+8	.	.	O	1	O
 
-1	Internet	internet	R	1	
-2	wifi	wifi	N	1	
-3	è	è	R	1	
-4	gratuito	gratuito	G	1	
-5	,	,	O	1	
-6	così	così	V	1	
-7	come	come	Q	1	
-8	la	lo	D	1	
-9	TV	tv	R	1	
-10	in	in	P	1	
-11	camera	camera	N	1	
-12	(	(	O	1	
-13	anche	anche	Q	1	
-14	principali	principale	G	1	
-15	reti	rete	N	1	
-16	estere	estero	G	1	
-17	)	)	O	1	
-18	ed	ed	Q	1	
-19	il	lo	D	1	
-20	servizio	servizio	N	1	
-21	bagagli	bagaglio	N	1	
-22	.	.	O	1	
+1	Internet	internet	R	1	O
+2	wifi	wifi	N	1	O
+3	è	è	R	1	O
+4	gratuito	gratuito	G	1	O
+5	,	,	O	1	O
+6	così	così	V	1	O
+7	come	come	Q	1	O
+8	la	lo	D	1	O
+9	TV	tv	R	1	O
+10	in	in	P	1	O
+11	camera	camera	N	1	O
+12	(	(	O	1	O
+13	anche	anche	Q	1	O
+14	principali	principale	G	1	O
+15	reti	rete	N	1	O
+16	estere	estero	G	1	O
+17	)	)	O	1	O
+18	ed	ed	Q	1	O
+19	il	lo	D	1	O
+20	servizio	servizio	N	1	O
+21	bagagli	bagaglio	N	1	O
+22	.	.	O	1	O
 
-1	Ho	avere	V	1	
-2	trovato	trovare	V	1	
-3	sia	sia	Q	1	
-4	le	lo	D	1	
-5	camere	camera	N	1	
-6	che	che	Q	1	
-7	i	lo	D	1	
-8	luoghi	luogo	N	1	
-9	comuni	comune	G	1	
-10	sempre	sempre	A	1	
-11	molto	molto	A	1	
-12	puliti	pulire	V	1	
-13	e	e	Q	1	
-14	curati	curato	N	1	
-15	.	.	O	1	
+1	Ho	avere	V	1	O
+2	trovato	trovare	V	1	O
+3	sia	sia	Q	1	O
+4	le	lo	D	1	O
+5	camere	camera	N	1	O
+6	che	che	Q	1	O
+7	i	lo	D	1	O
+8	luoghi	luogo	N	1	O
+9	comuni	comune	G	1	O
+10	sempre	sempre	A	1	O
+11	molto	molto	A	1	O
+12	puliti	pulire	V	1	O
+13	e	e	Q	1	O
+14	curati	curato	N	1	O
+15	.	.	O	1	O
 
-1	La	lo	D	1	
-2	struttura	struttura	N	1	
-3	è	è	R	1	
-4	inoltre	inoltre	A	1	
-5	dotata	dotare	V	1	
-6	di	di	P	1	
-7	sauna	sauna	N	1	
-8	e	e	Q	1	
-9	palestra	palestra	N	1	
-10	a	a	P	1	
-11	disposizione	disposizione	N	1	
-12	degli	degli	P	1	
-13	ospiti	ospite	N	1	
-14	.	.	O	1	
+1	La	lo	D	1	O
+2	struttura	struttura	N	1	O
+3	è	è	R	1	O
+4	inoltre	inoltre	A	1	O
+5	dotata	dotare	V	1	O
+6	di	di	P	1	O
+7	sauna	sauna	N	1	O
+8	e	e	Q	1	O
+9	palestra	palestra	N	1	O
+10	a	a	P	1	O
+11	disposizione	disposizione	N	1	O
+12	degli	degli	P	1	O
+13	ospiti	ospite	N	1	O
+14	.	.	O	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	dell'	dell'	P	1	
-4	Hotel	hotel	N	1	
-5	consente	consentire	V	1	
-6	di	di	P	1	
-7	raggiungere	raggiungere	V	1	
-8	in	in	P	1	
-9	pochi	poco	G	1	
-10	minuti	minuto	N	1	
-11	i	lo	D	1	
-12	principali	principale	N	1	
-13	luoghi	luogo	N	1	
-14	della	della	P	1	
-15	città	citta'	N	1	
-16	grazie	grazia	N	1	
-17	alla	alla	P	1	
-18	rete	rete	N	1	
-19	di	di	P	1	
-20	trasporti	trasporto	N	1	
-21	cittadina	cittadino	N	1	
-22	.	.	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	dell'	dell'	P	1	O
+4	Hotel	hotel	N	1	O
+5	consente	consentire	V	1	O
+6	di	di	P	1	O
+7	raggiungere	raggiungere	V	1	O
+8	in	in	P	1	O
+9	pochi	poco	G	1	O
+10	minuti	minuto	N	1	O
+11	i	lo	D	1	O
+12	principali	principale	N	1	O
+13	luoghi	luogo	N	1	O
+14	della	della	P	1	O
+15	città	citta'	N	1	O
+16	grazie	grazia	N	1	O
+17	alla	alla	P	1	O
+18	rete	rete	N	1	O
+19	di	di	P	1	O
+20	trasporti	trasporto	N	1	O
+21	cittadina	cittadino	N	1	O
+22	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	unica	unico	G	1	
-3	cosa	cosa	N	1	
-4	che	che	Q	1	
-5	mi	mi	Q	1	
-6	sento	sentire	V	1	
-7	di	di	P	1	
-8	sconsigliarvi	sconsigliarvi	V	1	
-9	è	è	R	1	
-10	la	la	Q	1	
-11	pasta	pasta	N	1	
-12	al	al	P	1	
-13	ristorante	ristorante	N	1	
-14	interno	interno	G	1	
-15	.	.	O	1	
+1	L'	lo	D	1	O
+2	unica	unico	G	1	O
+3	cosa	cosa	N	1	O
+4	che	che	Q	1	O
+5	mi	mi	Q	1	O
+6	sento	sentire	V	1	O
+7	di	di	P	1	O
+8	sconsigliarvi	sconsigliarvi	V	1	O
+9	è	è	R	1	O
+10	la	la	Q	1	O
+11	pasta	pasta	N	1	O
+12	al	al	P	1	O
+13	ristorante	ristorante	N	1	O
+14	interno	interno	G	1	O
+15	.	.	O	1	O
 

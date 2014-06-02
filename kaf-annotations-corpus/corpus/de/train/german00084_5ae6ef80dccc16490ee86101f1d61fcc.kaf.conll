@@ -1,153 +1,157 @@
-1	Gutes	gut	G	1	
-2	Hotel	Hotel	N	1	
-3	wird	werden	V	1	
-4	der	die	D	1	
-5	aktuellen	aktuell	G	1	
-6	Bewertung	Bewertung	N	1	
-7	nicht	nicht	O	1	
-8	mehr	mehr	A	1	
+1	Gutes	gut	G	1	O
+2	Hotel	Hotel	N	1	O
+3	wird	werden	V	1	O
+4	der	die	D	1	O
+5	aktuellen	aktuell	G	1	O
+6	Bewertung	Bewertung	N	1	O
+7	nicht	nicht	O	1	O
+8	mehr	mehr	A	1	O
 
-1	Über	über	P	1	
-2	Pfingsten	Pfingsten	N	1	
-3	waren	sein	V	1	
-4	wir	wir	Q	1	
-5	,	,	O	1	
-6	Familie	Familie	N	1	
-7	mit	mit	P	1	
-8	2	2	O	1	
-9	Kindern	Kind	N	1	
-10	,	,	O	1	
-11	schon	schon	A	1	
-12	mal	mal	A	1	
-13	im	in	P	1	
-14	diesem	dies	Q	1	
-15	Hotel	Hotel	N	1	
-16	.	.	O	1	
+1	Über	über	P	1	O
+2	Pfingsten	Pfingsten	N	1	O
+3	waren	sein	V	1	O
+4	wir	wir	Q	1	O
+5	,	,	O	1	O
+6	Familie	Familie	N	1	O
+7	mit	mit	P	1	O
+8	2	2	O	1	O
+9	Kindern	Kind	N	1	O
+10	,	,	O	1	O
+11	schon	schon	A	1	O
+12	mal	mal	A	1	O
+13	im	in	P	1	O
+14	diesem	dies	Q	1	O
+15	Hotel	Hotel	N	1	O
+16	.	.	O	1	O
 
-1	Leider	leider	A	1	
-2	hat	haben	V	1	
-3	sich	sich	Q	1	
-4	das	die	D	1	
-5	Niveau	Niveau	N	1	
-6	nicht	nicht	O	1	
-7	in	in	P	1	
-8	allen	alle	Q	1	
-9	Punkten	Punkt	N	1	
-10	zum	zu	P	1	
-11	besseren	gut	G	1	
-12	entwickelt	entwickeln	V	1	
-13	.	.	O	1	
+1	Leider	leider	A	1	O
+2	hat	haben	V	1	O
+3	sich	sich	Q	1	O
+4	das	die	D	1	O
+5	Niveau	Niveau	N	1	O
+6	nicht	nicht	O	1	O
+7	in	in	P	1	O
+8	allen	alle	Q	1	O
+9	Punkten	Punkt	N	1	O
+10	zum	zu	P	1	O
+11	besseren	gut	G	1	O
+12	entwickelt	entwickeln	V	1	O
+13	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Kinderbetreuung	Kinderbetreuung	N	1	
-3	,	,	O	1	
-4	wenn	wenn	C	1	
-5	man	man	Q	1	
-6	es	es	Q	1	
-7	dann	dann	A	1	
-8	so	so	A	1	
-9	nennen	nennen	V	1	
-10	darf	dürfen	V	1	
-11	,	,	O	1	
-12	hat	haben	V	1	
-13	sich	sich	Q	1	
-14	von	von	P	1	
-15	guter	gut	G	1	
-16	deutschsprachiger	deutschsprachig	G	1	
-17	,	,	O	1	
-18	hin	hin	A	1	
-19	zu	zu	P	1	
-20	zwei	zwei	O	1	
-21	russischsprachigen	russischsprachigen	O	1	
-22	Filmvorführerinnen	Filmvorführerinnen	O	1	
-23	weiterentwickelt	weiterentwickeln	V	1	
-24	.	.	O	1	
+1	Die	die	D	1	O
+2	Kinderbetreuung	Kinderbetreuung	N	1	O
+3	,	,	O	1	O
+4	wenn	wenn	C	1	O
+5	man	man	Q	1	O
+6	es	es	Q	1	O
+7	dann	dann	A	1	O
+8	so	so	A	1	O
+9	nennen	nennen	V	1	O
+10	darf	dürfen	V	1	O
+11	,	,	O	1	O
+12	hat	haben	V	1	O
+13	sich	sich	Q	1	O
+14	von	von	P	1	O
+15	guter	gut	G	1	O
+16	deutschsprachiger	deutschsprachig	G	1	O
+17	,	,	O	1	O
+18	hin	hin	A	1	O
+19	zu	zu	P	1	O
+20	zwei	zwei	O	1	O
+21	russischsprachigen	russischsprachigen	O	1	O
+22	Filmvorführerinnen	Filmvorführerinnen	O	1	O
+23	weiterentwickelt	weiterentwickeln	V	1	O
+24	.	.	O	1	O
 
-1	Obwohl	obwohl	C	1	
-2	der	die	D	1	
-3	Anteil	Anteil	N	1	
-4	der	die	D	1	
-5	deutschen	deutsch	G	1	
-6	Kinder	Kind	N	1	
-7	,	,	O	1	
-8	laut	laut	P	1	
-9	Auskunft	Auskunft	N	1	
-10	des	die	D	1	
-11	Managements	Management	N	1	
-12	,	,	O	1	
-13	bei	bei	P	1	
-14	75_%	75_%	R	1	ne=Percent
-15	Prozent	Prozent	N	1	
-16	liegt	liegen	V	1	
-17	,	,	O	1	
-18	ist	sein	V	1	
-19	das	die	Q	1	
-20	eine	eine	D	1	
-21	traurige	traurig	G	1	
-22	Entwicklung	Entwicklung	N	1	
-23	,	,	O	1	
-24	die	die	Q	1	
-25	leider	leider	A	1	
-26	auch	auch	A	1	
-27	saisonal	saisonal	O	1	
-28	bedingt	bedingen	V	1	
-29	ist	sein	V	1	
-30	.	.	O	1	
+1	Obwohl	obwohl	C	1	O
+2	der	die	D	1	O
+3	Anteil	Anteil	N	1	O
+4	der	die	D	1	O
+5	deutschen	deutsch	G	1	O
+6	Kinder	Kind	N	1	O
+7	,	,	O	1	O
+8	laut	laut	P	1	O
+9	Auskunft	Auskunft	N	1	O
+10	des	die	D	1	O
+11	Managements	Management	N	1	O
+12	,	,	O	1	O
+13	bei	bei	P	1	O
+14	75	75	O	1	I-Percent
+15	%	%	N	1	I-Percent
+16	Prozent	Prozent	N	1	O
+17	liegt	liegen	V	1	O
+18	,	,	O	1	O
+19	ist	sein	V	1	O
+20	das	die	Q	1	O
+21	eine	eine	D	1	O
+22	traurige	traurig	G	1	O
+23	Entwicklung	Entwicklung	N	1	O
+24	,	,	O	1	O
+25	die	die	Q	1	O
+26	leider	leider	A	1	O
+27	auch	auch	A	1	O
+28	saisonal	saisonal	O	1	O
+29	bedingt	bedingen	V	1	O
+30	ist	sein	V	1	O
+31	.	.	O	1	O
 
-1	Da	da	C	1	
-2	die	die	D	1	
-3	Pickalbatrosgruppe	Pickalbatrosgruppe	O	1	
-4	,	,	O	1	
-5	zu	zu	P	1	
-6	der	die	Q	1	
-7	auch	auch	A	1	
-8	das	die	D	1	
-9	Dana_Beach_Resort	Dana_Beach_Resort	R	1	ne=Hotel
-10	gehört	gehören	V	1	
-11	,	,	O	1	
-12	komplett	komplett	G	1	
-13	in	in	P	1	
-14	privater	privat	G	1	
-15	Hand	Hand	N	1	
-16	ist	sein	V	1	
-17	,	,	O	1	
-18	ist	sein	V	1	
-19	es	es	Q	1	
-20	schwierig	schwierig	G	1	
-21	Auskunft	Auskunft	N	1	
-22	zur	zu	P	1	
-23	Firmenpolitik	Firmenpolitik	N	1	
-24	zu	zu	O	1	
-25	bekommen	bekommen	V	1	
-26	.	.	O	1	
+1	Da	da	C	1	O
+2	die	die	D	1	O
+3	Pickalbatrosgruppe	Pickalbatrosgruppe	O	1	O
+4	,	,	O	1	O
+5	zu	zu	P	1	O
+6	der	die	Q	1	O
+7	auch	auch	A	1	O
+8	das	die	D	1	O
+9	Dana	Dana	R	1	I-Hotel
+10	Beach	Beach	O	1	I-Hotel
+11	Resort	Resort	O	1	I-Hotel
+12	gehört	gehören	V	1	O
+13	,	,	O	1	O
+14	komplett	komplett	G	1	O
+15	in	in	P	1	O
+16	privater	privat	G	1	O
+17	Hand	Hand	N	1	O
+18	ist	sein	V	1	O
+19	,	,	O	1	O
+20	ist	sein	V	1	O
+21	es	es	Q	1	O
+22	schwierig	schwierig	G	1	O
+23	Auskunft	Auskunft	N	1	O
+24	zur	zu	P	1	O
+25	Firmenpolitik	Firmenpolitik	N	1	O
+26	zu	zu	O	1	O
+27	bekommen	bekommen	V	1	O
+28	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	liegt	liegen	V	1	
-4	direkt	direkt	G	1	
-5	am	an	P	1	
-6	Roten_Meer	rot_Meer	R	1	ne=Location
-7	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	liegt	liegen	V	1	O
+4	direkt	direkt	G	1	O
+5	am	an	P	1	O
+6	Roten	rot	G	1	I-Location
+7	Meer	Meer	N	1	I-Location
+8	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Strand	Strand	N	1	
-3	wird	werden	V	1	
-4	täglich	täglich	G	1	
-5	gereinigt	reinigen	V	1	
-6	und	und	C	1	
-7	sieht	sehen	V	1	
-8	optisch	optisch	G	1	
-9	natürlich	natürlich	A	1	
-10	sehr	sehr	A	1	
-11	sauber	sauber	G	1	
-12	aus	aus	V	1	
-13	,	,	O	1	
-14	was	was	Q	1	
-15	nichts	nichts	Q	1	
-16	über	über	P	1	
-17	die	die	D	1	
-18	hygienische	hygienisch	G	1	
-19	Qualität	Qualität	N	1	
-20	aussagt	aussagen	V	1	
-21	.	.	O	1	
+1	Der	die	D	1	O
+2	Strand	Strand	N	1	O
+3	wird	werden	V	1	O
+4	täglich	täglich	G	1	O
+5	gereinigt	reinigen	V	1	O
+6	und	und	C	1	O
+7	sieht	sehen	V	1	O
+8	optisch	optisch	G	1	O
+9	natürlich	natürlich	A	1	O
+10	sehr	sehr	A	1	O
+11	sauber	sauber	G	1	O
+12	aus	aus	V	1	O
+13	,	,	O	1	O
+14	was	was	Q	1	O
+15	nichts	nichts	Q	1	O
+16	über	über	P	1	O
+17	die	die	D	1	O
+18	hygienische	hygienisch	G	1	O
+19	Qualität	Qualität	N	1	O
+20	aussagt	aussagen	V	1	O
+21	.	.	O	1	O
 

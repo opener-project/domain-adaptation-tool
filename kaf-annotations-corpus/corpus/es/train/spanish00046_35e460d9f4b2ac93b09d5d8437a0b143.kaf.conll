@@ -1,144 +1,152 @@
-1	Perfecto	Perfecto	R	1	
-2	Campamento	Campamento	R	1	
-3	base	base	N	1	
-4	para	para	N	1	
-5	visitar	visitar	N	1	
-6	La_Toscana	La_Toscana	R	1	ne=Location
+1	Perfecto	Perfecto	R	1	O
+2	Campamento	Campamento	R	1	O
+3	base	base	N	1	O
+4	para	para	N	1	O
+5	visitar	visitar	N	1	O
+6	La	La	R	1	I-Location
+7	Toscana	Toscana	R	1	I-Location
 
-1	Estuvimos	estuvimos	N	1	
-2	4	4	O	1	
-3	días	días	N	1	
-4	por	por	G	1	
-5	la_Toscana	la_Toscana	R	1	ne=Location
-6	y	y	G	1	
-7	Borgo_Grondaie	Borgo_Grondaie	R	1	ne=Location
-8	,	,	O	1	
-9	mi	mi	G	1	
-10	mujer	mujer	N	1	
-11	y	y	G	1	
-12	yo	yo	N	1	
-13	y	y	G	1	
-14	salimos	salimos	N	1	
-15	encantados	encantados	V	1	
-16	de	de	O	1	
-17	la	la	O	1	
-18	estancia	estancia	O	1	
-19	.	.	O	1	
+1	Estuvimos	estuvimos	N	1	O
+2	4	4	O	1	O
+3	días	días	N	1	O
+4	por	por	G	1	O
+5	la	la	N	1	I-Location
+6	Toscana	Toscana	R	1	I-Location
+7	y	y	G	1	O
+8	Borgo	Borgo	R	1	I-Location
+9	Grondaie	Grondaie	R	1	I-Location
+10	,	,	O	1	O
+11	mi	mi	G	1	O
+12	mujer	mujer	N	1	O
+13	y	y	G	1	O
+14	yo	yo	N	1	O
+15	y	y	G	1	O
+16	salimos	salimos	N	1	O
+17	encantados	encantados	V	1	O
+18	de	de	O	1	O
+19	la	la	O	1	O
+20	estancia	estancia	O	1	O
+21	.	.	O	1	O
 
-1	Tenía	Tenía	R	1	
-2	la	la	D	1	
-3	ubicación	ubicación	G	1	
-4	perfecta	perfecta	N	1	
-5	.	.	O	1	
+1	Tenía	Tenía	R	1	O
+2	la	la	D	1	O
+3	ubicación	ubicación	G	1	O
+4	perfecta	perfecta	N	1	O
+5	.	.	O	1	O
 
-1	Esta	Esta	R	1	
-2	en	en	O	1	
-3	las_afueras_de_Siena	las_afueras_de_siena	R	1	ne=Location
-4	pero	pero	O	1	
-5	sin	sin	O	1	
-6	estar	estar	O	1	
-7	lejos	lejos	O	1	
-8	.	.	O	1	
+1	Esta	Esta	R	1	O
+2	en	en	O	1	O
+3	las	las	O	1	I-Location
+4	afueras	afueras	O	1	I-Location
+5	de	de	O	1	I-Location
+6	Siena	siena	O	1	I-Location
+7	pero	pero	O	1	O
+8	sin	sin	O	1	O
+9	estar	estar	O	1	O
+10	lejos	lejos	O	1	O
+11	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	V	1	
-3	eran	eran	G	1	
-4	perfectas	perfectas	N	1	
-5	,	,	O	1	
-6	están	están	N	1	
-7	repartidas	repartidas	N	1	
-8	en	en	P	1	
-9	diferentes	diferentes	N	1	
-10	casas	casas	N	1	
-11	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	V	1	O
+3	eran	eran	G	1	O
+4	perfectas	perfectas	N	1	O
+5	,	,	O	1	O
+6	están	están	N	1	O
+7	repartidas	repartidas	N	1	O
+8	en	en	P	1	O
+9	diferentes	diferentes	N	1	O
+10	casas	casas	N	1	O
+11	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	N	1	
-3	estupendo	estupendo	N	1	
-4	,	,	O	1	
-5	así	así	G	1	
-6	coges	coges	N	1	
-7	fuerzas	fuerzas	N	1	
-8	para	para	G	1	
-9	los	los	N	1	
-10	viajes	viajes	N	1	
-11	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	N	1	O
+3	estupendo	estupendo	N	1	O
+4	,	,	O	1	O
+5	así	así	G	1	O
+6	coges	coges	N	1	O
+7	fuerzas	fuerzas	N	1	O
+8	para	para	G	1	O
+9	los	los	N	1	O
+10	viajes	viajes	N	1	O
+11	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	P	1	
-3	ameno	ameno	V	1	
-4	y	y	G	1	
-5	cordial	cordial	N	1	
-6	.	.	O	1	
+1	El	El	R	1	O
+2	trato	trato	P	1	O
+3	ameno	ameno	V	1	O
+4	y	y	G	1	O
+5	cordial	cordial	N	1	O
+6	.	.	O	1	O
 
-1	Tuvimos	Tuvimos	R	1	
-2	alguna	alguna	R	1	
-3	necesidad	necesidad	G	1	
-4	de	de	P	1	
-5	pillar	pillar	N	1	
-6	entradas	entradas	N	1	
-7	por	por	V	1	
-8	internet	internet	N	1	
-9	y	y	G	1	
-10	supermajos	supermajos	N	1	
-11	.	.	O	1	
+1	Tuvimos	Tuvimos	R	1	O
+2	alguna	alguna	R	1	O
+3	necesidad	necesidad	G	1	O
+4	de	de	P	1	O
+5	pillar	pillar	N	1	O
+6	entradas	entradas	N	1	O
+7	por	por	V	1	O
+8	internet	internet	N	1	O
+9	y	y	G	1	O
+10	supermajos	supermajos	N	1	O
+11	.	.	O	1	O
 
-1	También	También	R	1	
-2	nos	nos	N	1	
-3	recomendaron	recomendaron	V	1	
-4	una	una	G	1	
-5	pizzeria	pizzeria	N	1	
-6	cercana	cercana	N	1	
-7	tipica	tipica	O	1	
-8	italiana	italiana	V	1	
-9	que	que	G	1	
-10	mamma	mamma	G	1	
-11	mia	mia	N	1	
-12	que	que	N	1	
-13	bueno	bueno	N	1	
-14	estaba	estaba	N	1	
-15	todo	todo	N	1	
-16	...	...	O	1	
+1	También	También	R	1	O
+2	nos	nos	N	1	O
+3	recomendaron	recomendaron	V	1	O
+4	una	una	G	1	O
+5	pizzeria	pizzeria	N	1	O
+6	cercana	cercana	N	1	O
+7	tipica	tipica	O	1	O
+8	italiana	italiana	V	1	O
+9	que	que	G	1	O
+10	mamma	mamma	G	1	O
+11	mia	mia	N	1	O
+12	que	que	N	1	O
+13	bueno	bueno	N	1	O
+14	estaba	estaba	N	1	O
+15	todo	todo	N	1	O
+16	...	...	O	1	O
 
-1	Y	Y	G	1	
-2	de	de	P	1	
-3	Toscana	Toscana	R	1	ne=Location
-4	...	...	O	1	
-5	mejor	mejor	Q	1	
-6	que	que	V	1	
-7	lo	lo	G	1	
-8	veais	veais	N	1	
-9	...	...	O	1	
-10	y	y	G	1	
-11	además	además	N	1	
-12	delo	delo	V	1	
-13	bonito	bonito	P	1	
-14	que	que	V	1	
-15	es	es	N	1	
-16	Florencia	Florencia	R	1	ne=Location
-17	y	y	G	1	
-18	Siena	siena	R	1	ne=Location
-19	...	...	O	1	
-20	perderos	perderos	N	1	
-21	por	por	V	1	
-22	sus	sus	N	1	
-23	pueblos	pueblo	N	1	
-24	..	..	O	1	
+1	Y	Y	G	1	O
+2	de	de	P	1	O
+3	Toscana	Toscana	R	1	I-Location
+4	...	...	O	1	O
+5	mejor	mejor	Q	1	O
+6	que	que	V	1	O
+7	lo	lo	G	1	O
+8	veais	veais	N	1	O
+9	...	...	O	1	O
+10	y	y	G	1	O
+11	además	además	N	1	O
+12	delo	delo	V	1	O
+13	bonito	bonito	P	1	O
+14	que	que	V	1	O
+15	es	es	N	1	O
+16	Florencia	Florencia	R	1	I-Location
+17	y	y	G	1	O
+18	Siena	siena	R	1	I-Location
+19	...	...	O	1	O
+20	perderos	perderos	N	1	O
+21	por	por	V	1	O
+22	sus	sus	N	1	O
+23	pueblos	pueblo	N	1	O
+24	..	..	O	1	O
 
-1	También	También	R	1	
-2	cerca	cerca	O	1	
-3	hay	hay	V	1	
-4	algún	algún	G	1	
-5	supermercado	supermercado	N	1	
-6	y	y	G	1	
-7	las	las	N	1	
-8	salidas	salidas	N	1	
-9	al	al	G	1	
-10	valle	valle	N	1	
-11	del_Chianti_estan	del_Chianti_estan	R	1	ne=Attraction
-12	al	al	G	1	
-13	lado	lado	N	1	
-14	del	del	N	1	
-15	hotel	hotel	N	1	
-16	.	.	O	1	
+1	También	También	R	1	O
+2	cerca	cerca	O	1	O
+3	hay	hay	V	1	O
+4	algún	algún	G	1	O
+5	supermercado	supermercado	N	1	O
+6	y	y	G	1	O
+7	las	las	N	1	O
+8	salidas	salidas	N	1	O
+9	al	al	G	1	O
+10	valle	valle	N	1	O
+11	del	del	O	1	I-Attraction
+12	Chianti	Chianti	R	1	I-Attraction
+13	estan	estan	N	1	I-Attraction
+14	al	al	G	1	O
+15	lado	lado	N	1	O
+16	del	del	N	1	O
+17	hotel	hotel	N	1	O
+18	.	.	O	1	O
 

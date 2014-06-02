@@ -1,111 +1,116 @@
-1	Hotel	Hotel	R	1	
-2	muy	muy	G	1	
-3	bien	bien	N	1	
-4	enclavado	enclavado	V	1	
+1	Hotel	Hotel	R	1	O
+2	muy	muy	G	1	O
+3	bien	bien	N	1	O
+4	enclavado	enclavado	V	1	O
 
-1	Estuvimos	Estuvimos	R	1	
-2	el_viernes_8	el_viernes_8	R	1	ne=Date
-3	y	y	G	1	
-4	sabado_9_de_julio	sabado_9_de_julio	R	1	ne=Date
-5	a	a	D	1	
-6	un	un	G	1	
-7	evento	evento	N	1	
-8	familiar	familiar	G	1	
-9	.	.	O	1	
+1	Estuvimos	Estuvimos	R	1	O
+2	el	el	N	1	I-Date
+3	viernes	viernes	N	1	I-Date
+4	8	8	O	1	I-Date
+5	y	y	G	1	O
+6	sabado	sabado	N	1	I-Date
+7	9	9	O	1	I-Date
+8	de	de	P	1	I-Date
+9	julio	julio	N	1	I-Date
+10	a	a	D	1	O
+11	un	un	G	1	O
+12	evento	evento	N	1	O
+13	familiar	familiar	G	1	O
+14	.	.	O	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	estupendo	estupendo	N	1	
-5	.	.	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	estupendo	estupendo	N	1	O
+5	.	.	O	1	O
 
-1	Es	es	O	1	
-2	la	la	O	1	
-3	segunda	segunda	O	1	
-4	vez	vez	O	1	
-5	que	que	O	1	
-6	nos	nos	O	1	
-7	alojamos	alojamos	O	1	
-8	en	en	O	1	
-9	él	él	O	1	
-10	por	por	O	1	
-11	su	su	O	1	
-12	cercanía	cercanía	O	1	
-13	con	con	O	1	
-14	la	la	O	1	
-15	estación	estación	O	1	
-16	del	del	O	1	
-17	ave	ave	O	1	
-18	y	y	G	1	
-19	de	de	O	1	
-20	la	la	O	1	
-21	ciudad	ciudad	O	1	
-22	de	de	O	1	
-23	las	las	O	1	
-24	artes	artes	N	1	
-25	y	y	A	1	
-26	las	las	V	1	
-27	ciencias	ciencias	N	1	
-28	.	.	O	1	
+1	Es	es	O	1	O
+2	la	la	O	1	O
+3	segunda	segunda	O	1	O
+4	vez	vez	O	1	O
+5	que	que	O	1	O
+6	nos	nos	O	1	O
+7	alojamos	alojamos	O	1	O
+8	en	en	O	1	O
+9	él	él	O	1	O
+10	por	por	O	1	O
+11	su	su	O	1	O
+12	cercanía	cercanía	O	1	O
+13	con	con	O	1	O
+14	la	la	O	1	O
+15	estación	estación	O	1	O
+16	del	del	O	1	O
+17	ave	ave	O	1	O
+18	y	y	G	1	O
+19	de	de	O	1	O
+20	la	la	O	1	O
+21	ciudad	ciudad	O	1	O
+22	de	de	O	1	O
+23	las	las	O	1	O
+24	artes	artes	N	1	O
+25	y	y	A	1	O
+26	las	las	V	1	O
+27	ciencias	ciencias	N	1	O
+28	.	.	O	1	O
 
-1	Esta	Esta	R	1	
-2	vez	vez	N	1	
-3	nos	nos	N	1	
-4	dieron	dieron	V	1	
-5	una	una	G	1	
-6	habitación	habitación	N	1	
-7	(	(	O	1	
-8	608	608	O	1	
-9	)	)	O	1	
-10	un	un	G	1	
-11	poco	poco	N	1	
-12	deteriorada	deteriorada	N	1	
-13	(	(	O	1	
-14	la	la	O	1	
-15	pared	pared	O	1	
-16	de	de	O	1	
-17	la	la	O	1	
-18	habitación	habitación	O	1	
-19	necesitaba	necesitaba	O	1	
-20	una	una	O	1	
-21	mano	mano	O	1	
-22	de	de	O	1	
-23	pintura	pintura	O	1	
-24	porque	porque	O	1	
-25	estaba	estaba	O	1	
-26	llena	llena	O	1	
-27	de	de	O	1	
-28	manchas	manchas	O	1	
-29	·	·	O	1	
-30	patadas	patadas	N	1	
-31	...	...	O	1	
-32	el	el	N	1	
-33	cabecero	cabecero	N	1	
-34	de	de	O	1	
-35	la	la	O	1	
-36	cama	cama	O	1	
-37	y	y	G	1	
-38	la	la	D	1	
-39	puerta	puerta	O	1	
-40	de	de	O	1	
-41	la	la	O	1	
-42	nevera	nevera	O	1	
-43	como	como	O	1	
-44	un	un	G	1	
-45	mapa	mapa	N	1	
-46	mundi	mundi	N	1	
-47	....	....	O	1	
-48	manchas	manchas	V	1	
-49	arañazos	arañazos	N	1	
-50	)	)	O	1	
-51	.	.	O	1	
+1	Esta	Esta	R	1	O
+2	vez	vez	N	1	O
+3	nos	nos	N	1	O
+4	dieron	dieron	V	1	O
+5	una	una	G	1	O
+6	habitación	habitación	N	1	O
+7	(	(	O	1	O
+8	608	608	O	1	O
+9	)	)	O	1	O
+10	un	un	G	1	O
+11	poco	poco	N	1	O
+12	deteriorada	deteriorada	N	1	O
+13	(	(	O	1	O
+14	la	la	O	1	O
+15	pared	pared	O	1	O
+16	de	de	O	1	O
+17	la	la	O	1	O
+18	habitación	habitación	O	1	O
+19	necesitaba	necesitaba	O	1	O
+20	una	una	O	1	O
+21	mano	mano	O	1	O
+22	de	de	O	1	O
+23	pintura	pintura	O	1	O
+24	porque	porque	O	1	O
+25	estaba	estaba	O	1	O
+26	llena	llena	O	1	O
+27	de	de	O	1	O
+28	manchas	manchas	O	1	O
+29	·	·	O	1	O
+30	patadas	patadas	N	1	O
+31	...	...	O	1	O
+32	el	el	N	1	O
+33	cabecero	cabecero	N	1	O
+34	de	de	O	1	O
+35	la	la	O	1	O
+36	cama	cama	O	1	O
+37	y	y	G	1	O
+38	la	la	D	1	O
+39	puerta	puerta	O	1	O
+40	de	de	O	1	O
+41	la	la	O	1	O
+42	nevera	nevera	O	1	O
+43	como	como	O	1	O
+44	un	un	G	1	O
+45	mapa	mapa	N	1	O
+46	mundi	mundi	N	1	O
+47	....	....	O	1	O
+48	manchas	manchas	V	1	O
+49	arañazos	arañazos	N	1	O
+50	)	)	O	1	O
+51	.	.	O	1	O
 
-1	Pero	Pero	R	1	
-2	era	era	N	1	
-3	una	una	G	1	
-4	habitación	habitación	N	1	
-5	cómoda	cómoda	N	1	
-6	y	y	G	1	
-7	descansamos	descansamos	N	1	
-8	bien	bien	G	1	
+1	Pero	Pero	R	1	O
+2	era	era	N	1	O
+3	una	una	G	1	O
+4	habitación	habitación	N	1	O
+5	cómoda	cómoda	N	1	O
+6	y	y	G	1	O
+7	descansamos	descansamos	N	1	O
+8	bien	bien	G	1	O
 

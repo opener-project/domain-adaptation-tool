@@ -1,43 +1,44 @@
-1	Europark	Europark	R	1	ne=Attraction
-2	a	avoir	V	1	
-3	voir	voir	V	1	
-4	absolument	absolument	G	1	
+1	Europark	Europark	R	1	I-Attraction
+2	a	avoir	V	1	O
+3	voir	voir	V	1	O
+4	absolument	absolument	G	1	O
 
-1	3	3	D	1	
-2	années	année	N	1	
-3	de	de	P	1	
-4	suite	suite	N	1	
-5	que	que	C	1	
-6	nous	lui	Q	1	
-7	allons	aller	V	1	
-8	dans	dans	P	1	
-9	cette	ce	D	1	
-10	région	région	N	1	
-11	et	et	C	1	
-12	3	3	D	1	
-13	années	année	N	1	
-14	de	de	P	1	
-15	suite	suite	N	1	
-16	que	que	C	1	
-17	nous	lui	Q	1	
-18	allons	aller	V	1	
-19	au	au	P	1	
-20	Park_europark	Park_europark	R	1	ne=Attraction
-21	,	,	O	1	
-22	toujours	toujours	G	1	
-23	aussi	aussi	G	1	
-24	satisfait	satisfait	G	1	
-25	d'	d'	P	1	
-26	y	y	Q	1	
-27	aller	aller	V	1	
-28	a	avoir	V	1	
-29	chaque	chaque	D	1	
-30	fois	foi	N	1	
-31	,	,	O	1	
-32	les	le	D	1	
-33	glaces	glace	N	1	
-34	sont	être	V	1	
-35	toujours	toujours	G	1	
-36	aussi	aussi	G	1	
-37	bonnes	bon	G	1	
+1	3	3	D	1	O
+2	années	année	N	1	O
+3	de	de	P	1	O
+4	suite	suite	N	1	O
+5	que	que	C	1	O
+6	nous	lui	Q	1	O
+7	allons	aller	V	1	O
+8	dans	dans	P	1	O
+9	cette	ce	D	1	O
+10	région	région	N	1	O
+11	et	et	C	1	O
+12	3	3	D	1	O
+13	années	année	N	1	O
+14	de	de	P	1	O
+15	suite	suite	N	1	O
+16	que	que	C	1	O
+17	nous	lui	Q	1	O
+18	allons	aller	V	1	O
+19	au	au	P	1	O
+20	Park	Park	N	1	I-Attraction
+21	europark	europark	G	1	I-Attraction
+22	,	,	O	1	O
+23	toujours	toujours	G	1	O
+24	aussi	aussi	G	1	O
+25	satisfait	satisfait	G	1	O
+26	d'	d'	P	1	O
+27	y	y	Q	1	O
+28	aller	aller	V	1	O
+29	a	avoir	V	1	O
+30	chaque	chaque	D	1	O
+31	fois	foi	N	1	O
+32	,	,	O	1	O
+33	les	le	D	1	O
+34	glaces	glace	N	1	O
+35	sont	être	V	1	O
+36	toujours	toujours	G	1	O
+37	aussi	aussi	G	1	O
+38	bonnes	bon	G	1	O
 

@@ -1,85 +1,90 @@
-1	De	De	P	1	
-2	tres	tres	D	1	
-3	bon	bon	G	1	
-4	moments	moment	N	1	
+1	De	De	P	1	O
+2	tres	tres	D	1	O
+3	bon	bon	G	1	O
+4	moments	moment	N	1	O
 
-1	il	il	Q	1	
-2	y	y	Q	1	
-3	a	avoir	V	1	
-4	des	un	D	1	
-5	activitées	activitées	N	1	
-6	tous	tout	G	1	
-7	les	le	D	1	
-8	soir	soir	N	1	
-9	de	de	P	1	
-10	quoi	quoi	P	1	
-11	ne	ne	G	1	
-12	pas	pas	G	1	
-13	s'	s'	Q	1	
-14	ennuyer.	ennuyer.	N	1	
-15	le	le	D	1	
-16	camping	camping	N	1	
-17	est	être	V	1	
-18	tres	tres	D	1	
-19	bien	bien	G	1	
-20	situé	situer	V	1	
-21	aucu	aucu	P	1	
-22	vis	vis	N	1	
-23	a	avoir	V	1	
-24	vis	vis	N	1	
-25	sur	sur	P	1	
-26	la	le	D	1	
-27	route	route	N	1	
-28	par	par	P	1	
-29	contre	contre	D	1	
-30	niveau	niveau	N	1	
-31	restauration	restauration	N	1	
-32	il	il	Q	1	
-33	ne	ne	G	1	
-34	faut	faillir	V	1	
-35	pas	pas	G	1	
-36	avoir	avoir	V	1	
-37	un	un	D	1	
-38	petit	petit	G	1	
-39	creux	creux	N	1	
-40	a	avoir	V	1	
-41	9h	9h	V	1	
-42	du	du	D	1	
-43	soir	soir	N	1	
-44	car	car	C	1	
-45	il	il	Q	1	
-46	ne	ne	G	1	
-47	prepare	prepare	V	1	
-48	plus	plus	G	1	
-49	rien	rien	G	1	
-50	ais	ais	G	1	
-51	sinon	sinon	C	1	
-52	le	le	D	1	
-53	cadre	cadre	N	1	
-54	est	être	V	1	
-55	agreable	agreable	G	1	
-56	et	et	C	1	
-57	il	il	Q	1	
-58	y	y	Q	1	
-59	a	avoir	V	1	
-60	meme	meme	N	1	
-61	des	des	P	1	
-62	activité	activité	N	1	
-63	pour	pour	P	1	
-64	les	le	D	1	
-65	enfants	enfant	N	1	
-66	le_matin_de_10h_a_12h	le_matin_de_10h_avoir_12h	R	1	ne=Time
-67	come	come	P	1	
-68	le	le	D	1	
-69	quad	quad	N	1	
-70	ou	ou	C	1	
-71	atelier	atelier	N	1	
-72	maquillage	maquillage	N	1	
-73	que	que	C	1	
-74	je	je	Q	1	
-75	confirme	confirme	N	1	
-76	est	être	V	1	
-77	tres	tres	G	1	
-78	reussi	reussi	G	1	
-79	.	.	O	1	
+1	il	il	Q	1	O
+2	y	y	Q	1	O
+3	a	avoir	V	1	O
+4	des	un	D	1	O
+5	activitées	activitées	N	1	O
+6	tous	tout	G	1	O
+7	les	le	D	1	O
+8	soir	soir	N	1	O
+9	de	de	P	1	O
+10	quoi	quoi	P	1	O
+11	ne	ne	G	1	O
+12	pas	pas	G	1	O
+13	s'	s'	Q	1	O
+14	ennuyer.	ennuyer.	N	1	O
+15	le	le	D	1	O
+16	camping	camping	N	1	O
+17	est	être	V	1	O
+18	tres	tres	D	1	O
+19	bien	bien	G	1	O
+20	situé	situer	V	1	O
+21	aucu	aucu	P	1	O
+22	vis	vis	N	1	O
+23	a	avoir	V	1	O
+24	vis	vis	N	1	O
+25	sur	sur	P	1	O
+26	la	le	D	1	O
+27	route	route	N	1	O
+28	par	par	P	1	O
+29	contre	contre	D	1	O
+30	niveau	niveau	N	1	O
+31	restauration	restauration	N	1	O
+32	il	il	Q	1	O
+33	ne	ne	G	1	O
+34	faut	faillir	V	1	O
+35	pas	pas	G	1	O
+36	avoir	avoir	V	1	O
+37	un	un	D	1	O
+38	petit	petit	G	1	O
+39	creux	creux	N	1	O
+40	a	avoir	V	1	O
+41	9h	9h	V	1	O
+42	du	du	D	1	O
+43	soir	soir	N	1	O
+44	car	car	C	1	O
+45	il	il	Q	1	O
+46	ne	ne	G	1	O
+47	prepare	prepare	V	1	O
+48	plus	plus	G	1	O
+49	rien	rien	G	1	O
+50	ais	ais	G	1	O
+51	sinon	sinon	C	1	O
+52	le	le	D	1	O
+53	cadre	cadre	N	1	O
+54	est	être	V	1	O
+55	agreable	agreable	G	1	O
+56	et	et	C	1	O
+57	il	il	Q	1	O
+58	y	y	Q	1	O
+59	a	avoir	V	1	O
+60	meme	meme	N	1	O
+61	des	des	P	1	O
+62	activité	activité	N	1	O
+63	pour	pour	P	1	O
+64	les	le	D	1	O
+65	enfants	enfant	N	1	O
+66	le	le	D	1	I-Time
+67	matin	matin	N	1	I-Time
+68	de	de	P	1	I-Time
+69	10h	10h	N	1	I-Time
+70	a	avoir	V	1	I-Time
+71	12h	12h	V	1	I-Time
+72	come	come	P	1	O
+73	le	le	D	1	O
+74	quad	quad	N	1	O
+75	ou	ou	C	1	O
+76	atelier	atelier	N	1	O
+77	maquillage	maquillage	N	1	O
+78	que	que	C	1	O
+79	je	je	Q	1	O
+80	confirme	confirme	N	1	O
+81	est	être	V	1	O
+82	tres	tres	G	1	O
+83	reussi	reussi	G	1	O
+84	.	.	O	1	O
 

@@ -1,119 +1,119 @@
-1	Guter	gut	G	1	
-2	Durchschnitt	Durchschnitt	N	1	
+1	Guter	gut	G	1	O
+2	Durchschnitt	Durchschnitt	N	1	O
 
-1	Durch	durch	P	1	
-2	die	die	D	1	
-3	Eigenschaft	Eigenschaft	N	1	
-4	als	als	C	1	
-5	Flughafenhotel	Flughafenhotel	N	1	
-6	bedingt	bedingen	V	1	
-7	sich	sich	Q	1	
-8	die	die	D	1	
-9	nicht	nicht	O	1	
-10	sehr	sehr	A	1	
-11	zentrale	zentral	G	1	
-12	Lage	Lage	N	1	
-13	und	und	C	1	
-14	die	die	D	1	
-15	resultierenden	resultierend	G	1	
-16	Einschränkungen	Einschränkung	N	1	
-17	der	die	D	1	
-18	Umgebung	Umgebung	N	1	
-19	.	.	O	1	
+1	Durch	durch	P	1	O
+2	die	die	D	1	O
+3	Eigenschaft	Eigenschaft	N	1	O
+4	als	als	C	1	O
+5	Flughafenhotel	Flughafenhotel	N	1	O
+6	bedingt	bedingen	V	1	O
+7	sich	sich	Q	1	O
+8	die	die	D	1	O
+9	nicht	nicht	O	1	O
+10	sehr	sehr	A	1	O
+11	zentrale	zentral	G	1	O
+12	Lage	Lage	N	1	O
+13	und	und	C	1	O
+14	die	die	D	1	O
+15	resultierenden	resultierend	G	1	O
+16	Einschränkungen	Einschränkung	N	1	O
+17	der	die	D	1	O
+18	Umgebung	Umgebung	N	1	O
+19	.	.	O	1	O
 
-1	Entsprechend	entsprechend	G	1	
-2	liegt	liegen	V	1	
-3	die	die	D	1	
-4	Stärke	Stärke	N	1	
-5	des	die	D	1	
-6	Hotels	Hotel	N	1	
-7	eher	eher	A	1	
-8	im	in	P	1	
-9	Bereich	Bereich	N	1	
-10	Geschäftsreisen	Geschäftsreise	N	1	
-11	und	und	C	1	
-12	Airportanbindung	Airportanbindung	O	1	
-13	als	als	C	1	
-14	in	in	P	1	
-15	den	die	D	1	
-16	Freizeit.	freizeit.	N	1	
-17	und	und	C	1	
-18	Sightseeing	Sightseeing	O	1	
-19	·	·	O	1	
-20	Möglichkeiten	Möglichkeit	N	1	
-21	.	.	O	1	
+1	Entsprechend	entsprechend	G	1	O
+2	liegt	liegen	V	1	O
+3	die	die	D	1	O
+4	Stärke	Stärke	N	1	O
+5	des	die	D	1	O
+6	Hotels	Hotel	N	1	O
+7	eher	eher	A	1	O
+8	im	in	P	1	O
+9	Bereich	Bereich	N	1	O
+10	Geschäftsreisen	Geschäftsreise	N	1	O
+11	und	und	C	1	O
+12	Airportanbindung	Airportanbindung	O	1	O
+13	als	als	C	1	O
+14	in	in	P	1	O
+15	den	die	D	1	O
+16	Freizeit.	freizeit.	N	1	O
+17	und	und	C	1	O
+18	Sightseeing	Sightseeing	O	1	O
+19	·	·	O	1	O
+20	Möglichkeiten	Möglichkeit	N	1	O
+21	.	.	O	1	O
 
-1	Unbenommen	unbenommen	G	1	
-2	gelangt	gelangen|gelingen	V	1	
-3	man	man	Q	1	
-4	natürlich	natürlich	A	1	
-5	mit	mit	P	1	
-6	überschaubarem	überschaubar	G	1	
-7	Aufwand	Aufwand	N	1	
-8	in	in	P	1	
-9	die	die	D	1	
-10	Berliner	Berliner	G	1	
-11	City	City	N	1	
-12	·	·	O	1	
-13	wer	wer	Q	1	
-14	dies	dies	Q	1	
-15	wünscht	wünschen	V	1	
-16	ist	sein	V	1	
-17	aber	aber	A	1	
-18	besser	gut	G	1	
-19	zentraler	zentral	G	1	
-20	untergebracht	unterbringen	V	1	
-21	.	.	O	1	
+1	Unbenommen	unbenommen	G	1	O
+2	gelangt	gelangen|gelingen	V	1	O
+3	man	man	Q	1	O
+4	natürlich	natürlich	A	1	O
+5	mit	mit	P	1	O
+6	überschaubarem	überschaubar	G	1	O
+7	Aufwand	Aufwand	N	1	O
+8	in	in	P	1	O
+9	die	die	D	1	O
+10	Berliner	Berliner	G	1	O
+11	City	City	N	1	O
+12	·	·	O	1	O
+13	wer	wer	Q	1	O
+14	dies	dies	Q	1	O
+15	wünscht	wünschen	V	1	O
+16	ist	sein	V	1	O
+17	aber	aber	A	1	O
+18	besser	gut	G	1	O
+19	zentraler	zentral	G	1	O
+20	untergebracht	unterbringen	V	1	O
+21	.	.	O	1	O
 
-1	Wer	wer	Q	1	
-2	geschäftlich	geschäftlich	G	1	
-3	die	die	D	1	
-4	Flughafennähe	Flughafennähe	N	1	
-5	sucht	suchen	V	1	
-6	,	,	O	1	
-7	wird	werden	V	1	
-8	allerdings	allerdings	A	1	
-9	leider	leider	A	1	
-10	Zimmersafe	Zimmersafe	O	1	
-11	,	,	O	1	
-12	ausreichend	ausreichend	G	1	
-13	Steckdosen	Steckdose	N	1	
-14	für	für	P	1	
-15	Laptop	Laptop	R	1	
-16	/	/	O	1	
-17	Handy	Handy	R	1	
-18	etc.	etc.	A	1	
-19	und	und	C	1	
-20	eine	eine	D	1	
-21	gute	gut	G	1	
-22	Übertragungsgeschwindigkeit	Übertragungsgeschwindigkeit	N	1	
-23	des	die	D	1	
-24	Internetzugangs	Internetzugangs	O	1	
-25	vermissen	vermissen	V	1	
-26	.	.	O	1	
+1	Wer	wer	Q	1	O
+2	geschäftlich	geschäftlich	G	1	O
+3	die	die	D	1	O
+4	Flughafennähe	Flughafennähe	N	1	O
+5	sucht	suchen	V	1	O
+6	,	,	O	1	O
+7	wird	werden	V	1	O
+8	allerdings	allerdings	A	1	O
+9	leider	leider	A	1	O
+10	Zimmersafe	Zimmersafe	O	1	O
+11	,	,	O	1	O
+12	ausreichend	ausreichend	G	1	O
+13	Steckdosen	Steckdose	N	1	O
+14	für	für	P	1	O
+15	Laptop	Laptop	R	1	O
+16	/	/	O	1	O
+17	Handy	Handy	R	1	O
+18	etc.	etc.	A	1	O
+19	und	und	C	1	O
+20	eine	eine	D	1	O
+21	gute	gut	G	1	O
+22	Übertragungsgeschwindigkeit	Übertragungsgeschwindigkeit	N	1	O
+23	des	die	D	1	O
+24	Internetzugangs	Internetzugangs	O	1	O
+25	vermissen	vermissen	V	1	O
+26	.	.	O	1	O
 
-1	Ansonsten	ansonsten	A	1	
-2	ohne	ohne	P	1	
-3	Beanstandungen	Beanstandung	N	1	
-4	,	,	O	1	
-5	Zimmer	Zimmer	N	1	
-6	ausreichend	ausreichend	G	1	
-7	groß	groß	G	1	
-8	,	,	O	1	
-9	annehmbar	annehmbar	G	1	
-10	sauber	sauber	G	1	
-11	(	(	O	1	
-12	außer	außer	P	1	
-13	höher	hoch	G	1	
-14	gelegene	gelegen	G	1	
-15	Ablagen	Ablage	N	1	
-16	/	/	O	1	
-17	Regalbretter	Regalbrett	N	1	
-18	)	)	O	1	
-19	,	,	O	1	
-20	freundliche	freundlich	G	1	
-21	Mitarbeiter	Mitarbeiter	N	1	
-22	/	/	O	1	
-23	innen	innen	G	1	
-24	...	...	O	1	
+1	Ansonsten	ansonsten	A	1	O
+2	ohne	ohne	P	1	O
+3	Beanstandungen	Beanstandung	N	1	O
+4	,	,	O	1	O
+5	Zimmer	Zimmer	N	1	O
+6	ausreichend	ausreichend	G	1	O
+7	groß	groß	G	1	O
+8	,	,	O	1	O
+9	annehmbar	annehmbar	G	1	O
+10	sauber	sauber	G	1	O
+11	(	(	O	1	O
+12	außer	außer	P	1	O
+13	höher	hoch	G	1	O
+14	gelegene	gelegen	G	1	O
+15	Ablagen	Ablage	N	1	O
+16	/	/	O	1	O
+17	Regalbretter	Regalbrett	N	1	O
+18	)	)	O	1	O
+19	,	,	O	1	O
+20	freundliche	freundlich	G	1	O
+21	Mitarbeiter	Mitarbeiter	N	1	O
+22	/	/	O	1	O
+23	innen	innen	G	1	O
+24	...	...	O	1	O
 

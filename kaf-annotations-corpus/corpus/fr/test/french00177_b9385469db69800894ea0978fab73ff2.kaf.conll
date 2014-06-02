@@ -1,39 +1,39 @@
-1	Bien	Bien	G	1	
-2	pour	pour	P	1	
-3	le	le	D	1	
-4	prix	prix	N	1	
+1	Bien	Bien	G	1	O
+2	pour	pour	P	1	O
+3	le	le	D	1	O
+4	prix	prix	N	1	O
 
-1	pour	pour	P	1	
-2	petits	petit	G	1	
-3	budgets	budget	N	1	
-4	avec	avec	P	1	
-5	un	un	D	1	
-6	minimum	minimum	N	1	
-7	de	de	P	1	
-8	confort	confort	N	1	
-9	,	,	O	1	
-10	bien	bien	G	1	
-11	avec	avec	P	1	
-12	des	un	D	1	
-13	enfants	enfant	N	1	
-14	malgré	malgré	P	1	
-15	l'	le	D	1	
-16	étroitesse	étroitesse	N	1	
-17	des	des	P	1	
-18	lieux.	lieux.	D	1	
-19	dommage	dommage	N	1	
-20	que	que	C	1	
-21	les	le	D	1	
-22	murs	mur	N	1	
-23	ne	ne	G	1	
-24	soient	être	V	1	
-25	pas	pas	G	1	
-26	plus	plus	G	1	
-27	isolés	isoler	V	1	
-28	accoustiquement.	accoustiquement.	P	1	
-29	le	le	D	1	
-30	petit	petit	G	1	
-31	déj	déj	N	1	
-32	était	être	V	1	
-33	convivial	convivial	G	1	
+1	pour	pour	P	1	O
+2	petits	petit	G	1	O
+3	budgets	budget	N	1	O
+4	avec	avec	P	1	O
+5	un	un	D	1	O
+6	minimum	minimum	N	1	O
+7	de	de	P	1	O
+8	confort	confort	N	1	O
+9	,	,	O	1	O
+10	bien	bien	G	1	O
+11	avec	avec	P	1	O
+12	des	un	D	1	O
+13	enfants	enfant	N	1	O
+14	malgré	malgré	P	1	O
+15	l'	le	D	1	O
+16	étroitesse	étroitesse	N	1	O
+17	des	des	P	1	O
+18	lieux.	lieux.	D	1	O
+19	dommage	dommage	N	1	O
+20	que	que	C	1	O
+21	les	le	D	1	O
+22	murs	mur	N	1	O
+23	ne	ne	G	1	O
+24	soient	être	V	1	O
+25	pas	pas	G	1	O
+26	plus	plus	G	1	O
+27	isolés	isoler	V	1	O
+28	accoustiquement.	accoustiquement.	P	1	O
+29	le	le	D	1	O
+30	petit	petit	G	1	O
+31	déj	déj	N	1	O
+32	était	être	V	1	O
+33	convivial	convivial	G	1	O
 

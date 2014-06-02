@@ -1,125 +1,128 @@
-1	Excellent	Excellent	R	1	
-2	location	location	N	1	
+1	Excellent	Excellent	R	1	O
+2	location	location	N	1	O
 
-1	This	this	D	1	
-2	hotel	hotel	N	1	
-3	has	have	V	1	
-4	an	a	D	1	
-5	excellent	excellent	G	1	
-6	location	location	N	1	
-7	,	,	O	1	
-8	just	just	A	1	
-9	across	across	P	1	
-10	the	the	D	1	
-11	bridge	bridge	N	1	
-12	from	from	P	1	
-13	the_Palace_of_Westminster	the_Palace_of_Westminster	R	1	ne=Attraction
-14	and	and	C	1	
-15	at	at	P	1	
-16	walking	walk	V	1	
-17	distance	distance	N	1	
-18	to	to	P	1	
-19	numerous	numerous	G	1	
-20	touristic	touristic	G	1	
-21	attractions	attraction	N	1	
-22	.	.	O	1	
+1	This	this	D	1	O
+2	hotel	hotel	N	1	O
+3	has	have	V	1	O
+4	an	a	D	1	O
+5	excellent	excellent	G	1	O
+6	location	location	N	1	O
+7	,	,	O	1	O
+8	just	just	A	1	O
+9	across	across	P	1	O
+10	the	the	D	1	O
+11	bridge	bridge	N	1	O
+12	from	from	P	1	O
+13	the	the	D	1	I-Attraction
+14	Palace	Palace	R	1	I-Attraction
+15	of	of	P	1	I-Attraction
+16	Westminster	Westminster	R	1	I-Attraction
+17	and	and	C	1	O
+18	at	at	P	1	O
+19	walking	walk	V	1	O
+20	distance	distance	N	1	O
+21	to	to	P	1	O
+22	numerous	numerous	G	1	O
+23	touristic	touristic	G	1	O
+24	attractions	attraction	N	1	O
+25	.	.	O	1	O
 
-1	Within	within	P	1	
-2	5	5	O	1	
-3	minutes	minute	N	1	
-4	walking	walk	V	1	
-5	distance	distance	N	1	
-6	were	be	V	1	
-7	tube	tube	N	1	
-8	stations	station	N	1	
-9	and	and	C	1	
-10	bus	bus	N	1	
-11	stations	station	N	1	
-12	.	.	O	1	
+1	Within	within	P	1	O
+2	5	5	O	1	O
+3	minutes	minute	N	1	O
+4	walking	walk	V	1	O
+5	distance	distance	N	1	O
+6	were	be	V	1	O
+7	tube	tube	N	1	O
+8	stations	station	N	1	O
+9	and	and	C	1	O
+10	bus	bus	N	1	O
+11	stations	station	N	1	O
+12	.	.	O	1	O
 
-1	We	we	Q	1	
-2	enjoyed	enjoy	V	1	
-3	fast	fast	A	1	
-4	and	and	C	1	
-5	smooth	smooth	A	1	
-6	check	check	V	1	
-7	·	·	N	1	
-8	in	in	P	1	
-9	and	and	C	1	
-10	check	check	V	1	
-11	·	·	N	1	
-12	out	out	P	1	
-13	procedures	procedure	N	1	
-14	.	.	O	1	
+1	We	we	Q	1	O
+2	enjoyed	enjoy	V	1	O
+3	fast	fast	A	1	O
+4	and	and	C	1	O
+5	smooth	smooth	A	1	O
+6	check	check	V	1	O
+7	·	·	N	1	O
+8	in	in	P	1	O
+9	and	and	C	1	O
+10	check	check	V	1	O
+11	·	·	N	1	O
+12	out	out	P	1	O
+13	procedures	procedure	N	1	O
+14	.	.	O	1	O
 
-1	The	the	D	1	
-2	studio	studio	N	1	
-3	rooms	room	N	1	
-4	were	be	V	1	
-5	very	very	A	1	
-6	spacious	spacious	G	1	
-7	,	,	O	1	
-8	luxurious	luxurious	G	1	
-9	and	and	C	1	
-10	kept	keep	V	1	
-11	very	very	A	1	
-12	clean	clean	G	1	
-13	,	,	O	1	
-14	with	with	P	1	
-15	modern	modern	G	1	
-16	furniture	furniture	N	1	
-17	and	and	C	1	
-18	relaxing	relaxing	G	1	
-19	colors	color	N	1	
-20	.	.	O	1	
+1	The	the	D	1	O
+2	studio	studio	N	1	O
+3	rooms	room	N	1	O
+4	were	be	V	1	O
+5	very	very	A	1	O
+6	spacious	spacious	G	1	O
+7	,	,	O	1	O
+8	luxurious	luxurious	G	1	O
+9	and	and	C	1	O
+10	kept	keep	V	1	O
+11	very	very	A	1	O
+12	clean	clean	G	1	O
+13	,	,	O	1	O
+14	with	with	P	1	O
+15	modern	modern	G	1	O
+16	furniture	furniture	N	1	O
+17	and	and	C	1	O
+18	relaxing	relaxing	G	1	O
+19	colors	color	N	1	O
+20	.	.	O	1	O
 
-1	Bathroom	Bathroom	R	1	
-2	is	be	V	1	
-3	large	large	G	1	
-4	and	and	C	1	
-5	good	good	G	1	
-6	quality	quality	N	1	
-7	toiletries	toiletry	N	1	
-8	were	be	V	1	
-9	provided	provide	V	1	
-10	,	,	O	1	
-11	including	include	V	1	
-12	bathrobes	bathrobes	N	1	
-13	and	and	C	1	
-14	slippers	slipper	N	1	
-15	for	for	P	1	
-16	the	the	D	1	
-17	entire	entire	G	1	
-18	family	family	N	1	
-19	.	.	O	1	
+1	Bathroom	Bathroom	R	1	O
+2	is	be	V	1	O
+3	large	large	G	1	O
+4	and	and	C	1	O
+5	good	good	G	1	O
+6	quality	quality	N	1	O
+7	toiletries	toiletry	N	1	O
+8	were	be	V	1	O
+9	provided	provide	V	1	O
+10	,	,	O	1	O
+11	including	include	V	1	O
+12	bathrobes	bathrobes	N	1	O
+13	and	and	C	1	O
+14	slippers	slipper	N	1	O
+15	for	for	P	1	O
+16	the	the	D	1	O
+17	entire	entire	G	1	O
+18	family	family	N	1	O
+19	.	.	O	1	O
 
-1	We	we	Q	1	
-2	appreciated	appreciate	V	1	
-3	the	the	D	1	
-4	self	self	N	1	
-5	·	·	N	1	
-6	catering	cater	V	1	
-7	facilities	facility	N	1	
-8	provided	provide	V	1	
-9	and	and	C	1	
-10	complimentary	complimentary	G	1	
-11	access	access	N	1	
-12	to	to	P	1	
-13	internet	internet	N	1	
-14	.	.	O	1	
+1	We	we	Q	1	O
+2	appreciated	appreciate	V	1	O
+3	the	the	D	1	O
+4	self	self	N	1	O
+5	·	·	N	1	O
+6	catering	cater	V	1	O
+7	facilities	facility	N	1	O
+8	provided	provide	V	1	O
+9	and	and	C	1	O
+10	complimentary	complimentary	G	1	O
+11	access	access	N	1	O
+12	to	to	P	1	O
+13	internet	internet	N	1	O
+14	.	.	O	1	O
 
-1	Definitely	definitely	A	1	
-2	we	we	Q	1	
-3	will	will	O	1	
-4	be	be	V	1	
-5	back	back	A	1	
-6	at	at	P	1	
-7	this	this	D	1	
-8	hotel	hotel	N	1	
-9	,	,	O	1	
-10	next	next	G	1	
-11	time	time	N	1	
-12	in	in	P	1	
-13	London	London	R	1	ne=Location
-14	.	.	O	1	
+1	Definitely	definitely	A	1	O
+2	we	we	Q	1	O
+3	will	will	O	1	O
+4	be	be	V	1	O
+5	back	back	A	1	O
+6	at	at	P	1	O
+7	this	this	D	1	O
+8	hotel	hotel	N	1	O
+9	,	,	O	1	O
+10	next	next	G	1	O
+11	time	time	N	1	O
+12	in	in	P	1	O
+13	London	London	R	1	I-Location
+14	.	.	O	1	O
 

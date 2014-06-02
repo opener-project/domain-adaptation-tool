@@ -1,50 +1,50 @@
-1	MAGNIFIQUE	MAGNIFIQUE	N	1	
-2	!	!	O	1	
-3	!	!	O	1	
-4	!	!	O	1	
+1	MAGNIFIQUE	MAGNIFIQUE	N	1	O
+2	!	!	O	1	O
+3	!	!	O	1	O
+4	!	!	O	1	O
 
-1	On	On	Q	1	
-2	ressort	ressortir	V	1	
-3	de	de	P	1	
-4	ce	ce	D	1	
-5	zoo	zoo	N	1	
-6	avec	avec	P	1	
-7	des	un	D	1	
-8	souvenirs	souvenir	N	1	
-9	pleins	plein	G	1	
-10	les	le	D	1	
-11	yeux	oeil	N	1	
-12	,	,	O	1	
-13	Spectacle	spectacle	N	1	
-14	d'	d'	P	1	
-15	otarie	otarie	N	1	
-16	et	et	C	1	
-17	de	de	P	1	
-18	perroquet	perroquet	N	1	
-19	sublime	sublime	G	1	
-20	,	,	O	1	
-21	Des	un	D	1	
-22	animaux	animal	N	1	
-23	trés	trés	V	1	
-24	rares	rare	G	1	
-25	à	à	P	1	
-26	voir.Le	voir.Le	V	1	
-27	prix	prix	N	1	
-28	15	15	G	1	
-29	euros	euros	G	1	
-30	est	être	V	1	
-31	un	un	D	1	
-32	peu	peu	G	1	
-33	chére	chére	G	1	
-34	mais	mais	C	1	
-35	les	le	D	1	
-36	3h	3h	N	1	
-37	de	de	P	1	
-38	visites	visite	N	1	
-39	dans	dans	P	1	
-40	ce	ce	D	1	
-41	zoo	zoo	N	1	
-42	vaut	valoir	V	1	
-43	le	le	D	1	
-44	coup	coup	N	1	
+1	On	On	Q	1	O
+2	ressort	ressortir	V	1	O
+3	de	de	P	1	O
+4	ce	ce	D	1	O
+5	zoo	zoo	N	1	O
+6	avec	avec	P	1	O
+7	des	un	D	1	O
+8	souvenirs	souvenir	N	1	O
+9	pleins	plein	G	1	O
+10	les	le	D	1	O
+11	yeux	oeil	N	1	O
+12	,	,	O	1	O
+13	Spectacle	spectacle	N	1	O
+14	d'	d'	P	1	O
+15	otarie	otarie	N	1	O
+16	et	et	C	1	O
+17	de	de	P	1	O
+18	perroquet	perroquet	N	1	O
+19	sublime	sublime	G	1	O
+20	,	,	O	1	O
+21	Des	un	D	1	O
+22	animaux	animal	N	1	O
+23	trés	trés	V	1	O
+24	rares	rare	G	1	O
+25	à	à	P	1	O
+26	voir.Le	voir.Le	V	1	O
+27	prix	prix	N	1	O
+28	15	15	G	1	O
+29	euros	euros	G	1	O
+30	est	être	V	1	O
+31	un	un	D	1	O
+32	peu	peu	G	1	O
+33	chére	chére	G	1	O
+34	mais	mais	C	1	O
+35	les	le	D	1	O
+36	3h	3h	N	1	O
+37	de	de	P	1	O
+38	visites	visite	N	1	O
+39	dans	dans	P	1	O
+40	ce	ce	D	1	O
+41	zoo	zoo	N	1	O
+42	vaut	valoir	V	1	O
+43	le	le	D	1	O
+44	coup	coup	N	1	O
 

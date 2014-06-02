@@ -1,45 +1,45 @@
-1	Best	good	G	1	
-2	hotel	hotel	N	1	
+1	Best	good	G	1	O
+2	hotel	hotel	N	1	O
 
-1	Rooms	room	N	1	
-2	is	be	V	1	
-3	good	good	G	1	
-4	but	but	C	1	
-5	the	the	D	1	
-6	restaurants	restaurant	N	1	
-7	specially	specially	A	1	
-8	the	the	D	1	
-9	main	main	G	1	
-10	restaurant	restaurant	N	1	
-11	the	the	D	1	
-12	menus	menus	N	1	
-13	ls	ls	V	1	
-14	everytime	everytime	A	1	
-15	same	same	G	1	
-16	,	,	O	1	
-17	child	child	N	1	
-18	pool	pool	N	1	
-19	is	be	V	1	
-20	to	to	P	1	
-21	cold	cold	V	1	
-22	,	,	O	1	
-23	a	a	D	1	
-24	la	la	N	1	
-25	carte	carte	N	1	
-26	restaurants	restaurant	N	1	
-27	ls	ls	V	1	
-28	very	very	A	1	
-29	good	good	G	1	
-30	,	,	O	1	
-31	maxxiland	maxxiland	R	1	ne=Attraction
-32	is	be	V	1	
-33	really	really	A	1	
-34	good	good	G	1	
-35	for	for	P	1	
-36	the	the	D	1	
-37	child	child	N	1	
-38	and	and	C	1	
-39	for	for	P	1	
-40	us	us	Q	1	
-41	.	.	O	1	
+1	Rooms	room	N	1	O
+2	is	be	V	1	O
+3	good	good	G	1	O
+4	but	but	C	1	O
+5	the	the	D	1	O
+6	restaurants	restaurant	N	1	O
+7	specially	specially	A	1	O
+8	the	the	D	1	O
+9	main	main	G	1	O
+10	restaurant	restaurant	N	1	O
+11	the	the	D	1	O
+12	menus	menus	N	1	O
+13	ls	ls	V	1	O
+14	everytime	everytime	A	1	O
+15	same	same	G	1	O
+16	,	,	O	1	O
+17	child	child	N	1	O
+18	pool	pool	N	1	O
+19	is	be	V	1	O
+20	to	to	P	1	O
+21	cold	cold	V	1	O
+22	,	,	O	1	O
+23	a	a	D	1	O
+24	la	la	N	1	O
+25	carte	carte	N	1	O
+26	restaurants	restaurant	N	1	O
+27	ls	ls	V	1	O
+28	very	very	A	1	O
+29	good	good	G	1	O
+30	,	,	O	1	O
+31	maxxiland	maxxiland	R	1	I-Attraction
+32	is	be	V	1	O
+33	really	really	A	1	O
+34	good	good	G	1	O
+35	for	for	P	1	O
+36	the	the	D	1	O
+37	child	child	N	1	O
+38	and	and	C	1	O
+39	for	for	P	1	O
+40	us	us	Q	1	O
+41	.	.	O	1	O
 

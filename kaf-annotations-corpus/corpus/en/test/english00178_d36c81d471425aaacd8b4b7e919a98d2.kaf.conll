@@ -1,136 +1,141 @@
-1	A	a	D	1	
-2	design	design	N	1	
-3	hotel	hotel	N	1	
-4	in	in	P	1	
-5	an	a	D	1	
-6	edgy	edgy	G	1	
-7	area	area	N	1	
-8	of	of	P	1	
-9	Paris	Paris	R	1	ne=Location
+1	A	a	D	1	O
+2	design	design	N	1	O
+3	hotel	hotel	N	1	O
+4	in	in	P	1	O
+5	an	a	D	1	O
+6	edgy	edgy	G	1	O
+7	area	area	N	1	O
+8	of	of	P	1	O
+9	Paris	Paris	R	1	I-Location
 
-1	This	this	D	1	
-2	was	be	V	1	
-3	one	one	O	1	
-4	of	of	P	1	
-5	the	the	D	1	
-6	most	much	A	1	
-7	interesting	interesting	G	1	
-8	hotels	hotel	N	1	
-9	I	i	Q	1	
-10	've	've	V	1	
-11	stayed	stay	V	1	
-12	ever	ever	A	1	
-13	,	,	O	1	
-14	in	in	P	1	
-15	a	a	D	1	
-16	district	district	N	1	
-17	of	of	P	1	
-18	Paris	Paris	R	1	ne=Location
-19	not	not	A	1	
-20	commonly	commonly	A	1	
-21	on	on	P	1	
-22	the	the	D	1	
-23	tourist	tourist	N	1	
-24	map	map	N	1	
-25	,	,	O	1	
-26	but	but	C	1	
-27	still	still	A	1	
-28	just	just	A	1	
-29	a	a	D	1	
-30	short	short	A	1	
-31	walk	walk	V	1	
-32	away	away	A	1	
-33	from	from	P	1	
-34	Montmartre	Montmartre	R	1	ne=Location
-35	and	and	C	1	
-36	Gare_du_Nord	Gare_du_Nord	R	1	ne=POI
-37	for	for	P	1	
-38	Eurostar	Eurostar	R	1	ne=POI
-39	and	and	C	1	
-40	other	other	G	1	
-41	high	high	G	1	
-42	·	·	G	1	
-43	speed	speed	N	1	
-44	rail	rail	N	1	
-45	connections	connection	N	1	
-46	and	and	C	1	
-47	airport_RER_line_B	airport_RER_line_b	R	1	ne=POI
-48	,	,	O	1	
-49	this	this	D	1	
-50	hotel	hotel	N	1	
-51	was	be	V	1	
-52	a	a	D	1	
-53	great	great	G	1	
-54	discovery	discovery	N	1	
-55	for	for	P	1	
-56	us	us	Q	1	
-57	.	.	O	1	
+1	This	this	D	1	O
+2	was	be	V	1	O
+3	one	one	O	1	O
+4	of	of	P	1	O
+5	the	the	D	1	O
+6	most	much	A	1	O
+7	interesting	interesting	G	1	O
+8	hotels	hotel	N	1	O
+9	I	i	Q	1	O
+10	've	've	V	1	O
+11	stayed	stay	V	1	O
+12	ever	ever	A	1	O
+13	,	,	O	1	O
+14	in	in	P	1	O
+15	a	a	D	1	O
+16	district	district	N	1	O
+17	of	of	P	1	O
+18	Paris	Paris	R	1	I-Location
+19	not	not	A	1	O
+20	commonly	commonly	A	1	O
+21	on	on	P	1	O
+22	the	the	D	1	O
+23	tourist	tourist	N	1	O
+24	map	map	N	1	O
+25	,	,	O	1	O
+26	but	but	C	1	O
+27	still	still	A	1	O
+28	just	just	A	1	O
+29	a	a	D	1	O
+30	short	short	A	1	O
+31	walk	walk	V	1	O
+32	away	away	A	1	O
+33	from	from	P	1	O
+34	Montmartre	Montmartre	R	1	I-Location
+35	and	and	C	1	O
+36	Gare	Gare	R	1	I-POI
+37	du	du	R	1	I-POI
+38	Nord	Nord	R	1	I-POI
+39	for	for	P	1	O
+40	Eurostar	Eurostar	R	1	I-POI
+41	and	and	C	1	O
+42	other	other	G	1	O
+43	high	high	G	1	O
+44	·	·	G	1	O
+45	speed	speed	N	1	O
+46	rail	rail	N	1	O
+47	connections	connection	N	1	O
+48	and	and	C	1	O
+49	airport	airport	N	1	I-POI
+50	RER	RER	N	1	I-POI
+51	line	line	N	1	I-POI
+52	B	b	N	1	I-POI
+53	,	,	O	1	O
+54	this	this	D	1	O
+55	hotel	hotel	N	1	O
+56	was	be	V	1	O
+57	a	a	D	1	O
+58	great	great	G	1	O
+59	discovery	discovery	N	1	O
+60	for	for	P	1	O
+61	us	us	Q	1	O
+62	.	.	O	1	O
 
-1	The	the	D	1	
-2	rooms	room	N	1	
-3	are	be	V	1	
-4	fabulous	fabulous	G	1	
-5	,	,	O	1	
-6	with	with	P	1	
-7	simplistic	simplistic	G	1	
-8	design	design	N	1	
-9	,	,	O	1	
-10	and	and	C	1	
-11	there	there	O	1	
-12	are	be	V	1	
-13	no	no	D	1	
-14	keys	key	N	1	
-15	,	,	O	1	
-16	rather	rather	A	1	
-17	fingerprints	fingerprint	N	1	
-18	let	let	V	1	
-19	you	you	Q	1	
-20	through	through	P	1	
-21	to	to	P	1	
-22	you	you	Q	1	
-23	room	room	N	1	
-24	.	.	O	1	
+1	The	the	D	1	O
+2	rooms	room	N	1	O
+3	are	be	V	1	O
+4	fabulous	fabulous	G	1	O
+5	,	,	O	1	O
+6	with	with	P	1	O
+7	simplistic	simplistic	G	1	O
+8	design	design	N	1	O
+9	,	,	O	1	O
+10	and	and	C	1	O
+11	there	there	O	1	O
+12	are	be	V	1	O
+13	no	no	D	1	O
+14	keys	key	N	1	O
+15	,	,	O	1	O
+16	rather	rather	A	1	O
+17	fingerprints	fingerprint	N	1	O
+18	let	let	V	1	O
+19	you	you	Q	1	O
+20	through	through	P	1	O
+21	to	to	P	1	O
+22	you	you	Q	1	O
+23	room	room	N	1	O
+24	.	.	O	1	O
 
-1	The	the	D	1	
-2	bar	bar	N	1	
-3	is	be	V	1	
-4	great	great	G	1	
-5	,	,	O	1	
-6	food	food	N	1	
-7	is	be	V	1	
-8	brilliant	brilliant	G	1	
-9	,	,	O	1	
-10	and	and	C	1	
-11	there	there	O	1	
-12	is	be	V	1	
-13	a	a	D	1	
-14	small	small	G	1	
-15	gym	gym	N	1	
-16	in	in	P	1	
-17	the	the	D	1	
-18	basement	basement	N	1	
-19	for	for	P	1	
-20	a	a	D	1	
-21	morning	morning	N	1	
-22	work	work	N	1	
-23	out	out	A	1	
-24	.	.	O	1	
+1	The	the	D	1	O
+2	bar	bar	N	1	O
+3	is	be	V	1	O
+4	great	great	G	1	O
+5	,	,	O	1	O
+6	food	food	N	1	O
+7	is	be	V	1	O
+8	brilliant	brilliant	G	1	O
+9	,	,	O	1	O
+10	and	and	C	1	O
+11	there	there	O	1	O
+12	is	be	V	1	O
+13	a	a	D	1	O
+14	small	small	G	1	O
+15	gym	gym	N	1	O
+16	in	in	P	1	O
+17	the	the	D	1	O
+18	basement	basement	N	1	O
+19	for	for	P	1	O
+20	a	a	D	1	O
+21	morning	morning	N	1	O
+22	work	work	N	1	O
+23	out	out	A	1	O
+24	.	.	O	1	O
 
-1	Breakfast	Breakfast	R	1	
-2	is	be	V	1	
-3	highly	highly	A	1	
-4	recommended	recommend	V	1	
-5	also	also	A	1	
-6	,	,	O	1	
-7	as	as	A	1	
-8	are	be	V	1	
-9	drinks	drink	N	1	
-10	in	in	P	1	
-11	the	the	D	1	
-12	(	(	O	1	
-13	rather	rather	A	1	
-14	pricy	pricy	N	1	
-15	)	)	O	1	
-16	bar	bar	N	1	
-17	.	.	O	1	
+1	Breakfast	Breakfast	R	1	O
+2	is	be	V	1	O
+3	highly	highly	A	1	O
+4	recommended	recommend	V	1	O
+5	also	also	A	1	O
+6	,	,	O	1	O
+7	as	as	A	1	O
+8	are	be	V	1	O
+9	drinks	drink	N	1	O
+10	in	in	P	1	O
+11	the	the	D	1	O
+12	(	(	O	1	O
+13	rather	rather	A	1	O
+14	pricy	pricy	N	1	O
+15	)	)	O	1	O
+16	bar	bar	N	1	O
+17	.	.	O	1	O
 

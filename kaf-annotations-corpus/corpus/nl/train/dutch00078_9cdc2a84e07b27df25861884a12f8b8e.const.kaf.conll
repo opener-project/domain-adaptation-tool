@@ -1,77 +1,77 @@
-1	Charmehotelletje	Charmehotelletje	O	1	
-2	in	in	P	1	
-3	Oostende	Oostende	R	1	ne=Location
-4	,	,	O	1	
-5	doen	doen	V	1	
-6	!	!	O	1	
+1	Charmehotelletje	Charmehotelletje	O	1	O
+2	in	in	P	1	O
+3	Oostende	Oostende	R	1	I-Location
+4	,	,	O	1	O
+5	doen	doen	V	1	O
+6	!	!	O	1	O
 
-1	Wil	willen	V	1	
-2	je	je	Q	1	
-3	genieten	genieten	V	1	
-4	van	van	P	1	
-5	een	een	D	1	
-6	uiterst	uiterst	G	1	
-7	nette	net	G	1	
-8	kamer	kamer	N	1	
-9	,	,	O	1	
-10	kraaknet	kraaknet	G	1	
-11	linnen	linnen	N	1	
-12	,	,	O	1	
-13	propere	proper	G	1	
-14	handdoeken	handdoek	N	1	
-15	en	en	C	1	
-16	een	een	D	1	
-17	blinkende	blinken	V	1	
-18	badkamer	badkamer	N	1	
-19	,	,	O	1	
-20	daarbij	daarbij	Q	1	
-21	een	een	D	1	
-22	ontbijt	ontbijt	N	1	
-23	met	met	P	1	
-24	cava	cava	O	1	
-25	,	,	O	1	
-26	gerookte	gerookt	G	1	
-27	zalm	zalm	N	1	
-28	en	en	C	1	
-29	versgebakken	versgebakken	O	1	
-30	broodjes	brood	N	1	
-31	,	,	O	1	
-32	kaas	kaas	N	1	
-33	,	,	O	1	
-34	hesp	hesp	N	1	
-35	,	,	O	1	
-36	ontbijtgranen	ontbijtgranen	O	1	
-37	,	,	O	1	
-38	warm	warm	G	1	
-39	ontbijtbuffet	ontbijtbuffet	O	1	
-40	en	en	C	1	
-41	alles	alles	Q	1	
-42	wat	wat	Q	1	
-43	je	je	Q	1	
-44	verwacht	verwachten	V	1	
-45	zoals	zoals	C	1	
-46	in	in	P	1	
-47	een	een	D	1	
-48	5	@card@	O	1	
-49	sterren	ster	N	1	
-50	,	,	O	1	
-51	wel	wel	A	1	
-52	dit	dit	Q	1	
-53	gastvrij	gastvrij	G	1	
-54	hotelletje	hotel	N	1	
-55	heeft	hebben	V	1	
-56	je	je	Q	1	
-57	veel	veel	A	1	
-58	te	te	O	1	
-59	bieden	bieden	V	1	
-60	.	.	O	1	
+1	Wil	willen	V	1	O
+2	je	je	Q	1	O
+3	genieten	genieten	V	1	O
+4	van	van	P	1	O
+5	een	een	D	1	O
+6	uiterst	uiterst	G	1	O
+7	nette	net	G	1	O
+8	kamer	kamer	N	1	O
+9	,	,	O	1	O
+10	kraaknet	kraaknet	G	1	O
+11	linnen	linnen	N	1	O
+12	,	,	O	1	O
+13	propere	proper	G	1	O
+14	handdoeken	handdoek	N	1	O
+15	en	en	C	1	O
+16	een	een	D	1	O
+17	blinkende	blinken	V	1	O
+18	badkamer	badkamer	N	1	O
+19	,	,	O	1	O
+20	daarbij	daarbij	Q	1	O
+21	een	een	D	1	O
+22	ontbijt	ontbijt	N	1	O
+23	met	met	P	1	O
+24	cava	cava	O	1	O
+25	,	,	O	1	O
+26	gerookte	gerookt	G	1	O
+27	zalm	zalm	N	1	O
+28	en	en	C	1	O
+29	versgebakken	versgebakken	O	1	O
+30	broodjes	brood	N	1	O
+31	,	,	O	1	O
+32	kaas	kaas	N	1	O
+33	,	,	O	1	O
+34	hesp	hesp	N	1	O
+35	,	,	O	1	O
+36	ontbijtgranen	ontbijtgranen	O	1	O
+37	,	,	O	1	O
+38	warm	warm	G	1	O
+39	ontbijtbuffet	ontbijtbuffet	O	1	O
+40	en	en	C	1	O
+41	alles	alles	Q	1	O
+42	wat	wat	Q	1	O
+43	je	je	Q	1	O
+44	verwacht	verwachten	V	1	O
+45	zoals	zoals	C	1	O
+46	in	in	P	1	O
+47	een	een	D	1	O
+48	5	@card@	O	1	O
+49	sterren	ster	N	1	O
+50	,	,	O	1	O
+51	wel	wel	A	1	O
+52	dit	dit	Q	1	O
+53	gastvrij	gastvrij	G	1	O
+54	hotelletje	hotel	N	1	O
+55	heeft	hebben	V	1	O
+56	je	je	Q	1	O
+57	veel	veel	A	1	O
+58	te	te	O	1	O
+59	bieden	bieden	V	1	O
+60	.	.	O	1	O
 
-1	Alleen	alleen	A	1	
-2	te	te	O	1	
-3	boeken	boeken	V	1	
-4	als	als	C	1	
-5	kamer	kamer	N	1	
-6	met	met	P	1	
-7	ontbijt	ontbijt	N	1	
-8	.	.	O	1	
+1	Alleen	alleen	A	1	O
+2	te	te	O	1	O
+3	boeken	boeken	V	1	O
+4	als	als	C	1	O
+5	kamer	kamer	N	1	O
+6	met	met	P	1	O
+7	ontbijt	ontbijt	N	1	O
+8	.	.	O	1	O
 

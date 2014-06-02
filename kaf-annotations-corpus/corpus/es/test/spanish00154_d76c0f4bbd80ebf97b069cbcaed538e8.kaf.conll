@@ -1,96 +1,96 @@
-1	Dos	dos	N	1	
-2	días	días	N	1	
-3	en	en	P	1	
-4	Madrid	Madrid	R	1	
-5	,	,	O	1	
-6	alojados	alojados	N	1	
-7	en	en	P	1	
-8	un	un	G	1	
-9	Senator	Senator	R	1	
+1	Dos	dos	N	1	O
+2	días	días	N	1	O
+3	en	en	P	1	O
+4	Madrid	Madrid	R	1	O
+5	,	,	O	1	O
+6	alojados	alojados	N	1	O
+7	en	en	P	1	O
+8	un	un	G	1	O
+9	Senator	Senator	R	1	O
 
-1	Lo	Lo	R	1	
-2	mejor	mejor	O	1	
-3	de	de	O	1	
-4	este	este	O	1	
-5	hotel	hotel	N	1	
-6	es	es	N	1	
-7	situación	situación	V	1	
-8	en	en	O	1	
-9	la	la	O	1	
-10	mejor	mejor	O	1	
-11	zona	zona	O	1	
-12	de	de	O	1	
-13	la	la	O	1	
-14	Gran	Gran	R	1	
-15	Vía	Vía	R	1	
-16	,	,	O	1	
-17	lo	lo	G	1	
-18	que	que	N	1	
-19	facilita	facilita	O	1	
-20	enormemente	enormemente	G	1	
-21	el	el	N	1	
-22	acceso	acceso	V	1	
-23	a	a	D	1	
-24	teatros	teatros	N	1	
-25	,	,	O	1	
-26	restaurantes	restaurantes	V	1	
-27	y	y	G	1	
-28	compras	compras	N	1	
-29	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	mejor	mejor	O	1	O
+3	de	de	O	1	O
+4	este	este	O	1	O
+5	hotel	hotel	N	1	O
+6	es	es	N	1	O
+7	situación	situación	V	1	O
+8	en	en	O	1	O
+9	la	la	O	1	O
+10	mejor	mejor	O	1	O
+11	zona	zona	O	1	O
+12	de	de	O	1	O
+13	la	la	O	1	O
+14	Gran	Gran	R	1	O
+15	Vía	Vía	R	1	O
+16	,	,	O	1	O
+17	lo	lo	G	1	O
+18	que	que	N	1	O
+19	facilita	facilita	O	1	O
+20	enormemente	enormemente	G	1	O
+21	el	el	N	1	O
+22	acceso	acceso	V	1	O
+23	a	a	D	1	O
+24	teatros	teatros	N	1	O
+25	,	,	O	1	O
+26	restaurantes	restaurantes	V	1	O
+27	y	y	G	1	O
+28	compras	compras	N	1	O
+29	.	.	O	1	O
 
-1	La	La	R	1	
-2	habitación	habitación	N	1	
-3	era	era	N	1	
-4	muy	muy	G	1	
-5	amplia	amplia	N	1	
-6	y	y	G	1	
-7	bien	bien	N	1	
-8	equipada	equipada	N	1	
-9	.	.	O	1	
+1	La	La	R	1	O
+2	habitación	habitación	N	1	O
+3	era	era	N	1	O
+4	muy	muy	G	1	O
+5	amplia	amplia	N	1	O
+6	y	y	G	1	O
+7	bien	bien	N	1	O
+8	equipada	equipada	N	1	O
+9	.	.	O	1	O
 
-1	La	La	R	1	
-2	amabilidad	amabilidad	N	1	
-3	del	del	D	1	
-4	personal	personal	G	1	
-5	muy	muy	N	1	
-6	buena	buena	N	1	
-7	y	y	A	1	
-8	la	la	D	1	
-9	limpieza	limpieza	N	1	
-10	debiera	debiera	N	1	
-11	mejorar	mejorar	N	1	
-12	un	un	G	1	
-13	poco	poco	N	1	
-14	.	.	O	1	
+1	La	La	R	1	O
+2	amabilidad	amabilidad	N	1	O
+3	del	del	D	1	O
+4	personal	personal	G	1	O
+5	muy	muy	N	1	O
+6	buena	buena	N	1	O
+7	y	y	A	1	O
+8	la	la	D	1	O
+9	limpieza	limpieza	N	1	O
+10	debiera	debiera	N	1	O
+11	mejorar	mejorar	N	1	O
+12	un	un	G	1	O
+13	poco	poco	N	1	O
+14	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	vistas	vistas	O	1	
-3	desde	desde	O	1	
-4	la	la	O	1	
-5	terraza	terraza	O	1	
-6	son	son	N	1	
-7	impresionantes	impresionantes	N	1	
-8	.	.	O	1	
+1	Las	Las	R	1	O
+2	vistas	vistas	O	1	O
+3	desde	desde	O	1	O
+4	la	la	O	1	O
+5	terraza	terraza	O	1	O
+6	son	son	N	1	O
+7	impresionantes	impresionantes	N	1	O
+8	.	.	O	1	O
 
-1	Se	se	G	1	
-2	nota	nota	D	1	
-3	algo	algo	O	1	
-4	de	de	O	1	
-5	falta	falta	O	1	
-6	de	de	O	1	
-7	mantenimiento	mantenimiento	O	1	
-8	,	,	O	1	
-9	sobre	sobre	G	1	
-10	todo	todo	N	1	
-11	en	en	O	1	
-12	el	el	O	1	
-13	Spá	spá	O	1	
-14	y	y	G	1	
-15	en	en	P	1	
-16	los	los	N	1	
-17	jacuzzi	jacuzzi	O	1	
-18	de	de	O	1	
-19	la	la	O	1	
-20	terraza	terraza	N	1	
-21	.	.	O	1	
+1	Se	se	G	1	O
+2	nota	nota	D	1	O
+3	algo	algo	O	1	O
+4	de	de	O	1	O
+5	falta	falta	O	1	O
+6	de	de	O	1	O
+7	mantenimiento	mantenimiento	O	1	O
+8	,	,	O	1	O
+9	sobre	sobre	G	1	O
+10	todo	todo	N	1	O
+11	en	en	O	1	O
+12	el	el	O	1	O
+13	Spá	spá	O	1	O
+14	y	y	G	1	O
+15	en	en	P	1	O
+16	los	los	N	1	O
+17	jacuzzi	jacuzzi	O	1	O
+18	de	de	O	1	O
+19	la	la	O	1	O
+20	terraza	terraza	N	1	O
+21	.	.	O	1	O
 

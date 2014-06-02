@@ -1,142 +1,143 @@
-1	Hotel	hotel	N	1	
-2	decadente	decadente	A	1	
+1	Hotel	hotel	N	1	O
+2	decadente	decadente	A	1	O
 
-1	Da	da	P	1	
-2	dove	dove	A	1	
-3	cominciare	cominciare	V	1	
-4	?	?	O	1	
+1	Da	da	P	1	O
+2	dove	dove	A	1	O
+3	cominciare	cominciare	V	1	O
+4	?	?	O	1	O
 
-1	Le	lo	D	1	
-2	camere	camera	N	1	
-3	erano	essere	V	1	
-4	vecchie	vecchio	G	1	
-5	e	e	Q	1	
-6	decadenti	decadere	V	1	
-7	,	,	O	1	
-8	di	di	P	1	
-9	certo	certo	Q	1	
-10	non	non	A	1	
-11	come	come	Q	1	
-12	le	lo	D	1	
-13	foto	foto	N	1	
-14	vogliono	volere	V	1	
-15	farcele	farcele	V	1	
-16	sembrare	sembrare	V	1	
-17	.	.	O	1	
+1	Le	lo	D	1	O
+2	camere	camera	N	1	O
+3	erano	essere	V	1	O
+4	vecchie	vecchio	G	1	O
+5	e	e	Q	1	O
+6	decadenti	decadere	V	1	O
+7	,	,	O	1	O
+8	di	di	P	1	O
+9	certo	certo	Q	1	O
+10	non	non	A	1	O
+11	come	come	Q	1	O
+12	le	lo	D	1	O
+13	foto	foto	N	1	O
+14	vogliono	volere	V	1	O
+15	farcele	farcele	V	1	O
+16	sembrare	sembrare	V	1	O
+17	.	.	O	1	O
 
-1	Avevano	avere	V	1	
-2	quel	quel	Q	1	
-3	non	non	A	1	
-4	so	so	V	1	
-5	che	che	Q	1	
-6	di	di	P	1	
-7	fatiscente	fatiscente	G	1	
-8	,	,	O	1	
-9	tipico	tipico	G	1	
-10	degli	degli	P	1	
-11	hotel	hotel	R	1	
-12	di	di	P	1	
-13	bassa	basso	G	1	
-14	categoria	categoria	N	1	
-15	.	.	O	1	
+1	Avevano	avere	V	1	O
+2	quel	quel	Q	1	O
+3	non	non	A	1	O
+4	so	so	V	1	O
+5	che	che	Q	1	O
+6	di	di	P	1	O
+7	fatiscente	fatiscente	G	1	O
+8	,	,	O	1	O
+9	tipico	tipico	G	1	O
+10	degli	degli	P	1	O
+11	hotel	hotel	R	1	O
+12	di	di	P	1	O
+13	bassa	basso	G	1	O
+14	categoria	categoria	N	1	O
+15	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	docce	doccia	N	1	
-3	del	del	P	1	
-4	bagno	bagno	N	1	
-5	sono	essere	V	1	
-6	un	uno	D	1	
-7	casino	casino	G	1	
-8	!	!	O	1	
+1	Le	lo	D	1	O
+2	docce	doccia	N	1	O
+3	del	del	P	1	O
+4	bagno	bagno	N	1	O
+5	sono	essere	V	1	O
+6	un	uno	D	1	O
+7	casino	casino	G	1	O
+8	!	!	O	1	O
 
-1	Prima	prima	P	1	
-2	l'	lo	D	1	
-3	acqua	acqua	N	1	
-4	è	è	O	1	
-5	bollente	bollire	V	1	
-6	,	,	O	1	
-7	poi	poi	A	1	
-8	tiepida	tiepido	G	1	
-9	,	,	O	1	
-10	poi	poi	A	1	
-11	gelata	gelare	V	1	
-12	,	,	O	1	
-13	poi	poi	A	1	
-14	bollente	bollire	V	1	
-15	!	!	O	1	
+1	Prima	prima	P	1	O
+2	l'	lo	D	1	O
+3	acqua	acqua	N	1	O
+4	è	è	O	1	O
+5	bollente	bollire	V	1	O
+6	,	,	O	1	O
+7	poi	poi	A	1	O
+8	tiepida	tiepido	G	1	O
+9	,	,	O	1	O
+10	poi	poi	A	1	O
+11	gelata	gelare	V	1	O
+12	,	,	O	1	O
+13	poi	poi	A	1	O
+14	bollente	bollire	V	1	O
+15	!	!	O	1	O
 
-1	E	e	Q	1	
-2	'	'	Q	1	
-3	quasi	quasi	Q	1	
-4	impossibile	impossibile	G	1	
-5	farsi	farsi	V	1	
-6	una	uno	D	1	
-7	doccia	doccia	N	1	
-8	decente	decente	V	1	
-9	!	!	O	1	
+1	E	e	Q	1	O
+2	'	'	Q	1	O
+3	quasi	quasi	Q	1	O
+4	impossibile	impossibile	G	1	O
+5	farsi	farsi	V	1	O
+6	una	uno	D	1	O
+7	doccia	doccia	N	1	O
+8	decente	decente	V	1	O
+9	!	!	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	N	1	
-3	non	non	A	1	
-4	è	essere	V	1	
-5	molto	molto	A	1	
-6	cortese	cortese	V	1	
-7	,	,	O	1	
-8	soprattutto	soprattutto	A	1	
-9	quello	quello	Q	1	
-10	che	che	Q	1	
-11	credo	credere	V	1	
-12	sia	essere	V	1	
-13	il	lo	D	1	
-14	direttore	direttore	N	1	
-15	,	,	O	1	
-16	visto	visto	N	1	
-17	che	che	G	1	
-18	,	,	O	1	
-19	dopo	dopo	A	1	
-20	avermi	avermi	V	1	
-21	fatto	fare	V	1	
-22	pagare	pagare	V	1	
-23	un	uno	D	1	
-24	danno	danno	N	1	
-25	che	che	Q	1	
-26	non	non	A	1	
-27	avevo	avere	V	1	
-28	commesso	commesso	N	1	
-29	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	N	1	O
+3	non	non	A	1	O
+4	è	essere	V	1	O
+5	molto	molto	A	1	O
+6	cortese	cortese	V	1	O
+7	,	,	O	1	O
+8	soprattutto	soprattutto	A	1	O
+9	quello	quello	Q	1	O
+10	che	che	Q	1	O
+11	credo	credere	V	1	O
+12	sia	essere	V	1	O
+13	il	lo	D	1	O
+14	direttore	direttore	N	1	O
+15	,	,	O	1	O
+16	visto	visto	N	1	O
+17	che	che	G	1	O
+18	,	,	O	1	O
+19	dopo	dopo	A	1	O
+20	avermi	avermi	V	1	O
+21	fatto	fare	V	1	O
+22	pagare	pagare	V	1	O
+23	un	uno	D	1	O
+24	danno	danno	N	1	O
+25	che	che	Q	1	O
+26	non	non	A	1	O
+27	avevo	avere	V	1	O
+28	commesso	commesso	N	1	O
+29	.	.	O	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	non	non	A	1	
-4	è	è	R	1	
-5	troppo	troppo	G	1	
-6	male	mala	N	1	
-7	,	,	O	1	
-8	ma	ma	Q	1	
-9	non	non	A	1	
-10	è	essere	V	1	
-11	così	così	V	1	
-12	vicino	vicino	N	1	
-13	al	al	P	1	
-14	centro	centro	N	1	
-15	come	come	Q	1	
-16	fanno	fare	V	1	
-17	credere	credere	V	1	
-18	,	,	O	1	
-19	infatti	infatti	Q	1	
-20	per	per	P	1	
-21	arrivare	arrivare	V	1	
-22	sul	sul	P	1	
-23	Ponte_Vecchio	ponte_vecchio	R	1	ne=POI
-24	c'	c'	A	1	
-25	è	essere	V	1	
-26	comunque	comunque	A	1	
-27	un	uno	D	1	
-28	buon	buon	N	1	
-29	quarto	quarto	N	1	
-30	d'	d'	P	1	
-31	ora	ora	A	1	
-32	di	di	P	1	
-33	camminata	camminare	V	1	
-34	.	.	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	non	non	A	1	O
+4	è	è	R	1	O
+5	troppo	troppo	G	1	O
+6	male	mala	N	1	O
+7	,	,	O	1	O
+8	ma	ma	Q	1	O
+9	non	non	A	1	O
+10	è	essere	V	1	O
+11	così	così	V	1	O
+12	vicino	vicino	N	1	O
+13	al	al	P	1	O
+14	centro	centro	N	1	O
+15	come	come	Q	1	O
+16	fanno	fare	V	1	O
+17	credere	credere	V	1	O
+18	,	,	O	1	O
+19	infatti	infatti	Q	1	O
+20	per	per	P	1	O
+21	arrivare	arrivare	V	1	O
+22	sul	sul	P	1	O
+23	Ponte	ponte	R	1	I-POI
+24	Vecchio	vecchio	N	1	I-POI
+25	c'	c'	A	1	O
+26	è	essere	V	1	O
+27	comunque	comunque	A	1	O
+28	un	uno	D	1	O
+29	buon	buon	N	1	O
+30	quarto	quarto	N	1	O
+31	d'	d'	P	1	O
+32	ora	ora	A	1	O
+33	di	di	P	1	O
+34	camminata	camminare	V	1	O
+35	.	.	O	1	O
 

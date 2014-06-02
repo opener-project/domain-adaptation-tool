@@ -1,125 +1,138 @@
-1	Excelente	Excelente	R	1	
-2	ubicación	ubicación	G	1	
-3	para	para	N	1	
-4	conocer	conocer	N	1	
-5	Madrid	Madrid	R	1	ne=Location
+1	Excelente	Excelente	R	1	O
+2	ubicación	ubicación	G	1	O
+3	para	para	N	1	O
+4	conocer	conocer	N	1	O
+5	Madrid	Madrid	R	1	I-Location
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	tiene	tiene	N	1	
-4	un	un	G	1	
-5	ubicación	ubicación	G	1	
-6	excelente	excelente	G	1	
-7	para	para	N	1	
-8	conocer	conocer	N	1	
-9	Madrid	Madrid	R	1	ne=Location
-10	,	,	O	1	
-11	a	a	D	1	
-12	pocos	pocos	N	1	
-13	pasos	pasos	O	1	
-14	de	de	O	1	
-15	la	la	O	1	
-16	Puerta_del_sol	Puerta_del_sol	R	1	ne=Location
-17	,	,	O	1	
-18	se	se	N	1	
-19	puede	puede	N	1	
-20	recorrer	recorrer	N	1	
-21	Atocha	Atocha	R	1	ne=POI
-22	,	,	O	1	
-23	visitar	visitar	N	1	
-24	la	la	N	1	
-25	Plaza_Mayor	Plaza_Mayor	R	1	ne=Location
-26	y	y	G	1	
-27	el	el	N	1	
-28	Mercado_de_San_Miguel	Mercado_de_San_Miguel	R	1	ne=Attraction
-29	caminando	caminando	N	1	
-30	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	tiene	tiene	N	1	O
+4	un	un	G	1	O
+5	ubicación	ubicación	G	1	O
+6	excelente	excelente	G	1	O
+7	para	para	N	1	O
+8	conocer	conocer	N	1	O
+9	Madrid	Madrid	R	1	I-Location
+10	,	,	O	1	O
+11	a	a	D	1	O
+12	pocos	pocos	N	1	O
+13	pasos	pasos	O	1	O
+14	de	de	O	1	O
+15	la	la	O	1	O
+16	Puerta	Puerta	R	1	I-Location
+17	del	del	O	1	I-Location
+18	sol	sol	N	1	I-Location
+19	,	,	O	1	O
+20	se	se	N	1	O
+21	puede	puede	N	1	O
+22	recorrer	recorrer	N	1	O
+23	Atocha	Atocha	R	1	I-POI
+24	,	,	O	1	O
+25	visitar	visitar	N	1	O
+26	la	la	N	1	O
+27	Plaza	Plaza	R	1	I-Location
+28	Mayor	Mayor	R	1	I-Location
+29	y	y	G	1	O
+30	el	el	N	1	O
+31	Mercado	Mercado	R	1	I-Attraction
+32	de	de	P	1	I-Attraction
+33	San	San	R	1	I-Attraction
+34	Miguel	Miguel	R	1	I-Attraction
+35	caminando	caminando	N	1	O
+36	.	.	O	1	O
 
-1	Para	Para	R	1	
-2	llegar	llegar	N	1	
-3	desde	desde	N	1	
-4	el	el	N	1	
-5	aeropuerto	aeropuerto	N	1	
-6	,	,	O	1	
-7	la_parada_Tirso_de_Molina	la_parada_Tirso_de_Molina	R	1	ne=POI
-8	que	que	V	1	
-9	conecta	conecta	G	1	
-10	con	con	O	1	
-11	la	la	O	1	
-12	línea	línea	O	1	
-13	del	del	O	1	
-14	aeropuerto	aeropuerto	O	1	
-15	está	está	O	1	
-16	muy	muy	O	1	
-17	cerca	cerca	O	1	
-18	,	,	O	1	
-19	y	y	G	1	
-20	a	a	D	1	
-21	unos	unos	G	1	
-22	15min	15min	O	1	
-23	caminando	caminando	N	1	
-24	está	está	O	1	
-25	la_estación_de_Atocha	la_estación_de_atocha	R	1	ne=POI
-26	.	.	O	1	
+1	Para	Para	R	1	O
+2	llegar	llegar	N	1	O
+3	desde	desde	N	1	O
+4	el	el	N	1	O
+5	aeropuerto	aeropuerto	N	1	O
+6	,	,	O	1	O
+7	la	la	D	1	I-POI
+8	parada	parada	N	1	I-POI
+9	Tirso	Tirso	R	1	I-POI
+10	de	de	P	1	I-POI
+11	Molina	Molina	R	1	I-POI
+12	que	que	V	1	O
+13	conecta	conecta	G	1	O
+14	con	con	O	1	O
+15	la	la	O	1	O
+16	línea	línea	O	1	O
+17	del	del	O	1	O
+18	aeropuerto	aeropuerto	O	1	O
+19	está	está	O	1	O
+20	muy	muy	O	1	O
+21	cerca	cerca	O	1	O
+22	,	,	O	1	O
+23	y	y	G	1	O
+24	a	a	D	1	O
+25	unos	unos	G	1	O
+26	15min	15min	O	1	O
+27	caminando	caminando	N	1	O
+28	está	está	O	1	O
+29	la	la	O	1	I-POI
+30	estación	estación	O	1	I-POI
+31	de	de	O	1	I-POI
+32	Atocha	atocha	O	1	I-POI
+33	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	muy	muy	N	1	
-4	amable	amable	G	1	
-5	,	,	O	1	
-6	nos	nos	N	1	
-7	permitieron	permitieron	V	1	
-8	hacer	hacer	N	1	
-9	late	late	G	1	
-10	checkout	checkout	N	1	
-11	ya	ya	N	1	
-12	que	que	V	1	
-13	no	no	D	1	
-14	había	había	N	1	
-15	reserva	reserva	O	1	
-16	de	de	O	1	
-17	la	la	O	1	
-18	habitación	habitación	O	1	
-19	sin	sin	O	1	
-20	cargo	cargo	N	1	
-21	extra	extra	G	1	
-22	;	;	O	1	
-23	también	también	G	1	
-24	guardan	guardan	G	1	
-25	las	las	N	1	
-26	maletas	maletas	N	1	
-27	después	después	V	1	
-28	del	del	G	1	
-29	checkout	checkout	P	1	
-30	si	si	G	1	
-31	uno	uno	G	1	
-32	lo	lo	N	1	
-33	pide	pide	N	1	
-34	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	muy	muy	N	1	O
+4	amable	amable	G	1	O
+5	,	,	O	1	O
+6	nos	nos	N	1	O
+7	permitieron	permitieron	V	1	O
+8	hacer	hacer	N	1	O
+9	late	late	G	1	O
+10	checkout	checkout	N	1	O
+11	ya	ya	N	1	O
+12	que	que	V	1	O
+13	no	no	D	1	O
+14	había	había	N	1	O
+15	reserva	reserva	O	1	O
+16	de	de	O	1	O
+17	la	la	O	1	O
+18	habitación	habitación	O	1	O
+19	sin	sin	O	1	O
+20	cargo	cargo	N	1	O
+21	extra	extra	G	1	O
+22	;	;	O	1	O
+23	también	también	G	1	O
+24	guardan	guardan	G	1	O
+25	las	las	N	1	O
+26	maletas	maletas	N	1	O
+27	después	después	V	1	O
+28	del	del	G	1	O
+29	checkout	checkout	P	1	O
+30	si	si	G	1	O
+31	uno	uno	G	1	O
+32	lo	lo	N	1	O
+33	pide	pide	N	1	O
+34	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	O	1	
-3	nos	nos	O	1	
-4	pareció	pareció	N	1	
-5	caro	caro	N	1	
-6	,	,	O	1	
-7	entonces	entonces	V	1	
-8	como	como	N	1	
-9	recomendación	recomendación	N	1	
-10	mejor	mejor	G	1	
-11	salir	salir	N	1	
-12	a	a	D	1	
-13	descubrir	descubrir	N	1	
-14	los	los	O	1	
-15	bares	bares	O	1	
-16	alrededor	alrededor	O	1	
-17	y	y	G	1	
-18	gastar	gastar	N	1	
-19	lo	lo	N	1	
-20	mismo	mismo	N	1	
-21	en	en	P	1	
-22	comida	comida	G	1	
-23	típica	típica	N	1	
-24	madrilena	madrilena	N	1	
-25	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	O	1	O
+3	nos	nos	O	1	O
+4	pareció	pareció	N	1	O
+5	caro	caro	N	1	O
+6	,	,	O	1	O
+7	entonces	entonces	V	1	O
+8	como	como	N	1	O
+9	recomendación	recomendación	N	1	O
+10	mejor	mejor	G	1	O
+11	salir	salir	N	1	O
+12	a	a	D	1	O
+13	descubrir	descubrir	N	1	O
+14	los	los	O	1	O
+15	bares	bares	O	1	O
+16	alrededor	alrededor	O	1	O
+17	y	y	G	1	O
+18	gastar	gastar	N	1	O
+19	lo	lo	N	1	O
+20	mismo	mismo	N	1	O
+21	en	en	P	1	O
+22	comida	comida	G	1	O
+23	típica	típica	N	1	O
+24	madrilena	madrilena	N	1	O
+25	.	.	O	1	O
 

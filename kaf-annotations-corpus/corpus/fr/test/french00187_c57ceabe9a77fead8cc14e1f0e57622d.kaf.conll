@@ -1,84 +1,84 @@
-1	Séjour	séjour	N	1	
-2	à	à	P	1	
-3	Milan	milan	R	1	ne=Location
-4	magasin	magasin	N	1	
-5	à	à	P	1	
-6	coter	coter	V	1	
+1	Séjour	séjour	N	1	O
+2	à	à	P	1	O
+3	Milan	milan	R	1	I-Location
+4	magasin	magasin	N	1	O
+5	à	à	P	1	O
+6	coter	coter	V	1	O
 
-1	on	on	Q	1	
-2	est	être	V	1	
-3	partit	partir	V	1	
-4	avec	avec	P	1	
-5	des	un	D	1	
-6	amis	ami	N	1	
-7	et	et	C	1	
-8	quand	quand	C	1	
-9	on	on	Q	1	
-10	est	être	V	1	
-11	arriver	arriver	V	1	
-12	on	on	Q	1	
-13	etais	etais	G	1	
-14	très	très	G	1	
-15	etonner	etonner	V	1	
-16	de	de	P	1	
-17	la	le	D	1	
-18	taille	taille	N	1	
-19	des	des	P	1	
-20	chambre	chambre	N	1	
-21	elles	lui	Q	1	
-22	sont	être	V	1	
-23	grande	grand	G	1	
-24	et	et	C	1	
-25	pour	pour	P	1	
-26	le	le	D	1	
-27	prix	prix	N	1	
-28	sa	son	D	1	
-29	vaut	valoir	V	1	
-30	le	le	D	1	
-31	coût	coût	N	1	
-32	.	.	O	1	
+1	on	on	Q	1	O
+2	est	être	V	1	O
+3	partit	partir	V	1	O
+4	avec	avec	P	1	O
+5	des	un	D	1	O
+6	amis	ami	N	1	O
+7	et	et	C	1	O
+8	quand	quand	C	1	O
+9	on	on	Q	1	O
+10	est	être	V	1	O
+11	arriver	arriver	V	1	O
+12	on	on	Q	1	O
+13	etais	etais	G	1	O
+14	très	très	G	1	O
+15	etonner	etonner	V	1	O
+16	de	de	P	1	O
+17	la	le	D	1	O
+18	taille	taille	N	1	O
+19	des	des	P	1	O
+20	chambre	chambre	N	1	O
+21	elles	lui	Q	1	O
+22	sont	être	V	1	O
+23	grande	grand	G	1	O
+24	et	et	C	1	O
+25	pour	pour	P	1	O
+26	le	le	D	1	O
+27	prix	prix	N	1	O
+28	sa	son	D	1	O
+29	vaut	valoir	V	1	O
+30	le	le	D	1	O
+31	coût	coût	N	1	O
+32	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	etais	etais	C	1	
-4	très	très	G	1	
-5	aimable	aimable	G	1	
-6	avec	avec	P	1	
-7	nous	lui	Q	1	
-8	il	il	Q	1	
-9	parlait	parler	V	1	
-10	un	un	D	1	
-11	petit	petit	G	1	
-12	peu	peu	G	1	
-13	francais	francais	G	1	
-14	mais	mais	C	1	
-15	il	il	Q	1	
-16	se	se	Q	1	
-17	debrouillais	debrouillais	G	1	
-18	bien.	bien.	C	1	
-19	je	je	Q	1	
-20	le	le	Q	1	
-21	recommande	recommander	V	1	
-22	a	avoir	V	1	
-23	tous	tout	D	1	
-24	le	le	D	1	
-25	monde	monde	N	1	
-26	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	etais	etais	C	1	O
+4	très	très	G	1	O
+5	aimable	aimable	G	1	O
+6	avec	avec	P	1	O
+7	nous	lui	Q	1	O
+8	il	il	Q	1	O
+9	parlait	parler	V	1	O
+10	un	un	D	1	O
+11	petit	petit	G	1	O
+12	peu	peu	G	1	O
+13	francais	francais	G	1	O
+14	mais	mais	C	1	O
+15	il	il	Q	1	O
+16	se	se	Q	1	O
+17	debrouillais	debrouillais	G	1	O
+18	bien.	bien.	C	1	O
+19	je	je	Q	1	O
+20	le	le	Q	1	O
+21	recommande	recommander	V	1	O
+22	a	avoir	V	1	O
+23	tous	tout	D	1	O
+24	le	le	D	1	O
+25	monde	monde	N	1	O
+26	.	.	O	1	O
 
-1	Et	Et	C	1	
-2	pour	pour	P	1	
-3	aller	aller	V	1	
-4	a	avoir	V	1	
-5	la	le	D	1	
-6	cathedrale	cathedrale	N	1	
-7	il	il	Q	1	
-8	faut	faillir	V	1	
-9	prendre	prendre	V	1	
-10	le	le	D	1	
-11	metro	metro	N	1	
-12	qui	qui	P	1	
-13	est	être	V	1	
-14	a	avoir	V	1	
-15	proximiter	proximiter	V	1	
-16	.	.	O	1	
+1	Et	Et	C	1	O
+2	pour	pour	P	1	O
+3	aller	aller	V	1	O
+4	a	avoir	V	1	O
+5	la	le	D	1	O
+6	cathedrale	cathedrale	N	1	O
+7	il	il	Q	1	O
+8	faut	faillir	V	1	O
+9	prendre	prendre	V	1	O
+10	le	le	D	1	O
+11	metro	metro	N	1	O
+12	qui	qui	P	1	O
+13	est	être	V	1	O
+14	a	avoir	V	1	O
+15	proximiter	proximiter	V	1	O
+16	.	.	O	1	O
 

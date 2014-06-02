@@ -1,53 +1,53 @@
-1	Barcelona	Barcelona	R	1	
-2	en	en	P	1	
-3	familia	familia	G	1	
+1	Barcelona	Barcelona	R	1	O
+2	en	en	P	1	O
+3	familia	familia	G	1	O
 
-1	Este	Este	R	1	
-2	mes	mes	O	1	
-3	de	de	O	1	
-4	agosto	agosto	O	1	
-5	visitamos	visitamos	O	1	
-6	Barcelona	Barcelona	R	1	
-7	,	,	O	1	
-8	éramos	éramos	N	1	
-9	un	un	G	1	
-10	grupo	grupo	N	1	
-11	familiar	familiar	G	1	
-12	de	de	P	1	
-13	20	20	O	1	
-14	personas	persona	N	1	
-15	incluidos	incluidos	N	1	
-16	niños	niños	N	1	
-17	y	y	G	1	
-18	personas	persona	N	1	
-19	mayores	mayores	N	1	
-20	,	,	O	1	
-21	el	el	N	1	
-22	hotel	hotel	N	1	
-23	nos	nos	N	1	
-24	resultó	resultó	V	1	
-25	cómodo	cómodo	N	1	
-26	y	y	G	1	
-27	limpio	limpio	N	1	
-28	,	,	O	1	
-29	tambíén	tambíén	N	1	
-30	nos	nos	N	1	
-31	encantó	encantó	V	1	
-32	el	el	N	1	
-33	spa	spa	N	1	
-34	,	,	O	1	
-35	y	y	G	1	
-36	la	la	N	1	
-37	piscina	piscina	N	1	
-38	de	de	P	1	
-39	la	la	D	1	
-40	azotea	azotea	N	1	
-41	resultó	resultó	N	1	
-42	de	de	P	1	
-43	gran	gran	G	1	
-44	utilidad	utilidad	N	1	
-45	para	para	N	1	
-46	los	los	N	1	
-47	niños	niños	N	1	
-48	.	.	O	1	
+1	Este	Este	R	1	O
+2	mes	mes	O	1	O
+3	de	de	O	1	O
+4	agosto	agosto	O	1	O
+5	visitamos	visitamos	O	1	O
+6	Barcelona	Barcelona	R	1	O
+7	,	,	O	1	O
+8	éramos	éramos	N	1	O
+9	un	un	G	1	O
+10	grupo	grupo	N	1	O
+11	familiar	familiar	G	1	O
+12	de	de	P	1	O
+13	20	20	O	1	O
+14	personas	persona	N	1	O
+15	incluidos	incluidos	N	1	O
+16	niños	niños	N	1	O
+17	y	y	G	1	O
+18	personas	persona	N	1	O
+19	mayores	mayores	N	1	O
+20	,	,	O	1	O
+21	el	el	N	1	O
+22	hotel	hotel	N	1	O
+23	nos	nos	N	1	O
+24	resultó	resultó	V	1	O
+25	cómodo	cómodo	N	1	O
+26	y	y	G	1	O
+27	limpio	limpio	N	1	O
+28	,	,	O	1	O
+29	tambíén	tambíén	N	1	O
+30	nos	nos	N	1	O
+31	encantó	encantó	V	1	O
+32	el	el	N	1	O
+33	spa	spa	N	1	O
+34	,	,	O	1	O
+35	y	y	G	1	O
+36	la	la	N	1	O
+37	piscina	piscina	N	1	O
+38	de	de	P	1	O
+39	la	la	D	1	O
+40	azotea	azotea	N	1	O
+41	resultó	resultó	N	1	O
+42	de	de	P	1	O
+43	gran	gran	G	1	O
+44	utilidad	utilidad	N	1	O
+45	para	para	N	1	O
+46	los	los	N	1	O
+47	niños	niños	N	1	O
+48	.	.	O	1	O
 

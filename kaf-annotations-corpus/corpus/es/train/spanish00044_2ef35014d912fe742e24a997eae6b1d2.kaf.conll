@@ -1,41 +1,47 @@
-1	Aceptable	aceptable	G	1	
+1	Aceptable	aceptable	G	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	esta	esta	N	1	
-4	bien	bien	N	1	
-5	,	,	O	1	
-6	por	por	N	1	
-7	el	el	N	1	
-8	precio	precio	G	1	
-9	que	que	N	1	
-10	pagas	pagas	N	1	
-11	,	,	O	1	
-12	buena	buena	N	1	
-13	ubicación	ubicación	N	1	
-14	cerca	cerca	O	1	
-15	de	de	O	1	
-16	la_estación_de_trenes_Santa_Maria_Novella	la_estación_de_trenes_Santa_Maria_Novella	R	1	ne=POI
-17	,	,	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	esta	esta	N	1	O
+4	bien	bien	N	1	O
+5	,	,	O	1	O
+6	por	por	N	1	O
+7	el	el	N	1	O
+8	precio	precio	G	1	O
+9	que	que	N	1	O
+10	pagas	pagas	N	1	O
+11	,	,	O	1	O
+12	buena	buena	N	1	O
+13	ubicación	ubicación	N	1	O
+14	cerca	cerca	O	1	O
+15	de	de	O	1	O
+16	la	la	O	1	I-POI
+17	estación	estación	O	1	I-POI
+18	de	de	O	1	I-POI
+19	trenes	trenes	N	1	I-POI
+20	Santa	Santa	R	1	I-POI
+21	Maria	Maria	R	1	I-POI
+22	Novella	Novella	R	1	I-POI
+23	,	,	O	1	O
 
-1	el	el	N	1	
-2	desayuno	desayuno	N	1	
-3	es	es	V	1	
-4	aceptable	aceptable	G	1	
-5	,	,	O	1	
-6	no	no	D	1	
-7	hay	hay	N	1	
-8	nada	nada	O	1	
-9	de	de	O	1	
-10	maxima	maxima	O	1	
-11	calidad	calidad	N	1	
-12	,	,	O	1	
-13	pero	pero	O	1	
-14	esta	esta	O	1	
-15	bien.	bien.	O	1	
-16	en	en	O	1	
-17	general	general	G	1	
-18	es	es	N	1	
-19	un	un	G	1	
-20	7	7	O	1	
+1	el	el	N	1	O
+2	desayuno	desayuno	N	1	O
+3	es	es	V	1	O
+4	aceptable	aceptable	G	1	O
+5	,	,	O	1	O
+6	no	no	D	1	O
+7	hay	hay	N	1	O
+8	nada	nada	O	1	O
+9	de	de	O	1	O
+10	maxima	maxima	O	1	O
+11	calidad	calidad	N	1	O
+12	,	,	O	1	O
+13	pero	pero	O	1	O
+14	esta	esta	O	1	O
+15	bien.	bien.	O	1	O
+16	en	en	O	1	O
+17	general	general	G	1	O
+18	es	es	N	1	O
+19	un	un	G	1	O
+20	7	7	O	1	O
 

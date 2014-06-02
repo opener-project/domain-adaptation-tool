@@ -1,58 +1,58 @@
-1	Bon	bon	G	1	
-2	séjour	séjour	N	1	
+1	Bon	bon	G	1	O
+2	séjour	séjour	N	1	O
 
-1	Dans	Dans	P	1	
-2	l'	le	D	1	
-3	ensemble	ensemble	N	1	
-4	nous	lui	Q	1	
-5	avons	avoir	V	1	
-6	passé	passer	V	1	
-7	un	un	D	1	
-8	agréable	agréable	G	1	
-9	séjour	séjour	N	1	
-10	dans	dans	P	1	
-11	ce	ce	D	1	
-12	camping	camping	N	1	
-13	,	,	O	1	
+1	Dans	Dans	P	1	O
+2	l'	le	D	1	O
+3	ensemble	ensemble	N	1	O
+4	nous	lui	Q	1	O
+5	avons	avoir	V	1	O
+6	passé	passer	V	1	O
+7	un	un	D	1	O
+8	agréable	agréable	G	1	O
+9	séjour	séjour	N	1	O
+10	dans	dans	P	1	O
+11	ce	ce	D	1	O
+12	camping	camping	N	1	O
+13	,	,	O	1	O
 
-1	Points	point	N	1	
-2	positif	positif	G	1	
-3	:	:	O	1	
-4	camping	camping	N	1	
-5	calme	calme	G	1	
-6	,	,	O	1	
-7	mobil	mobil	G	1	
-8	home	home	N	1	
-9	bien	bien	G	1	
-10	équipé	équiper	V	1	
-11	,	,	O	1	
-12	animations	animation	N	1	
-13	sympas	sympa	G	1	
-14	...	...	O	1	
+1	Points	point	N	1	O
+2	positif	positif	G	1	O
+3	:	:	O	1	O
+4	camping	camping	N	1	O
+5	calme	calme	G	1	O
+6	,	,	O	1	O
+7	mobil	mobil	G	1	O
+8	home	home	N	1	O
+9	bien	bien	G	1	O
+10	équipé	équiper	V	1	O
+11	,	,	O	1	O
+12	animations	animation	N	1	O
+13	sympas	sympa	G	1	O
+14	...	...	O	1	O
 
-1	Points	Points	G	1	
-2	négatifs	négatif	G	1	
-3	:	:	O	1	
-4	petite	petit	G	1	
-5	piscine	piscine	N	1	
-6	,	,	O	1	
-7	ménage	ménage	N	1	
-8	du	du	D	1	
-9	mobil	mobil	N	1	
-10	home	home	P	1	
-11	fait	fait	N	1	
-12	"	&amp;quot;	O	1	
-13	à	à	P	1	
-14	la	le	D	1	
-15	va	va	N	1	
-16	vite	vite	G	1	
-17	"	&amp;quot;	O	1	
-18	,	,	O	1	
-19	pièces	pièce	N	1	
-20	petites	petit	G	1	
-21	,	,	O	1	
-22	supérette	supérette	V	1	
-23	assez	assez	G	1	
-24	cher	cher	G	1	
-25	.	.	O	1	
+1	Points	Points	G	1	O
+2	négatifs	négatif	G	1	O
+3	:	:	O	1	O
+4	petite	petit	G	1	O
+5	piscine	piscine	N	1	O
+6	,	,	O	1	O
+7	ménage	ménage	N	1	O
+8	du	du	D	1	O
+9	mobil	mobil	N	1	O
+10	home	home	P	1	O
+11	fait	fait	N	1	O
+12	"	&amp;quot;	O	1	O
+13	à	à	P	1	O
+14	la	le	D	1	O
+15	va	va	N	1	O
+16	vite	vite	G	1	O
+17	"	&amp;quot;	O	1	O
+18	,	,	O	1	O
+19	pièces	pièce	N	1	O
+20	petites	petit	G	1	O
+21	,	,	O	1	O
+22	supérette	supérette	V	1	O
+23	assez	assez	G	1	O
+24	cher	cher	G	1	O
+25	.	.	O	1	O
 

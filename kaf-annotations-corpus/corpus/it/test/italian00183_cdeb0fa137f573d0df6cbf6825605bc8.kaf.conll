@@ -1,120 +1,121 @@
-1	Vista	vista	N	1	
-2	sul	sul	P	1	
-3	Burj_Khalifa	burj_khalifa	R	1	ne=POI
+1	Vista	vista	N	1	O
+2	sul	sul	P	1	O
+3	Burj	burj	R	1	I-POI
+4	Khalifa	khalifa	R	1	I-POI
 
-1	La	lo	D	1	
-2	vista	vista	N	1	
-3	sul	sul	P	1	
-4	grattacielo	grattacielo	N	1	
-5	più	piu'	N	1	
-6	alto	alto	G	1	
-7	di	di	P	1	
-8	Dubai	dubai	R	1	ne=Location
-9	e	e	Q	1	
-10	del	del	P	1	
-11	mondo	mondo	N	1	
-12	è	è	N	1	
-13	davvero	davvero	A	1	
-14	spettacolare	spettacolare	G	1	
-15	,	,	O	1	
-16	specie	specie	N	1	
-17	al	al	P	1	
-18	calare	calare	N	1	
-19	dell'	dell'	P	1	
-20	oscurità	oscurita'	N	1	
-21	,	,	O	1	
-22	come	come	A	1	
-23	pure	pure	Q	1	
-24	sulle	sulle	P	1	
-25	fontane	fontana	N	1	
-26	che	che	Q	1	
-27	si	si	Q	1	
-28	attivano	attivare	V	1	
-29	con	con	P	1	
-30	suoni	suono	N	1	
-31	e	e	Q	1	
-32	luci	luce	N	1	
-33	ogni	ogni	G	1	
-34	30	30	G	1	
-35	minuti	minuto	N	1	
-36	;	;	O	1	
-37	anche	anche	Q	1	
-38	la	lo	D	1	
-39	vicinanza	vicinanza	N	1	
-40	ai	ai	P	1	
-41	vari	vario	G	1	
-42	centri	centro	N	1	
-43	commerciali	commerciale	G	1	
-44	ne	ne	Q	1	
-45	fa	fa	V	1	
-46	una	uno	D	1	
-47	posizione	posizione	N	1	
-48	davvero	davvero	A	1	
-49	unica	unico	G	1	
-50	,	,	O	1	
-51	in	in	P	1	
-52	una	uno	D	1	
-53	città	citta'	N	1	
-54	per	per	P	1	
-55	il	lo	D	1	
-56	resto	resto	N	1	
-57	molto	molto	A	1	
-58	strana	strano	G	1	
-59	ed	ed	Q	1	
-60	"	&quot;	O	1	
-61	anomala	anomalo	G	1	
-62	"	&quot;	O	1	
-63	come	come	A	1	
-64	Dubai	dubai	R	1	ne=Location
-65	;	;	O	1	
-66	non	non	A	1	
-67	andateci	andateci	V	1	
-68	per	per	P	1	
-69	soggiorni	soggiorno	N	1	
-70	marini	marino	G	1	
-71	perché	perche'	Q	1	
-72	non	non	A	1	
-73	ne	ne	Q	1	
-74	vale	valere	V	1	
-75	la	lo	D	1	
-76	pena	pena	N	1	
-77	ed	ed	Q	1	
-78	il	lo	D	1	
-79	caldo	caldo	N	1	
-80	di	di	P	1	
-81	giorno	giorno	N	1	
-82	è	è	R	1	
-83	terrificante	terrificare	V	1	
-84	.	.	O	1	
+1	La	lo	D	1	O
+2	vista	vista	N	1	O
+3	sul	sul	P	1	O
+4	grattacielo	grattacielo	N	1	O
+5	più	piu'	N	1	O
+6	alto	alto	G	1	O
+7	di	di	P	1	O
+8	Dubai	dubai	R	1	I-Location
+9	e	e	Q	1	O
+10	del	del	P	1	O
+11	mondo	mondo	N	1	O
+12	è	è	N	1	O
+13	davvero	davvero	A	1	O
+14	spettacolare	spettacolare	G	1	O
+15	,	,	O	1	O
+16	specie	specie	N	1	O
+17	al	al	P	1	O
+18	calare	calare	N	1	O
+19	dell'	dell'	P	1	O
+20	oscurità	oscurita'	N	1	O
+21	,	,	O	1	O
+22	come	come	A	1	O
+23	pure	pure	Q	1	O
+24	sulle	sulle	P	1	O
+25	fontane	fontana	N	1	O
+26	che	che	Q	1	O
+27	si	si	Q	1	O
+28	attivano	attivare	V	1	O
+29	con	con	P	1	O
+30	suoni	suono	N	1	O
+31	e	e	Q	1	O
+32	luci	luce	N	1	O
+33	ogni	ogni	G	1	O
+34	30	30	G	1	O
+35	minuti	minuto	N	1	O
+36	;	;	O	1	O
+37	anche	anche	Q	1	O
+38	la	lo	D	1	O
+39	vicinanza	vicinanza	N	1	O
+40	ai	ai	P	1	O
+41	vari	vario	G	1	O
+42	centri	centro	N	1	O
+43	commerciali	commerciale	G	1	O
+44	ne	ne	Q	1	O
+45	fa	fa	V	1	O
+46	una	uno	D	1	O
+47	posizione	posizione	N	1	O
+48	davvero	davvero	A	1	O
+49	unica	unico	G	1	O
+50	,	,	O	1	O
+51	in	in	P	1	O
+52	una	uno	D	1	O
+53	città	citta'	N	1	O
+54	per	per	P	1	O
+55	il	lo	D	1	O
+56	resto	resto	N	1	O
+57	molto	molto	A	1	O
+58	strana	strano	G	1	O
+59	ed	ed	Q	1	O
+60	"	&quot;	O	1	O
+61	anomala	anomalo	G	1	O
+62	"	&quot;	O	1	O
+63	come	come	A	1	O
+64	Dubai	dubai	R	1	I-Location
+65	;	;	O	1	O
+66	non	non	A	1	O
+67	andateci	andateci	V	1	O
+68	per	per	P	1	O
+69	soggiorni	soggiorno	N	1	O
+70	marini	marino	G	1	O
+71	perché	perche'	Q	1	O
+72	non	non	A	1	O
+73	ne	ne	Q	1	O
+74	vale	valere	V	1	O
+75	la	lo	D	1	O
+76	pena	pena	N	1	O
+77	ed	ed	Q	1	O
+78	il	lo	D	1	O
+79	caldo	caldo	N	1	O
+80	di	di	P	1	O
+81	giorno	giorno	N	1	O
+82	è	è	R	1	O
+83	terrificante	terrificare	V	1	O
+84	.	.	O	1	O
 
-1	La	lo	D	1	
-2	stanza	stanza	N	1	
-3	a	a	P	1	
-4	mia	mio	G	1	
-5	disposizione	disposizione	N	1	
-6	era	essere	V	1	
-7	un	uno	D	1	
-8	vero	vero	N	1	
-9	e	e	Q	1	
-10	proprio	proprio	G	1	
-11	appartamento	appartamento	N	1	
-12	,	,	O	1	
-13	mentre	mentre	Q	1	
-14	la	lo	D	1	
-15	zona	zona	N	1	
-16	reception	reception	N	1	
-17	/	/	O	1	
-18	hall	hall	N	1	
-19	non	non	A	1	
-20	sembra	sembrare	V	1	
-21	all'	all'	P	1	
-22	altezza	altezza	N	1	
-23	.	.	O	1	
+1	La	lo	D	1	O
+2	stanza	stanza	N	1	O
+3	a	a	P	1	O
+4	mia	mio	G	1	O
+5	disposizione	disposizione	N	1	O
+6	era	essere	V	1	O
+7	un	uno	D	1	O
+8	vero	vero	N	1	O
+9	e	e	Q	1	O
+10	proprio	proprio	G	1	O
+11	appartamento	appartamento	N	1	O
+12	,	,	O	1	O
+13	mentre	mentre	Q	1	O
+14	la	lo	D	1	O
+15	zona	zona	N	1	O
+16	reception	reception	N	1	O
+17	/	/	O	1	O
+18	hall	hall	N	1	O
+19	non	non	A	1	O
+20	sembra	sembrare	V	1	O
+21	all'	all'	P	1	O
+22	altezza	altezza	N	1	O
+23	.	.	O	1	O
 
-1	Wi	wi	R	1	
-2	Fi	fi	R	1	
-3	gratuito	gratuito	G	1	
-4	in	in	P	1	
-5	camera	camera	N	1	
-6	.	.	O	1	
+1	Wi	wi	R	1	O
+2	Fi	fi	R	1	O
+3	gratuito	gratuito	G	1	O
+4	in	in	P	1	O
+5	camera	camera	N	1	O
+6	.	.	O	1	O
 

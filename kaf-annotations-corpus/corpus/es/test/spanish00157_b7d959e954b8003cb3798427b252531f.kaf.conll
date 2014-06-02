@@ -1,50 +1,54 @@
-1	Piccolo	Piccolo	R	1	
-2	.	.	O	1	
+1	Piccolo	Piccolo	R	1	O
+2	.	.	O	1	O
 
-1	Hotel	hotel	N	1	
-2	Florencia	Florencia	R	1	ne=Location
-3	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	Florencia	Florencia	R	1	I-Location
+3	.	.	O	1	O
 
-1	Un	un	G	1	
-2	pequeño	pequeño	N	1	
-3	hotel	hotel	N	1	
-4	de	de	P	1	
-5	buena	buena	N	1	
-6	presencia	presencia	N	1	
-7	,	,	O	1	
-8	cercano	cercano	V	1	
-9	a	a	D	1	
-10	la_Iglesia_de_San_Lorenzo	la_Iglesia_de_San_Lorenzo	R	1	ne=Attraction
-11	y	y	G	1	
-12	al	al	G	1	
-13	Duomo	Duomo	R	1	ne=Attraction
-14	.	.	O	1	
+1	Un	un	G	1	O
+2	pequeño	pequeño	N	1	O
+3	hotel	hotel	N	1	O
+4	de	de	P	1	O
+5	buena	buena	N	1	O
+6	presencia	presencia	N	1	O
+7	,	,	O	1	O
+8	cercano	cercano	V	1	O
+9	a	a	D	1	O
+10	la	la	N	1	I-Attraction
+11	Iglesia	Iglesia	R	1	I-Attraction
+12	de	de	P	1	I-Attraction
+13	San	San	R	1	I-Attraction
+14	Lorenzo	Lorenzo	R	1	I-Attraction
+15	y	y	G	1	O
+16	al	al	G	1	O
+17	Duomo	Duomo	R	1	I-Attraction
+18	.	.	O	1	O
 
-1	Tambien	Tambien	R	1	
-2	a	a	D	1	
-3	la	la	R	1	
-4	estacion	estacion	N	1	
-5	de	de	P	1	
-6	trenes	trenes	N	1	
-7	.	.	O	1	
+1	Tambien	Tambien	R	1	O
+2	a	a	D	1	O
+3	la	la	R	1	O
+4	estacion	estacion	N	1	O
+5	de	de	P	1	O
+6	trenes	trenes	N	1	O
+7	.	.	O	1	O
 
-1	Bien	Bien	R	1	
-2	situado	situado	V	1	
-3	,	,	O	1	
-4	fácil	fácil	G	1	
-5	de	de	P	1	
-6	localizar	localizar	G	1	
-7	,	,	O	1	
-8	buen	buen	G	1	
-9	servicio	servicio	N	1	
-10	.	.	O	1	
+1	Bien	Bien	R	1	O
+2	situado	situado	V	1	O
+3	,	,	O	1	O
+4	fácil	fácil	G	1	O
+5	de	de	P	1	O
+6	localizar	localizar	G	1	O
+7	,	,	O	1	O
+8	buen	buen	G	1	O
+9	servicio	servicio	N	1	O
+10	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	malo	malo	N	1	
-3	la	la	N	1	
-4	ducha	ducha	N	1	
-5	,	,	O	1	
-6	sin	sin	N	1	
-7	plato	plato	N	1	
-8	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	malo	malo	N	1	O
+3	la	la	N	1	O
+4	ducha	ducha	N	1	O
+5	,	,	O	1	O
+6	sin	sin	N	1	O
+7	plato	plato	N	1	O
+8	.	.	O	1	O
 

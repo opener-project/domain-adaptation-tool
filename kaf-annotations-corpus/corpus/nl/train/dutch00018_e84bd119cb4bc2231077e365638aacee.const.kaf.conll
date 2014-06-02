@@ -1,132 +1,133 @@
-1	Prima	prima	G	1	
-2	hotel	hotel	N	1	
-3	!	!	O	1	
+1	Prima	prima	G	1	O
+2	hotel	hotel	N	1	O
+3	!	!	O	1	O
 
-1	Volgend	volgend	G	1	
-2	jaar	jaar	N	1	
-3	zeker	zeker	G	1	
-4	weer	weer	A	1	
-5	!	!	O	1	
+1	Volgend	volgend	G	1	O
+2	jaar	jaar	N	1	O
+3	zeker	zeker	G	1	O
+4	weer	weer	A	1	O
+5	!	!	O	1	O
 
-1	Zeer	zeer	G	1	
-2	ruim	ruim	G	1	
-3	opgezet	opzetten	V	1	
-4	complex	complex	N	1	
-5	.	.	O	1	
+1	Zeer	zeer	G	1	O
+2	ruim	ruim	G	1	O
+3	opgezet	opzetten	V	1	O
+4	complex	complex	N	1	O
+5	.	.	O	1	O
 
-1	Voor	voor	P	1	
-2	ieder	ieder	D	1	
-3	wat	wat	D	1	
-4	wils	wil	N	1	
-5	.	.	O	1	
+1	Voor	voor	P	1	O
+2	ieder	ieder	D	1	O
+3	wat	wat	D	1	O
+4	wils	wil	N	1	O
+5	.	.	O	1	O
 
-1	Verschillende	verschillend	G	1	
-2	zwembaden	zwembad	N	1	
-3	en	en	C	1	
-4	een	een	D	1	
-5	eigen	eigen	G	1	
-6	strand	strand	N	1	
-7	.	.	O	1	
+1	Verschillende	verschillend	G	1	O
+2	zwembaden	zwembad	N	1	O
+3	en	en	C	1	O
+4	een	een	D	1	O
+5	eigen	eigen	G	1	O
+6	strand	strand	N	1	O
+7	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hele	heel	G	1	
-3	complex	complex	N	1	
-4	is	zijn	V	1	
-5	werkelijk	werkelijk	G	1	
-6	brandschoon	brandschoon	G	1	
-7	.	.	O	1	
+1	Het	het	D	1	O
+2	hele	heel	G	1	O
+3	complex	complex	N	1	O
+4	is	zijn	V	1	O
+5	werkelijk	werkelijk	G	1	O
+6	brandschoon	brandschoon	G	1	O
+7	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	heeft	hebben	V	1	
-3	er	er	Q	1	
-4	soms	soms	A	1	
-5	weg	weg	A	1	
-6	van	van	P	1	
-7	dat	dat	Q	1	
-8	er	er	Q	1	
-9	24	@card@	O	1	
-10	uur	uur	N	1	
-11	per	per	P	1	
-12	dag	dag	N	1	
-13	gepoetst	poetsen	V	1	
-14	wordt	worden	V	1	
-15	.	.	O	1	
+1	Het	het	Q	1	O
+2	heeft	hebben	V	1	O
+3	er	er	Q	1	O
+4	soms	soms	A	1	O
+5	weg	weg	A	1	O
+6	van	van	P	1	O
+7	dat	dat	Q	1	O
+8	er	er	Q	1	O
+9	24	@card@	O	1	O
+10	uur	uur	N	1	O
+11	per	per	P	1	O
+12	dag	dag	N	1	O
+13	gepoetst	poetsen	V	1	O
+14	wordt	worden	V	1	O
+15	.	.	O	1	O
 
-1	Grootste	groot|groots	G	1	
-2	gedeelte	gedeelte	N	1	
-3	van	van	P	1	
-4	de	de	D	1	
-5	populatie	populatie	N	1	
-6	bestaat	bestaan	V	1	
-7	uit	uit	P	1	
-8	Russen	Rus	N	1	
-9	.	.	O	1	
+1	Grootste	groot|groots	G	1	O
+2	gedeelte	gedeelte	N	1	O
+3	van	van	P	1	O
+4	de	de	D	1	O
+5	populatie	populatie	N	1	O
+6	bestaat	bestaan	V	1	O
+7	uit	uit	P	1	O
+8	Russen	Rus	N	1	O
+9	.	.	O	1	O
 
-1	Daarna	daarna	Q	1	
-2	Duitsers	Duitser	N	1	
-3	een	een	D	1	
-4	verdwaalde	verdwaald	G	1	
-5	Engelsman	Engelsman	N	1	
-6	en	en	C	1	
-7	enkele	enkel	D	1	
-8	nederlands	nederlands	O	1	
-9	.	.	O	1	
+1	Daarna	daarna	Q	1	O
+2	Duitsers	Duitser	N	1	O
+3	een	een	D	1	O
+4	verdwaalde	verdwaald	G	1	O
+5	Engelsman	Engelsman	N	1	O
+6	en	en	C	1	O
+7	enkele	enkel	D	1	O
+8	nederlands	nederlands	O	1	O
+9	.	.	O	1	O
 
-1	Van	van	P	1	
-2	de	de	D	1	
-3	Russen	Rus	N	1	
-4	weinig	weinig	O	1	
-5	last	last	N	1	
-6	gehad	hebben	V	1	
-7	,	,	O	1	
-8	al	al	A	1	
-9	zit	zitten	V	1	
-10	er	er	Q	1	
-11	altijd	altijd	A	1	
-12	wel	wel	A	1	
-13	een	een	D	1	
-14	uitzondering	uitzondering	N	1	
-15	tussen	tussen	P	1	
-16	.	.	O	1	
+1	Van	van	P	1	O
+2	de	de	D	1	O
+3	Russen	Rus	N	1	O
+4	weinig	weinig	O	1	O
+5	last	last	N	1	O
+6	gehad	hebben	V	1	O
+7	,	,	O	1	O
+8	al	al	A	1	O
+9	zit	zitten	V	1	O
+10	er	er	Q	1	O
+11	altijd	altijd	A	1	O
+12	wel	wel	A	1	O
+13	een	een	D	1	O
+14	uitzondering	uitzondering	N	1	O
+15	tussen	tussen	P	1	O
+16	.	.	O	1	O
 
-1	Tevens	tevens	A	1	
-2	kan	kunnen	V	1	
-3	men	men	Q	1	
-4	gebruik	gebruik	N	1	
-5	maken	maken	V	1	
-6	van	van	P	1	
-7	de	de	D	1	
-8	faciliteiten	faciliteit	N	1	
-9	van	van	P	1	
-10	het	het	D	1	
-11	naastgelegen	naastgelegen	O	1	
-12	Mamlouk_Resort	Mamlouk_Resort	R	1	ne=Hotel
-13	.	.	O	1	
+1	Tevens	tevens	A	1	O
+2	kan	kunnen	V	1	O
+3	men	men	Q	1	O
+4	gebruik	gebruik	N	1	O
+5	maken	maken	V	1	O
+6	van	van	P	1	O
+7	de	de	D	1	O
+8	faciliteiten	faciliteit	N	1	O
+9	van	van	P	1	O
+10	het	het	D	1	O
+11	naastgelegen	naastgelegen	O	1	O
+12	Mamlouk	Mamlouk	O	1	I-Hotel
+13	Resort	Resort	O	1	I-Hotel
+14	.	.	O	1	O
 
-1	Wat	wat	Q	1	
-2	luxe	luxe	N	1	
-3	betreft	betreffen	V	1	
-4	is	zijn	V	1	
-5	het	het	Q	1	
-6	niet	niet	A	1	
-7	te	te	O	1	
-8	vergelijken	vergelijken	V	1	
-9	met	met	P	1	
-10	de	de	D	1	
-11	5	@card@	O	1	
-12	sterren	ster	N	1	
-13	Hotels	hotel	N	1	
-14	in	in	P	1	
-15	Lara	Lara	O	1	
-16	Turkije	Turkije	R	1	
-17	.	.	O	1	
+1	Wat	wat	Q	1	O
+2	luxe	luxe	N	1	O
+3	betreft	betreffen	V	1	O
+4	is	zijn	V	1	O
+5	het	het	Q	1	O
+6	niet	niet	A	1	O
+7	te	te	O	1	O
+8	vergelijken	vergelijken	V	1	O
+9	met	met	P	1	O
+10	de	de	D	1	O
+11	5	@card@	O	1	O
+12	sterren	ster	N	1	O
+13	Hotels	hotel	N	1	O
+14	in	in	P	1	O
+15	Lara	Lara	O	1	O
+16	Turkije	Turkije	R	1	O
+17	.	.	O	1	O
 
-1	Daar	daar	A	1	
-2	zijn	zijn	V	1	
-3	ze	ze	Q	1	
-4	net	net	A	1	
-5	een	een	D	1	
-6	stapje	stapje	O	1	
-7	verder	ver|verder	G	1	
-8	.	.	O	1	
+1	Daar	daar	A	1	O
+2	zijn	zijn	V	1	O
+3	ze	ze	Q	1	O
+4	net	net	A	1	O
+5	een	een	D	1	O
+6	stapje	stapje	O	1	O
+7	verder	ver|verder	G	1	O
+8	.	.	O	1	O
 

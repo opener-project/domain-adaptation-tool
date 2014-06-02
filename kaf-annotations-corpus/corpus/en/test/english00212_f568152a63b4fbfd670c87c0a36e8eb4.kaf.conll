@@ -1,60 +1,60 @@
-1	Great	great	G	1	
-2	central	central	N	1	
-3	location	location	N	1	
+1	Great	great	G	1	O
+2	central	central	N	1	O
+3	location	location	N	1	O
 
-1	Well	well	A	1	
-2	positioned	position	V	1	
-3	for	for	P	1	
-4	city	city	N	1	
-5	sightseeing	sightseeing	N	1	
-6	and	and	C	1	
-7	well	well	A	1	
-8	connected	connected	G	1	
-9	(	(	O	1	
-10	easy	easy	G	1	
-11	access	access	N	1	
-12	to	to	P	1	
-13	airport	airport	N	1	
-14	with	with	P	1	
-15	metro	metro	N	1	
-16	)	)	O	1	
-17	.	.	O	1	
+1	Well	well	A	1	O
+2	positioned	position	V	1	O
+3	for	for	P	1	O
+4	city	city	N	1	O
+5	sightseeing	sightseeing	N	1	O
+6	and	and	C	1	O
+7	well	well	A	1	O
+8	connected	connected	G	1	O
+9	(	(	O	1	O
+10	easy	easy	G	1	O
+11	access	access	N	1	O
+12	to	to	P	1	O
+13	airport	airport	N	1	O
+14	with	with	P	1	O
+15	metro	metro	N	1	O
+16	)	)	O	1	O
+17	.	.	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	a	a	D	1	
-4	lovely	lovely	G	1	
-5	bar	bar	N	1	
-6	in	in	P	1	
-7	the	the	D	1	
-8	lobby	lobby	N	1	
-9	and	and	C	1	
-10	staff	staff	N	1	
-11	was	be	V	1	
-12	friendly	friendly	G	1	
-13	and	and	C	1	
-14	nice	nice	G	1	
-15	,	,	O	1	
-16	as	as	A	1	
-17	well	well	A	1	
-18	as	as	P	1	
-19	very	very	A	1	
-20	helpfull	helpfull	G	1	
-21	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	a	a	D	1	O
+4	lovely	lovely	G	1	O
+5	bar	bar	N	1	O
+6	in	in	P	1	O
+7	the	the	D	1	O
+8	lobby	lobby	N	1	O
+9	and	and	C	1	O
+10	staff	staff	N	1	O
+11	was	be	V	1	O
+12	friendly	friendly	G	1	O
+13	and	and	C	1	O
+14	nice	nice	G	1	O
+15	,	,	O	1	O
+16	as	as	A	1	O
+17	well	well	A	1	O
+18	as	as	P	1	O
+19	very	very	A	1	O
+20	helpfull	helpfull	G	1	O
+21	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	was	be	V	1	
-3	clean	clean	G	1	
-4	,	,	O	1	
-5	bit	bit	N	1	
-6	on	on	P	1	
-7	the	the	D	1	
-8	small	small	G	1	
-9	side	side	N	1	
-10	but	but	C	1	
-11	good	good	G	1	
-12	value	value	N	1	
-13	for	for	P	1	
-14	money	money	N	1	
-15	.	.	O	1	
+1	Room	Room	R	1	O
+2	was	be	V	1	O
+3	clean	clean	G	1	O
+4	,	,	O	1	O
+5	bit	bit	N	1	O
+6	on	on	P	1	O
+7	the	the	D	1	O
+8	small	small	G	1	O
+9	side	side	N	1	O
+10	but	but	C	1	O
+11	good	good	G	1	O
+12	value	value	N	1	O
+13	for	for	P	1	O
+14	money	money	N	1	O
+15	.	.	O	1	O
 

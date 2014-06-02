@@ -1,127 +1,128 @@
-1	Good	good	G	1	
-2	value	value	N	1	
-3	for	for	P	1	
-4	money	money	N	1	
-5	!	!	O	1	
+1	Good	good	G	1	O
+2	value	value	N	1	O
+3	for	for	P	1	O
+4	money	money	N	1	O
+5	!	!	O	1	O
 
-1	Had	have	V	1	
-2	a	a	D	1	
-3	short	short	G	1	
-4	city	city	N	1	
-5	break	break	N	1	
-6	with	with	P	1	
-7	my	my	Q	1	
-8	wife	wife	N	1	
-9	.	.	O	1	
+1	Had	have	V	1	O
+2	a	a	D	1	O
+3	short	short	G	1	O
+4	city	city	N	1	O
+5	break	break	N	1	O
+6	with	with	P	1	O
+7	my	my	Q	1	O
+8	wife	wife	N	1	O
+9	.	.	O	1	O
 
-1	5	5	O	1	
-2	minute	minute	N	1	
-3	walk	walk	N	1	
-4	from	from	P	1	
-5	Gran_Via	Gran_Via	R	1	ne=Location
-6	,	,	O	1	
-7	got	get	V	1	
-8	off	off	P	1	
-9	the	the	D	1	
-10	Madrid	Madrid	R	1	ne=Location
-11	city	city	N	1	
-12	tour	tour	N	1	
-13	bus	bus	N	1	
-14	,	,	O	1	
-15	went	go	V	1	
-16	into	into	P	1	
-17	the	the	D	1	
-18	hotel	hotel	N	1	
-19	,	,	O	1	
-20	in	in	P	1	
-21	15	15	O	1	
-22	minutes	minute	N	1	
-23	we	we	Q	1	
-24	were	be	V	1	
-25	back	back	A	1	
-26	on	on	A	1	
-27	tour	tour	N	1	
-28	.	.	O	1	
+1	5	5	O	1	O
+2	minute	minute	N	1	O
+3	walk	walk	N	1	O
+4	from	from	P	1	O
+5	Gran	Gran	R	1	I-Location
+6	Via	Via	R	1	I-Location
+7	,	,	O	1	O
+8	got	get	V	1	O
+9	off	off	P	1	O
+10	the	the	D	1	O
+11	Madrid	Madrid	R	1	I-Location
+12	city	city	N	1	O
+13	tour	tour	N	1	O
+14	bus	bus	N	1	O
+15	,	,	O	1	O
+16	went	go	V	1	O
+17	into	into	P	1	O
+18	the	the	D	1	O
+19	hotel	hotel	N	1	O
+20	,	,	O	1	O
+21	in	in	P	1	O
+22	15	15	O	1	O
+23	minutes	minute	N	1	O
+24	we	we	Q	1	O
+25	were	be	V	1	O
+26	back	back	A	1	O
+27	on	on	A	1	O
+28	tour	tour	N	1	O
+29	.	.	O	1	O
 
-1	Straight	straight	G	1	
-2	forward	forward	A	1	
-3	and	and	C	1	
-4	friendly	friendly	G	1	
-5	reception	reception	N	1	
-6	personnel	personnel	N	1	
-7	,	,	O	1	
-8	kindly	kindly	A	1	
-9	helped	help	V	1	
-10	us	us	Q	1	
-11	to	to	P	1	
-12	order	order	V	1	
-13	a	a	D	1	
-14	table	table	N	1	
-15	for	for	P	1	
-16	Flamenco	Flamenco	R	1	ne=Attraction
-17	,	,	O	1	
-18	with	with	P	1	
-19	good	good	G	1	
-20	recommendations	recommendation	N	1	
-21	to	to	P	1	
-22	go	go	V	1	
-23	about	about	P	1	
-24	town	town	N	1	
-25	.	.	O	1	
+1	Straight	straight	G	1	O
+2	forward	forward	A	1	O
+3	and	and	C	1	O
+4	friendly	friendly	G	1	O
+5	reception	reception	N	1	O
+6	personnel	personnel	N	1	O
+7	,	,	O	1	O
+8	kindly	kindly	A	1	O
+9	helped	help	V	1	O
+10	us	us	Q	1	O
+11	to	to	P	1	O
+12	order	order	V	1	O
+13	a	a	D	1	O
+14	table	table	N	1	O
+15	for	for	P	1	O
+16	Flamenco	Flamenco	R	1	I-Attraction
+17	,	,	O	1	O
+18	with	with	P	1	O
+19	good	good	G	1	O
+20	recommendations	recommendation	N	1	O
+21	to	to	P	1	O
+22	go	go	V	1	O
+23	about	about	P	1	O
+24	town	town	N	1	O
+25	.	.	O	1	O
 
-1	Loads	load	N	1	
-2	of	of	P	1	
-3	shopping	shopping	N	1	
-4	opportunities	opportunity	N	1	
-5	and	and	C	1	
-6	brilliant	brilliant	G	1	
-7	food	food	N	1	
-8	near	near	P	1	
-9	by	by	P	1	
-10	,	,	O	1	
-11	and	and	C	1	
-12	mostly	mostly	A	1	
-13	all	all	D	1	
-14	of	of	P	1	
-15	the	the	D	1	
-16	sight	sight	N	1	
-17	seeng	seeng	N	1	
-18	is	be	V	1	
-19	within	within	P	1	
-20	the	the	D	1	
-21	walking	walking	N	1	
-22	distance	distance	N	1	
-23	.	.	O	1	
+1	Loads	load	N	1	O
+2	of	of	P	1	O
+3	shopping	shopping	N	1	O
+4	opportunities	opportunity	N	1	O
+5	and	and	C	1	O
+6	brilliant	brilliant	G	1	O
+7	food	food	N	1	O
+8	near	near	P	1	O
+9	by	by	P	1	O
+10	,	,	O	1	O
+11	and	and	C	1	O
+12	mostly	mostly	A	1	O
+13	all	all	D	1	O
+14	of	of	P	1	O
+15	the	the	D	1	O
+16	sight	sight	N	1	O
+17	seeng	seeng	N	1	O
+18	is	be	V	1	O
+19	within	within	P	1	O
+20	the	the	D	1	O
+21	walking	walking	N	1	O
+22	distance	distance	N	1	O
+23	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	was	be	V	1	
-3	good	good	G	1	
-4	,	,	O	1	
-5	enough	enough	G	1	
-6	space	space	N	1	
-7	for	for	P	1	
-8	two	two	O	1	
-9	,	,	O	1	
-10	good	good	G	1	
-11	bedding	bedding	N	1	
-12	and	and	C	1	
-13	towels	towel	N	1	
-14	,	,	O	1	
-15	comfy	comfy	G	1	
-16	bed	bed	N	1	
-17	,	,	O	1	
-18	air	air	N	1	
-19	con	con	A	1	
-20	,	,	O	1	
-21	good	good	G	1	
-22	shower	shower	N	1	
-23	,	,	O	1	
-24	and	and	C	1	
-25	it	it	Q	1	
-26	was	be	V	1	
-27	surprisingly	surprisingly	A	1	
-28	quite	quite	A	1	
-29	at	at	P	1	
-30	night	night	N	1	
-31	.	.	O	1	
+1	Room	Room	R	1	O
+2	was	be	V	1	O
+3	good	good	G	1	O
+4	,	,	O	1	O
+5	enough	enough	G	1	O
+6	space	space	N	1	O
+7	for	for	P	1	O
+8	two	two	O	1	O
+9	,	,	O	1	O
+10	good	good	G	1	O
+11	bedding	bedding	N	1	O
+12	and	and	C	1	O
+13	towels	towel	N	1	O
+14	,	,	O	1	O
+15	comfy	comfy	G	1	O
+16	bed	bed	N	1	O
+17	,	,	O	1	O
+18	air	air	N	1	O
+19	con	con	A	1	O
+20	,	,	O	1	O
+21	good	good	G	1	O
+22	shower	shower	N	1	O
+23	,	,	O	1	O
+24	and	and	C	1	O
+25	it	it	Q	1	O
+26	was	be	V	1	O
+27	surprisingly	surprisingly	A	1	O
+28	quite	quite	A	1	O
+29	at	at	P	1	O
+30	night	night	N	1	O
+31	.	.	O	1	O
 

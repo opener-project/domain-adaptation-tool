@@ -1,70 +1,70 @@
-1	Semana	Semana	R	1	
-2	cultural	cultural	G	1	
-3	y	y	G	1	
-4	de	de	O	1	
-5	ocio	ocio	O	1	
+1	Semana	Semana	R	1	O
+2	cultural	cultural	G	1	O
+3	y	y	G	1	O
+4	de	de	O	1	O
+5	ocio	ocio	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	perfectamente	perfectamente	A	1	
-4	ubicado	ubicado	N	1	
-5	,	,	O	1	
-6	cercano	cercano	N	1	
-7	al	al	G	1	
-8	metro	metro	N	1	
-9	de	de	P	1	
-10	plaza	plaza	N	1	
-11	España	España	R	1	
-12	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	perfectamente	perfectamente	A	1	O
+4	ubicado	ubicado	N	1	O
+5	,	,	O	1	O
+6	cercano	cercano	N	1	O
+7	al	al	G	1	O
+8	metro	metro	N	1	O
+9	de	de	P	1	O
+10	plaza	plaza	N	1	O
+11	España	España	R	1	O
+12	.	.	O	1	O
 
-1	Muy	muy	G	1	
-2	bien	bien	G	1	
-3	ubicado	ubicado	G	1	
-4	para	para	N	1	
-5	ver	ver	A	1	
-6	el	el	G	1	
-7	musical	musical	G	1	
-8	"	"	N	1	
-9	El	El	R	1	
-10	Rey	Rey	R	1	
-11	León	León	R	1	
-12	"	"	N	1	
-13	.	.	O	1	
+1	Muy	muy	G	1	O
+2	bien	bien	G	1	O
+3	ubicado	ubicado	G	1	O
+4	para	para	N	1	O
+5	ver	ver	A	1	O
+6	el	el	G	1	O
+7	musical	musical	G	1	O
+8	"	"	N	1	O
+9	El	El	R	1	O
+10	Rey	Rey	R	1	O
+11	León	León	R	1	O
+12	"	"	N	1	O
+13	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	N	1	
-3	geniales	geniales	V	1	
-4	con	con	G	1	
-5	dos	dos	N	1	
-6	camas	camas	N	1	
-7	grandes	grandes	N	1	
-8	,	,	O	1	
-9	nuevas	nuevas	N	1	
-10	y	y	G	1	
-11	con	con	A	1	
-12	minibar	minibar	N	1	
-13	gratuito	gratuito	N	1	
-14	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	N	1	O
+3	geniales	geniales	V	1	O
+4	con	con	G	1	O
+5	dos	dos	N	1	O
+6	camas	camas	N	1	O
+7	grandes	grandes	N	1	O
+8	,	,	O	1	O
+9	nuevas	nuevas	N	1	O
+10	y	y	G	1	O
+11	con	con	A	1	O
+12	minibar	minibar	N	1	O
+13	gratuito	gratuito	N	1	O
+14	.	.	O	1	O
 
-1	Muy	Muy	R	1	
-2	amable	amable	G	1	
-3	el	el	N	1	
-4	personal	personal	G	1	
-5	y	y	G	1	
-6	perfecto	perfecto	G	1	
-7	el	el	N	1	
-8	desayuno	desayuno	O	1	
-9	buffet	buffet	O	1	
-10	con	con	O	1	
-11	mucha	mucha	O	1	
-12	variedad	variedad	N	1	
-13	.	.	O	1	
+1	Muy	Muy	R	1	O
+2	amable	amable	G	1	O
+3	el	el	N	1	O
+4	personal	personal	G	1	O
+5	y	y	G	1	O
+6	perfecto	perfecto	G	1	O
+7	el	el	N	1	O
+8	desayuno	desayuno	O	1	O
+9	buffet	buffet	O	1	O
+10	con	con	O	1	O
+11	mucha	mucha	O	1	O
+12	variedad	variedad	N	1	O
+13	.	.	O	1	O
 
-1	Nos	Nos	R	1	
-2	ha	ha	N	1	
-3	encantado	encantado	V	1	
-4	y	y	A	1	
-5	volveremos	volveremos	N	1	
+1	Nos	Nos	R	1	O
+2	ha	ha	N	1	O
+3	encantado	encantado	V	1	O
+4	y	y	A	1	O
+5	volveremos	volveremos	N	1	O
 
-1	EVA	EVA	R	1	
+1	EVA	EVA	R	1	O
 

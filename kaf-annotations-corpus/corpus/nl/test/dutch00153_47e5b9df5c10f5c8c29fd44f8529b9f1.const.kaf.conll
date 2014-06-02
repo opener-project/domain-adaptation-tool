@@ -1,123 +1,126 @@
-1	Zeer	zeer	G	1	
-2	centraal	centraal	G	1	
-3	gelegen	gelegen	G	1	
-4	hotel	hotel	N	1	
-5	in	in	P	1	
-6	Utrecht	Utrecht	R	1	
-7	.	.	O	1	
+1	Zeer	zeer	G	1	O
+2	centraal	centraal	G	1	O
+3	gelegen	gelegen	G	1	O
+4	hotel	hotel	N	1	O
+5	in	in	P	1	O
+6	Utrecht	Utrecht	R	1	O
+7	.	.	O	1	O
 
-1	Het_NH_Utrecht_hotel	het_NH_Utrecht_hotel	R	1	ne=Hotel
-2	heb	hebben	V	1	
-3	ik	ik	Q	1	
-4	gekozen	kiezen	V	1	
-5	omdat	omdat	C	1	
-6	het	het	D	1	
-7	zeer	zeer	G	1	
-8	centraal	centraal	G	1	
-9	ligt	liggen	V	1	
-10	,	,	O	1	
-11	tov	tov	O	1	
-12	de	de	D	1	
-13	openbaar	openbaar	G	1	
-14	vervoer	vervoer	N	1	
-15	mogelijkheden	mogelijkheid	N	1	
-16	,	,	O	1	
-17	het	het	D	1	
-18	congress	congress	O	1	
-19	centrum	centrum	N	1	
-20	"	"	O	1	
-21	de	de	D	1	
-22	Jaarbeurs	jaarbeurs	N	1	
-23	"	"	O	1	
-24	,	,	O	1	
-25	en	en	C	1	
-26	de	de	D	1	
-27	binnenstad	binnenstad	N	1	
-28	van	van	P	1	
-29	Utrecht	Utrecht	R	1	
-30	.	.	O	1	
+1	Het	het	D	1	I-Hotel
+2	NH	NH	O	1	I-Hotel
+3	Utrecht	Utrecht	R	1	I-Hotel
+4	hotel	hotel	N	1	I-Hotel
+5	heb	hebben	V	1	O
+6	ik	ik	Q	1	O
+7	gekozen	kiezen	V	1	O
+8	omdat	omdat	C	1	O
+9	het	het	D	1	O
+10	zeer	zeer	G	1	O
+11	centraal	centraal	G	1	O
+12	ligt	liggen	V	1	O
+13	,	,	O	1	O
+14	tov	tov	O	1	O
+15	de	de	D	1	O
+16	openbaar	openbaar	G	1	O
+17	vervoer	vervoer	N	1	O
+18	mogelijkheden	mogelijkheid	N	1	O
+19	,	,	O	1	O
+20	het	het	D	1	O
+21	congress	congress	O	1	O
+22	centrum	centrum	N	1	O
+23	"	"	O	1	O
+24	de	de	D	1	O
+25	Jaarbeurs	jaarbeurs	N	1	O
+26	"	"	O	1	O
+27	,	,	O	1	O
+28	en	en	C	1	O
+29	de	de	D	1	O
+30	binnenstad	binnenstad	N	1	O
+31	van	van	P	1	O
+32	Utrecht	Utrecht	R	1	O
+33	.	.	O	1	O
 
-1	Dat	dat	Q	1	
-2	waren	wezen|zijn	V	1	
-3	dan	dan	A	1	
-4	ook	ook	A	1	
-5	eigenlijk	eigenlijk	G	1	
-6	de	de	D	1	
-7	meeste	meest	G	1	
-8	plus	plus	P	1	
-9	punten	punt	N	1	
-10	.	.	O	1	
+1	Dat	dat	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	dan	dan	A	1	O
+4	ook	ook	A	1	O
+5	eigenlijk	eigenlijk	G	1	O
+6	de	de	D	1	O
+7	meeste	meest	G	1	O
+8	plus	plus	P	1	O
+9	punten	punt	N	1	O
+10	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	is	zijn	V	1	
-4	oud	oud	G	1	
-5	qua	qua	P	1	
-6	inrichting	inrichting	N	1	
-7	,	,	O	1	
-8	en	en	C	1	
-9	is	zijn	V	1	
-10	geen	geen	D	1	
-11	4	@card@	O	1	
-12	sterren	ster	N	1	
-13	waard	waard	G	1	
-14	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	is	zijn	V	1	O
+4	oud	oud	G	1	O
+5	qua	qua	P	1	O
+6	inrichting	inrichting	N	1	O
+7	,	,	O	1	O
+8	en	en	C	1	O
+9	is	zijn	V	1	O
+10	geen	geen	D	1	O
+11	4	@card@	O	1	O
+12	sterren	ster	N	1	O
+13	waard	waard	G	1	O
+14	.	.	O	1	O
 
-1	De	de	D	1	
-2	hotelkamer	hotelkamer	N	1	
-3	is	zijn	V	1	
-4	verouderd	verouderen	V	1	
-5	,	,	O	1	
-6	met	met	P	1	
-7	oude	oud	G	1	
-8	meubels	meubel	N	1	
-9	,	,	O	1	
-10	los	los	G	1	
-11	zittend	zittend	G	1	
-12	behang	behang	N	1	
-13	,	,	O	1	
-14	en	en	C	1	
-15	een	een	D	1	
-16	oude	oud	G	1	
-17	smaakloze	smaakloos	G	1	
-18	badkamer	badkamer	N	1	
-19	.	.	O	1	
+1	De	de	D	1	O
+2	hotelkamer	hotelkamer	N	1	O
+3	is	zijn	V	1	O
+4	verouderd	verouderen	V	1	O
+5	,	,	O	1	O
+6	met	met	P	1	O
+7	oude	oud	G	1	O
+8	meubels	meubel	N	1	O
+9	,	,	O	1	O
+10	los	los	G	1	O
+11	zittend	zittend	G	1	O
+12	behang	behang	N	1	O
+13	,	,	O	1	O
+14	en	en	C	1	O
+15	een	een	D	1	O
+16	oude	oud	G	1	O
+17	smaakloze	smaakloos	G	1	O
+18	badkamer	badkamer	N	1	O
+19	.	.	O	1	O
 
-1	De	de	D	1	
-2	minibar	minibar	O	1	
-3	was	wezen|zijn	V	1	
-4	leeg	legen	V	1	
-5	!	!	O	1	
+1	De	de	D	1	O
+2	minibar	minibar	O	1	O
+3	was	wezen|zijn	V	1	O
+4	leeg	legen	V	1	O
+5	!	!	O	1	O
 
-1	heb	hebben	V	1	
-2	ik	ik	Q	1	
-3	nog	nog	A	1	
-4	nooit	nooit	A	1	
-5	meegemaakt	meemaken	V	1	
-6	in	in	P	1	
-7	een	een	D	1	
-8	4	@card@	O	1	
-9	sterren	ster	N	1	
-10	hotel	hotel	N	1	
-11	.	.	O	1	
+1	heb	hebben	V	1	O
+2	ik	ik	Q	1	O
+3	nog	nog	A	1	O
+4	nooit	nooit	A	1	O
+5	meegemaakt	meemaken	V	1	O
+6	in	in	P	1	O
+7	een	een	D	1	O
+8	4	@card@	O	1	O
+9	sterren	ster	N	1	O
+10	hotel	hotel	N	1	O
+11	.	.	O	1	O
 
-1	Al	al	A	1	
-2	met	met	P	1	
-3	al	al	C	1	
-4	een	een	D	1	
-5	hotel	hotel	N	1	
-6	wat	wat	Q	1	
-7	verouderd	verouderen	V	1	
-8	is	zijn	V	1	
-9	qua	qua	P	1	
-10	interieur	interieur	N	1	
-11	,	,	O	1	
-12	maar	maar	C	1	
-13	wel	wel	A	1	
-14	zeer	zeer	G	1	
-15	centraal	centraal	G	1	
-16	ligt	liggen	V	1	
-17	tov	tov	O	1	
-18	alles	alles	Q	1	
-19	.	.	O	1	
+1	Al	al	A	1	O
+2	met	met	P	1	O
+3	al	al	C	1	O
+4	een	een	D	1	O
+5	hotel	hotel	N	1	O
+6	wat	wat	Q	1	O
+7	verouderd	verouderen	V	1	O
+8	is	zijn	V	1	O
+9	qua	qua	P	1	O
+10	interieur	interieur	N	1	O
+11	,	,	O	1	O
+12	maar	maar	C	1	O
+13	wel	wel	A	1	O
+14	zeer	zeer	G	1	O
+15	centraal	centraal	G	1	O
+16	ligt	liggen	V	1	O
+17	tov	tov	O	1	O
+18	alles	alles	Q	1	O
+19	.	.	O	1	O
 

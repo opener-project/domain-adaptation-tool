@@ -1,125 +1,125 @@
-1	Sorpresa	Sorpresa	R	1	
-2	enorme	enorme	N	1	
+1	Sorpresa	Sorpresa	R	1	O
+2	enorme	enorme	N	1	O
 
-1	El	El	R	1	
-2	sitio	sitio	N	1	
-3	nos	nos	N	1	
-4	impresionó	impresionó	V	1	
-5	,	,	O	1	
-6	puesto	puesto	P	1	
-7	que	que	V	1	
-8	los	los	N	1	
-9	apartamentos	apartamentos	N	1	
-10	son	son	N	1	
-11	muy	muy	G	1	
-12	espaciosos	espaciosos	N	1	
-13	.	.	O	1	
+1	El	El	R	1	O
+2	sitio	sitio	N	1	O
+3	nos	nos	N	1	O
+4	impresionó	impresionó	V	1	O
+5	,	,	O	1	O
+6	puesto	puesto	P	1	O
+7	que	que	V	1	O
+8	los	los	N	1	O
+9	apartamentos	apartamentos	N	1	O
+10	son	son	N	1	O
+11	muy	muy	G	1	O
+12	espaciosos	espaciosos	N	1	O
+13	.	.	O	1	O
 
-1	La	La	R	1	
-2	decoración	decoración	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	acogedora	acogedora	N	1	
-6	creando	creando	V	1	
-7	un	un	G	1	
-8	contraste	contraste	N	1	
-9	de	de	P	1	
-10	decoración	decoración	G	1	
-11	moderna	moderna	N	1	
-12	y	y	G	1	
-13	funcional	funcional	G	1	
-14	con	con	N	1	
-15	la	la	N	1	
-16	casa	casa	N	1	
-17	,	,	O	1	
-18	que	que	V	1	
-19	es	es	N	1	
-20	antigua	antigua	G	1	
-21	de	de	P	1	
-22	y	y	G	1	
-23	techos	techos	N	1	
-24	muy	muy	G	1	
-25	altos	alto	N	1	
-26	.	.	O	1	
+1	La	La	R	1	O
+2	decoración	decoración	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	acogedora	acogedora	N	1	O
+6	creando	creando	V	1	O
+7	un	un	G	1	O
+8	contraste	contraste	N	1	O
+9	de	de	P	1	O
+10	decoración	decoración	G	1	O
+11	moderna	moderna	N	1	O
+12	y	y	G	1	O
+13	funcional	funcional	G	1	O
+14	con	con	N	1	O
+15	la	la	N	1	O
+16	casa	casa	N	1	O
+17	,	,	O	1	O
+18	que	que	V	1	O
+19	es	es	N	1	O
+20	antigua	antigua	G	1	O
+21	de	de	P	1	O
+22	y	y	G	1	O
+23	techos	techos	N	1	O
+24	muy	muy	G	1	O
+25	altos	alto	N	1	O
+26	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	V	1	
-3	tienen	tienen	G	1	
-4	camas	camas	N	1	
-5	muy	muy	G	1	
-6	cómodas	cómodas	N	1	
-7	y	y	G	1	
-8	el	el	N	1	
-9	baño	baño	N	1	
-10	es	es	V	1	
-11	muy	muy	G	1	
-12	espacioso	espacioso	N	1	
-13	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	V	1	O
+3	tienen	tienen	G	1	O
+4	camas	camas	N	1	O
+5	muy	muy	G	1	O
+6	cómodas	cómodas	N	1	O
+7	y	y	G	1	O
+8	el	el	N	1	O
+9	baño	baño	N	1	O
+10	es	es	V	1	O
+11	muy	muy	G	1	O
+12	espacioso	espacioso	N	1	O
+13	.	.	O	1	O
 
-1	Todas	Todas	R	1	
-2	las	las	V	1	
-3	habitaciones	habitaciones	N	1	
-4	que	que	V	1	
-5	tuvimos	tuvimos	N	1	
-6	tenían	tenían	G	1	
-7	luz	luz	N	1	
-8	natural	natural	N	1	
-9	.	.	O	1	
+1	Todas	Todas	R	1	O
+2	las	las	V	1	O
+3	habitaciones	habitaciones	N	1	O
+4	que	que	V	1	O
+5	tuvimos	tuvimos	N	1	O
+6	tenían	tenían	G	1	O
+7	luz	luz	N	1	O
+8	natural	natural	N	1	O
+9	.	.	O	1	O
 
-1	No	no	D	1	
-2	nos	nos	O	1	
-3	dio	dio	O	1	
-4	tiempo	tiempo	O	1	
-5	a	a	O	1	
-6	recorrer	recorrer	N	1	
-7	todos	todos	N	1	
-8	los	los	V	1	
-9	alrededores	alrededores	A	1	
-10	de	de	O	1	
-11	la	la	O	1	
-12	finca	finca	O	1	
-13	,	,	O	1	
-14	pero	pero	O	1	
-15	la	la	O	1	
-16	piscina	piscina	O	1	
-17	y	y	G	1	
-18	los	los	N	1	
-19	jardines	jardines	N	1	
-20	invitan	invitan	V	1	
-21	a	a	D	1	
-22	pasar	pasar	N	1	
-23	largas	largas	V	1	
-24	temporadas	temporadas	N	1	
-25	en	en	P	1	
-26	verano	verano	N	1	
-27	.	.	O	1	
+1	No	no	D	1	O
+2	nos	nos	O	1	O
+3	dio	dio	O	1	O
+4	tiempo	tiempo	O	1	O
+5	a	a	O	1	O
+6	recorrer	recorrer	N	1	O
+7	todos	todos	N	1	O
+8	los	los	V	1	O
+9	alrededores	alrededores	A	1	O
+10	de	de	O	1	O
+11	la	la	O	1	O
+12	finca	finca	O	1	O
+13	,	,	O	1	O
+14	pero	pero	O	1	O
+15	la	la	O	1	O
+16	piscina	piscina	O	1	O
+17	y	y	G	1	O
+18	los	los	N	1	O
+19	jardines	jardines	N	1	O
+20	invitan	invitan	V	1	O
+21	a	a	D	1	O
+22	pasar	pasar	N	1	O
+23	largas	largas	V	1	O
+24	temporadas	temporadas	N	1	O
+25	en	en	P	1	O
+26	verano	verano	N	1	O
+27	.	.	O	1	O
 
-1	La	La	R	1	
-2	experiencia	experiencia	N	1	
-3	ha	ha	N	1	
-4	sido	sido	N	1	
-5	muy	muy	G	1	
-6	buena	buena	N	1	
-7	,	,	O	1	
-8	nos	nos	N	1	
-9	permitió	permitió	V	1	
-10	relajarnos	relajarnos	N	1	
-11	,	,	O	1	
-12	divertirnos	divertirnos	N	1	
-13	e	e	V	1	
-14	incluso	incluso	A	1	
-15	trabajar	trabajar	G	1	
-16	durante	durante	P	1	
-17	los	los	N	1	
-18	tres	tres	N	1	
-19	días	días	N	1	
-20	que	que	V	1	
-21	hemos	hemos	N	1	
-22	estado	estado	N	1	
-23	.	.	O	1	
+1	La	La	R	1	O
+2	experiencia	experiencia	N	1	O
+3	ha	ha	N	1	O
+4	sido	sido	N	1	O
+5	muy	muy	G	1	O
+6	buena	buena	N	1	O
+7	,	,	O	1	O
+8	nos	nos	N	1	O
+9	permitió	permitió	V	1	O
+10	relajarnos	relajarnos	N	1	O
+11	,	,	O	1	O
+12	divertirnos	divertirnos	N	1	O
+13	e	e	V	1	O
+14	incluso	incluso	A	1	O
+15	trabajar	trabajar	G	1	O
+16	durante	durante	P	1	O
+17	los	los	N	1	O
+18	tres	tres	N	1	O
+19	días	días	N	1	O
+20	que	que	V	1	O
+21	hemos	hemos	N	1	O
+22	estado	estado	N	1	O
+23	.	.	O	1	O
 
-1	¡	¡	O	1	
-2	Volveremos	Volveremos	R	1	
-3	seguro	seguro	N	1	
-4	!	!	O	1	
+1	¡	¡	O	1	O
+2	Volveremos	Volveremos	R	1	O
+3	seguro	seguro	N	1	O
+4	!	!	O	1	O
 

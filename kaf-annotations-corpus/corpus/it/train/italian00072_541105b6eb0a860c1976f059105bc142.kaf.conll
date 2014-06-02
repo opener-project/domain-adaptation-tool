@@ -1,182 +1,184 @@
-1	Tanto	tanto	A	1	
-2	economico	economico	G	1	
-3	quanto	quanto	N	1	
-4	sporco	sporco	G	1	
+1	Tanto	tanto	A	1	O
+2	economico	economico	G	1	O
+3	quanto	quanto	N	1	O
+4	sporco	sporco	G	1	O
 
-1	Questo	questo	G	1	
-2	hotel	hotel	N	1	
-3	si	si	Q	1	
-4	trova	trovare	V	1	
-5	su	su	A	1	
-6	Collins_Avenue	collins_avenue	R	1	ne=Location
-7	,	,	O	1	
-8	nel	nel	P	1	
-9	pieno	pieno	N	1	
-10	centro	centro	N	1	
-11	della	della	P	1	
-12	vita	vita	N	1	
-13	mondana	mondano	G	1	
-14	di	di	P	1	
-15	Miami_Beach	miami_beach	R	1	ne=Location
-16	.	.	O	1	
+1	Questo	questo	G	1	O
+2	hotel	hotel	N	1	O
+3	si	si	Q	1	O
+4	trova	trovare	V	1	O
+5	su	su	A	1	O
+6	Collins	collins	R	1	I-Location
+7	Avenue	avenue	R	1	I-Location
+8	,	,	O	1	O
+9	nel	nel	P	1	O
+10	pieno	pieno	N	1	O
+11	centro	centro	N	1	O
+12	della	della	P	1	O
+13	vita	vita	N	1	O
+14	mondana	mondano	G	1	O
+15	di	di	P	1	O
+16	Miami	miami	R	1	I-Location
+17	Beach	beach	N	1	I-Location
+18	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	stanze	stanza	N	1	
-3	sono	essere	V	1	
-4	molto	molto	A	1	
-5	grandi	grande	G	1	
-6	,	,	O	1	
-7	all'	all'	P	1	
-8	apparenza	apparenza	N	1	
-9	potrebbe	potere	V	1	
-10	sembrare	sembrare	V	1	
-11	un	uno	D	1	
-12	mini	minare	V	1	
-13	loft	loft	N	1	
-14	accogliente	accogliere	V	1	
-15	:	:	O	1	
-16	pavimento	pavimento	N	1	
-17	con	con	P	1	
-18	parquet	parquet	N	1	
-19	,	,	O	1	
-20	cucina	cucina	N	1	
-21	completa	completo	G	1	
-22	di	di	P	1	
-23	frigorifero	frigorifero	N	1	
-24	,	,	O	1	
-25	doppio	doppio	G	1	
-26	ventilatore	ventilatore	N	1	
-27	sul	sul	P	1	
-28	soffitto	soffitto	N	1	
-29	.	.	O	1	
+1	Le	lo	D	1	O
+2	stanze	stanza	N	1	O
+3	sono	essere	V	1	O
+4	molto	molto	A	1	O
+5	grandi	grande	G	1	O
+6	,	,	O	1	O
+7	all'	all'	P	1	O
+8	apparenza	apparenza	N	1	O
+9	potrebbe	potere	V	1	O
+10	sembrare	sembrare	V	1	O
+11	un	uno	D	1	O
+12	mini	minare	V	1	O
+13	loft	loft	N	1	O
+14	accogliente	accogliere	V	1	O
+15	:	:	O	1	O
+16	pavimento	pavimento	N	1	O
+17	con	con	P	1	O
+18	parquet	parquet	N	1	O
+19	,	,	O	1	O
+20	cucina	cucina	N	1	O
+21	completa	completo	G	1	O
+22	di	di	P	1	O
+23	frigorifero	frigorifero	N	1	O
+24	,	,	O	1	O
+25	doppio	doppio	G	1	O
+26	ventilatore	ventilatore	N	1	O
+27	sul	sul	P	1	O
+28	soffitto	soffitto	N	1	O
+29	.	.	O	1	O
 
-1	Ma	ma	Q	1	
-2	le	lo	D	1	
-3	apparenze	apparenza	N	1	
-4	ingannano	ingannare	V	1	
-5	:	:	O	1	
-6	le	lo	D	1	
-7	stanze	stanza	N	1	
-8	sono	essere	V	1	
-9	sporche	sporche	N	1	
-10	e	e	Q	1	
-11	polverose	polverose	N	1	
-12	(	(	O	1	
-13	la	lo	D	1	
-14	polvere	polvere	N	1	
-15	era	era	N	1	
-16	addirittura	addirittura	A	1	
-17	sulla	sulla	P	1	
-18	pale	pala	N	1	
-19	dei	dei	P	1	
-20	ventilatori	ventilatore	N	1	
-21	)	)	O	1	
-22	,	,	O	1	
-23	le	lo	D	1	
-24	lenzuola	lenzuolo	N	1	
-25	stropicciate	stropicciare	V	1	
-26	(	(	O	1	
-27	può	può	R	1	
-28	sorgere	sorgere	V	1	
-29	il	lo	D	1	
-30	dubbio	dubbio	N	1	
-31	che	che	Q	1	
-32	vengano	venire	V	1	
-33	cambiate	cambiare	V	1	
-34	nel	nel	P	1	
-35	passaggio	passaggio	N	1	
-36	tra	tra	P	1	
-37	un	uno	D	1	
-38	cliente	cliente	N	1	
-39	e	e	Q	1	
-40	l'	lo	D	1	
-41	altro	altro	Q	1	
-42	)	)	O	1	
-43	,	,	O	1	
-44	le	lo	D	1	
-45	uniche	unico	G	1	
-46	pulizie	pulizia	N	1	
-47	effettuate	effettuare	V	1	
-48	durante	durante	P	1	
-49	il	lo	D	1	
-50	nostro	nostro	G	1	
-51	soggiorno	soggiorno	N	1	
-52	(	(	O	1	
-53	quattro	quattro	G	1	
-54	giorni	giorno	N	1	
-55	)	)	O	1	
-56	si	si	Q	1	
-57	sono	essere	V	1	
-58	limitate	limitare	V	1	
-59	nello	nello	P	1	
-60	svuotare	svuotare	V	1	
-61	i	lo	D	1	
-62	cestini	cestino	N	1	
-63	dell'	dell'	P	1	
-64	immondizia	immondizia	N	1	
-65	.	.	O	1	
+1	Ma	ma	Q	1	O
+2	le	lo	D	1	O
+3	apparenze	apparenza	N	1	O
+4	ingannano	ingannare	V	1	O
+5	:	:	O	1	O
+6	le	lo	D	1	O
+7	stanze	stanza	N	1	O
+8	sono	essere	V	1	O
+9	sporche	sporche	N	1	O
+10	e	e	Q	1	O
+11	polverose	polverose	N	1	O
+12	(	(	O	1	O
+13	la	lo	D	1	O
+14	polvere	polvere	N	1	O
+15	era	era	N	1	O
+16	addirittura	addirittura	A	1	O
+17	sulla	sulla	P	1	O
+18	pale	pala	N	1	O
+19	dei	dei	P	1	O
+20	ventilatori	ventilatore	N	1	O
+21	)	)	O	1	O
+22	,	,	O	1	O
+23	le	lo	D	1	O
+24	lenzuola	lenzuolo	N	1	O
+25	stropicciate	stropicciare	V	1	O
+26	(	(	O	1	O
+27	può	può	R	1	O
+28	sorgere	sorgere	V	1	O
+29	il	lo	D	1	O
+30	dubbio	dubbio	N	1	O
+31	che	che	Q	1	O
+32	vengano	venire	V	1	O
+33	cambiate	cambiare	V	1	O
+34	nel	nel	P	1	O
+35	passaggio	passaggio	N	1	O
+36	tra	tra	P	1	O
+37	un	uno	D	1	O
+38	cliente	cliente	N	1	O
+39	e	e	Q	1	O
+40	l'	lo	D	1	O
+41	altro	altro	Q	1	O
+42	)	)	O	1	O
+43	,	,	O	1	O
+44	le	lo	D	1	O
+45	uniche	unico	G	1	O
+46	pulizie	pulizia	N	1	O
+47	effettuate	effettuare	V	1	O
+48	durante	durante	P	1	O
+49	il	lo	D	1	O
+50	nostro	nostro	G	1	O
+51	soggiorno	soggiorno	N	1	O
+52	(	(	O	1	O
+53	quattro	quattro	G	1	O
+54	giorni	giorno	N	1	O
+55	)	)	O	1	O
+56	si	si	Q	1	O
+57	sono	essere	V	1	O
+58	limitate	limitare	V	1	O
+59	nello	nello	P	1	O
+60	svuotare	svuotare	V	1	O
+61	i	lo	D	1	O
+62	cestini	cestino	N	1	O
+63	dell'	dell'	P	1	O
+64	immondizia	immondizia	N	1	O
+65	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	stanze	stanza	N	1	
-3	sono	essere	V	1	
-4	molto	molto	A	1	
-5	rumorose	rumoroso	G	1	
-6	.	.	O	1	
+1	Le	lo	D	1	O
+2	stanze	stanza	N	1	O
+3	sono	essere	V	1	O
+4	molto	molto	A	1	O
+5	rumorose	rumoroso	G	1	O
+6	.	.	O	1	O
 
-1	I	lo	D	1	
-2	prezzi	prezzo	N	1	
-3	,	,	O	1	
-4	per	per	P	1	
-5	fortuna	fortuna	N	1	
-6	,	,	O	1	
-7	sono	essere	V	1	
-8	tra	tra	P	1	
-9	i	lo	D	1	
-10	più	piu'	R	1	
-11	bassi	basso	G	1	
-12	della	della	P	1	
-13	città	citta'	N	1	
-14	,	,	O	1	
-15	ed	ed	Q	1	
-16	il	lo	D	1	
-17	motivo	motivo	N	1	
-18	sembra	sembrare	V	1	
-19	piuttosto	piuttosto	A	1	
-20	chiaro	chiaro	G	1	
-21	.	.	O	1	
+1	I	lo	D	1	O
+2	prezzi	prezzo	N	1	O
+3	,	,	O	1	O
+4	per	per	P	1	O
+5	fortuna	fortuna	N	1	O
+6	,	,	O	1	O
+7	sono	essere	V	1	O
+8	tra	tra	P	1	O
+9	i	lo	D	1	O
+10	più	piu'	R	1	O
+11	bassi	basso	G	1	O
+12	della	della	P	1	O
+13	città	citta'	N	1	O
+14	,	,	O	1	O
+15	ed	ed	Q	1	O
+16	il	lo	D	1	O
+17	motivo	motivo	N	1	O
+18	sembra	sembrare	V	1	O
+19	piuttosto	piuttosto	A	1	O
+20	chiaro	chiaro	G	1	O
+21	.	.	O	1	O
 
-1	Non	non	A	1	
-2	esiste	esistere	V	1	
-3	reception	reception	R	1	
-4	:	:	O	1	
-5	all'	all'	P	1	
-6	ingresso	ingresso	N	1	
-7	ci	ci	A	1	
-8	sono	essere	V	1	
-9	dei	dei	P	1	
-10	ragazzi	ragazzo	N	1	
-11	di	di	P	1	
-12	un'	uno	D	1	
-13	agenzia	agenzia	N	1	
-14	turistica	turistico	G	1	
-15	che	che	Q	1	
-16	chiama	chiamare	V	1	
-17	il	lo	D	1	
-18	proprietario	proprietario	N	1	
-19	all'	all'	P	1	
-20	arrivo	arrivo	N	1	
-21	dei	dei	P	1	
-22	clienti	cliente	N	1	
-23	.	.	O	1	
+1	Non	non	A	1	O
+2	esiste	esistere	V	1	O
+3	reception	reception	R	1	O
+4	:	:	O	1	O
+5	all'	all'	P	1	O
+6	ingresso	ingresso	N	1	O
+7	ci	ci	A	1	O
+8	sono	essere	V	1	O
+9	dei	dei	P	1	O
+10	ragazzi	ragazzo	N	1	O
+11	di	di	P	1	O
+12	un'	uno	D	1	O
+13	agenzia	agenzia	N	1	O
+14	turistica	turistico	G	1	O
+15	che	che	Q	1	O
+16	chiama	chiamare	V	1	O
+17	il	lo	D	1	O
+18	proprietario	proprietario	N	1	O
+19	all'	all'	P	1	O
+20	arrivo	arrivo	N	1	O
+21	dei	dei	P	1	O
+22	clienti	cliente	N	1	O
+23	.	.	O	1	O
 
-1	Peccato	peccato	N	1	
-2	,	,	O	1	
-3	con	con	P	1	
-4	maggiore	maggiore	G	1	
-5	attenzione	attenzione	N	1	
-6	potrebbe	potere	V	1	
-7	essere	essere	V	1	
-8	un	uno	D	1	
-9	buonissimo	buonissimo	G	1	
-10	hotel	hotel	N	1	
+1	Peccato	peccato	N	1	O
+2	,	,	O	1	O
+3	con	con	P	1	O
+4	maggiore	maggiore	G	1	O
+5	attenzione	attenzione	N	1	O
+6	potrebbe	potere	V	1	O
+7	essere	essere	V	1	O
+8	un	uno	D	1	O
+9	buonissimo	buonissimo	G	1	O
+10	hotel	hotel	N	1	O
 

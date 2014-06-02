@@ -1,141 +1,146 @@
-1	Zeer	zeer	G	1	
-2	teleurstellend	teleurstellend	G	1	
-3	!	!	O	1	
+1	Zeer	zeer	G	1	O
+2	teleurstellend	teleurstellend	G	1	O
+3	!	!	O	1	O
 
-1	Ze	ze	Q	1	
-2	schijnen	schijnen	V	1	
-3	5	@card@	O	1	
-4	sterren	ster	N	1	
-5	te	te	O	1	
-6	hebben	hebben	V	1	
-7	,	,	O	1	
-8	maar	maar	C	1	
-9	vraag	vragen	V	1	
-10	me	me	Q	1	
-11	af	af	A	1	
-12	hoe	hoe	Q	1	
-13	ze	ze	Q	1	
-14	daar	daar	A	1	
-15	aan	aan	A	1	
-16	komen	komen	V	1	
-17	?	?	O	1	
-18	!	!	O	1	
+1	Ze	ze	Q	1	O
+2	schijnen	schijnen	V	1	O
+3	5	@card@	O	1	O
+4	sterren	ster	N	1	O
+5	te	te	O	1	O
+6	hebben	hebben	V	1	O
+7	,	,	O	1	O
+8	maar	maar	C	1	O
+9	vraag	vragen	V	1	O
+10	me	me	Q	1	O
+11	af	af	A	1	O
+12	hoe	hoe	Q	1	O
+13	ze	ze	Q	1	O
+14	daar	daar	A	1	O
+15	aan	aan	A	1	O
+16	komen	komen	V	1	O
+17	?	?	O	1	O
+18	!	!	O	1	O
 
-1	Wat	wat	Q	1	
-2	een	een	D	1	
-3	verschrikkelijk	verschrikkelijk	G	1	
-4	hotel	hotel	N	1	
-5	,	,	O	1	
-6	we	we	Q	1	
-7	zijn	zijn	V	1	
-8	een	een	D	1	
-9	dag	dag	N	1	
-10	eerder	eerder	G	1	
-11	weg	weg	N	1	
-12	gegaan	gaan	V	1	
-13	vanwege	vanwege	P	1	
-14	de	de	D	1	
-15	slechte	slecht	G	1	
-16	bedden	bed	N	1	
-17	,	,	O	1	
-18	daarnaast	daarnaast	Q	1	
-19	had	hebben	V	1	
-20	ik	ik	Q	1	
-21	mijn	mijn	D	1	
-22	beautycase	beautycase	N	1	
-23	op	op	P	1	
-24	de	de	D	1	
-25	hotelkamer	hotelkamer	N	1	
-26	laten	laten	V	1	
-27	staan	staan	V	1	
-28	,	,	O	1	
-29	die	die	Q	1	
-30	heb	hebben	V	1	
-31	ik	ik	Q	1	
-32	ook	ook	A	1	
-33	nooit	nooit	A	1	
-34	meer	meer	A	1	
-35	terug	terug	A	1	
-36	gekregen	krijgen	V	1	
-37	.	.	O	1	
+1	Wat	wat	Q	1	O
+2	een	een	D	1	O
+3	verschrikkelijk	verschrikkelijk	G	1	O
+4	hotel	hotel	N	1	O
+5	,	,	O	1	O
+6	we	we	Q	1	O
+7	zijn	zijn	V	1	O
+8	een	een	D	1	O
+9	dag	dag	N	1	O
+10	eerder	eerder	G	1	O
+11	weg	weg	N	1	O
+12	gegaan	gaan	V	1	O
+13	vanwege	vanwege	P	1	O
+14	de	de	D	1	O
+15	slechte	slecht	G	1	O
+16	bedden	bed	N	1	O
+17	,	,	O	1	O
+18	daarnaast	daarnaast	Q	1	O
+19	had	hebben	V	1	O
+20	ik	ik	Q	1	O
+21	mijn	mijn	D	1	O
+22	beautycase	beautycase	N	1	O
+23	op	op	P	1	O
+24	de	de	D	1	O
+25	hotelkamer	hotelkamer	N	1	O
+26	laten	laten	V	1	O
+27	staan	staan	V	1	O
+28	,	,	O	1	O
+29	die	die	Q	1	O
+30	heb	hebben	V	1	O
+31	ik	ik	Q	1	O
+32	ook	ook	A	1	O
+33	nooit	nooit	A	1	O
+34	meer	meer	A	1	O
+35	terug	terug	A	1	O
+36	gekregen	krijgen	V	1	O
+37	.	.	O	1	O
 
-1	Verder	ver|verder	G	1	
-2	zag	zien	V	1	
-3	het	het	D	1	
-4	hotel	hotel	N	1	
-5	er	er	Q	1	
-6	goedkoop	goedkoop	G	1	
-7	uit	uit	A	1	
-8	van	van	P	1	
-9	binnen	binnen	P	1	
-10	,	,	O	1	
-11	kamers	kamer	N	1	
-12	straalde	stralen	V	1	
-13	geen	geen	D	1	
-14	sfeer	sfeer	N	1	
-15	uit	uit	A	1	
-16	,	,	O	1	
-17	TV	TV	O	1	
-18	was	wezen|zijn	V	1	
-19	stuk	stuk	N	1	
-20	,	,	O	1	
-21	er	er	Q	1	
-22	zat	zat	D	1	
-23	schimmel	schimmel	N	1	
-24	in	in	P	1	
-25	de	de	D	1	
-26	douche	douche	N	1	
-27	en	en	C	1	
-28	vlekken	vlek	N	1	
-29	in	in	P	1	
-30	de	de	D	1	
-31	handdoeken	handdoek	N	1	
-32	.	.	O	1	
+1	Verder	ver|verder	G	1	O
+2	zag	zien	V	1	O
+3	het	het	D	1	O
+4	hotel	hotel	N	1	O
+5	er	er	Q	1	O
+6	goedkoop	goedkoop	G	1	O
+7	uit	uit	A	1	O
+8	van	van	P	1	O
+9	binnen	binnen	P	1	O
+10	,	,	O	1	O
+11	kamers	kamer	N	1	O
+12	straalde	stralen	V	1	O
+13	geen	geen	D	1	O
+14	sfeer	sfeer	N	1	O
+15	uit	uit	A	1	O
+16	,	,	O	1	O
+17	TV	TV	O	1	O
+18	was	wezen|zijn	V	1	O
+19	stuk	stuk	N	1	O
+20	,	,	O	1	O
+21	er	er	Q	1	O
+22	zat	zat	D	1	O
+23	schimmel	schimmel	N	1	O
+24	in	in	P	1	O
+25	de	de	D	1	O
+26	douche	douche	N	1	O
+27	en	en	C	1	O
+28	vlekken	vlek	N	1	O
+29	in	in	P	1	O
+30	de	de	D	1	O
+31	handdoeken	handdoek	N	1	O
+32	.	.	O	1	O
 
-1	Eten	eten	V	1	
-2	hebben	hebben	V	1	
-3	we	we	Q	1	
-4	daar	daar	A	1	
-5	maar	maar	C	1	
-6	niet	niet	A	1	
-7	gedaan	doen	V	1	
-8	,	,	O	1	
-9	dus	dus	A	1	
-10	daar	daar	C	1	
-11	kan	kunnen	V	1	
-12	ik	ik	Q	1	
-13	niet	niet	A	1	
-14	over	over	A	1	
-15	oordelen	oordelen	V	1	
-16	.	.	O	1	
+1	Eten	eten	V	1	O
+2	hebben	hebben	V	1	O
+3	we	we	Q	1	O
+4	daar	daar	A	1	O
+5	maar	maar	C	1	O
+6	niet	niet	A	1	O
+7	gedaan	doen	V	1	O
+8	,	,	O	1	O
+9	dus	dus	A	1	O
+10	daar	daar	C	1	O
+11	kan	kunnen	V	1	O
+12	ik	ik	Q	1	O
+13	niet	niet	A	1	O
+14	over	over	A	1	O
+15	oordelen	oordelen	V	1	O
+16	.	.	O	1	O
 
-1	Maar	maar	C	1	
-2	het	het	D	1	
-3	ontbijt	ontbijt	N	1	
-4	stelde	stellen	V	1	
-5	niet	niet	A	1	
-6	veel	veel	A	1	
-7	voor	voor	A	1	
-8	,	,	O	1	
-9	de_mw._mw._die_het	de_mw_._die_het	R	1	ne=Person
-10	serveerde	serveren	V	1	
-11	was	wezen|zijn	V	1	
-12	wel	wel	A	1	
-13	erg	erg	A	1	
-14	vriendelijk	vriendelijk	G	1	
-15	.	.	O	1	
+1	Maar	maar	C	1	O
+2	het	het	D	1	O
+3	ontbijt	ontbijt	N	1	O
+4	stelde	stellen	V	1	O
+5	niet	niet	A	1	O
+6	veel	veel	A	1	O
+7	voor	voor	A	1	O
+8	,	,	O	1	O
+9	de	de	D	1	I-Person
+10	mw.	mw	O	1	I-Person
+11	mw.	.	O	1	I-Person
+12	die	die	Q	1	I-Person
+13	het	het	Q	1	I-Person
+14	serveerde	serveren	V	1	O
+15	was	wezen|zijn	V	1	O
+16	wel	wel	A	1	O
+17	erg	erg	A	1	O
+18	vriendelijk	vriendelijk	G	1	O
+19	.	.	O	1	O
 
-1	Al	al	A	1	
-2	met	met	P	1	
-3	al	al	A	1	
-4	hebben	hebben	V	1	
-5	we	we	Q	1	
-6	vooral	vooral	A	1	
-7	een	een	D	1	
-8	slechte	slecht	G	1	
-9	rug	rug	N	1	
-10	aan	aan	P	1	
-11	Hotel_Eeserhof	hotel_Eeserhof	R	1	ne=Hotel
-12	over	over	A	1	
-13	gehouden	houden	V	1	
+1	Al	al	A	1	O
+2	met	met	P	1	O
+3	al	al	A	1	O
+4	hebben	hebben	V	1	O
+5	we	we	Q	1	O
+6	vooral	vooral	A	1	O
+7	een	een	D	1	O
+8	slechte	slecht	G	1	O
+9	rug	rug	N	1	O
+10	aan	aan	P	1	O
+11	Hotel	hotel	N	1	I-Hotel
+12	Eeserhof	Eeserhof	O	1	I-Hotel
+13	over	over	A	1	O
+14	gehouden	houden	V	1	O
 

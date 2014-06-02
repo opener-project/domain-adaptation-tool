@@ -1,92 +1,93 @@
-1	Vaut	valoir	V	1	
-2	le	le	D	1	
-3	déplacement	déplacement	N	1	
+1	Vaut	valoir	V	1	O
+2	le	le	D	1	O
+3	déplacement	déplacement	N	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	passé	passer	V	1	
-4	3	3	D	1	
-5	semaines	semaine	N	1	
-6	au	au	P	1	
-7	camping	camping	N	1	
-8	le_Roussillonnais	le_Roussillonnais	R	1	ne=Hotel
-9	dans	dans	P	1	
-10	un	un	D	1	
-11	bungalow	bungalow	N	1	
-12	,	,	O	1	
-13	il	il	Q	1	
-14	était	être	V	1	
-15	peut	pouvoir	V	1	
-16	être	être	V	1	
-17	un	un	D	1	
-18	peu	peu	G	1	
-19	petit	petit	G	1	
-20	mais	mais	C	1	
-21	très	très	G	1	
-22	confortable	confortable	G	1	
-23	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	passé	passer	V	1	O
+4	3	3	D	1	O
+5	semaines	semaine	N	1	O
+6	au	au	P	1	O
+7	camping	camping	N	1	O
+8	le	le	D	1	I-Hotel
+9	Roussillonnais	Roussillonnais	N	1	I-Hotel
+10	dans	dans	P	1	O
+11	un	un	D	1	O
+12	bungalow	bungalow	N	1	O
+13	,	,	O	1	O
+14	il	il	Q	1	O
+15	était	être	V	1	O
+16	peut	pouvoir	V	1	O
+17	être	être	V	1	O
+18	un	un	D	1	O
+19	peu	peu	G	1	O
+20	petit	petit	G	1	O
+21	mais	mais	C	1	O
+22	très	très	G	1	O
+23	confortable	confortable	G	1	O
+24	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	près	près	G	1	
-3	de	de	P	1	
-4	la	le	D	1	
-5	mer	mer	N	1	
-6	,	,	O	1	
-7	nous	lui	Q	1	
-8	avons	avoir	V	1	
-9	pu	pouvoir	V	1	
-10	profiter	profiter	V	1	
-11	pleinement	pleinement	G	1	
-12	de	de	P	1	
-13	cette	ce	D	1	
-14	dernière	dernier	G	1	
-15	et	et	C	1	
-16	le	le	D	1	
-17	sable	sable	N	1	
-18	est	être	V	1	
-19	propre	propre	G	1	
-20	et	et	C	1	
-21	fin.	fin.	G	1	
+1	Très	Très	G	1	O
+2	près	près	G	1	O
+3	de	de	P	1	O
+4	la	le	D	1	O
+5	mer	mer	N	1	O
+6	,	,	O	1	O
+7	nous	lui	Q	1	O
+8	avons	avoir	V	1	O
+9	pu	pouvoir	V	1	O
+10	profiter	profiter	V	1	O
+11	pleinement	pleinement	G	1	O
+12	de	de	P	1	O
+13	cette	ce	D	1	O
+14	dernière	dernier	G	1	O
+15	et	et	C	1	O
+16	le	le	D	1	O
+17	sable	sable	N	1	O
+18	est	être	V	1	O
+19	propre	propre	G	1	O
+20	et	et	C	1	O
+21	fin.	fin.	G	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	du	du	P	1	
-4	camping	camping	N	1	
-5	est	être	V	1	
-6	à	à	P	1	
-7	l'	le	D	1	
-8	écoute	écoute	N	1	
-9	des	des	P	1	
-10	vacanciers	vacancier	N	1	
-11	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	du	du	P	1	O
+4	camping	camping	N	1	O
+5	est	être	V	1	O
+6	à	à	P	1	O
+7	l'	le	D	1	O
+8	écoute	écoute	N	1	O
+9	des	des	P	1	O
+10	vacanciers	vacancier	N	1	O
+11	.	.	O	1	O
 
-1	Le	le	D	1	
-2	contre	contre	N	1	
-3	commercial	commercial	G	1	
-4	du	du	P	1	
-5	camping	camping	N	1	
-6	est	être	V	1	
-7	très	très	G	1	
-8	pratique	pratique	G	1	
-9	(	(	O	1	
-10	du	du	P	1	
-11	pain	pain	N	1	
-12	à	à	P	1	
-13	toutes	tout	D	1	
-14	heures	heure	N	1	
-15	)	)	O	1	
-16	.	.	O	1	
+1	Le	le	D	1	O
+2	contre	contre	N	1	O
+3	commercial	commercial	G	1	O
+4	du	du	P	1	O
+5	camping	camping	N	1	O
+6	est	être	V	1	O
+7	très	très	G	1	O
+8	pratique	pratique	G	1	O
+9	(	(	O	1	O
+10	du	du	P	1	O
+11	pain	pain	N	1	O
+12	à	à	P	1	O
+13	toutes	tout	D	1	O
+14	heures	heure	N	1	O
+15	)	)	O	1	O
+16	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	vraiment	vraiment	G	1	
-4	apprécié	apprécier	V	1	
-5	notre	son	D	1	
-6	séjour	séjour	N	1	
-7	et	et	C	1	
-8	y	y	Q	1	
-9	retournons	retournons	N	1	
-10	cette	ce	D	1	
-11	année	année	N	1	
-12	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	vraiment	vraiment	G	1	O
+4	apprécié	apprécier	V	1	O
+5	notre	son	D	1	O
+6	séjour	séjour	N	1	O
+7	et	et	C	1	O
+8	y	y	Q	1	O
+9	retournons	retournons	N	1	O
+10	cette	ce	D	1	O
+11	année	année	N	1	O
+12	.	.	O	1	O
 

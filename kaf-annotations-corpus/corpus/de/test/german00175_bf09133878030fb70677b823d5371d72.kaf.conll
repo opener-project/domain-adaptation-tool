@@ -1,128 +1,128 @@
-1	Einmal	einmal	A	1	
-2	und	und	C	1	
-3	nie	nie	A	1	
-4	wieder	wieder	A	1	
-5	!	!	O	1	
+1	Einmal	einmal	A	1	O
+2	und	und	C	1	O
+3	nie	nie	A	1	O
+4	wieder	wieder	A	1	O
+5	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	hat	haben	V	1	
-4	den	die	D	1	
-5	Charme	Charme	N	1	
-6	einer	eine	D	1	
-7	Bahnhofsvorhalle	Bahnhofsvorhalle	N	1	
-8	inklusive	inklusive	P	1	
-9	Restauarnt	Restauarnt	O	1	
-10	und	und	C	1	
-11	Bar	Bar	N	1	
-12	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	hat	haben	V	1	O
+4	den	die	D	1	O
+5	Charme	Charme	N	1	O
+6	einer	eine	D	1	O
+7	Bahnhofsvorhalle	Bahnhofsvorhalle	N	1	O
+8	inklusive	inklusive	P	1	O
+9	Restauarnt	Restauarnt	O	1	O
+10	und	und	C	1	O
+11	Bar	Bar	N	1	O
+12	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Rezeption	Rezeption	N	1	
-3	glich	gleichen	V	1	
-4	einer	eine	D	1	
-5	Abfertigungshalle	Abfertigungshalle	N	1	
-6	beim	bei	P	1	
-7	Amt	Amt	N	1	
-8	.	.	O	1	
+1	Die	die	D	1	O
+2	Rezeption	Rezeption	N	1	O
+3	glich	gleichen	V	1	O
+4	einer	eine	D	1	O
+5	Abfertigungshalle	Abfertigungshalle	N	1	O
+6	beim	bei	P	1	O
+7	Amt	Amt	N	1	O
+8	.	.	O	1	O
 
-1	Entsprechend	entsprechend	G	1	
-2	die	die	D	1	
-3	Freundlichekit	Freundlichekit	O	1	
-4	des	die	D	1	
-5	Servicepersonals	Servicepersonal	N	1	
-6	.	.	O	1	
+1	Entsprechend	entsprechend	G	1	O
+2	die	die	D	1	O
+3	Freundlichekit	Freundlichekit	O	1	O
+4	des	die	D	1	O
+5	Servicepersonals	Servicepersonal	N	1	O
+6	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	war	sein	V	1	
-4	eine	eine	D	1	
-5	einzige	einzig	G	1	
-6	Kathastrophe	Kathastrophe	O	1	
-7	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	war	sein	V	1	O
+4	eine	eine	D	1	O
+5	einzige	einzig	G	1	O
+6	Kathastrophe	Kathastrophe	O	1	O
+7	.	.	O	1	O
 
-1	Schlechte	schlecht	G	1	
-2	Qualität	Qualität	N	1	
-3	,	,	O	1	
-4	es	es	Q	1	
-5	wurde	werden	V	1	
-6	nichts	nichts	Q	1	
-7	nachgelegt	nachlegen	V	1	
-8	und	und	C	1	
-9	der	die	D	1	
-10	Frühstücksraum	Frühstücksraum	N	1	
-11	warsehr	warsehr	O	1	
-12	unsauber	unsauber	G	1	
-13	.	.	O	1	
+1	Schlechte	schlecht	G	1	O
+2	Qualität	Qualität	N	1	O
+3	,	,	O	1	O
+4	es	es	Q	1	O
+5	wurde	werden	V	1	O
+6	nichts	nichts	Q	1	O
+7	nachgelegt	nachlegen	V	1	O
+8	und	und	C	1	O
+9	der	die	D	1	O
+10	Frühstücksraum	Frühstücksraum	N	1	O
+11	warsehr	warsehr	O	1	O
+12	unsauber	unsauber	G	1	O
+13	.	.	O	1	O
 
-1	Wer	wer	Q	1	
-2	kann	können	V	1	
-3	sollte	sollen	V	1	
-4	lieber	lieb	G	1	
-5	auswärts	auswärts	A	1	
-6	Frühstücken	Frühstück	N	1	
-7	.	.	O	1	
+1	Wer	wer	Q	1	O
+2	kann	können	V	1	O
+3	sollte	sollen	V	1	O
+4	lieber	lieb	G	1	O
+5	auswärts	auswärts	A	1	O
+6	Frühstücken	Frühstück	N	1	O
+7	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	gibt	geben	V	1	
-3	nette	nett	G	1	
-4	Kaffees	Kaffee	N	1	
-5	direkt	direkt	G	1	
-6	um	um	P	1	
-7	die	die	D	1	
-8	Ecke	Ecke	N	1	
-9	.	.	O	1	
+1	Es	es	Q	1	O
+2	gibt	geben	V	1	O
+3	nette	nett	G	1	O
+4	Kaffees	Kaffee	N	1	O
+5	direkt	direkt	G	1	O
+6	um	um	P	1	O
+7	die	die	D	1	O
+8	Ecke	Ecke	N	1	O
+9	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Personal	Personal	N	1	
-3	war	sein	V	1	
-4	mehr	mehr	A	1	
-5	als	als	C	1	
-6	schlecht	schlecht	G	1	
-7	gelaunt	gelaunt	G	1	
-8	und	und	C	1	
-9	unfreundliche	unfreundlich	G	1	
-10	.	.	O	1	
+1	Das	die	D	1	O
+2	Personal	Personal	N	1	O
+3	war	sein	V	1	O
+4	mehr	mehr	A	1	O
+5	als	als	C	1	O
+6	schlecht	schlecht	G	1	O
+7	gelaunt	gelaunt	G	1	O
+8	und	und	C	1	O
+9	unfreundliche	unfreundlich	G	1	O
+10	.	.	O	1	O
 
-1	Über	über	P	1	
-2	die	die	D	1	
-3	Sauberkeit	Sauberkeit	N	1	
-4	der	die	D	1	
-5	Toilette	Toilette	N	1	
-6	die	die	D	1	
-7	an	an	P	1	
-8	den	die	D	1	
-9	Frühstücksraum	Frühstücksraum	N	1	
-10	grenzte	grenzen	V	1	
-11	möchte	mögen	V	1	
-12	ich	ich	Q	1	
-13	lieber	lieb	G	1	
-14	nichts	nichts	Q	1	
-15	schreiben	schreiben	V	1	
-16	.	.	O	1	
+1	Über	über	P	1	O
+2	die	die	D	1	O
+3	Sauberkeit	Sauberkeit	N	1	O
+4	der	die	D	1	O
+5	Toilette	Toilette	N	1	O
+6	die	die	D	1	O
+7	an	an	P	1	O
+8	den	die	D	1	O
+9	Frühstücksraum	Frühstücksraum	N	1	O
+10	grenzte	grenzen	V	1	O
+11	möchte	mögen	V	1	O
+12	ich	ich	Q	1	O
+13	lieber	lieb	G	1	O
+14	nichts	nichts	Q	1	O
+15	schreiben	schreiben	V	1	O
+16	.	.	O	1	O
 
-1	Zusammengefasst	zusammengefasst	G	1	
-2	sollte	sollen	V	1	
-3	man	man	Q	1	
-4	sich	sich	Q	1	
-5	besser	gut	G	1	
-6	ein	eine	D	1	
-7	anderes	andere	Q	1	
-8	Hotel	Hotel	N	1	
-9	suchen	suchen	V	1	
-10	,	,	O	1	
-11	wenn	wenn	C	1	
-12	man	man	Q	1	
-13	die	die	D	1	
-14	Möglichekeit	Möglichekeit	O	1	
-15	hat	haben	V	1	
-16	.	.	O	1	
+1	Zusammengefasst	zusammengefasst	G	1	O
+2	sollte	sollen	V	1	O
+3	man	man	Q	1	O
+4	sich	sich	Q	1	O
+5	besser	gut	G	1	O
+6	ein	eine	D	1	O
+7	anderes	andere	Q	1	O
+8	Hotel	Hotel	N	1	O
+9	suchen	suchen	V	1	O
+10	,	,	O	1	O
+11	wenn	wenn	C	1	O
+12	man	man	Q	1	O
+13	die	die	D	1	O
+14	Möglichekeit	Möglichekeit	O	1	O
+15	hat	haben	V	1	O
+16	.	.	O	1	O
 
-1	Denn	denn	C	1	
-2	billig	billig	G	1	
-3	war	sein	V	1	
-4	es	es	Q	1	
-5	auch	auch	A	1	
-6	nicht	nicht	O	1	
-7	.	.	O	1	
+1	Denn	denn	C	1	O
+2	billig	billig	G	1	O
+3	war	sein	V	1	O
+4	es	es	Q	1	O
+5	auch	auch	A	1	O
+6	nicht	nicht	O	1	O
+7	.	.	O	1	O
 

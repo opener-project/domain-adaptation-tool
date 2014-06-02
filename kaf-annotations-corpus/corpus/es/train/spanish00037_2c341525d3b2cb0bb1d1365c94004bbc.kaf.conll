@@ -1,88 +1,88 @@
-1	Perfecto	Perfecto	R	1	
-2	para	para	N	1	
-3	reiniciarse	reiniciarse	N	1	
+1	Perfecto	Perfecto	R	1	O
+2	para	para	N	1	O
+3	reiniciarse	reiniciarse	N	1	O
 
-1	Disfrutarlo	Disfrutarlo	R	1	
-2	con	con	O	1	
-3	la	la	O	1	
-4	pareja	pareja	O	1	
-5	ha	ha	O	1	
-6	sido	sido	N	1	
-7	ideal	ideal	N	1	
-8	,	,	O	1	
-9	todo	todo	N	1	
-10	perfecto	perfecto	O	1	
-11	.	.	O	1	
+1	Disfrutarlo	Disfrutarlo	R	1	O
+2	con	con	O	1	O
+3	la	la	O	1	O
+4	pareja	pareja	O	1	O
+5	ha	ha	O	1	O
+6	sido	sido	N	1	O
+7	ideal	ideal	N	1	O
+8	,	,	O	1	O
+9	todo	todo	N	1	O
+10	perfecto	perfecto	O	1	O
+11	.	.	O	1	O
 
-1	Desde	Desde	R	1	
-2	la	la	D	1	
-3	entrada	entrada	O	1	
-4	en	en	O	1	
-5	recepción	recepción	O	1	
-6	hasta	hasta	O	1	
-7	la	la	O	1	
-8	noche	noche	O	1	
-9	en	en	O	1	
-10	el	el	O	1	
-11	hotel	hotel	N	1	
-12	.	.	O	1	
+1	Desde	Desde	R	1	O
+2	la	la	D	1	O
+3	entrada	entrada	O	1	O
+4	en	en	O	1	O
+5	recepción	recepción	O	1	O
+6	hasta	hasta	O	1	O
+7	la	la	O	1	O
+8	noche	noche	O	1	O
+9	en	en	O	1	O
+10	el	el	O	1	O
+11	hotel	hotel	N	1	O
+12	.	.	O	1	O
 
-1	Sobretodo	Sobretodo	R	1	
-2	por	por	O	1	
-3	la	la	O	1	
-4	sorpresa	sorpresa	O	1	
-5	del	del	O	1	
-6	SPA	SPA	R	1	
-7	.	.	O	1	
+1	Sobretodo	Sobretodo	R	1	O
+2	por	por	O	1	O
+3	la	la	O	1	O
+4	sorpresa	sorpresa	O	1	O
+5	del	del	O	1	O
+6	SPA	SPA	R	1	O
+7	.	.	O	1	O
 
-1	El	El	R	1	
-2	servicio	servicio	O	1	
-3	de	de	O	1	
-4	los	los	O	1	
-5	masajistas	masajistas	O	1	
-6	inmejorable	inmejorable	G	1	
-7	,	,	O	1	
-8	disfrutamos	disfrutamos	N	1	
-9	de	de	P	1	
-10	unos	unos	N	1	
-11	tratamientos	tratamientos	N	1	
-12	que	que	V	1	
-13	nos	nos	N	1	
-14	renovaron	renovaron	V	1	
-15	a	a	D	1	
-16	los	los	N	1	
-17	dos	dos	N	1	
-18	,	,	O	1	
-19	después	después	O	1	
-20	de	de	O	1	
-21	hacernos	hacernos	O	1	
-22	olvidar	olvidar	O	1	
-23	del	del	O	1	
-24	stress	stress	N	1	
-25	diario	diario	N	1	
-26	acumulado	acumulado	N	1	
-27	.	.	O	1	
+1	El	El	R	1	O
+2	servicio	servicio	O	1	O
+3	de	de	O	1	O
+4	los	los	O	1	O
+5	masajistas	masajistas	O	1	O
+6	inmejorable	inmejorable	G	1	O
+7	,	,	O	1	O
+8	disfrutamos	disfrutamos	N	1	O
+9	de	de	P	1	O
+10	unos	unos	N	1	O
+11	tratamientos	tratamientos	N	1	O
+12	que	que	V	1	O
+13	nos	nos	N	1	O
+14	renovaron	renovaron	V	1	O
+15	a	a	D	1	O
+16	los	los	N	1	O
+17	dos	dos	N	1	O
+18	,	,	O	1	O
+19	después	después	O	1	O
+20	de	de	O	1	O
+21	hacernos	hacernos	O	1	O
+22	olvidar	olvidar	O	1	O
+23	del	del	O	1	O
+24	stress	stress	N	1	O
+25	diario	diario	N	1	O
+26	acumulado	acumulado	N	1	O
+27	.	.	O	1	O
 
-1	Y	Y	G	1	
-2	para	para	N	1	
-3	rematar	rematar	N	1	
-4	una	una	G	1	
-5	cena	cena	N	1	
-6	romántica	romántica	N	1	
-7	.	.	O	1	
+1	Y	Y	G	1	O
+2	para	para	N	1	O
+3	rematar	rematar	N	1	O
+4	una	una	G	1	O
+5	cena	cena	N	1	O
+6	romántica	romántica	N	1	O
+7	.	.	O	1	O
 
-1	Todo	Todo	R	1	
-2	un	un	G	1	
-3	pack	pack	N	1	
-4	de	de	O	1	
-5	sensaciones	sensaciones	O	1	
-6	prácticamente	prácticamente	O	1	
-7	sin	sin	O	1	
-8	movernos	movernos	O	1	
-9	.	.	O	1	
+1	Todo	Todo	R	1	O
+2	un	un	G	1	O
+3	pack	pack	N	1	O
+4	de	de	O	1	O
+5	sensaciones	sensaciones	O	1	O
+6	prácticamente	prácticamente	O	1	O
+7	sin	sin	O	1	O
+8	movernos	movernos	O	1	O
+9	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	repetiríamos	repetiríamos	V	1	
-3	sin	sin	N	1	
-4	dudarlo	dudarlo	N	1	
+1	Lo	Lo	R	1	O
+2	repetiríamos	repetiríamos	V	1	O
+3	sin	sin	N	1	O
+4	dudarlo	dudarlo	N	1	O
 

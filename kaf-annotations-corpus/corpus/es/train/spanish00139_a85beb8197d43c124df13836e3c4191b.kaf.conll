@@ -1,163 +1,169 @@
-1	Este	Este	R	1	
-2	hotel	hotel	N	1	
-3	engancha	engancha	N	1	
+1	Este	Este	R	1	O
+2	hotel	hotel	N	1	O
+3	engancha	engancha	N	1	O
 
-1	Hotel	Hotel	R	1	
-2	maravilloso	maravilloso	N	1	
-3	.	.	O	1	
+1	Hotel	Hotel	R	1	O
+2	maravilloso	maravilloso	N	1	O
+3	.	.	O	1	O
 
-1	Yo	Yo	R	1	
-2	he	he	Q	1	
-3	estado	estado	A	1	
-4	3	3	O	1	
-5	veces	veces	N	1	
-6	y	y	G	1	
-7	esta	esta	N	1	
-8	última	última	N	1	
-9	fue	fue	N	1	
-10	la	la	D	1	
-11	peor	peor	N	1	
-12	.	.	O	1	
+1	Yo	Yo	R	1	O
+2	he	he	Q	1	O
+3	estado	estado	A	1	O
+4	3	3	O	1	O
+5	veces	veces	N	1	O
+6	y	y	G	1	O
+7	esta	esta	N	1	O
+8	última	última	N	1	O
+9	fue	fue	N	1	O
+10	la	la	D	1	O
+11	peor	peor	N	1	O
+12	.	.	O	1	O
 
-1	Supongo	Supongo	R	1	
-2	que	que	V	1	
-3	la	la	G	1	
-4	crisis	crisis	N	1	
-5	influye	influye	N	1	
-6	.	.	O	1	
+1	Supongo	Supongo	R	1	O
+2	que	que	V	1	O
+3	la	la	G	1	O
+4	crisis	crisis	N	1	O
+5	influye	influye	N	1	O
+6	.	.	O	1	O
 
-1	La	La	R	1	
-2	piscina	piscina	N	1	
-3	necesitaba	necesitaba	O	1	
-4	pintura	pintura	V	1	
-5	y	y	G	1	
-6	mychos	mychos	N	1	
-7	restaurantes	restaurantes	V	1	
-8	cerrados	cerrados	N	1	
-9	por	por	N	1	
-10	días	días	N	1	
-11	.	.	O	1	
+1	La	La	R	1	O
+2	piscina	piscina	N	1	O
+3	necesitaba	necesitaba	O	1	O
+4	pintura	pintura	V	1	O
+5	y	y	G	1	O
+6	mychos	mychos	N	1	O
+7	restaurantes	restaurantes	V	1	O
+8	cerrados	cerrados	N	1	O
+9	por	por	N	1	O
+10	días	días	N	1	O
+11	.	.	O	1	O
 
-1	La	La	R	1	
-2	ocupación	ocupación	N	1	
-3	era	era	N	1	
-4	bajisima	bajisima	N	1	
-5	.	.	O	1	
+1	La	La	R	1	O
+2	ocupación	ocupación	N	1	O
+3	era	era	N	1	O
+4	bajisima	bajisima	N	1	O
+5	.	.	O	1	O
 
-1	Volveré	Volveré	R	1	
-2	sin	sin	N	1	
-3	duda	duda	N	1	
-4	,	,	O	1	
-5	a	a	D	1	
-6	ver	ver	A	1	
-7	si	si	G	1	
-8	me	me	Q	1	
-9	quito	quito	O	1	
-10	esa	esa	V	1	
-11	espinita	espinita	N	1	
-12	.	.	O	1	
+1	Volveré	Volveré	R	1	O
+2	sin	sin	N	1	O
+3	duda	duda	N	1	O
+4	,	,	O	1	O
+5	a	a	D	1	O
+6	ver	ver	A	1	O
+7	si	si	G	1	O
+8	me	me	Q	1	O
+9	quito	quito	O	1	O
+10	esa	esa	V	1	O
+11	espinita	espinita	N	1	O
+12	.	.	O	1	O
 
-1	Solo	Solo	R	1	
-2	encontré	encontré	V	1	
-3	un	un	G	1	
-4	problema	problema	N	1	
-5	grave	grave	V	1	
-6	.	.	O	1	
+1	Solo	Solo	R	1	O
+2	encontré	encontré	V	1	O
+3	un	un	G	1	O
+4	problema	problema	N	1	O
+5	grave	grave	V	1	O
+6	.	.	O	1	O
 
-1	Siendo	Siendo	R	1	
-2	la	la	D	1	
-3	tercera	tercera	N	1	
-4	vez	vez	A	1	
-5	que	que	G	1	
-6	había	había	N	1	
-7	ido	ido	N	1	
-8	,	,	O	1	
-9	no	no	D	1	
-10	me	me	Q	1	
-11	encontraban	encontraban	G	1	
-12	en	en	O	1	
-13	la	la	O	1	
-14	base	base	O	1	
-15	de	de	O	1	
-16	datos	datos	N	1	
-17	.	.	O	1	
+1	Siendo	Siendo	R	1	O
+2	la	la	D	1	O
+3	tercera	tercera	N	1	O
+4	vez	vez	A	1	O
+5	que	que	G	1	O
+6	había	había	N	1	O
+7	ido	ido	N	1	O
+8	,	,	O	1	O
+9	no	no	D	1	O
+10	me	me	Q	1	O
+11	encontraban	encontraban	G	1	O
+12	en	en	O	1	O
+13	la	la	O	1	O
+14	base	base	O	1	O
+15	de	de	O	1	O
+16	datos	datos	N	1	O
+17	.	.	O	1	O
 
-1	Estuve	Estuve	R	1	
-2	en	en	P	1	
-3	Marzo_de_2004	Marzo_de_2004	R	1	ne=Date
-4	,	,	O	1	
-5	en	en	O	1	
-6	marzo_de_2006	marzo_de_2006	R	1	ne=Date
-7	y	y	G	1	
-8	en	en	P	1	
-9	marzo_de_2010	marzo_de_2010	R	1	ne=Date
-10	pero	pero	N	1	
-11	una	una	G	1	
-12	de	de	P	1	
-13	ellas	ellas	N	1	
-14	no	no	A	1	
-15	la	la	D	1	
-16	encontraban	encontraban	G	1	
-17	....	....	O	1	
-18	no	no	D	1	
-19	importa	importa	N	1	
-20	,	,	O	1	
-21	porque	porque	G	1	
-22	así	así	N	1	
-23	y	y	G	1	
-24	todo	todo	N	1	
-25	me	me	Q	1	
-26	dieron	dieron	V	1	
-27	mi	mi	G	1	
-28	pulsera	pulsera	N	1	
-29	blanca	blanca	O	1	
-30	de	de	O	1	
-31	repetidor	repetidor	O	1	
-32	.	.	O	1	
+1	Estuve	Estuve	R	1	O
+2	en	en	P	1	O
+3	Marzo	Marzo	R	1	I-Date
+4	de	de	P	1	I-Date
+5	2004	2004	O	1	I-Date
+6	,	,	O	1	O
+7	en	en	O	1	O
+8	marzo	marzo	O	1	I-Date
+9	de	de	O	1	I-Date
+10	2006	2006	O	1	I-Date
+11	y	y	G	1	O
+12	en	en	P	1	O
+13	marzo	marzo	G	1	I-Date
+14	de	de	P	1	I-Date
+15	2010	2010	O	1	I-Date
+16	pero	pero	N	1	O
+17	una	una	G	1	O
+18	de	de	P	1	O
+19	ellas	ellas	N	1	O
+20	no	no	A	1	O
+21	la	la	D	1	O
+22	encontraban	encontraban	G	1	O
+23	....	....	O	1	O
+24	no	no	D	1	O
+25	importa	importa	N	1	O
+26	,	,	O	1	O
+27	porque	porque	G	1	O
+28	así	así	N	1	O
+29	y	y	G	1	O
+30	todo	todo	N	1	O
+31	me	me	Q	1	O
+32	dieron	dieron	V	1	O
+33	mi	mi	G	1	O
+34	pulsera	pulsera	N	1	O
+35	blanca	blanca	O	1	O
+36	de	de	O	1	O
+37	repetidor	repetidor	O	1	O
+38	.	.	O	1	O
 
-1	Muy	muy	G	1	
-2	buen	buen	N	1	
-3	hotel	hotel	N	1	
-4	,	,	O	1	
-5	completamente	completamente	N	1	
-6	recomendable	recomendable	N	1	
-7	.	.	O	1	
+1	Muy	muy	G	1	O
+2	buen	buen	N	1	O
+3	hotel	hotel	N	1	O
+4	,	,	O	1	O
+5	completamente	completamente	N	1	O
+6	recomendable	recomendable	N	1	O
+7	.	.	O	1	O
 
-1	Aunque	Aunque	R	1	
-2	la	la	D	1	
-3	animación	animación	N	1	
-4	ha	ha	N	1	
-5	perdido	perdido	P	1	
-6	un	un	G	1	
-7	poco	poco	N	1	
-8	....	....	O	1	
-9	antes	ante	N	1	
-10	era	era	N	1	
-11	un	un	G	1	
-12	hotel	hotel	N	1	
-13	mucho	mucho	G	1	
-14	mas	mama	N	1	
-15	divertido	divertido	V	1	
-16	.	.	O	1	
+1	Aunque	Aunque	R	1	O
+2	la	la	D	1	O
+3	animación	animación	N	1	O
+4	ha	ha	N	1	O
+5	perdido	perdido	P	1	O
+6	un	un	G	1	O
+7	poco	poco	N	1	O
+8	....	....	O	1	O
+9	antes	ante	N	1	O
+10	era	era	N	1	O
+11	un	un	G	1	O
+12	hotel	hotel	N	1	O
+13	mucho	mucho	G	1	O
+14	mas	mama	N	1	O
+15	divertido	divertido	V	1	O
+16	.	.	O	1	O
 
-1	El	El	R	1	
-2	trabajo	trabajo	O	1	
-3	de	de	O	1	
-4	Kenia	Kenia	R	1	ne=Person
-5	al	al	G	1	
-6	frente	frente	N	1	
-7	de	de	P	1	
-8	los	los	N	1	
-9	espectáculos	espectáculos	N	1	
-10	nocturno	nocturno	A	1	
-11	es	es	V	1	
-12	soberbio	soberbio	N	1	
-13	.	.	O	1	
+1	El	El	R	1	O
+2	trabajo	trabajo	O	1	O
+3	de	de	O	1	O
+4	Kenia	Kenia	R	1	I-Person
+5	al	al	G	1	O
+6	frente	frente	N	1	O
+7	de	de	P	1	O
+8	los	los	N	1	O
+9	espectáculos	espectáculos	N	1	O
+10	nocturno	nocturno	A	1	O
+11	es	es	V	1	O
+12	soberbio	soberbio	N	1	O
+13	.	.	O	1	O
 
-1	Invreíble	Invreíble	R	1	
-2	de	de	P	1	
-3	verdad	verdad	N	1	
-4	.....	.....	O	1	
+1	Invreíble	Invreíble	R	1	O
+2	de	de	P	1	O
+3	verdad	verdad	N	1	O
+4	.....	.....	O	1	O
 
-1	Volveré	Volveré	R	1	
+1	Volveré	Volveré	R	1	O
 

@@ -1,77 +1,77 @@
-1	Escapada	Escapada	R	1	
-2	de	de	P	1	
-3	tres	tres	N	1	
-4	días	días	N	1	
+1	Escapada	Escapada	R	1	O
+2	de	de	P	1	O
+3	tres	tres	N	1	O
+4	días	días	N	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	está	está	N	1	
-4	situado	situado	N	1	
-5	al	al	G	1	
-6	lado	lado	N	1	
-7	del	del	O	1	
-8	Camp	Camp	R	1	
-9	Nou	Nou	R	1	
-10	y	y	G	1	
-11	muy	muy	G	1	
-12	cerquita	cerquita	N	1	
-13	de	de	P	1	
-14	una	una	G	1	
-15	boca	boca	N	1	
-16	de	de	P	1	
-17	metro	metro	N	1	
-18	y	y	G	1	
-19	frente	frente	N	1	
-20	a	a	D	1	
-21	una	una	G	1	
-22	parada	parada	N	1	
-23	de	de	P	1	
-24	autobús	autobús	N	1	
-25	,	,	O	1	
-26	por	por	N	1	
-27	si	si	N	1	
-28	no	no	D	1	
-29	se	se	N	1	
-30	quiere	quiere	A	1	
-31	coger	coger	N	1	
-32	el	el	N	1	
-33	coche	coche	N	1	
-34	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	está	está	N	1	O
+4	situado	situado	N	1	O
+5	al	al	G	1	O
+6	lado	lado	N	1	O
+7	del	del	O	1	O
+8	Camp	Camp	R	1	O
+9	Nou	Nou	R	1	O
+10	y	y	G	1	O
+11	muy	muy	G	1	O
+12	cerquita	cerquita	N	1	O
+13	de	de	P	1	O
+14	una	una	G	1	O
+15	boca	boca	N	1	O
+16	de	de	P	1	O
+17	metro	metro	N	1	O
+18	y	y	G	1	O
+19	frente	frente	N	1	O
+20	a	a	D	1	O
+21	una	una	G	1	O
+22	parada	parada	N	1	O
+23	de	de	P	1	O
+24	autobús	autobús	N	1	O
+25	,	,	O	1	O
+26	por	por	N	1	O
+27	si	si	N	1	O
+28	no	no	D	1	O
+29	se	se	N	1	O
+30	quiere	quiere	A	1	O
+31	coger	coger	N	1	O
+32	el	el	N	1	O
+33	coche	coche	N	1	O
+34	.	.	O	1	O
 
-1	Tiene	Tiene	R	1	
-2	muy	muy	O	1	
-3	buena	buena	V	1	
-4	combinación	combinación	G	1	
-5	para	para	N	1	
-6	conocer	conocer	N	1	
-7	cualquier	cualquier	G	1	
-8	parte	parte	G	1	
-9	de	de	P	1	
-10	Barcelona	Barcelona	R	1	
-11	en	en	P	1	
-12	transpote	transpote	V	1	
-13	público	público	N	1	
-14	.	.	O	1	
+1	Tiene	Tiene	R	1	O
+2	muy	muy	O	1	O
+3	buena	buena	V	1	O
+4	combinación	combinación	G	1	O
+5	para	para	N	1	O
+6	conocer	conocer	N	1	O
+7	cualquier	cualquier	G	1	O
+8	parte	parte	G	1	O
+9	de	de	P	1	O
+10	Barcelona	Barcelona	R	1	O
+11	en	en	P	1	O
+12	transpote	transpote	V	1	O
+13	público	público	N	1	O
+14	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	mejor	mejor	O	1	
-3	del	del	O	1	
-4	hotel	hotel	N	1	
-5	fue	fue	N	1	
-6	el	el	N	1	
-7	Spa	Spa	R	1	
-8	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	mejor	mejor	O	1	O
+3	del	del	O	1	O
+4	hotel	hotel	N	1	O
+5	fue	fue	N	1	O
+6	el	el	N	1	O
+7	Spa	Spa	R	1	O
+8	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	N	1	
-3	y	y	G	1	
-4	el	el	N	1	
-5	baño	baño	N	1	
-6	normal	normal	G	1	
-7	y	y	A	1	
-8	con	con	G	1	
-9	todas	todas	N	1	
-10	las	las	V	1	
-11	comodidades	comodidades	N	1	
-12	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	N	1	O
+3	y	y	G	1	O
+4	el	el	N	1	O
+5	baño	baño	N	1	O
+6	normal	normal	G	1	O
+7	y	y	A	1	O
+8	con	con	G	1	O
+9	todas	todas	N	1	O
+10	las	las	V	1	O
+11	comodidades	comodidades	N	1	O
+12	.	.	O	1	O
 

@@ -1,56 +1,56 @@
-1	Comodidad	Comodidad	R	1	
-2	en	en	O	1	
-3	el	el	O	1	
-4	corazón	corazón	O	1	
-5	de	de	O	1	
-6	Madrid	Madrid	R	1	
+1	Comodidad	Comodidad	R	1	O
+2	en	en	O	1	O
+3	el	el	O	1	O
+4	corazón	corazón	O	1	O
+5	de	de	O	1	O
+6	Madrid	Madrid	R	1	O
 
-1	Se	Se	R	1	
-2	trata	trata	O	1	
-3	de	de	O	1	
-4	un	un	G	1	
-5	establecimiento	establecimiento	N	1	
-6	que	que	N	1	
-7	ofrece	ofrece	A	1	
-8	una	una	G	1	
-9	magnífica	magnífica	N	1	
-10	ubicación	ubicación	N	1	
-11	para	para	N	1	
-12	visitar	visitar	N	1	
-13	los	los	N	1	
-14	lugares	lugares	V	1	
-15	de	de	P	1	
-16	interés	interés	N	1	
-17	turístico	turístico	N	1	
-18	.	.	O	1	
+1	Se	Se	R	1	O
+2	trata	trata	O	1	O
+3	de	de	O	1	O
+4	un	un	G	1	O
+5	establecimiento	establecimiento	N	1	O
+6	que	que	N	1	O
+7	ofrece	ofrece	A	1	O
+8	una	una	G	1	O
+9	magnífica	magnífica	N	1	O
+10	ubicación	ubicación	N	1	O
+11	para	para	N	1	O
+12	visitar	visitar	N	1	O
+13	los	los	N	1	O
+14	lugares	lugares	V	1	O
+15	de	de	P	1	O
+16	interés	interés	N	1	O
+17	turístico	turístico	N	1	O
+18	.	.	O	1	O
 
-1	La	La	R	1	
-2	cercanía	cercanía	N	1	
-3	del	del	O	1	
-4	transporte	transporte	O	1	
-5	público	público	O	1	
-6	·	·	O	1	
-7	autobus	autobus	O	1	
-8	y	y	G	1	
-9	metro	metro	N	1	
-10	a	a	O	1	
-11	la	la	O	1	
-12	puerta	puerta	O	1	
-13	del	del	O	1	
-14	hotel	hotel	O	1	
-15	·	·	O	1	
-16	es	es	O	1	
-17	uno	uno	O	1	
-18	de	de	O	1	
-19	los	los	O	1	
-20	factores	factores	V	1	
-21	a	a	D	1	
-22	destacar	destacar	N	1	
-23	junto	junto	P	1	
-24	a	a	D	1	
-25	la	la	D	1	
-26	calidad	calidad	G	1	
-27	del	del	N	1	
-28	servicio	servicio	N	1	
-29	.	.	O	1	
+1	La	La	R	1	O
+2	cercanía	cercanía	N	1	O
+3	del	del	O	1	O
+4	transporte	transporte	O	1	O
+5	público	público	O	1	O
+6	·	·	O	1	O
+7	autobus	autobus	O	1	O
+8	y	y	G	1	O
+9	metro	metro	N	1	O
+10	a	a	O	1	O
+11	la	la	O	1	O
+12	puerta	puerta	O	1	O
+13	del	del	O	1	O
+14	hotel	hotel	O	1	O
+15	·	·	O	1	O
+16	es	es	O	1	O
+17	uno	uno	O	1	O
+18	de	de	O	1	O
+19	los	los	O	1	O
+20	factores	factores	V	1	O
+21	a	a	D	1	O
+22	destacar	destacar	N	1	O
+23	junto	junto	P	1	O
+24	a	a	D	1	O
+25	la	la	D	1	O
+26	calidad	calidad	G	1	O
+27	del	del	N	1	O
+28	servicio	servicio	N	1	O
+29	.	.	O	1	O
 

@@ -1,160 +1,166 @@
-1	Für	für	P	1	
-2	einen	eine	D	1	
-3	kurzen	kurz	G	1	
-4	Städtetrip	Städtetrip	O	1	
-5	völlig	völlig	G	1	
-6	ausreichend	ausreichend	G	1	
+1	Für	für	P	1	O
+2	einen	eine	D	1	O
+3	kurzen	kurz	G	1	O
+4	Städtetrip	Städtetrip	O	1	O
+5	völlig	völlig	G	1	O
+6	ausreichend	ausreichend	G	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	liegt	liegen	V	1	
-4	in	in	P	1	
-5	der	die	D	1	
-6	Nähe	Nähe	N	1	
-7	des_Gare_du_Nord	die_Gare_du_Nord	R	1	ne=Attraction
-8	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	liegt	liegen	V	1	O
+4	in	in	P	1	O
+5	der	die	D	1	O
+6	Nähe	Nähe	N	1	O
+7	des	die	D	1	I-Attraction
+8	Gare	Gare	N	1	I-Attraction
+9	du	du	Q	1	I-Attraction
+10	Nord	Nord	N	1	I-Attraction
+11	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	erreicht	erreichen	V	1	
-3	in	in	P	1	
-4	kürzester	kurz	G	1	
-5	Zeit	Zeit	N	1	
-6	eine	eine	D	1	
-7	Metro	Metro	R	1	
-8	Station	Station	N	1	
-9	,	,	O	1	
-10	den_Gare_du_Nord	die_Gare_du_Nord	R	1	ne=POI
-11	und	und	C	1	
-12	eine	eine	D	1	
-13	Bushaltestelle	Bushaltestelle	N	1	
-14	.	.	O	1	
+1	Man	man	Q	1	O
+2	erreicht	erreichen	V	1	O
+3	in	in	P	1	O
+4	kürzester	kurz	G	1	O
+5	Zeit	Zeit	N	1	O
+6	eine	eine	D	1	O
+7	Metro	Metro	R	1	O
+8	Station	Station	N	1	O
+9	,	,	O	1	O
+10	den	die	D	1	I-POI
+11	Gare	Gare	N	1	I-POI
+12	du	du	Q	1	I-POI
+13	Nord	Nord	N	1	I-POI
+14	und	und	C	1	O
+15	eine	eine	D	1	O
+16	Bushaltestelle	Bushaltestelle	N	1	O
+17	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Zentrum	Zentrum	N	1	
-3	ist	sein	V	1	
-4	mit	mit	P	1	
-5	den	die	D	1	
-6	öffentlichen	öffentlich	G	1	
-7	Verkehrsmitteln	Verkehrsmittel	N	1	
-8	schnell	schnell	G	1	
-9	zu	zu	O	1	
-10	erreichen	erreichen	V	1	
-11	.	.	O	1	
+1	Das	die	D	1	O
+2	Zentrum	Zentrum	N	1	O
+3	ist	sein	V	1	O
+4	mit	mit	P	1	O
+5	den	die	D	1	O
+6	öffentlichen	öffentlich	G	1	O
+7	Verkehrsmitteln	Verkehrsmittel	N	1	O
+8	schnell	schnell	G	1	O
+9	zu	zu	O	1	O
+10	erreichen	erreichen	V	1	O
+11	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	allgemein	allgemein	G	1	
-4	ist	sein	V	1	
-5	in	in	P	1	
-6	gutem	gut	G	1	
-7	Zustand	Zustand	N	1	
-8	und	und	C	1	
-9	sauber	sauber	G	1	
-10	,	,	O	1	
-11	die	die	D	1	
-12	Einrichtung	Einrichtung	N	1	
-13	sehr	sehr	A	1	
-14	schön	schön	G	1	
-15	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	allgemein	allgemein	G	1	O
+4	ist	sein	V	1	O
+5	in	in	P	1	O
+6	gutem	gut	G	1	O
+7	Zustand	Zustand	N	1	O
+8	und	und	C	1	O
+9	sauber	sauber	G	1	O
+10	,	,	O	1	O
+11	die	die	D	1	O
+12	Einrichtung	Einrichtung	N	1	O
+13	sehr	sehr	A	1	O
+14	schön	schön	G	1	O
+15	.	.	O	1	O
 
-1	Allerdings	allerdings	A	1	
-2	ist	sein	V	1	
-3	das	die	D	1	
-4	Zimmer	Zimmer	N	1	
-5	sehr	sehr	A	1	
-6	klein	klein	G	1	
-7	und	und	C	1	
-8	etwas	etwas	A	1	
-9	abgenutzt	abnutzen	V	1	
-10	.	.	O	1	
+1	Allerdings	allerdings	A	1	O
+2	ist	sein	V	1	O
+3	das	die	D	1	O
+4	Zimmer	Zimmer	N	1	O
+5	sehr	sehr	A	1	O
+6	klein	klein	G	1	O
+7	und	und	C	1	O
+8	etwas	etwas	A	1	O
+9	abgenutzt	abnutzen	V	1	O
+10	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	ist	sein	V	1	
-3	es	es	Q	1	
-4	nachts	nachts	A	1	
-5	sehr	sehr	A	1	
-6	hellhörig	hellhörig	G	1	
-7	.	.	O	1	
+1	Auch	auch	A	1	O
+2	ist	sein	V	1	O
+3	es	es	Q	1	O
+4	nachts	nachts	A	1	O
+5	sehr	sehr	A	1	O
+6	hellhörig	hellhörig	G	1	O
+7	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Personal	Personal	N	1	
-3	ist	sein	V	1	
-4	sehr	sehr	A	1	
-5	freundlich	freundlich	G	1	
-6	und	und	C	1	
-7	hilfsbereit	hilfsbereit	G	1	
-8	.	.	O	1	
+1	Das	die	D	1	O
+2	Personal	Personal	N	1	O
+3	ist	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	freundlich	freundlich	G	1	O
+6	und	und	C	1	O
+7	hilfsbereit	hilfsbereit	G	1	O
+8	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	bestand	bestehen	V	1	
-4	leider	leider	A	1	
-5	nur	nur	A	1	
-6	aus	aus	P	1	
-7	Corissants	Corissants	O	1	
-8	,	,	O	1	
-9	Brötchen	Brötchen	N	1	
-10	,	,	O	1	
-11	1	1	O	1	
-12	Sorte	Sorte	N	1	
-13	Käse	Käse	N	1	
-14	,	,	O	1	
-15	1	1	O	1	
-16	Sorte	Sorte	N	1	
-17	Wurst	Wurst	N	1	
-18	und	und	C	1	
-19	1	1	O	1	
-20	Sorte	Sorte	N	1	
-21	Marmelade	Marmelade	N	1	
-22	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	bestand	bestehen	V	1	O
+4	leider	leider	A	1	O
+5	nur	nur	A	1	O
+6	aus	aus	P	1	O
+7	Corissants	Corissants	O	1	O
+8	,	,	O	1	O
+9	Brötchen	Brötchen	N	1	O
+10	,	,	O	1	O
+11	1	1	O	1	O
+12	Sorte	Sorte	N	1	O
+13	Käse	Käse	N	1	O
+14	,	,	O	1	O
+15	1	1	O	1	O
+16	Sorte	Sorte	N	1	O
+17	Wurst	Wurst	N	1	O
+18	und	und	C	1	O
+19	1	1	O	1	O
+20	Sorte	Sorte	N	1	O
+21	Marmelade	Marmelade	N	1	O
+22	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Umgebung	Umgebung	N	1	
-3	des	die	D	1	
-4	Hotels	Hotel	N	1	
-5	ist	sein	V	1	
-6	etwas	etwas	A	1	
-7	gewöhnungsbedürftigt	gewöhnungsbedürftigt	O	1	
-8	.	.	O	1	
+1	Die	die	D	1	O
+2	Umgebung	Umgebung	N	1	O
+3	des	die	D	1	O
+4	Hotels	Hotel	N	1	O
+5	ist	sein	V	1	O
+6	etwas	etwas	A	1	O
+7	gewöhnungsbedürftigt	gewöhnungsbedürftigt	O	1	O
+8	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	befindet	befinden	V	1	
-4	sich	sich	Q	1	
-5	in	in	P	1	
-6	einem	eine	D	1	
-7	indischen	indisch	G	1	
-8	Viertel	Viertel	N	1	
-9	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	befindet	befinden	V	1	O
+4	sich	sich	Q	1	O
+5	in	in	P	1	O
+6	einem	eine	D	1	O
+7	indischen	indisch	G	1	O
+8	Viertel	Viertel	N	1	O
+9	.	.	O	1	O
 
-1	In	in	P	1	
-2	der	die	D	1	
-3	Nähe	Nähe	N	1	
-4	findet	finden	V	1	
-5	man	man	Q	1	
-6	einen	eine	D	1	
-7	Tempel	Tempel	N	1	
-8	und	und	C	1	
-9	viele	viele	Q	1	
-10	indische	indisch	G	1	
-11	Läden	Laden	N	1	
-12	.	.	O	1	
+1	In	in	P	1	O
+2	der	die	D	1	O
+3	Nähe	Nähe	N	1	O
+4	findet	finden	V	1	O
+5	man	man	Q	1	O
+6	einen	eine	D	1	O
+7	Tempel	Tempel	N	1	O
+8	und	und	C	1	O
+9	viele	viele	Q	1	O
+10	indische	indisch	G	1	O
+11	Läden	Laden	N	1	O
+12	.	.	O	1	O
 
-1	Faszit	Faszit	O	1	
-2	:	:	O	1	
-3	Wem	wer	Q	1	
-4	die	die	D	1	
-5	Umgebung	Umgebung	N	1	
-6	nicht	nicht	O	1	
-7	stört	stören	V	1	
-8	und	und	C	1	
-9	keinen	keine	Q	1	
-10	Luxus	Luxus	N	1	
-11	braucht	brauchen	V	1	
-12	,	,	O	1	
-13	ist	sein	V	1	
-14	hier	hier	A	1	
-15	bestens	bestens	A	1	
-16	aufgehoben	aufheben	V	1	
-17	.	.	O	1	
+1	Faszit	Faszit	O	1	O
+2	:	:	O	1	O
+3	Wem	wer	Q	1	O
+4	die	die	D	1	O
+5	Umgebung	Umgebung	N	1	O
+6	nicht	nicht	O	1	O
+7	stört	stören	V	1	O
+8	und	und	C	1	O
+9	keinen	keine	Q	1	O
+10	Luxus	Luxus	N	1	O
+11	braucht	brauchen	V	1	O
+12	,	,	O	1	O
+13	ist	sein	V	1	O
+14	hier	hier	A	1	O
+15	bestens	bestens	A	1	O
+16	aufgehoben	aufheben	V	1	O
+17	.	.	O	1	O
 

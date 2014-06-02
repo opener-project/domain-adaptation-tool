@@ -1,58 +1,65 @@
-1	Muy	Muy	R	1	
-2	buena	buena	N	1	
-3	calidad	calidad	O	1	
-4	/	/	V	1	
-5	precio	precio	G	1	
+1	Muy	Muy	R	1	O
+2	buena	buena	N	1	O
+3	calidad	calidad	O	1	O
+4	/	/	V	1	O
+5	precio	precio	G	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	se	se	O	1	
-4	encuentra	encuentra	O	1	
-5	en	en	O	1	
-6	pleno_centro_de_florencia	pleno_centro_de_florencia	R	1	ne=Location
-7	y	y	G	1	
-8	cerca	cerca	N	1	
-9	de	de	P	1	
-10	la_estacion_central_de_florencia	la_estacion_central_de_florencia	R	1	ne=POI
-11	,	,	O	1	
-12	por	por	C	1	
-13	lo	lo	G	1	
-14	que	que	V	1	
-15	la	la	D	1	
-16	situacion	situacion	N	1	
-17	es	es	N	1	
-18	ideal	ideal	V	1	
-19	,	,	O	1	
-20	esta	esta	V	1	
-21	a	a	D	1	
-22	30	30	O	1	
-23	segundos	segundos	G	1	
-24	andando	andando	C	1	
-25	del	del	G	1	
-26	duomo	duomo	R	1	ne=Attraction
-27	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	se	se	O	1	O
+4	encuentra	encuentra	O	1	O
+5	en	en	O	1	O
+6	pleno	pleno	O	1	I-Location
+7	centro	centro	O	1	I-Location
+8	de	de	O	1	I-Location
+9	florencia	florencia	O	1	I-Location
+10	y	y	G	1	O
+11	cerca	cerca	N	1	O
+12	de	de	P	1	O
+13	la	la	D	1	I-POI
+14	estacion	estacion	N	1	I-POI
+15	central	central	G	1	I-POI
+16	de	de	P	1	I-POI
+17	florencia	florencia	N	1	I-POI
+18	,	,	O	1	O
+19	por	por	C	1	O
+20	lo	lo	G	1	O
+21	que	que	V	1	O
+22	la	la	D	1	O
+23	situacion	situacion	N	1	O
+24	es	es	N	1	O
+25	ideal	ideal	V	1	O
+26	,	,	O	1	O
+27	esta	esta	V	1	O
+28	a	a	D	1	O
+29	30	30	O	1	O
+30	segundos	segundos	G	1	O
+31	andando	andando	C	1	O
+32	del	del	G	1	O
+33	duomo	duomo	R	1	I-Attraction
+34	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	V	1	
-3	estan	estan	G	1	
-4	muy	muy	G	1	
-5	bien	bien	N	1	
-6	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	V	1	O
+3	estan	estan	G	1	O
+4	muy	muy	G	1	O
+5	bien	bien	N	1	O
+6	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	N	1	
-3	es	es	V	1	
-4	algo	algo	A	1	
-5	simple	simple	G	1	
-6	,	,	O	1	
-7	pero	pero	O	1	
-8	por	por	O	1	
-9	el	el	O	1	
-10	precio	precio	O	1	
-11	que	que	O	1	
-12	tiene	tiene	O	1	
-13	esta	esta	O	1	
-14	bastante	bastante	O	1	
-15	bien	bien	O	1	
-16	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	N	1	O
+3	es	es	V	1	O
+4	algo	algo	A	1	O
+5	simple	simple	G	1	O
+6	,	,	O	1	O
+7	pero	pero	O	1	O
+8	por	por	O	1	O
+9	el	el	O	1	O
+10	precio	precio	O	1	O
+11	que	que	O	1	O
+12	tiene	tiene	O	1	O
+13	esta	esta	O	1	O
+14	bastante	bastante	O	1	O
+15	bien	bien	O	1	O
+16	.	.	O	1	O
 

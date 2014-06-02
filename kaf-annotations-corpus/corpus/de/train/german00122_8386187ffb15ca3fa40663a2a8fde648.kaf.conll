@@ -1,129 +1,129 @@
-1	Trotzdem	trotzdem	C	1	
-2	ein	eine	D	1	
-3	empfehlenswertes	empfehlenswert	G	1	
-4	Hotel	Hotel	N	1	
+1	Trotzdem	trotzdem	C	1	O
+2	ein	eine	D	1	O
+3	empfehlenswertes	empfehlenswert	G	1	O
+4	Hotel	Hotel	N	1	O
 
-1	Die	die	D	1	
-2	Lage	Lage	N	1	
-3	des	die	D	1	
-4	Hotels	Hotel	N	1	
-5	ist	sein	V	1	
-6	sehr	sehr	A	1	
-7	schön	schön	G	1	
-8	und	und	C	1	
-9	es	es	Q	1	
-10	ist	sein	V	1	
-11	sehr	sehr	A	1	
-12	ruhig	ruhig	G	1	
-13	.	.	O	1	
+1	Die	die	D	1	O
+2	Lage	Lage	N	1	O
+3	des	die	D	1	O
+4	Hotels	Hotel	N	1	O
+5	ist	sein	V	1	O
+6	sehr	sehr	A	1	O
+7	schön	schön	G	1	O
+8	und	und	C	1	O
+9	es	es	Q	1	O
+10	ist	sein	V	1	O
+11	sehr	sehr	A	1	O
+12	ruhig	ruhig	G	1	O
+13	.	.	O	1	O
 
-1	Viele	viele	Q	1	
-2	Ausflugsmöglichkeiten	Ausflugsmöglichkeit	N	1	
-3	.	.	O	1	
+1	Viele	viele	Q	1	O
+2	Ausflugsmöglichkeiten	Ausflugsmöglichkeit	N	1	O
+3	.	.	O	1	O
 
-1	Amsterdam	Amsterdam	R	1	ne=Location
-2	ist	sein	V	1	
-3	mit	mit	P	1	
-4	dem	die	D	1	
-5	Auto	Auto	N	1	
-6	schnell	schnell	G	1	
-7	erreichbar	erreichbar	G	1	
-8	.	.	O	1	
+1	Amsterdam	Amsterdam	R	1	I-Location
+2	ist	sein	V	1	O
+3	mit	mit	P	1	O
+4	dem	die	D	1	O
+5	Auto	Auto	N	1	O
+6	schnell	schnell	G	1	O
+7	erreichbar	erreichbar	G	1	O
+8	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Personal	Personal	N	1	
-3	war	sein	V	1	
-4	sehr	sehr	A	1	
-5	freundlich	freundlich	G	1	
-6	.	.	O	1	
+1	Das	die	D	1	O
+2	Personal	Personal	N	1	O
+3	war	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	freundlich	freundlich	G	1	O
+6	.	.	O	1	O
 
-1	Beschwerden	Beschwerde	N	1	
-2	wurden	werden	V	1	
-3	durch	durch	P	1	
-4	die	die	D	1	
-5	Rezeption	Rezeption	N	1	
-6	umgehend	umgehend	G	1	
-7	abgestellt	abstellen	V	1	
-8	.	.	O	1	
+1	Beschwerden	Beschwerde	N	1	O
+2	wurden	werden	V	1	O
+3	durch	durch	P	1	O
+4	die	die	D	1	O
+5	Rezeption	Rezeption	N	1	O
+6	umgehend	umgehend	G	1	O
+7	abgestellt	abstellen	V	1	O
+8	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	war	sein	V	1	
-4	reichhaltig	reichhaltig	G	1	
-5	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	war	sein	V	1	O
+4	reichhaltig	reichhaltig	G	1	O
+5	.	.	O	1	O
 
-1	Wenn	wenn	C	1	
-2	man	man	Q	1	
-3	etwas	etwas	A	1	
-4	später	spät	G	1	
-5	zum	zu	P	1	
-6	Frühstücken	Frühstück	N	1	
-7	ging	gehen	V	1	
-8	,	,	O	1	
-9	waren	sein	V	1	
-10	die	die	D	1	
-11	Tische	Tisch	N	1	
-12	von	von	P	1	
-13	den	die	D	1	
-14	vorherigen	vorherig	G	1	
-15	Gästen	Gast	N	1	
-16	noch	noch	A	1	
-17	nicht	nicht	O	1	
-18	abgeräumt	abräumen	V	1	
-19	.	.	O	1	
+1	Wenn	wenn	C	1	O
+2	man	man	Q	1	O
+3	etwas	etwas	A	1	O
+4	später	spät	G	1	O
+5	zum	zu	P	1	O
+6	Frühstücken	Frühstück	N	1	O
+7	ging	gehen	V	1	O
+8	,	,	O	1	O
+9	waren	sein	V	1	O
+10	die	die	D	1	O
+11	Tische	Tisch	N	1	O
+12	von	von	P	1	O
+13	den	die	D	1	O
+14	vorherigen	vorherig	G	1	O
+15	Gästen	Gast	N	1	O
+16	noch	noch	A	1	O
+17	nicht	nicht	O	1	O
+18	abgeräumt	abräumen	V	1	O
+19	.	.	O	1	O
 
-1	Das	die	Q	1	
-2	wirkte	wirken	V	1	
-3	nicht	nicht	O	1	
-4	sehr	sehr	A	1	
-5	einladend	einladend	G	1	
-6	.	.	O	1	
+1	Das	die	Q	1	O
+2	wirkte	wirken	V	1	O
+3	nicht	nicht	O	1	O
+4	sehr	sehr	A	1	O
+5	einladend	einladend	G	1	O
+6	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	mußte	müssen	V	1	
-3	zum	zu	P	1	
-4	Teil	Teil	N	1	
-5	das	die	D	1	
-6	Personal	Personal	N	1	
-7	bitten	bitten	V	1	
-8	,	,	O	1	
-9	den	die	D	1	
-10	Tisch	Tisch	N	1	
-11	abzuräumen	abräumen	V	1	
-12	.	.	O	1	
+1	Man	man	Q	1	O
+2	mußte	müssen	V	1	O
+3	zum	zu	P	1	O
+4	Teil	Teil	N	1	O
+5	das	die	D	1	O
+6	Personal	Personal	N	1	O
+7	bitten	bitten	V	1	O
+8	,	,	O	1	O
+9	den	die	D	1	O
+10	Tisch	Tisch	N	1	O
+11	abzuräumen	abräumen	V	1	O
+12	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Brösel	Brösel	N	1	
-3	wurden	werden	V	1	
-4	dann	dann	A	1	
-5	auf	auf	P	1	
-6	den	die	D	1	
-7	Boden	Boden	N	1	
-8	oder	oder	C	1	
-9	die	die	D	1	
-10	Stühle	Stuhl	N	1	
-11	gewischt	wischen	V	1	
-12	.	.	O	1	
+1	Die	die	D	1	O
+2	Brösel	Brösel	N	1	O
+3	wurden	werden	V	1	O
+4	dann	dann	A	1	O
+5	auf	auf	P	1	O
+6	den	die	D	1	O
+7	Boden	Boden	N	1	O
+8	oder	oder	C	1	O
+9	die	die	D	1	O
+10	Stühle	Stuhl	N	1	O
+11	gewischt	wischen	V	1	O
+12	.	.	O	1	O
 
-1	Unsere	unser	Q	1	
-2	Betten	Bett|Betten	N	1	
-3	wurden	werden	V	1	
-4	zwei	zwei	O	1	
-5	Tage	Tag	N	1	
-6	überhaupt	überhaupt	A	1	
-7	nicht	nicht	O	1	
-8	gemacht	machen	V	1	
-9	.	.	O	1	
+1	Unsere	unser	Q	1	O
+2	Betten	Bett|Betten	N	1	O
+3	wurden	werden	V	1	O
+4	zwei	zwei	O	1	O
+5	Tage	Tag	N	1	O
+6	überhaupt	überhaupt	A	1	O
+7	nicht	nicht	O	1	O
+8	gemacht	machen	V	1	O
+9	.	.	O	1	O
 
-1	Erst	erst	A	1	
-2	nach	nach	P	1	
-3	Reklamation	Reklamation	N	1	
-4	bei	bei	P	1	
-5	der	die	D	1	
-6	Rezeption	Rezeption	N	1	
-7	wurden	werden	V	1	
-8	unsere	unser	Q	1	
-9	Betten	Bett|Betten	N	1	
-10	gemacht	machen	V	1	
-11	.	.	O	1	
+1	Erst	erst	A	1	O
+2	nach	nach	P	1	O
+3	Reklamation	Reklamation	N	1	O
+4	bei	bei	P	1	O
+5	der	die	D	1	O
+6	Rezeption	Rezeption	N	1	O
+7	wurden	werden	V	1	O
+8	unsere	unser	Q	1	O
+9	Betten	Bett|Betten	N	1	O
+10	gemacht	machen	V	1	O
+11	.	.	O	1	O
 

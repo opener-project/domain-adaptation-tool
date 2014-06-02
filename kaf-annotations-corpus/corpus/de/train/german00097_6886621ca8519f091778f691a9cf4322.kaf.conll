@@ -1,125 +1,127 @@
-1	Zweck	Zweck	N	1	
-2	erfüllt	erfüllen	V	1	
-3	·	·	O	1	
-4	nächstes	nah	G	1	
-5	Mal	Mal	N	1	
-6	aber	aber	A	1	
-7	nicht	nicht	O	1	
-8	wieder	wieder	A	1	
+1	Zweck	Zweck	N	1	O
+2	erfüllt	erfüllen	V	1	O
+3	·	·	O	1	O
+4	nächstes	nah	G	1	O
+5	Mal	Mal	N	1	O
+6	aber	aber	A	1	O
+7	nicht	nicht	O	1	O
+8	wieder	wieder	A	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	wie	wie	C	1	
-5	eine	eine	D	1	
-6	überteuerte	überteuert	G	1	
-7	Jugendherberge	Jugendherberge	N	1	
-8	mit	mit	P	1	
-9	internationalem	international	G	1	
-10	,	,	O	1	
-11	jungen	jung	G	1	
-12	Publikum	Publikum	N	1	
-13	in	in	P	1	
-14	einem	eine	D	1	
-15	Problembezirk	Problembezirk	N	1	
-16	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	wie	wie	C	1	O
+5	eine	eine	D	1	O
+6	überteuerte	überteuert	G	1	O
+7	Jugendherberge	Jugendherberge	N	1	O
+8	mit	mit	P	1	O
+9	internationalem	international	G	1	O
+10	,	,	O	1	O
+11	jungen	jung	G	1	O
+12	Publikum	Publikum	N	1	O
+13	in	in	P	1	O
+14	einem	eine	D	1	O
+15	Problembezirk	Problembezirk	N	1	O
+16	.	.	O	1	O
 
-1	Den	die	D	1	
-2	Zweck	Zweck	N	1	
-3	Partywochenende	Partywochenende	O	1	
-4	(	(	O	1	
-5	mit	mit	P	1	
-6	geringem	gering	G	1	
-7	Anteil	Anteil	N	1	
-8	an	an	P	1	
-9	verbrachter	verbrachter	G	1	
-10	Zeit	Zeit	N	1	
-11	im	in	P	1	
-12	Hotel	Hotel	N	1	
-13	)	)	O	1	
-14	hat	haben	V	1	
-15	es	es	Q	1	
-16	erfüllt	erfüllen	V	1	
-17	.	.	O	1	
+1	Den	die	D	1	O
+2	Zweck	Zweck	N	1	O
+3	Partywochenende	Partywochenende	O	1	O
+4	(	(	O	1	O
+5	mit	mit	P	1	O
+6	geringem	gering	G	1	O
+7	Anteil	Anteil	N	1	O
+8	an	an	P	1	O
+9	verbrachter	verbrachter	G	1	O
+10	Zeit	Zeit	N	1	O
+11	im	in	P	1	O
+12	Hotel	Hotel	N	1	O
+13	)	)	O	1	O
+14	hat	haben	V	1	O
+15	es	es	Q	1	O
+16	erfüllt	erfüllen	V	1	O
+17	.	.	O	1	O
 
-1	Positiv	positiv	G	1	
-2	aufgefallen	auffallen	V	1	
-3	sind	sein	V	1	
-4	die	die	D	1	
-5	neuen	neu	G	1	
-6	und	und	C	1	
-7	sauberen	sauber	G	1	
-8	Badezimmer	Badezimmer	N	1	
-9	und	und	C	1	
-10	ein	eine	D	1	
-11	wenn	wenn	C	1	
-12	auch	auch	A	1	
-13	kleiner	klein	G	1	
-14	Flachbildschirm	Flachbildschirm	N	1	
-15	,	,	O	1	
-16	Negativ	Negativ	N	1	
-17	aufgefallen	auffallen	V	1	
-18	ist	sein	V	1	
-19	das	die	D	1	
-20	Knöllchen	Knöllchen	O	1	
-21	am	an	P	1	
-22	Auto	Auto	N	1	
-23	(	(	O	1	
-24	54_€	54_€	R	1	ne=Money
-25	,	,	O	1	
-26	was	was	Q	1	
-27	aber	aber	A	1	
-28	nicht	nicht	O	1	
-29	bezahlt	bezahlen	V	1	
-30	wird	werden	V	1	
-31	)	)	O	1	
-32	auf	auf	P	1	
-33	dem	die	D	1	
-34	Hotelparkplatz	Hotelparkplatz	N	1	
-35	,	,	O	1	
-36	der	die	Q	1	
-37	etwas	etwas	A	1	
-38	schmuddelige	schmuddelig	G	1	
-39	Gesamteindruck	Gesamteindruck	N	1	
-40	und	und	C	1	
-41	die	die	D	1	
-42	geringe	gering	G	1	
-43	Auswahl	Auswahl	N	1	
-44	beim	bei	P	1	
-45	Frühstück	Frühstück	N	1	
-46	(	(	O	1	
-47	ich	ich	Q	1	
-48	vermisste	vermissen	V	1	
-49	Rührei	Rührei	N	1	
-50	und	und	C	1	
-51	vernünftiges	vernünftig	G	1	
-52	Brot	Brot	N	1	
-53	/	/	O	1	
-54	Brötchen	Brötchen	N	1	
-55	)	)	O	1	
-56	.	.	O	1	
+1	Positiv	positiv	G	1	O
+2	aufgefallen	auffallen	V	1	O
+3	sind	sein	V	1	O
+4	die	die	D	1	O
+5	neuen	neu	G	1	O
+6	und	und	C	1	O
+7	sauberen	sauber	G	1	O
+8	Badezimmer	Badezimmer	N	1	O
+9	und	und	C	1	O
+10	ein	eine	D	1	O
+11	wenn	wenn	C	1	O
+12	auch	auch	A	1	O
+13	kleiner	klein	G	1	O
+14	Flachbildschirm	Flachbildschirm	N	1	O
+15	,	,	O	1	O
+16	Negativ	Negativ	N	1	O
+17	aufgefallen	auffallen	V	1	O
+18	ist	sein	V	1	O
+19	das	die	D	1	O
+20	Knöllchen	Knöllchen	O	1	O
+21	am	an	P	1	O
+22	Auto	Auto	N	1	O
+23	(	(	O	1	O
+24	54	54	O	1	I-Money
+25	€	€	O	1	I-Money
+26	,	,	O	1	O
+27	was	was	Q	1	O
+28	aber	aber	A	1	O
+29	nicht	nicht	O	1	O
+30	bezahlt	bezahlen	V	1	O
+31	wird	werden	V	1	O
+32	)	)	O	1	O
+33	auf	auf	P	1	O
+34	dem	die	D	1	O
+35	Hotelparkplatz	Hotelparkplatz	N	1	O
+36	,	,	O	1	O
+37	der	die	Q	1	O
+38	etwas	etwas	A	1	O
+39	schmuddelige	schmuddelig	G	1	O
+40	Gesamteindruck	Gesamteindruck	N	1	O
+41	und	und	C	1	O
+42	die	die	D	1	O
+43	geringe	gering	G	1	O
+44	Auswahl	Auswahl	N	1	O
+45	beim	bei	P	1	O
+46	Frühstück	Frühstück	N	1	O
+47	(	(	O	1	O
+48	ich	ich	Q	1	O
+49	vermisste	vermissen	V	1	O
+50	Rührei	Rührei	N	1	O
+51	und	und	C	1	O
+52	vernünftiges	vernünftig	G	1	O
+53	Brot	Brot	N	1	O
+54	/	/	O	1	O
+55	Brötchen	Brötchen	N	1	O
+56	)	)	O	1	O
+57	.	.	O	1	O
 
-1	Tipp	Tip	N	1	
-2	:	:	O	1	
-3	Am	am	O	1	
-4	besten	gut	G	1	
-5	im	in	P	1	
-6	gegenüberliegenden	gegenüberliegend	G	1	
-7	Parkhaus	Parkhaus	N	1	
-8	für	für	P	1	
-9	1_€	1_€	R	1	ne=Money
-10	am	an	P	1	
-11	Tag	Tag	N	1	
-12	parken	parken	V	1	
-13	,	,	O	1	
-14	Achtung	Achtung	N	1	
-15	:	:	O	1	
-16	Sonntags	sonntags	R	1	ne=Date
-17	macht	machen	V	1	
-18	das	die	D	1	
-19	Parkhaus	Parkhaus	N	1	
-20	erst	erst	A	1	
-21	ab	ab	P	1	
-22	12Uhr	12Uhr	R	1	ne=Time
-23	auf	auf	P	1	
+1	Tipp	Tip	N	1	O
+2	:	:	O	1	O
+3	Am	am	O	1	O
+4	besten	gut	G	1	O
+5	im	in	P	1	O
+6	gegenüberliegenden	gegenüberliegend	G	1	O
+7	Parkhaus	Parkhaus	N	1	O
+8	für	für	P	1	O
+9	1	1	O	1	I-Money
+10	€	€	O	1	I-Money
+11	am	an	P	1	O
+12	Tag	Tag	N	1	O
+13	parken	parken	V	1	O
+14	,	,	O	1	O
+15	Achtung	Achtung	N	1	O
+16	:	:	O	1	O
+17	Sonntags	sonntags	R	1	I-Date
+18	macht	machen	V	1	O
+19	das	die	D	1	O
+20	Parkhaus	Parkhaus	N	1	O
+21	erst	erst	A	1	O
+22	ab	ab	P	1	O
+23	12Uhr	12Uhr	R	1	I-Time
+24	auf	auf	P	1	O
 

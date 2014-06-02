@@ -1,89 +1,89 @@
-1	Günstig	günstig	G	1	
-2	,	,	O	1	
-3	laut	laut	G	1	
-4	,	,	O	1	
-5	zentrumsfern	zentrumsfern	O	1	
-6	,	,	O	1	
-7	Frühstück	Frühstück	N	1	
-8	schlecht	schlecht	G	1	
+1	Günstig	günstig	G	1	O
+2	,	,	O	1	O
+3	laut	laut	G	1	O
+4	,	,	O	1	O
+5	zentrumsfern	zentrumsfern	O	1	O
+6	,	,	O	1	O
+7	Frühstück	Frühstück	N	1	O
+8	schlecht	schlecht	G	1	O
 
-1	Die	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	sind	sein	V	1	
-4	ansprechend	ansprechend	G	1	
-5	,	,	O	1	
-6	ordentlich	ordentlich	G	1	
-7	und	und	C	1	
-8	sauber	sauber	G	1	
-9	.	.	O	1	
+1	Die	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	sind	sein	V	1	O
+4	ansprechend	ansprechend	G	1	O
+5	,	,	O	1	O
+6	ordentlich	ordentlich	G	1	O
+7	und	und	C	1	O
+8	sauber	sauber	G	1	O
+9	.	.	O	1	O
 
-1	Eine	eine	D	1	
-2	Hotelanlage	Hotelanlage	N	1	
-3	gibt	geben	V	1	
-4	es	es	Q	1	
-5	praktisch	praktisch	G	1	
-6	nicht	nicht	O	1	
-7	.	.	O	1	
+1	Eine	eine	D	1	O
+2	Hotelanlage	Hotelanlage	N	1	O
+3	gibt	geben	V	1	O
+4	es	es	Q	1	O
+5	praktisch	praktisch	G	1	O
+6	nicht	nicht	O	1	O
+7	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	führt	führen	V	1	
-3	eine	eine	D	1	
-4	Parkplatzzu	Parkplatzzu	O	1	
-5	·	·	O	1	
-6	und	und	C	1	
-7	·	·	O	1	
-8	abfahrt	abfahren	V	1	
-9	rund	rund	A	1	
-10	ums	ums	P	1	
-11	Hotel	Hotel	N	1	
-12	.	.	O	1	
+1	Es	es	Q	1	O
+2	führt	führen	V	1	O
+3	eine	eine	D	1	O
+4	Parkplatzzu	Parkplatzzu	O	1	O
+5	·	·	O	1	O
+6	und	und	C	1	O
+7	·	·	O	1	O
+8	abfahrt	abfahren	V	1	O
+9	rund	rund	A	1	O
+10	ums	ums	P	1	O
+11	Hotel	Hotel	N	1	O
+12	.	.	O	1	O
 
-1	Abgesehen	abgesehen	G	1	
-2	von	von	P	1	
-3	den	die	D	1	
-4	Nachbarhotels	Nachbarhotels	O	1	
-5	gibt	geben	V	1	
-6	es	es	Q	1	
-7	sonst	sonst	A	1	
-8	in	in	P	1	
-9	der	die	D	1	
-10	Umgebung	Umgebung	N	1	
-11	nur	nur	A	1	
-12	mit	mit	P	1	
-13	Abfall	Abfall	N	1	
-14	und	und	C	1	
-15	Bauschutt	Bauschutt	N	1	
-16	zugemüllte	zugemüllte	O	1	
-17	Grundstücke	Grundstück	N	1	
-18	und	und	C	1	
-19	auf	auf	P	1	
-20	einer	eine	D	1	
-21	Seite	Seite	N	1	
-22	die	die	D	1	
-23	vielbefahrene	vielbefahren	G	1	
-24	Autobahn	Autobahn	N	1	
-25	A2	A2	O	1	
-26	bzw.	bzw.	C	1	
-27	E90	E90	O	1	
-28	·	·	O	1	
-29	SEHR	sehr	A	1	
-30	LAUT	Laut	N	1	
-31	!	!	O	1	
+1	Abgesehen	abgesehen	G	1	O
+2	von	von	P	1	O
+3	den	die	D	1	O
+4	Nachbarhotels	Nachbarhotels	O	1	O
+5	gibt	geben	V	1	O
+6	es	es	Q	1	O
+7	sonst	sonst	A	1	O
+8	in	in	P	1	O
+9	der	die	D	1	O
+10	Umgebung	Umgebung	N	1	O
+11	nur	nur	A	1	O
+12	mit	mit	P	1	O
+13	Abfall	Abfall	N	1	O
+14	und	und	C	1	O
+15	Bauschutt	Bauschutt	N	1	O
+16	zugemüllte	zugemüllte	O	1	O
+17	Grundstücke	Grundstück	N	1	O
+18	und	und	C	1	O
+19	auf	auf	P	1	O
+20	einer	eine	D	1	O
+21	Seite	Seite	N	1	O
+22	die	die	D	1	O
+23	vielbefahrene	vielbefahren	G	1	O
+24	Autobahn	Autobahn	N	1	O
+25	A2	A2	O	1	O
+26	bzw.	bzw.	C	1	O
+27	E90	E90	O	1	O
+28	·	·	O	1	O
+29	SEHR	sehr	A	1	O
+30	LAUT	Laut	N	1	O
+31	!	!	O	1	O
 
-1	Das	die	D	1	
-2	eingeschlossene	eingeschlossen	G	1	
-3	Frühstück	Frühstück	N	1	
-4	ist	sein	V	1	
-5	äußerst	äußerst	A	1	
-6	mager	mager	G	1	
-7	.	.	O	1	
+1	Das	die	D	1	O
+2	eingeschlossene	eingeschlossen	G	1	O
+3	Frühstück	Frühstück	N	1	O
+4	ist	sein	V	1	O
+5	äußerst	äußerst	A	1	O
+6	mager	mager	G	1	O
+7	.	.	O	1	O
 
-1	Keine	keine	Q	1	
-2	vernünftigen	vernünftig	G	1	
-3	Säfte	Saft	N	1	
-4	,	,	O	1	
-5	kein	keine	Q	1	
-6	frisches	frisch	G	1	
-7	Obst	Obst	N	1	
-8	.	.	O	1	
+1	Keine	keine	Q	1	O
+2	vernünftigen	vernünftig	G	1	O
+3	Säfte	Saft	N	1	O
+4	,	,	O	1	O
+5	kein	keine	Q	1	O
+6	frisches	frisch	G	1	O
+7	Obst	Obst	N	1	O
+8	.	.	O	1	O
 

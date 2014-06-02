@@ -1,60 +1,60 @@
-1	Increible	increible	G	1	
-2	,	,	O	1	
-3	por	por	G	1	
-4	su	su	N	1	
-5	ubicacon	ubicacon	N	1	
-6	y	y	G	1	
-7	por	por	N	1	
-8	sus	sus	N	1	
-9	instalaciones	instalaciones	N	1	
-10	.	.	O	1	
+1	Increible	increible	G	1	O
+2	,	,	O	1	O
+3	por	por	G	1	O
+4	su	su	N	1	O
+5	ubicacon	ubicacon	N	1	O
+6	y	y	G	1	O
+7	por	por	N	1	O
+8	sus	sus	N	1	O
+9	instalaciones	instalaciones	N	1	O
+10	.	.	O	1	O
 
-1	Hicimos	Hicimos	R	1	
-2	una	una	G	1	
-3	noche	noche	N	1	
-4	para	para	N	1	
-5	ir	ir	V	1	
-6	a	a	D	1	
-7	ver	ver	A	1	
-8	el	el	G	1	
-9	musical	musical	G	1	
-10	del	del	N	1	
-11	Rey	Rey	R	1	
-12	Leon	Leon	R	1	
-13	y	y	G	1	
-14	nos	nos	N	1	
-15	sorprendio	sorprendio	G	1	
-16	muchisimo	muchisimo	N	1	
-17	,	,	O	1	
-18	lastima	lastima	G	1	
-19	no	no	D	1	
-20	haber	haber	N	1	
-21	permanecido	permanecido	A	1	
-22	otra	otra	G	1	
-23	noche	noche	N	1	
-24	para	para	N	1	
-25	disfrutar	disfrutar	N	1	
-26	de	de	P	1	
-27	su	su	G	1	
-28	spa.Lo	spa.Lo	R	1	
-29	que	que	N	1	
-30	mas	mama	N	1	
-31	nos	nos	N	1	
-32	decepciono	decepciono	V	1	
-33	fue	fue	N	1	
-34	el	el	N	1	
-35	bufet	bufet	N	1	
-36	del	del	O	1	
-37	desayuno	desayuno	O	1	
-38	,	,	O	1	
-39	comparado	comparado	V	1	
-40	con	con	A	1	
-41	otros	otros	N	1	
-42	de	de	P	1	
-43	esta	esta	N	1	
-44	cadena	cadena	N	1	
-45	muy	muy	G	1	
-46	muy	muy	N	1	
-47	flojo	flojo	N	1	
-48	.	.	O	1	
+1	Hicimos	Hicimos	R	1	O
+2	una	una	G	1	O
+3	noche	noche	N	1	O
+4	para	para	N	1	O
+5	ir	ir	V	1	O
+6	a	a	D	1	O
+7	ver	ver	A	1	O
+8	el	el	G	1	O
+9	musical	musical	G	1	O
+10	del	del	N	1	O
+11	Rey	Rey	R	1	O
+12	Leon	Leon	R	1	O
+13	y	y	G	1	O
+14	nos	nos	N	1	O
+15	sorprendio	sorprendio	G	1	O
+16	muchisimo	muchisimo	N	1	O
+17	,	,	O	1	O
+18	lastima	lastima	G	1	O
+19	no	no	D	1	O
+20	haber	haber	N	1	O
+21	permanecido	permanecido	A	1	O
+22	otra	otra	G	1	O
+23	noche	noche	N	1	O
+24	para	para	N	1	O
+25	disfrutar	disfrutar	N	1	O
+26	de	de	P	1	O
+27	su	su	G	1	O
+28	spa.Lo	spa.Lo	R	1	O
+29	que	que	N	1	O
+30	mas	mama	N	1	O
+31	nos	nos	N	1	O
+32	decepciono	decepciono	V	1	O
+33	fue	fue	N	1	O
+34	el	el	N	1	O
+35	bufet	bufet	N	1	O
+36	del	del	O	1	O
+37	desayuno	desayuno	O	1	O
+38	,	,	O	1	O
+39	comparado	comparado	V	1	O
+40	con	con	A	1	O
+41	otros	otros	N	1	O
+42	de	de	P	1	O
+43	esta	esta	N	1	O
+44	cadena	cadena	N	1	O
+45	muy	muy	G	1	O
+46	muy	muy	N	1	O
+47	flojo	flojo	N	1	O
+48	.	.	O	1	O
 

@@ -1,132 +1,134 @@
-1	En	En	R	1	
-2	buena	buena	N	1	
-3	compañia	compañia	N	1	
+1	En	En	R	1	O
+2	buena	buena	N	1	O
+3	compañia	compañia	N	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	muy	muy	G	1	
-5	casero	casero	N	1	
-6	en	en	P	1	
-7	todo	todo	G	1	
-8	lo	lo	G	1	
-9	que	que	G	1	
-10	respecta	respecta	N	1	
-11	al	al	G	1	
-12	trato	trato	N	1	
-13	y	y	A	1	
-14	a	a	D	1	
-15	la	la	N	1	
-16	comida	comida	N	1	
-17	,	,	O	1	
-18	personal	personal	G	1	
-19	muy	muy	N	1	
-20	atento	atento	P	1	
-21	y	y	G	1	
-22	simpatico	simpatico	N	1	
-23	,	,	O	1	
-24	esta	esta	N	1	
-25	situado	situado	O	1	
-26	en	en	P	1	
-27	primera	primera	G	1	
-28	linea	linea	N	1	
-29	de	de	P	1	
-30	playa	playa	N	1	
-31	y	y	G	1	
-32	las	las	N	1	
-33	habitaciones	habitaciones	N	1	
-34	tienen	tienen	G	1	
-35	unas	unas	G	1	
-36	vistas	vista	N	1	
-37	preciosas	preciosas	V	1	
-38	y	y	G	1	
-39	casi	casi	N	1	
-40	casi	casi	N	1	
-41	esta	esta	N	1	
-42	en	en	P	1	
-43	el	el	N	1	
-44	centro_de_Peñiscola	centro_de_Peñiscola	R	1	ne=Location
-45	por	por	C	1	
-46	lo	lo	N	1	
-47	tanto	tanto	P	1	
-48	no	no	D	1	
-49	es	es	N	1	
-50	necesario	necesario	G	1	
-51	un	un	G	1	
-52	vehiculo	vehiculo	N	1	
-53	,	,	O	1	
-54	yo	yo	Q	1	
-55	lo	lo	G	1	
-56	recomendaria	recomendaria	N	1	
-57	a	a	D	1	
-58	parejas	parejas	N	1	
-59	sin	sin	N	1	
-60	hijos	hijos	N	1	
-61	ya	you	Q	1	
-62	que	que	V	1	
-63	las	las	G	1	
-64	habitaciones	habitaciones	N	1	
-65	no	no	D	1	
-66	son	son	N	1	
-67	muy	muy	G	1	
-68	grandes	grandes	N	1	
-69	en	en	P	1	
-70	general	general	G	1	
-71	el	el	N	1	
-72	precio	precio	N	1	
-73	respecto	respecto	P	1	
-74	a	a	D	1	
-75	la	la	N	1	
-76	calidad	calidad	N	1	
-77	y	y	G	1	
-78	el	el	N	1	
-79	servicio	servicio	N	1	
-80	me	me	Q	1	
-81	parece	parece	V	1	
-82	que	que	V	1	
-83	es	es	N	1	
-84	muy	muy	G	1	
-85	aceptable	aceptable	G	1	
-86	y	y	G	1	
-87	recomendable	recomendable	N	1	
-88	,	,	O	1	
-89	la	la	D	1	
-90	unica	unica	N	1	
-91	pega	pega	N	1	
-92	que	que	N	1	
-93	puedo	puedo	N	1	
-94	destacar	destacar	N	1	
-95	es	es	V	1	
-96	que	que	G	1	
-97	el	el	N	1	
-98	hotel	hotel	N	1	
-99	en	en	P	1	
-100	general	general	G	1	
-101	necesita	necesita	G	1	
-102	un	un	G	1	
-103	lavado	lavado	N	1	
-104	de	de	P	1	
-105	cara	cara	N	1	
-106	y	y	G	1	
-107	un	un	G	1	
-108	poco	poco	N	1	
-109	de	de	O	1	
-110	mantenimiento	mantenimiento	O	1	
-111	(	(	O	1	
-112	alguna	alguna	O	1	
-113	grieta	grieta	O	1	
-114	en	en	O	1	
-115	las	las	O	1	
-116	paredes	paredes	N	1	
-117	,	,	O	1	
-118	falta	falta	O	1	
-119	de	de	O	1	
-120	pintura	pintura	O	1	
-121	en	en	O	1	
-122	barandillas	barandillas	O	1	
-123	,	,	O	1	
-124	mobiliario	mobiliario	N	1	
-125	bastante	bastante	N	1	
-126	antiguo	antiguo	N	1	
-127	)	)	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	muy	muy	G	1	O
+5	casero	casero	N	1	O
+6	en	en	P	1	O
+7	todo	todo	G	1	O
+8	lo	lo	G	1	O
+9	que	que	G	1	O
+10	respecta	respecta	N	1	O
+11	al	al	G	1	O
+12	trato	trato	N	1	O
+13	y	y	A	1	O
+14	a	a	D	1	O
+15	la	la	N	1	O
+16	comida	comida	N	1	O
+17	,	,	O	1	O
+18	personal	personal	G	1	O
+19	muy	muy	N	1	O
+20	atento	atento	P	1	O
+21	y	y	G	1	O
+22	simpatico	simpatico	N	1	O
+23	,	,	O	1	O
+24	esta	esta	N	1	O
+25	situado	situado	O	1	O
+26	en	en	P	1	O
+27	primera	primera	G	1	O
+28	linea	linea	N	1	O
+29	de	de	P	1	O
+30	playa	playa	N	1	O
+31	y	y	G	1	O
+32	las	las	N	1	O
+33	habitaciones	habitaciones	N	1	O
+34	tienen	tienen	G	1	O
+35	unas	unas	G	1	O
+36	vistas	vista	N	1	O
+37	preciosas	preciosas	V	1	O
+38	y	y	G	1	O
+39	casi	casi	N	1	O
+40	casi	casi	N	1	O
+41	esta	esta	N	1	O
+42	en	en	P	1	O
+43	el	el	N	1	O
+44	centro	centro	N	1	I-Location
+45	de	de	P	1	I-Location
+46	Peñiscola	Peñiscola	R	1	I-Location
+47	por	por	C	1	O
+48	lo	lo	N	1	O
+49	tanto	tanto	P	1	O
+50	no	no	D	1	O
+51	es	es	N	1	O
+52	necesario	necesario	G	1	O
+53	un	un	G	1	O
+54	vehiculo	vehiculo	N	1	O
+55	,	,	O	1	O
+56	yo	yo	Q	1	O
+57	lo	lo	G	1	O
+58	recomendaria	recomendaria	N	1	O
+59	a	a	D	1	O
+60	parejas	parejas	N	1	O
+61	sin	sin	N	1	O
+62	hijos	hijos	N	1	O
+63	ya	you	Q	1	O
+64	que	que	V	1	O
+65	las	las	G	1	O
+66	habitaciones	habitaciones	N	1	O
+67	no	no	D	1	O
+68	son	son	N	1	O
+69	muy	muy	G	1	O
+70	grandes	grandes	N	1	O
+71	en	en	P	1	O
+72	general	general	G	1	O
+73	el	el	N	1	O
+74	precio	precio	N	1	O
+75	respecto	respecto	P	1	O
+76	a	a	D	1	O
+77	la	la	N	1	O
+78	calidad	calidad	N	1	O
+79	y	y	G	1	O
+80	el	el	N	1	O
+81	servicio	servicio	N	1	O
+82	me	me	Q	1	O
+83	parece	parece	V	1	O
+84	que	que	V	1	O
+85	es	es	N	1	O
+86	muy	muy	G	1	O
+87	aceptable	aceptable	G	1	O
+88	y	y	G	1	O
+89	recomendable	recomendable	N	1	O
+90	,	,	O	1	O
+91	la	la	D	1	O
+92	unica	unica	N	1	O
+93	pega	pega	N	1	O
+94	que	que	N	1	O
+95	puedo	puedo	N	1	O
+96	destacar	destacar	N	1	O
+97	es	es	V	1	O
+98	que	que	G	1	O
+99	el	el	N	1	O
+100	hotel	hotel	N	1	O
+101	en	en	P	1	O
+102	general	general	G	1	O
+103	necesita	necesita	G	1	O
+104	un	un	G	1	O
+105	lavado	lavado	N	1	O
+106	de	de	P	1	O
+107	cara	cara	N	1	O
+108	y	y	G	1	O
+109	un	un	G	1	O
+110	poco	poco	N	1	O
+111	de	de	O	1	O
+112	mantenimiento	mantenimiento	O	1	O
+113	(	(	O	1	O
+114	alguna	alguna	O	1	O
+115	grieta	grieta	O	1	O
+116	en	en	O	1	O
+117	las	las	O	1	O
+118	paredes	paredes	N	1	O
+119	,	,	O	1	O
+120	falta	falta	O	1	O
+121	de	de	O	1	O
+122	pintura	pintura	O	1	O
+123	en	en	O	1	O
+124	barandillas	barandillas	O	1	O
+125	,	,	O	1	O
+126	mobiliario	mobiliario	N	1	O
+127	bastante	bastante	N	1	O
+128	antiguo	antiguo	N	1	O
+129	)	)	O	1	O
 

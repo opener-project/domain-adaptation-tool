@@ -1,150 +1,152 @@
-1	Comodo	comodo	G	1	
-2	e	e	Q	1	
-3	tranquillo	tranquillo	G	1	
+1	Comodo	comodo	G	1	O
+2	e	e	Q	1	O
+3	tranquillo	tranquillo	G	1	O
 
-1	Il	lo	D	1	
-2	cove_rotana	cova_rotana	R	1	ne=Hotel
-3	è	è	R	1	
-4	un	uno	D	1	
-5	ottima	ottimo	G	1	
-6	struttura	struttura	N	1	
-7	,	,	O	1	
-8	un	uno	D	1	
-9	pò	pò	R	1	
-10	lontana	lontano	G	1	
-11	da	da	P	1	
-12	dubai	dubai	R	1	ne=Location
-13	ma	ma	Q	1	
-14	tranquilla	tranquillo	G	1	
-15	,	,	O	1	
-16	il	lo	D	1	
-17	servizio	servizio	N	1	
-18	è	è	R	1	
-19	buono	buono	G	1	
-20	le	lo	D	1	
-21	camere	camera	N	1	
-22	pulite	pulire	V	1	
-23	,	,	O	1	
-24	se	se	Q	1	
-25	potete	potere	V	1	
-26	non	non	A	1	
-27	scegliete	scegliere	V	1	
-28	le	lo	D	1	
-29	camere	camera	N	1	
-30	tipo	tipo	N	1	
-31	la	lo	D	1	
-32	9020	9020	N	1	
-33	,	,	O	1	
-34	vicina	vicino	G	1	
-35	al	al	P	1	
-36	ristorante	ristorante	N	1	
-37	ma	ma	Q	1	
-38	lontana	lontano	G	1	
-39	dalla	dalla	P	1	
-40	spiaggia	spiaggia	N	1	
-41	.	.	O	1	
+1	Il	lo	D	1	O
+2	cove	cova	R	1	I-Hotel
+3	rotana	rotana	N	1	I-Hotel
+4	è	è	R	1	O
+5	un	uno	D	1	O
+6	ottima	ottimo	G	1	O
+7	struttura	struttura	N	1	O
+8	,	,	O	1	O
+9	un	uno	D	1	O
+10	pò	pò	R	1	O
+11	lontana	lontano	G	1	O
+12	da	da	P	1	O
+13	dubai	dubai	R	1	I-Location
+14	ma	ma	Q	1	O
+15	tranquilla	tranquillo	G	1	O
+16	,	,	O	1	O
+17	il	lo	D	1	O
+18	servizio	servizio	N	1	O
+19	è	è	R	1	O
+20	buono	buono	G	1	O
+21	le	lo	D	1	O
+22	camere	camera	N	1	O
+23	pulite	pulire	V	1	O
+24	,	,	O	1	O
+25	se	se	Q	1	O
+26	potete	potere	V	1	O
+27	non	non	A	1	O
+28	scegliete	scegliere	V	1	O
+29	le	lo	D	1	O
+30	camere	camera	N	1	O
+31	tipo	tipo	N	1	O
+32	la	lo	D	1	O
+33	9020	9020	N	1	O
+34	,	,	O	1	O
+35	vicina	vicino	G	1	O
+36	al	al	P	1	O
+37	ristorante	ristorante	N	1	O
+38	ma	ma	Q	1	O
+39	lontana	lontano	G	1	O
+40	dalla	dalla	P	1	O
+41	spiaggia	spiaggia	N	1	O
+42	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	mare	mare	N	1	
-3	è	è	R	1	
-4	pulito	pulire	V	1	
-5	con	con	P	1	
-6	un	uno	D	1	
-7	pò	pò	N	1	
-8	di	di	P	1	
-9	marea	marea	N	1	
-10	,	,	O	1	
-11	essendo	essere	V	1	
-12	privo	privare	V	1	
-13	di	di	P	1	
-14	barriera	barriera	N	1	
-15	corallina	corallino	G	1	
-16	,	,	O	1	
-17	non	non	A	1	
-18	aspettatevi	aspettatevi	V	1	
-19	pesci	pesce	N	1	
-20	come	come	A	1	
-21	nel	nel	P	1	
-22	mar_rosso	mar_rosso	R	1	ne=Location
-23	,	,	O	1	
-24	però	però	N	1	
-25	a	a	P	1	
-26	pochi	poco	G	1	
-27	metri	metro	N	1	
-28	dalla	dalla	P	1	
-29	spiaggia	spiaggia	N	1	
-30	si	si	Q	1	
-31	possono	potere	V	1	
-32	vedere	vedere	V	1	
-33	molte	molto	G	1	
-34	razze	razza	N	1	
-35	.	.	O	1	
+1	Il	lo	D	1	O
+2	mare	mare	N	1	O
+3	è	è	R	1	O
+4	pulito	pulire	V	1	O
+5	con	con	P	1	O
+6	un	uno	D	1	O
+7	pò	pò	N	1	O
+8	di	di	P	1	O
+9	marea	marea	N	1	O
+10	,	,	O	1	O
+11	essendo	essere	V	1	O
+12	privo	privare	V	1	O
+13	di	di	P	1	O
+14	barriera	barriera	N	1	O
+15	corallina	corallino	G	1	O
+16	,	,	O	1	O
+17	non	non	A	1	O
+18	aspettatevi	aspettatevi	V	1	O
+19	pesci	pesce	N	1	O
+20	come	come	A	1	O
+21	nel	nel	P	1	O
+22	mar	mar	N	1	I-Location
+23	rosso	rosso	G	1	I-Location
+24	,	,	O	1	O
+25	però	però	N	1	O
+26	a	a	P	1	O
+27	pochi	poco	G	1	O
+28	metri	metro	N	1	O
+29	dalla	dalla	P	1	O
+30	spiaggia	spiaggia	N	1	O
+31	si	si	Q	1	O
+32	possono	potere	V	1	O
+33	vedere	vedere	V	1	O
+34	molte	molto	G	1	O
+35	razze	razza	N	1	O
+36	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	clima	clima	N	1	
-3	però	però	R	1	
-4	è	è	R	1	
-5	molto	molto	A	1	
-6	gradevole	gradevole	G	1	
-7	anche	anche	Q	1	
-8	in	in	P	1	
-9	un	uno	D	1	
-10	periodo	periodo	N	1	
-11	"	&quot;	O	1	
-12	invernale	invernale	N	1	
-13	"	&quot;	O	1	
-14	come	come	Q	1	
-15	la	lo	D	1	
-16	prima	primo	G	1	
-17	settimana	settimana	N	1	
-18	dell'	dell'	P	1	
-19	anno	anno	N	1	
-20	,	,	O	1	
-21	quella	quella	Q	1	
-22	in	in	P	1	
-23	cui	cui	Q	1	
-24	abbiamo	avere	V	1	
-25	soggiornato	soggiornare	V	1	
-26	noi	noi	Q	1	
-27	.	.	O	1	
+1	Il	lo	D	1	O
+2	clima	clima	N	1	O
+3	però	però	R	1	O
+4	è	è	R	1	O
+5	molto	molto	A	1	O
+6	gradevole	gradevole	G	1	O
+7	anche	anche	Q	1	O
+8	in	in	P	1	O
+9	un	uno	D	1	O
+10	periodo	periodo	N	1	O
+11	"	&quot;	O	1	O
+12	invernale	invernale	N	1	O
+13	"	&quot;	O	1	O
+14	come	come	Q	1	O
+15	la	lo	D	1	O
+16	prima	primo	G	1	O
+17	settimana	settimana	N	1	O
+18	dell'	dell'	P	1	O
+19	anno	anno	N	1	O
+20	,	,	O	1	O
+21	quella	quella	Q	1	O
+22	in	in	P	1	O
+23	cui	cui	Q	1	O
+24	abbiamo	avere	V	1	O
+25	soggiornato	soggiornare	V	1	O
+26	noi	noi	Q	1	O
+27	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	cove	cove	G	1	
-3	resta	restare	V	1	
-4	comunque	comunque	A	1	
-5	un	uno	D	1	
-6	ottimo	ottimo	N	1	
-7	punto	punto	N	1	
-8	di	di	P	1	
-9	partenza	partenza	N	1	
-10	per	per	P	1	
-11	escursioni	escursione	N	1	
-12	a	a	P	1	
-13	dubai	dubai	R	1	ne=Location
-14	,	,	O	1	
-15	in	in	P	1	
-16	un	uno	D	1	
-17	ora	ora	A	1	
-18	percorrendo	percorrere	V	1	
-19	un	uno	D	1	
-20	bellissima	bellissima	G	1	
-21	autostrada	autostrada	N	1	
-22	illuminata	illuminare	V	1	
-23	anche	anche	Q	1	
-24	di	di	P	1	
-25	notte	notte	N	1	
-26	ci	ci	Q	1	
-27	arriverete	arrivare	V	1	
-28	.	.	O	1	
+1	Il	lo	D	1	O
+2	cove	cove	G	1	O
+3	resta	restare	V	1	O
+4	comunque	comunque	A	1	O
+5	un	uno	D	1	O
+6	ottimo	ottimo	N	1	O
+7	punto	punto	N	1	O
+8	di	di	P	1	O
+9	partenza	partenza	N	1	O
+10	per	per	P	1	O
+11	escursioni	escursione	N	1	O
+12	a	a	P	1	O
+13	dubai	dubai	R	1	I-Location
+14	,	,	O	1	O
+15	in	in	P	1	O
+16	un	uno	D	1	O
+17	ora	ora	A	1	O
+18	percorrendo	percorrere	V	1	O
+19	un	uno	D	1	O
+20	bellissima	bellissima	G	1	O
+21	autostrada	autostrada	N	1	O
+22	illuminata	illuminare	V	1	O
+23	anche	anche	Q	1	O
+24	di	di	P	1	O
+25	notte	notte	N	1	O
+26	ci	ci	Q	1	O
+27	arriverete	arrivare	V	1	O
+28	.	.	O	1	O
 
-1	Ottima	ottimo	G	1	
-2	vacanza	vacanza	N	1	
-3	addirittura	addirittura	A	1	
-4	al	al	P	1	
-5	di	di	P	1	
-6	sopra	sopra	N	1	
-7	delle	delle	P	1	
-8	nostre	nostro	G	1	
-9	aspettative	aspettativa	N	1	
-10	.	.	O	1	
+1	Ottima	ottimo	G	1	O
+2	vacanza	vacanza	N	1	O
+3	addirittura	addirittura	A	1	O
+4	al	al	P	1	O
+5	di	di	P	1	O
+6	sopra	sopra	N	1	O
+7	delle	delle	P	1	O
+8	nostre	nostro	G	1	O
+9	aspettative	aspettativa	N	1	O
+10	.	.	O	1	O
 

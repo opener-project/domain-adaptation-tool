@@ -1,132 +1,132 @@
-1	Grand	grand	G	1	
-2	malaise	malais	N	1	
-3	.	.	O	1	
+1	Grand	grand	G	1	O
+2	malaise	malais	N	1	O
+3	.	.	O	1	O
 
-1	nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	été	être	V	1	
-4	choqués	choquer	V	1	
-5	du	du	D	1	
-6	spectacle	spectacle	N	1	
-7	de	de	P	1	
-8	ces	ce	D	1	
-9	guépards	guépard	N	1	
-10	en	en	P	1	
-11	cage	cage	N	1	
-12	,	,	O	1	
-13	revenant	revenir	V	1	
-14	d'	d'	P	1	
-15	un	un	D	1	
-16	safari	safari	N	1	
-17	très	très	G	1	
-18	respectueux	respectueux	G	1	
-19	des	des	P	1	
-20	animaux	animal	N	1	
-21	sauvages	sauvage	G	1	
-22	.	.	O	1	
+1	nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	été	être	V	1	O
+4	choqués	choquer	V	1	O
+5	du	du	D	1	O
+6	spectacle	spectacle	N	1	O
+7	de	de	P	1	O
+8	ces	ce	D	1	O
+9	guépards	guépard	N	1	O
+10	en	en	P	1	O
+11	cage	cage	N	1	O
+12	,	,	O	1	O
+13	revenant	revenir	V	1	O
+14	d'	d'	P	1	O
+15	un	un	D	1	O
+16	safari	safari	N	1	O
+17	très	très	G	1	O
+18	respectueux	respectueux	G	1	O
+19	des	des	P	1	O
+20	animaux	animal	N	1	O
+21	sauvages	sauvage	G	1	O
+22	.	.	O	1	O
 
-1	Le	le	D	1	
-2	guépard	guépard	N	1	
-3	était	être	V	1	
-4	nerveux	nerveux	G	1	
-5	,	,	O	1	
-6	nous	lui	Q	1	
-7	étions	être	V	1	
-8	six	six	G	1	
-9	et	et	C	1	
-10	pour	pour	P	1	
-11	justifier	justifier	V	1	
-12	le	le	D	1	
-13	prix	prix	N	1	
-14	très	très	G	1	
-15	élevé	élever	G	1	
-16	de	de	P	1	
-17	la	le	D	1	
-18	caresse	caresse	N	1	
-19	,	,	O	1	
-20	ils	ils	Q	1	
-21	lui	lui	Q	1	
-22	ont	avoir	V	1	
-23	soit	être	V	1	
-24	·	·	P	1	
-25	disant	dire	V	1	
-26	donné	donner	V	1	
-27	à	à	P	1	
-28	manger	manger	V	1	
-29	mais	mais	C	1	
-30	quand	quand	C	1	
-31	nous	lui	Q	1	
-32	avons	avoir	V	1	
-33	pu	pouvoir	V	1	
-34	aller	aller	V	1	
-35	dans	dans	P	1	
-36	l'	le	D	1	
-37	enclos	enclos	N	1	
-38	,	,	O	1	
-39	le	le	D	1	
-40	guépard	guépard	N	1	
-41	était	être	V	1	
-42	allongé	allonger	V	1	
-43	et	et	C	1	
-44	assurément	assurément	V	1	
-45	assommé	assommer	V	1	
-46	par	par	P	1	
-47	des	un	D	1	
-48	calmants	calmant	N	1	
-49	ce	ce	P	1	
-50	qui	qui	P	1	
-51	me	me	Q	1	
-52	parait	parer	V	1	
-53	inadmissible	inadmissible	G	1	
-54	...	...	O	1	
+1	Le	le	D	1	O
+2	guépard	guépard	N	1	O
+3	était	être	V	1	O
+4	nerveux	nerveux	G	1	O
+5	,	,	O	1	O
+6	nous	lui	Q	1	O
+7	étions	être	V	1	O
+8	six	six	G	1	O
+9	et	et	C	1	O
+10	pour	pour	P	1	O
+11	justifier	justifier	V	1	O
+12	le	le	D	1	O
+13	prix	prix	N	1	O
+14	très	très	G	1	O
+15	élevé	élever	G	1	O
+16	de	de	P	1	O
+17	la	le	D	1	O
+18	caresse	caresse	N	1	O
+19	,	,	O	1	O
+20	ils	ils	Q	1	O
+21	lui	lui	Q	1	O
+22	ont	avoir	V	1	O
+23	soit	être	V	1	O
+24	·	·	P	1	O
+25	disant	dire	V	1	O
+26	donné	donner	V	1	O
+27	à	à	P	1	O
+28	manger	manger	V	1	O
+29	mais	mais	C	1	O
+30	quand	quand	C	1	O
+31	nous	lui	Q	1	O
+32	avons	avoir	V	1	O
+33	pu	pouvoir	V	1	O
+34	aller	aller	V	1	O
+35	dans	dans	P	1	O
+36	l'	le	D	1	O
+37	enclos	enclos	N	1	O
+38	,	,	O	1	O
+39	le	le	D	1	O
+40	guépard	guépard	N	1	O
+41	était	être	V	1	O
+42	allongé	allonger	V	1	O
+43	et	et	C	1	O
+44	assurément	assurément	V	1	O
+45	assommé	assommer	V	1	O
+46	par	par	P	1	O
+47	des	un	D	1	O
+48	calmants	calmant	N	1	O
+49	ce	ce	P	1	O
+50	qui	qui	P	1	O
+51	me	me	Q	1	O
+52	parait	parer	V	1	O
+53	inadmissible	inadmissible	G	1	O
+54	...	...	O	1	O
 
-1	Cela	Cela	P	1	
-2	dit	dire	V	1	
-3	les	le	D	1	
-4	enfants	enfant	N	1	
-5	ont	avoir	V	1	
-6	été	être	V	1	
-7	aux	aux	P	1	
-8	anges	ange	N	1	
-9	et	et	C	1	
-10	leur	son	D	1	
-11	action	action	N	1	
-12	d'	d'	P	1	
-13	élever	élever	V	1	
-14	des	un	D	1	
-15	chiens	chien	N	1	
-16	de	de	P	1	
-17	garde	garde	N	1	
-18	pour	pour	P	1	
-19	protéger	protéger	V	1	
-20	les	le	D	1	
-21	troupeaux	troupeau	N	1	
-22	des	des	P	1	
-23	guépards	guépard	N	1	
-24	est	être	V	1	
-25	intéressante.	intéressante.	V	1	
-26	les	le	D	1	
-27	guépards	guépard	N	1	
-28	servent	servir	V	1	
-29	avant	avant	P	1	
-30	tout	tout	G	1	
-31	d'	d'	P	1	
-32	attrape	attrape	N	1	
-33	·	·	G	1	
-34	touriste	touriste	N	1	
-35	pour	pour	P	1	
-36	financer	financer	V	1	
-37	leur	son	D	1	
-38	élevage	élevage	N	1	
-39	...	...	O	1	
-40	Je	Je	Q	1	
-41	recommanderai	recommander	V	1	
-42	pas	pas	G	1	
-43	cette	ce	D	1	
-44	visite	visite	N	1	
-45	qui	qui	P	1	
-46	nous	lui	Q	1	
-47	a	avoir	V	1	
-48	beaucoup	beaucoup	G	1	
-49	dérangés	dérangé	N	1	
+1	Cela	Cela	P	1	O
+2	dit	dire	V	1	O
+3	les	le	D	1	O
+4	enfants	enfant	N	1	O
+5	ont	avoir	V	1	O
+6	été	être	V	1	O
+7	aux	aux	P	1	O
+8	anges	ange	N	1	O
+9	et	et	C	1	O
+10	leur	son	D	1	O
+11	action	action	N	1	O
+12	d'	d'	P	1	O
+13	élever	élever	V	1	O
+14	des	un	D	1	O
+15	chiens	chien	N	1	O
+16	de	de	P	1	O
+17	garde	garde	N	1	O
+18	pour	pour	P	1	O
+19	protéger	protéger	V	1	O
+20	les	le	D	1	O
+21	troupeaux	troupeau	N	1	O
+22	des	des	P	1	O
+23	guépards	guépard	N	1	O
+24	est	être	V	1	O
+25	intéressante.	intéressante.	V	1	O
+26	les	le	D	1	O
+27	guépards	guépard	N	1	O
+28	servent	servir	V	1	O
+29	avant	avant	P	1	O
+30	tout	tout	G	1	O
+31	d'	d'	P	1	O
+32	attrape	attrape	N	1	O
+33	·	·	G	1	O
+34	touriste	touriste	N	1	O
+35	pour	pour	P	1	O
+36	financer	financer	V	1	O
+37	leur	son	D	1	O
+38	élevage	élevage	N	1	O
+39	...	...	O	1	O
+40	Je	Je	Q	1	O
+41	recommanderai	recommander	V	1	O
+42	pas	pas	G	1	O
+43	cette	ce	D	1	O
+44	visite	visite	N	1	O
+45	qui	qui	P	1	O
+46	nous	lui	Q	1	O
+47	a	avoir	V	1	O
+48	beaucoup	beaucoup	G	1	O
+49	dérangés	dérangé	N	1	O
 

@@ -1,53 +1,53 @@
-1	Un	un	D	1	
-2	parc	parc	N	1	
-3	surprenant	surprenant	G	1	
+1	Un	un	D	1	O
+2	parc	parc	N	1	O
+3	surprenant	surprenant	G	1	O
 
-1	Des	Des	P	1	
-2	marmottes	marmotte	N	1	
-3	,	,	O	1	
-4	des	des	P	1	
-5	ours	ours	N	1	
-6	,	,	O	1	
-7	des	un	D	1	
-8	lynx	lynx	N	1	
-9	,	,	O	1	
-10	des	un	D	1	
-11	loups	loup	N	1	
-12	et	et	C	1	
-13	un	un	D	1	
-14	aprc	aprc	N	1	
-15	à	à	P	1	
-16	chèvres	chèvre	N	1	
-17	pour	pour	P	1	
-18	les	le	D	1	
-19	plus	plus	G	1	
-20	petits.	petits.	G	1	
-21	ce	ce	Q	1	
-22	n'	n'	G	1	
-23	est	être	V	1	
-24	qu'	qu'	G	1	
-25	un	un	D	1	
-26	aperçu	aperçu	N	1	
-27	de	de	P	1	
-28	tous	tout	G	1	
-29	les	le	D	1	
-30	animaux	animal	N	1	
-31	présentés	présenter	V	1	
-32	dans	dans	P	1	
-33	des	un	D	1	
-34	conditions	condition	N	1	
-35	optimales	optimal	G	1	
-36	dans	dans	P	1	
-37	ce	ce	D	1	
-38	parc	parc	N	1	
-39	très	très	G	1	
-40	propre	propre	G	1	
-41	et	et	C	1	
-42	très	très	G	1	
-43	convivial	convivial	G	1	
+1	Des	Des	P	1	O
+2	marmottes	marmotte	N	1	O
+3	,	,	O	1	O
+4	des	des	P	1	O
+5	ours	ours	N	1	O
+6	,	,	O	1	O
+7	des	un	D	1	O
+8	lynx	lynx	N	1	O
+9	,	,	O	1	O
+10	des	un	D	1	O
+11	loups	loup	N	1	O
+12	et	et	C	1	O
+13	un	un	D	1	O
+14	aprc	aprc	N	1	O
+15	à	à	P	1	O
+16	chèvres	chèvre	N	1	O
+17	pour	pour	P	1	O
+18	les	le	D	1	O
+19	plus	plus	G	1	O
+20	petits.	petits.	G	1	O
+21	ce	ce	Q	1	O
+22	n'	n'	G	1	O
+23	est	être	V	1	O
+24	qu'	qu'	G	1	O
+25	un	un	D	1	O
+26	aperçu	aperçu	N	1	O
+27	de	de	P	1	O
+28	tous	tout	G	1	O
+29	les	le	D	1	O
+30	animaux	animal	N	1	O
+31	présentés	présenter	V	1	O
+32	dans	dans	P	1	O
+33	des	un	D	1	O
+34	conditions	condition	N	1	O
+35	optimales	optimal	G	1	O
+36	dans	dans	P	1	O
+37	ce	ce	D	1	O
+38	parc	parc	N	1	O
+39	très	très	G	1	O
+40	propre	propre	G	1	O
+41	et	et	C	1	O
+42	très	très	G	1	O
+43	convivial	convivial	G	1	O
 
-1	A	A	P	1	
-2	faire	faire	V	1	
-3	absolument	absolument	G	1	
-4	!	!	O	1	
+1	A	A	P	1	O
+2	faire	faire	V	1	O
+3	absolument	absolument	G	1	O
+4	!	!	O	1	O
 

@@ -1,104 +1,104 @@
-1	Budget	Budget	R	1	
-2	stay	stay	N	1	
-3	in	in	P	1	
-4	Paris	Paris	R	1	ne=Location
+1	Budget	Budget	R	1	O
+2	stay	stay	N	1	O
+3	in	in	P	1	O
+4	Paris	Paris	R	1	I-Location
 
-1	I	i	Q	1	
-2	suppose	suppose	V	1	
-3	you	you	Q	1	
-4	get	get	V	1	
-5	what	what	Q	1	
-6	you	you	Q	1	
-7	pay	pay	V	1	
-8	for	for	P	1	
-9	.	.	O	1	
+1	I	i	Q	1	O
+2	suppose	suppose	V	1	O
+3	you	you	Q	1	O
+4	get	get	V	1	O
+5	what	what	Q	1	O
+6	you	you	Q	1	O
+7	pay	pay	V	1	O
+8	for	for	P	1	O
+9	.	.	O	1	O
 
-1	The	the	D	1	
-2	breakfast	breakfast	N	1	
-3	was	be	V	1	
-4	decent	decent	G	1	
-5	enough	enough	N	1	
-6	.	.	O	1	
+1	The	the	D	1	O
+2	breakfast	breakfast	N	1	O
+3	was	be	V	1	O
+4	decent	decent	G	1	O
+5	enough	enough	N	1	O
+6	.	.	O	1	O
 
-1	The	the	D	1	
-2	accommodation	accommodation	N	1	
-3	itself	itself	Q	1	
-4	left	leave	V	1	
-5	something	something	N	1	
-6	to	to	P	1	
-7	be	be	V	1	
-8	desired	desire	V	1	
-9	:	:	O	1	
-10	the	the	D	1	
-11	room	room	N	1	
-12	was	be	V	1	
-13	rather	rather	A	1	
-14	small	small	G	1	
-15	(	(	O	1	
-16	the	the	D	1	
-17	twin	twin	N	1	
-18	bed	bed	N	1	
-19	took	take	V	1	
-20	up	up	A	1	
-21	2	2	O	1	
-22	/	/	P	1	
-23	3rds	3rds	N	1	
-24	of	of	P	1	
-25	the	the	D	1	
-26	space	space	N	1	
-27	)	)	O	1	
-28	;	;	O	1	
-29	the	the	D	1	
-30	bathroom	bathroom	N	1	
-31	was	be	V	1	
-32	very	very	A	1	
-33	small	small	G	1	
-34	,	,	O	1	
-35	with	with	P	1	
-36	gaps	gap	N	1	
-37	in	in	P	1	
-38	the	the	D	1	
-39	wall	wall	N	1	
-40	and	and	C	1	
-41	exposed	exposed	G	1	
-42	pipes	pipe	N	1	
-43	that	that	O	1	
-44	were	be	V	1	
-45	rather	rather	A	1	
-46	noisy	noisy	A	1	
-47	.	.	O	1	
+1	The	the	D	1	O
+2	accommodation	accommodation	N	1	O
+3	itself	itself	Q	1	O
+4	left	leave	V	1	O
+5	something	something	N	1	O
+6	to	to	P	1	O
+7	be	be	V	1	O
+8	desired	desire	V	1	O
+9	:	:	O	1	O
+10	the	the	D	1	O
+11	room	room	N	1	O
+12	was	be	V	1	O
+13	rather	rather	A	1	O
+14	small	small	G	1	O
+15	(	(	O	1	O
+16	the	the	D	1	O
+17	twin	twin	N	1	O
+18	bed	bed	N	1	O
+19	took	take	V	1	O
+20	up	up	A	1	O
+21	2	2	O	1	O
+22	/	/	P	1	O
+23	3rds	3rds	N	1	O
+24	of	of	P	1	O
+25	the	the	D	1	O
+26	space	space	N	1	O
+27	)	)	O	1	O
+28	;	;	O	1	O
+29	the	the	D	1	O
+30	bathroom	bathroom	N	1	O
+31	was	be	V	1	O
+32	very	very	A	1	O
+33	small	small	G	1	O
+34	,	,	O	1	O
+35	with	with	P	1	O
+36	gaps	gap	N	1	O
+37	in	in	P	1	O
+38	the	the	D	1	O
+39	wall	wall	N	1	O
+40	and	and	C	1	O
+41	exposed	exposed	G	1	O
+42	pipes	pipe	N	1	O
+43	that	that	O	1	O
+44	were	be	V	1	O
+45	rather	rather	A	1	O
+46	noisy	noisy	A	1	O
+47	.	.	O	1	O
 
-1	There	there	O	1	
-2	was	be	V	1	
-3	a	a	D	1	
-4	certain	certain	G	1	
-5	amount	amount	N	1	
-6	of	of	P	1	
-7	dust	dust	N	1	
-8	on	on	P	1	
-9	the	the	D	1	
-10	floor	floor	N	1	
-11	.	.	O	1	
+1	There	there	O	1	O
+2	was	be	V	1	O
+3	a	a	D	1	O
+4	certain	certain	G	1	O
+5	amount	amount	N	1	O
+6	of	of	P	1	O
+7	dust	dust	N	1	O
+8	on	on	P	1	O
+9	the	the	D	1	O
+10	floor	floor	N	1	O
+11	.	.	O	1	O
 
-1	The	the	D	1	
-2	location	location	N	1	
-3	itself	itself	Q	1	
-4	was	be	V	1	
-5	rather	rather	A	1	
-6	good	good	G	1	
-7	,	,	O	1	
-8	with	with	P	1	
-9	a	a	D	1	
-10	number	number	N	1	
-11	of	of	P	1	
-12	decent	decent	G	1	
-13	shops	shop	N	1	
-14	and	and	C	1	
-15	restaurants	restaurant	N	1	
-16	that	that	P	1	
-17	I	i	Q	1	
-18	made	make	V	1	
-19	use	use	N	1	
-20	of	of	P	1	
-21	.	.	O	1	
+1	The	the	D	1	O
+2	location	location	N	1	O
+3	itself	itself	Q	1	O
+4	was	be	V	1	O
+5	rather	rather	A	1	O
+6	good	good	G	1	O
+7	,	,	O	1	O
+8	with	with	P	1	O
+9	a	a	D	1	O
+10	number	number	N	1	O
+11	of	of	P	1	O
+12	decent	decent	G	1	O
+13	shops	shop	N	1	O
+14	and	and	C	1	O
+15	restaurants	restaurant	N	1	O
+16	that	that	P	1	O
+17	I	i	Q	1	O
+18	made	make	V	1	O
+19	use	use	N	1	O
+20	of	of	P	1	O
+21	.	.	O	1	O
 

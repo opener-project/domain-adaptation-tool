@@ -1,158 +1,164 @@
-1	Essen	Essen	N	1	
-2	gut	gut	G	1	
-3	·	·	O	1	
-4	alles	alle	Q	1	
-5	gut	gut	G	1	
+1	Essen	Essen	N	1	O
+2	gut	gut	G	1	O
+3	·	·	O	1	O
+4	alles	alle	Q	1	O
+5	gut	gut	G	1	O
 
-1	Normalerweise	normalerweise	A	1	
-2	hatten	haben	V	1	
-3	wir	wir	Q	1	
-4	ein	eine	D	1	
-5	Doppelzimmer	Doppelzimmer	N	1	
-6	m	m	N	1	
-7	benachbarten	benachbart	G	1	
-8	Hotel_"_Iberostar_Albufera_Playa	Hotel_"_Iberostar_Albufera_Playa	R	1	ne=Hotel
-9	"	"	O	1	
-10	gebucht	buchen	V	1	
-11	.	.	O	1	
+1	Normalerweise	normalerweise	A	1	O
+2	hatten	haben	V	1	O
+3	wir	wir	Q	1	O
+4	ein	eine	D	1	O
+5	Doppelzimmer	Doppelzimmer	N	1	O
+6	m	m	N	1	O
+7	benachbarten	benachbart	G	1	O
+8	Hotel	Hotel	N	1	I-Hotel
+9	"	"	O	1	I-Hotel
+10	Iberostar	Iberostar	O	1	I-Hotel
+11	Albufera	Albufera	O	1	I-Hotel
+12	Playa	Playa	R	1	I-Hotel
+13	"	"	O	1	O
+14	gebucht	buchen	V	1	O
+15	.	.	O	1	O
 
-1	Da	da	A	1	
-2	dieses	dies	Q	1	
-3	"	"	O	1	
-4	last	lesen	V	1	
-5	minute	Minute	N	1	
-6	"	"	O	1	
-7	gebucht	buchen	V	1	
-8	worden	werden	V	1	
-9	ist	sein	V	1	
-10	und	und	C	1	
-11	alle	alle	Q	1	
-12	Zimmer	Zimmer	N	1	
-13	ausgebucht	ausbuchen	V	1	
-14	waren	sein	V	1	
-15	,	,	O	1	
-16	haben	haben	V	1	
-17	wir	wir	Q	1	
-18	stattdessen	stattdessen	A	1	
-19	ein	eine	D	1	
-20	Appartement	Appartement	N	1	
-21	im	in	P	1	
-22	Albufera_Park	Albufera_Park	R	1	ne=Hotel
-23	bekommen	bekommen	V	1	
-24	.	.	O	1	
+1	Da	da	A	1	O
+2	dieses	dies	Q	1	O
+3	"	"	O	1	O
+4	last	lesen	V	1	O
+5	minute	Minute	N	1	O
+6	"	"	O	1	O
+7	gebucht	buchen	V	1	O
+8	worden	werden	V	1	O
+9	ist	sein	V	1	O
+10	und	und	C	1	O
+11	alle	alle	Q	1	O
+12	Zimmer	Zimmer	N	1	O
+13	ausgebucht	ausbuchen	V	1	O
+14	waren	sein	V	1	O
+15	,	,	O	1	O
+16	haben	haben	V	1	O
+17	wir	wir	Q	1	O
+18	stattdessen	stattdessen	A	1	O
+19	ein	eine	D	1	O
+20	Appartement	Appartement	N	1	O
+21	im	in	P	1	O
+22	Albufera	Albufera	O	1	I-Hotel
+23	Park	Park	N	1	I-Hotel
+24	bekommen	bekommen	V	1	O
+25	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Ausstattung	Ausstattung	N	1	
-3	dieses	dies	Q	1	
-4	Zimmers	Zimmer	N	1	
-5	war	sein	V	1	
-6	super	super	G	1	
-7	.	.	O	1	
+1	Die	die	D	1	O
+2	Ausstattung	Ausstattung	N	1	O
+3	dieses	dies	Q	1	O
+4	Zimmers	Zimmer	N	1	O
+5	war	sein	V	1	O
+6	super	super	G	1	O
+7	.	.	O	1	O
 
-1	Uns	wir	Q	1	
-2	standen	stehen	V	1	
-3	eine	eine	D	1	
-4	Küchenzeile	Küchenzeile	N	1	
-5	,	,	O	1	
-6	Mikrowelle	Mikrowelle	N	1	
-7	und	und	C	1	
-8	auch	auch	A	1	
-9	ein	eine	D	1	
-10	Kühlschrank	Kühlschrank	N	1	
-11	zur	zu	P	1	
-12	Verfügung	Verfügung	N	1	
-13	.	.	O	1	
+1	Uns	wir	Q	1	O
+2	standen	stehen	V	1	O
+3	eine	eine	D	1	O
+4	Küchenzeile	Küchenzeile	N	1	O
+5	,	,	O	1	O
+6	Mikrowelle	Mikrowelle	N	1	O
+7	und	und	C	1	O
+8	auch	auch	A	1	O
+9	ein	eine	D	1	O
+10	Kühlschrank	Kühlschrank	N	1	O
+11	zur	zu	P	1	O
+12	Verfügung	Verfügung	N	1	O
+13	.	.	O	1	O
 
-1	Lediglich	lediglich	A	1	
-2	der	die	D	1	
-3	Safe	Safe	N	1	
-4	musste	müssen	V	1	
-5	gemietet	mieten	V	1	
-6	werden	werden	V	1	
-7	für	für	P	1	
-8	ca.	ca.	A	1	
-9	15_€	15_€	R	1	ne=Money
-10	.	.	O	1	
+1	Lediglich	lediglich	A	1	O
+2	der	die	D	1	O
+3	Safe	Safe	N	1	O
+4	musste	müssen	V	1	O
+5	gemietet	mieten	V	1	O
+6	werden	werden	V	1	O
+7	für	für	P	1	O
+8	ca.	ca.	A	1	O
+9	15	15	O	1	I-Money
+10	€	€	O	1	I-Money
+11	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	verfügte	verfügen	V	1	
-4	über	über	P	1	
-5	Meerblick	Meerblick	N	1	
-6	.	.	O	1	
+1	Das	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	verfügte	verfügen	V	1	O
+4	über	über	P	1	O
+5	Meerblick	Meerblick	N	1	O
+6	.	.	O	1	O
 
-1	Entfernung	Entfernung	N	1	
-2	zum	zu	P	1	
-3	Strand	Strand	N	1	
-4	ca.	ca.	A	1	
-5	50m	50m	O	1	
-6	.	.	O	1	
+1	Entfernung	Entfernung	N	1	O
+2	zum	zu	P	1	O
+3	Strand	Strand	N	1	O
+4	ca.	ca.	A	1	O
+5	50m	50m	O	1	O
+6	.	.	O	1	O
 
-1	Direkt	direkt	G	1	
-2	an	an	P	1	
-3	der	die	D	1	
-4	Hotelanlage	Hotelanlage	N	1	
-5	gab	geben	V	1	
-6	es	es	Q	1	
-7	ein	eine	D	1	
-8	paar	paar	Q	1	
-9	Supermärkte	Supermarkt	N	1	
-10	,	,	O	1	
-11	nicht	nicht	O	1	
-12	grade	Grad	N	1	
-13	die	die	D	1	
-14	Günstigsten	günstig	G	1	
-15	,	,	O	1	
-16	jedoch	jedoch	A	1	
-17	akzeptabel	akzeptabel	G	1	
-18	.	.	O	1	
+1	Direkt	direkt	G	1	O
+2	an	an	P	1	O
+3	der	die	D	1	O
+4	Hotelanlage	Hotelanlage	N	1	O
+5	gab	geben	V	1	O
+6	es	es	Q	1	O
+7	ein	eine	D	1	O
+8	paar	paar	Q	1	O
+9	Supermärkte	Supermarkt	N	1	O
+10	,	,	O	1	O
+11	nicht	nicht	O	1	O
+12	grade	Grad	N	1	O
+13	die	die	D	1	O
+14	Günstigsten	günstig	G	1	O
+15	,	,	O	1	O
+16	jedoch	jedoch	A	1	O
+17	akzeptabel	akzeptabel	G	1	O
+18	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	ein	eine	D	1	
-3	paar	paar	Q	1	
-4	wenige	wenige	Q	1	
-5	Bars	Bar	N	1	
-6	und	und	C	1	
-7	Restaurants	Restaurant	N	1	
-8	waren	sein	V	1	
-9	in	in	P	1	
-10	der	die	D	1	
-11	Nähe	Nähe	N	1	
-12	zu	zu	O	1	
-13	finden	finden	V	1	
-14	.	.	O	1	
+1	Auch	auch	A	1	O
+2	ein	eine	D	1	O
+3	paar	paar	Q	1	O
+4	wenige	wenige	Q	1	O
+5	Bars	Bar	N	1	O
+6	und	und	C	1	O
+7	Restaurants	Restaurant	N	1	O
+8	waren	sein	V	1	O
+9	in	in	P	1	O
+10	der	die	D	1	O
+11	Nähe	Nähe	N	1	O
+12	zu	zu	O	1	O
+13	finden	finden	V	1	O
+14	.	.	O	1	O
 
-1	Sauberkeit	Sauberkeit	N	1	
-2	der	die	D	1	
-3	gesamten	gesamt	G	1	
-4	Hotelanlage	Hotelanlage	N	1	
-5	war	sein	V	1	
-6	Top	Top	R	1	
-7	,	,	O	1	
-8	das	die	D	1	
-9	Essen	Essen	N	1	
-10	unbeschreiblich	unbeschreiblich	G	1	
-11	gut	gut	G	1	
-12	.	.	O	1	
+1	Sauberkeit	Sauberkeit	N	1	O
+2	der	die	D	1	O
+3	gesamten	gesamt	G	1	O
+4	Hotelanlage	Hotelanlage	N	1	O
+5	war	sein	V	1	O
+6	Top	Top	R	1	O
+7	,	,	O	1	O
+8	das	die	D	1	O
+9	Essen	Essen	N	1	O
+10	unbeschreiblich	unbeschreiblich	G	1	O
+11	gut	gut	G	1	O
+12	.	.	O	1	O
 
-1	Für	für	P	1	
-2	Familien	Familie	N	1	
-3	oder	oder	C	1	
-4	Paare	Paar	N	1	
-5	die	die	D	1	
-6	entspannten	entspannt	G	1	
-7	Badeurlaub	Badeurlaub	N	1	
-8	machen	machen	V	1	
-9	wollen	wollen	V	1	
-10	,	,	O	1	
-11	ist	sein	V	1	
-12	dieses	dies	Q	1	
-13	Hotel	Hotel	N	1	
-14	fast	fast	A	1	
-15	schon	schon	A	1	
-16	ein	eine	D	1	
-17	"	"	O	1	
-18	MUSS	Muss	N	1	
-19	"	"	O	1	
-20	.	.	O	1	
+1	Für	für	P	1	O
+2	Familien	Familie	N	1	O
+3	oder	oder	C	1	O
+4	Paare	Paar	N	1	O
+5	die	die	D	1	O
+6	entspannten	entspannt	G	1	O
+7	Badeurlaub	Badeurlaub	N	1	O
+8	machen	machen	V	1	O
+9	wollen	wollen	V	1	O
+10	,	,	O	1	O
+11	ist	sein	V	1	O
+12	dieses	dies	Q	1	O
+13	Hotel	Hotel	N	1	O
+14	fast	fast	A	1	O
+15	schon	schon	A	1	O
+16	ein	eine	D	1	O
+17	"	"	O	1	O
+18	MUSS	Muss	N	1	O
+19	"	"	O	1	O
+20	.	.	O	1	O
 

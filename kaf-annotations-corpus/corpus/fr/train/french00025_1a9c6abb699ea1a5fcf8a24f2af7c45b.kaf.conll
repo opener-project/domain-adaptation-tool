@@ -1,150 +1,150 @@
-1	Animateurs	animateur	N	1	
-2	Haykel	Haykel	R	1	ne=Person
-3	et	et	C	1	
-4	Karim	Karim	R	1	ne=Person
-5	alias	alias	G	1	
-6	Kimo	Kimo	N	1	
+1	Animateurs	animateur	N	1	O
+2	Haykel	Haykel	R	1	I-Person
+3	et	et	C	1	O
+4	Karim	Karim	R	1	I-Person
+5	alias	alias	G	1	O
+6	Kimo	Kimo	N	1	O
 
-1	Outre	Outre	P	1	
-2	le	le	D	1	
-3	fait	fait	N	1	
-4	que	que	C	1	
-5	l’	l’	D	1	
-6	hôtel	hôtel	N	1	
-7	est	être	V	1	
-8	très	très	G	1	
-9	beau	beau	G	1	
-10	,	,	O	1	
-11	que	que	C	1	
-12	la	le	D	1	
-13	piscine	piscine	N	1	
-14	est	être	V	1	
-15	immense	immense	G	1	
-16	,	,	O	1	
-17	que	que	C	1	
-18	les	le	D	1	
-19	chambres	chambre	N	1	
-20	sont	être	V	1	
-21	correctes	correct	G	1	
-22	,	,	O	1	
-23	que	que	C	1	
-24	les	le	D	1	
-25	russes	russe	G	1	
-26	sont	être	V	1	
-27	sans	sans]	P	1	
-28	gènes	gène	N	1	
-29	,	,	O	1	
-30	qu’	qu’	C	1	
-31	Hurghada	Hurghada	R	1	ne=Location
-32	ne	ne	G	1	
-33	soit	être	V	1	
-34	pas	pas	G	1	
-35	la	le	D	1	
-36	plus	plus	G	1	
-37	belle	beau	G	1	
-38	ville	ville	N	1	
-39	que	que	C	1	
-40	j’	j’	P	1	
-41	ai	avoir	V	1	
-42	vu	voir	V	1	
-43	(	(	O	1	
-44	loin	loin	G	1	
-45	de	de	P	1	
-46	là	là	G	1	
-47	)	)	O	1	
-48	et	et	C	1	
-49	que	que	C	1	
-50	la	le	D	1	
-51	nourriture	nourriture	N	1	
-52	de	de	P	1	
-53	l’	l’	D	1	
-54	hôtel	hôtel	N	1	
-55	ne	ne	G	1	
-56	soit	être	V	1	
-57	pas	pas	G	1	
-58	terrible	terrible	G	1	
-59	du	du	P	1	
-60	tout	tout	G	1	
-61	,	,	O	1	
-62	je	je	Q	1	
-63	tiens	tenir	V	1	
-64	surtout	surtout	G	1	
-65	à	à	P	1	
-66	remercier	remercier	V	1	
-67	Haykel	Haykel	R	1	ne=Person
-68	et	et	C	1	
-69	Kimo	Kimo	R	1	ne=Person
-70	,	,	O	1	
-71	les	le	D	1	
-72	seuls	seul	G	1	
-73	animateurs	animateur	N	1	
-74	francophones	francophone	G	1	
-75	de	de	P	1	
-76	l’	l’	D	1	
-77	hôtel	hôtel	N	1	
-78	(	(	O	1	
-79	les	le	D	1	
-80	autres	autres	P	1	
-81	ne	ne	G	1	
-82	nous	lui	Q	1	
-83	parlait	parler	V	1	
-84	quasi	quasi	G	1	
-85	pas	pas	G	1	
-86	)	)	O	1	
-87	avec	avec	P	1	
-88	qui	qui	P	1	
-89	nous	lui	Q	1	
-90	étions	être	V	1	
-91	quasi	quasi	G	1	
-92	tous	tout	G	1	
-93	les	le	D	1	
-94	jours	jour	N	1	
-95	.	.	O	1	
+1	Outre	Outre	P	1	O
+2	le	le	D	1	O
+3	fait	fait	N	1	O
+4	que	que	C	1	O
+5	l’	l’	D	1	O
+6	hôtel	hôtel	N	1	O
+7	est	être	V	1	O
+8	très	très	G	1	O
+9	beau	beau	G	1	O
+10	,	,	O	1	O
+11	que	que	C	1	O
+12	la	le	D	1	O
+13	piscine	piscine	N	1	O
+14	est	être	V	1	O
+15	immense	immense	G	1	O
+16	,	,	O	1	O
+17	que	que	C	1	O
+18	les	le	D	1	O
+19	chambres	chambre	N	1	O
+20	sont	être	V	1	O
+21	correctes	correct	G	1	O
+22	,	,	O	1	O
+23	que	que	C	1	O
+24	les	le	D	1	O
+25	russes	russe	G	1	O
+26	sont	être	V	1	O
+27	sans	sans]	P	1	O
+28	gènes	gène	N	1	O
+29	,	,	O	1	O
+30	qu’	qu’	C	1	O
+31	Hurghada	Hurghada	R	1	I-Location
+32	ne	ne	G	1	O
+33	soit	être	V	1	O
+34	pas	pas	G	1	O
+35	la	le	D	1	O
+36	plus	plus	G	1	O
+37	belle	beau	G	1	O
+38	ville	ville	N	1	O
+39	que	que	C	1	O
+40	j’	j’	P	1	O
+41	ai	avoir	V	1	O
+42	vu	voir	V	1	O
+43	(	(	O	1	O
+44	loin	loin	G	1	O
+45	de	de	P	1	O
+46	là	là	G	1	O
+47	)	)	O	1	O
+48	et	et	C	1	O
+49	que	que	C	1	O
+50	la	le	D	1	O
+51	nourriture	nourriture	N	1	O
+52	de	de	P	1	O
+53	l’	l’	D	1	O
+54	hôtel	hôtel	N	1	O
+55	ne	ne	G	1	O
+56	soit	être	V	1	O
+57	pas	pas	G	1	O
+58	terrible	terrible	G	1	O
+59	du	du	P	1	O
+60	tout	tout	G	1	O
+61	,	,	O	1	O
+62	je	je	Q	1	O
+63	tiens	tenir	V	1	O
+64	surtout	surtout	G	1	O
+65	à	à	P	1	O
+66	remercier	remercier	V	1	O
+67	Haykel	Haykel	R	1	I-Person
+68	et	et	C	1	O
+69	Kimo	Kimo	R	1	I-Person
+70	,	,	O	1	O
+71	les	le	D	1	O
+72	seuls	seul	G	1	O
+73	animateurs	animateur	N	1	O
+74	francophones	francophone	G	1	O
+75	de	de	P	1	O
+76	l’	l’	D	1	O
+77	hôtel	hôtel	N	1	O
+78	(	(	O	1	O
+79	les	le	D	1	O
+80	autres	autres	P	1	O
+81	ne	ne	G	1	O
+82	nous	lui	Q	1	O
+83	parlait	parler	V	1	O
+84	quasi	quasi	G	1	O
+85	pas	pas	G	1	O
+86	)	)	O	1	O
+87	avec	avec	P	1	O
+88	qui	qui	P	1	O
+89	nous	lui	Q	1	O
+90	étions	être	V	1	O
+91	quasi	quasi	G	1	O
+92	tous	tout	G	1	O
+93	les	le	D	1	O
+94	jours	jour	N	1	O
+95	.	.	O	1	O
 
-1	D’	D’	P	1	
-2	une	un	D	1	
-3	part	part	N	1	
-4	pour	pour	P	1	
-5	la	le	D	1	
-6	pétanque	pétanque	N	1	
-7	,	,	O	1	
-8	qui	qui	P	1	
-9	était	être	V	1	
-10	l’	l’	D	1	
-11	animation	animation	N	1	
-12	qui	qui	P	1	
-13	regroupait	regrouper	V	1	
-14	tous	tout	G	1	
-15	les	le	D	1	
-16	francophones	francophones	N	1	
-17	ou	ou	C	1	
-18	presque	presque	G	1	
-19	et	et	C	1	
-20	d’	d’	P	1	
-21	autre	autre	P	1	
-22	part	part	N	1	
-23	pour	pour	P	1	
-24	simplement	simplement	G	1	
-25	parler	parler	V	1	
-26	avec	avec	P	1	
-27	eux	eux	P	1	
-28	car	car	C	1	
-29	ce	ce	Q	1	
-30	sont	être	V	1	
-31	deux	deux	D	1	
-32	personnes	personne	N	1	
-33	très	très	G	1	
-34	sympathiques	sympathique	G	1	
-35	avec	avec	P	1	
-36	qui	qui	P	1	
-37	nous	lui	Q	1	
-38	avons	avoir	V	1	
-39	bien	bien	G	1	
-40	rigolés	rigoler	V	1	
-41	.	.	O	1	
+1	D’	D’	P	1	O
+2	une	un	D	1	O
+3	part	part	N	1	O
+4	pour	pour	P	1	O
+5	la	le	D	1	O
+6	pétanque	pétanque	N	1	O
+7	,	,	O	1	O
+8	qui	qui	P	1	O
+9	était	être	V	1	O
+10	l’	l’	D	1	O
+11	animation	animation	N	1	O
+12	qui	qui	P	1	O
+13	regroupait	regrouper	V	1	O
+14	tous	tout	G	1	O
+15	les	le	D	1	O
+16	francophones	francophones	N	1	O
+17	ou	ou	C	1	O
+18	presque	presque	G	1	O
+19	et	et	C	1	O
+20	d’	d’	P	1	O
+21	autre	autre	P	1	O
+22	part	part	N	1	O
+23	pour	pour	P	1	O
+24	simplement	simplement	G	1	O
+25	parler	parler	V	1	O
+26	avec	avec	P	1	O
+27	eux	eux	P	1	O
+28	car	car	C	1	O
+29	ce	ce	Q	1	O
+30	sont	être	V	1	O
+31	deux	deux	D	1	O
+32	personnes	personne	N	1	O
+33	très	très	G	1	O
+34	sympathiques	sympathique	G	1	O
+35	avec	avec	P	1	O
+36	qui	qui	P	1	O
+37	nous	lui	Q	1	O
+38	avons	avoir	V	1	O
+39	bien	bien	G	1	O
+40	rigolés	rigoler	V	1	O
+41	.	.	O	1	O
 
-1	Merci	merci	N	1	
-2	à	à	P	1	
-3	eux	eux	P	1	
-4	…	…	O	1	
+1	Merci	merci	N	1	O
+2	à	à	P	1	O
+3	eux	eux	P	1	O
+4	…	…	O	1	O
 

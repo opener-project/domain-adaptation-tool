@@ -1,184 +1,186 @@
-1	Een	een	D	1	
-2	beetje	beetje	N	1	
-3	teleurgesteld	teleurstellen	V	1	
-4	...	...	O	1	
+1	Een	een	D	1	O
+2	beetje	beetje	N	1	O
+3	teleurgesteld	teleurstellen	V	1	O
+4	...	...	O	1	O
 
-1	Eerste	een	O	1	
-2	indruk	indruk	N	1	
-3	was	wezen|zijn	V	1	
-4	dat	dat	C	1	
-5	het	het	Q	1	
-6	een	een	D	1	
-7	schattig	schattig	G	1	
-8	,	,	O	1	
-9	leuk	leuk	G	1	
-10	oud	oud	G	1	
-11	hotel	hotel	N	1	
-12	was	wezen|zijn	V	1	
-13	,	,	O	1	
-14	midden	midden	A	1	
-15	op	op	P	1	
-16	het	het	D	1	
-17	plein	plein	N	1	
-18	met	met	P	1	
-19	van	van	P	1	
-20	die	die	D	1	
-21	grote	groot	G	1	
-22	stenen	steen	N	1	
-23	.	.	O	1	
+1	Eerste	een	O	1	O
+2	indruk	indruk	N	1	O
+3	was	wezen|zijn	V	1	O
+4	dat	dat	C	1	O
+5	het	het	Q	1	O
+6	een	een	D	1	O
+7	schattig	schattig	G	1	O
+8	,	,	O	1	O
+9	leuk	leuk	G	1	O
+10	oud	oud	G	1	O
+11	hotel	hotel	N	1	O
+12	was	wezen|zijn	V	1	O
+13	,	,	O	1	O
+14	midden	midden	A	1	O
+15	op	op	P	1	O
+16	het	het	D	1	O
+17	plein	plein	N	1	O
+18	met	met	P	1	O
+19	van	van	P	1	O
+20	die	die	D	1	O
+21	grote	groot	G	1	O
+22	stenen	steen	N	1	O
+23	.	.	O	1	O
 
-1	Hotelier	hotelier	N	1	
-2	was	wezen|zijn	V	1	
-3	een	een	D	1	
-4	beetje	beetje	N	1	
-5	matjes	matje	N	1	
-6	,	,	O	1	
-7	maar	maar	C	1	
-8	ik	ik	Q	1	
-9	dacht	denken	V	1	
-10	omdat	omdat	C	1	
-11	we	we	Q	1	
-12	het	het	D	1	
-13	van	van	P	1	
-14	een	een	D	1	
-15	veilingsite	veilingsite	O	1	
-16	hadden	hebben	V	1	
-17	,	,	O	1	
-18	dat	dat	C	1	
-19	het	het	Q	1	
-20	wel	wel	A	1	
-21	gebruikelijk	gebruikelijk	G	1	
-22	was	wezen|zijn	V	1	
-23	.	.	O	1	
+1	Hotelier	hotelier	N	1	O
+2	was	wezen|zijn	V	1	O
+3	een	een	D	1	O
+4	beetje	beetje	N	1	O
+5	matjes	matje	N	1	O
+6	,	,	O	1	O
+7	maar	maar	C	1	O
+8	ik	ik	Q	1	O
+9	dacht	denken	V	1	O
+10	omdat	omdat	C	1	O
+11	we	we	Q	1	O
+12	het	het	D	1	O
+13	van	van	P	1	O
+14	een	een	D	1	O
+15	veilingsite	veilingsite	O	1	O
+16	hadden	hebben	V	1	O
+17	,	,	O	1	O
+18	dat	dat	C	1	O
+19	het	het	Q	1	O
+20	wel	wel	A	1	O
+21	gebruikelijk	gebruikelijk	G	1	O
+22	was	wezen|zijn	V	1	O
+23	.	.	O	1	O
 
-1	We	we	Q	1	
-2	verbleven	verblijven	V	1	
-3	daar	daar	A	1	
-4	2	@card@	O	1	
-5	nachten	nacht	N	1	
-6	.	.	O	1	
+1	We	we	Q	1	O
+2	verbleven	verblijven	V	1	O
+3	daar	daar	A	1	O
+4	2	@card@	O	1	O
+5	nachten	nacht	N	1	O
+6	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	was	wezen|zijn	V	1	
-3	er	er	Q	1	
-4	prima	prima	G	1	
-5	wel	wel	A	1	
-6	stoffig	stoffig	G	1	
-7	maar	maar	A	1	
-8	ach	ach	O	1	
-9	,	,	O	1	
-10	de	de	D	1	
-11	grote	groot	G	1	
-12	verrassing	verrassing	N	1	
-13	kwam	komen	V	1	
-14	op	op	P	1	
-15	het	het	D	1	
-16	eind	eind	N	1	
-17	toen	toen	C	1	
-18	we	we	Q	1	
-19	de	de	D	1	
-20	rekening	rekening	N	1	
-21	van	van	P	1	
-22	3	@card@	O	1	
-23	kopjes	kopjes	O	1	
-24	thee	thee	N	1	
-25	en	en	C	1	
-26	een	een	D	1	
-27	cappuccino	cappuccino	N	1	
-28	kregen	krijgen	V	1	
-29	,	,	O	1	
-30	3,60	@card@	R	1	ne=Money
-31	p.kopje	p.	N	1	
-32	p.kopje	kopje	O	1	
-33	,	,	O	1	
-34	OK	OK	O	1	
-35	.	.	O	1	
+1	Het	het	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	er	er	Q	1	O
+4	prima	prima	G	1	O
+5	wel	wel	A	1	O
+6	stoffig	stoffig	G	1	O
+7	maar	maar	A	1	O
+8	ach	ach	O	1	O
+9	,	,	O	1	O
+10	de	de	D	1	O
+11	grote	groot	G	1	O
+12	verrassing	verrassing	N	1	O
+13	kwam	komen	V	1	O
+14	op	op	P	1	O
+15	het	het	D	1	O
+16	eind	eind	N	1	O
+17	toen	toen	C	1	O
+18	we	we	Q	1	O
+19	de	de	D	1	O
+20	rekening	rekening	N	1	O
+21	van	van	P	1	O
+22	3	@card@	O	1	O
+23	kopjes	kopjes	O	1	O
+24	thee	thee	N	1	O
+25	en	en	C	1	O
+26	een	een	D	1	O
+27	cappuccino	cappuccino	N	1	O
+28	kregen	krijgen	V	1	O
+29	,	,	O	1	O
+30	3,60	@card@	R	1	I-Money
+31	p.kopje	p.	N	1	O
+32	p.kopje	kopje	O	1	O
+33	,	,	O	1	O
+34	OK	OK	O	1	O
+35	.	.	O	1	O
 
-1	Maar	maar	C	1	
-2	12_euro	@card@_euro	R	1	ne=Money
-3	tax.	tax	O	1	
-4	tax.	.	O	1	
-5	erop	erop	Q	1	
-6	!	!	O	1	
+1	Maar	maar	C	1	O
+2	12	@card@	O	1	I-Money
+3	euro	euro	N	1	I-Money
+4	tax.	tax	O	1	O
+5	tax.	.	O	1	O
+6	erop	erop	Q	1	O
+7	!	!	O	1	O
 
-1	dat	dat	Q	1	
-2	is	zijn	V	1	
-3	wel	wel	A	1	
-4	absurd	absurd	G	1	
-5	.	.	O	1	
+1	dat	dat	Q	1	O
+2	is	zijn	V	1	O
+3	wel	wel	A	1	O
+4	absurd	absurd	G	1	O
+5	.	.	O	1	O
 
-1	Het	het	D	1	
-2	totaal	totaal	N	1	
-3	bedroeg	bedragen	V	1	
-4	25_euro	@card@_euro	R	1	ne=Money
-5	en	en	C	1	
-6	nog	nog	A	1	
-7	wat	wat	D	1	
-8	centjes	centjes	O	1	
-9	.	.	O	1	
-10	(	(	O	1	
-11	research	research	N	1	
-12	gedaan	doen	V	1	
-13	over	over	P	1	
-14	de	de	D	1	
-15	gemeentebelastingen	gemeentebelastingen	O	1	
-16	,	,	O	1	
-17	en	en	C	1	
-18	dit	dit	Q	1	
-19	kan	kunnen	V	1	
-20	echt	echt	A	1	
-21	niet	niet	A	1	
-22	)	)	O	1	
-23	Uitchecken	Uitchecken	O	1	
-24	was	wezen|zijn	V	1	
-25	ook	ook	A	1	
-26	heel	heel	A	1	
-27	erg	erg	G	1	
-28	matjes	matje	N	1	
-29	,	,	O	1	
-30	geen	geen	D	1	
-31	fijne	fijn	G	1	
-32	reis	reis	N	1	
-33	of	of	C	1	
-34	dank	dank	N	1	
-35	voor	voor	P	1	
-36	uw	uw	D	1	
-37	verblijf	verblijf	N	1	
-38	,	,	O	1	
-39	misschien	misschien	A	1	
-40	voelde	voelen	V	1	
-41	ze	ze	Q	1	
-42	zich	zich	Q	1	
-43	ook	ook	A	1	
-44	schuldig	schuldig	G	1	
-45	dat	dat	C	1	
-46	ze	ze	Q	1	
-47	daaruit	daaruit	Q	1	
-48	hun	hun	D	1	
-49	winst	winst	N	1	
-50	maken	maken	V	1	
-51	,	,	O	1	
-52	tja	tja	O	1	
-53	.	.	O	1	
+1	Het	het	D	1	O
+2	totaal	totaal	N	1	O
+3	bedroeg	bedragen	V	1	O
+4	25	@card@	O	1	I-Money
+5	euro	euro	N	1	I-Money
+6	en	en	C	1	O
+7	nog	nog	A	1	O
+8	wat	wat	D	1	O
+9	centjes	centjes	O	1	O
+10	.	.	O	1	O
+11	(	(	O	1	O
+12	research	research	N	1	O
+13	gedaan	doen	V	1	O
+14	over	over	P	1	O
+15	de	de	D	1	O
+16	gemeentebelastingen	gemeentebelastingen	O	1	O
+17	,	,	O	1	O
+18	en	en	C	1	O
+19	dit	dit	Q	1	O
+20	kan	kunnen	V	1	O
+21	echt	echt	A	1	O
+22	niet	niet	A	1	O
+23	)	)	O	1	O
+24	Uitchecken	Uitchecken	O	1	O
+25	was	wezen|zijn	V	1	O
+26	ook	ook	A	1	O
+27	heel	heel	A	1	O
+28	erg	erg	G	1	O
+29	matjes	matje	N	1	O
+30	,	,	O	1	O
+31	geen	geen	D	1	O
+32	fijne	fijn	G	1	O
+33	reis	reis	N	1	O
+34	of	of	C	1	O
+35	dank	dank	N	1	O
+36	voor	voor	P	1	O
+37	uw	uw	D	1	O
+38	verblijf	verblijf	N	1	O
+39	,	,	O	1	O
+40	misschien	misschien	A	1	O
+41	voelde	voelen	V	1	O
+42	ze	ze	Q	1	O
+43	zich	zich	Q	1	O
+44	ook	ook	A	1	O
+45	schuldig	schuldig	G	1	O
+46	dat	dat	C	1	O
+47	ze	ze	Q	1	O
+48	daaruit	daaruit	Q	1	O
+49	hun	hun	D	1	O
+50	winst	winst	N	1	O
+51	maken	maken	V	1	O
+52	,	,	O	1	O
+53	tja	tja	O	1	O
+54	.	.	O	1	O
 
-1	Conclusie	conclusie	N	1	
-2	is	zijn	V	1	
-3	dat	dat	C	1	
-4	wij	wij	Q	1	
-5	daar	daar	A	1	
-6	niet	niet	A	1	
-7	meer	meer	A	1	
-8	terugkomen	terugkomen	V	1	
-9	en	en	C	1	
-10	hebben	hebben	V	1	
-11	er	er	Q	1	
-12	een	een	D	1	
-13	bittere	bitter	G	1	
-14	nasmaak	nasmaak	N	1	
-15	aan	aan	A	1	
-16	overgehouden	overhouden	V	1	
-17	.	.	O	1	
+1	Conclusie	conclusie	N	1	O
+2	is	zijn	V	1	O
+3	dat	dat	C	1	O
+4	wij	wij	Q	1	O
+5	daar	daar	A	1	O
+6	niet	niet	A	1	O
+7	meer	meer	A	1	O
+8	terugkomen	terugkomen	V	1	O
+9	en	en	C	1	O
+10	hebben	hebben	V	1	O
+11	er	er	Q	1	O
+12	een	een	D	1	O
+13	bittere	bitter	G	1	O
+14	nasmaak	nasmaak	N	1	O
+15	aan	aan	A	1	O
+16	overgehouden	overhouden	V	1	O
+17	.	.	O	1	O
 
-1	Jammer	jammer	G	1	
-2	.	.	O	1	
+1	Jammer	jammer	G	1	O
+2	.	.	O	1	O
 

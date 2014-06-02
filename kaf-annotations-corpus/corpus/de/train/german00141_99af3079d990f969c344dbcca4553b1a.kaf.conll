@@ -1,149 +1,149 @@
-1	Einiges	einige	Q	1	
-2	war	sein	V	1	
-3	ungewöhnlich	ungewöhnlich	G	1	
-4	mühsam	mühsam	G	1	
+1	Einiges	einige	Q	1	O
+2	war	sein	V	1	O
+3	ungewöhnlich	ungewöhnlich	G	1	O
+4	mühsam	mühsam	G	1	O
 
-1	Ungewöhnlich	ungewöhnlich	G	1	
-2	war	sein	V	1	
-3	,	,	O	1	
-4	dass	dass	C	1	
-5	beim	bei	P	1	
-6	Auschecken	Auschecken	N	1	
-7	das	die	D	1	
-8	Frühstück	Frühstück	N	1	
-9	unserer	unser	Q	1	
-10	Kinder	Kind	N	1	
-11	(	(	O	1	
-12	1	1	O	1	
-13	und	und	C	1	
-14	3	3	O	1	
-15	Jahre	Jahr	N	1	
-16	alt	alt	G	1	
-17	)	)	O	1	
-18	plötzlich	plötzlich	G	1	
-19	separat	separat	G	1	
-20	,	,	O	1	
-21	d.h.	d.heißen	Q	1	
-22	zusätzlich	zusätzlich	G	1	
-23	,	,	O	1	
-24	verrechnet	verrechnen	V	1	
-25	werden	werden	V	1	
-26	sollte	sollen	V	1	
-27	.	.	O	1	
+1	Ungewöhnlich	ungewöhnlich	G	1	O
+2	war	sein	V	1	O
+3	,	,	O	1	O
+4	dass	dass	C	1	O
+5	beim	bei	P	1	O
+6	Auschecken	Auschecken	N	1	O
+7	das	die	D	1	O
+8	Frühstück	Frühstück	N	1	O
+9	unserer	unser	Q	1	O
+10	Kinder	Kind	N	1	O
+11	(	(	O	1	O
+12	1	1	O	1	O
+13	und	und	C	1	O
+14	3	3	O	1	O
+15	Jahre	Jahr	N	1	O
+16	alt	alt	G	1	O
+17	)	)	O	1	O
+18	plötzlich	plötzlich	G	1	O
+19	separat	separat	G	1	O
+20	,	,	O	1	O
+21	d.h.	d.heißen	Q	1	O
+22	zusätzlich	zusätzlich	G	1	O
+23	,	,	O	1	O
+24	verrechnet	verrechnen	V	1	O
+25	werden	werden	V	1	O
+26	sollte	sollen	V	1	O
+27	.	.	O	1	O
 
-1	Dies	dies	Q	1	
-2	,	,	O	1	
-3	obwohl	obwohl	C	1	
-4	ein	eine	D	1	
-5	Familienzimmer	Familienzimmer	O	1	
-6	mit	mit	P	1	
-7	Frühstück	Frühstück	N	1	
-8	gebucht	buchen	V	1	
-9	und	und	C	1	
-10	bezahlt	bezahlen	V	1	
-11	worden	werden	V	1	
-12	war	sein	V	1	
-13	.	.	O	1	
+1	Dies	dies	Q	1	O
+2	,	,	O	1	O
+3	obwohl	obwohl	C	1	O
+4	ein	eine	D	1	O
+5	Familienzimmer	Familienzimmer	O	1	O
+6	mit	mit	P	1	O
+7	Frühstück	Frühstück	N	1	O
+8	gebucht	buchen	V	1	O
+9	und	und	C	1	O
+10	bezahlt	bezahlen	V	1	O
+11	worden	werden	V	1	O
+12	war	sein	V	1	O
+13	.	.	O	1	O
 
-1	Von	von	P	1	
-2	der	die	D	1	
-3	Rechnungsstellung	Rechnungsstellung	N	1	
-4	wurde	werden	V	1	
-5	erst	erst	A	1	
-6	nach	nach	P	1	
-7	unangenehmer	unangenehm	G	1	
-8	Diskussion	Diskussion	N	1	
-9	abgesehen	absehen	V	1	
-10	·	·	O	1	
-11	wegen	wegen	P	1	
-12	des	die	D	1	
-13	geringen	gering	G	1	
-14	Verzehrs	Verzehr	N	1	
-15	der	die	D	1	
-16	Kleinkinder	Kleinkind	N	1	
-17	...	...	O	1	
+1	Von	von	P	1	O
+2	der	die	D	1	O
+3	Rechnungsstellung	Rechnungsstellung	N	1	O
+4	wurde	werden	V	1	O
+5	erst	erst	A	1	O
+6	nach	nach	P	1	O
+7	unangenehmer	unangenehm	G	1	O
+8	Diskussion	Diskussion	N	1	O
+9	abgesehen	absehen	V	1	O
+10	·	·	O	1	O
+11	wegen	wegen	P	1	O
+12	des	die	D	1	O
+13	geringen	gering	G	1	O
+14	Verzehrs	Verzehr	N	1	O
+15	der	die	D	1	O
+16	Kleinkinder	Kleinkind	N	1	O
+17	...	...	O	1	O
 
-1	Unser	unser	Q	1	
-2	Fehler	Fehler	N	1	
-3	war	sein	V	1	
-4	,	,	O	1	
-5	dass	dass	C	1	
-6	wir	wir	Q	1	
-7	die	die	D	1	
-8	Reisepässe	Reisepass	N	1	
-9	im	in	P	1	
-10	Safe	Safe	N	1	
-11	vergessen	vergessen	V	1	
-12	hatten	haben	V	1	
-13	und	und	C	1	
-14	dies	dies	Q	1	
-15	erst	erst	A	1	
-16	am	an	P	1	
-17	Flughafen	Flughafen	N	1	
-18	bemerkten	bemerken	V	1	
-19	.	.	O	1	
+1	Unser	unser	Q	1	O
+2	Fehler	Fehler	N	1	O
+3	war	sein	V	1	O
+4	,	,	O	1	O
+5	dass	dass	C	1	O
+6	wir	wir	Q	1	O
+7	die	die	D	1	O
+8	Reisepässe	Reisepass	N	1	O
+9	im	in	P	1	O
+10	Safe	Safe	N	1	O
+11	vergessen	vergessen	V	1	O
+12	hatten	haben	V	1	O
+13	und	und	C	1	O
+14	dies	dies	Q	1	O
+15	erst	erst	A	1	O
+16	am	an	P	1	O
+17	Flughafen	Flughafen	N	1	O
+18	bemerkten	bemerken	V	1	O
+19	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	brauchte	brauchen	V	1	
-3	ca.	ca.	A	1	
-4	vier	vier	O	1	
-5	Telephonate	Telephonate	O	1	
-6	,	,	O	1	
-7	bis	bis	C	1	
-8	die	die	D	1	
-9	Pässe	Pass	N	1	
-10	ausfindig	ausfindig	A	1	
-11	gemacht	machen	V	1	
-12	waren	sein	V	1	
-13	bzw.	bzw.	C	1	
-14	bis	bis	C	1	
-15	sich	sich	Q	1	
-16	jemand	jemand	Q	1	
-17	vom	von	P	1	
-18	Hotelpersonal	Hotelpersonal	N	1	
-19	ins	in	P	1	
-20	Zimmer	Zimmer	N	1	
-21	bemühen	bemühen	V	1	
-22	konnte	können	V	1	
-23	,	,	O	1	
-24	der	die	D	1	
-25	Ablauf	Ablauf	N	1	
-26	war	sein	V	1	
-27	sehr	sehr	A	1	
-28	chaotisch	chaotisch	G	1	
-29	und	und	C	1	
-30	für	für	P	1	
-31	uns	wir	Q	1	
-32	nicht	nicht	O	1	
-33	nachvollziehbar	nachvollziehbar	G	1	
-34	·	·	O	1	
-35	wir	wir	Q	1	
-36	erreichten	erreichen	V	1	
-37	den	die	D	1	
-38	Flug	Flug	N	1	
-39	gerade	gerade	A	1	
-40	noch	noch	A	1	
-41	last	lesen	V	1	
-42	minute	minute	O	1	
-43	.	.	O	1	
+1	Es	es	Q	1	O
+2	brauchte	brauchen	V	1	O
+3	ca.	ca.	A	1	O
+4	vier	vier	O	1	O
+5	Telephonate	Telephonate	O	1	O
+6	,	,	O	1	O
+7	bis	bis	C	1	O
+8	die	die	D	1	O
+9	Pässe	Pass	N	1	O
+10	ausfindig	ausfindig	A	1	O
+11	gemacht	machen	V	1	O
+12	waren	sein	V	1	O
+13	bzw.	bzw.	C	1	O
+14	bis	bis	C	1	O
+15	sich	sich	Q	1	O
+16	jemand	jemand	Q	1	O
+17	vom	von	P	1	O
+18	Hotelpersonal	Hotelpersonal	N	1	O
+19	ins	in	P	1	O
+20	Zimmer	Zimmer	N	1	O
+21	bemühen	bemühen	V	1	O
+22	konnte	können	V	1	O
+23	,	,	O	1	O
+24	der	die	D	1	O
+25	Ablauf	Ablauf	N	1	O
+26	war	sein	V	1	O
+27	sehr	sehr	A	1	O
+28	chaotisch	chaotisch	G	1	O
+29	und	und	C	1	O
+30	für	für	P	1	O
+31	uns	wir	Q	1	O
+32	nicht	nicht	O	1	O
+33	nachvollziehbar	nachvollziehbar	G	1	O
+34	·	·	O	1	O
+35	wir	wir	Q	1	O
+36	erreichten	erreichen	V	1	O
+37	den	die	D	1	O
+38	Flug	Flug	N	1	O
+39	gerade	gerade	A	1	O
+40	noch	noch	A	1	O
+41	last	lesen	V	1	O
+42	minute	minute	O	1	O
+43	.	.	O	1	O
 
-1	Beide	beide	Q	1	
-2	Vorgänge	Vorgang	N	1	
-3	sind	sein	V	1	
-4	wir	wir	Q	1	
-5	in	in	P	1	
-6	dieser	dies	Q	1	
-7	Art	Art	N	1	
-8	und	und	C	1	
-9	Weise	Weise	N	1	
-10	aus	aus	P	1	
-11	anderen	andere	Q	1	
-12	Fünfstern	Fünfstern	O	1	
-13	·	·	O	1	
-14	Häusern	Haus	N	1	
-15	bislang	bislang	A	1	
-16	nicht	nicht	O	1	
-17	gewohnt	wohnen	V	1	
-18	gewesen	sein	V	1	
-19	.	.	O	1	
+1	Beide	beide	Q	1	O
+2	Vorgänge	Vorgang	N	1	O
+3	sind	sein	V	1	O
+4	wir	wir	Q	1	O
+5	in	in	P	1	O
+6	dieser	dies	Q	1	O
+7	Art	Art	N	1	O
+8	und	und	C	1	O
+9	Weise	Weise	N	1	O
+10	aus	aus	P	1	O
+11	anderen	andere	Q	1	O
+12	Fünfstern	Fünfstern	O	1	O
+13	·	·	O	1	O
+14	Häusern	Haus	N	1	O
+15	bislang	bislang	A	1	O
+16	nicht	nicht	O	1	O
+17	gewohnt	wohnen	V	1	O
+18	gewesen	sein	V	1	O
+19	.	.	O	1	O
 

@@ -1,115 +1,115 @@
-1	Auf	auf	P	1	
-2	keinen	keine	Q	1	
-3	Fall	Fall	N	1	
-4	5	5	O	1	
-5	Sterne	Stern	N	1	
+1	Auf	auf	P	1	O
+2	keinen	keine	Q	1	O
+3	Fall	Fall	N	1	O
+4	5	5	O	1	O
+5	Sterne	Stern	N	1	O
 
-1	Hatte	haben	V	1	
-2	ein	eine	D	1	
-3	verlängertes	verlängert	G	1	
-4	Wochenende	Wochenende	N	1	
-5	in	in	P	1	
-6	Saloniki	Saloniki	R	1	ne=Location
-7	verbracht	verbringen	V	1	
-8	und	und	C	1	
-9	suchte	suchen	V	1	
-10	ein	eine	D	1	
-11	tolles	toll	G	1	
-12	5	5	O	1	
-13	Sterne	Stern	N	1	
-14	Hotel	Hotel	N	1	
-15	in	in	P	1	
-16	zentraler	zentral	G	1	
-17	Lage	Lage	N	1	
-18	.	.	O	1	
+1	Hatte	haben	V	1	O
+2	ein	eine	D	1	O
+3	verlängertes	verlängert	G	1	O
+4	Wochenende	Wochenende	N	1	O
+5	in	in	P	1	O
+6	Saloniki	Saloniki	R	1	I-Location
+7	verbracht	verbringen	V	1	O
+8	und	und	C	1	O
+9	suchte	suchen	V	1	O
+10	ein	eine	D	1	O
+11	tolles	toll	G	1	O
+12	5	5	O	1	O
+13	Sterne	Stern	N	1	O
+14	Hotel	Hotel	N	1	O
+15	in	in	P	1	O
+16	zentraler	zentral	G	1	O
+17	Lage	Lage	N	1	O
+18	.	.	O	1	O
 
-1	Zentrale	zentral	G	1	
-2	Lage	Lage	N	1	
-3	hat	haben	V	1	
-4	das	die	D	1	
-5	Hotel	Hotel	N	1	
-6	,	,	O	1	
-7	aber	aber	C	1	
-8	ansonsten	ansonsten	A	1	
-9	würde	werden	V	1	
-10	ich	ich	Q	1	
-11	max.	max.	A	1	
-12	3	3	O	1	
-13	bis	bis	C	1	
-14	4	4	O	1	
-15	Sterne	Stern	N	1	
-16	geben	geben	V	1	
-17	.	.	O	1	
+1	Zentrale	zentral	G	1	O
+2	Lage	Lage	N	1	O
+3	hat	haben	V	1	O
+4	das	die	D	1	O
+5	Hotel	Hotel	N	1	O
+6	,	,	O	1	O
+7	aber	aber	C	1	O
+8	ansonsten	ansonsten	A	1	O
+9	würde	werden	V	1	O
+10	ich	ich	Q	1	O
+11	max.	max.	A	1	O
+12	3	3	O	1	O
+13	bis	bis	C	1	O
+14	4	4	O	1	O
+15	Sterne	Stern	N	1	O
+16	geben	geben	V	1	O
+17	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Aussenansicht	Aussenansicht	N	1	
-3	und	und	C	1	
-4	auch	auch	A	1	
-5	die	die	D	1	
-6	Lobby	Lobby	N	1	
-7	sind	sein	V	1	
-8	sehr	sehr	A	1	
-9	schön	schön	G	1	
-10	,	,	O	1	
-11	der	die	D	1	
-12	Rest	Rest	N	1	
-13	wirkt	wirken	V	1	
-14	jedoch	jedoch	A	1	
-15	leicht	leicht	G	1	
-16	abgewohnt	abwohnen	V	1	
-17	,	,	O	1	
-18	Spannteppich	Spannteppich	O	1	
-19	im	in	P	1	
-20	Zimmer	Zimmer	N	1	
-21	.	.	O	1	
+1	Die	die	D	1	O
+2	Aussenansicht	Aussenansicht	N	1	O
+3	und	und	C	1	O
+4	auch	auch	A	1	O
+5	die	die	D	1	O
+6	Lobby	Lobby	N	1	O
+7	sind	sein	V	1	O
+8	sehr	sehr	A	1	O
+9	schön	schön	G	1	O
+10	,	,	O	1	O
+11	der	die	D	1	O
+12	Rest	Rest	N	1	O
+13	wirkt	wirken	V	1	O
+14	jedoch	jedoch	A	1	O
+15	leicht	leicht	G	1	O
+16	abgewohnt	abwohnen	V	1	O
+17	,	,	O	1	O
+18	Spannteppich	Spannteppich	O	1	O
+19	im	in	P	1	O
+20	Zimmer	Zimmer	N	1	O
+21	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	war	sein	V	1	
-3	sauber	sauber	G	1	
-4	und	und	C	1	
-5	wenn	wenn	C	1	
-6	ich	ich	Q	1	
-7	3	3	O	1	
-8	bis	bis	C	1	
-9	4	4	O	1	
-10	Sterne	Stern	N	1	
-11	gebucht	buchen	V	1	
-12	hätte	haben	V	1	
-13	wäre	sein	V	1	
-14	das	die	Q	1	
-15	völlig	völlig	G	1	
-16	in	in	P	1	
-17	Ordnung	Ordnung	N	1	
-18	gewesen	sein	V	1	
-19	.	.	O	1	
+1	Es	es	Q	1	O
+2	war	sein	V	1	O
+3	sauber	sauber	G	1	O
+4	und	und	C	1	O
+5	wenn	wenn	C	1	O
+6	ich	ich	Q	1	O
+7	3	3	O	1	O
+8	bis	bis	C	1	O
+9	4	4	O	1	O
+10	Sterne	Stern	N	1	O
+11	gebucht	buchen	V	1	O
+12	hätte	haben	V	1	O
+13	wäre	sein	V	1	O
+14	das	die	Q	1	O
+15	völlig	völlig	G	1	O
+16	in	in	P	1	O
+17	Ordnung	Ordnung	N	1	O
+18	gewesen	sein	V	1	O
+19	.	.	O	1	O
 
-1	Hab	Hab	N	1	
-2	beim	bei	P	1	
-3	Spazieren	Spazieren	N	1	
-4	durch	durch	P	1	
-5	die	die	D	1	
-6	Innenstadt	Innenstadt	N	1	
-7	viel	viel	A	1	
-8	,	,	O	1	
-9	viel	viele	Q	1	
-10	bessere	gut	G	1	
-11	Hotels	Hotel	N	1	
-12	gesehen	sehen	V	1	
-13	und	und	C	1	
-14	mir	ich	Q	1	
-15	auch	auch	A	1	
-16	die	die	D	1	
-17	Räume	Raum	N	1	
-18	angesehen	ansehen	V	1	
-19	·	·	O	1	
-20	sorry	sorry	O	1	
-21	,	,	O	1	
-22	aber	aber	C	1	
-23	dieses	dies	Q	1	
-24	Hotel	Hotel	N	1	
-25	sieht	sehen	V	1	
-26	mich	ich	Q	1	
-27	nie	nie	A	1	
-28	wieder	wieder	A	1	
-29	!	!	O	1	
+1	Hab	Hab	N	1	O
+2	beim	bei	P	1	O
+3	Spazieren	Spazieren	N	1	O
+4	durch	durch	P	1	O
+5	die	die	D	1	O
+6	Innenstadt	Innenstadt	N	1	O
+7	viel	viel	A	1	O
+8	,	,	O	1	O
+9	viel	viele	Q	1	O
+10	bessere	gut	G	1	O
+11	Hotels	Hotel	N	1	O
+12	gesehen	sehen	V	1	O
+13	und	und	C	1	O
+14	mir	ich	Q	1	O
+15	auch	auch	A	1	O
+16	die	die	D	1	O
+17	Räume	Raum	N	1	O
+18	angesehen	ansehen	V	1	O
+19	·	·	O	1	O
+20	sorry	sorry	O	1	O
+21	,	,	O	1	O
+22	aber	aber	C	1	O
+23	dieses	dies	Q	1	O
+24	Hotel	Hotel	N	1	O
+25	sieht	sehen	V	1	O
+26	mich	ich	Q	1	O
+27	nie	nie	A	1	O
+28	wieder	wieder	A	1	O
+29	!	!	O	1	O
 

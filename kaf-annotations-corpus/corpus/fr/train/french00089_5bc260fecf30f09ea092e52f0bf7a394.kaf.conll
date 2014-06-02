@@ -1,104 +1,106 @@
-1	Bon	bon	G	1	
-2	hôtel	hôtel	N	1	
-3	en	en	P	1	
-4	général	général	N	1	
+1	Bon	bon	G	1	O
+2	hôtel	hôtel	N	1	O
+3	en	en	P	1	O
+4	général	général	N	1	O
 
-1	Hotel	Hotel	N	1	
-2	agréable	agréable	G	1	
-3	en	en	P	1	
-4	général	général	N	1	
-5	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	agréable	agréable	G	1	O
+3	en	en	P	1	O
+4	général	général	N	1	O
+5	.	.	O	1	O
 
-1	Belles	beau	N	1	
-2	et	et	C	1	
-3	nombreuses	nombreux	G	1	
-4	piscines	piscine	N	1	
-5	.	.	O	1	
+1	Belles	beau	N	1	O
+2	et	et	C	1	O
+3	nombreuses	nombreux	G	1	O
+4	piscines	piscine	N	1	O
+5	.	.	O	1	O
 
-1	2	2	D	1	
-2	points	point	N	1	
-3	négatifs	négatif	G	1	
-4	néanmoins	néanmoins	G	1	
-5	,	,	O	1	
-6	le	le	D	1	
-7	personnel	personnel	N	1	
-8	ne	ne	G	1	
-9	parle	parler	V	1	
-10	pas	pas	G	1	
-11	le	le	D	1	
-12	français	français	N	1	
-13	et	et	C	1	
-14	les	le	D	1	
-15	repas	repas	N	1	
-16	ne	ne	G	1	
-17	sont	être	V	1	
-18	pas	pas	G	1	
-19	au	au	P	1	
-20	top	top	D	1	
-21	.	.	O	1	
+1	2	2	D	1	O
+2	points	point	N	1	O
+3	négatifs	négatif	G	1	O
+4	néanmoins	néanmoins	G	1	O
+5	,	,	O	1	O
+6	le	le	D	1	O
+7	personnel	personnel	N	1	O
+8	ne	ne	G	1	O
+9	parle	parler	V	1	O
+10	pas	pas	G	1	O
+11	le	le	D	1	O
+12	français	français	N	1	O
+13	et	et	C	1	O
+14	les	le	D	1	O
+15	repas	repas	N	1	O
+16	ne	ne	G	1	O
+17	sont	être	V	1	O
+18	pas	pas	G	1	O
+19	au	au	P	1	O
+20	top	top	D	1	O
+21	.	.	O	1	O
 
-1	On	On	Q	1	
-2	a	avoir	V	1	
-3	eu	eu	O	1	
-4	droit	droit	N	1	
-5	de	de	P	1	
-6	réserver	réserver	V	1	
-7	une	un	D	1	
-8	seule	seul	G	1	
-9	fois	foi	N	1	
-10	dans	dans	P	1	
-11	un	un	D	1	
-12	des	un	D	1	
-13	restaurants	restaurant	N	1	
-14	et	et	C	1	
-15	je	je	Q	1	
-16	trouve	trouver	V	1	
-17	cela	cela	P	1	
-18	bien	bien	G	1	
-19	dommage	dommage	G	1	
-20	.	.	O	1	
+1	On	On	Q	1	O
+2	a	avoir	V	1	O
+3	eu	eu	O	1	O
+4	droit	droit	N	1	O
+5	de	de	P	1	O
+6	réserver	réserver	V	1	O
+7	une	un	D	1	O
+8	seule	seul	G	1	O
+9	fois	foi	N	1	O
+10	dans	dans	P	1	O
+11	un	un	D	1	O
+12	des	un	D	1	O
+13	restaurants	restaurant	N	1	O
+14	et	et	C	1	O
+15	je	je	Q	1	O
+16	trouve	trouver	V	1	O
+17	cela	cela	P	1	O
+18	bien	bien	G	1	O
+19	dommage	dommage	G	1	O
+20	.	.	O	1	O
 
-1	Concernant	concerner	V	1	
-2	les	le	D	1	
-3	boissons	boisson	N	1	
-4	alcoolisées	alcoolisées	P	1	
-5	même	même	G	1	
-6	si	si	C	1	
-7	vous	lui	Q	1	
-8	êtes	être	V	1	
-9	"	&quot;	O	1	
-10	en	en	P	1	
-11	all	all	N	1	
-12	in	in	G	1	
-13	"	&quot;	O	1	
-14	pas	pas	G	1	
-15	de	de	P	1	
-16	choix	choix	N	1	
-17	,	,	O	1	
-18	il	il	Q	1	
-19	faut	faillir	V	1	
-20	payer	payer	V	1	
-21	et	et	C	1	
-22	c'	c'	Q	1	
-23	est	être	V	1	
-24	pas	pas	G	1	
-25	donner	donner	V	1	
-26	.	.	O	1	
+1	Concernant	concerner	V	1	O
+2	les	le	D	1	O
+3	boissons	boisson	N	1	O
+4	alcoolisées	alcoolisées	P	1	O
+5	même	même	G	1	O
+6	si	si	C	1	O
+7	vous	lui	Q	1	O
+8	êtes	être	V	1	O
+9	"	&quot;	O	1	O
+10	en	en	P	1	O
+11	all	all	N	1	O
+12	in	in	G	1	O
+13	"	&quot;	O	1	O
+14	pas	pas	G	1	O
+15	de	de	P	1	O
+16	choix	choix	N	1	O
+17	,	,	O	1	O
+18	il	il	Q	1	O
+19	faut	faillir	V	1	O
+20	payer	payer	V	1	O
+21	et	et	C	1	O
+22	c'	c'	Q	1	O
+23	est	être	V	1	O
+24	pas	pas	G	1	O
+25	donner	donner	V	1	O
+26	.	.	O	1	O
 
-1	Sinon	Sinon	C	1	
-2	personnel	personnel	N	1	
-3	très	très	G	1	
-4	bien	bien	G	1	
-5	surtout	surtout	G	1	
-6	celui	celui	P	1	
-7	du	du	P	1	
-8	restaurant	restaurer	V	1	
-9	"_Rose_"	&quot;_rose_&quot;	R	1	ne=Restaurant
-10	,	,	O	1	
-11	très	très	G	1	
-12	gentil	gentil	G	1	
-13	avec	avec	P	1	
-14	les	le	D	1	
-15	enfants	enfant	N	1	
-16	.	.	O	1	
+1	Sinon	Sinon	C	1	O
+2	personnel	personnel	N	1	O
+3	très	très	G	1	O
+4	bien	bien	G	1	O
+5	surtout	surtout	G	1	O
+6	celui	celui	P	1	O
+7	du	du	P	1	O
+8	restaurant	restaurer	V	1	O
+9	"	&quot;	O	1	I-Restaurant
+10	Rose	rose	N	1	I-Restaurant
+11	"	&quot;	O	1	I-Restaurant
+12	,	,	O	1	O
+13	très	très	G	1	O
+14	gentil	gentil	G	1	O
+15	avec	avec	P	1	O
+16	les	le	D	1	O
+17	enfants	enfant	N	1	O
+18	.	.	O	1	O
 

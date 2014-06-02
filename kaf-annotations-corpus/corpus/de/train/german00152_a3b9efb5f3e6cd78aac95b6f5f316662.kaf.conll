@@ -1,52 +1,52 @@
-1	Gestrig	gestrig	G	1	
-2	bis	bis	P	1	
-3	vor	vor	V	1	
-4	·	·	O	1	
-5	gestrig	gestrig	G	1	
+1	Gestrig	gestrig	G	1	O
+2	bis	bis	P	1	O
+3	vor	vor	V	1	O
+4	·	·	O	1	O
+5	gestrig	gestrig	G	1	O
 
-1	Tolle	toll	G	1	
-2	Lage	Lage	N	1	
-3	,	,	O	1	
-4	war	sein	V	1	
-5	mal	mal	A	1	
-6	"	"	O	1	
-7	grand	grand	O	1	
-8	"	"	O	1	
-9	vor	vor	P	1	
-10	30	30	O	1	
-11	Jahren	Jahr	N	1	
-12	·	·	O	1	
-13	heute	heute	A	1	
-14	kommt	kommen	V	1	
-15	es	es	Q	1	
-16	mit	mit	P	1	
-17	kleinem	klein	G	1	
-18	Röhrenfernseher	Röhrenfernseher	O	1	
-19	,	,	O	1	
-20	kleinem	klein	G	1	
-21	Zimmer	Zimmer	N	1	
-22	,	,	O	1	
-23	ausgebleichten	ausgebleicht	G	1	
-24	Möbeln	Möbel	N	1	
-25	und	und	C	1	
-26	dem	die	D	1	
-27	Stil	Stil	N	1	
-28	der	die	D	1	
-29	frühen	früh	G	1	
-30	achtziger	achtziger	G	1	
-31	.	.	O	1	
+1	Tolle	toll	G	1	O
+2	Lage	Lage	N	1	O
+3	,	,	O	1	O
+4	war	sein	V	1	O
+5	mal	mal	A	1	O
+6	"	"	O	1	O
+7	grand	grand	O	1	O
+8	"	"	O	1	O
+9	vor	vor	P	1	O
+10	30	30	O	1	O
+11	Jahren	Jahr	N	1	O
+12	·	·	O	1	O
+13	heute	heute	A	1	O
+14	kommt	kommen	V	1	O
+15	es	es	Q	1	O
+16	mit	mit	P	1	O
+17	kleinem	klein	G	1	O
+18	Röhrenfernseher	Röhrenfernseher	O	1	O
+19	,	,	O	1	O
+20	kleinem	klein	G	1	O
+21	Zimmer	Zimmer	N	1	O
+22	,	,	O	1	O
+23	ausgebleichten	ausgebleicht	G	1	O
+24	Möbeln	Möbel	N	1	O
+25	und	und	C	1	O
+26	dem	die	D	1	O
+27	Stil	Stil	N	1	O
+28	der	die	D	1	O
+29	frühen	früh	G	1	O
+30	achtziger	achtziger	G	1	O
+31	.	.	O	1	O
 
-1	Da	da	C	1	
-2	gibt	geben	V	1	
-3	'	'	O	1	
-4	sd	sd	O	1	
-5	deutlich	deutlich	G	1	
-6	Besseres	Bessere	N	1	
-7	in	in	P	1	
-8	Berlin	Berlin	R	1	ne=Location
-9	für	für	P	1	
-10	deutlich	deutlich	G	1	
-11	weniger	wenige	Q	1	
-12	Geld	Geld	N	1	
-13	.	.	O	1	
+1	Da	da	C	1	O
+2	gibt	geben	V	1	O
+3	'	'	O	1	O
+4	sd	sd	O	1	O
+5	deutlich	deutlich	G	1	O
+6	Besseres	Bessere	N	1	O
+7	in	in	P	1	O
+8	Berlin	Berlin	R	1	I-Location
+9	für	für	P	1	O
+10	deutlich	deutlich	G	1	O
+11	weniger	wenige	Q	1	O
+12	Geld	Geld	N	1	O
+13	.	.	O	1	O
 

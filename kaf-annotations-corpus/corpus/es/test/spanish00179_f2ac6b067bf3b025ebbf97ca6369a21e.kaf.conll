@@ -1,84 +1,84 @@
-1	Un	un	G	1	
-2	lugar	lugar	N	1	
-3	paradisiaco	paradisiaco	N	1	
-4	inolvidable	inolvidable	G	1	
+1	Un	un	G	1	O
+2	lugar	lugar	N	1	O
+3	paradisiaco	paradisiaco	N	1	O
+4	inolvidable	inolvidable	G	1	O
 
-1	un	un	G	1	
-2	lugar	lugar	N	1	
-3	hermosisimo	hermosisimo	N	1	
-4	,	,	O	1	
-5	inolvidable.	inolvidable.	O	1	
-6	hermosa	hermosa	O	1	
-7	atención	atención	O	1	
-8	·	·	O	1	
-9	rescato	rescato	O	1	
-10	el	el	O	1	
-11	servicio	servicio	N	1	
-12	,	,	O	1	
-13	como	como	N	1	
-14	asi	asi	A	1	
-15	también	también	G	1	
-16	la	la	O	1	
-17	calidez	calidez	O	1	
-18	de	de	O	1	
-19	su	su	O	1	
-20	gente	gente	G	1	
-21	y	y	G	1	
-22	el	el	N	1	
-23	hermoso	hermoso	A	1	
-24	entorno	entorno	G	1	
-25	natural.	natural.	N	1	
-26	nunca	nunca	N	1	
-27	olvidaremos	olvidaremos	N	1	
-28	este	este	N	1	
-29	viaje.	viaje.	P	1	
-30	rescato	rescato	N	1	
-31	el	el	N	1	
-32	lugar	lugar	N	1	
-33	,	,	O	1	
-34	la	la	D	1	
-35	playa.	playa.	N	1	
-36	la	la	D	1	
-37	variedad	variedad	N	1	
-38	de	de	P	1	
-39	comida	comida	G	1	
-40	y	y	G	1	
-41	la	la	N	1	
-42	calidad.	calidad.	O	1	
-43	desde	desde	V	1	
-44	bien	bien	G	1	
-45	tempranito	tempranito	N	1	
-46	al	al	G	1	
-47	cruzarte	cruzarte	N	1	
-48	con	con	N	1	
-49	el	el	N	1	
-50	personal	personal	G	1	
-51	siempre	siempre	N	1	
-52	hay	hay	N	1	
-53	un	un	G	1	
-54	saludo	saludo	N	1	
-55	y	y	G	1	
-56	buena	buena	N	1	
-57	onda.	onda.	P	1	
-58	el	el	N	1	
-59	tamaño	tamaño	O	1	
-60	de	de	P	1	
-61	las	las	G	1	
-62	habitaciones	habitaciones	N	1	
-63	es	es	V	1	
-64	espectacular.	espectacular.	N	1	
-65	nos	nos	N	1	
-66	gusto	gusto	V	1	
-67	mucho	mucho	G	1	
-68	el	el	N	1	
-69	spa	spa	N	1	
-70	,	,	O	1	
-71	es	es	V	1	
-72	un	un	G	1	
-73	lugar	lugar	N	1	
-74	muy	muy	N	1	
-75	familiar	familiar	G	1	
-76	y	y	G	1	
-77	para	para	N	1	
-78	descansar	descansar	N	1	
+1	un	un	G	1	O
+2	lugar	lugar	N	1	O
+3	hermosisimo	hermosisimo	N	1	O
+4	,	,	O	1	O
+5	inolvidable.	inolvidable.	O	1	O
+6	hermosa	hermosa	O	1	O
+7	atención	atención	O	1	O
+8	·	·	O	1	O
+9	rescato	rescato	O	1	O
+10	el	el	O	1	O
+11	servicio	servicio	N	1	O
+12	,	,	O	1	O
+13	como	como	N	1	O
+14	asi	asi	A	1	O
+15	también	también	G	1	O
+16	la	la	O	1	O
+17	calidez	calidez	O	1	O
+18	de	de	O	1	O
+19	su	su	O	1	O
+20	gente	gente	G	1	O
+21	y	y	G	1	O
+22	el	el	N	1	O
+23	hermoso	hermoso	A	1	O
+24	entorno	entorno	G	1	O
+25	natural.	natural.	N	1	O
+26	nunca	nunca	N	1	O
+27	olvidaremos	olvidaremos	N	1	O
+28	este	este	N	1	O
+29	viaje.	viaje.	P	1	O
+30	rescato	rescato	N	1	O
+31	el	el	N	1	O
+32	lugar	lugar	N	1	O
+33	,	,	O	1	O
+34	la	la	D	1	O
+35	playa.	playa.	N	1	O
+36	la	la	D	1	O
+37	variedad	variedad	N	1	O
+38	de	de	P	1	O
+39	comida	comida	G	1	O
+40	y	y	G	1	O
+41	la	la	N	1	O
+42	calidad.	calidad.	O	1	O
+43	desde	desde	V	1	O
+44	bien	bien	G	1	O
+45	tempranito	tempranito	N	1	O
+46	al	al	G	1	O
+47	cruzarte	cruzarte	N	1	O
+48	con	con	N	1	O
+49	el	el	N	1	O
+50	personal	personal	G	1	O
+51	siempre	siempre	N	1	O
+52	hay	hay	N	1	O
+53	un	un	G	1	O
+54	saludo	saludo	N	1	O
+55	y	y	G	1	O
+56	buena	buena	N	1	O
+57	onda.	onda.	P	1	O
+58	el	el	N	1	O
+59	tamaño	tamaño	O	1	O
+60	de	de	P	1	O
+61	las	las	G	1	O
+62	habitaciones	habitaciones	N	1	O
+63	es	es	V	1	O
+64	espectacular.	espectacular.	N	1	O
+65	nos	nos	N	1	O
+66	gusto	gusto	V	1	O
+67	mucho	mucho	G	1	O
+68	el	el	N	1	O
+69	spa	spa	N	1	O
+70	,	,	O	1	O
+71	es	es	V	1	O
+72	un	un	G	1	O
+73	lugar	lugar	N	1	O
+74	muy	muy	N	1	O
+75	familiar	familiar	G	1	O
+76	y	y	G	1	O
+77	para	para	N	1	O
+78	descansar	descansar	N	1	O
 

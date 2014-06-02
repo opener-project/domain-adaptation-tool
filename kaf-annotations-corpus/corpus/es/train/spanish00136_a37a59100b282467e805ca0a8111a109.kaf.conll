@@ -1,70 +1,70 @@
-1	Muy	Muy	R	1	
-2	acojedor	acojedor	N	1	
+1	Muy	Muy	R	1	O
+2	acojedor	acojedor	N	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	está	está	N	1	
-4	muy	muy	G	1	
-5	bien	bien	N	1	
-6	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	está	está	N	1	O
+4	muy	muy	G	1	O
+5	bien	bien	N	1	O
+6	.	.	O	1	O
 
-1	Por	Por	R	1	
-2	dentro	dentro	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	bonito	bonito	N	1	
-6	.	.	O	1	
+1	Por	Por	R	1	O
+2	dentro	dentro	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	bonito	bonito	N	1	O
+6	.	.	O	1	O
 
-1	La	La	R	1	
-2	gente	gente	G	1	
-3	de	de	P	1	
-4	recepción	recepción	G	1	
-5	fue	fue	G	1	
-6	muy	muy	G	1	
-7	amable	amable	G	1	
-8	cuando	cuando	N	1	
-9	les	les	N	1	
-10	consulté	consulté	V	1	
-11	sobre	sobre	G	1	
-12	información	información	N	1	
-13	turística	turística	N	1	
-14	.	.	O	1	
+1	La	La	R	1	O
+2	gente	gente	G	1	O
+3	de	de	P	1	O
+4	recepción	recepción	G	1	O
+5	fue	fue	G	1	O
+6	muy	muy	G	1	O
+7	amable	amable	G	1	O
+8	cuando	cuando	N	1	O
+9	les	les	N	1	O
+10	consulté	consulté	V	1	O
+11	sobre	sobre	G	1	O
+12	información	información	N	1	O
+13	turística	turística	N	1	O
+14	.	.	O	1	O
 
-1	El	El	R	1	
-2	pueblo	pueblo	N	1	
-3	donde	donde	V	1	
-4	está	está	N	1	
-5	no	no	D	1	
-6	es	es	N	1	
-7	nada	nada	O	1	
-8	del	del	O	1	
-9	otro	otro	O	1	
-10	mundo	mundo	O	1	
-11	,	,	O	1	
-12	pero	pero	O	1	
-13	está	está	O	1	
-14	cerca	cerca	O	1	
-15	de	de	O	1	
-16	Barcelona	Barcelona	R	1	ne=Location
-17	,	,	O	1	
-18	que	que	N	1	
-19	es	es	N	1	
-20	lo	lo	V	1	
-21	que	que	V	1	
-22	me	me	Q	1	
-23	interesaba	interesaba	N	1	
-24	,	,	O	1	
-25	y	y	G	1	
-26	es	es	N	1	
-27	bastante	bastante	V	1	
-28	mas	mas	G	1	
-29	barato	barato	N	1	
-30	que	que	N	1	
-31	en	en	O	1	
-32	la	la	O	1	
-33	ciudad	ciudad	O	1	
-34	condal	condal	N	1	
-35	en	en	P	1	
-36	si	si	N	1	
-37	.	.	O	1	
+1	El	El	R	1	O
+2	pueblo	pueblo	N	1	O
+3	donde	donde	V	1	O
+4	está	está	N	1	O
+5	no	no	D	1	O
+6	es	es	N	1	O
+7	nada	nada	O	1	O
+8	del	del	O	1	O
+9	otro	otro	O	1	O
+10	mundo	mundo	O	1	O
+11	,	,	O	1	O
+12	pero	pero	O	1	O
+13	está	está	O	1	O
+14	cerca	cerca	O	1	O
+15	de	de	O	1	O
+16	Barcelona	Barcelona	R	1	I-Location
+17	,	,	O	1	O
+18	que	que	N	1	O
+19	es	es	N	1	O
+20	lo	lo	V	1	O
+21	que	que	V	1	O
+22	me	me	Q	1	O
+23	interesaba	interesaba	N	1	O
+24	,	,	O	1	O
+25	y	y	G	1	O
+26	es	es	N	1	O
+27	bastante	bastante	V	1	O
+28	mas	mas	G	1	O
+29	barato	barato	N	1	O
+30	que	que	N	1	O
+31	en	en	O	1	O
+32	la	la	O	1	O
+33	ciudad	ciudad	O	1	O
+34	condal	condal	N	1	O
+35	en	en	P	1	O
+36	si	si	N	1	O
+37	.	.	O	1	O
 

@@ -1,76 +1,77 @@
-1	Favoloso	favoloso	R	1	
+1	Favoloso	favoloso	R	1	O
 
-1	Tra	tra	P	1	
-2	fine	fine	N	1	
-3	febbraio	febbraio	N	1	
-4	e	e	Q	1	
-5	inizio	inizio	O	1	
-6	marzo	marzo	N	1	
-7	sono	essere	V	1	
-8	stata	essere	V	1	
-9	ospite	ospite	N	1	
-10	di	di	P	1	
-11	questo	questo	G	1	
-12	favoloso	favoloso	G	1	
-13	hotel	hotel	N	1	
-14	.	.	O	1	
+1	Tra	tra	P	1	O
+2	fine	fine	N	1	O
+3	febbraio	febbraio	N	1	O
+4	e	e	Q	1	O
+5	inizio	inizio	O	1	O
+6	marzo	marzo	N	1	O
+7	sono	essere	V	1	O
+8	stata	essere	V	1	O
+9	ospite	ospite	N	1	O
+10	di	di	P	1	O
+11	questo	questo	G	1	O
+12	favoloso	favoloso	G	1	O
+13	hotel	hotel	N	1	O
+14	.	.	O	1	O
 
-1	Sito	sito	N	1	
-2	a	a	P	1	
-3	pochi	poco	G	1	
-4	pasi	pasi	N	1	
-5	dal	dal	P	1	
-6	Jumeirah_Mall	jumeirah_mall	R	1	ne=POI
-7	è	è	R	1	
-8	splendido	splendido	G	1	
-9	;	;	O	1	
-10	ottima	ottimo	G	1	
-11	posizione	posizione	N	1	
-12	per	per	P	1	
-13	viaggi	viaggio	N	1	
-14	di	di	P	1	
-15	lavoro	lavoro	N	1	
-16	,	,	O	1	
-17	ottimo	ottimo	G	1	
-18	personale	personale	G	1	
-19	e	e	Q	1	
-20	se	se	Q	1	
-21	lo	lo	Q	1	
-22	si	si	Q	1	
-23	prenota	prenotare	V	1	
-24	con	con	P	1	
-25	un	uno	D	1	
-26	certo	certo	N	1	
-27	anticipo	anticipo	N	1	
-28	anche	anche	Q	1	
-29	ottimo	ottimo	G	1	
-30	raporto	raporto	N	1	
-31	qualità	qualità	G	1	
-32	prezzo	prezzo	N	1	
-33	.	.	O	1	
+1	Sito	sito	N	1	O
+2	a	a	P	1	O
+3	pochi	poco	G	1	O
+4	pasi	pasi	N	1	O
+5	dal	dal	P	1	O
+6	Jumeirah	jumeirah	R	1	I-POI
+7	Mall	mall	R	1	I-POI
+8	è	è	R	1	O
+9	splendido	splendido	G	1	O
+10	;	;	O	1	O
+11	ottima	ottimo	G	1	O
+12	posizione	posizione	N	1	O
+13	per	per	P	1	O
+14	viaggi	viaggio	N	1	O
+15	di	di	P	1	O
+16	lavoro	lavoro	N	1	O
+17	,	,	O	1	O
+18	ottimo	ottimo	G	1	O
+19	personale	personale	G	1	O
+20	e	e	Q	1	O
+21	se	se	Q	1	O
+22	lo	lo	Q	1	O
+23	si	si	Q	1	O
+24	prenota	prenotare	V	1	O
+25	con	con	P	1	O
+26	un	uno	D	1	O
+27	certo	certo	N	1	O
+28	anticipo	anticipo	N	1	O
+29	anche	anche	Q	1	O
+30	ottimo	ottimo	G	1	O
+31	raporto	raporto	N	1	O
+32	qualità	qualità	G	1	O
+33	prezzo	prezzo	N	1	O
+34	.	.	O	1	O
 
-1	Hanno	avere	V	1	
-2	una	uno	D	1	
-3	navetta	navetta	N	1	
-4	che	che	Q	1	
-5	collega	collegare	V	1	
-6	direttamente	direttamente	A	1	
-7	l'	lo	D	1	
-8	hotel	hotel	N	1	
-9	con	con	P	1	
-10	la	lo	D	1	
-11	loro	loro	G	1	
-12	spiaggia	spiaggia	N	1	
-13	privata	privare	V	1	
-14	.	.	O	1	
+1	Hanno	avere	V	1	O
+2	una	uno	D	1	O
+3	navetta	navetta	N	1	O
+4	che	che	Q	1	O
+5	collega	collegare	V	1	O
+6	direttamente	direttamente	A	1	O
+7	l'	lo	D	1	O
+8	hotel	hotel	N	1	O
+9	con	con	P	1	O
+10	la	lo	D	1	O
+11	loro	loro	G	1	O
+12	spiaggia	spiaggia	N	1	O
+13	privata	privare	V	1	O
+14	.	.	O	1	O
 
-1	provate	provare	V	1	
-2	la	lo	D	1	
-3	palestra	palestra	N	1	
-4	,	,	O	1	
-5	è	è	N	1	
-6	una	uno	D	1	
-7	cosa	cosa	N	1	
-8	sensazionale	sensazionale	G	1	
-9	!	!	O	1	
+1	provate	provare	V	1	O
+2	la	lo	D	1	O
+3	palestra	palestra	N	1	O
+4	,	,	O	1	O
+5	è	è	N	1	O
+6	una	uno	D	1	O
+7	cosa	cosa	N	1	O
+8	sensazionale	sensazionale	G	1	O
+9	!	!	O	1	O
 

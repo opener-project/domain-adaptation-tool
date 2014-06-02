@@ -1,140 +1,140 @@
-1	Decoración	Decoración	R	1	
-2	vanguardista	vanguardista	R	1	
+1	Decoración	Decoración	R	1	O
+2	vanguardista	vanguardista	R	1	O
 
-1	Se	Se	R	1	
-2	trata	trata	O	1	
-3	de	de	O	1	
-4	un	un	G	1	
-5	hotel	hotel	N	1	
-6	pequeño	pequeño	N	1	
-7	,	,	O	1	
-8	de	de	P	1	
-9	diseño	diseño	N	1	
-10	,	,	O	1	
-11	en	en	P	1	
-12	el	el	N	1	
-13	que	que	N	1	
-14	se	se	Q	1	
-15	cuidan	cuidan	G	1	
-16	todos	todos	N	1	
-17	los	los	N	1	
-18	detalles	detalles	N	1	
-19	con	con	A	1	
-20	una	una	G	1	
-21	excelente	excelente	P	1	
-22	relación	relación	G	1	
-23	calidad	calidad	G	1	
-24	·	·	N	1	
-25	precio	precio	N	1	
-26	.	.	O	1	
+1	Se	Se	R	1	O
+2	trata	trata	O	1	O
+3	de	de	O	1	O
+4	un	un	G	1	O
+5	hotel	hotel	N	1	O
+6	pequeño	pequeño	N	1	O
+7	,	,	O	1	O
+8	de	de	P	1	O
+9	diseño	diseño	N	1	O
+10	,	,	O	1	O
+11	en	en	P	1	O
+12	el	el	N	1	O
+13	que	que	N	1	O
+14	se	se	Q	1	O
+15	cuidan	cuidan	G	1	O
+16	todos	todos	N	1	O
+17	los	los	N	1	O
+18	detalles	detalles	N	1	O
+19	con	con	A	1	O
+20	una	una	G	1	O
+21	excelente	excelente	P	1	O
+22	relación	relación	G	1	O
+23	calidad	calidad	G	1	O
+24	·	·	N	1	O
+25	precio	precio	N	1	O
+26	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	O	1	
-3	se	se	O	1	
-4	sale	sale	O	1	
-5	de	de	O	1	
-6	los	los	O	1	
-7	estándares	estándares	O	1	
-8	y	y	G	1	
-9	ofrecen	ofrecen	G	1	
-10	desde	desde	N	1	
-11	shushi	shushi	N	1	
-12	hasta	hasta	V	1	
-13	pequeñas	pequeñas	N	1	
-14	frutas	frutas	N	1	
-15	tropicales	tropicales	N	1	
-16	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	O	1	O
+3	se	se	O	1	O
+4	sale	sale	O	1	O
+5	de	de	O	1	O
+6	los	los	O	1	O
+7	estándares	estándares	O	1	O
+8	y	y	G	1	O
+9	ofrecen	ofrecen	G	1	O
+10	desde	desde	N	1	O
+11	shushi	shushi	N	1	O
+12	hasta	hasta	V	1	O
+13	pequeñas	pequeñas	N	1	O
+14	frutas	frutas	N	1	O
+15	tropicales	tropicales	N	1	O
+16	.	.	O	1	O
 
-1	Cuenta	Cuenta	R	1	
-2	con	con	A	1	
-3	una	una	G	1	
-4	terraza	terraza	N	1	
-5	chill	chill	N	1	
-6	out	out	P	1	
-7	,	,	O	1	
-8	que	que	V	1	
-9	hace	hace	N	1	
-10	que	que	G	1	
-11	te	te	N	1	
-12	olvides	olvides	V	1	
-13	de	de	P	1	
-14	que	que	G	1	
-15	estás	estás	N	1	
-16	en	en	P	1	
-17	una	una	G	1	
-18	gran	gran	N	1	
-19	ciudad	ciudad	N	1	
-20	.	.	O	1	
+1	Cuenta	Cuenta	R	1	O
+2	con	con	A	1	O
+3	una	una	G	1	O
+4	terraza	terraza	N	1	O
+5	chill	chill	N	1	O
+6	out	out	P	1	O
+7	,	,	O	1	O
+8	que	que	V	1	O
+9	hace	hace	N	1	O
+10	que	que	G	1	O
+11	te	te	N	1	O
+12	olvides	olvides	V	1	O
+13	de	de	P	1	O
+14	que	que	G	1	O
+15	estás	estás	N	1	O
+16	en	en	P	1	O
+17	una	una	G	1	O
+18	gran	gran	N	1	O
+19	ciudad	ciudad	N	1	O
+20	.	.	O	1	O
 
-1	Su	Su	R	1	
-2	ubicación	ubicación	N	1	
-3	,	,	O	1	
-4	a	a	D	1	
-5	pocos	pocos	N	1	
-6	metros	metros	O	1	
-7	de	de	O	1	
-8	la	la	O	1	
-9	estación	estación	O	1	
-10	de	de	O	1	
-11	tren	tren	O	1	
-12	,	,	O	1	
-13	es	es	V	1	
-14	perfecta	perfecta	G	1	
-15	para	para	N	1	
-16	acceder	acceder	O	1	
-17	de	de	O	1	
-18	forma	forma	O	1	
-19	rápida	rápida	O	1	
-20	al	al	G	1	
-21	aeropuerto	aeropuerto	N	1	
-22	.	.	O	1	
+1	Su	Su	R	1	O
+2	ubicación	ubicación	N	1	O
+3	,	,	O	1	O
+4	a	a	D	1	O
+5	pocos	pocos	N	1	O
+6	metros	metros	O	1	O
+7	de	de	O	1	O
+8	la	la	O	1	O
+9	estación	estación	O	1	O
+10	de	de	O	1	O
+11	tren	tren	O	1	O
+12	,	,	O	1	O
+13	es	es	V	1	O
+14	perfecta	perfecta	G	1	O
+15	para	para	N	1	O
+16	acceder	acceder	O	1	O
+17	de	de	O	1	O
+18	forma	forma	O	1	O
+19	rápida	rápida	O	1	O
+20	al	al	G	1	O
+21	aeropuerto	aeropuerto	N	1	O
+22	.	.	O	1	O
 
-1	Solemos	Solemos	R	1	
-2	aprovechar	aprovechar	G	1	
-3	para	para	N	1	
-4	alojarnos	alojarnos	N	1	
-5	en	en	P	1	
-6	este	este	G	1	
-7	hotel	hotel	N	1	
-8	cuando	cuando	N	1	
-9	hacemos	hacemos	V	1	
-10	escalas	escalas	N	1	
-11	de	de	P	1	
-12	viajes	viajes	N	1	
-13	,	,	O	1	
-14	y	y	G	1	
-15	queremos	queremos	N	1	
-16	vivir	vivir	V	1	
-17	un	un	G	1	
-18	poco	poco	O	1	
-19	la	la	O	1	
-20	ciudad	ciudad	O	1	
-21	(	(	O	1	
-22	mejor	mejor	G	1	
-23	que	que	N	1	
-24	los	los	N	1	
-25	típicos	típicos	N	1	
-26	hoteles	hoteles	N	1	
-27	en	en	P	1	
-28	el	el	N	1	
-29	extraradio	extraradio	N	1	
-30	del	del	O	1	
-31	aeropuerto	aeropuerto	O	1	
-32	)	)	O	1	
-33	.	.	O	1	
+1	Solemos	Solemos	R	1	O
+2	aprovechar	aprovechar	G	1	O
+3	para	para	N	1	O
+4	alojarnos	alojarnos	N	1	O
+5	en	en	P	1	O
+6	este	este	G	1	O
+7	hotel	hotel	N	1	O
+8	cuando	cuando	N	1	O
+9	hacemos	hacemos	V	1	O
+10	escalas	escalas	N	1	O
+11	de	de	P	1	O
+12	viajes	viajes	N	1	O
+13	,	,	O	1	O
+14	y	y	G	1	O
+15	queremos	queremos	N	1	O
+16	vivir	vivir	V	1	O
+17	un	un	G	1	O
+18	poco	poco	O	1	O
+19	la	la	O	1	O
+20	ciudad	ciudad	O	1	O
+21	(	(	O	1	O
+22	mejor	mejor	G	1	O
+23	que	que	N	1	O
+24	los	los	N	1	O
+25	típicos	típicos	N	1	O
+26	hoteles	hoteles	N	1	O
+27	en	en	P	1	O
+28	el	el	N	1	O
+29	extraradio	extraradio	N	1	O
+30	del	del	O	1	O
+31	aeropuerto	aeropuerto	O	1	O
+32	)	)	O	1	O
+33	.	.	O	1	O
 
-1	Tiene	Tiene	R	1	
-2	WIFI	WIFI	R	1	
-3	gratis	gratis	V	1	
-4	que	que	G	1	
-5	funciona	funciona	N	1	
-6	muy	muy	G	1	
-7	bien	bien	N	1	
-8	y	y	G	1	
-9	una	una	G	1	
-10	pequeña	pequeña	N	1	
-11	zona	zona	O	1	
-12	de	de	O	1	
-13	SPA	SPA	R	1	
-14	.	.	O	1	
+1	Tiene	Tiene	R	1	O
+2	WIFI	WIFI	R	1	O
+3	gratis	gratis	V	1	O
+4	que	que	G	1	O
+5	funciona	funciona	N	1	O
+6	muy	muy	G	1	O
+7	bien	bien	N	1	O
+8	y	y	G	1	O
+9	una	una	G	1	O
+10	pequeña	pequeña	N	1	O
+11	zona	zona	O	1	O
+12	de	de	O	1	O
+13	SPA	SPA	R	1	O
+14	.	.	O	1	O
 

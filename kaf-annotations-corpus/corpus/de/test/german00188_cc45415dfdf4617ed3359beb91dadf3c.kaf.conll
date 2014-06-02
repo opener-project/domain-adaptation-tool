@@ -1,95 +1,98 @@
-1	Für	für	P	1	
-2	einen	eine	D	1	
-3	kurzen	kurz	G	1	
-4	Geschäftstrip	Geschäftstrip	O	1	
-5	ok	ok	O	1	
-6	,	,	O	1	
-7	mehr	mehr	A	1	
-8	nicht	nicht	O	1	
+1	Für	für	P	1	O
+2	einen	eine	D	1	O
+3	kurzen	kurz	G	1	O
+4	Geschäftstrip	Geschäftstrip	O	1	O
+5	ok	ok	O	1	O
+6	,	,	O	1	O
+7	mehr	mehr	A	1	O
+8	nicht	nicht	O	1	O
 
-1	Hotel	Hotel	N	1	
-2	ist	sein	V	1	
-3	für	für	P	1	
-4	einen	eine	D	1	
-5	kurzen	kurz	G	1	
-6	Trip	Trip	N	1	
-7	zu	zu	O	1	
-8	empfehlen	empfehlen	V	1	
-9	,	,	O	1	
-10	aber	aber	C	1	
-11	keinesfalls	keinesfalls	A	1	
-12	für	für	P	1	
-13	Urlaub	Urlaub	R	1	
-14	oder	oder	C	1	
-15	eine	eine	D	1	
-16	Familie	Familie	N	1	
-17	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	ist	sein	V	1	O
+3	für	für	P	1	O
+4	einen	eine	D	1	O
+5	kurzen	kurz	G	1	O
+6	Trip	Trip	N	1	O
+7	zu	zu	O	1	O
+8	empfehlen	empfehlen	V	1	O
+9	,	,	O	1	O
+10	aber	aber	C	1	O
+11	keinesfalls	keinesfalls	A	1	O
+12	für	für	P	1	O
+13	Urlaub	Urlaub	R	1	O
+14	oder	oder	C	1	O
+15	eine	eine	D	1	O
+16	Familie	Familie	N	1	O
+17	.	.	O	1	O
 
-1	Viele	viele	Q	1	
-2	Raucherzimmer	Raucherzimmer	N	1	
-3	,	,	O	1	
-4	was	was	Q	1	
-5	sich	sich	Q	1	
-6	auch	auch	A	1	
-7	auf	auf	P	1	
-8	den	die	D	1	
-9	Fluren	Flur	N	1	
-10	bemerkbar	bemerkbar	G	1	
-11	macht	machen	V	1	
-12	.	.	O	1	
+1	Viele	viele	Q	1	O
+2	Raucherzimmer	Raucherzimmer	N	1	O
+3	,	,	O	1	O
+4	was	was	Q	1	O
+5	sich	sich	Q	1	O
+6	auch	auch	A	1	O
+7	auf	auf	P	1	O
+8	den	die	D	1	O
+9	Fluren	Flur	N	1	O
+10	bemerkbar	bemerkbar	G	1	O
+11	macht	machen	V	1	O
+12	.	.	O	1	O
 
-1	Frühstück	frühstücken	V	1	
-2	sehr	sehr	A	1	
-3	spartanisch	spartanisch	G	1	
-4	.	.	O	1	
+1	Frühstück	frühstücken	V	1	O
+2	sehr	sehr	A	1	O
+3	spartanisch	spartanisch	G	1	O
+4	.	.	O	1	O
 
-1	Nette	nett	G	1	
-2	kleine	klein	G	1	
-3	Hotelbar	Hotelbar	N	1	
-4	für	für	P	1	
-5	gesellige	gesellig	G	1	
-6	Stunden	Stunde|Stunden	N	1	
-7	·	·	O	1	
-8	top	top	O	1	
-9	!	!	O	1	
+1	Nette	nett	G	1	O
+2	kleine	klein	G	1	O
+3	Hotelbar	Hotelbar	N	1	O
+4	für	für	P	1	O
+5	gesellige	gesellig	G	1	O
+6	Stunden	Stunde|Stunden	N	1	O
+7	·	·	O	1	O
+8	top	top	O	1	O
+9	!	!	O	1	O
 
-1	Mit	mit	P	1	
-2	dem	die	D	1	
-3	Taxi	Taxi	N	1	
-4	ist	sein	V	1	
-5	man	man	Q	1	
-6	schnell	schnell	G	1	
-7	am	an	P	1	
-8	Burj_Khalifa	Burj_Khalifa	R	1	ne=Location
-9	&	&	C	1	
-10	Dubai_Mall	Dubai_Mall	R	1	ne=Location
-11	(	(	O	1	
-12	ca.	ca.	A	1	
-13	3_€	3_€	R	1	ne=Money
-14	)	)	O	1	
-15	.	.	O	1	
+1	Mit	mit	P	1	O
+2	dem	die	D	1	O
+3	Taxi	Taxi	N	1	O
+4	ist	sein	V	1	O
+5	man	man	Q	1	O
+6	schnell	schnell	G	1	O
+7	am	an	P	1	O
+8	Burj	Burj	O	1	I-Location
+9	Khalifa	Khalifa	R	1	I-Location
+10	&	&	C	1	O
+11	Dubai	Dubai	R	1	I-Location
+12	Mall	Mall	R	1	I-Location
+13	(	(	O	1	O
+14	ca.	ca.	A	1	O
+15	3	3	O	1	I-Money
+16	€	€	O	1	I-Money
+17	)	)	O	1	O
+18	.	.	O	1	O
 
-1	In	in	P	1	
-2	die	die	D	1	
-3	selbe	selbe	O	1	
-4	Richtung	Richtung	N	1	
-5	hat	haben	V	1	
-6	es	es	Q	1	
-7	nach	nach	P	1	
-8	einiger	einige	Q	1	
-9	Zeit	Zeit	N	1	
-10	einen	eine	D	1	
-11	Supermarkt	Supermarkt	N	1	
-12	und	und	C	1	
-13	einen	eine	D	1	
-14	kleinen	klein	G	1	
-15	Imbiss	Imbiss	N	1	
-16	,	,	O	1	
-17	gut	gut	G	1	
-18	für	für	P	1	
-19	einen	eine	D	1	
-20	Snack	Snack	O	1	
-21	am	an	P	1	
-22	Abend	Abend	N	1	
-23	.	.	O	1	
+1	In	in	P	1	O
+2	die	die	D	1	O
+3	selbe	selbe	O	1	O
+4	Richtung	Richtung	N	1	O
+5	hat	haben	V	1	O
+6	es	es	Q	1	O
+7	nach	nach	P	1	O
+8	einiger	einige	Q	1	O
+9	Zeit	Zeit	N	1	O
+10	einen	eine	D	1	O
+11	Supermarkt	Supermarkt	N	1	O
+12	und	und	C	1	O
+13	einen	eine	D	1	O
+14	kleinen	klein	G	1	O
+15	Imbiss	Imbiss	N	1	O
+16	,	,	O	1	O
+17	gut	gut	G	1	O
+18	für	für	P	1	O
+19	einen	eine	D	1	O
+20	Snack	Snack	O	1	O
+21	am	an	P	1	O
+22	Abend	Abend	N	1	O
+23	.	.	O	1	O
 

@@ -1,125 +1,125 @@
-1	Goede	goed	G	1	
-2	verandering	verandering	N	1	
-3	om	om	C	1	
-4	de	de	D	1	
-5	"	"	O	1	
-6	oude	oud	G	1	
-7	"	"	O	1	
-8	kamers	kamer	N	1	
-9	te	te	O	1	
-10	vernieuwen	vernieuwen	V	1	
+1	Goede	goed	G	1	O
+2	verandering	verandering	N	1	O
+3	om	om	C	1	O
+4	de	de	D	1	O
+5	"	"	O	1	O
+6	oude	oud	G	1	O
+7	"	"	O	1	O
+8	kamers	kamer	N	1	O
+9	te	te	O	1	O
+10	vernieuwen	vernieuwen	V	1	O
 
-1	Duidelijk	duidelijk	G	1	
-2	een	een	D	1	
-3	ouder	oud	G	1	
-4	hotel	hotel	N	1	
-5	,	,	O	1	
-6	maar	maar	C	1	
-7	daar	daar	A	1	
-8	zijn	zijn	V	1	
-9	jullie	jullie	Q	1	
-10	nu	nu	A	1	
-11	aan	aan	P	1	
-12	het	het	D	1	
-13	werken	werk	N	1	
-14	,	,	O	1	
-15	met	met	P	1	
-16	een	een	D	1	
-17	aantal	aantal	N	1	
-18	kamers	kamer	N	1	
-19	te	te	O	1	
-20	vernieuwen	vernieuwen	V	1	
-21	.	.	O	1	
+1	Duidelijk	duidelijk	G	1	O
+2	een	een	D	1	O
+3	ouder	oud	G	1	O
+4	hotel	hotel	N	1	O
+5	,	,	O	1	O
+6	maar	maar	C	1	O
+7	daar	daar	A	1	O
+8	zijn	zijn	V	1	O
+9	jullie	jullie	Q	1	O
+10	nu	nu	A	1	O
+11	aan	aan	P	1	O
+12	het	het	D	1	O
+13	werken	werk	N	1	O
+14	,	,	O	1	O
+15	met	met	P	1	O
+16	een	een	D	1	O
+17	aantal	aantal	N	1	O
+18	kamers	kamer	N	1	O
+19	te	te	O	1	O
+20	vernieuwen	vernieuwen	V	1	O
+21	.	.	O	1	O
 
-1	Klein	klein	G	1	
-2	TV	TV	O	1	
-3	toestel	toestel	N	1	
-4	,	,	O	1	
-5	plus	plus	A	1	
-6	maar	maar	A	1	
-7	enkele	enkel	D	1	
-8	tv	tv	N	1	
-9	kanalen	kanaal	N	1	
-10	die	die	Q	1	
-11	je	je	Q	1	
-12	werkelijk	werkelijk	G	1	
-13	kan	kunnen	V	1	
-14	zien	zien	V	1	
-15	,	,	O	1	
-16	de	de	D	1	
-17	rest	rest	N	1	
-18	is	zijn	V	1	
-19	niet	niet	A	1	
-20	beschikbaar	beschikbaar	G	1	
-21	of	of	C	1	
-22	bevriezende	bevriezen	V	1	
-23	beelden	beeld	N	1	
-24	op	op	P	1	
-25	je	je	Q	1	
-26	scherm	schermen	V	1	
-27	.	.	O	1	
+1	Klein	klein	G	1	O
+2	TV	TV	O	1	O
+3	toestel	toestel	N	1	O
+4	,	,	O	1	O
+5	plus	plus	A	1	O
+6	maar	maar	A	1	O
+7	enkele	enkel	D	1	O
+8	tv	tv	N	1	O
+9	kanalen	kanaal	N	1	O
+10	die	die	Q	1	O
+11	je	je	Q	1	O
+12	werkelijk	werkelijk	G	1	O
+13	kan	kunnen	V	1	O
+14	zien	zien	V	1	O
+15	,	,	O	1	O
+16	de	de	D	1	O
+17	rest	rest	N	1	O
+18	is	zijn	V	1	O
+19	niet	niet	A	1	O
+20	beschikbaar	beschikbaar	G	1	O
+21	of	of	C	1	O
+22	bevriezende	bevriezen	V	1	O
+23	beelden	beeld	N	1	O
+24	op	op	P	1	O
+25	je	je	Q	1	O
+26	scherm	schermen	V	1	O
+27	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	kom	komen	V	1	
-3	trouwens	trouwens	A	1	
-4	al	al	C	1	
-5	12	@card@	O	1	
-6	jaar	jaar	N	1	
-7	bij	bij	P	1	
-8	Riverside	Riverside	O	1	
-9	,	,	O	1	
-10	wat	wat	Q	1	
-11	intussen	intussen	A	1	
-12	verschillende	verschillend	G	1	
-13	keren	keren	V	1	
-14	is	zijn	V	1	
-15	veranderd	veranderen	V	1	
-16	van	van	P	1	
-17	staff	staff	O	1	
-18	en	en	C	1	
-19	naam	naam	N	1	
-20	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	kom	komen	V	1	O
+3	trouwens	trouwens	A	1	O
+4	al	al	C	1	O
+5	12	@card@	O	1	O
+6	jaar	jaar	N	1	O
+7	bij	bij	P	1	O
+8	Riverside	Riverside	O	1	O
+9	,	,	O	1	O
+10	wat	wat	Q	1	O
+11	intussen	intussen	A	1	O
+12	verschillende	verschillend	G	1	O
+13	keren	keren	V	1	O
+14	is	zijn	V	1	O
+15	veranderd	veranderen	V	1	O
+16	van	van	P	1	O
+17	staff	staff	O	1	O
+18	en	en	C	1	O
+19	naam	naam	N	1	O
+20	.	.	O	1	O
 
-1	Dus	dus	A	1	
-2	heb	hebben	V	1	
-3	ook	ook	A	1	
-4	al	al	A	1	
-5	heel	heel	A	1	
-6	wat	wat	D	1	
-7	mensen	mens	N	1	
-8	zien	zien	V	1	
-9	gaan	gaan	V	1	
-10	en	en	C	1	
-11	komen	komen	V	1	
-12	tijdens	tijdens	P	1	
-13	mijn	mijn	D	1	
-14	verblijven	verblijf	N	1	
-15	.	.	O	1	
+1	Dus	dus	A	1	O
+2	heb	hebben	V	1	O
+3	ook	ook	A	1	O
+4	al	al	A	1	O
+5	heel	heel	A	1	O
+6	wat	wat	D	1	O
+7	mensen	mens	N	1	O
+8	zien	zien	V	1	O
+9	gaan	gaan	V	1	O
+10	en	en	C	1	O
+11	komen	komen	V	1	O
+12	tijdens	tijdens	P	1	O
+13	mijn	mijn	D	1	O
+14	verblijven	verblijf	N	1	O
+15	.	.	O	1	O
 
-1	Van	van	P	1	
-2	hele	heel	G	1	
-3	lieve	lief	G	1	
-4	mensen	mens	N	1	
-5	tot	tot	P	1	
-6	ettertjes	ettertjes	O	1	
-7	.	.	O	1	
+1	Van	van	P	1	O
+2	hele	heel	G	1	O
+3	lieve	lief	G	1	O
+4	mensen	mens	N	1	O
+5	tot	tot	P	1	O
+6	ettertjes	ettertjes	O	1	O
+7	.	.	O	1	O
 
-1	Gelukkig	gelukkig	G	1	
-2	zijn	zijn	V	1	
-3	er	er	Q	1	
-4	nog	nog	A	1	
-5	hele	heel	G	1	
-6	lieve	lief	G	1	
-7	mensen	mens	N	1	
-8	bij	bij	P	1	
-9	jullie	jullie	D	1	
-10	in	in	P	1	
-11	dienst	dienst	N	1	
-12	.	.	O	1	
+1	Gelukkig	gelukkig	G	1	O
+2	zijn	zijn	V	1	O
+3	er	er	Q	1	O
+4	nog	nog	A	1	O
+5	hele	heel	G	1	O
+6	lieve	lief	G	1	O
+7	mensen	mens	N	1	O
+8	bij	bij	P	1	O
+9	jullie	jullie	D	1	O
+10	in	in	P	1	O
+11	dienst	dienst	N	1	O
+12	.	.	O	1	O
 
-1	Groeten	groet	N	1	
-2	,	,	O	1	
+1	Groeten	groet	N	1	O
+2	,	,	O	1	O
 
-1	Roland	Roland	O	1	
-2	Demuth	Demuth	O	1	
+1	Roland	Roland	O	1	O
+2	Demuth	Demuth	O	1	O
 

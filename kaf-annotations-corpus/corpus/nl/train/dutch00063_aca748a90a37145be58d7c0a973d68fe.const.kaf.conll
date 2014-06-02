@@ -1,129 +1,129 @@
-1	Mijn	mijn	D	1	
-2	pelgrimstocht	pelgrimstocht	N	1	
-3	naar	naar	P	1	
-4	Tonda	Tonda	R	1	ne=Location
+1	Mijn	mijn	D	1	O
+2	pelgrimstocht	pelgrimstocht	N	1	O
+3	naar	naar	P	1	O
+4	Tonda	Tonda	R	1	I-Location
 
-1	Ik	ik	Q	1	
-2	maakte	maken	V	1	
-3	mijn	mijn	D	1	
-4	pelgrimstocht	pelgrimstocht	N	1	
-5	,	,	O	1	
-6	omdat	omdat	C	1	
-7	ik	ik	Q	1	
-8	in	in	P	1	
-9	het	het	D	1	
-10	verleden	verleden	N	1	
-11	meerdere	meerdere	D	1	
-12	malen	maal	N	1	
-13	met	met	P	1	
-14	mijn	mijn	D	1	
-15	,	,	O	1	
-16	nu	nu	A	1	
-17	helaas	helaas	A	1	
-18	overleden	overlijden	V	1	
-19	echtgenoot	echtgenoot	N	1	
-20	hier	hier	A	1	
-21	was	wezen|zijn	V	1	
-22	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	maakte	maken	V	1	O
+3	mijn	mijn	D	1	O
+4	pelgrimstocht	pelgrimstocht	N	1	O
+5	,	,	O	1	O
+6	omdat	omdat	C	1	O
+7	ik	ik	Q	1	O
+8	in	in	P	1	O
+9	het	het	D	1	O
+10	verleden	verleden	N	1	O
+11	meerdere	meerdere	D	1	O
+12	malen	maal	N	1	O
+13	met	met	P	1	O
+14	mijn	mijn	D	1	O
+15	,	,	O	1	O
+16	nu	nu	A	1	O
+17	helaas	helaas	A	1	O
+18	overleden	overlijden	V	1	O
+19	echtgenoot	echtgenoot	N	1	O
+20	hier	hier	A	1	O
+21	was	wezen|zijn	V	1	O
+22	.	.	O	1	O
 
-1	Nu	nu	C	1	
-2	ik	ik	Q	1	
-3	zelf	zelf	Q	1	
-4	ook	ook	A	1	
-5	oud	oud	G	1	
-6	ben	zijn	V	1	
-7	,	,	O	1	
-8	wilde	willen	V	1	
-9	ik	ik	Q	1	
-10	nog	nog	A	1	
-11	eenmaal	eenmaal	A	1	
-12	Tonda	Tonda	R	1	ne=Location
-13	zien	zien	V	1	
-14	.	.	O	1	
+1	Nu	nu	C	1	O
+2	ik	ik	Q	1	O
+3	zelf	zelf	Q	1	O
+4	ook	ook	A	1	O
+5	oud	oud	G	1	O
+6	ben	zijn	V	1	O
+7	,	,	O	1	O
+8	wilde	willen	V	1	O
+9	ik	ik	Q	1	O
+10	nog	nog	A	1	O
+11	eenmaal	eenmaal	A	1	O
+12	Tonda	Tonda	R	1	I-Location
+13	zien	zien	V	1	O
+14	.	.	O	1	O
 
-1	Nog	nog	A	1	
-2	steeds	steeds	A	1	
-3	hetzelfde	hetzelfde	D	1	
-4	mooie	mooie	N	1	
-5	,	,	O	1	
-6	vriendelijke	vriendelijk	G	1	
-7	en	en	C	1	
-8	rustige	rustig	G	1	
-9	plekje	plekje	O	1	
-10	,	,	O	1	
-11	waar	waar	Q	1	
-12	we	we	Q	1	
-13	samen	samen	A	1	
-14	zo	zo	A	1	
-15	gelukkig	gelukkig	G	1	
-16	zijn	zijn	V	1	
-17	geweest	wezen|zijn	V	1	
-18	.	.	O	1	
+1	Nog	nog	A	1	O
+2	steeds	steeds	A	1	O
+3	hetzelfde	hetzelfde	D	1	O
+4	mooie	mooie	N	1	O
+5	,	,	O	1	O
+6	vriendelijke	vriendelijk	G	1	O
+7	en	en	C	1	O
+8	rustige	rustig	G	1	O
+9	plekje	plekje	O	1	O
+10	,	,	O	1	O
+11	waar	waar	Q	1	O
+12	we	we	Q	1	O
+13	samen	samen	A	1	O
+14	zo	zo	A	1	O
+15	gelukkig	gelukkig	G	1	O
+16	zijn	zijn	V	1	O
+17	geweest	wezen|zijn	V	1	O
+18	.	.	O	1	O
 
-1	Mijn	mijn	D	1	
-2	dochter	dochter	N	1	
-3	en	en	C	1	
-4	schoonzoon	schoonzoon	N	1	
-5	vergezelden	vergezellen	V	1	
-6	mij	mij	Q	1	
-7	,	,	O	1	
-8	zodat	zodat	C	1	
-9	het	het	D	1	
-10	voor	voor	P	1	
-11	mij	mij	Q	1	
-12	mogelijk	mogelijk	G	1	
-13	was	wezen|zijn	V	1	
-14	,	,	O	1	
-15	deze	deze	D	1	
-16	reis	reis	N	1	
-17	te	te	O	1	
-18	maken	maken	V	1	
-19	.	.	O	1	
+1	Mijn	mijn	D	1	O
+2	dochter	dochter	N	1	O
+3	en	en	C	1	O
+4	schoonzoon	schoonzoon	N	1	O
+5	vergezelden	vergezellen	V	1	O
+6	mij	mij	Q	1	O
+7	,	,	O	1	O
+8	zodat	zodat	C	1	O
+9	het	het	D	1	O
+10	voor	voor	P	1	O
+11	mij	mij	Q	1	O
+12	mogelijk	mogelijk	G	1	O
+13	was	wezen|zijn	V	1	O
+14	,	,	O	1	O
+15	deze	deze	D	1	O
+16	reis	reis	N	1	O
+17	te	te	O	1	O
+18	maken	maken	V	1	O
+19	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	kreeg	krijgen	V	1	
-3	de	de	D	1	
-4	beschikking	beschikking	N	1	
-5	over	over	P	1	
-6	een	een	D	1	
-7	van	van	P	1	
-8	Uw	Uw	O	1	
-9	nieuwgebouwde	nieuwgebouwde	O	1	
-10	appartementen	appartement	N	1	
-11	voor	voor	P	1	
-12	minder	min	G	1	
-13	·	·	O	1	
-14	validen	validen	O	1	
-15	,	,	O	1	
-16	prachtig	prachtig	G	1	
-17	gelegen	liggen	V	1	
-18	,	,	O	1	
-19	en	en	C	1	
-20	zeer	zeer	G	1	
-21	goed	goed	N	1	
-22	ingericht	inrichten	V	1	
-23	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	kreeg	krijgen	V	1	O
+3	de	de	D	1	O
+4	beschikking	beschikking	N	1	O
+5	over	over	P	1	O
+6	een	een	D	1	O
+7	van	van	P	1	O
+8	Uw	Uw	O	1	O
+9	nieuwgebouwde	nieuwgebouwde	O	1	O
+10	appartementen	appartement	N	1	O
+11	voor	voor	P	1	O
+12	minder	min	G	1	O
+13	·	·	O	1	O
+14	validen	validen	O	1	O
+15	,	,	O	1	O
+16	prachtig	prachtig	G	1	O
+17	gelegen	liggen	V	1	O
+18	,	,	O	1	O
+19	en	en	C	1	O
+20	zeer	zeer	G	1	O
+21	goed	goed	N	1	O
+22	ingericht	inrichten	V	1	O
+23	.	.	O	1	O
 
-1	Dank	dank	N	1	
-2	voor	voor	P	1	
-3	de	de	D	1	
-4	goede	goed	G	1	
-5	zorgen	zorg	N	1	
-6	en	en	C	1	
-7	de	de	D	1	
-8	vriendelijkheid	vriendelijkheid	N	1	
-9	van	van	P	1	
-10	het	het	D	1	
-11	personeel	personeel	N	1	
-12	.	.	O	1	
+1	Dank	dank	N	1	O
+2	voor	voor	P	1	O
+3	de	de	D	1	O
+4	goede	goed	G	1	O
+5	zorgen	zorg	N	1	O
+6	en	en	C	1	O
+7	de	de	D	1	O
+8	vriendelijkheid	vriendelijkheid	N	1	O
+9	van	van	P	1	O
+10	het	het	D	1	O
+11	personeel	personeel	N	1	O
+12	.	.	O	1	O
 
-1	Het	het	D	1	
-2	verblijf	verblijf	N	1	
-3	heeft	hebben	V	1	
-4	aan	aan	P	1	
-5	al	al	D	1	
-6	mijn	mijn	D	1	
-7	verwachtingen	verwachting	N	1	
-8	voldaan	voldoen	V	1	
-9	!	!	O	1	
+1	Het	het	D	1	O
+2	verblijf	verblijf	N	1	O
+3	heeft	hebben	V	1	O
+4	aan	aan	P	1	O
+5	al	al	D	1	O
+6	mijn	mijn	D	1	O
+7	verwachtingen	verwachting	N	1	O
+8	voldaan	voldoen	V	1	O
+9	!	!	O	1	O
 

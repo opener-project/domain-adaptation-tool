@@ -1,132 +1,132 @@
-1	Try	try	V	1	
-2	this	this	D	1	
-3	Hotel	hotel	N	1	
-4	only	only	A	1	
-5	if	if	P	1	
-6	you	you	Q	1	
-7	haven	haven	V	1	
-8	't	't	A	1	
-9	other	other	G	1	
-10	choises	choises	N	1	
-11	!	!	O	1	
+1	Try	try	V	1	O
+2	this	this	D	1	O
+3	Hotel	hotel	N	1	O
+4	only	only	A	1	O
+5	if	if	P	1	O
+6	you	you	Q	1	O
+7	haven	haven	V	1	O
+8	't	't	A	1	O
+9	other	other	G	1	O
+10	choises	choises	N	1	O
+11	!	!	O	1	O
 
-1	We	we	Q	1	
-2	must	must	O	1	
-3	pay	pay	V	1	
-4	at	at	P	1	
-5	check	check	N	1	
-6	in	in	P	1	
-7	.	.	O	1	
+1	We	we	Q	1	O
+2	must	must	O	1	O
+3	pay	pay	V	1	O
+4	at	at	P	1	O
+5	check	check	N	1	O
+6	in	in	P	1	O
+7	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	very	very	A	1	
-3	small	small	G	1	
-4	,	,	O	1	
-5	moquette	moquette	N	1	
-6	with	with	P	1	
-7	stains	stain	N	1	
-8	,	,	O	1	
-9	spiderweb	spiderweb	N	1	
-10	on	on	P	1	
-11	the	the	D	1	
-12	walls	wall	N	1	
-13	.	.	O	1	
+1	Room	Room	R	1	O
+2	very	very	A	1	O
+3	small	small	G	1	O
+4	,	,	O	1	O
+5	moquette	moquette	N	1	O
+6	with	with	P	1	O
+7	stains	stain	N	1	O
+8	,	,	O	1	O
+9	spiderweb	spiderweb	N	1	O
+10	on	on	P	1	O
+11	the	the	D	1	O
+12	walls	wall	N	1	O
+13	.	.	O	1	O
 
-1	Unconfortable	unconfortable	G	1	
-2	beds	bed	N	1	
-3	,	,	O	1	
-4	little	little	G	1	
-5	pillows	pillow	N	1	
-6	,	,	O	1	
-7	short	short	G	1	
-8	sheets	sheet	N	1	
-9	(	(	O	1	
-10	with	with	P	1	
-11	holes	hole	N	1	
-12	)	)	O	1	
-13	.	.	O	1	
+1	Unconfortable	unconfortable	G	1	O
+2	beds	bed	N	1	O
+3	,	,	O	1	O
+4	little	little	G	1	O
+5	pillows	pillow	N	1	O
+6	,	,	O	1	O
+7	short	short	G	1	O
+8	sheets	sheet	N	1	O
+9	(	(	O	1	O
+10	with	with	P	1	O
+11	holes	hole	N	1	O
+12	)	)	O	1	O
+13	.	.	O	1	O
 
-1	Last	last	G	1	
-2	day	day	N	1	
-3	we	we	Q	1	
-4	finished	finish	V	1	
-5	toilet	toilet	N	1	
-6	paper	paper	N	1	
-7	,	,	O	1	
-8	we	we	Q	1	
-9	haven	haven	V	1	
-10	't	't	A	1	
-11	found	find	V	1	
-12	a	a	D	1	
-13	new	new	G	1	
-14	roll	roll	N	1	
-15	.	.	O	1	
+1	Last	last	G	1	O
+2	day	day	N	1	O
+3	we	we	Q	1	O
+4	finished	finish	V	1	O
+5	toilet	toilet	N	1	O
+6	paper	paper	N	1	O
+7	,	,	O	1	O
+8	we	we	Q	1	O
+9	haven	haven	V	1	O
+10	't	't	A	1	O
+11	found	find	V	1	O
+12	a	a	D	1	O
+13	new	new	G	1	O
+14	roll	roll	N	1	O
+15	.	.	O	1	O
 
-1	The	the	D	1	
-2	drain	drain	N	1	
-3	of	of	P	1	
-4	our	our	Q	1	
-5	shower	shower	N	1	
-6	needed	need	V	1	
-7	to	to	P	1	
-8	be	be	V	1	
-9	unclog	unclog	G	1	
-10	.	.	O	1	
+1	The	the	D	1	O
+2	drain	drain	N	1	O
+3	of	of	P	1	O
+4	our	our	Q	1	O
+5	shower	shower	N	1	O
+6	needed	need	V	1	O
+7	to	to	P	1	O
+8	be	be	V	1	O
+9	unclog	unclog	G	1	O
+10	.	.	O	1	O
 
-1	No	no	D	1	
-2	phone	phone	N	1	
-3	,	,	O	1	
-4	no	no	D	1	
-5	breakfast	breakfast	N	1	
-6	,	,	O	1	
-7	old	old	G	1	
-8	cathode	cathode	N	1	
-9	Tv	Tv	R	1	
-10	,	,	O	1	
-11	free	free	G	1	
-12	wi	wi	N	1	
-13	·	·	N	1	
-14	fi	fi	A	1	
-15	with	with	P	1	
-16	low	low	G	1	
-17	signal	signal	N	1	
-18	in	in	P	1	
-19	the	the	D	1	
-20	upper	upper	G	1	
-21	floors	floor	N	1	
-22	.	.	O	1	
+1	No	no	D	1	O
+2	phone	phone	N	1	O
+3	,	,	O	1	O
+4	no	no	D	1	O
+5	breakfast	breakfast	N	1	O
+6	,	,	O	1	O
+7	old	old	G	1	O
+8	cathode	cathode	N	1	O
+9	Tv	Tv	R	1	O
+10	,	,	O	1	O
+11	free	free	G	1	O
+12	wi	wi	N	1	O
+13	·	·	N	1	O
+14	fi	fi	A	1	O
+15	with	with	P	1	O
+16	low	low	G	1	O
+17	signal	signal	N	1	O
+18	in	in	P	1	O
+19	the	the	D	1	O
+20	upper	upper	G	1	O
+21	floors	floor	N	1	O
+22	.	.	O	1	O
 
-1	Staff	Staff	R	1	
-2	gentle	gentle	G	1	
-3	enough	enough	N	1	
-4	,	,	O	1	
-5	but	but	C	1	
-6	the	the	D	1	
-7	guy	guy	N	1	
-8	at	at	P	1	
-9	the	the	D	1	
-10	reception	reception	N	1	
-11	with	with	P	1	
-12	white	white	G	1	
-13	hair	hair	N	1	
-14	and	and	C	1	
-15	glasses	glass	N	1	
-16	(	(	O	1	
-17	we	we	Q	1	
-18	found	find	V	1	
-19	him	him	Q	1	
-20	in	in	P	1	
-21	the	the	D	1	
-22	night	night	N	1	
-23	and	and	C	1	
-24	the	the	D	1	
-25	early	early	G	1	
-26	morning	morning	N	1	
-27	)	)	O	1	
-28	:	:	O	1	
-29	extremely	extremely	A	1	
-30	RUDE	RUDE	R	1	
-31	and	and	C	1	
-32	HYSTERICAL	HYSTERICAL	R	1	
-33	!!!	!!!	O	1	
+1	Staff	Staff	R	1	O
+2	gentle	gentle	G	1	O
+3	enough	enough	N	1	O
+4	,	,	O	1	O
+5	but	but	C	1	O
+6	the	the	D	1	O
+7	guy	guy	N	1	O
+8	at	at	P	1	O
+9	the	the	D	1	O
+10	reception	reception	N	1	O
+11	with	with	P	1	O
+12	white	white	G	1	O
+13	hair	hair	N	1	O
+14	and	and	C	1	O
+15	glasses	glass	N	1	O
+16	(	(	O	1	O
+17	we	we	Q	1	O
+18	found	find	V	1	O
+19	him	him	Q	1	O
+20	in	in	P	1	O
+21	the	the	D	1	O
+22	night	night	N	1	O
+23	and	and	C	1	O
+24	the	the	D	1	O
+25	early	early	G	1	O
+26	morning	morning	N	1	O
+27	)	)	O	1	O
+28	:	:	O	1	O
+29	extremely	extremely	A	1	O
+30	RUDE	RUDE	R	1	O
+31	and	and	C	1	O
+32	HYSTERICAL	HYSTERICAL	R	1	O
+33	!!!	!!!	O	1	O
 

@@ -1,145 +1,147 @@
-1	Spoiled	spoil	V	1	
-2	the	the	D	1	
-3	impression	impression	N	1	
-4	of	of	P	1	
-5	the	the	D	1	
-6	trip	trip	N	1	
+1	Spoiled	spoil	V	1	O
+2	the	the	D	1	O
+3	impression	impression	N	1	O
+4	of	of	P	1	O
+5	the	the	D	1	O
+6	trip	trip	N	1	O
 
-1	Terrible	terrible	G	1	
-2	hotel	hotel	N	1	
-3	!	!	O	1	
+1	Terrible	terrible	G	1	O
+2	hotel	hotel	N	1	O
+3	!	!	O	1	O
 
-1	Тhis	тhis	D	1	
-2	is	be	V	1	
-3	not	not	A	1	
-4	a	a	D	1	
-5	four	four	O	1	
-6	star	star	N	1	
-7	hotel	hotel	N	1	
-8	.	.	O	1	
+1	Тhis	тhis	D	1	O
+2	is	be	V	1	O
+3	not	not	A	1	O
+4	a	a	D	1	O
+5	four	four	O	1	O
+6	star	star	N	1	O
+7	hotel	hotel	N	1	O
+8	.	.	O	1	O
 
-1	Rooms	room	N	1	
-2	do	do	V	1	
-3	not	not	A	1	
-4	correspond	correspond	V	1	
-5	to	to	P	1	
-6	the	the	D	1	
-7	pictures	picture	N	1	
-8	,	,	O	1	
-9	very	very	A	1	
-10	old	old	G	1	
-11	furniture	furniture	N	1	
-12	,	,	O	1	
-13	faded	fade	V	1	
-14	linens	linen	N	1	
-15	,	,	O	1	
-16	creaky	creaky	G	1	
-17	bed	bed	N	1	
-18	,	,	O	1	
-19	a	a	D	1	
-20	disgusting	disgusting	N	1	
-21	smell	smell	N	1	
-22	in	in	P	1	
-23	the	the	D	1	
-24	room	room	N	1	
-25	,	,	O	1	
-26	even	even	A	1	
-27	though	though	P	1	
-28	we	we	Q	1	
-29	asked	ask	V	1	
-30	for	for	P	1	
-31	when	when	O	1	
-32	booking	book	V	1	
-33	a	a	D	1	
-34	non	non	G	1	
-35	smoking	smoking	N	1	
-36	room	room	N	1	
-37	.	.	O	1	
+1	Rooms	room	N	1	O
+2	do	do	V	1	O
+3	not	not	A	1	O
+4	correspond	correspond	V	1	O
+5	to	to	P	1	O
+6	the	the	D	1	O
+7	pictures	picture	N	1	O
+8	,	,	O	1	O
+9	very	very	A	1	O
+10	old	old	G	1	O
+11	furniture	furniture	N	1	O
+12	,	,	O	1	O
+13	faded	fade	V	1	O
+14	linens	linen	N	1	O
+15	,	,	O	1	O
+16	creaky	creaky	G	1	O
+17	bed	bed	N	1	O
+18	,	,	O	1	O
+19	a	a	D	1	O
+20	disgusting	disgusting	N	1	O
+21	smell	smell	N	1	O
+22	in	in	P	1	O
+23	the	the	D	1	O
+24	room	room	N	1	O
+25	,	,	O	1	O
+26	even	even	A	1	O
+27	though	though	P	1	O
+28	we	we	Q	1	O
+29	asked	ask	V	1	O
+30	for	for	P	1	O
+31	when	when	O	1	O
+32	booking	book	V	1	O
+33	a	a	D	1	O
+34	non	non	G	1	O
+35	smoking	smoking	N	1	O
+36	room	room	N	1	O
+37	.	.	O	1	O
 
-1	After	after	P	1	
-2	the	the	D	1	
-3	check	check	N	1	
-4	·	·	N	1	
-5	out	out	A	1	
-6	,	,	O	1	
-7	we	we	Q	1	
-8	left	leave	V	1	
-9	our	our	Q	1	
-10	bag	bag	N	1	
-11	in	in	P	1	
-12	the	the	D	1	
-13	luggage	luggage	N	1	
-14	at	at	P	1	
-15	the	the	D	1	
-16	front	front	G	1	
-17	desk	desk	N	1	
-18	.	.	O	1	
+1	After	after	P	1	O
+2	the	the	D	1	O
+3	check	check	N	1	O
+4	·	·	N	1	O
+5	out	out	A	1	O
+6	,	,	O	1	O
+7	we	we	Q	1	O
+8	left	leave	V	1	O
+9	our	our	Q	1	O
+10	bag	bag	N	1	O
+11	in	in	P	1	O
+12	the	the	D	1	O
+13	luggage	luggage	N	1	O
+14	at	at	P	1	O
+15	the	the	D	1	O
+16	front	front	G	1	O
+17	desk	desk	N	1	O
+18	.	.	O	1	O
 
-1	After	after	P	1	
-2	we	we	Q	1	
-3	returned	return	V	1	
-4	the	the	D	1	
-5	desk	desk	N	1	
-6	clerk	clerk	N	1	
-7	said	say	V	1	
-8	that	that	P	1	
-9	they	they	Q	1	
-10	gave	give	V	1	
-11	our	our	Q	1	
-12	luggage	luggage	N	1	
-13	to	to	P	1	
-14	others	other	N	1	
-15	.	.	O	1	
+1	After	after	P	1	O
+2	we	we	Q	1	O
+3	returned	return	V	1	O
+4	the	the	D	1	O
+5	desk	desk	N	1	O
+6	clerk	clerk	N	1	O
+7	said	say	V	1	O
+8	that	that	P	1	O
+9	they	they	Q	1	O
+10	gave	give	V	1	O
+11	our	our	Q	1	O
+12	luggage	luggage	N	1	O
+13	to	to	P	1	O
+14	others	other	N	1	O
+15	.	.	O	1	O
 
-1	We	we	Q	1	
-2	had	have	V	1	
-3	to	to	P	1	
-4	go	go	V	1	
-5	to	to	P	1	
-6	the	the	D	1	
-7	police	police	N	1	
-8	and	and	C	1	
-9	to	to	P	1	
-10	write	write	V	1	
-11	a	a	D	1	
-12	statement	statement	N	1	
-13	.	.	O	1	
+1	We	we	Q	1	O
+2	had	have	V	1	O
+3	to	to	P	1	O
+4	go	go	V	1	O
+5	to	to	P	1	O
+6	the	the	D	1	O
+7	police	police	N	1	O
+8	and	and	C	1	O
+9	to	to	P	1	O
+10	write	write	V	1	O
+11	a	a	D	1	O
+12	statement	statement	N	1	O
+13	.	.	O	1	O
 
-1	In	in	P	1	
-2	the	the	D	1	
-3	end	end	N	1	
-4	we	we	Q	1	
-5	went	go	V	1	
-6	home	home	N	1	
-7	without	without	P	1	
-8	our	our	Q	1	
-9	things	thing	N	1	
-10	.	.	O	1	
+1	In	in	P	1	O
+2	the	the	D	1	O
+3	end	end	N	1	O
+4	we	we	Q	1	O
+5	went	go	V	1	O
+6	home	home	N	1	O
+7	without	without	P	1	O
+8	our	our	Q	1	O
+9	things	thing	N	1	O
+10	.	.	O	1	O
 
-1	After	after	P	1	
-2	33	33	O	1	
-3	days	day	N	1	
-4	!!	!!	G	1	
+1	After	after	P	1	O
+2	33	33	O	1	O
+3	days	day	N	1	O
+4	!!	!!	G	1	O
 
-1	our	our	Q	1	
-2	departure	departure	N	1	
-3	,	,	O	1	
-4	the	the	D	1	
-5	hotel	hotel	N	1	
-6	sent	send	V	1	
-7	us	us	Q	1	
-8	our	our	Q	1	
-9	bag	bag	N	1	
-10	,	,	O	1	
-11	but	but	C	1	
-12	there	there	O	1	
-13	's	have	V	1	
-14	no	no	D	1	
-15	a	a	D	1	
-16	few	few	G	1	
-17	personal	personal	G	1	
-18	belongings	belonging	N	1	
-19	worth	worth	G	1	
-20	about_200_euros	about_200_euro	R	1	ne=Money
-21	!	!	O	1	
+1	our	our	Q	1	O
+2	departure	departure	N	1	O
+3	,	,	O	1	O
+4	the	the	D	1	O
+5	hotel	hotel	N	1	O
+6	sent	send	V	1	O
+7	us	us	Q	1	O
+8	our	our	Q	1	O
+9	bag	bag	N	1	O
+10	,	,	O	1	O
+11	but	but	C	1	O
+12	there	there	O	1	O
+13	's	have	V	1	O
+14	no	no	D	1	O
+15	a	a	D	1	O
+16	few	few	G	1	O
+17	personal	personal	G	1	O
+18	belongings	belonging	N	1	O
+19	worth	worth	G	1	O
+20	about	about	P	1	I-Money
+21	200	200	O	1	I-Money
+22	euros	euro	N	1	I-Money
+23	!	!	O	1	O
 

@@ -1,153 +1,157 @@
-1	Dicht	dichten	V	1	
-2	bij	bij	P	1	
-3	oude	oud	G	1	
-4	centrum	centrum	N	1	
+1	Dicht	dichten	V	1	O
+2	bij	bij	P	1	O
+3	oude	oud	G	1	O
+4	centrum	centrum	N	1	O
 
-1	Wij	wij	Q	1	
-2	hadden	hebben	V	1	
-3	een	een	D	1	
-4	studio	studio	N	1	
-5	of	of	C	1	
-6	een	een	D	1	
-7	1	@card@	O	1	
-8	kamer	kamer	N	1	
-9	apartement	apartement	O	1	
-10	geboekt	boeken	V	1	
-11	,	,	O	1	
-12	toen	toen	C	1	
-13	we	we	Q	1	
-14	de	de	D	1	
-15	gordijnen	gordijn	N	1	
-16	open	open	G	1	
-17	deden	doen	V	1	
-18	en	en	C	1	
-19	dachten	denken	V	1	
-20	de	de	D	1	
-21	zee	zee	N	1	
-22	of	of	C	1	
-23	het	het	D	1	
-24	zwembad	zwembad	N	1	
-25	te	te	O	1	
-26	kunnen	kunnen	V	1	
-27	zien	zien	V	1	
-28	schrokken	schrokken	V	1	
-29	we	we	Q	1	
-30	heeeeeel	heeeeeel	O	1	
-31	erg	erg	A	1	
-32	we	we	Q	1	
-33	zagen	zagen	V	1	
-34	een	een	D	1	
-35	stukje	stuk	N	1	
-36	gras	gras	N	1	
-37	en	en	C	1	
-38	3	@card@	O	1	
-39	muren	muur	N	1	
-40	we	we	Q	1	
-41	zaten	zitten	V	1	
-42	letterlijk	letterlijk	A	1	
-43	onder	onder	P	1	
-44	de	de	D	1	
-45	grond	grond	N	1	
-46	in	in	P	1	
-47	de	de	D	1	
-48	souterain	souterain	O	1	
-49	boek	boeken	V	1	
-50	nooit	nooit	A	1	
-51	een	een	D	1	
-52	kamer	kamer	N	1	
-53	met	met	P	1	
-54	de	de	D	1	
-55	nr	nr	N	1	
-56	001	@card@	O	1	
-57	tot	tot	P	1	
-58	005.	@ord@	O	1	
-59	de	de	D	1	
-60	hogere	hoog	G	1	
-61	kamers	kamer	N	1	
-62	hebben	hebben	V	1	
-63	wel	wel	A	1	
-64	een	een	D	1	
-65	mooi	mooi	G	1	
-66	uitzicht	uitzicht	N	1	
-67	op	op	P	1	
-68	het	het	D	1	
-69	zwembad	zwembad	N	1	
-70	en	en	C	1	
-71	de	de	D	1	
-72	zee	zee	N	1	
-73	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hadden	hebben	V	1	O
+3	een	een	D	1	O
+4	studio	studio	N	1	O
+5	of	of	C	1	O
+6	een	een	D	1	O
+7	1	@card@	O	1	O
+8	kamer	kamer	N	1	O
+9	apartement	apartement	O	1	O
+10	geboekt	boeken	V	1	O
+11	,	,	O	1	O
+12	toen	toen	C	1	O
+13	we	we	Q	1	O
+14	de	de	D	1	O
+15	gordijnen	gordijn	N	1	O
+16	open	open	G	1	O
+17	deden	doen	V	1	O
+18	en	en	C	1	O
+19	dachten	denken	V	1	O
+20	de	de	D	1	O
+21	zee	zee	N	1	O
+22	of	of	C	1	O
+23	het	het	D	1	O
+24	zwembad	zwembad	N	1	O
+25	te	te	O	1	O
+26	kunnen	kunnen	V	1	O
+27	zien	zien	V	1	O
+28	schrokken	schrokken	V	1	O
+29	we	we	Q	1	O
+30	heeeeeel	heeeeeel	O	1	O
+31	erg	erg	A	1	O
+32	we	we	Q	1	O
+33	zagen	zagen	V	1	O
+34	een	een	D	1	O
+35	stukje	stuk	N	1	O
+36	gras	gras	N	1	O
+37	en	en	C	1	O
+38	3	@card@	O	1	O
+39	muren	muur	N	1	O
+40	we	we	Q	1	O
+41	zaten	zitten	V	1	O
+42	letterlijk	letterlijk	A	1	O
+43	onder	onder	P	1	O
+44	de	de	D	1	O
+45	grond	grond	N	1	O
+46	in	in	P	1	O
+47	de	de	D	1	O
+48	souterain	souterain	O	1	O
+49	boek	boeken	V	1	O
+50	nooit	nooit	A	1	O
+51	een	een	D	1	O
+52	kamer	kamer	N	1	O
+53	met	met	P	1	O
+54	de	de	D	1	O
+55	nr	nr	N	1	O
+56	001	@card@	O	1	O
+57	tot	tot	P	1	O
+58	005.	@ord@	O	1	O
+59	de	de	D	1	O
+60	hogere	hoog	G	1	O
+61	kamers	kamer	N	1	O
+62	hebben	hebben	V	1	O
+63	wel	wel	A	1	O
+64	een	een	D	1	O
+65	mooi	mooi	G	1	O
+66	uitzicht	uitzicht	N	1	O
+67	op	op	P	1	O
+68	het	het	D	1	O
+69	zwembad	zwembad	N	1	O
+70	en	en	C	1	O
+71	de	de	D	1	O
+72	zee	zee	N	1	O
+73	.	.	O	1	O
 
-1	Het	het	D	1	
-2	verschonen	verschonen	N	1	
-3	van	van	P	1	
-4	de	de	D	1	
-5	handdoeken	handdoek	N	1	
-6	was	wezen|zijn	V	1	
-7	ook	ook	A	1	
-8	erg	erg	A	1	
-9	slecht	slecht	A	1	
-10	de	de	D	1	
-11	handdoeken	handdoek	N	1	
-12	die	die	Q	1	
-13	op	op	P	1	
-14	de	de	D	1	
-15	grond	grond	N	1	
-16	lagen	liggen	V	1	
-17	werden	worden	V	1	
-18	weer	weer	A	1	
-19	opgehangen	ophangen	V	1	
-20	dit	dit	D	1	
-21	na	na	P	1	
-22	een	een	D	1	
-23	QUAD	QUAD	O	1	
-24	toer	toeren	V	1	
-25	.	.	O	1	
+1	Het	het	D	1	O
+2	verschonen	verschonen	N	1	O
+3	van	van	P	1	O
+4	de	de	D	1	O
+5	handdoeken	handdoek	N	1	O
+6	was	wezen|zijn	V	1	O
+7	ook	ook	A	1	O
+8	erg	erg	A	1	O
+9	slecht	slecht	A	1	O
+10	de	de	D	1	O
+11	handdoeken	handdoek	N	1	O
+12	die	die	Q	1	O
+13	op	op	P	1	O
+14	de	de	D	1	O
+15	grond	grond	N	1	O
+16	lagen	liggen	V	1	O
+17	werden	worden	V	1	O
+18	weer	weer	A	1	O
+19	opgehangen	ophangen	V	1	O
+20	dit	dit	D	1	O
+21	na	na	P	1	O
+22	een	een	D	1	O
+23	QUAD	QUAD	O	1	O
+24	toer	toeren	V	1	O
+25	.	.	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	was	wezen|zijn	V	1	
-4	erg	erg	A	1	
-5	vriendelijk	vriendelijk	G	1	
-6	.	.	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	was	wezen|zijn	V	1	O
+4	erg	erg	A	1	O
+5	vriendelijk	vriendelijk	G	1	O
+6	.	.	O	1	O
 
-1	Mooi	mooi	G	1	
-2	net	net	G	1	
-3	zwembad	zwembad	N	1	
-4	.	.	O	1	
+1	Mooi	mooi	G	1	O
+2	net	net	G	1	O
+3	zwembad	zwembad	N	1	O
+4	.	.	O	1	O
 
-1	In	in	P	1	
-2	het	het	D	1	
-3	oude	oud	G	1	
-4	centrum	centrum	N	1	
-5	ben	zijn	V	1	
-6	je	je	Q	1	
-7	zo	zo	A	1	
-8	nog	nog	A	1	
-9	geen	geen	D	1	
-10	10	@card@	O	1	
-11	min	min	G	1	
-12	lopen	lopen	V	1	
-13	.	.	O	1	
+1	In	in	P	1	O
+2	het	het	D	1	O
+3	oude	oud	G	1	O
+4	centrum	centrum	N	1	O
+5	ben	zijn	V	1	O
+6	je	je	Q	1	O
+7	zo	zo	A	1	O
+8	nog	nog	A	1	O
+9	geen	geen	D	1	O
+10	10	@card@	O	1	O
+11	min	min	G	1	O
+12	lopen	lopen	V	1	O
+13	.	.	O	1	O
 
-1	Het_oude_centrum_van_Albufiera	het_oud_centrum_van_Albufiera	R	1	ne=Location
-2	is	zijn	V	1	
-3	heel	heel	A	1	
-4	gezellig	gezellig	G	1	
-5	en	en	C	1	
-6	veel	veel	O	1	
-7	restaurantjes	restaurant	N	1	
-8	.	.	O	1	
+1	Het	het	D	1	I-Location
+2	oude	oud	G	1	I-Location
+3	centrum	centrum	N	1	I-Location
+4	van	van	P	1	I-Location
+5	Albufiera	Albufiera	O	1	I-Location
+6	is	zijn	V	1	O
+7	heel	heel	A	1	O
+8	gezellig	gezellig	G	1	O
+9	en	en	C	1	O
+10	veel	veel	O	1	O
+11	restaurantjes	restaurant	N	1	O
+12	.	.	O	1	O
 
-1	De	de	D	1	
-2	foto	foto	N	1	
-3	,	,	O	1	
-4	s	s	N	1	
-5	geven	geven	V	1	
-6	het	het	D	1	
-7	uitzicht	uitzicht	N	1	
-8	van	van	P	1	
-9	de	de	D	1	
-10	kamer	kamer	N	1	
-11	003	@card@	O	1	
-12	.	.	O	1	
+1	De	de	D	1	O
+2	foto	foto	N	1	O
+3	,	,	O	1	O
+4	s	s	N	1	O
+5	geven	geven	V	1	O
+6	het	het	D	1	O
+7	uitzicht	uitzicht	N	1	O
+8	van	van	P	1	O
+9	de	de	D	1	O
+10	kamer	kamer	N	1	O
+11	003	@card@	O	1	O
+12	.	.	O	1	O
 

@@ -1,53 +1,53 @@
-1	Una	Una	R	1	
-2	buena	buena	N	1	
-3	elección	elección	N	1	
+1	Una	Una	R	1	O
+2	buena	buena	N	1	O
+3	elección	elección	N	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	está	está	N	1	
-4	muy	muy	G	1	
-5	bien	bien	N	1	
-6	ubicado	ubicado	N	1	
-7	,	,	O	1	
-8	ideal	ideal	G	1	
-9	para	para	N	1	
-10	ir	ir	Q	1	
-11	de	de	O	1	
-12	compras	compras	O	1	
-13	o	o	O	1	
-14	para	para	O	1	
-15	hacer	hacer	O	1	
-16	turismo	turismo	O	1	
-17	por	por	O	1	
-18	la	la	O	1	
-19	ciudad	ciudad	O	1	
-20	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	está	está	N	1	O
+4	muy	muy	G	1	O
+5	bien	bien	N	1	O
+6	ubicado	ubicado	N	1	O
+7	,	,	O	1	O
+8	ideal	ideal	G	1	O
+9	para	para	N	1	O
+10	ir	ir	Q	1	O
+11	de	de	O	1	O
+12	compras	compras	O	1	O
+13	o	o	O	1	O
+14	para	para	O	1	O
+15	hacer	hacer	O	1	O
+16	turismo	turismo	O	1	O
+17	por	por	O	1	O
+18	la	la	O	1	O
+19	ciudad	ciudad	O	1	O
+20	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	es	es	N	1	
-4	muy	muy	O	1	
-5	agradabe	agradabe	V	1	
-6	y	y	G	1	
-7	el	el	N	1	
-8	spa	spa	N	1	
-9	estupendo	estupendo	N	1	
-10	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	es	es	N	1	O
+4	muy	muy	O	1	O
+5	agradabe	agradabe	V	1	O
+6	y	y	G	1	O
+7	el	el	N	1	O
+8	spa	spa	N	1	O
+9	estupendo	estupendo	N	1	O
+10	.	.	O	1	O
 
-1	Destacamos	Destacamos	R	1	
-2	también	también	O	1	
-3	la	la	O	1	
-4	limpieza	limpieza	O	1	
-5	de	de	O	1	
-6	las	las	O	1	
-7	habitaciones	habitaciones	N	1	
-8	.	.	O	1	
+1	Destacamos	Destacamos	R	1	O
+2	también	también	O	1	O
+3	la	la	O	1	O
+4	limpieza	limpieza	O	1	O
+5	de	de	O	1	O
+6	las	las	O	1	O
+7	habitaciones	habitaciones	N	1	O
+8	.	.	O	1	O
 
-1	En	En	R	1	
-2	general	general	G	1	
-3	,	,	O	1	
-4	es	es	V	1	
-5	absolutamente	absolutamente	G	1	
-6	recomendable	recomendable	N	1	
-7	!	!	O	1	
+1	En	En	R	1	O
+2	general	general	G	1	O
+3	,	,	O	1	O
+4	es	es	V	1	O
+5	absolutamente	absolutamente	G	1	O
+6	recomendable	recomendable	N	1	O
+7	!	!	O	1	O
 

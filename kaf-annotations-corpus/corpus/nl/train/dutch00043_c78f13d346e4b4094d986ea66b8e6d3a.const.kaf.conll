@@ -1,135 +1,135 @@
-1	Leuke	leuk	G	1	
-2	camping	camping	N	1	
-3	voor	voor	P	1	
-4	een	een	D	1	
-5	paar	paar	G	1	
-6	dagen	dag	N	1	
-7	.......	...	O	1	
-8	.......	...	O	1	
-9	.......	.	O	1	
+1	Leuke	leuk	G	1	O
+2	camping	camping	N	1	O
+3	voor	voor	P	1	O
+4	een	een	D	1	O
+5	paar	paar	G	1	O
+6	dagen	dag	N	1	O
+7	.......	...	O	1	O
+8	.......	...	O	1	O
+9	.......	.	O	1	O
 
-1	Leuke	leuk	G	1	
-2	camping	camping	N	1	
-3	voor	voor	P	1	
-4	een	een	D	1	
-5	paar	paar	G	1	
-6	dagen	dag	N	1	
-7	,	,	O	1	
-8	om	om	C	1	
-9	bv	bv	O	1	
-10	Disney	Disney	O	1	
-11	of	of	C	1	
-12	Parijs	Parijs	G	1	
-13	te	te	O	1	
-14	bezoeken	bezoeken	V	1	
-15	maar	maar	C	1	
-16	verder	ver|verder	G	1	
-17	zou	zullen	V	1	
-18	ik	ik	Q	1	
-19	er	er	Q	1	
-20	niet	niet	A	1	
-21	aan	aan	A	1	
-22	moeten	moeten	V	1	
-23	denken	denken	V	1	
-24	om	om	C	1	
-25	er	er	Q	1	
-26	langer	lang	G	1	
-27	dan	dan	C	1	
-28	een	een	D	1	
-29	week	week	N	1	
-30	te	te	O	1	
-31	staan	staan	V	1	
-32	trekkersvelden	trekkersvelden	O	1	
-33	zover	zover	A	1	
-34	je	je	Q	1	
-35	van	van	P	1	
-36	een	een	D	1	
-37	veld	veld	N	1	
-38	kan	kunnen	V	1	
-39	spreken	spreken	V	1	
-40	echt	echt	N	1	
-41	veel	veel	A	1	
-42	te	te	O	1	
-43	klein	klein	G	1	
-44	.	.	O	1	
+1	Leuke	leuk	G	1	O
+2	camping	camping	N	1	O
+3	voor	voor	P	1	O
+4	een	een	D	1	O
+5	paar	paar	G	1	O
+6	dagen	dag	N	1	O
+7	,	,	O	1	O
+8	om	om	C	1	O
+9	bv	bv	O	1	O
+10	Disney	Disney	O	1	O
+11	of	of	C	1	O
+12	Parijs	Parijs	G	1	O
+13	te	te	O	1	O
+14	bezoeken	bezoeken	V	1	O
+15	maar	maar	C	1	O
+16	verder	ver|verder	G	1	O
+17	zou	zullen	V	1	O
+18	ik	ik	Q	1	O
+19	er	er	Q	1	O
+20	niet	niet	A	1	O
+21	aan	aan	A	1	O
+22	moeten	moeten	V	1	O
+23	denken	denken	V	1	O
+24	om	om	C	1	O
+25	er	er	Q	1	O
+26	langer	lang	G	1	O
+27	dan	dan	C	1	O
+28	een	een	D	1	O
+29	week	week	N	1	O
+30	te	te	O	1	O
+31	staan	staan	V	1	O
+32	trekkersvelden	trekkersvelden	O	1	O
+33	zover	zover	A	1	O
+34	je	je	Q	1	O
+35	van	van	P	1	O
+36	een	een	D	1	O
+37	veld	veld	N	1	O
+38	kan	kunnen	V	1	O
+39	spreken	spreken	V	1	O
+40	echt	echt	N	1	O
+41	veel	veel	A	1	O
+42	te	te	O	1	O
+43	klein	klein	G	1	O
+44	.	.	O	1	O
 
-1	Douche	douche	N	1	
-2	gewoon	gewoon	G	1	
-3	weg	weg	N	1	
-4	koud	koud	G	1	
-5	en	en	C	1	
-6	in	in	P	1	
-7	het	het	D	1	
-8	bijgebouwtje	bijgebouwtje	O	1	
-9	zijn	zijn	V	1	
-10	wel	wel	A	1	
-11	een	een	D	1	
-12	paar	paar	G	1	
-13	oudere	oud	G	1	
-14	douches	douche	N	1	
-15	die	die	Q	1	
-16	warm	warm	G	1	
-17	zijn	zijn	V	1	
-18	maar	maar	C	1	
-19	hier	hier	A	1	
-20	laat	laten	V	1	
-21	het	het	D	1	
-22	onderhoud	onderhoud	N	1	
-23	echter	echter	A	1	
-24	te	te	O	1	
-25	wensen	wensen	V	1	
-26	over	over	P	1	
-27	je	je	Q	1	
-28	kan	kunnen	V	1	
-29	er	er	Q	1	
-30	je	je	Q	1	
-31	handdoek	handdoek	N	1	
-32	nog	nog	A	1	
-33	niet	niet	A	1	
-34	droog	droog	G	1	
-35	houden	houden	V	1	
-36	en	en	C	1	
-37	zijn	zijn	V	1	
-38	gewoonweg	gewoonweg	A	1	
-39	vies	vies	G	1	
-40	omdat	omdat	C	1	
-41	iedereen	iedereen	Q	1	
-42	die	die	Q	1	
-43	douches	douche	N	1	
-44	neemt	nemen	V	1	
-45	,	,	O	1	
-46	nog	nog	A	1	
-47	een	een	D	1	
-48	minpuntje	minpuntje	O	1	
-49	geen	geen	D	1	
-50	toiletpapier	toiletpapier	N	1	
-51	op	op	P	1	
-52	de	de	D	1	
-53	toiletten	toilet	N	1	
-54	,	,	O	1	
-55	bij	bij	P	1	
-56	regenis	regenis	O	1	
-57	het	het	D	1	
-58	terras	terras	N	1	
-59	erg	erg	A	1	
-60	glad	glad	G	1	
-61	,	,	O	1	
-62	erg	erg	G	1	
-63	jong	jong	N	1	
-64	en	en	C	1	
-65	onervaren	onervaren	G	1	
-66	personeel	personeel	N	1	
-67	konden	kunnen	V	1	
-68	veel	veel	O	1	
-69	vragen	vraag	N	1	
-70	niet	niet	A	1	
-71	beantwoorden	beantwoorden	V	1	
-72	deze	deze	D	1	
-73	camping	camping	N	1	
-74	ia	ia	O	1	
-75	zijn	zijn	D	1	
-76	geld	geld	N	1	
-77	absoluut	absoluut	G	1	
-78	niet	niet	A	1	
-79	waard	waard	G	1	
+1	Douche	douche	N	1	O
+2	gewoon	gewoon	G	1	O
+3	weg	weg	N	1	O
+4	koud	koud	G	1	O
+5	en	en	C	1	O
+6	in	in	P	1	O
+7	het	het	D	1	O
+8	bijgebouwtje	bijgebouwtje	O	1	O
+9	zijn	zijn	V	1	O
+10	wel	wel	A	1	O
+11	een	een	D	1	O
+12	paar	paar	G	1	O
+13	oudere	oud	G	1	O
+14	douches	douche	N	1	O
+15	die	die	Q	1	O
+16	warm	warm	G	1	O
+17	zijn	zijn	V	1	O
+18	maar	maar	C	1	O
+19	hier	hier	A	1	O
+20	laat	laten	V	1	O
+21	het	het	D	1	O
+22	onderhoud	onderhoud	N	1	O
+23	echter	echter	A	1	O
+24	te	te	O	1	O
+25	wensen	wensen	V	1	O
+26	over	over	P	1	O
+27	je	je	Q	1	O
+28	kan	kunnen	V	1	O
+29	er	er	Q	1	O
+30	je	je	Q	1	O
+31	handdoek	handdoek	N	1	O
+32	nog	nog	A	1	O
+33	niet	niet	A	1	O
+34	droog	droog	G	1	O
+35	houden	houden	V	1	O
+36	en	en	C	1	O
+37	zijn	zijn	V	1	O
+38	gewoonweg	gewoonweg	A	1	O
+39	vies	vies	G	1	O
+40	omdat	omdat	C	1	O
+41	iedereen	iedereen	Q	1	O
+42	die	die	Q	1	O
+43	douches	douche	N	1	O
+44	neemt	nemen	V	1	O
+45	,	,	O	1	O
+46	nog	nog	A	1	O
+47	een	een	D	1	O
+48	minpuntje	minpuntje	O	1	O
+49	geen	geen	D	1	O
+50	toiletpapier	toiletpapier	N	1	O
+51	op	op	P	1	O
+52	de	de	D	1	O
+53	toiletten	toilet	N	1	O
+54	,	,	O	1	O
+55	bij	bij	P	1	O
+56	regenis	regenis	O	1	O
+57	het	het	D	1	O
+58	terras	terras	N	1	O
+59	erg	erg	A	1	O
+60	glad	glad	G	1	O
+61	,	,	O	1	O
+62	erg	erg	G	1	O
+63	jong	jong	N	1	O
+64	en	en	C	1	O
+65	onervaren	onervaren	G	1	O
+66	personeel	personeel	N	1	O
+67	konden	kunnen	V	1	O
+68	veel	veel	O	1	O
+69	vragen	vraag	N	1	O
+70	niet	niet	A	1	O
+71	beantwoorden	beantwoorden	V	1	O
+72	deze	deze	D	1	O
+73	camping	camping	N	1	O
+74	ia	ia	O	1	O
+75	zijn	zijn	D	1	O
+76	geld	geld	N	1	O
+77	absoluut	absoluut	G	1	O
+78	niet	niet	A	1	O
+79	waard	waard	G	1	O
 

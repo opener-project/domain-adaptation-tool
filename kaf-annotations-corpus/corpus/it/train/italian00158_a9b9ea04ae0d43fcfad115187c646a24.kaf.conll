@@ -1,182 +1,188 @@
-1	Cortesia	cortesia	N	1	
-2	,	,	O	1	
-3	pulizia	pulizia	N	1	
-4	,	,	O	1	
-5	buon	buon	G	1	
-6	prezzo	prezzo	N	1	
-7	,	,	O	1	
-8	vista	vedere	V	1	
-9	panoramica	panoramico	G	1	
-10	!	!	O	1	
+1	Cortesia	cortesia	N	1	O
+2	,	,	O	1	O
+3	pulizia	pulizia	N	1	O
+4	,	,	O	1	O
+5	buon	buon	G	1	O
+6	prezzo	prezzo	N	1	O
+7	,	,	O	1	O
+8	vista	vedere	V	1	O
+9	panoramica	panoramico	G	1	O
+10	!	!	O	1	O
 
-1	Siamo	essere	V	1	
-2	stati	essere	V	1	
-3	al	al	P	1	
-4	B_&_B_il_Rossellino	b_&amp;_b_lo_rossellino	R	1	ne=Hotel
-5	quest'	quest'	G	1	
-6	anno	anno	N	1	
-7	per	per	P	1	
-8	la	lo	D	1	
-9	prima	primo	G	1	
-10	volta	volgere	V	1	
-11	,	,	O	1	
-12	in	in	P	1	
-13	luna	luna	N	1	
-14	di	di	P	1	
-15	miele	miele	N	1	
-16	.	.	O	1	
+1	Siamo	essere	V	1	O
+2	stati	essere	V	1	O
+3	al	al	P	1	O
+4	B	b	N	1	I-Hotel
+5	&	&amp;	O	1	I-Hotel
+6	B	b	N	1	I-Hotel
+7	il	lo	D	1	I-Hotel
+8	Rossellino	rossellino	R	1	I-Hotel
+9	quest'	quest'	G	1	O
+10	anno	anno	N	1	O
+11	per	per	P	1	O
+12	la	lo	D	1	O
+13	prima	primo	G	1	O
+14	volta	volgere	V	1	O
+15	,	,	O	1	O
+16	in	in	P	1	O
+17	luna	luna	N	1	O
+18	di	di	P	1	O
+19	miele	miele	N	1	O
+20	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	rapporto	rapporto	N	1	
-3	qualità	qualita'	N	1	
-4	/	/	O	1	
-5	prezzo	prezzo	N	1	
-6	è	è	R	1	
-7	ottimo.	ottimo.	N	1	
-8	i	lo	D	1	
-9	gestori	gestore	N	1	
-10	Giada	giada	R	1	ne=Person
-11	e	e	Q	1	
-12	Alessandro	alessandro	R	1	ne=Person
-13	sono	essere	V	1	
-14	persone	persona	N	1	
-15	splendide	splendido	G	1	
-16	,	,	O	1	
-17	ci	ci	Q	1	
-18	hanno	avere	V	1	
-19	dato	dare	V	1	
-20	tutte	tutto	G	1	
-21	le	lo	D	1	
-22	informazioni	informazione	N	1	
-23	sul	sul	P	1	
-24	territorio	territorio	N	1	
-25	,	,	O	1	
-26	ci	ci	Q	1	
-27	hanno	avere	V	1	
-28	consigliato	consigliare	V	1	
-29	i	lo	D	1	
-30	migliori	migliori	N	1	
-31	ristoranti	ristorare	V	1	
-32	e	e	Q	1	
-33	le	lo	D	1	
-34	attività	attivita'	N	1	
-35	del	del	P	1	
-36	posto	posto	N	1	
-37	.	.	O	1	
+1	Il	lo	D	1	O
+2	rapporto	rapporto	N	1	O
+3	qualità	qualita'	N	1	O
+4	/	/	O	1	O
+5	prezzo	prezzo	N	1	O
+6	è	è	R	1	O
+7	ottimo.	ottimo.	N	1	O
+8	i	lo	D	1	O
+9	gestori	gestore	N	1	O
+10	Giada	giada	R	1	I-Person
+11	e	e	Q	1	O
+12	Alessandro	alessandro	R	1	I-Person
+13	sono	essere	V	1	O
+14	persone	persona	N	1	O
+15	splendide	splendido	G	1	O
+16	,	,	O	1	O
+17	ci	ci	Q	1	O
+18	hanno	avere	V	1	O
+19	dato	dare	V	1	O
+20	tutte	tutto	G	1	O
+21	le	lo	D	1	O
+22	informazioni	informazione	N	1	O
+23	sul	sul	P	1	O
+24	territorio	territorio	N	1	O
+25	,	,	O	1	O
+26	ci	ci	Q	1	O
+27	hanno	avere	V	1	O
+28	consigliato	consigliare	V	1	O
+29	i	lo	D	1	O
+30	migliori	migliori	N	1	O
+31	ristoranti	ristorare	V	1	O
+32	e	e	Q	1	O
+33	le	lo	D	1	O
+34	attività	attivita'	N	1	O
+35	del	del	P	1	O
+36	posto	posto	N	1	O
+37	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	Camere	camera	N	1	
-3	sono	essere	V	1	
-4	veramente	veramente	A	1	
-5	Pulite	pulire	V	1	
-6	e	e	Q	1	
-7	tutti	tutto	G	1	
-8	i	lo	D	1	
-9	giorni	giorno	N	1	
-10	,	,	O	1	
-11	ci	ci	Q	1	
-12	veniva	venire	V	1	
-13	rifatta	rifare	V	1	
-14	la	lo	D	1	
-15	camera	camera	N	1	
-16	e	e	Q	1	
-17	la	lo	D	1	
-18	pulizia	pulizia	N	1	
-19	.	.	O	1	
+1	Le	lo	D	1	O
+2	Camere	camera	N	1	O
+3	sono	essere	V	1	O
+4	veramente	veramente	A	1	O
+5	Pulite	pulire	V	1	O
+6	e	e	Q	1	O
+7	tutti	tutto	G	1	O
+8	i	lo	D	1	O
+9	giorni	giorno	N	1	O
+10	,	,	O	1	O
+11	ci	ci	Q	1	O
+12	veniva	venire	V	1	O
+13	rifatta	rifare	V	1	O
+14	la	lo	D	1	O
+15	camera	camera	N	1	O
+16	e	e	Q	1	O
+17	la	lo	D	1	O
+18	pulizia	pulizia	N	1	O
+19	.	.	O	1	O
 
-1	Bellissima	bellissima	G	1	
-2	la	lo	D	1	
-3	vista	vista	N	1	
-4	panoramica	panoramico	G	1	
-5	della	della	P	1	
-6	Terrazza	terrazza	N	1	
-7	.	.	O	1	
+1	Bellissima	bellissima	G	1	O
+2	la	lo	D	1	O
+3	vista	vista	N	1	O
+4	panoramica	panoramico	G	1	O
+5	della	della	P	1	O
+6	Terrazza	terrazza	N	1	O
+7	.	.	O	1	O
 
-1	Un	uno	D	1	
-2	panorama	panorama	N	1	
-3	mozzafiato	mozzafiato	G	1	
-4	che	che	Q	1	
-5	consiglio	consigliare	V	1	
-6	a	a	P	1	
-7	tutti	tutti	Q	1	
-8	,	,	O	1	
-9	per	per	P	1	
-10	fare	fare	V	1	
-11	dei	dei	P	1	
-12	bellissimi	bellissimi	G	1	
-13	scatti	scatto	N	1	
-14	fotografici	fotografico	G	1	
-15	.	.	O	1	
+1	Un	uno	D	1	O
+2	panorama	panorama	N	1	O
+3	mozzafiato	mozzafiato	G	1	O
+4	che	che	Q	1	O
+5	consiglio	consigliare	V	1	O
+6	a	a	P	1	O
+7	tutti	tutti	Q	1	O
+8	,	,	O	1	O
+9	per	per	P	1	O
+10	fare	fare	V	1	O
+11	dei	dei	P	1	O
+12	bellissimi	bellissimi	G	1	O
+13	scatti	scatto	N	1	O
+14	fotografici	fotografico	G	1	O
+15	.	.	O	1	O
 
-1	E	e	Q	1	
-2	'	'	Q	1	
-3	il	lo	D	1	
-4	posto	porre	V	1	
-5	ideale	ideale	G	1	
-6	.	.	O	1	
+1	E	e	Q	1	O
+2	'	'	Q	1	O
+3	il	lo	D	1	O
+4	posto	porre	V	1	O
+5	ideale	ideale	G	1	O
+6	.	.	O	1	O
 
-1	La	lo	D	1	
-2	colazione	colazione	N	1	
-3	è	essere	V	1	
-4	molto	molto	A	1	
-5	ricca	ricco	G	1	
-6	,	,	O	1	
-7	ben	ben	A	1	
-8	servita	servire	V	1	
-9	.	.	O	1	
+1	La	lo	D	1	O
+2	colazione	colazione	N	1	O
+3	è	essere	V	1	O
+4	molto	molto	A	1	O
+5	ricca	ricco	G	1	O
+6	,	,	O	1	O
+7	ben	ben	A	1	O
+8	servita	servire	V	1	O
+9	.	.	O	1	O
 
-1	Più	piu'	N	1	
-2	tutti	tutto	G	1	
-3	i	lo	D	1	
-4	comfort	comfort	N	1	
-5	quali	quali	G	1	
-6	SKY	sky	N	1	
-7	e	e	Q	1	
-8	Internet	internet	R	1	
-9	Wi	wi	R	1	
-10	·	·	R	1	
-11	Fi	fi	R	1	
-12	,	,	O	1	
-13	uso	uso	G	1	
-14	cucina	cucina	N	1	
-15	e	e	Q	1	
-16	lavatrice	lavatrice	N	1	
-17	.	.	O	1	
+1	Più	piu'	N	1	O
+2	tutti	tutto	G	1	O
+3	i	lo	D	1	O
+4	comfort	comfort	N	1	O
+5	quali	quali	G	1	O
+6	SKY	sky	N	1	O
+7	e	e	Q	1	O
+8	Internet	internet	R	1	O
+9	Wi	wi	R	1	O
+10	·	·	R	1	O
+11	Fi	fi	R	1	O
+12	,	,	O	1	O
+13	uso	uso	G	1	O
+14	cucina	cucina	N	1	O
+15	e	e	Q	1	O
+16	lavatrice	lavatrice	N	1	O
+17	.	.	O	1	O
 
-1	I	lo	D	1	
-2	parcheggi	parcheggio	N	1	
-3	sono	essere	V	1	
-4	veramente	veramente	A	1	
-5	vicini	vicino	N	1	
-6	,	,	O	1	
-7	a	a	P	1	
-8	100	100	G	1	
-9	metri	metro	N	1	
-10	di	di	P	1	
-11	fronte	fronte	N	1	
-12	a	a	P	1	
-13	Largo_Roma	largo_roma	R	1	ne=Location
-14	,	,	O	1	
-15	in	in	P	1	
-16	Via_Mencatelli	via_mencatelli	R	1	ne=Location
-17	(	(	O	1	
-18	striscia	striscia	N	1	
-19	Bianca	bianco	G	1	
-20	e	e	Q	1	
-21	Blu	blu	G	1	
-22	)	)	O	1	
-23	,	,	O	1	
-24	altrimenti	altrimenti	A	1	
-25	sotto	sotto	P	1	
-26	le	lo	D	1	
-27	mura	murare	V	1	
-28	dopo	dopo	P	1	
-29	via	via	N	1	
-30	della	della	P	1	
-31	Circonvallazione	circonvallazione	N	1	
-32	.	.	O	1	
+1	I	lo	D	1	O
+2	parcheggi	parcheggio	N	1	O
+3	sono	essere	V	1	O
+4	veramente	veramente	A	1	O
+5	vicini	vicino	N	1	O
+6	,	,	O	1	O
+7	a	a	P	1	O
+8	100	100	G	1	O
+9	metri	metro	N	1	O
+10	di	di	P	1	O
+11	fronte	fronte	N	1	O
+12	a	a	P	1	O
+13	Largo	largo	R	1	I-Location
+14	Roma	roma	R	1	I-Location
+15	,	,	O	1	O
+16	in	in	P	1	O
+17	Via	via	N	1	I-Location
+18	Mencatelli	mencatelli	R	1	I-Location
+19	(	(	O	1	O
+20	striscia	striscia	N	1	O
+21	Bianca	bianco	G	1	O
+22	e	e	Q	1	O
+23	Blu	blu	G	1	O
+24	)	)	O	1	O
+25	,	,	O	1	O
+26	altrimenti	altrimenti	A	1	O
+27	sotto	sotto	P	1	O
+28	le	lo	D	1	O
+29	mura	murare	V	1	O
+30	dopo	dopo	P	1	O
+31	via	via	N	1	O
+32	della	della	P	1	O
+33	Circonvallazione	circonvallazione	N	1	O
+34	.	.	O	1	O
 
-1	Torneremo	tornare	V	1	
-2	Presto	presto	R	1	
-3	.	.	O	1	
+1	Torneremo	tornare	V	1	O
+2	Presto	presto	R	1	O
+3	.	.	O	1	O
 

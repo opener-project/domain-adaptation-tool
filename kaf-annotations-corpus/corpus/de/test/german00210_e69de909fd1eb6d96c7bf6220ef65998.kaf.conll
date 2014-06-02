@@ -1,159 +1,159 @@
-1	Wunderbarer	wunderbar	G	1	
-2	Urlaub	Urlaub	N	1	
-3	in	in	P	1	
-4	einem	eine	D	1	
-5	Spitzen	Spitze	N	1	
-6	Hotel	Hotel	N	1	
+1	Wunderbarer	wunderbar	G	1	O
+2	Urlaub	Urlaub	N	1	O
+3	in	in	P	1	O
+4	einem	eine	D	1	O
+5	Spitzen	Spitze	N	1	O
+6	Hotel	Hotel	N	1	O
 
-1	Ein	eine	D	1	
-2	Hotel	Hotel	N	1	
-3	der	die	D	1	
-4	Spitzenklasse	Spitzenklasse	N	1	
-5	auf	auf	P	1	
-6	einer	eine	Q	1	
-7	der	die	D	1	
-8	schönsten	schön	G	1	
-9	Inseln	Insel	N	1	
-10	Griechenlands	Griechenland	R	1	
-11	mit	mit	P	1	
-12	super	super	G	1	
-13	Komfort	Komfort	N	1	
-14	,	,	O	1	
-15	leckerem	lecker	G	1	
-16	Essen	Essen	N	1	
-17	,	,	O	1	
-18	schönem	schön	G	1	
-19	Ambiente	Ambiente	N	1	
-20	und	und	C	1	
-21	super	super	G	1	
-22	Lage	Lage	N	1	
-23	.	.	O	1	
+1	Ein	eine	D	1	O
+2	Hotel	Hotel	N	1	O
+3	der	die	D	1	O
+4	Spitzenklasse	Spitzenklasse	N	1	O
+5	auf	auf	P	1	O
+6	einer	eine	Q	1	O
+7	der	die	D	1	O
+8	schönsten	schön	G	1	O
+9	Inseln	Insel	N	1	O
+10	Griechenlands	Griechenland	R	1	O
+11	mit	mit	P	1	O
+12	super	super	G	1	O
+13	Komfort	Komfort	N	1	O
+14	,	,	O	1	O
+15	leckerem	lecker	G	1	O
+16	Essen	Essen	N	1	O
+17	,	,	O	1	O
+18	schönem	schön	G	1	O
+19	Ambiente	Ambiente	N	1	O
+20	und	und	C	1	O
+21	super	super	G	1	O
+22	Lage	Lage	N	1	O
+23	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	eine	eine	D	1	
-4	Juniorsuite	Juniorsuite	O	1	
-5	mit	mit	P	1	
-6	Privatpool	Privatpool	O	1	
-7	mit	mit	P	1	
-8	Blick	Blick	N	1	
-9	auf	auf	P	1	
-10	das	die	D	1	
-11	Meer	Meer	N	1	
-12	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	eine	eine	D	1	O
+4	Juniorsuite	Juniorsuite	O	1	O
+5	mit	mit	P	1	O
+6	Privatpool	Privatpool	O	1	O
+7	mit	mit	P	1	O
+8	Blick	Blick	N	1	O
+9	auf	auf	P	1	O
+10	das	die	D	1	O
+11	Meer	Meer	N	1	O
+12	.	.	O	1	O
 
-1	Tägliche	täglich	G	1	
-2	Zimmerreinigung	Zimmerreinigung	N	1	
-3	war	sein	V	1	
-4	sehr	sehr	A	1	
-5	ordentlich	ordentlich	G	1	
-6	.	.	O	1	
+1	Tägliche	täglich	G	1	O
+2	Zimmerreinigung	Zimmerreinigung	N	1	O
+3	war	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	ordentlich	ordentlich	G	1	O
+6	.	.	O	1	O
 
-1	Die	die	D	1	
-2	AI	AI	O	1	
-3	Leistungen	Leistung	N	1	
-4	sind	sein	V	1	
-5	absolut	absolut	G	1	
-6	ok	ok	O	1	
-7	,	,	O	1	
-8	das	die	D	1	
-9	Essen	Essen	N	1	
-10	ist	sein	V	1	
-11	schmackhaft	schmackhaft	G	1	
-12	und	und	C	1	
-13	vielseitig	vielseitig	G	1	
-14	.	.	O	1	
+1	Die	die	D	1	O
+2	AI	AI	O	1	O
+3	Leistungen	Leistung	N	1	O
+4	sind	sein	V	1	O
+5	absolut	absolut	G	1	O
+6	ok	ok	O	1	O
+7	,	,	O	1	O
+8	das	die	D	1	O
+9	Essen	Essen	N	1	O
+10	ist	sein	V	1	O
+11	schmackhaft	schmackhaft	G	1	O
+12	und	und	C	1	O
+13	vielseitig	vielseitig	G	1	O
+14	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	gemischte	gemischt	G	1	
-3	Gästestruktur	Gästestruktur	N	1	
-4	international	international	G	1	
-5	wie	wie	C	1	
-6	altersmäßig	altersmäßig	G	1	
-7	,	,	O	1	
-8	was	was	Q	1	
-9	aber	aber	A	1	
-10	nicht	nicht	O	1	
-11	stört	stören	V	1	
-12	,	,	O	1	
-13	da	da	C	1	
-14	alle	alle	Q	1	
-15	ein	eine	D	1	
-16	sehr	sehr	A	1	
-17	gesittetes	gesittet	G	1	
-18	Verhalten	Verhalten	N	1	
-19	an	an	P	1	
-20	den	die	D	1	
-21	Tag	Tag	N	1	
-22	legen	legen	V	1	
-23	(	(	O	1	
-24	Einelaußnamen	Einelaußnamen	O	1	
-25	ausgenommen	ausnehmen	V	1	
-26	:	:	O	1	
-27	daß	dass	C	1	
-28	sich	sich	Q	1	
-29	US	US	R	1	
-30	Amerikaner	Amerikaner	N	1	
-31	wie	wie	C	1	
-32	Engländer	Engländer	N	1	
-33	benehmen	benehmen	V	1	
-34	war	sein	V	1	
-35	mir	ich	Q	1	
-36	neu	neu	G	1	
-37	,	,	O	1	
-38	dafür	dafür	Q	1	
-39	waren	sein	V	1	
-40	die	die	D	1	
-41	Freunde	Freund	N	1	
-42	von	von	P	1	
-43	der	die	D	1	
-44	Insel	Insel	N	1	
-45	nicht	nicht	O	1	
-46	da	da	A	1	
-47	)	)	O	1	
-48	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	gemischte	gemischt	G	1	O
+3	Gästestruktur	Gästestruktur	N	1	O
+4	international	international	G	1	O
+5	wie	wie	C	1	O
+6	altersmäßig	altersmäßig	G	1	O
+7	,	,	O	1	O
+8	was	was	Q	1	O
+9	aber	aber	A	1	O
+10	nicht	nicht	O	1	O
+11	stört	stören	V	1	O
+12	,	,	O	1	O
+13	da	da	C	1	O
+14	alle	alle	Q	1	O
+15	ein	eine	D	1	O
+16	sehr	sehr	A	1	O
+17	gesittetes	gesittet	G	1	O
+18	Verhalten	Verhalten	N	1	O
+19	an	an	P	1	O
+20	den	die	D	1	O
+21	Tag	Tag	N	1	O
+22	legen	legen	V	1	O
+23	(	(	O	1	O
+24	Einelaußnamen	Einelaußnamen	O	1	O
+25	ausgenommen	ausnehmen	V	1	O
+26	:	:	O	1	O
+27	daß	dass	C	1	O
+28	sich	sich	Q	1	O
+29	US	US	R	1	O
+30	Amerikaner	Amerikaner	N	1	O
+31	wie	wie	C	1	O
+32	Engländer	Engländer	N	1	O
+33	benehmen	benehmen	V	1	O
+34	war	sein	V	1	O
+35	mir	ich	Q	1	O
+36	neu	neu	G	1	O
+37	,	,	O	1	O
+38	dafür	dafür	Q	1	O
+39	waren	sein	V	1	O
+40	die	die	D	1	O
+41	Freunde	Freund	N	1	O
+42	von	von	P	1	O
+43	der	die	D	1	O
+44	Insel	Insel	N	1	O
+45	nicht	nicht	O	1	O
+46	da	da	A	1	O
+47	)	)	O	1	O
+48	.	.	O	1	O
 
-1	Die	die	D	1	
-2	gesamte	gesamt	G	1	
-3	Anlage	Anlage	N	1	
-4	ist	sein	V	1	
-5	sehr	sehr	A	1	
-6	sauber	sauber	G	1	
-7	,	,	O	1	
-8	alle	alle	Q	1	
-9	Mitarbeiter	Mitarbeiter	N	1	
-10	sind	sein	V	1	
-11	sehr	sehr	A	1	
-12	sehr	sehr	A	1	
-13	nett	nett	G	1	
-14	.	.	O	1	
+1	Die	die	D	1	O
+2	gesamte	gesamt	G	1	O
+3	Anlage	Anlage	N	1	O
+4	ist	sein	V	1	O
+5	sehr	sehr	A	1	O
+6	sauber	sauber	G	1	O
+7	,	,	O	1	O
+8	alle	alle	Q	1	O
+9	Mitarbeiter	Mitarbeiter	N	1	O
+10	sind	sein	V	1	O
+11	sehr	sehr	A	1	O
+12	sehr	sehr	A	1	O
+13	nett	nett	G	1	O
+14	.	.	O	1	O
 
-1	Stilvoll	stilvoll	G	1	
-2	eingerichtete	eingerichtet	G	1	
-3	Zimmer	Zimmer	N	1	
-4	und	und	C	1	
-5	sehr	sehr	A	1	
-6	angenehm	angenehm	G	1	
-7	war	sein	V	1	
-8	,	,	O	1	
-9	daß	dass	C	1	
-10	man	man	Q	1	
-11	konsequent	konsequent	G	1	
-12	darauf	darauf	Q	1	
-13	achtet	achten	V	1	
-14	,	,	O	1	
-15	daß	dass	C	1	
-16	der	die	D	1	
-17	Dreßcode	Dreßcode	O	1	
-18	zum	zu	P	1	
-19	Abendessen	Abendessen	N	1	
-20	eingehalten	einhalten	V	1	
-21	wird	werden	V	1	
-22	(	(	O	1	
-23	Herren	Herr	N	1	
-24	in	in	P	1	
-25	langer	lang	G	1	
-26	Hose	Hose	N	1	
-27	)	)	O	1	
-28	.	.	O	1	
+1	Stilvoll	stilvoll	G	1	O
+2	eingerichtete	eingerichtet	G	1	O
+3	Zimmer	Zimmer	N	1	O
+4	und	und	C	1	O
+5	sehr	sehr	A	1	O
+6	angenehm	angenehm	G	1	O
+7	war	sein	V	1	O
+8	,	,	O	1	O
+9	daß	dass	C	1	O
+10	man	man	Q	1	O
+11	konsequent	konsequent	G	1	O
+12	darauf	darauf	Q	1	O
+13	achtet	achten	V	1	O
+14	,	,	O	1	O
+15	daß	dass	C	1	O
+16	der	die	D	1	O
+17	Dreßcode	Dreßcode	O	1	O
+18	zum	zu	P	1	O
+19	Abendessen	Abendessen	N	1	O
+20	eingehalten	einhalten	V	1	O
+21	wird	werden	V	1	O
+22	(	(	O	1	O
+23	Herren	Herr	N	1	O
+24	in	in	P	1	O
+25	langer	lang	G	1	O
+26	Hose	Hose	N	1	O
+27	)	)	O	1	O
+28	.	.	O	1	O
 

@@ -1,121 +1,121 @@
-1	Tolles	toll	G	1	
-2	Hotel	Hotel	N	1	
-3	in	in	P	1	
-4	direkter	direkt	G	1	
-5	Strandlage	Strandlage	O	1	
+1	Tolles	toll	G	1	O
+2	Hotel	Hotel	N	1	O
+3	in	in	P	1	O
+4	direkter	direkt	G	1	O
+5	Strandlage	Strandlage	O	1	O
 
-1	Das	die	D	1	
-2	Mövenpick	Mövenpick	O	1	
-3	Mauritius	Mauritius	R	1	
-4	ist	sein	V	1	
-5	ein	eine	D	1	
-6	Traum	Traum	N	1	
-7	.	.	O	1	
+1	Das	die	D	1	O
+2	Mövenpick	Mövenpick	O	1	O
+3	Mauritius	Mauritius	R	1	O
+4	ist	sein	V	1	O
+5	ein	eine	D	1	O
+6	Traum	Traum	N	1	O
+7	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	ein	eine	D	1	
-4	Zimmer	Zimmer	N	1	
-5	in	in	P	1	
-6	erster	erst	G	1	
-7	Strandreihe	Strandreihe	O	1	
-8	·	·	O	1	
-9	wenn	wenn	C	1	
-10	man	man	Q	1	
-11	die	die	D	1	
-12	Terrassentür	Terrassentür	N	1	
-13	aufgemacht	aufmachen	V	1	
-14	hat	haben	V	1	
-15	,	,	O	1	
-16	hatte	haben	V	1	
-17	man	man	Q	1	
-18	es	es	Q	1	
-19	nicht	nicht	O	1	
-20	mehr	mehr	A	1	
-21	weit	weit	G	1	
-22	bis	bis	C	1	
-23	zum	zu	P	1	
-24	Strand	Strand	N	1	
-25	und	und	C	1	
-26	v.a.	vona.	P	1	
-27	zum	zu	P	1	
-28	Wasser	Wasser	N	1	
-29	!	!	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	ein	eine	D	1	O
+4	Zimmer	Zimmer	N	1	O
+5	in	in	P	1	O
+6	erster	erst	G	1	O
+7	Strandreihe	Strandreihe	O	1	O
+8	·	·	O	1	O
+9	wenn	wenn	C	1	O
+10	man	man	Q	1	O
+11	die	die	D	1	O
+12	Terrassentür	Terrassentür	N	1	O
+13	aufgemacht	aufmachen	V	1	O
+14	hat	haben	V	1	O
+15	,	,	O	1	O
+16	hatte	haben	V	1	O
+17	man	man	Q	1	O
+18	es	es	Q	1	O
+19	nicht	nicht	O	1	O
+20	mehr	mehr	A	1	O
+21	weit	weit	G	1	O
+22	bis	bis	C	1	O
+23	zum	zu	P	1	O
+24	Strand	Strand	N	1	O
+25	und	und	C	1	O
+26	v.a.	vona.	P	1	O
+27	zum	zu	P	1	O
+28	Wasser	Wasser	N	1	O
+29	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Bad	Bad	R	1	
-3	war	sein	V	1	
-4	offen	offen	G	1	
-5	gestaltet	gestalten	V	1	
-6	und	und	C	1	
-7	über	über	P	1	
-8	zwei	zwei	O	1	
-9	Treppenstufen	Treppenstufe	N	1	
-10	vom	von	P	1	
-11	immer	immer	A	1	
-12	aus	aus	P	1	
-13	erreichbar	erreichbar	G	1	
-14	.	.	O	1	
+1	Das	die	D	1	O
+2	Bad	Bad	R	1	O
+3	war	sein	V	1	O
+4	offen	offen	G	1	O
+5	gestaltet	gestalten	V	1	O
+6	und	und	C	1	O
+7	über	über	P	1	O
+8	zwei	zwei	O	1	O
+9	Treppenstufen	Treppenstufe	N	1	O
+10	vom	von	P	1	O
+11	immer	immer	A	1	O
+12	aus	aus	P	1	O
+13	erreichbar	erreichbar	G	1	O
+14	.	.	O	1	O
 
-1	Eine	eine	D	1	
-2	riesige	riesig	G	1	
-3	Badewanne	Badewanne	N	1	
-4	mit	mit	P	1	
-5	Blick	Blick	N	1	
-6	auf	auf	P	1	
-7	die	die	D	1	
-8	eigene	eigen	G	1	
-9	Aussendusche	Aussendusche	O	1	
-10	·	·	O	1	
-11	eine	eine	D	1	
-12	sep.	sep.	O	1	
-13	Dusche	Dusche	N	1	
-14	(	(	O	1	
-15	innen	innen	G	1	
-16	)	)	O	1	
-17	gab	geben	V	1	
-18	es	es	Q	1	
-19	natürlich	natürlich	A	1	
-20	auch	auch	A	1	
-21	!	!	O	1	
+1	Eine	eine	D	1	O
+2	riesige	riesig	G	1	O
+3	Badewanne	Badewanne	N	1	O
+4	mit	mit	P	1	O
+5	Blick	Blick	N	1	O
+6	auf	auf	P	1	O
+7	die	die	D	1	O
+8	eigene	eigen	G	1	O
+9	Aussendusche	Aussendusche	O	1	O
+10	·	·	O	1	O
+11	eine	eine	D	1	O
+12	sep.	sep.	O	1	O
+13	Dusche	Dusche	N	1	O
+14	(	(	O	1	O
+15	innen	innen	G	1	O
+16	)	)	O	1	O
+17	gab	geben	V	1	O
+18	es	es	Q	1	O
+19	natürlich	natürlich	A	1	O
+20	auch	auch	A	1	O
+21	!	!	O	1	O
 
-1	Qualität	Qualität	N	1	
-2	des	die	D	1	
-3	Hotel	Hotel	N	1	
-4	und	und	C	1	
-5	Zimmer	Zimmer	N	1	
-6	wirklich	wirklich	G	1	
-7	einmalig	einmalig	G	1	
-8	.	.	O	1	
+1	Qualität	Qualität	N	1	O
+2	des	die	D	1	O
+3	Hotel	Hotel	N	1	O
+4	und	und	C	1	O
+5	Zimmer	Zimmer	N	1	O
+6	wirklich	wirklich	G	1	O
+7	einmalig	einmalig	G	1	O
+8	.	.	O	1	O
 
-1	Toller	toll	G	1	
-2	Eingangsbereich	Eingangsbereich	N	1	
-3	und	und	C	1	
-4	direkt	direkt	G	1	
-5	am	an	P	1	
-6	Meer	Meer	N	1	
-7	gelegen	liegen	V	1	
-8	.	.	O	1	
+1	Toller	toll	G	1	O
+2	Eingangsbereich	Eingangsbereich	N	1	O
+3	und	und	C	1	O
+4	direkt	direkt	G	1	O
+5	am	an	P	1	O
+6	Meer	Meer	N	1	O
+7	gelegen	liegen	V	1	O
+8	.	.	O	1	O
 
-1	Ich	ich	Q	1	
-2	war	sein	V	1	
-3	zwar	zwar	A	1	
-4	geschäftlich	geschäftlich	G	1	
-5	dort	dort	A	1	
-6	,	,	O	1	
-7	würde	werden	V	1	
-8	aber	aber	A	1	
-9	sofort	sofort	A	1	
-10	privat	privat	G	1	
-11	dort	dort	A	1	
-12	länger	lang	G	1	
-13	verweilen	verweilen	V	1	
-14	!	!	O	1	
+1	Ich	ich	Q	1	O
+2	war	sein	V	1	O
+3	zwar	zwar	A	1	O
+4	geschäftlich	geschäftlich	G	1	O
+5	dort	dort	A	1	O
+6	,	,	O	1	O
+7	würde	werden	V	1	O
+8	aber	aber	A	1	O
+9	sofort	sofort	A	1	O
+10	privat	privat	G	1	O
+11	dort	dort	A	1	O
+12	länger	lang	G	1	O
+13	verweilen	verweilen	V	1	O
+14	!	!	O	1	O
 
-1	Kann	können	V	1	
-2	es	es	Q	1	
-3	nur	nur	A	1	
-4	weiter	weiter	A	1	
-5	empfehlen	empfehlen	V	1	
-6	!	!	O	1	
+1	Kann	können	V	1	O
+2	es	es	Q	1	O
+3	nur	nur	A	1	O
+4	weiter	weiter	A	1	O
+5	empfehlen	empfehlen	V	1	O
+6	!	!	O	1	O
 

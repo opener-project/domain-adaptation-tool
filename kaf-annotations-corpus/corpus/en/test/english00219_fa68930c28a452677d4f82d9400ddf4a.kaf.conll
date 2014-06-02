@@ -1,79 +1,82 @@
-1	Hotel_The_Fountains	hotel_the_Fountains	R	1	ne=Hotel
+1	Hotel	hotel	N	1	I-Hotel
+2	The	the	D	1	I-Hotel
+3	Fountains	Fountains	R	1	I-Hotel
 
-1	It	it	Q	1	
-2	was	be	V	1	
-3	really	really	A	1	
-4	Bad	bad	G	1	
-5	.	.	O	1	
+1	It	it	Q	1	O
+2	was	be	V	1	O
+3	really	really	A	1	O
+4	Bad	bad	G	1	O
+5	.	.	O	1	O
 
-1	We	we	Q	1	
-2	paid	pay	V	1	
-3	for	for	P	1	
-4	3	3	O	1	
-5	nights	night	N	1	
-6	after	after	P	1	
-7	the	the	D	1	
-8	first	1	G	1	
-9	night	night	N	1	
-10	we	we	Q	1	
-11	tried	try	V	1	
-12	to	to	P	1	
-13	find	find	V	1	
-14	another	another	D	1	
-15	place	place	N	1	
-16	.	.	O	1	
+1	We	we	Q	1	O
+2	paid	pay	V	1	O
+3	for	for	P	1	O
+4	3	3	O	1	O
+5	nights	night	N	1	O
+6	after	after	P	1	O
+7	the	the	D	1	O
+8	first	1	G	1	O
+9	night	night	N	1	O
+10	we	we	Q	1	O
+11	tried	try	V	1	O
+12	to	to	P	1	O
+13	find	find	V	1	O
+14	another	another	D	1	O
+15	place	place	N	1	O
+16	.	.	O	1	O
 
-1	Dirty.our	Dirty.our	R	1	
-2	room	room	N	1	
-3	lock	lock	N	1	
-4	was	be	V	1	
-5	brocken	brocken	V	1	
-6	and	and	C	1	
-7	we	we	Q	1	
-8	were	be	V	1	
-9	not	not	A	1	
-10	sure	sure	G	1	
-11	if	if	P	1	
-12	someone	someone	N	1	
-13	came	come	V	1	
-14	in	in	A	1	
-15	.	.	O	1	
+1	Dirty.our	Dirty.our	R	1	O
+2	room	room	N	1	O
+3	lock	lock	N	1	O
+4	was	be	V	1	O
+5	brocken	brocken	V	1	O
+6	and	and	C	1	O
+7	we	we	Q	1	O
+8	were	be	V	1	O
+9	not	not	A	1	O
+10	sure	sure	G	1	O
+11	if	if	P	1	O
+12	someone	someone	N	1	O
+13	came	come	V	1	O
+14	in	in	A	1	O
+15	.	.	O	1	O
 
-1	really	really	A	1	
-2	load	load	N	1	
-3	and	and	C	1	
-4	unfriendly	unfriendly	G	1	
-5	staff	staff	N	1	
-6	.	.	O	1	
+1	really	really	A	1	O
+2	load	load	N	1	O
+3	and	and	C	1	O
+4	unfriendly	unfriendly	G	1	O
+5	staff	staff	N	1	O
+6	.	.	O	1	O
 
-1	we	we	Q	1	
-2	paied	paied	V	1	
-3	1300_euro	1300_euro	R	1	ne=Money
-4	per	per	P	1	
-5	night	night	N	1	
-6	and	and	C	1	
-7	for	for	P	1	
-8	3	3	O	1	
-9	night	night	N	1	
-10	in	in	P	1	
-11	advance	advance	N	1	
-12	...	...	O	1	
-13	we	we	Q	1	
-14	didn	didn	V	1	
-15	't	't	A	1	
-16	get	get	V	1	
-17	our	our	Q	1	
-18	meny	meny	G	1	
-19	back	back	A	1	
-20	...	...	O	1	
-21	but	but	C	1	
-22	It	it	Q	1	
-23	was	be	V	1	
-24	so	so	A	1	
-25	worse	worse	G	1	
-26	then	then	A	1	
-27	we	we	Q	1	
-28	moved	move	V	1	
-29	out	out	A	1	
-30	.	.	O	1	
+1	we	we	Q	1	O
+2	paied	paied	V	1	O
+3	1300	1300	O	1	I-Money
+4	euro	euro	N	1	I-Money
+5	per	per	P	1	O
+6	night	night	N	1	O
+7	and	and	C	1	O
+8	for	for	P	1	O
+9	3	3	O	1	O
+10	night	night	N	1	O
+11	in	in	P	1	O
+12	advance	advance	N	1	O
+13	...	...	O	1	O
+14	we	we	Q	1	O
+15	didn	didn	V	1	O
+16	't	't	A	1	O
+17	get	get	V	1	O
+18	our	our	Q	1	O
+19	meny	meny	G	1	O
+20	back	back	A	1	O
+21	...	...	O	1	O
+22	but	but	C	1	O
+23	It	it	Q	1	O
+24	was	be	V	1	O
+25	so	so	A	1	O
+26	worse	worse	G	1	O
+27	then	then	A	1	O
+28	we	we	Q	1	O
+29	moved	move	V	1	O
+30	out	out	A	1	O
+31	.	.	O	1	O
 

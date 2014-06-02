@@ -1,113 +1,113 @@
-1	King	King	O	1	
-2	en	en	C	1	
-3	Queen	Queen	O	1	
-4	voor	voor	P	1	
-5	9	@card@	O	1	
-6	dagen	dag	N	1	
+1	King	King	O	1	O
+2	en	en	C	1	O
+3	Queen	Queen	O	1	O
+4	voor	voor	P	1	O
+5	9	@card@	O	1	O
+6	dagen	dag	N	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	heeft	hebben	V	1	
-4	250	@card@	O	1	
-5	kamers	kamer	N	1	
-6	standaardkamers	standaardkamers	O	1	
-7	,	,	O	1	
-8	kamers	kamer	N	1	
-9	met	met	P	1	
-10	directe	direct	G	1	
-11	toegang	toegang	N	1	
-12	tot	tot	P	1	
-13	het	het	D	1	
-14	zwembad	zwembad	N	1	
-15	en	en	C	1	
-16	Jacuzzi	Jacuzzi	O	1	
-17	·	·	O	1	
-18	suite	suite	N	1	
-19	deze	deze	Q	1	
-20	zijn	zijn	V	1	
-21	allen	alle	Q	1	
-22	met	met	P	1	
-23	oog	oog	N	1	
-24	voor	voor	P	1	
-25	detail	detail	N	1	
-26	ingericht	inrichten	V	1	
-27	zijn	zijn	V	1	
-28	schoon	schoon	G	1	
-29	en	en	C	1	
-30	ruim	ruim	G	1	
-31	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	heeft	hebben	V	1	O
+4	250	@card@	O	1	O
+5	kamers	kamer	N	1	O
+6	standaardkamers	standaardkamers	O	1	O
+7	,	,	O	1	O
+8	kamers	kamer	N	1	O
+9	met	met	P	1	O
+10	directe	direct	G	1	O
+11	toegang	toegang	N	1	O
+12	tot	tot	P	1	O
+13	het	het	D	1	O
+14	zwembad	zwembad	N	1	O
+15	en	en	C	1	O
+16	Jacuzzi	Jacuzzi	O	1	O
+17	·	·	O	1	O
+18	suite	suite	N	1	O
+19	deze	deze	Q	1	O
+20	zijn	zijn	V	1	O
+21	allen	alle	Q	1	O
+22	met	met	P	1	O
+23	oog	oog	N	1	O
+24	voor	voor	P	1	O
+25	detail	detail	N	1	O
+26	ingericht	inrichten	V	1	O
+27	zijn	zijn	V	1	O
+28	schoon	schoon	G	1	O
+29	en	en	C	1	O
+30	ruim	ruim	G	1	O
+31	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	zijn	zijn	V	1	
-3	3	@card@	O	1	
-4	a	a	O	1	
-5	la	la	N	1	
-6	carte	carte	O	1	
-7	restaurants	restaurant	N	1	
-8	een	een	D	1	
-9	buffetrestaurant	buffetrestaurant	O	1	
-10	,	,	O	1	
-11	een	een	D	1	
-12	snackbar	snackbar	N	1	
-13	aan	aan	P	1	
-14	het	het	D	1	
-15	strand	strand	N	1	
-16	verschillende	verschillend	G	1	
-17	bars	bar	N	1	
-18	een	een	D	1	
-19	spa	spa	N	1	
-20	·	·	O	1	
-21	centrum	centrum	N	1	
-22	discobar	discobar	O	1	
-23	een	een	D	1	
-24	theater	theater	N	1	
-25	binnen	binnen	P	1	
-26	en	en	C	1	
-27	buiten	buiten	P	1	
-28	,	,	O	1	
-29	een	een	D	1	
-30	game	game	N	1	
-31	·	·	O	1	
-32	room	room	N	1	
-33	,	,	O	1	
-34	kapper	kapper	N	1	
-35	,	,	O	1	
-36	winkeltjes	winkel	N	1	
-37	binnen	binnen	P	1	
-38	en	en	C	1	
-39	buiten	buiten	P	1	
-40	zwembad	zwembad	N	1	
-41	,	,	O	1	
-42	handdoekenservice	handdoekenservice	O	1	
-43	en	en	C	1	
-44	veel	veel	O	1	
-45	ligstoelen	ligstoel	N	1	
-46	aan	aan	P	1	
-47	het	het	D	1	
-48	zwembad	zwembad	N	1	
-49	en	en	C	1	
-50	het	het	D	1	
-51	strand	strand	N	1	
+1	Er	er	Q	1	O
+2	zijn	zijn	V	1	O
+3	3	@card@	O	1	O
+4	a	a	O	1	O
+5	la	la	N	1	O
+6	carte	carte	O	1	O
+7	restaurants	restaurant	N	1	O
+8	een	een	D	1	O
+9	buffetrestaurant	buffetrestaurant	O	1	O
+10	,	,	O	1	O
+11	een	een	D	1	O
+12	snackbar	snackbar	N	1	O
+13	aan	aan	P	1	O
+14	het	het	D	1	O
+15	strand	strand	N	1	O
+16	verschillende	verschillend	G	1	O
+17	bars	bar	N	1	O
+18	een	een	D	1	O
+19	spa	spa	N	1	O
+20	·	·	O	1	O
+21	centrum	centrum	N	1	O
+22	discobar	discobar	O	1	O
+23	een	een	D	1	O
+24	theater	theater	N	1	O
+25	binnen	binnen	P	1	O
+26	en	en	C	1	O
+27	buiten	buiten	P	1	O
+28	,	,	O	1	O
+29	een	een	D	1	O
+30	game	game	N	1	O
+31	·	·	O	1	O
+32	room	room	N	1	O
+33	,	,	O	1	O
+34	kapper	kapper	N	1	O
+35	,	,	O	1	O
+36	winkeltjes	winkel	N	1	O
+37	binnen	binnen	P	1	O
+38	en	en	C	1	O
+39	buiten	buiten	P	1	O
+40	zwembad	zwembad	N	1	O
+41	,	,	O	1	O
+42	handdoekenservice	handdoekenservice	O	1	O
+43	en	en	C	1	O
+44	veel	veel	O	1	O
+45	ligstoelen	ligstoel	N	1	O
+46	aan	aan	P	1	O
+47	het	het	D	1	O
+48	zwembad	zwembad	N	1	O
+49	en	en	C	1	O
+50	het	het	D	1	O
+51	strand	strand	N	1	O
 
-1	Gasten	gast|gasten	N	1	
-2	zijn	zijn	V	1	
-3	er	er	Q	1	
-4	van	van	P	1	
-5	alle	alle	D	1	
-6	nationaliteiten	nationaliteit	N	1	
-7	(	(	O	1	
-8	geen	geen	D	1	
-9	russen	rus	N	1	
-10	tegengekomen	tegenkomen	V	1	
-11	)	)	O	1	
-12	en	en	C	1	
-13	van	van	P	1	
-14	alle	alle	D	1	
-15	leeftijden	leeftijd	N	1	
+1	Gasten	gast|gasten	N	1	O
+2	zijn	zijn	V	1	O
+3	er	er	Q	1	O
+4	van	van	P	1	O
+5	alle	alle	D	1	O
+6	nationaliteiten	nationaliteit	N	1	O
+7	(	(	O	1	O
+8	geen	geen	D	1	O
+9	russen	rus	N	1	O
+10	tegengekomen	tegenkomen	V	1	O
+11	)	)	O	1	O
+12	en	en	C	1	O
+13	van	van	P	1	O
+14	alle	alle	D	1	O
+15	leeftijden	leeftijd	N	1	O
 
-1	Alles	alles	Q	1	
-2	wordt	worden	V	1	
-3	perfect	perfect	G	1	
-4	schoon	schoon	G	1	
-5	gemaakt	maken	V	1	
+1	Alles	alles	Q	1	O
+2	wordt	worden	V	1	O
+3	perfect	perfect	G	1	O
+4	schoon	schoon	G	1	O
+5	gemaakt	maken	V	1	O
 

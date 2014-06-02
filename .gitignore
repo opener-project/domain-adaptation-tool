@@ -13,3 +13,16 @@ lib/libSVM/target/
 .classpath
 .project
 dependency-reduced-pom.xml
+.fdt
+.fdx
+.fnm
+.si
+.frq
+.prx
+.tim
+.tip
+.cfe
+.cfs
+.log
+log/
+IndexDirectory/

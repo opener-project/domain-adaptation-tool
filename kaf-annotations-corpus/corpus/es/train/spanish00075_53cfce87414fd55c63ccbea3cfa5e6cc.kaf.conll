@@ -1,82 +1,89 @@
-1	Pésimo	Pésimo	R	1	
-2	hotel	hotel	N	1	
+1	Pésimo	Pésimo	R	1	O
+2	hotel	hotel	N	1	O
 
-1	El	El	R	1	
-2	peor	peor	N	1	
-3	hotel	hotel	N	1	
-4	de	de	P	1	
-5	punta_cana	punta_cana	R	1	ne=Location
-6	!	!	O	1	
+1	El	El	R	1	O
+2	peor	peor	N	1	O
+3	hotel	hotel	N	1	O
+4	de	de	P	1	O
+5	punta	punta	G	1	I-Location
+6	cana	cana	N	1	I-Location
+7	!	!	O	1	O
 
-1	No	no	D	1	
-2	vayais	vayais	N	1	
-3	!	!	O	1	
+1	No	no	D	1	O
+2	vayais	vayais	N	1	O
+3	!	!	O	1	O
 
-1	la	la	D	1	
-2	playa	playa	O	1	
-3	llena	llena	O	1	
-4	de	de	O	1	
-5	algas	algas	O	1	
-6	,	,	O	1	
-7	el	el	N	1	
-8	servicio	servicio	O	1	
-9	del	del	G	1	
-10	hotel	hotel	N	1	
-11	fatal	fatal	G	1	
-12	en	en	P	1	
-13	todos	todos	N	1	
-14	los	los	N	1	
-15	aspectos	aspectos	N	1	
-16	,	,	O	1	
-17	no	no	D	1	
-18	limpian	limpian	G	1	
-19	las	las	N	1	
-20	habitaciones	habitaciones	N	1	
-21	ni	ni	G	1	
-22	cambian	cambian	G	1	
-23	las	las	G	1	
-24	sabanas	sabanas	N	1	
-25	y	y	G	1	
-26	tampoco	tampoco	N	1	
-27	dejan	dejan	N	1	
-28	toallas	toallas	N	1	
-29	,	,	O	1	
-30	estuvimos	estuvimos	N	1	
-31	3dias	3dias	O	1	
-32	sin	sin	N	1	
-33	agua	agua	D	1	
-34	caliente	caliente	N	1	
-35	,	,	O	1	
-36	a	a	D	1	
-37	las_12_de_la_noche	las_12_de_la_noche	R	1	ne=Time
-38	se	se	N	1	
-39	quedan	quedan	N	1	
-40	sin	sin	N	1	
-41	alcohol	alcohol	N	1	
-42	,	,	O	1	
-43	increible	increible	G	1	
-44	el	el	N	1	
-45	servicio	servicio	N	1	
-46	de	de	P	1	
-47	un	un	G	1	
-48	todo	todo	N	1	
-49	incluido	incluido	P	1	
-50	de	de	O	1	
-51	4	4	O	1	
-52	*	*	O	1	
-53	sup	sup	N	1	
-54	!!!	!!!	N	1	
+1	la	la	D	1	O
+2	playa	playa	O	1	O
+3	llena	llena	O	1	O
+4	de	de	O	1	O
+5	algas	algas	O	1	O
+6	,	,	O	1	O
+7	el	el	N	1	O
+8	servicio	servicio	O	1	O
+9	del	del	G	1	O
+10	hotel	hotel	N	1	O
+11	fatal	fatal	G	1	O
+12	en	en	P	1	O
+13	todos	todos	N	1	O
+14	los	los	N	1	O
+15	aspectos	aspectos	N	1	O
+16	,	,	O	1	O
+17	no	no	D	1	O
+18	limpian	limpian	G	1	O
+19	las	las	N	1	O
+20	habitaciones	habitaciones	N	1	O
+21	ni	ni	G	1	O
+22	cambian	cambian	G	1	O
+23	las	las	G	1	O
+24	sabanas	sabanas	N	1	O
+25	y	y	G	1	O
+26	tampoco	tampoco	N	1	O
+27	dejan	dejan	N	1	O
+28	toallas	toallas	N	1	O
+29	,	,	O	1	O
+30	estuvimos	estuvimos	N	1	O
+31	3dias	3dias	O	1	O
+32	sin	sin	N	1	O
+33	agua	agua	D	1	O
+34	caliente	caliente	N	1	O
+35	,	,	O	1	O
+36	a	a	D	1	O
+37	las	las	G	1	I-Time
+38	12	12	O	1	I-Time
+39	de	de	P	1	I-Time
+40	la	la	D	1	I-Time
+41	noche	noche	G	1	I-Time
+42	se	se	N	1	O
+43	quedan	quedan	N	1	O
+44	sin	sin	N	1	O
+45	alcohol	alcohol	N	1	O
+46	,	,	O	1	O
+47	increible	increible	G	1	O
+48	el	el	N	1	O
+49	servicio	servicio	N	1	O
+50	de	de	P	1	O
+51	un	un	G	1	O
+52	todo	todo	N	1	O
+53	incluido	incluido	P	1	O
+54	de	de	O	1	O
+55	4	4	O	1	O
+56	*	*	O	1	O
+57	sup	sup	N	1	O
+58	!!!	!!!	N	1	O
 
-1	Recordar	Recordar	R	1	
-2	cadena	cadena	N	1	
-3	be	be	V	1	
-4	live_nooo_!	live_nooo_!	R	1	ne=Hotel
+1	Recordar	Recordar	R	1	O
+2	cadena	cadena	N	1	O
+3	be	be	V	1	O
+4	live	live	G	1	I-Hotel
+5	nooo	nooo	A	1	I-Hotel
+6	!	!	O	1	I-Hotel
 
-1	y	y	G	1	
-2	halcon	halcon	N	1	
-3	y	y	G	1	
-4	travelplan	travelplan	R	1	ne=Hotel
-5	mucho	mucho	G	1	
-6	menos	menos	R	1	ne=Hotel
-7	.	.	O	1	
+1	y	y	G	1	O
+2	halcon	halcon	N	1	O
+3	y	y	G	1	O
+4	travelplan	travelplan	R	1	I-Hotel
+5	mucho	mucho	G	1	O
+6	menos	menos	R	1	I-Hotel
+7	.	.	O	1	O
 

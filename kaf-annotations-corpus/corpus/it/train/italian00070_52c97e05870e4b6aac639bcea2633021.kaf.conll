@@ -1,94 +1,95 @@
-1	Economico	economico	G	1	
-2	ed	ed	Q	1	
-3	essenziale	essenziale	G	1	
+1	Economico	economico	G	1	O
+2	ed	ed	Q	1	O
+3	essenziale	essenziale	G	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	è	è	R	1	
-4	centralissima	centralissima	R	1	
-5	,	,	O	1	
-6	molto	molto	G	1	
-7	vicino	vicino	N	1	
-8	a	a	P	1	
-9	Plaza_Catalunya	plaza_catalunya	R	1	ne=POI
-10	,	,	O	1	
-11	ed	ed	Q	1	
-12	il	lo	D	1	
-13	personale	personale	N	1	
-14	(	(	O	1	
-15	una	uno	D	1	
-16	coppia	coppia	N	1	
-17	di	di	P	1	
-18	filippini	filippino	G	1	
-19	)	)	O	1	
-20	si	si	Q	1	
-21	sono	essere	V	1	
-22	dimostrati	dimostrare	V	1	
-23	molto	molto	A	1	
-24	gentili	gentile	G	1	
-25	e	e	Q	1	
-26	disponibili	disponibile	G	1	
-27	.	.	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	è	è	R	1	O
+4	centralissima	centralissima	R	1	O
+5	,	,	O	1	O
+6	molto	molto	G	1	O
+7	vicino	vicino	N	1	O
+8	a	a	P	1	O
+9	Plaza	plaza	R	1	I-POI
+10	Catalunya	catalunya	R	1	I-POI
+11	,	,	O	1	O
+12	ed	ed	Q	1	O
+13	il	lo	D	1	O
+14	personale	personale	N	1	O
+15	(	(	O	1	O
+16	una	uno	D	1	O
+17	coppia	coppia	N	1	O
+18	di	di	P	1	O
+19	filippini	filippino	G	1	O
+20	)	)	O	1	O
+21	si	si	Q	1	O
+22	sono	essere	V	1	O
+23	dimostrati	dimostrare	V	1	O
+24	molto	molto	A	1	O
+25	gentili	gentile	G	1	O
+26	e	e	Q	1	O
+27	disponibili	disponibile	G	1	O
+28	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	prezzo	prezzo	N	1	
-3	è	è	R	1	
-4	abbordabile	abbordabile	G	1	
-5	,	,	O	1	
-6	soprattutto	soprattutto	A	1	
-7	vista	vedere	V	1	
-8	la	lo	D	1	
-9	qualità	qualità	Q	1	
-10	delle	delle	P	1	
-11	stanze	stanza	N	1	
-12	...	...	O	1	
-13	il	lo	D	1	
-14	letto	letto	N	1	
-15	è	è	G	1	
-16	molto	molto	G	1	
-17	scomodo	scomodo	N	1	
-18	,	,	O	1	
-19	l'	lo	D	1	
-20	arredamento	arredamento	N	1	
-21	è	è	N	1	
-22	scarso	scarso	G	1	
-23	e	e	Q	1	
-24	vecchio	vecchio	G	1	
-25	....	....	N	1	
-26	e	e	Q	1	
-27	soprattutto	soprattutto	A	1	
-28	,	,	O	1	
-29	avere	avere	V	1	
-30	un	uno	D	1	
-31	ventilatore	ventilatore	N	1	
-32	a	a	P	1	
-33	pale	pala	N	1	
-34	al	al	P	1	
-35	posto	posto	N	1	
-36	di	di	P	1	
-37	un	uno	D	1	
-38	condizionatore	condizionatore	N	1	
-39	non	non	A	1	
-40	è	essere	V	1	
-41	una	uno	D	1	
-42	cosa	cosa	N	1	
-43	possibile	possibile	G	1	
-44	a	a	P	1	
-45	giugno	giugno	N	1	
-46	.	.	O	1	
+1	Il	lo	D	1	O
+2	prezzo	prezzo	N	1	O
+3	è	è	R	1	O
+4	abbordabile	abbordabile	G	1	O
+5	,	,	O	1	O
+6	soprattutto	soprattutto	A	1	O
+7	vista	vedere	V	1	O
+8	la	lo	D	1	O
+9	qualità	qualità	Q	1	O
+10	delle	delle	P	1	O
+11	stanze	stanza	N	1	O
+12	...	...	O	1	O
+13	il	lo	D	1	O
+14	letto	letto	N	1	O
+15	è	è	G	1	O
+16	molto	molto	G	1	O
+17	scomodo	scomodo	N	1	O
+18	,	,	O	1	O
+19	l'	lo	D	1	O
+20	arredamento	arredamento	N	1	O
+21	è	è	N	1	O
+22	scarso	scarso	G	1	O
+23	e	e	Q	1	O
+24	vecchio	vecchio	G	1	O
+25	....	....	N	1	O
+26	e	e	Q	1	O
+27	soprattutto	soprattutto	A	1	O
+28	,	,	O	1	O
+29	avere	avere	V	1	O
+30	un	uno	D	1	O
+31	ventilatore	ventilatore	N	1	O
+32	a	a	P	1	O
+33	pale	pala	N	1	O
+34	al	al	P	1	O
+35	posto	posto	N	1	O
+36	di	di	P	1	O
+37	un	uno	D	1	O
+38	condizionatore	condizionatore	N	1	O
+39	non	non	A	1	O
+40	è	essere	V	1	O
+41	una	uno	D	1	O
+42	cosa	cosa	N	1	O
+43	possibile	possibile	G	1	O
+44	a	a	P	1	O
+45	giugno	giugno	N	1	O
+46	.	.	O	1	O
 
-1	La	lo	D	1	
-2	colazione	colazione	N	1	
-3	,	,	O	1	
-4	sempre	sempre	A	1	
-5	preparata	preparare	V	1	
-6	dai	dai	P	1	
-7	2	2	G	1	
-8	filippini	filippino	G	1	
-9	,	,	O	1	
-10	è	è	R	1	
-11	buona	buono	G	1	
-12	ed	ed	Q	1	
-13	abbondante	abbondare	V	1	
-14	.	.	O	1	
+1	La	lo	D	1	O
+2	colazione	colazione	N	1	O
+3	,	,	O	1	O
+4	sempre	sempre	A	1	O
+5	preparata	preparare	V	1	O
+6	dai	dai	P	1	O
+7	2	2	G	1	O
+8	filippini	filippino	G	1	O
+9	,	,	O	1	O
+10	è	è	R	1	O
+11	buona	buono	G	1	O
+12	ed	ed	Q	1	O
+13	abbondante	abbondare	V	1	O
+14	.	.	O	1	O
 

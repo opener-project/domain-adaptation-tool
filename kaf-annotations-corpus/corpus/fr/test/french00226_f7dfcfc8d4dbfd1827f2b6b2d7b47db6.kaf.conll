@@ -1,42 +1,43 @@
-1	Hôtel	hôtel	N	1	
-2	très	très	G	1	
-3	agréable	agréable	G	1	
-4	et	et	C	1	
-5	silencieux	silencieux	G	1	
+1	Hôtel	hôtel	N	1	O
+2	très	très	G	1	O
+3	agréable	agréable	G	1	O
+4	et	et	C	1	O
+5	silencieux	silencieux	G	1	O
 
-1	Chambres	chambre	N	1	
-2	très	très	G	1	
-3	silencieuses	silencieux	G	1	
-4	avec	avec	P	1	
-5	une	un	D	1	
-6	superbe	superbe	N	1	
-7	vue.	vue.	G	1	
-8	l'	le	D	1	
-9	accueil	accueil	N	1	
-10	est	être	V	1	
-11	très	très	G	1	
-12	agréable	agréable	G	1	
-13	et	et	C	1	
-14	rapide	rapide	G	1	
-15	.	.	O	1	
+1	Chambres	chambre	N	1	O
+2	très	très	G	1	O
+3	silencieuses	silencieux	G	1	O
+4	avec	avec	P	1	O
+5	une	un	D	1	O
+6	superbe	superbe	N	1	O
+7	vue.	vue.	G	1	O
+8	l'	le	D	1	O
+9	accueil	accueil	N	1	O
+10	est	être	V	1	O
+11	très	très	G	1	O
+12	agréable	agréable	G	1	O
+13	et	et	C	1	O
+14	rapide	rapide	G	1	O
+15	.	.	O	1	O
 
-1	Chambres	chambre	N	1	
-2	récemment	récemment	G	1	
-3	rénovées	rénover	V	1	
-4	avec	avec	P	1	
-5	intérieur	intérieur	N	1	
-6	en	en	P	1	
-7	bois.	bois.	N	1	
-8	salle	salle	N	1	
-9	de	de	P	1	
-10	bain	bain	N	1	
-11	très	très	G	1	
-12	agréable.	agréable.	G	1	
-13	vue	voir	V	1	
-14	très	très	G	1	
-15	agréables	agréable	G	1	
-16	sur	sur	P	1	
-17	Bercy_village	Bercy_village	R	1	ne=Location
-18	et	et	C	1	
-19	Paris	pari	R	1	ne=Location
+1	Chambres	chambre	N	1	O
+2	récemment	récemment	G	1	O
+3	rénovées	rénover	V	1	O
+4	avec	avec	P	1	O
+5	intérieur	intérieur	N	1	O
+6	en	en	P	1	O
+7	bois.	bois.	N	1	O
+8	salle	salle	N	1	O
+9	de	de	P	1	O
+10	bain	bain	N	1	O
+11	très	très	G	1	O
+12	agréable.	agréable.	G	1	O
+13	vue	voir	V	1	O
+14	très	très	G	1	O
+15	agréables	agréable	G	1	O
+16	sur	sur	P	1	O
+17	Bercy	Bercy	N	1	I-Location
+18	village	village	N	1	I-Location
+19	et	et	C	1	O
+20	Paris	pari	R	1	I-Location
 

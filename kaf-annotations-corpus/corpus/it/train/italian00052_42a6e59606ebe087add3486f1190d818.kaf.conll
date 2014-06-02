@@ -1,140 +1,143 @@
-1	Un	uno	D	1	
-2	posto	posto	N	1	
-3	in	in	P	1	
-4	cui	cui	Q	1	
-5	rigenerarsi	rigenerarsi	V	1	
+1	Un	uno	D	1	O
+2	posto	posto	N	1	O
+3	in	in	P	1	O
+4	cui	cui	Q	1	O
+5	rigenerarsi	rigenerarsi	V	1	O
 
-1	Campeggio_Paradiso	campeggio_paradiso	R	1	ne=Hotel
-2	è	è	R	1	
-3	situato	situare	V	1	
-4	ai	ai	P	1	
-5	piedi	piede	N	1	
-6	del	del	P	1	
-7	Sasso_Simone	sasso_simone	R	1	ne=POI
-8	e	e	Q	1	
-9	Simoncello	simoncello	R	1	ne=POI
-10	,	,	O	1	
-11	è	è	R	1	
-12	immerso	immergere	V	1	
-13	nel	nel	P	1	
-14	verde	verde	N	1	
-15	e	e	Q	1	
-16	nella	nella	P	1	
-17	tranquillità	tranquillita'	R	1	
-18	ma	ma	Q	1	
-19	allo	allo	P	1	
-20	stesso	stesso	G	1	
-21	tempo	tempo	N	1	
-22	è	è	G	1	
-23	vicino	vicino	P	1	
-24	al	al	P	1	
-25	paese	paese	N	1	
-26	raggiungibile	raggiungibile	G	1	
-27	a	a	P	1	
-28	piedi	piede	N	1	
-29	.	.	O	1	
+1	Campeggio	campeggio	R	1	I-Hotel
+2	Paradiso	paradiso	R	1	I-Hotel
+3	è	è	R	1	O
+4	situato	situare	V	1	O
+5	ai	ai	P	1	O
+6	piedi	piede	N	1	O
+7	del	del	P	1	O
+8	Sasso	sasso	N	1	I-POI
+9	Simone	simone	R	1	I-POI
+10	e	e	Q	1	O
+11	Simoncello	simoncello	R	1	I-POI
+12	,	,	O	1	O
+13	è	è	R	1	O
+14	immerso	immergere	V	1	O
+15	nel	nel	P	1	O
+16	verde	verde	N	1	O
+17	e	e	Q	1	O
+18	nella	nella	P	1	O
+19	tranquillità	tranquillita'	R	1	O
+20	ma	ma	Q	1	O
+21	allo	allo	P	1	O
+22	stesso	stesso	G	1	O
+23	tempo	tempo	N	1	O
+24	è	è	G	1	O
+25	vicino	vicino	P	1	O
+26	al	al	P	1	O
+27	paese	paese	N	1	O
+28	raggiungibile	raggiungibile	G	1	O
+29	a	a	P	1	O
+30	piedi	piede	N	1	O
+31	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	campeggio	campeggio	N	1	
-3	è	è	R	1	
-4	il	lo	D	1	
-5	punto	punto	N	1	
-6	di	di	P	1	
-7	partenza	partenza	N	1	
-8	anche	anche	Q	1	
-9	per	per	P	1	
-10	diverse	diverso	G	1	
-11	passeggiate	passeggiata	N	1	
-12	in	in	P	1	
-13	cui	cui	Q	1	
-14	poter	poter	V	1	
-15	osservare	osservare	V	1	
-16	animali	animale	N	1	
-17	quali	quali	G	1	
-18	mucche	mucca	N	1	
-19	,	,	O	1	
-20	pecore	pecora	N	1	
-21	,	,	O	1	
-22	caprioli	capriolo	N	1	
-23	,	,	O	1	
-24	rapaci	rapace	G	1	
-25	e	e	Q	1	
-26	lupo	lupo	N	1	
-27	ed	ed	Q	1	
-28	ammirare	ammirare	V	1	
-29	spettacolari	spettacolare	G	1	
-30	paesaggi	paesaggio	N	1	
-31	.	.	O	1	
+1	Il	lo	D	1	O
+2	campeggio	campeggio	N	1	O
+3	è	è	R	1	O
+4	il	lo	D	1	O
+5	punto	punto	N	1	O
+6	di	di	P	1	O
+7	partenza	partenza	N	1	O
+8	anche	anche	Q	1	O
+9	per	per	P	1	O
+10	diverse	diverso	G	1	O
+11	passeggiate	passeggiata	N	1	O
+12	in	in	P	1	O
+13	cui	cui	Q	1	O
+14	poter	poter	V	1	O
+15	osservare	osservare	V	1	O
+16	animali	animale	N	1	O
+17	quali	quali	G	1	O
+18	mucche	mucca	N	1	O
+19	,	,	O	1	O
+20	pecore	pecora	N	1	O
+21	,	,	O	1	O
+22	caprioli	capriolo	N	1	O
+23	,	,	O	1	O
+24	rapaci	rapace	G	1	O
+25	e	e	Q	1	O
+26	lupo	lupo	N	1	O
+27	ed	ed	Q	1	O
+28	ammirare	ammirare	V	1	O
+29	spettacolari	spettacolare	G	1	O
+30	paesaggi	paesaggio	N	1	O
+31	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	campeggio_Paradiso	campeggio_paradiso	R	1	ne=Hotel
-3	è	è	R	1	
-4	un	uno	D	1	
-5	luogo	luogo	N	1	
-6	ideale	ideale	N	1	
-7	per	per	P	1	
-8	i	lo	D	1	
-9	bambini	bambino	N	1	
-10	che	che	Q	1	
-11	possono	potere	V	1	
-12	correre	correre	V	1	
-13	e	e	Q	1	
-14	giocare	giocare	V	1	
-15	in	in	P	1	
-16	totale	totale	G	1	
-17	sicurezza	sicurezza	N	1	
-18	,	,	O	1	
-19	possono	potere	V	1	
-20	fare	fare	V	1	
-21	un	uno	D	1	
-22	tuffo	tuffo	N	1	
-23	ed	ed	Q	1	
-24	una	uno	D	1	
-25	scivolata	scivolare	V	1	
-26	in	in	P	1	
-27	piscina	piscina	N	1	
-28	e	e	Q	1	
-29	possono	potere	V	1	
-30	fare	fare	V	1	
-31	amicizia	amicizia	N	1	
-32	grazie	grazia	N	1	
-33	all'	all'	P	1	
-34	intrattenimento	intrattenimento	N	1	
-35	organizzato	organizzare	V	1	
-36	dai	dai	P	1	
-37	proprietari	proprietario	N	1	
-38	del	del	P	1	
-39	campeggio	campeggio	N	1	
-40	.	.	O	1	
+1	Il	lo	D	1	O
+2	campeggio	campeggio	N	1	I-Hotel
+3	Paradiso	paradiso	G	1	I-Hotel
+4	è	è	R	1	O
+5	un	uno	D	1	O
+6	luogo	luogo	N	1	O
+7	ideale	ideale	N	1	O
+8	per	per	P	1	O
+9	i	lo	D	1	O
+10	bambini	bambino	N	1	O
+11	che	che	Q	1	O
+12	possono	potere	V	1	O
+13	correre	correre	V	1	O
+14	e	e	Q	1	O
+15	giocare	giocare	V	1	O
+16	in	in	P	1	O
+17	totale	totale	G	1	O
+18	sicurezza	sicurezza	N	1	O
+19	,	,	O	1	O
+20	possono	potere	V	1	O
+21	fare	fare	V	1	O
+22	un	uno	D	1	O
+23	tuffo	tuffo	N	1	O
+24	ed	ed	Q	1	O
+25	una	uno	D	1	O
+26	scivolata	scivolare	V	1	O
+27	in	in	P	1	O
+28	piscina	piscina	N	1	O
+29	e	e	Q	1	O
+30	possono	potere	V	1	O
+31	fare	fare	V	1	O
+32	amicizia	amicizia	N	1	O
+33	grazie	grazia	N	1	O
+34	all'	all'	P	1	O
+35	intrattenimento	intrattenimento	N	1	O
+36	organizzato	organizzare	V	1	O
+37	dai	dai	P	1	O
+38	proprietari	proprietario	N	1	O
+39	del	del	P	1	O
+40	campeggio	campeggio	N	1	O
+41	.	.	O	1	O
 
-1	Ogni	ogni	G	1	
-2	sera	sera	N	1	
-3	i	lo	D	1	
-4	bambini	bambino	N	1	
-5	possono	potere	V	1	
-6	fare	fare	V	1	
-7	un	uno	D	1	
-8	giro	giro	N	1	
-9	con	con	P	1	
-10	il	lo	D	1	
-11	trenino	trenino	N	1	
-12	del	del	P	1	
-13	campeggio	campeggio	N	1	
-14	e	e	Q	1	
-15	vengono	venire	V	1	
-16	intrattenuti	intrattenere	V	1	
-17	con	con	P	1	
-18	la	lo	D	1	
-19	baby	baby	N	1	
-20	dance	dance	N	1	
-21	o	o	Q	1	
-22	con	con	P	1	
-23	gare	gara	N	1	
-24	di	di	P	1	
-25	disegno	disegno	N	1	
-26	o	o	Q	1	
-27	con	con	P	1	
-28	il	lo	D	1	
-29	karaoke	karaoke	N	1	
-30	.	.	O	1	
+1	Ogni	ogni	G	1	O
+2	sera	sera	N	1	O
+3	i	lo	D	1	O
+4	bambini	bambino	N	1	O
+5	possono	potere	V	1	O
+6	fare	fare	V	1	O
+7	un	uno	D	1	O
+8	giro	giro	N	1	O
+9	con	con	P	1	O
+10	il	lo	D	1	O
+11	trenino	trenino	N	1	O
+12	del	del	P	1	O
+13	campeggio	campeggio	N	1	O
+14	e	e	Q	1	O
+15	vengono	venire	V	1	O
+16	intrattenuti	intrattenere	V	1	O
+17	con	con	P	1	O
+18	la	lo	D	1	O
+19	baby	baby	N	1	O
+20	dance	dance	N	1	O
+21	o	o	Q	1	O
+22	con	con	P	1	O
+23	gare	gara	N	1	O
+24	di	di	P	1	O
+25	disegno	disegno	N	1	O
+26	o	o	Q	1	O
+27	con	con	P	1	O
+28	il	lo	D	1	O
+29	karaoke	karaoke	N	1	O
+30	.	.	O	1	O
 

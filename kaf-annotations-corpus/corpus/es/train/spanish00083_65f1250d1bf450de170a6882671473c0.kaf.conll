@@ -1,152 +1,152 @@
-1	Jóvenes	Jóvenes	R	1	
-2	en	en	O	1	
-3	Amsterdam	Amsterdam	R	1	ne=Location
+1	Jóvenes	Jóvenes	R	1	O
+2	en	en	O	1	O
+3	Amsterdam	Amsterdam	R	1	I-Location
 
-1	La	La	R	1	
-2	estancia	estancia	N	1	
-3	en	en	P	1	
-4	el	el	N	1	
-5	hotel	hotel	N	1	
-6	la	la	D	1	
-7	verdad	verdad	N	1	
-8	es	es	V	1	
-9	que	que	G	1	
-10	fue	fue	N	1	
-11	agradable	agradable	G	1	
-12	y	y	G	1	
-13	cumplió	cumplió	G	1	
-14	con	con	G	1	
-15	lo	lo	G	1	
-16	que	que	N	1	
-17	ibamos	ibamos	N	1	
-18	buscando	buscando	V	1	
-19	.	.	O	1	
+1	La	La	R	1	O
+2	estancia	estancia	N	1	O
+3	en	en	P	1	O
+4	el	el	N	1	O
+5	hotel	hotel	N	1	O
+6	la	la	D	1	O
+7	verdad	verdad	N	1	O
+8	es	es	V	1	O
+9	que	que	G	1	O
+10	fue	fue	N	1	O
+11	agradable	agradable	G	1	O
+12	y	y	G	1	O
+13	cumplió	cumplió	G	1	O
+14	con	con	G	1	O
+15	lo	lo	G	1	O
+16	que	que	N	1	O
+17	ibamos	ibamos	N	1	O
+18	buscando	buscando	V	1	O
+19	.	.	O	1	O
 
-1	Calidad	Calidad	R	1	
-2	/	/	N	1	
-3	precio	precio	N	1	
-4	no	no	D	1	
-5	se	se	N	1	
-6	puede	puede	A	1	
-7	pedir	pedir	G	1	
-8	más	más	N	1	
-9	.	.	O	1	
+1	Calidad	Calidad	R	1	O
+2	/	/	N	1	O
+3	precio	precio	N	1	O
+4	no	no	D	1	O
+5	se	se	N	1	O
+6	puede	puede	A	1	O
+7	pedir	pedir	G	1	O
+8	más	más	N	1	O
+9	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	V	1	
-3	eran	eran	G	1	
-4	confortables	confortables	N	1	
-5	,	,	O	1	
-6	las	las	V	1	
-7	camas	camas	N	1	
-8	ni	ni	N	1	
-9	grandes	grandes	V	1	
-10	ni	ni	G	1	
-11	muy	muy	G	1	
-12	pequeñas	pequeñas	N	1	
-13	,	,	O	1	
-14	y	y	G	1	
-15	el	el	N	1	
-16	cuarto	cuarto	N	1	
-17	de	de	P	1	
-18	baño	baño	G	1	
-19	muy	muy	G	1	
-20	limpio	limpio	N	1	
-21	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	V	1	O
+3	eran	eran	G	1	O
+4	confortables	confortables	N	1	O
+5	,	,	O	1	O
+6	las	las	V	1	O
+7	camas	camas	N	1	O
+8	ni	ni	N	1	O
+9	grandes	grandes	V	1	O
+10	ni	ni	G	1	O
+11	muy	muy	G	1	O
+12	pequeñas	pequeñas	N	1	O
+13	,	,	O	1	O
+14	y	y	G	1	O
+15	el	el	N	1	O
+16	cuarto	cuarto	N	1	O
+17	de	de	P	1	O
+18	baño	baño	G	1	O
+19	muy	muy	G	1	O
+20	limpio	limpio	N	1	O
+21	.	.	O	1	O
 
-1	Tan	Tan	R	1	
-2	limpio	limpio	N	1	
-3	todo	todo	N	1	
-4	,	,	O	1	
-5	lleno	lleno	O	1	
-6	de	de	O	1	
-7	alfombras	alfombras	N	1	
-8	...	...	O	1	
-9	etc	etc	O	1	
-10	que	que	V	1	
-11	no	no	D	1	
-12	se	se	N	1	
-13	podía	podía	N	1	
-14	subir	subir	N	1	
-15	comida	comida	V	1	
-16	a	a	D	1	
-17	las	las	G	1	
-18	habitaciones	habitaciones	N	1	
-19	,	,	O	1	
-20	ni	ni	N	1	
-21	nada	nada	V	1	
-22	de	de	P	1	
-23	beber	beber	N	1	
-24	...	...	O	1	
-25	Un	un	G	1	
-26	8,5	8,5	O	1	
-27	para	para	N	1	
-28	las	las	G	1	
-29	habitaciones	habitaciones	N	1	
-30	.	.	O	1	
+1	Tan	Tan	R	1	O
+2	limpio	limpio	N	1	O
+3	todo	todo	N	1	O
+4	,	,	O	1	O
+5	lleno	lleno	O	1	O
+6	de	de	O	1	O
+7	alfombras	alfombras	N	1	O
+8	...	...	O	1	O
+9	etc	etc	O	1	O
+10	que	que	V	1	O
+11	no	no	D	1	O
+12	se	se	N	1	O
+13	podía	podía	N	1	O
+14	subir	subir	N	1	O
+15	comida	comida	V	1	O
+16	a	a	D	1	O
+17	las	las	G	1	O
+18	habitaciones	habitaciones	N	1	O
+19	,	,	O	1	O
+20	ni	ni	N	1	O
+21	nada	nada	V	1	O
+22	de	de	P	1	O
+23	beber	beber	N	1	O
+24	...	...	O	1	O
+25	Un	un	G	1	O
+26	8,5	8,5	O	1	O
+27	para	para	N	1	O
+28	las	las	G	1	O
+29	habitaciones	habitaciones	N	1	O
+30	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	N	1	
-3	bueno	bueno	N	1	
-4	también	también	N	1	
-5	,	,	O	1	
-6	la	la	D	1	
-7	verdad	verdad	N	1	
-8	,	,	O	1	
-9	nos	nos	N	1	
-10	esperábamos	esperábamos	V	1	
-11	mucho	mucho	G	1	
-12	menos	menos	N	1	
-13	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	N	1	O
+3	bueno	bueno	N	1	O
+4	también	también	N	1	O
+5	,	,	O	1	O
+6	la	la	D	1	O
+7	verdad	verdad	N	1	O
+8	,	,	O	1	O
+9	nos	nos	N	1	O
+10	esperábamos	esperábamos	V	1	O
+11	mucho	mucho	G	1	O
+12	menos	menos	N	1	O
+13	.	.	O	1	O
 
-1	Un	un	G	1	
-2	7,5	7,5	O	1	
-3	para	para	N	1	
-4	el	el	N	1	
-5	desayuno	desayuno	N	1	
-6	.	.	O	1	
+1	Un	un	G	1	O
+2	7,5	7,5	O	1	O
+3	para	para	N	1	O
+4	el	el	N	1	O
+5	desayuno	desayuno	N	1	O
+6	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	P	1	
-3	con	con	A	1	
-4	el	el	V	1	
-5	personal	personal	G	1	
-6	del	del	N	1	
-7	hotel	hotel	N	1	
-8	bastante	bastante	N	1	
-9	bueno	bueno	N	1	
-10	,	,	O	1	
-11	luego	luego	N	1	
-12	una	una	G	1	
-13	vez	vez	N	1	
-14	que	que	N	1	
-15	pagas	pagas	N	1	
-16	...	...	O	1	
-17	ya	you	Q	1	
-18	no	no	D	1	
-19	tanto	tanto	N	1	
-20	.	.	O	1	
+1	El	El	R	1	O
+2	trato	trato	P	1	O
+3	con	con	A	1	O
+4	el	el	V	1	O
+5	personal	personal	G	1	O
+6	del	del	N	1	O
+7	hotel	hotel	N	1	O
+8	bastante	bastante	N	1	O
+9	bueno	bueno	N	1	O
+10	,	,	O	1	O
+11	luego	luego	N	1	O
+12	una	una	G	1	O
+13	vez	vez	N	1	O
+14	que	que	N	1	O
+15	pagas	pagas	N	1	O
+16	...	...	O	1	O
+17	ya	you	Q	1	O
+18	no	no	D	1	O
+19	tanto	tanto	N	1	O
+20	.	.	O	1	O
 
-1	Pero	Pero	R	1	
-2	no	no	D	1	
-3	es	es	N	1	
-4	malo	malo	N	1	
-5	.	.	O	1	
+1	Pero	Pero	R	1	O
+2	no	no	D	1	O
+3	es	es	N	1	O
+4	malo	malo	N	1	O
+5	.	.	O	1	O
 
-1	Y	Y	G	1	
-2	destacar	destacar	O	1	
-3	también	también	O	1	
-4	la	la	O	1	
-5	localización	localización	O	1	
-6	del	del	O	1	
-7	hotel	hotel	N	1	
-8	,	,	O	1	
-9	que	que	N	1	
-10	es	es	N	1	
-11	perfecta	perfecta	V	1	
-12	.	.	O	1	
+1	Y	Y	G	1	O
+2	destacar	destacar	O	1	O
+3	también	también	O	1	O
+4	la	la	O	1	O
+5	localización	localización	O	1	O
+6	del	del	O	1	O
+7	hotel	hotel	N	1	O
+8	,	,	O	1	O
+9	que	que	N	1	O
+10	es	es	N	1	O
+11	perfecta	perfecta	V	1	O
+12	.	.	O	1	O
 
-1	Un	un	G	1	
-2	saludo	saludo	N	1	
-3	.	.	O	1	
+1	Un	un	G	1	O
+2	saludo	saludo	N	1	O
+3	.	.	O	1	O
 

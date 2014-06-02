@@ -1,167 +1,168 @@
-1	Ottimo	ottimo	G	1	
-2	rapporto	rapporto	N	1	
-3	qualità	qualita'	R	1	
-4	·	·	R	1	
-5	prezzo	prezzare	V	1	
+1	Ottimo	ottimo	G	1	O
+2	rapporto	rapporto	N	1	O
+3	qualità	qualita'	R	1	O
+4	·	·	R	1	O
+5	prezzo	prezzare	V	1	O
 
-1	Il	lo	D	1	
-2	bello	bello	N	1	
-3	della	della	P	1	
-4	catena	catena	N	1	
-5	Suite	suite	V	1	
-6	Novotel	novotel	R	1	
-7	è	è	R	1	
-8	che	che	Q	1	
-9	le	lo	D	1	
-10	camere	camera	N	1	
-11	sono	essere	V	1	
-12	,	,	O	1	
-13	come	come	Q	1	
-14	dice	dire	V	1	
-15	il	lo	D	1	
-16	nume	nume	N	1	
-17	,	,	O	1	
-18	molto	molto	G	1	
-19	spaziose	spazioso	G	1	
-20	,	,	O	1	
-21	hanno	avere	V	1	
-22	un	uno	D	1	
-23	piccolo	piccolo	G	1	
-24	cucinino	cucinino	N	1	
-25	(	(	O	1	
-26	in	in	P	1	
-27	realtà	realta'	N	1	
-28	,	,	O	1	
-29	un	uno	D	1	
-30	frigorifero	frigorifero	N	1	
-31	,	,	O	1	
-32	un	uno	D	1	
-33	microonde	microonda	N	1	
-34	e	e	Q	1	
-35	un	uno	D	1	
-36	bollitore	bollitore	N	1	
-37	,	,	O	1	
-38	ma	ma	Q	1	
-39	sono	essere	V	1	
-40	più	piu'	N	1	
-41	che	che	Q	1	
-42	sufficienti	sufficiente	G	1	
-43	per	per	P	1	
-44	scaldarsi	scaldarsi	V	1	
-45	una	uno	D	1	
-46	cena	cena	N	1	
-47	del	del	P	1	
-48	take	take	N	1	
-49	away	away	R	1	
-50	o	o	Q	1	
-51	prepararsi	prepararsi	V	1	
-52	una	uno	D	1	
-53	bela	bela	G	1	
-54	colazione	colazione	N	1	
-55	,	,	O	1	
-56	dato	dato	N	1	
-57	che	che	Q	1	
-58	i	lo	D	1	
-59	prezzi	prezzo	N	1	
-60	in	in	P	1	
-61	hotel	hotel	N	1	
-62	sono	essere	V	1	
-63	piuttosto	piuttosto	A	1	
-64	alti	alto	G	1	
-65	!	!	O	1	
-66	)	)	O	1	
-67	.	.	O	1	
+1	Il	lo	D	1	O
+2	bello	bello	N	1	O
+3	della	della	P	1	O
+4	catena	catena	N	1	O
+5	Suite	suite	V	1	O
+6	Novotel	novotel	R	1	O
+7	è	è	R	1	O
+8	che	che	Q	1	O
+9	le	lo	D	1	O
+10	camere	camera	N	1	O
+11	sono	essere	V	1	O
+12	,	,	O	1	O
+13	come	come	Q	1	O
+14	dice	dire	V	1	O
+15	il	lo	D	1	O
+16	nume	nume	N	1	O
+17	,	,	O	1	O
+18	molto	molto	G	1	O
+19	spaziose	spazioso	G	1	O
+20	,	,	O	1	O
+21	hanno	avere	V	1	O
+22	un	uno	D	1	O
+23	piccolo	piccolo	G	1	O
+24	cucinino	cucinino	N	1	O
+25	(	(	O	1	O
+26	in	in	P	1	O
+27	realtà	realta'	N	1	O
+28	,	,	O	1	O
+29	un	uno	D	1	O
+30	frigorifero	frigorifero	N	1	O
+31	,	,	O	1	O
+32	un	uno	D	1	O
+33	microonde	microonda	N	1	O
+34	e	e	Q	1	O
+35	un	uno	D	1	O
+36	bollitore	bollitore	N	1	O
+37	,	,	O	1	O
+38	ma	ma	Q	1	O
+39	sono	essere	V	1	O
+40	più	piu'	N	1	O
+41	che	che	Q	1	O
+42	sufficienti	sufficiente	G	1	O
+43	per	per	P	1	O
+44	scaldarsi	scaldarsi	V	1	O
+45	una	uno	D	1	O
+46	cena	cena	N	1	O
+47	del	del	P	1	O
+48	take	take	N	1	O
+49	away	away	R	1	O
+50	o	o	Q	1	O
+51	prepararsi	prepararsi	V	1	O
+52	una	uno	D	1	O
+53	bela	bela	G	1	O
+54	colazione	colazione	N	1	O
+55	,	,	O	1	O
+56	dato	dato	N	1	O
+57	che	che	Q	1	O
+58	i	lo	D	1	O
+59	prezzi	prezzo	N	1	O
+60	in	in	P	1	O
+61	hotel	hotel	N	1	O
+62	sono	essere	V	1	O
+63	piuttosto	piuttosto	A	1	O
+64	alti	alto	G	1	O
+65	!	!	O	1	O
+66	)	)	O	1	O
+67	.	.	O	1	O
 
-1	In	in	P	1	
-2	più	piu'	R	1	
-3	,	,	O	1	
-4	l'	lo	D	1	
-5	accesso	accesso	N	1	
-6	a	a	P	1	
-7	Internet	internet	R	1	
-8	è	è	R	1	
-9	gratuito	gratuito	G	1	
-10	,	,	O	1	
-11	veloce	veloce	G	1	
-12	e	e	Q	1	
-13	affidabile	affidabile	G	1	
-14	,	,	O	1	
-15	la	lo	D	1	
-16	TV	tv	R	1	
-17	offre	offrire	V	1	
-18	,	,	O	1	
-19	oltre	oltre	P	1	
-20	ai	ai	P	1	
-21	programmi	programma	N	1	
-22	normali	normale	G	1	
-23	,	,	O	1	
-24	anche	anche	Q	1	
-25	una	uno	D	1	
-26	serie	serie	N	1	
-27	di	di	P	1	
-28	film	film	N	1	
-29	in	in	P	1	
-30	diverse	diverso	G	1	
-31	lingue	lingua	N	1	
-32	(	(	O	1	
-33	tutti	tutti	Q	1	
-34	recenti	recente	G	1	
-35	)	)	O	1	
-36	e	e	Q	1	
-37	lo	lo	D	1	
-38	staff	staff	N	1	
-39	è	è	G	1	
-40	molto	molto	A	1	
-41	cortese	cortese	V	1	
-42	...	...	O	1	
-43	ci	ci	A	1	
-44	sono	essere	V	1	
-45	anche	anche	Q	1	
-46	tariffe	tariffa	N	1	
-47	molto	molto	A	1	
-48	interessanti	interessare	V	1	
-49	,	,	O	1	
-50	se	se	Q	1	
-51	riuscite	riuscire	V	1	
-52	a	a	P	1	
-53	prenotare	prenotare	V	1	
-54	con	con	P	1	
-55	un	uno	D	1	
-56	o	o	Q	1	
-57	'	'	Q	1	
-58	di	di	P	1	
-59	anticipo	anticipo	N	1	
-60	!	!	O	1	
+1	In	in	P	1	O
+2	più	piu'	R	1	O
+3	,	,	O	1	O
+4	l'	lo	D	1	O
+5	accesso	accesso	N	1	O
+6	a	a	P	1	O
+7	Internet	internet	R	1	O
+8	è	è	R	1	O
+9	gratuito	gratuito	G	1	O
+10	,	,	O	1	O
+11	veloce	veloce	G	1	O
+12	e	e	Q	1	O
+13	affidabile	affidabile	G	1	O
+14	,	,	O	1	O
+15	la	lo	D	1	O
+16	TV	tv	R	1	O
+17	offre	offrire	V	1	O
+18	,	,	O	1	O
+19	oltre	oltre	P	1	O
+20	ai	ai	P	1	O
+21	programmi	programma	N	1	O
+22	normali	normale	G	1	O
+23	,	,	O	1	O
+24	anche	anche	Q	1	O
+25	una	uno	D	1	O
+26	serie	serie	N	1	O
+27	di	di	P	1	O
+28	film	film	N	1	O
+29	in	in	P	1	O
+30	diverse	diverso	G	1	O
+31	lingue	lingua	N	1	O
+32	(	(	O	1	O
+33	tutti	tutti	Q	1	O
+34	recenti	recente	G	1	O
+35	)	)	O	1	O
+36	e	e	Q	1	O
+37	lo	lo	D	1	O
+38	staff	staff	N	1	O
+39	è	è	G	1	O
+40	molto	molto	A	1	O
+41	cortese	cortese	V	1	O
+42	...	...	O	1	O
+43	ci	ci	A	1	O
+44	sono	essere	V	1	O
+45	anche	anche	Q	1	O
+46	tariffe	tariffa	N	1	O
+47	molto	molto	A	1	O
+48	interessanti	interessare	V	1	O
+49	,	,	O	1	O
+50	se	se	Q	1	O
+51	riuscite	riuscire	V	1	O
+52	a	a	P	1	O
+53	prenotare	prenotare	V	1	O
+54	con	con	P	1	O
+55	un	uno	D	1	O
+56	o	o	Q	1	O
+57	'	'	Q	1	O
+58	di	di	P	1	O
+59	anticipo	anticipo	N	1	O
+60	!	!	O	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	è	è	R	1	
-4	vicino	vicino	P	1	
-5	alla	alla	P	1	
-6	Potsdamer_platz	potsdamer_platz	R	1	ne=POI
-7	,	,	O	1	
-8	e	e	Q	1	
-9	comunque	comunque	Q	1	
-10	c'	c'	A	1	
-11	è	essere	V	1	
-12	una	uno	D	1	
-13	fermata	fermata	N	1	
-14	della	della	P	1	
-15	SBahn	sbahn	R	1	
-16	proprio	proprio	A	1	
-17	di	di	P	1	
-18	fronte	fronte	N	1	
-19	,	,	O	1	
-20	con	con	P	1	
-21	cui	cui	Q	1	
-22	raggiungere	raggiungere	V	1	
-23	tutte	tutto	G	1	
-24	le	lo	D	1	
-25	zone	zona	N	1	
-26	"	&quot;	O	1	
-27	interessanti	interessare	V	1	
-28	"	&quot;	O	1	
-29	di	di	P	1	
-30	Berlino	berlino	R	1	ne=Location
-31	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	è	è	R	1	O
+4	vicino	vicino	P	1	O
+5	alla	alla	P	1	O
+6	Potsdamer	potsdamer	R	1	I-POI
+7	platz	platz	R	1	I-POI
+8	,	,	O	1	O
+9	e	e	Q	1	O
+10	comunque	comunque	Q	1	O
+11	c'	c'	A	1	O
+12	è	essere	V	1	O
+13	una	uno	D	1	O
+14	fermata	fermata	N	1	O
+15	della	della	P	1	O
+16	SBahn	sbahn	R	1	O
+17	proprio	proprio	A	1	O
+18	di	di	P	1	O
+19	fronte	fronte	N	1	O
+20	,	,	O	1	O
+21	con	con	P	1	O
+22	cui	cui	Q	1	O
+23	raggiungere	raggiungere	V	1	O
+24	tutte	tutto	G	1	O
+25	le	lo	D	1	O
+26	zone	zona	N	1	O
+27	"	&quot;	O	1	O
+28	interessanti	interessare	V	1	O
+29	"	&quot;	O	1	O
+30	di	di	P	1	O
+31	Berlino	berlino	R	1	I-Location
+32	.	.	O	1	O
 

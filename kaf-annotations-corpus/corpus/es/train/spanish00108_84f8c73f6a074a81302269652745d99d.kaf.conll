@@ -1,122 +1,122 @@
-1	Totalmente	Totalmente	R	1	
-2	recomendable	recomendable	G	1	
-3	para	para	N	1	
-4	viaje	viaje	N	1	
-5	de	de	P	1	
-6	placer	placer	N	1	
+1	Totalmente	Totalmente	R	1	O
+2	recomendable	recomendable	G	1	O
+3	para	para	N	1	O
+4	viaje	viaje	N	1	O
+5	de	de	P	1	O
+6	placer	placer	N	1	O
 
-1	Yo	Yo	R	1	
-2	quiero	quiero	N	1	
-3	dejar	dejar	N	1	
-4	mi	mi	O	1	
-5	opinión	opinión	V	1	
-6	sobre	sobre	G	1	
-7	todo	todo	N	1	
-8	en	en	P	1	
-9	lo	lo	G	1	
-10	que	que	G	1	
-11	respecta	respecta	N	1	
-12	a	a	D	1	
-13	instalaciones	instalaciones	N	1	
-14	.	.	O	1	
+1	Yo	Yo	R	1	O
+2	quiero	quiero	N	1	O
+3	dejar	dejar	N	1	O
+4	mi	mi	O	1	O
+5	opinión	opinión	V	1	O
+6	sobre	sobre	G	1	O
+7	todo	todo	N	1	O
+8	en	en	P	1	O
+9	lo	lo	G	1	O
+10	que	que	G	1	O
+11	respecta	respecta	N	1	O
+12	a	a	D	1	O
+13	instalaciones	instalaciones	N	1	O
+14	.	.	O	1	O
 
-1	Al	Al	R	1	
-2	margen	margen	O	1	
-3	de	de	O	1	
-4	experiencias	experiencias	O	1	
-5	y	y	A	1	
-6	sensaciones	sensaciones	V	1	
-7	que	que	G	1	
-8	cada	cada	N	1	
-9	uno	uno	G	1	
-10	pueda	pueda	N	1	
-11	tener	tener	N	1	
-12	,	,	O	1	
-13	a	a	D	1	
-14	mi	mi	O	1	
-15	me	me	Q	1	
-16	gustó	gustó	V	1	
-17	mucho	mucho	G	1	
-18	que	que	N	1	
-19	en	en	P	1	
-20	un	un	G	1	
-21	hotel	hotel	N	1	
-22	todo	todo	N	1	
-23	incluido	incluido	V	1	
-24	que	que	N	1	
-25	uno	uno	G	1	
-26	viaja	viaja	N	1	
-27	para	para	N	1	
-28	tratar	tratar	N	1	
-29	de	de	P	1	
-30	moverse	moverse	G	1	
-31	lo	lo	G	1	
-32	menos	menos	N	1	
-33	posible	posible	G	1	
-34	,	,	O	1	
-35	tengas	tengas	N	1	
-36	muchas	muchas	A	1	
-37	opciones	opciones	N	1	
-38	dentro	dentro	V	1	
-39	…	…	N	1	
-40	piscinas	piscinas	N	1	
-41	,	,	O	1	
-42	canchas	canchas	V	1	
-43	de	de	P	1	
-44	tenis	tenis	N	1	
-45	,	,	O	1	
-46	club	club	N	1	
-47	de	de	P	1	
-48	niños	niños	N	1	
-49	,	,	O	1	
-50	SPA	SPA	R	1	
-51	donde	donde	N	1	
-52	optas	optas	V	1	
-53	a	a	D	1	
-54	hidroterapia	hidroterapia	N	1	
-55	,	,	O	1	
-56	tratamientos	tratamientos	N	1	
-57	faciales	faciales	N	1	
-58	y	y	G	1	
-59	corporales	corporales	N	1	
-60	,	,	O	1	
-61	baños	baños	N	1	
-62	termales	termales	N	1	
-63	…	…	V	1	
-64	Una	Una	R	1	
-65	zona	zona	N	1	
-66	para	para	N	1	
-67	fitness	fitness	N	1	
-68	también	también	N	1	
-69	y	y	G	1	
-70	estética	estética	N	1	
-71	…	…	N	1	
-72	Una	Una	R	1	
-73	pasada	pasada	O	1	
-74	la	la	O	1	
-75	verdad	verdad	O	1	
-76	para	para	O	1	
-77	quienes	quienes	O	1	
-78	nos	nos	O	1	
-79	gusta	gusta	O	1	
-80	tanto	tanto	O	1	
-81	el	el	O	1	
-82	mundo	mundo	O	1	
-83	del	del	O	1	
-84	relax	relax	O	1	
-85	y	y	G	1	
-86	el	el	N	1	
-87	bienestar	bienestar	G	1	
-88	…	…	N	1	
-89	tdo	tdo	N	1	
-90	muy	muy	G	1	
-91	bien	bien	N	1	
-92	correcto	correcto	N	1	
-93	,	,	O	1	
-94	trato	trato	N	1	
-95	,	,	O	1	
-96	habitación	habitación	N	1	
-97	,	,	O	1	
-98	comidas	comidas	N	1	
-99	…	…	V	1	
+1	Al	Al	R	1	O
+2	margen	margen	O	1	O
+3	de	de	O	1	O
+4	experiencias	experiencias	O	1	O
+5	y	y	A	1	O
+6	sensaciones	sensaciones	V	1	O
+7	que	que	G	1	O
+8	cada	cada	N	1	O
+9	uno	uno	G	1	O
+10	pueda	pueda	N	1	O
+11	tener	tener	N	1	O
+12	,	,	O	1	O
+13	a	a	D	1	O
+14	mi	mi	O	1	O
+15	me	me	Q	1	O
+16	gustó	gustó	V	1	O
+17	mucho	mucho	G	1	O
+18	que	que	N	1	O
+19	en	en	P	1	O
+20	un	un	G	1	O
+21	hotel	hotel	N	1	O
+22	todo	todo	N	1	O
+23	incluido	incluido	V	1	O
+24	que	que	N	1	O
+25	uno	uno	G	1	O
+26	viaja	viaja	N	1	O
+27	para	para	N	1	O
+28	tratar	tratar	N	1	O
+29	de	de	P	1	O
+30	moverse	moverse	G	1	O
+31	lo	lo	G	1	O
+32	menos	menos	N	1	O
+33	posible	posible	G	1	O
+34	,	,	O	1	O
+35	tengas	tengas	N	1	O
+36	muchas	muchas	A	1	O
+37	opciones	opciones	N	1	O
+38	dentro	dentro	V	1	O
+39	…	…	N	1	O
+40	piscinas	piscinas	N	1	O
+41	,	,	O	1	O
+42	canchas	canchas	V	1	O
+43	de	de	P	1	O
+44	tenis	tenis	N	1	O
+45	,	,	O	1	O
+46	club	club	N	1	O
+47	de	de	P	1	O
+48	niños	niños	N	1	O
+49	,	,	O	1	O
+50	SPA	SPA	R	1	O
+51	donde	donde	N	1	O
+52	optas	optas	V	1	O
+53	a	a	D	1	O
+54	hidroterapia	hidroterapia	N	1	O
+55	,	,	O	1	O
+56	tratamientos	tratamientos	N	1	O
+57	faciales	faciales	N	1	O
+58	y	y	G	1	O
+59	corporales	corporales	N	1	O
+60	,	,	O	1	O
+61	baños	baños	N	1	O
+62	termales	termales	N	1	O
+63	…	…	V	1	O
+64	Una	Una	R	1	O
+65	zona	zona	N	1	O
+66	para	para	N	1	O
+67	fitness	fitness	N	1	O
+68	también	también	N	1	O
+69	y	y	G	1	O
+70	estética	estética	N	1	O
+71	…	…	N	1	O
+72	Una	Una	R	1	O
+73	pasada	pasada	O	1	O
+74	la	la	O	1	O
+75	verdad	verdad	O	1	O
+76	para	para	O	1	O
+77	quienes	quienes	O	1	O
+78	nos	nos	O	1	O
+79	gusta	gusta	O	1	O
+80	tanto	tanto	O	1	O
+81	el	el	O	1	O
+82	mundo	mundo	O	1	O
+83	del	del	O	1	O
+84	relax	relax	O	1	O
+85	y	y	G	1	O
+86	el	el	N	1	O
+87	bienestar	bienestar	G	1	O
+88	…	…	N	1	O
+89	tdo	tdo	N	1	O
+90	muy	muy	G	1	O
+91	bien	bien	N	1	O
+92	correcto	correcto	N	1	O
+93	,	,	O	1	O
+94	trato	trato	N	1	O
+95	,	,	O	1	O
+96	habitación	habitación	N	1	O
+97	,	,	O	1	O
+98	comidas	comidas	N	1	O
+99	…	…	V	1	O
 

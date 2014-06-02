@@ -1,86 +1,86 @@
-1	Entassé	entasser	V	1	
-2	rien	rien	P	1	
-3	pour	pour	P	1	
-4	plaire	plaire	V	1	
+1	Entassé	entasser	V	1	O
+2	rien	rien	P	1	O
+3	pour	pour	P	1	O
+4	plaire	plaire	V	1	O
 
-1	Ce	ce	D	1	
-2	camping	camping	N	1	
-3	n	n	G	1	
-4	a	avoir	V	1	
-5	rien	rien	P	1	
-6	pour	pour	P	1	
-7	plaire	plaire	V	1	
-8	le	le	D	1	
-9	bungalow	bungalow	N	1	
-10	villa	villa	V	1	
-11	4	4	D	1	
-12	/	/	P	1	
-13	6	6	D	1	
-14	personnesvieux	personnesvieux	G	1	
-15	,	,	O	1	
-16	sale	sale	N	1	
-17	,	,	O	1	
-18	bac	bac	N	1	
-19	a	avoir	V	1	
-20	douche	douche	D	1	
-21	cassé	casser	V	1	
-22	et	et	C	1	
-23	recollé	recoller	V	1	
-24	silicone	silicone	N	1	
+1	Ce	ce	D	1	O
+2	camping	camping	N	1	O
+3	n	n	G	1	O
+4	a	avoir	V	1	O
+5	rien	rien	P	1	O
+6	pour	pour	P	1	O
+7	plaire	plaire	V	1	O
+8	le	le	D	1	O
+9	bungalow	bungalow	N	1	O
+10	villa	villa	V	1	O
+11	4	4	D	1	O
+12	/	/	P	1	O
+13	6	6	D	1	O
+14	personnesvieux	personnesvieux	G	1	O
+15	,	,	O	1	O
+16	sale	sale	N	1	O
+17	,	,	O	1	O
+18	bac	bac	N	1	O
+19	a	avoir	V	1	O
+20	douche	douche	D	1	O
+21	cassé	casser	V	1	O
+22	et	et	C	1	O
+23	recollé	recoller	V	1	O
+24	silicone	silicone	N	1	O
 
-1	Mobilhome	Mobilhome	N	1	
-2	trés	trés	N	1	
-3	trés	trés	V	1	
-4	tassé	tasser	V	1	
-5	l	l	D	1	
-6	impression	impression	N	1	
-7	de	de	P	1	
-8	cage	cage	N	1	
-9	à	à	P	1	
-10	lapin	lapin	N	1	
+1	Mobilhome	Mobilhome	N	1	O
+2	trés	trés	N	1	O
+3	trés	trés	V	1	O
+4	tassé	tasser	V	1	O
+5	l	l	D	1	O
+6	impression	impression	N	1	O
+7	de	de	P	1	O
+8	cage	cage	N	1	O
+9	à	à	P	1	O
+10	lapin	lapin	N	1	O
 
-1	Le	le	D	1	
-2	site	site	N	1	
-3	n'	n'	G	1	
-4	est	être	V	1	
-5	même	même	G	1	
-6	pas	pas	G	1	
-7	joli	joli	G	1	
-8	Entre	Entre	P	1	
-9	la	le	D	1	
-10	RN	RN	N	1	
-11	et	et	C	1	
-12	la	le	D	1	
-13	voie	voie	N	1	
-14	ferrée	ferrer	G	1	
-15	(	(	O	1	
-16	trés	trés	N	1	
-17	fréquentée	fréquenter	G	1	
-18	ligne	ligne	N	1	
-19	TGV	TGV	N	1	
-20	)	)	O	1	
+1	Le	le	D	1	O
+2	site	site	N	1	O
+3	n'	n'	G	1	O
+4	est	être	V	1	O
+5	même	même	G	1	O
+6	pas	pas	G	1	O
+7	joli	joli	G	1	O
+8	Entre	Entre	P	1	O
+9	la	le	D	1	O
+10	RN	RN	N	1	O
+11	et	et	C	1	O
+12	la	le	D	1	O
+13	voie	voie	N	1	O
+14	ferrée	ferrer	G	1	O
+15	(	(	O	1	O
+16	trés	trés	N	1	O
+17	fréquentée	fréquenter	G	1	O
+18	ligne	ligne	N	1	O
+19	TGV	TGV	N	1	O
+20	)	)	O	1	O
 
-1	Attention	Attention	V	1	
-2	trés	trés	V	1	
-3	loin	loin	G	1	
-4	de	de	P	1	
-5	la	le	D	1	
-6	plage	plage	N	1	
+1	Attention	Attention	V	1	O
+2	trés	trés	V	1	O
+3	loin	loin	G	1	O
+4	de	de	P	1	O
+5	la	le	D	1	O
+6	plage	plage	N	1	O
 
-1	En	En	P	1	
-2	bref	bref	G	1	
-3	,	,	O	1	
-4	heureusement	heureusement	G	1	
-5	que	que	C	1	
-6	nous	lui	Q	1	
-7	y	y	Q	1	
-8	sommes	sommer	V	1	
-9	restés	rester	V	1	
-10	que	que	C	1	
-11	3	3	D	1	
-12	nuits	nuit	N	1	
-13	pour	pour	P	1	
-14	visiter	visiter	V	1	
-15	la	le	D	1	
-16	région	région	N	1	
+1	En	En	P	1	O
+2	bref	bref	G	1	O
+3	,	,	O	1	O
+4	heureusement	heureusement	G	1	O
+5	que	que	C	1	O
+6	nous	lui	Q	1	O
+7	y	y	Q	1	O
+8	sommes	sommer	V	1	O
+9	restés	rester	V	1	O
+10	que	que	C	1	O
+11	3	3	D	1	O
+12	nuits	nuit	N	1	O
+13	pour	pour	P	1	O
+14	visiter	visiter	V	1	O
+15	la	le	D	1	O
+16	région	région	N	1	O
 

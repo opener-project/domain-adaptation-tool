@@ -1,53 +1,53 @@
-1	Ubicación	Ubicación	R	1	
-2	inmejorable	inmejorable	G	1	
+1	Ubicación	Ubicación	R	1	O
+2	inmejorable	inmejorable	G	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	esta	esta	N	1	
-4	situado	situado	N	1	
-5	en	en	P	1	
-6	lo	lo	O	1	
-7	mejor	mejor	O	1	
-8	de	de	O	1	
-9	gran	gran	O	1	
-10	via	via	P	1	
-11	,	,	O	1	
-12	cerca	cerca	O	1	
-13	de	de	O	1	
-14	teatros	teatros	N	1	
-15	,	,	O	1	
-16	cines	cines	N	1	
-17	,	,	O	1	
-18	tiendas	tiendas	N	1	
-19	,	,	O	1	
-20	restaurantes	restaurantes	V	1	
-21	y	y	G	1	
-22	esta	esta	N	1	
-23	a	a	D	1	
-24	un	un	G	1	
-25	paso	paso	N	1	
-26	de	de	P	1	
-27	sol	sol	N	1	
-28	,	,	O	1	
-29	de	de	O	1	
-30	la	la	O	1	
-31	plaza	plaza	O	1	
-32	mayor	mayor	O	1	
-33	y	y	G	1	
-34	si	si	N	1	
-35	no	no	D	1	
-36	tienes	tienes	N	1	
-37	una	una	G	1	
-38	entrada	entrada	O	1	
-39	de	de	O	1	
-40	metro	metro	O	1	
-41	nada	nada	O	1	
-42	mas	mas	O	1	
-43	salir	salir	O	1	
-44	de	de	O	1	
-45	la	la	O	1	
-46	puerta	puerta	O	1	
-47	del	del	O	1	
-48	hotel	hotel	N	1	
-49	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	esta	esta	N	1	O
+4	situado	situado	N	1	O
+5	en	en	P	1	O
+6	lo	lo	O	1	O
+7	mejor	mejor	O	1	O
+8	de	de	O	1	O
+9	gran	gran	O	1	O
+10	via	via	P	1	O
+11	,	,	O	1	O
+12	cerca	cerca	O	1	O
+13	de	de	O	1	O
+14	teatros	teatros	N	1	O
+15	,	,	O	1	O
+16	cines	cines	N	1	O
+17	,	,	O	1	O
+18	tiendas	tiendas	N	1	O
+19	,	,	O	1	O
+20	restaurantes	restaurantes	V	1	O
+21	y	y	G	1	O
+22	esta	esta	N	1	O
+23	a	a	D	1	O
+24	un	un	G	1	O
+25	paso	paso	N	1	O
+26	de	de	P	1	O
+27	sol	sol	N	1	O
+28	,	,	O	1	O
+29	de	de	O	1	O
+30	la	la	O	1	O
+31	plaza	plaza	O	1	O
+32	mayor	mayor	O	1	O
+33	y	y	G	1	O
+34	si	si	N	1	O
+35	no	no	D	1	O
+36	tienes	tienes	N	1	O
+37	una	una	G	1	O
+38	entrada	entrada	O	1	O
+39	de	de	O	1	O
+40	metro	metro	O	1	O
+41	nada	nada	O	1	O
+42	mas	mas	O	1	O
+43	salir	salir	O	1	O
+44	de	de	O	1	O
+45	la	la	O	1	O
+46	puerta	puerta	O	1	O
+47	del	del	O	1	O
+48	hotel	hotel	N	1	O
+49	.	.	O	1	O
 

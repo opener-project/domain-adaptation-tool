@@ -1,159 +1,161 @@
-1	Hotspot	Hotspot	O	1	
-2	voor	voor	P	1	
-3	een	een	D	1	
-4	leuke	leuk	G	1	
-5	citytrip	citytrip	O	1	
+1	Hotspot	Hotspot	O	1	O
+2	voor	voor	P	1	O
+3	een	een	D	1	O
+4	leuke	leuk	G	1	O
+5	citytrip	citytrip	O	1	O
 
-1	Het	het	D	1	
-2	Nhow_Hotel	Nhow_hotel	R	1	ne=Hotel
-3	is	zijn	V	1	
-4	een	een	D	1	
-5	uitstekende	uitstekend	G	1	
-6	keuze	keuze	N	1	
-7	voor	voor	P	1	
-8	een	een	D	1	
-9	korte	kort	G	1	
-10	citytrip	citytrip	O	1	
-11	naar	naar	P	1	
-12	Milaan	Milaan	R	1	ne=Location
-13	.	.	O	1	
+1	Het	het	D	1	O
+2	Nhow	Nhow	O	1	I-Hotel
+3	Hotel	hotel	N	1	I-Hotel
+4	is	zijn	V	1	O
+5	een	een	D	1	O
+6	uitstekende	uitstekend	G	1	O
+7	keuze	keuze	N	1	O
+8	voor	voor	P	1	O
+9	een	een	D	1	O
+10	korte	kort	G	1	O
+11	citytrip	citytrip	O	1	O
+12	naar	naar	P	1	O
+13	Milaan	Milaan	R	1	I-Location
+14	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	kregen	krijgen	V	1	
-3	voor	voor	P	1	
-4	10_euro	@card@_euro	R	1	ne=Money
-5	per	per	P	1	
-6	dag	dag	N	1	
-7	extra	extra	G	1	
-8	een	een	D	1	
-9	upgrade	upgrade	O	1	
-10	naar	naar	P	1	
-11	een	een	D	1	
-12	grotere	groot	G	1	
-13	kamer	kamer	N	1	
-14	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	kregen	krijgen	V	1	O
+3	voor	voor	P	1	O
+4	10	@card@	O	1	I-Money
+5	euro	euro	N	1	I-Money
+6	per	per	P	1	O
+7	dag	dag	N	1	O
+8	extra	extra	G	1	O
+9	een	een	D	1	O
+10	upgrade	upgrade	O	1	O
+11	naar	naar	P	1	O
+12	een	een	D	1	O
+13	grotere	groot	G	1	O
+14	kamer	kamer	N	1	O
+15	.	.	O	1	O
 
-1	Die	die	Q	1	
-2	was	wezen|zijn	V	1	
-3	perfect	perfect	G	1	
-4	ingericht	inrichten	V	1	
-5	,	,	O	1	
-6	groot	groot	G	1	
-7	genoeg	genoeg	A	1	
-8	en	en	C	1	
-9	had	hebben	V	1	
-10	alle	alle	D	1	
-11	voorzieningen	voorziening	N	1	
-12	die	die	Q	1	
-13	nodig	nodig	G	1	
-14	waren	wezen|zijn	V	1	
-15	.	.	O	1	
+1	Die	die	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	perfect	perfect	G	1	O
+4	ingericht	inrichten	V	1	O
+5	,	,	O	1	O
+6	groot	groot	G	1	O
+7	genoeg	genoeg	A	1	O
+8	en	en	C	1	O
+9	had	hebben	V	1	O
+10	alle	alle	D	1	O
+11	voorzieningen	voorziening	N	1	O
+12	die	die	Q	1	O
+13	nodig	nodig	G	1	O
+14	waren	wezen|zijn	V	1	O
+15	.	.	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	is	zijn	V	1	
-4	extreem	extreem	G	1	
-5	vriendelijk	vriendelijk	G	1	
-6	en	en	C	1	
-7	behulpzaam	behulpzaam	G	1	
-8	.	.	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	is	zijn	V	1	O
+4	extreem	extreem	G	1	O
+5	vriendelijk	vriendelijk	G	1	O
+6	en	en	C	1	O
+7	behulpzaam	behulpzaam	G	1	O
+8	.	.	O	1	O
 
-1	Bovendien	bovendien	A	1	
-2	spreken	spreken	V	1	
-3	ze	ze	Q	1	
-4	goed	goed	N	1	
-5	Engels	Engels	R	1	
-6	en	en	C	1	
-7	kunnen	kunnen	V	1	
-8	ze	ze	Q	1	
-9	je	je	Q	1	
-10	overal	overal	A	1	
-11	mee	mee	A	1	
-12	helpen	helpen	V	1	
-13	.	.	O	1	
+1	Bovendien	bovendien	A	1	O
+2	spreken	spreken	V	1	O
+3	ze	ze	Q	1	O
+4	goed	goed	N	1	O
+5	Engels	Engels	R	1	O
+6	en	en	C	1	O
+7	kunnen	kunnen	V	1	O
+8	ze	ze	Q	1	O
+9	je	je	Q	1	O
+10	overal	overal	A	1	O
+11	mee	mee	A	1	O
+12	helpen	helpen	V	1	O
+13	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	ligt	liggen	V	1	
-4	niet	niet	A	1	
-5	pal	pal	N	1	
-6	in	in	P	1	
-7	het	het	D	1	
-8	centrum	centrum	N	1	
-9	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	ligt	liggen	V	1	O
+4	niet	niet	A	1	O
+5	pal	pal	N	1	O
+6	in	in	P	1	O
+7	het	het	D	1	O
+8	centrum	centrum	N	1	O
+9	.	.	O	1	O
 
-1	Als	als	C	1	
-2	je	je	Q	1	
-3	daar	daar	A	1	
-4	naartoe	naartoe	O	1	
-5	wil	willen	V	1	
-6	gaan	gaan	V	1	
-7	,	,	O	1	
-8	moet	moeten	V	1	
-9	je	je	Q	1	
-10	een	een	D	1	
-11	kilometer	kilometer	N	1	
-12	wandelen	wandelen	V	1	
-13	tot	tot	P	1	
-14	het	het	D	1	
-15	metrostation	metrostation	N	1	
-16	,	,	O	1	
-17	waar	waar	Q	1	
-18	de	de	D	1	
-19	metro	metro	N	1	
-20	je	je	Q	1	
-21	in	in	P	1	
-22	20	@card@	O	1	
-23	minuten	minuut	N	1	
-24	naar	naar	P	1	
-25	de	de	D	1	
-26	Duomo	Duomo	O	1	
-27	brengt	brengen	V	1	
-28	.	.	O	1	
+1	Als	als	C	1	O
+2	je	je	Q	1	O
+3	daar	daar	A	1	O
+4	naartoe	naartoe	O	1	O
+5	wil	willen	V	1	O
+6	gaan	gaan	V	1	O
+7	,	,	O	1	O
+8	moet	moeten	V	1	O
+9	je	je	Q	1	O
+10	een	een	D	1	O
+11	kilometer	kilometer	N	1	O
+12	wandelen	wandelen	V	1	O
+13	tot	tot	P	1	O
+14	het	het	D	1	O
+15	metrostation	metrostation	N	1	O
+16	,	,	O	1	O
+17	waar	waar	Q	1	O
+18	de	de	D	1	O
+19	metro	metro	N	1	O
+20	je	je	Q	1	O
+21	in	in	P	1	O
+22	20	@card@	O	1	O
+23	minuten	minuut	N	1	O
+24	naar	naar	P	1	O
+25	de	de	D	1	O
+26	Duomo	Duomo	O	1	O
+27	brengt	brengen	V	1	O
+28	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	ligt	liggen	V	1	
-3	dus	dus	A	1	
-4	iets	iets	A	1	
-5	verder	ver|verder	G	1	
-6	van	van	P	1	
-7	het	het	D	1	
-8	centrum	centrum	N	1	
-9	,	,	O	1	
-10	maar	maar	C	1	
-11	dat	dat	Q	1	
-12	stoort	storen	V	1	
-13	niet	niet	A	1	
-14	omdat	omdat	C	1	
-15	het	het	Q	1	
-16	heel	heel	A	1	
-17	bereikbaar	bereikbaar	G	1	
-18	is	zijn	V	1	
-19	en	en	C	1	
-20	een	een	D	1	
-21	mooie	mooi	G	1	
-22	,	,	O	1	
-23	leuke	leuk	G	1	
-24	en	en	C	1	
-25	rustige	rustig	G	1	
-26	buurt	buurt	N	1	
-27	is	zijn	V	1	
-28	.	.	O	1	
+1	Het	het	Q	1	O
+2	ligt	liggen	V	1	O
+3	dus	dus	A	1	O
+4	iets	iets	A	1	O
+5	verder	ver|verder	G	1	O
+6	van	van	P	1	O
+7	het	het	D	1	O
+8	centrum	centrum	N	1	O
+9	,	,	O	1	O
+10	maar	maar	C	1	O
+11	dat	dat	Q	1	O
+12	stoort	storen	V	1	O
+13	niet	niet	A	1	O
+14	omdat	omdat	C	1	O
+15	het	het	Q	1	O
+16	heel	heel	A	1	O
+17	bereikbaar	bereikbaar	G	1	O
+18	is	zijn	V	1	O
+19	en	en	C	1	O
+20	een	een	D	1	O
+21	mooie	mooi	G	1	O
+22	,	,	O	1	O
+23	leuke	leuk	G	1	O
+24	en	en	C	1	O
+25	rustige	rustig	G	1	O
+26	buurt	buurt	N	1	O
+27	is	zijn	V	1	O
+28	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	hebben	hebben	V	1	
-3	geen	geen	D	1	
-4	negatieve	negatief	G	1	
-5	punten	punt	N	1	
-6	gevonden	vinden	V	1	
-7	aan	aan	P	1	
-8	het	het	D	1	
-9	hotel	hotel	N	1	
-10	en	en	C	1	
-11	zouden	zullen	V	1	
-12	zeker	zeker	G	1	
-13	nog	nog	A	1	
-14	eens	eens	A	1	
-15	teruggaan	teruggaan	V	1	
-16	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hebben	hebben	V	1	O
+3	geen	geen	D	1	O
+4	negatieve	negatief	G	1	O
+5	punten	punt	N	1	O
+6	gevonden	vinden	V	1	O
+7	aan	aan	P	1	O
+8	het	het	D	1	O
+9	hotel	hotel	N	1	O
+10	en	en	C	1	O
+11	zouden	zullen	V	1	O
+12	zeker	zeker	G	1	O
+13	nog	nog	A	1	O
+14	eens	eens	A	1	O
+15	teruggaan	teruggaan	V	1	O
+16	.	.	O	1	O
 

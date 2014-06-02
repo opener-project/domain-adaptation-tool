@@ -1,145 +1,145 @@
-1	Hôtel	hôtel	N	1	
-2	d'	d'	P	1	
-3	aéroport	aéroport	N	1	
-4	mais	mais	C	1	
-5	très	très	G	1	
-6	sympa	sympa	G	1	
+1	Hôtel	hôtel	N	1	O
+2	d'	d'	P	1	O
+3	aéroport	aéroport	N	1	O
+4	mais	mais	C	1	O
+5	très	très	G	1	O
+6	sympa	sympa	G	1	O
 
-1	Comme	Comme	P	1	
-2	nombre	nombre	N	1	
-3	d'	d'	P	1	
-4	hôtels	hôtel	N	1	
-5	situé	situer	V	1	
-6	à	à	P	1	
-7	proximité	proximité	N	1	
-8	d'	d'	P	1	
-9	un	un	D	1	
-10	aéroport	aéroport	N	1	
-11	,	,	O	1	
-12	cet	ce	D	1	
-13	hôtel	hôtel	N	1	
-14	offre	offrir	V	1	
-15	les	le	D	1	
-16	services	service	N	1	
-17	d'	d'	P	1	
-18	une	un	D	1	
-19	navette	navette	N	1	
-20	gratuite	gratuit	G	1	
-21	très	très	G	1	
-22	pratique	pratique	G	1	
-23	.	.	O	1	
+1	Comme	Comme	P	1	O
+2	nombre	nombre	N	1	O
+3	d'	d'	P	1	O
+4	hôtels	hôtel	N	1	O
+5	situé	situer	V	1	O
+6	à	à	P	1	O
+7	proximité	proximité	N	1	O
+8	d'	d'	P	1	O
+9	un	un	D	1	O
+10	aéroport	aéroport	N	1	O
+11	,	,	O	1	O
+12	cet	ce	D	1	O
+13	hôtel	hôtel	N	1	O
+14	offre	offrir	V	1	O
+15	les	le	D	1	O
+16	services	service	N	1	O
+17	d'	d'	P	1	O
+18	une	un	D	1	O
+19	navette	navette	N	1	O
+20	gratuite	gratuit	G	1	O
+21	très	très	G	1	O
+22	pratique	pratique	G	1	O
+23	.	.	O	1	O
 
-1	Cela	Cela	P	1	
-2	permet	permettre	V	1	
-3	de	de	P	1	
-4	rejpindre	rejpindre	V	1	
-5	des	un	D	1	
-6	transports	transport	N	1	
-7	directs	direct	G	1	
-8	vers	vers	P	1	
-9	le	le	D	1	
-10	centre	centre	N	1	
-11	de	de	P	1	
-12	Milan	milan	R	1	ne=Location
-13	au	au	P	1	
-14	départ	départ	N	1	
-15	de	de	P	1	
-16	l'	le	D	1	
-17	aéroport	aéroport	N	1	
-18	.	.	O	1	
+1	Cela	Cela	P	1	O
+2	permet	permettre	V	1	O
+3	de	de	P	1	O
+4	rejpindre	rejpindre	V	1	O
+5	des	un	D	1	O
+6	transports	transport	N	1	O
+7	directs	direct	G	1	O
+8	vers	vers	P	1	O
+9	le	le	D	1	O
+10	centre	centre	N	1	O
+11	de	de	P	1	O
+12	Milan	milan	R	1	I-Location
+13	au	au	P	1	O
+14	départ	départ	N	1	O
+15	de	de	P	1	O
+16	l'	le	D	1	O
+17	aéroport	aéroport	N	1	O
+18	.	.	O	1	O
 
-1	Mais	Mais	C	1	
-2	on	on	Q	1	
-3	peut	pouvoir	V	1	
-4	aussi	aussi	G	1	
-5	prendre	prendre	V	1	
-6	un	un	D	1	
-7	tram	tram	N	1	
-8	à	à	P	1	
-9	quelques	quelque	D	1	
-10	minutes	minute	N	1	
-11	à	à	P	1	
-12	pied	pied	N	1	
-13	de	de	P	1	
-14	l'	le	D	1	
-15	hôtel	hôtel	N	1	
-16	qui	qui	P	1	
-17	conduit	conduire	V	1	
-18	au	au	P	1	
-19	centre	centre	D	1	
-20	ville	ville	N	1	
-21	.	.	O	1	
+1	Mais	Mais	C	1	O
+2	on	on	Q	1	O
+3	peut	pouvoir	V	1	O
+4	aussi	aussi	G	1	O
+5	prendre	prendre	V	1	O
+6	un	un	D	1	O
+7	tram	tram	N	1	O
+8	à	à	P	1	O
+9	quelques	quelque	D	1	O
+10	minutes	minute	N	1	O
+11	à	à	P	1	O
+12	pied	pied	N	1	O
+13	de	de	P	1	O
+14	l'	le	D	1	O
+15	hôtel	hôtel	N	1	O
+16	qui	qui	P	1	O
+17	conduit	conduire	V	1	O
+18	au	au	P	1	O
+19	centre	centre	D	1	O
+20	ville	ville	N	1	O
+21	.	.	O	1	O
 
-1	Ce	Ce	P	1	
-2	qui	qui	P	1	
-3	m'	m'	Q	1	
-4	a	avoir	V	1	
-5	frappé	frapper	V	1	
-6	dans	dans	P	1	
-7	cet	ce	D	1	
-8	hôtel	hôtel	N	1	
-9	,	,	O	1	
-10	c'	c'	Q	1	
-11	est	être	V	1	
-12	la	le	D	1	
-13	qualité	qualité	N	1	
-14	de	de	P	1	
-15	l'	le	D	1	
-16	accueil	accueil	N	1	
-17	et	et	C	1	
-18	du	du	D	1	
-19	service	service	N	1	
-20	.	.	O	1	
+1	Ce	Ce	P	1	O
+2	qui	qui	P	1	O
+3	m'	m'	Q	1	O
+4	a	avoir	V	1	O
+5	frappé	frapper	V	1	O
+6	dans	dans	P	1	O
+7	cet	ce	D	1	O
+8	hôtel	hôtel	N	1	O
+9	,	,	O	1	O
+10	c'	c'	Q	1	O
+11	est	être	V	1	O
+12	la	le	D	1	O
+13	qualité	qualité	N	1	O
+14	de	de	P	1	O
+15	l'	le	D	1	O
+16	accueil	accueil	N	1	O
+17	et	et	C	1	O
+18	du	du	D	1	O
+19	service	service	N	1	O
+20	.	.	O	1	O
 
-1	J'	J'	Q	1	
-2	enviagerais	enviagerais	G	1	
-3	certainement	certainement	G	1	
-4	cet	ce	D	1	
-5	hôtel	hôtel	N	1	
-6	si	si	C	1	
-7	je	je	Q	1	
-8	devais	devais	G	1	
-9	me	me	Q	1	
-10	rendre	rendre	V	1	
-11	en	en	P	1	
-12	famille	famille	N	1	
-13	à	à	P	1	
-14	Milan	milan	R	1	ne=Location
-15	,	,	O	1	
-16	même	même	G	1	
-17	s'	s'	C	1	
-18	il	il	Q	1	
-19	n'	n'	G	1	
-20	est	être	V	1	
-21	pas	pas	G	1	
-22	dans	dans	P	1	
-23	le	le	D	1	
-24	centre	centre	N	1	
-25	·	·	G	1	
-26	ville	ville	N	1	
-27	.	.	O	1	
+1	J'	J'	Q	1	O
+2	enviagerais	enviagerais	G	1	O
+3	certainement	certainement	G	1	O
+4	cet	ce	D	1	O
+5	hôtel	hôtel	N	1	O
+6	si	si	C	1	O
+7	je	je	Q	1	O
+8	devais	devais	G	1	O
+9	me	me	Q	1	O
+10	rendre	rendre	V	1	O
+11	en	en	P	1	O
+12	famille	famille	N	1	O
+13	à	à	P	1	O
+14	Milan	milan	R	1	I-Location
+15	,	,	O	1	O
+16	même	même	G	1	O
+17	s'	s'	C	1	O
+18	il	il	Q	1	O
+19	n'	n'	G	1	O
+20	est	être	V	1	O
+21	pas	pas	G	1	O
+22	dans	dans	P	1	O
+23	le	le	D	1	O
+24	centre	centre	N	1	O
+25	·	·	G	1	O
+26	ville	ville	N	1	O
+27	.	.	O	1	O
 
-1	bar	bar	N	1	
-2	agréable	agréable	G	1	
-3	et	et	C	1	
-4	bonne	bon	G	1	
-5	restauration.	restauration.	N	1	
-6	je	je	Q	1	
-7	n'	n'	G	1	
-8	ai	avoir	V	1	
-9	pas	pas	G	1	
-10	eu	avoir	V	1	
-11	l'	le	D	1	
-12	occasion	occasion	N	1	
-13	de	de	P	1	
-14	tester	tester	V	1	
-15	les	le	D	1	
-16	équipements	équipement	N	1	
-17	sportifs	sportif	G	1	
-18	.	.	O	1	
+1	bar	bar	N	1	O
+2	agréable	agréable	G	1	O
+3	et	et	C	1	O
+4	bonne	bon	G	1	O
+5	restauration.	restauration.	N	1	O
+6	je	je	Q	1	O
+7	n'	n'	G	1	O
+8	ai	avoir	V	1	O
+9	pas	pas	G	1	O
+10	eu	avoir	V	1	O
+11	l'	le	D	1	O
+12	occasion	occasion	N	1	O
+13	de	de	P	1	O
+14	tester	tester	V	1	O
+15	les	le	D	1	O
+16	équipements	équipement	N	1	O
+17	sportifs	sportif	G	1	O
+18	.	.	O	1	O
 
-1	J'	J'	Q	1	
-2	y	y	Q	1	
-3	retournerai	retourner	V	1	
-4	!	!	O	1	
+1	J'	J'	Q	1	O
+2	y	y	Q	1	O
+3	retournerai	retourner	V	1	O
+4	!	!	O	1	O
 

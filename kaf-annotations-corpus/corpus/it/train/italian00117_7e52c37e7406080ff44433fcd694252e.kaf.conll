@@ -1,45 +1,45 @@
-1	Molto	molto	G	1	
-2	rumoroso	rumoroso	G	1	
+1	Molto	molto	G	1	O
+2	rumoroso	rumoroso	G	1	O
 
-1	Hotel	hotel	N	1	
-2	,	,	O	1	
-3	vicino	vicino	N	1	
-4	alle	alle	P	1	
-5	terme	terme	N	1	
-6	,	,	O	1	
-7	ma	ma	Q	1	
-8	molto	molto	A	1	
-9	rumoroso	rumoroso	G	1	
-10	,	,	O	1	
-11	durante	durante	P	1	
-12	la	lo	D	1	
-13	nostra	nostro	G	1	
-14	permanenza	permanenza	N	1	
-15	c'	c'	A	1	
-16	era	essere	V	1	
-17	un	uno	D	1	
-18	cane	cane	N	1	
-19	solo	solo	G	1	
-20	in	in	P	1	
-21	una	uno	D	1	
-22	camera	camera	N	1	
-23	di	di	P	1	
-24	fronte	fronte	N	1	
-25	alla	alla	P	1	
-26	nostra	nostro	G	1	
-27	ed	ed	Q	1	
-28	abbaiava	abbaiare	V	1	
-29	continuamente	continuamente	A	1	
-30	,	,	O	1	
-31	colazione	colazione	N	1	
-32	non	non	A	1	
-33	molto	molto	A	1	
-34	abbondaqnte	abbondaqnte	V	1	
-35	e	e	Q	1	
-36	carenza	carenza	N	1	
-37	di	di	P	1	
-38	personale	personale	N	1	
-39	alla	alla	P	1	
-40	reception	reception	N	1	
-41	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	,	,	O	1	O
+3	vicino	vicino	N	1	O
+4	alle	alle	P	1	O
+5	terme	terme	N	1	O
+6	,	,	O	1	O
+7	ma	ma	Q	1	O
+8	molto	molto	A	1	O
+9	rumoroso	rumoroso	G	1	O
+10	,	,	O	1	O
+11	durante	durante	P	1	O
+12	la	lo	D	1	O
+13	nostra	nostro	G	1	O
+14	permanenza	permanenza	N	1	O
+15	c'	c'	A	1	O
+16	era	essere	V	1	O
+17	un	uno	D	1	O
+18	cane	cane	N	1	O
+19	solo	solo	G	1	O
+20	in	in	P	1	O
+21	una	uno	D	1	O
+22	camera	camera	N	1	O
+23	di	di	P	1	O
+24	fronte	fronte	N	1	O
+25	alla	alla	P	1	O
+26	nostra	nostro	G	1	O
+27	ed	ed	Q	1	O
+28	abbaiava	abbaiare	V	1	O
+29	continuamente	continuamente	A	1	O
+30	,	,	O	1	O
+31	colazione	colazione	N	1	O
+32	non	non	A	1	O
+33	molto	molto	A	1	O
+34	abbondaqnte	abbondaqnte	V	1	O
+35	e	e	Q	1	O
+36	carenza	carenza	N	1	O
+37	di	di	P	1	O
+38	personale	personale	N	1	O
+39	alla	alla	P	1	O
+40	reception	reception	N	1	O
+41	.	.	O	1	O
 

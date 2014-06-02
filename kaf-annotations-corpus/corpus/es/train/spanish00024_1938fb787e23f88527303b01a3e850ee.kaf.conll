@@ -1,46 +1,46 @@
-1	Quede	Quede	R	1	
-2	contento	contento	N	1	
+1	Quede	Quede	R	1	O
+2	contento	contento	N	1	O
 
-1	Me	me	Q	1	
-2	gusto	gusto	V	1	
-3	el	el	N	1	
-4	hotel	hotel	N	1	
-5	en	en	P	1	
-6	general	general	G	1	
-7	y	y	G	1	
-8	su	su	N	1	
-9	servicio	servicio	N	1	
-10	,	,	O	1	
-11	la	la	D	1	
-12	atención	atención	G	1	
-13	personal	personal	G	1	
-14	fue	fue	N	1	
-15	muy	muy	N	1	
-16	buena	buena	N	1	
-17	,	,	O	1	
-18	todos	todos	N	1	
-19	muy	muy	V	1	
-20	educados	educados	N	1	
-21	y	y	G	1	
-22	atentos	atentos	N	1	
-23	,	,	O	1	
-24	muy	muy	G	1	
-25	tranquilo	tranquilo	N	1	
-26	y	y	G	1	
-27	acogedor	acogedor	N	1	
-28	,	,	O	1	
-29	con	con	G	1	
-30	unos	unos	N	1	
-31	buenos	buenos	N	1	
-32	desayunos	desayunos	N	1	
-33	y	y	G	1	
-34	unas	unas	G	1	
-35	buenas	buenas	N	1	
-36	cenas	cenas	N	1	
-37	,	,	O	1	
-38	comer	comer	N	1	
-39	no	no	D	1	
-40	llegamos	llegamos	N	1	
-41	hacerlo	hacerlo	N	1	
-42	.	.	O	1	
+1	Me	me	Q	1	O
+2	gusto	gusto	V	1	O
+3	el	el	N	1	O
+4	hotel	hotel	N	1	O
+5	en	en	P	1	O
+6	general	general	G	1	O
+7	y	y	G	1	O
+8	su	su	N	1	O
+9	servicio	servicio	N	1	O
+10	,	,	O	1	O
+11	la	la	D	1	O
+12	atención	atención	G	1	O
+13	personal	personal	G	1	O
+14	fue	fue	N	1	O
+15	muy	muy	N	1	O
+16	buena	buena	N	1	O
+17	,	,	O	1	O
+18	todos	todos	N	1	O
+19	muy	muy	V	1	O
+20	educados	educados	N	1	O
+21	y	y	G	1	O
+22	atentos	atentos	N	1	O
+23	,	,	O	1	O
+24	muy	muy	G	1	O
+25	tranquilo	tranquilo	N	1	O
+26	y	y	G	1	O
+27	acogedor	acogedor	N	1	O
+28	,	,	O	1	O
+29	con	con	G	1	O
+30	unos	unos	N	1	O
+31	buenos	buenos	N	1	O
+32	desayunos	desayunos	N	1	O
+33	y	y	G	1	O
+34	unas	unas	G	1	O
+35	buenas	buenas	N	1	O
+36	cenas	cenas	N	1	O
+37	,	,	O	1	O
+38	comer	comer	N	1	O
+39	no	no	D	1	O
+40	llegamos	llegamos	N	1	O
+41	hacerlo	hacerlo	N	1	O
+42	.	.	O	1	O
 

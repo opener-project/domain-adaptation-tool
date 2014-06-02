@@ -1,140 +1,145 @@
-1	Finalizando	Finalizando	R	1	
-2	su	su	N	1	
-3	remodelación	remodelación	N	1	
+1	Finalizando	Finalizando	R	1	O
+2	su	su	N	1	O
+3	remodelación	remodelación	N	1	O
 
-1	Hola	Hola	R	1	
-2	,	,	O	1	
+1	Hola	Hola	R	1	O
+2	,	,	O	1	O
 
-1	Estuvimos	Estuvimos	R	1	
-2	en	en	P	1	
-3	este	este	G	1	
-4	hotel	hotel	N	1	
-5	por	por	N	1	
-6	segunda	segunda	N	1	
-7	vez	vez	N	1	
-8	en	en	P	1	
-9	diciembre_de_2012	diciembre_de_2012	R	1	ne=Date
-10	.	.	O	1	
+1	Estuvimos	Estuvimos	R	1	O
+2	en	en	P	1	O
+3	este	este	G	1	O
+4	hotel	hotel	N	1	O
+5	por	por	N	1	O
+6	segunda	segunda	N	1	O
+7	vez	vez	N	1	O
+8	en	en	P	1	O
+9	diciembre	diciembre	G	1	I-Date
+10	de	de	P	1	I-Date
+11	2012	2012	O	1	I-Date
+12	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	se	se	O	1	
-4	encuentra	encuentra	O	1	
-5	en	en	O	1	
-6	la	la	O	1	
-7	parte	parte	O	1	
-8	final	final	G	1	
-9	de	de	P	1	
-10	su	su	G	1	
-11	remodelación	remodelación	N	1	
-12	,	,	O	1	
-13	han	han	G	1	
-14	cambiado	cambiado	N	1	
-15	los	los	N	1	
-16	baños	baños	N	1	
-17	y	y	G	1	
-18	en	en	P	1	
-19	las	las	G	1	
-20	habitaciones	habitaciones	N	1	
-21	han	han	V	1	
-22	integrado	integrado	G	1	
-23	en	en	P	1	
-24	el	el	N	1	
-25	interior	interior	G	1	
-26	de	de	O	1	
-27	la	la	O	1	
-28	habitación	habitación	O	1	
-29	los	los	O	1	
-30	balcones	balcones	O	1	
-31	que	que	O	1	
-32	tenía	tenía	O	1	
-33	este	este	O	1	
-34	hotel	hotel	N	1	
-35	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	se	se	O	1	O
+4	encuentra	encuentra	O	1	O
+5	en	en	O	1	O
+6	la	la	O	1	O
+7	parte	parte	O	1	O
+8	final	final	G	1	O
+9	de	de	P	1	O
+10	su	su	G	1	O
+11	remodelación	remodelación	N	1	O
+12	,	,	O	1	O
+13	han	han	G	1	O
+14	cambiado	cambiado	N	1	O
+15	los	los	N	1	O
+16	baños	baños	N	1	O
+17	y	y	G	1	O
+18	en	en	P	1	O
+19	las	las	G	1	O
+20	habitaciones	habitaciones	N	1	O
+21	han	han	V	1	O
+22	integrado	integrado	G	1	O
+23	en	en	P	1	O
+24	el	el	N	1	O
+25	interior	interior	G	1	O
+26	de	de	O	1	O
+27	la	la	O	1	O
+28	habitación	habitación	O	1	O
+29	los	los	O	1	O
+30	balcones	balcones	O	1	O
+31	que	que	O	1	O
+32	tenía	tenía	O	1	O
+33	este	este	O	1	O
+34	hotel	hotel	N	1	O
+35	.	.	O	1	O
 
-1	Esto	Esto	R	1	
-2	permite	permite	G	1	
-3	tener	tener	N	1	
-4	menos	menos	N	1	
-5	ruido	ruido	V	1	
-6	procedente	procedente	G	1	
-7	de	de	O	1	
-8	la	la	O	1	
-9	calle	calle	O	1	
-10	.	.	O	1	
+1	Esto	Esto	R	1	O
+2	permite	permite	G	1	O
+3	tener	tener	N	1	O
+4	menos	menos	N	1	O
+5	ruido	ruido	V	1	O
+6	procedente	procedente	G	1	O
+7	de	de	O	1	O
+8	la	la	O	1	O
+9	calle	calle	O	1	O
+10	.	.	O	1	O
 
-1	Sigue	Sigue	R	1	
-2	siendo	siendo	V	1	
-3	muy	muy	G	1	
-4	recomendable	recomendable	N	1	
-5	,	,	O	1	
-6	se	se	O	1	
-7	encuentra	encuentra	O	1	
-8	a	a	O	1	
-9	cinco	cinco	O	1	
-10	minutos	minutos	O	1	
-11	a	a	D	1	
-12	pie	pie	N	1	
-13	del	del	O	1	
-14	Bayside	bayside	R	1	ne=Location
-15	y	y	G	1	
-16	del	del	G	1	
-17	American_Airlines_Arena	American_Airlines_Arena	R	1	ne=Attraction
-18	.	.	O	1	
+1	Sigue	Sigue	R	1	O
+2	siendo	siendo	V	1	O
+3	muy	muy	G	1	O
+4	recomendable	recomendable	N	1	O
+5	,	,	O	1	O
+6	se	se	O	1	O
+7	encuentra	encuentra	O	1	O
+8	a	a	O	1	O
+9	cinco	cinco	O	1	O
+10	minutos	minutos	O	1	O
+11	a	a	D	1	O
+12	pie	pie	N	1	O
+13	del	del	O	1	O
+14	Bayside	bayside	R	1	I-Location
+15	y	y	G	1	O
+16	del	del	G	1	O
+17	American	American	R	1	I-Attraction
+18	Airlines	Airlines	R	1	I-Attraction
+19	Arena	Arena	R	1	I-Attraction
+20	.	.	O	1	O
 
-1	Tienes	Tienes	R	1	
-2	el_metromover	el_metromover	R	1	ne=POI
-3	a	a	D	1	
-4	una	una	G	1	
-5	calle	calle	N	1	
-6	de	de	P	1	
-7	distancia	distancia	G	1	
-8	y	y	G	1	
-9	multitud	multitud	G	1	
-10	de	de	P	1	
-11	comercios	comercios	N	1	
-12	en	en	P	1	
-13	las	las	G	1	
-14	cercanías	cercanías	N	1	
-15	del	del	V	1	
-16	hotel	hotel	N	1	
-17	.	.	O	1	
+1	Tienes	Tienes	R	1	O
+2	el	el	N	1	I-POI
+3	metromover	metromover	N	1	I-POI
+4	a	a	D	1	O
+5	una	una	G	1	O
+6	calle	calle	N	1	O
+7	de	de	P	1	O
+8	distancia	distancia	G	1	O
+9	y	y	G	1	O
+10	multitud	multitud	G	1	O
+11	de	de	P	1	O
+12	comercios	comercios	N	1	O
+13	en	en	P	1	O
+14	las	las	G	1	O
+15	cercanías	cercanías	N	1	O
+16	del	del	V	1	O
+17	hotel	hotel	N	1	O
+18	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	P	1	
-3	recibido	recibido	V	1	
-4	fue	fue	N	1	
-5	inmejorable	inmejorable	G	1	
-6	,	,	O	1	
-7	además	además	N	1	
-8	como	como	V	1	
-9	el	el	N	1	
-10	hotel	hotel	N	1	
-11	está	está	N	1	
-12	en	en	P	1	
-13	remodelación	remodelación	G	1	
-14	ofrecen	ofrecen	G	1	
-15	desayuno	desayuno	N	1	
-16	gratuito	gratuito	N	1	
-17	a	a	D	1	
-18	todos	todos	N	1	
-19	sus	sus	N	1	
-20	clientes	clientes	N	1	
-21	así	así	V	1	
-22	como	como	G	1	
-23	de	de	P	1	
-24	17h	17h	R	1	ne=Time
-25	a	a	D	1	
-26	19h	19h	R	1	ne=Time
-27	puedes	puedes	N	1	
-28	disfrutar	disfrutar	G	1	
-29	de	de	P	1	
-30	copas	copas	N	1	
-31	de	de	P	1	
-32	vino	vino	G	1	
-33	o	o	G	1	
-34	cervezas	cervezas	N	1	
-35	totalmente	totalmente	V	1	
-36	gratuitas	gratuitas	N	1	
-37	.	.	O	1	
+1	El	El	R	1	O
+2	trato	trato	P	1	O
+3	recibido	recibido	V	1	O
+4	fue	fue	N	1	O
+5	inmejorable	inmejorable	G	1	O
+6	,	,	O	1	O
+7	además	además	N	1	O
+8	como	como	V	1	O
+9	el	el	N	1	O
+10	hotel	hotel	N	1	O
+11	está	está	N	1	O
+12	en	en	P	1	O
+13	remodelación	remodelación	G	1	O
+14	ofrecen	ofrecen	G	1	O
+15	desayuno	desayuno	N	1	O
+16	gratuito	gratuito	N	1	O
+17	a	a	D	1	O
+18	todos	todos	N	1	O
+19	sus	sus	N	1	O
+20	clientes	clientes	N	1	O
+21	así	así	V	1	O
+22	como	como	G	1	O
+23	de	de	P	1	O
+24	17h	17h	R	1	I-Time
+25	a	a	D	1	O
+26	19h	19h	R	1	I-Time
+27	puedes	puedes	N	1	O
+28	disfrutar	disfrutar	G	1	O
+29	de	de	P	1	O
+30	copas	copas	N	1	O
+31	de	de	P	1	O
+32	vino	vino	G	1	O
+33	o	o	G	1	O
+34	cervezas	cervezas	N	1	O
+35	totalmente	totalmente	V	1	O
+36	gratuitas	gratuitas	N	1	O
+37	.	.	O	1	O
 

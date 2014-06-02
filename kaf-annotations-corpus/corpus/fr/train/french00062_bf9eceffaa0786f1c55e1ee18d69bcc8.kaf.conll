@@ -1,106 +1,106 @@
-1	Magnifique	Magnifique	N	1	
-2	,	,	O	1	
-3	très	très	G	1	
-4	grand	grand	G	1	
+1	Magnifique	Magnifique	N	1	O
+2	,	,	O	1	O
+3	très	très	G	1	O
+4	grand	grand	G	1	O
 
-1	dommage	dommage	N	1	
-2	qu'	qu'	P	1	
-3	ils	ils	Q	1	
-4	vendent	vendre	V	1	
-5	ces	ce	D	1	
-6	sacs	sac	N	1	
-7	de	de	P	1	
-8	pop	pop	N	1	
-9	corn	corn	N	1	
-10	,	,	O	1	
-11	certes	certes	G	1	
-12	il	il	Q	1	
-13	est	être	V	1	
-14	plaisant	plaisant	G	1	
-15	de	de	P	1	
-16	pouvoir	pouvoir	V	1	
-17	approcher	approcher	V	1	
-18	des	un	D	1	
-19	animaux	animal	N	1	
-20	sauvages	sauvage	G	1	
-21	,	,	O	1	
-22	mais	mais	C	1	
-23	qd	qd	C	1	
-24	je	je	Q	1	
-25	vois	voir	V	1	
-26	des	un	D	1	
-27	personnes	personne	N	1	
-28	complètement	complètement	G	1	
-29	abruties	abrutir	V	1	
-30	qui	qui	P	1	
-31	en	en	Q	1	
-32	donnent	donner	V	1	
-33	à	à	P	1	
-34	des	un	D	1	
-35	anes	anes	N	1	
-36	du	du	P	1	
-37	poitou	poitou	N	1	
-38	qu'	qu'	P	1	
-39	on	on	Q	1	
-40	ne	ne	G	1	
-41	peut	pouvoir	V	1	
-42	de	de	P	1	
-43	toute	tout	D	1	
-44	façon	façon	N	1	
-45	pas	pas	G	1	
-46	caresser	caresser	V	1	
-47	car	car	C	1	
-48	barrière	barrière	N	1	
-49	...	...	O	1	
-50	ça	ça	P	1	
-51	me	me	Q	1	
-52	sidère	sidérer	V	1	
-53	!	!	O	1	
-54	!	!	O	1	
-55	!	!	O	1	
-56	!	!	O	1	
-57	!	!	O	1	
+1	dommage	dommage	N	1	O
+2	qu'	qu'	P	1	O
+3	ils	ils	Q	1	O
+4	vendent	vendre	V	1	O
+5	ces	ce	D	1	O
+6	sacs	sac	N	1	O
+7	de	de	P	1	O
+8	pop	pop	N	1	O
+9	corn	corn	N	1	O
+10	,	,	O	1	O
+11	certes	certes	G	1	O
+12	il	il	Q	1	O
+13	est	être	V	1	O
+14	plaisant	plaisant	G	1	O
+15	de	de	P	1	O
+16	pouvoir	pouvoir	V	1	O
+17	approcher	approcher	V	1	O
+18	des	un	D	1	O
+19	animaux	animal	N	1	O
+20	sauvages	sauvage	G	1	O
+21	,	,	O	1	O
+22	mais	mais	C	1	O
+23	qd	qd	C	1	O
+24	je	je	Q	1	O
+25	vois	voir	V	1	O
+26	des	un	D	1	O
+27	personnes	personne	N	1	O
+28	complètement	complètement	G	1	O
+29	abruties	abrutir	V	1	O
+30	qui	qui	P	1	O
+31	en	en	Q	1	O
+32	donnent	donner	V	1	O
+33	à	à	P	1	O
+34	des	un	D	1	O
+35	anes	anes	N	1	O
+36	du	du	P	1	O
+37	poitou	poitou	N	1	O
+38	qu'	qu'	P	1	O
+39	on	on	Q	1	O
+40	ne	ne	G	1	O
+41	peut	pouvoir	V	1	O
+42	de	de	P	1	O
+43	toute	tout	D	1	O
+44	façon	façon	N	1	O
+45	pas	pas	G	1	O
+46	caresser	caresser	V	1	O
+47	car	car	C	1	O
+48	barrière	barrière	N	1	O
+49	...	...	O	1	O
+50	ça	ça	P	1	O
+51	me	me	Q	1	O
+52	sidère	sidérer	V	1	O
+53	!	!	O	1	O
+54	!	!	O	1	O
+55	!	!	O	1	O
+56	!	!	O	1	O
+57	!	!	O	1	O
 
-1	du	du	D	1	
-2	coup	coup	N	1	
-3	les	le	D	1	
-4	animaux	animal	N	1	
-5	sauvages	sauvage	G	1	
-6	en	en	P	1	
-7	sont	sont	G	1	
-8	presque	presque	G	1	
-9	familier	familier	G	1	
-10	pr	pr	N	1	
-11	certains	certains	P	1	
-12	;	;	O	1	
-13	certains	certain	D	1	
-14	animaux	animal	N	1	
-15	blessés	blesser	V	1	
-16	ou	ou	C	1	
-17	malheureux	malheureux	G	1	
-18	(	(	O	1	
-19	hyenes	hyenes	N	1	
-20	,	,	O	1	
-21	loup	loup	G	1	
-22	,	,	O	1	
-23	ours	ours	G	1	
-24	polaire	polaire	N	1	
-25	qui	qui	P	1	
-26	est	être	V	1	
-27	seul	seul	G	1	
-28	le	le	D	1	
-29	pauvre	pauvre	G	1	
-30	et	et	C	1	
-31	fait	faire	V	1	
-32	la	le	D	1	
-33	meme	meme	N	1	
-34	pitrerie	pitrerie	V	1	
-35	à	à	P	1	
-36	longueur	longueur	N	1	
-37	de	de	P	1	
-38	journée	journée	N	1	
-39	devant	devant	P	1	
-40	la	le	D	1	
-41	vitre	vitre	N	1	
-42	)	)	O	1	
+1	du	du	D	1	O
+2	coup	coup	N	1	O
+3	les	le	D	1	O
+4	animaux	animal	N	1	O
+5	sauvages	sauvage	G	1	O
+6	en	en	P	1	O
+7	sont	sont	G	1	O
+8	presque	presque	G	1	O
+9	familier	familier	G	1	O
+10	pr	pr	N	1	O
+11	certains	certains	P	1	O
+12	;	;	O	1	O
+13	certains	certain	D	1	O
+14	animaux	animal	N	1	O
+15	blessés	blesser	V	1	O
+16	ou	ou	C	1	O
+17	malheureux	malheureux	G	1	O
+18	(	(	O	1	O
+19	hyenes	hyenes	N	1	O
+20	,	,	O	1	O
+21	loup	loup	G	1	O
+22	,	,	O	1	O
+23	ours	ours	G	1	O
+24	polaire	polaire	N	1	O
+25	qui	qui	P	1	O
+26	est	être	V	1	O
+27	seul	seul	G	1	O
+28	le	le	D	1	O
+29	pauvre	pauvre	G	1	O
+30	et	et	C	1	O
+31	fait	faire	V	1	O
+32	la	le	D	1	O
+33	meme	meme	N	1	O
+34	pitrerie	pitrerie	V	1	O
+35	à	à	P	1	O
+36	longueur	longueur	N	1	O
+37	de	de	P	1	O
+38	journée	journée	N	1	O
+39	devant	devant	P	1	O
+40	la	le	D	1	O
+41	vitre	vitre	N	1	O
+42	)	)	O	1	O
 

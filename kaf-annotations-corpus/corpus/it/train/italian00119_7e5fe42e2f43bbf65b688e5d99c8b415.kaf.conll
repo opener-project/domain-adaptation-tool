@@ -1,96 +1,96 @@
-1	Buono	buono	V	1	
-2	,	,	O	1	
-3	ma	ma	Q	1	
-4	non	non	A	1	
-5	troppo	troppo	A	1	
-6	!	!	O	1	
+1	Buono	buono	V	1	O
+2	,	,	O	1	O
+3	ma	ma	Q	1	O
+4	non	non	A	1	O
+5	troppo	troppo	A	1	O
+6	!	!	O	1	O
 
-1	Per	per	P	1	
-2	ragazzi	ragazzo	N	1	
-3	può	può	G	1	
-4	anche	anche	Q	1	
-5	andar	andar	V	1	
-6	bene	bene	A	1	
-7	,	,	O	1	
-8	in	in	P	1	
-9	quanto	quanto	N	1	
-10	i	lo	D	1	
-11	prezzi	prezzo	N	1	
-12	sono	essere	V	1	
-13	abbastanza	abbastanza	A	1	
-14	economici	economico	G	1	
-15	,	,	O	1	
-16	ma	ma	Q	1	
-17	lo	lo	Q	1	
-18	sconsiglio	sconsigliare	V	1	
-19	per	per	P	1	
-20	le	lo	D	1	
-21	famiglie	famiglia	N	1	
-22	con	con	P	1	
-23	bambini	bambino	N	1	
-24	.	.	O	1	
+1	Per	per	P	1	O
+2	ragazzi	ragazzo	N	1	O
+3	può	può	G	1	O
+4	anche	anche	Q	1	O
+5	andar	andar	V	1	O
+6	bene	bene	A	1	O
+7	,	,	O	1	O
+8	in	in	P	1	O
+9	quanto	quanto	N	1	O
+10	i	lo	D	1	O
+11	prezzi	prezzo	N	1	O
+12	sono	essere	V	1	O
+13	abbastanza	abbastanza	A	1	O
+14	economici	economico	G	1	O
+15	,	,	O	1	O
+16	ma	ma	Q	1	O
+17	lo	lo	Q	1	O
+18	sconsiglio	sconsigliare	V	1	O
+19	per	per	P	1	O
+20	le	lo	D	1	O
+21	famiglie	famiglia	N	1	O
+22	con	con	P	1	O
+23	bambini	bambino	N	1	O
+24	.	.	O	1	O
 
-1	I	lo	D	1	
-2	bagni	bagno	N	1	
-3	sono	essere	V	1	
-4	molto	molto	A	1	
-5	piccoli	piccolo	G	1	
-6	,	,	O	1	
-7	i	lo	D	1	
-8	letti	letto	N	1	
-9	un	uno	D	1	
-10	po'	po'	A	1	
-11	scomodi	scomodo	G	1	
-12	,	,	O	1	
-13	ma	ma	Q	1	
-14	ampie	ampio	G	1	
-15	finestre	finestra	N	1	
-16	che	che	Q	1	
-17	affacciano	affacciare	V	1	
-18	sulla	sulla	P	1	
-19	piazza	piazza	N	1	
-20	del	del	P	1	
-21	quartiere	quartiere	N	1	
-22	,	,	O	1	
-23	permettono	permettere	V	1	
-24	di	di	P	1	
-25	avere	avere	V	1	
-26	la	lo	D	1	
-27	stanza	stanza	N	1	
-28	costantemente	costantemente	A	1	
-29	arieggiata	arieggiare	V	1	
-30	.	.	O	1	
+1	I	lo	D	1	O
+2	bagni	bagno	N	1	O
+3	sono	essere	V	1	O
+4	molto	molto	A	1	O
+5	piccoli	piccolo	G	1	O
+6	,	,	O	1	O
+7	i	lo	D	1	O
+8	letti	letto	N	1	O
+9	un	uno	D	1	O
+10	po'	po'	A	1	O
+11	scomodi	scomodo	G	1	O
+12	,	,	O	1	O
+13	ma	ma	Q	1	O
+14	ampie	ampio	G	1	O
+15	finestre	finestra	N	1	O
+16	che	che	Q	1	O
+17	affacciano	affacciare	V	1	O
+18	sulla	sulla	P	1	O
+19	piazza	piazza	N	1	O
+20	del	del	P	1	O
+21	quartiere	quartiere	N	1	O
+22	,	,	O	1	O
+23	permettono	permettere	V	1	O
+24	di	di	P	1	O
+25	avere	avere	V	1	O
+26	la	lo	D	1	O
+27	stanza	stanza	N	1	O
+28	costantemente	costantemente	A	1	O
+29	arieggiata	arieggiare	V	1	O
+30	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	quartiere	quartiere	N	1	
-3	non	non	A	1	
-4	è	è	R	1	
-5	dei	dei	P	1	
-6	migliori	migliori	N	1	
-7	ma	ma	Q	1	
-8	l	l	N	1	
-9	'	'	Q	1	
-10	hotel	hotel	N	1	
-11	è	è	N	1	
-12	a	a	P	1	
-13	10	10	G	1	
-14	metri	metro	N	1	
-15	dalla	dalla	P	1	
-16	stazione	stazione	N	1	
-17	della	della	P	1	
-18	metropolitana	metropolitana	N	1	
-19	.	.	O	1	
+1	Il	lo	D	1	O
+2	quartiere	quartiere	N	1	O
+3	non	non	A	1	O
+4	è	è	R	1	O
+5	dei	dei	P	1	O
+6	migliori	migliori	N	1	O
+7	ma	ma	Q	1	O
+8	l	l	N	1	O
+9	'	'	Q	1	O
+10	hotel	hotel	N	1	O
+11	è	è	N	1	O
+12	a	a	P	1	O
+13	10	10	G	1	O
+14	metri	metro	N	1	O
+15	dalla	dalla	P	1	O
+16	stazione	stazione	N	1	O
+17	della	della	P	1	O
+18	metropolitana	metropolitana	N	1	O
+19	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	G	1	
-3	è	è	R	1	
-4	disponibile	disponibile	G	1	
-5	e	e	Q	1	
-6	gentile	gentile	G	1	
-7	,	,	O	1	
-8	l	l	N	1	
-9	'	'	Q	1	
-10	igiene	igiene	N	1	
-11	efficiente	efficiente	G	1	
-12	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	G	1	O
+3	è	è	R	1	O
+4	disponibile	disponibile	G	1	O
+5	e	e	Q	1	O
+6	gentile	gentile	G	1	O
+7	,	,	O	1	O
+8	l	l	N	1	O
+9	'	'	Q	1	O
+10	igiene	igiene	N	1	O
+11	efficiente	efficiente	G	1	O
+12	.	.	O	1	O
 

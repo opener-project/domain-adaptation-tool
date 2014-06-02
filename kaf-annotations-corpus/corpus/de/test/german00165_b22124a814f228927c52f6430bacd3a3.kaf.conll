@@ -1,160 +1,162 @@
-1	Es	es	Q	1	
-2	war	sein	V	1	
-3	wieder	wieder	A	1	
-4	wunderschön	wunderschön	G	1	
-5	!	!	O	1	
+1	Es	es	Q	1	O
+2	war	sein	V	1	O
+3	wieder	wieder	A	1	O
+4	wunderschön	wunderschön	G	1	O
+5	!	!	O	1	O
 
-1	Das_Sun_Reef	die_Sun_Reef	R	1	ne=Hotel
-2	besteht	bestehen	V	1	
-3	aus	aus	P	1	
-4	mehreren	mehrere	Q	1	
-5	Seaview	Seaview	O	1	
-6	·	·	O	1	
-7	(	(	O	1	
-8	mit	mit	P	1	
-9	direktem	direkt	G	1	
-10	Zugang	Zugang	N	1	
-11	zum	zu	P	1	
-12	Meer	Meer	N	1	
-13	)	)	O	1	
-14	und	und	C	1	
-15	Gartenbungalows	Gartenbungalows	O	1	
-16	(	(	O	1	
-17	mit	mit	P	1	
-18	gemeinsamen	gemeinsam	G	1	
-19	Zugang	Zugang	N	1	
-20	zum	zu	P	1	
-21	Meer	Meer	N	1	
-22	)	)	O	1	
-23	.	.	O	1	
+1	Das	die	D	1	I-Hotel
+2	Sun	Sun	R	1	I-Hotel
+3	Reef	Reef	O	1	I-Hotel
+4	besteht	bestehen	V	1	O
+5	aus	aus	P	1	O
+6	mehreren	mehrere	Q	1	O
+7	Seaview	Seaview	O	1	O
+8	·	·	O	1	O
+9	(	(	O	1	O
+10	mit	mit	P	1	O
+11	direktem	direkt	G	1	O
+12	Zugang	Zugang	N	1	O
+13	zum	zu	P	1	O
+14	Meer	Meer	N	1	O
+15	)	)	O	1	O
+16	und	und	C	1	O
+17	Gartenbungalows	Gartenbungalows	O	1	O
+18	(	(	O	1	O
+19	mit	mit	P	1	O
+20	gemeinsamen	gemeinsam	G	1	O
+21	Zugang	Zugang	N	1	O
+22	zum	zu	P	1	O
+23	Meer	Meer	N	1	O
+24	)	)	O	1	O
+25	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Anlage	Anlage	N	1	
-3	wird	werden	V	1	
-4	von	von	P	1	
-5	Lisbeth	Lisbeth	R	1	ne=Person
-6	und	und	C	1	
-7	Wim	Wim	R	1	ne=Person
-8	,	,	O	1	
-9	zwei	zwei	O	1	
-10	herzensguten	herzensgut	G	1	
-11	Menschen	Mensch	N	1	
-12	,	,	O	1	
-13	geleitet	geleiten|leiten	V	1	
-14	.	.	O	1	
+1	Die	die	D	1	O
+2	Anlage	Anlage	N	1	O
+3	wird	werden	V	1	O
+4	von	von	P	1	O
+5	Lisbeth	Lisbeth	R	1	I-Person
+6	und	und	C	1	O
+7	Wim	Wim	R	1	I-Person
+8	,	,	O	1	O
+9	zwei	zwei	O	1	O
+10	herzensguten	herzensgut	G	1	O
+11	Menschen	Mensch	N	1	O
+12	,	,	O	1	O
+13	geleitet	geleiten|leiten	V	1	O
+14	.	.	O	1	O
 
-1	Sie	Sie|sie	Q	1	
-2	haben	haben	V	1	
-3	immer	immer	A	1	
-4	ein	eine	D	1	
-5	offenes	offen	G	1	
-6	Ohr	Ohr	N	1	
-7	für	für	P	1	
-8	einen	eine	D	1	
-9	und	und	C	1	
-10	halten	halten	V	1	
-11	die	die	D	1	
-12	Anlage	Anlage	N	1	
-13	in	in	P	1	
-14	Schuß	Schuss	N	1	
-15	.	.	O	1	
+1	Sie	Sie|sie	Q	1	O
+2	haben	haben	V	1	O
+3	immer	immer	A	1	O
+4	ein	eine	D	1	O
+5	offenes	offen	G	1	O
+6	Ohr	Ohr	N	1	O
+7	für	für	P	1	O
+8	einen	eine	D	1	O
+9	und	und	C	1	O
+10	halten	halten	V	1	O
+11	die	die	D	1	O
+12	Anlage	Anlage	N	1	O
+13	in	in	P	1	O
+14	Schuß	Schuss	N	1	O
+15	.	.	O	1	O
 
-1	Die	die	D	1	
-2	schon	schon	A	1	
-3	lange	lang	G	1	
-4	erwarteten	erwartet	G	1	
-5	Leitern	Leiter	N	1	
-6	um	um	P	1	
-7	ins	in	P	1	
-8	Wasser	Wasser	N	1	
-9	zu	zu	O	1	
-10	kommen	kommen	V	1	
-11	,	,	O	1	
-12	sind	sein	V	1	
-13	in	in	P	1	
-14	der	die	D	1	
-15	Zeit	Zeit	N	1	
-16	in	in	P	1	
-17	der	die	D	1	
-18	wir	wir	Q	1	
-19	in	in	P	1	
-20	der	die	D	1	
-21	Anlage	Anlage	N	1	
-22	waren	sein	V	1	
-23	,	,	O	1	
-24	geliefert	liefern	V	1	
-25	worden	werden	V	1	
-26	,	,	O	1	
-27	schöne	schön	G	1	
-28	Treppen	Treppe	N	1	
-29	aus	aus	P	1	
-30	Edelstahl	Edelstahl	N	1	
-31	!	!	O	1	
+1	Die	die	D	1	O
+2	schon	schon	A	1	O
+3	lange	lang	G	1	O
+4	erwarteten	erwartet	G	1	O
+5	Leitern	Leiter	N	1	O
+6	um	um	P	1	O
+7	ins	in	P	1	O
+8	Wasser	Wasser	N	1	O
+9	zu	zu	O	1	O
+10	kommen	kommen	V	1	O
+11	,	,	O	1	O
+12	sind	sein	V	1	O
+13	in	in	P	1	O
+14	der	die	D	1	O
+15	Zeit	Zeit	N	1	O
+16	in	in	P	1	O
+17	der	die	D	1	O
+18	wir	wir	Q	1	O
+19	in	in	P	1	O
+20	der	die	D	1	O
+21	Anlage	Anlage	N	1	O
+22	waren	sein	V	1	O
+23	,	,	O	1	O
+24	geliefert	liefern	V	1	O
+25	worden	werden	V	1	O
+26	,	,	O	1	O
+27	schöne	schön	G	1	O
+28	Treppen	Treppe	N	1	O
+29	aus	aus	P	1	O
+30	Edelstahl	Edelstahl	N	1	O
+31	!	!	O	1	O
 
-1	Wim	Wim	R	1	
-2	wird	werden	V	1	
-3	sie	sie	Q	1	
-4	umgehend	umgehend	G	1	
-5	einbauen	einbauen	V	1	
-6	lassen	lassen	V	1	
-7	und	und	C	1	
-8	somit	somit	A	1	
-9	ist	sein	V	1	
-10	das	die	D	1	
-11	leidige	leidig	G	1	
-12	Thema	Thema	N	1	
-13	des	die	D	1	
-14	angeblich	angeblich	G	1	
-15	gefährlichen	gefährlich	G	1	
-16	Einstieges	Einstieg	N	1	
-17	ins	in	P	1	
-18	Wasser	Wasser	N	1	
-19	beendet	beenden	V	1	
-20	.	.	O	1	
+1	Wim	Wim	R	1	O
+2	wird	werden	V	1	O
+3	sie	sie	Q	1	O
+4	umgehend	umgehend	G	1	O
+5	einbauen	einbauen	V	1	O
+6	lassen	lassen	V	1	O
+7	und	und	C	1	O
+8	somit	somit	A	1	O
+9	ist	sein	V	1	O
+10	das	die	D	1	O
+11	leidige	leidig	G	1	O
+12	Thema	Thema	N	1	O
+13	des	die	D	1	O
+14	angeblich	angeblich	G	1	O
+15	gefährlichen	gefährlich	G	1	O
+16	Einstieges	Einstieg	N	1	O
+17	ins	in	P	1	O
+18	Wasser	Wasser	N	1	O
+19	beendet	beenden	V	1	O
+20	.	.	O	1	O
 
-1	Da	da	C	1	
-2	wir	wir	Q	1	
-3	in	in	P	1	
-4	unserem	unser	Q	1	
-5	Urlaub	Urlaub	N	1	
-6	in	in	P	1	
-7	der	die	D	1	
-8	Anlage	Anlage	N	1	
-9	mehrmals	mehrmals	A	1	
-10	umziehen	umziehen	V	1	
-11	mussten	müssen	V	1	
-12	,	,	O	1	
-13	haben	haben	V	1	
-14	wir	wir	Q	1	
-15	nun	nun	A	1	
-16	auch	auch	A	1	
-17	alle	alle	Q	1	
-18	Bungalows	Bungalow	N	1	
-19	kennengelernt	kennenlernen	V	1	
-20	und	und	C	1	
-21	können	können	V	1	
-22	sagen	sagen	V	1	
-23	,	,	O	1	
-24	jedes	jede	Q	1	
-25	hat	haben	V	1	
-26	seinen	sein	Q	1	
-27	eigenen	eigen	G	1	
-28	Charme	Charme	N	1	
-29	.	.	O	1	
+1	Da	da	C	1	O
+2	wir	wir	Q	1	O
+3	in	in	P	1	O
+4	unserem	unser	Q	1	O
+5	Urlaub	Urlaub	N	1	O
+6	in	in	P	1	O
+7	der	die	D	1	O
+8	Anlage	Anlage	N	1	O
+9	mehrmals	mehrmals	A	1	O
+10	umziehen	umziehen	V	1	O
+11	mussten	müssen	V	1	O
+12	,	,	O	1	O
+13	haben	haben	V	1	O
+14	wir	wir	Q	1	O
+15	nun	nun	A	1	O
+16	auch	auch	A	1	O
+17	alle	alle	Q	1	O
+18	Bungalows	Bungalow	N	1	O
+19	kennengelernt	kennenlernen	V	1	O
+20	und	und	C	1	O
+21	können	können	V	1	O
+22	sagen	sagen	V	1	O
+23	,	,	O	1	O
+24	jedes	jede	Q	1	O
+25	hat	haben	V	1	O
+26	seinen	sein	Q	1	O
+27	eigenen	eigen	G	1	O
+28	Charme	Charme	N	1	O
+29	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	die	die	D	1	
-3	immer	immer	A	1	
-4	wieder	wieder	A	1	
-5	erwähnten	erwähnt	G	1	
-6	alten	alt	G	1	
-7	Bäder	Bad	N	1	
-8	sind	sein	V	1	
-9	erneuert	erneuern	V	1	
-10	worden	werden	V	1	
-11	,	,	O	1	
-12	bzw.	bzw.	C	1	
-13	werden	werden	V	1	
-14	erneuert	erneuern	V	1	
-15	.	.	O	1	
+1	Auch	auch	A	1	O
+2	die	die	D	1	O
+3	immer	immer	A	1	O
+4	wieder	wieder	A	1	O
+5	erwähnten	erwähnt	G	1	O
+6	alten	alt	G	1	O
+7	Bäder	Bad	N	1	O
+8	sind	sein	V	1	O
+9	erneuert	erneuern	V	1	O
+10	worden	werden	V	1	O
+11	,	,	O	1	O
+12	bzw.	bzw.	C	1	O
+13	werden	werden	V	1	O
+14	erneuert	erneuern	V	1	O
+15	.	.	O	1	O
 

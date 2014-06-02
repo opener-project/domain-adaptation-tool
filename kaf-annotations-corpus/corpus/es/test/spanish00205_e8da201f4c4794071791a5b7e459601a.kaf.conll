@@ -1,124 +1,125 @@
-1	Cuatro	Cuatro	R	1	
-2	estrellas	estrellas	N	1	
-3	?	?	O	1	
+1	Cuatro	Cuatro	R	1	O
+2	estrellas	estrellas	N	1	O
+3	?	?	O	1	O
 
-1	En	En	R	1	
-2	la	la	N	1	
-3	fachada	fachada	N	1	
+1	En	En	R	1	O
+2	la	la	N	1	O
+3	fachada	fachada	N	1	O
 
-1	Hola	Hola	R	1	
-2	fuimos	fuimos	N	1	
-3	con	con	V	1	
-4	una	una	G	1	
-5	reserva	reserva	N	1	
-6	de	de	P	1	
-7	5	5	O	1	
-8	dias	dias	N	1	
-9	con	con	G	1	
-10	pensión	pensión	N	1	
-11	completa	completa	N	1	
-12	(	(	O	1	
-13	pagado	pagado	O	1	
-14	por	por	O	1	
-15	anticipado	anticipado	O	1	
-16	)	)	O	1	
-17	y	y	G	1	
-18	al	al	G	1	
-19	cuarto	cuarto	N	1	
-20	nos	nos	N	1	
-21	fuimos	fuimos	V	1	
-22	ya	you	Q	1	
-23	no	no	D	1	
-24	aguantamos	aguantamos	N	1	
-25	más	más	N	1	
-26	.	.	O	1	
+1	Hola	Hola	R	1	O
+2	fuimos	fuimos	N	1	O
+3	con	con	V	1	O
+4	una	una	G	1	O
+5	reserva	reserva	N	1	O
+6	de	de	P	1	O
+7	5	5	O	1	O
+8	dias	dias	N	1	O
+9	con	con	G	1	O
+10	pensión	pensión	N	1	O
+11	completa	completa	N	1	O
+12	(	(	O	1	O
+13	pagado	pagado	O	1	O
+14	por	por	O	1	O
+15	anticipado	anticipado	O	1	O
+16	)	)	O	1	O
+17	y	y	G	1	O
+18	al	al	G	1	O
+19	cuarto	cuarto	N	1	O
+20	nos	nos	N	1	O
+21	fuimos	fuimos	V	1	O
+22	ya	you	Q	1	O
+23	no	no	D	1	O
+24	aguantamos	aguantamos	N	1	O
+25	más	más	N	1	O
+26	.	.	O	1	O
 
-1	Problemas	Problemas	R	1	
-2	con	con	A	1	
-3	el	el	N	1	
-4	estado	estado	O	1	
-5	de	de	O	1	
-6	la	la	O	1	
-7	cama	cama	O	1	
-8	desde	desde	O	1	
-9	el	el	O	1	
-10	primer	primer	O	1	
-11	dia	dia	N	1	
-12	,	,	O	1	
-13	la	la	O	1	
-14	impieza	impieza	O	1	
-15	de	de	O	1	
-16	la	la	O	1	
-17	habitación	habitación	O	1	
-18	inexistente	inexistente	O	1	
-19	,	,	O	1	
-20	el	el	N	1	
-21	trato	trato	O	1	
-22	recibido	recibido	V	1	
-23	por	por	N	1	
-24	algunos	algunos	N	1	
-25	camareros	camareros	N	1	
-26	pesimo	pesimo	O	1	
-27	negandose	negandose	V	1	
-28	a	a	D	1	
-29	sacar	sacar	N	1	
-30	las	las	V	1	
-31	bebidas	bebidas	N	1	
-32	a	a	D	1	
-33	las	las	G	1	
-34	mesas	mesa	N	1	
-35	,	,	O	1	
-36	las	las	V	1	
-37	comidas	comidas	N	1	
-38	pesimas	pesimas	N	1	
-39	y	y	G	1	
-40	apenas	apenas	A	1	
-41	sin	sin	N	1	
-42	variedad	variedad	N	1	
-43	,	,	O	1	
-44	el	el	N	1	
-45	personal	personal	G	1	
-46	de	de	P	1	
-47	recepción	recepción	G	1	
-48	sin	sin	G	1	
-49	ningún	ningún	G	1	
-50	interes	interes	N	1	
-51	en	en	P	1	
-52	atender	atender	P	1	
-53	al	al	G	1	
-54	cliente	cliente	G	1	
-55	y	y	G	1	
-56	del	del	N	1	
-57	tema	tema	N	1	
-58	aparcamiento	aparcamiento	P	1	
-59	..	..	O	1	
-60	inexistente	inexistente	G	1	
-61	en	en	O	1	
-62	la	la	O	1	
-63	zona	zona	O	1	
-64	y	y	G	1	
-65	el	el	N	1	
-66	del	del	N	1	
-67	hotel	hotel	N	1	
-68	abusando	abusando	P	1	
-69	cobrando	cobrando	N	1	
-70	9	9	O	1	
-71	€_diarios	€_diarios	R	1	ne=Money
-72	......	......	O	1	
+1	Problemas	Problemas	R	1	O
+2	con	con	A	1	O
+3	el	el	N	1	O
+4	estado	estado	O	1	O
+5	de	de	O	1	O
+6	la	la	O	1	O
+7	cama	cama	O	1	O
+8	desde	desde	O	1	O
+9	el	el	O	1	O
+10	primer	primer	O	1	O
+11	dia	dia	N	1	O
+12	,	,	O	1	O
+13	la	la	O	1	O
+14	impieza	impieza	O	1	O
+15	de	de	O	1	O
+16	la	la	O	1	O
+17	habitación	habitación	O	1	O
+18	inexistente	inexistente	O	1	O
+19	,	,	O	1	O
+20	el	el	N	1	O
+21	trato	trato	O	1	O
+22	recibido	recibido	V	1	O
+23	por	por	N	1	O
+24	algunos	algunos	N	1	O
+25	camareros	camareros	N	1	O
+26	pesimo	pesimo	O	1	O
+27	negandose	negandose	V	1	O
+28	a	a	D	1	O
+29	sacar	sacar	N	1	O
+30	las	las	V	1	O
+31	bebidas	bebidas	N	1	O
+32	a	a	D	1	O
+33	las	las	G	1	O
+34	mesas	mesa	N	1	O
+35	,	,	O	1	O
+36	las	las	V	1	O
+37	comidas	comidas	N	1	O
+38	pesimas	pesimas	N	1	O
+39	y	y	G	1	O
+40	apenas	apenas	A	1	O
+41	sin	sin	N	1	O
+42	variedad	variedad	N	1	O
+43	,	,	O	1	O
+44	el	el	N	1	O
+45	personal	personal	G	1	O
+46	de	de	P	1	O
+47	recepción	recepción	G	1	O
+48	sin	sin	G	1	O
+49	ningún	ningún	G	1	O
+50	interes	interes	N	1	O
+51	en	en	P	1	O
+52	atender	atender	P	1	O
+53	al	al	G	1	O
+54	cliente	cliente	G	1	O
+55	y	y	G	1	O
+56	del	del	N	1	O
+57	tema	tema	N	1	O
+58	aparcamiento	aparcamiento	P	1	O
+59	..	..	O	1	O
+60	inexistente	inexistente	G	1	O
+61	en	en	O	1	O
+62	la	la	O	1	O
+63	zona	zona	O	1	O
+64	y	y	G	1	O
+65	el	el	N	1	O
+66	del	del	N	1	O
+67	hotel	hotel	N	1	O
+68	abusando	abusando	P	1	O
+69	cobrando	cobrando	N	1	O
+70	9	9	O	1	O
+71	€	€	N	1	I-Money
+72	diarios	diarios	N	1	I-Money
+73	......	......	O	1	O
 
-1	Lamentable	lamentable	G	1	
-2	..	..	O	1	
-3	deja	deja	N	1	
-4	mucho	mucho	O	1	
-5	que	que	V	1	
-6	desear	desear	G	1	
-7	los	los	N	1	
-8	servicios	servicios	N	1	
-9	prestados	prestados	V	1	
-10	con	con	A	1	
-11	las	las	G	1	
-12	estrellas	estrellas	N	1	
-13	que	que	G	1	
-14	tienen	tienen	N	1	
-15	.	.	O	1	
+1	Lamentable	lamentable	G	1	O
+2	..	..	O	1	O
+3	deja	deja	N	1	O
+4	mucho	mucho	O	1	O
+5	que	que	V	1	O
+6	desear	desear	G	1	O
+7	los	los	N	1	O
+8	servicios	servicios	N	1	O
+9	prestados	prestados	V	1	O
+10	con	con	A	1	O
+11	las	las	G	1	O
+12	estrellas	estrellas	N	1	O
+13	que	que	G	1	O
+14	tienen	tienen	N	1	O
+15	.	.	O	1	O
 

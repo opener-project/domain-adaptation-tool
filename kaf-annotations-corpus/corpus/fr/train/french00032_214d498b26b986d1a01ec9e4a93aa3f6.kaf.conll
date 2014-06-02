@@ -1,186 +1,191 @@
-1	Sejour	Sejour	P	1	
-2	Egypte	Egypte	R	1	ne=Location
-3	2012	2012	R	1	ne=Date
+1	Sejour	Sejour	P	1	O
+2	Egypte	Egypte	R	1	I-Location
+3	2012	2012	R	1	B-Date
 
-1	Depuis	Depuis	P	1	
-2	l'	le	D	1	
-3	extérieur	extérieur	N	1	
-4	,	,	O	1	
-5	on	on	Q	1	
-6	arrive	arriver	V	1	
-7	sur	sur	P	1	
-8	un	un	D	1	
-9	hall	hall	N	1	
-10	avec	avec	P	1	
-11	la	le	D	1	
-12	réception	réception	N	1	
-13	,	,	O	1	
-14	les	le	D	1	
-15	acceuils	acceuils	N	1	
-16	des	des	P	1	
-17	tours	tour	N	1	
-18	opérators	opérators	G	1	
-19	,	,	O	1	
-20	des	un	D	1	
-21	magasins	magasin	N	1	
-22	de	de	P	1	
-23	souvenirs	souvenir	N	1	
-24	et	et	C	1	
-25	un	un	D	1	
-26	bar	bar	N	1	
-27	qui	qui	P	1	
-28	mène	mener	V	1	
-29	sur	sur	P	1	
-30	une	un	D	1	
-31	grande	grand	G	1	
-32	terrasse	terrasse	N	1	
-33	.	.	O	1	
+1	Depuis	Depuis	P	1	O
+2	l'	le	D	1	O
+3	extérieur	extérieur	N	1	O
+4	,	,	O	1	O
+5	on	on	Q	1	O
+6	arrive	arriver	V	1	O
+7	sur	sur	P	1	O
+8	un	un	D	1	O
+9	hall	hall	N	1	O
+10	avec	avec	P	1	O
+11	la	le	D	1	O
+12	réception	réception	N	1	O
+13	,	,	O	1	O
+14	les	le	D	1	O
+15	acceuils	acceuils	N	1	O
+16	des	des	P	1	O
+17	tours	tour	N	1	O
+18	opérators	opérators	G	1	O
+19	,	,	O	1	O
+20	des	un	D	1	O
+21	magasins	magasin	N	1	O
+22	de	de	P	1	O
+23	souvenirs	souvenir	N	1	O
+24	et	et	C	1	O
+25	un	un	D	1	O
+26	bar	bar	N	1	O
+27	qui	qui	P	1	O
+28	mène	mener	V	1	O
+29	sur	sur	P	1	O
+30	une	un	D	1	O
+31	grande	grand	G	1	O
+32	terrasse	terrasse	N	1	O
+33	.	.	O	1	O
 
-1	Depuis	Depuis	P	1	
-2	cette	ce	D	1	
-3	terrasse	terrasse	N	1	
-4	,	,	O	1	
-5	de	de	P	1	
-6	chaque	chaque	D	1	
-7	côté	côté	N	1	
-8	,	,	O	1	
-9	une	un	D	1	
-10	rangée	rangée	N	1	
-11	de	de	P	1	
-12	petits	petit	G	1	
-13	bâtiments	bâtiment	N	1	
-14	les	le	D	1	
-15	chambres	chambre	N	1	
-16	.	.	O	1	
+1	Depuis	Depuis	P	1	O
+2	cette	ce	D	1	O
+3	terrasse	terrasse	N	1	O
+4	,	,	O	1	O
+5	de	de	P	1	O
+6	chaque	chaque	D	1	O
+7	côté	côté	N	1	O
+8	,	,	O	1	O
+9	une	un	D	1	O
+10	rangée	rangée	N	1	O
+11	de	de	P	1	O
+12	petits	petit	G	1	O
+13	bâtiments	bâtiment	N	1	O
+14	les	le	D	1	O
+15	chambres	chambre	N	1	O
+16	.	.	O	1	O
 
-1	Ente	ente	N	1	
-2	ces	ce	D	1	
-3	rangées	rangée	N	1	
-4	,	,	O	1	
-5	une	un	D	1	
-6	très	très	G	1	
-7	grande	grand	G	1	
-8	piscine	piscine	N	1	
-9	suivi	suivre	V	1	
-10	d'	d'	P	1	
-11	un	un	D	1	
-12	jardin	jardin	N	1	
-13	et	et	C	1	
-14	,	,	O	1	
-15	à	à	P	1	
-16	suivre	suivre	V	1	
-17	,	,	O	1	
-18	la	le	D	1	
-19	plage	plage	N	1	
-20	et	et	C	1	
-21	la_mer_Rouge	le_mer_rouge	R	1	ne=POI
-22	.	.	O	1	
+1	Ente	ente	N	1	O
+2	ces	ce	D	1	O
+3	rangées	rangée	N	1	O
+4	,	,	O	1	O
+5	une	un	D	1	O
+6	très	très	G	1	O
+7	grande	grand	G	1	O
+8	piscine	piscine	N	1	O
+9	suivi	suivre	V	1	O
+10	d'	d'	P	1	O
+11	un	un	D	1	O
+12	jardin	jardin	N	1	O
+13	et	et	C	1	O
+14	,	,	O	1	O
+15	à	à	P	1	O
+16	suivre	suivre	V	1	O
+17	,	,	O	1	O
+18	la	le	D	1	O
+19	plage	plage	N	1	O
+20	et	et	C	1	O
+21	la	le	D	1	I-POI
+22	mer	mer	N	1	I-POI
+23	Rouge	rouge	G	1	I-POI
+24	.	.	O	1	O
 
-1	Lors	Lors	N	1	
-2	de	de	P	1	
-3	notre	son	D	1	
-4	sejour	sejour	N	1	
-5	(	(	O	1	
-6	fin	fin	N	1	
-7	août	août	R	1	ne=Date
-8	)	)	O	1	
-9	,	,	O	1	
-10	la	le	D	1	
-11	majorité	majorité	N	1	
-12	de	de	P	1	
-13	la	le	D	1	
-14	clientèle	clientèle	N	1	
-15	était	être	V	1	
-16	d'	d'	P	1	
-17	origine	origine	N	1	
-18	d'	d'	P	1	
-19	Europe_de_L'_est	Europe_de_le_être	R	1	ne=Location
-20	et	et	C	1	
-21	de	de	P	1	
-22	Russie	Russie	R	1	ne=Location
-23	.	.	O	1	
+1	Lors	Lors	N	1	O
+2	de	de	P	1	O
+3	notre	son	D	1	O
+4	sejour	sejour	N	1	O
+5	(	(	O	1	O
+6	fin	fin	N	1	O
+7	août	août	R	1	I-Date
+8	)	)	O	1	O
+9	,	,	O	1	O
+10	la	le	D	1	O
+11	majorité	majorité	N	1	O
+12	de	de	P	1	O
+13	la	le	D	1	O
+14	clientèle	clientèle	N	1	O
+15	était	être	V	1	O
+16	d'	d'	P	1	O
+17	origine	origine	N	1	O
+18	d'	d'	P	1	O
+19	Europe	Europe	N	1	I-Location
+20	de	de	P	1	I-Location
+21	L'	le	D	1	I-Location
+22	est	être	V	1	I-Location
+23	et	et	C	1	O
+24	de	de	P	1	O
+25	Russie	Russie	R	1	I-Location
+26	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	étions	être	V	1	
-3	en	en	P	1	
-4	pension	pension	N	1	
-5	complète	complet	G	1	
-6	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	étions	être	V	1	O
+3	en	en	P	1	O
+4	pension	pension	N	1	O
+5	complète	complet	G	1	O
+6	.	.	O	1	O
 
-1	Hormis	Hormis	P	1	
-2	à	à	P	1	
-3	la	le	D	1	
-4	réception	réception	N	1	
-5	où	où	P	1	
-6	la	le	D	1	
-7	personne	personne	N	1	
-8	qui	qui	P	1	
-9	a	avoir	V	1	
-10	effectué	effectuer	V	1	
-11	notre	son	D	1	
-12	arrivée	arrivé	N	1	
-13	n'	n'	G	1	
-14	a	avoir	V	1	
-15	pas	pas	G	1	
-16	était	être	V	1	
-17	compétente	compétent	G	1	
-18	(	(	O	1	
-19	certes	certes	G	1	
-20	,	,	O	1	
-21	il	il	Q	1	
-22	parlait	parler	V	1	
-23	français	français	G	1	
-24	mais	mais	C	1	
-25	après	après	P	1	
-26	avoir	avoir	V	1	
-27	pris	prendre	V	1	
-28	plusieurs	plusieurs	D	1	
-29	clients	client	N	1	
-30	otoctones	otoctones	G	1	
-31	,	,	O	1	
-32	c'	c'	Q	1	
-33	est	être	V	1	
-34	un	un	D	1	
-35	confrère	confrère	N	1	
-36	qui	qui	P	1	
-37	parlait	parler	V	1	
-38	Anglais	anglais	N	1	
-39	qui	qui	P	1	
-40	nous	lui	Q	1	
-41	a	avoir	V	1	
-42	remis	remettre	V	1	
-43	les	le	D	1	
-44	clefs	clef	N	1	
-45	après	après	P	1	
-46	1	1	D	1	
-47	Heure	heure	N	1	
-48	d'	d'	P	1	
-49	attente	attente	N	1	
-50	)	)	O	1	
-51	,	,	O	1	
-52	le	le	D	1	
-53	personnel	personnel	N	1	
-54	de	de	P	1	
-55	la	le	D	1	
-56	chambre	chambre	N	1	
-57	,	,	O	1	
-58	des	un	D	1	
-59	différents	différent	G	1	
-60	restaurants	restaurant	N	1	
-61	et	et	C	1	
-62	bars	bar	N	1	
-63	a	avoir	V	1	
-64	été	être	V	1	
-65	,	,	O	1	
-66	quand	quand	G	1	
-67	à	à	P	1	
-68	lui	lui	P	1	
-69	,	,	O	1	
-70	très	très	G	1	
-71	correct	correct	G	1	
-72	et	et	C	1	
-73	de	de	P	1	
-74	bonne	bon	G	1	
-75	qualité	qualité	N	1	
-76	.	.	O	1	
+1	Hormis	Hormis	P	1	O
+2	à	à	P	1	O
+3	la	le	D	1	O
+4	réception	réception	N	1	O
+5	où	où	P	1	O
+6	la	le	D	1	O
+7	personne	personne	N	1	O
+8	qui	qui	P	1	O
+9	a	avoir	V	1	O
+10	effectué	effectuer	V	1	O
+11	notre	son	D	1	O
+12	arrivée	arrivé	N	1	O
+13	n'	n'	G	1	O
+14	a	avoir	V	1	O
+15	pas	pas	G	1	O
+16	était	être	V	1	O
+17	compétente	compétent	G	1	O
+18	(	(	O	1	O
+19	certes	certes	G	1	O
+20	,	,	O	1	O
+21	il	il	Q	1	O
+22	parlait	parler	V	1	O
+23	français	français	G	1	O
+24	mais	mais	C	1	O
+25	après	après	P	1	O
+26	avoir	avoir	V	1	O
+27	pris	prendre	V	1	O
+28	plusieurs	plusieurs	D	1	O
+29	clients	client	N	1	O
+30	otoctones	otoctones	G	1	O
+31	,	,	O	1	O
+32	c'	c'	Q	1	O
+33	est	être	V	1	O
+34	un	un	D	1	O
+35	confrère	confrère	N	1	O
+36	qui	qui	P	1	O
+37	parlait	parler	V	1	O
+38	Anglais	anglais	N	1	O
+39	qui	qui	P	1	O
+40	nous	lui	Q	1	O
+41	a	avoir	V	1	O
+42	remis	remettre	V	1	O
+43	les	le	D	1	O
+44	clefs	clef	N	1	O
+45	après	après	P	1	O
+46	1	1	D	1	O
+47	Heure	heure	N	1	O
+48	d'	d'	P	1	O
+49	attente	attente	N	1	O
+50	)	)	O	1	O
+51	,	,	O	1	O
+52	le	le	D	1	O
+53	personnel	personnel	N	1	O
+54	de	de	P	1	O
+55	la	le	D	1	O
+56	chambre	chambre	N	1	O
+57	,	,	O	1	O
+58	des	un	D	1	O
+59	différents	différent	G	1	O
+60	restaurants	restaurant	N	1	O
+61	et	et	C	1	O
+62	bars	bar	N	1	O
+63	a	avoir	V	1	O
+64	été	être	V	1	O
+65	,	,	O	1	O
+66	quand	quand	G	1	O
+67	à	à	P	1	O
+68	lui	lui	P	1	O
+69	,	,	O	1	O
+70	très	très	G	1	O
+71	correct	correct	G	1	O
+72	et	et	C	1	O
+73	de	de	P	1	O
+74	bonne	bon	G	1	O
+75	qualité	qualité	N	1	O
+76	.	.	O	1	O
 

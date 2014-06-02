@@ -1,167 +1,171 @@
-1	Klasse	klasse	N	1	
-2	hotel	hotel	N	1	
-3	Topaz_Club	Topaz_club	R	1	ne=Hotel
-4	,	,	O	1	
-5	Hurghada_Egypte	Hurghada_Egypte	R	1	ne=Location
+1	Klasse	klasse	N	1	O
+2	hotel	hotel	N	1	O
+3	Topaz	Topaz	O	1	I-Hotel
+4	Club	club	N	1	I-Hotel
+5	,	,	O	1	O
+6	Hurghada	Hurghada	O	1	I-Location
+7	Egypte	Egypte	R	1	I-Location
 
-1	topaz_club_hotel	topaz_club_hotel	R	1	ne=Hotel
-2	4	@card@	O	1	
-3	sterren	ster	N	1	
-4	hurghada	hurghada	O	1	
-5	egypte	egypte	R	1	ne=Location
-6	.	.	O	1	
+1	topaz	topaz	O	1	I-Hotel
+2	club	club	N	1	I-Hotel
+3	hotel	hotel	N	1	I-Hotel
+4	4	@card@	O	1	O
+5	sterren	ster	N	1	O
+6	hurghada	hurghada	O	1	O
+7	egypte	egypte	R	1	I-Location
+8	.	.	O	1	O
 
-1	mooi	mooi	G	1	
-2	hotel	hotel	N	1	
-3	met	met	P	1	
-4	zeer	zeer	G	1	
-5	ruime	ruim	G	1	
-6	kamers	kamer	N	1	
-7	.	.	O	1	
+1	mooi	mooi	G	1	O
+2	hotel	hotel	N	1	O
+3	met	met	P	1	O
+4	zeer	zeer	G	1	O
+5	ruime	ruim	G	1	O
+6	kamers	kamer	N	1	O
+7	.	.	O	1	O
 
-1	2	@card@	O	1	
-2	kamers	kamer	N	1	
-3	ineen	ineen	A	1	
+1	2	@card@	O	1	O
+2	kamers	kamer	N	1	O
+3	ineen	ineen	A	1	O
 
-1	zeer	zeer	G	1	
-2	groot	groot	G	1	
-3	boxspring	boxspring	O	1	
-4	bed	bed	N	1	
-5	240	@card@	O	1	
-6	cm	cm	N	1	
-7	x	x	N	1	
-8	210	@card@	O	1	
-9	kan	kunnen	V	1	
-10	ook	ook	A	1	
-11	appart	appart	O	1	
-12	van	van	P	1	
-13	elkaar	elkaar	Q	1	
+1	zeer	zeer	G	1	O
+2	groot	groot	G	1	O
+3	boxspring	boxspring	O	1	O
+4	bed	bed	N	1	O
+5	240	@card@	O	1	O
+6	cm	cm	N	1	O
+7	x	x	N	1	O
+8	210	@card@	O	1	O
+9	kan	kunnen	V	1	O
+10	ook	ook	A	1	O
+11	appart	appart	O	1	O
+12	van	van	P	1	O
+13	elkaar	elkaar	Q	1	O
 
-1	beide	beide	O	1	
-2	kamers	kamer	N	1	
-3	met	met	P	1	
-4	erco	erco	O	1	
-5	.	.	O	1	
+1	beide	beide	O	1	O
+2	kamers	kamer	N	1	O
+3	met	met	P	1	O
+4	erco	erco	O	1	O
+5	.	.	O	1	O
 
-1	water	water	N	1	
-2	en	en	C	1	
-3	frisdrank	frisdrank	N	1	
-4	met	met	P	1	
-5	koelkast	koelkast	N	1	
-6	in	in	P	1	
-7	kamer	kamer	N	1	
-8	en	en	C	1	
-9	koffie	koffie	N	1	
-10	en	en	C	1	
-11	thee	thee	N	1	
-12	inbegrepen	inbegrepen	G	1	
+1	water	water	N	1	O
+2	en	en	C	1	O
+3	frisdrank	frisdrank	N	1	O
+4	met	met	P	1	O
+5	koelkast	koelkast	N	1	O
+6	in	in	P	1	O
+7	kamer	kamer	N	1	O
+8	en	en	C	1	O
+9	koffie	koffie	N	1	O
+10	en	en	C	1	O
+11	thee	thee	N	1	O
+12	inbegrepen	inbegrepen	G	1	O
 
-1	ruim	ruim	G	1	
-2	genoeg	genoeg	A	1	
-3	voor	voor	P	1	
-4	gezin	gezin	N	1	
-5	met	met	P	1	
-6	2	@card@	O	1	
-7	a3	a3	O	1	
-8	kids	kids	O	1	
-9	.	.	O	1	
+1	ruim	ruim	G	1	O
+2	genoeg	genoeg	A	1	O
+3	voor	voor	P	1	O
+4	gezin	gezin	N	1	O
+5	met	met	P	1	O
+6	2	@card@	O	1	O
+7	a3	a3	O	1	O
+8	kids	kids	O	1	O
+9	.	.	O	1	O
 
-1	zeer	zeer	G	1	
-2	schoon	schoon	G	1	
-3	en	en	C	1	
-4	netjes	net|netjes	G	1	
-5	dagelijks	dagelijks	G	1	
-6	schone	schoon	G	1	
-7	badhandoeken	badhandoeken	O	1	
+1	zeer	zeer	G	1	O
+2	schoon	schoon	G	1	O
+3	en	en	C	1	O
+4	netjes	net|netjes	G	1	O
+5	dagelijks	dagelijks	G	1	O
+6	schone	schoon	G	1	O
+7	badhandoeken	badhandoeken	O	1	O
 
-1	ruime	ruim	G	1	
-2	badkamer	badkamer	N	1	
-3	met	met	P	1	
-4	bad	bad	N	1	
-5	en	en	C	1	
-6	douche	douche	N	1	
-7	en	en	C	1	
-8	wc	wc	N	1	
-9	wastafel	wastafel	N	1	
-10	en	en	C	1	
-11	fohn	fohn	O	1	
-12	.	.	O	1	
+1	ruime	ruim	G	1	O
+2	badkamer	badkamer	N	1	O
+3	met	met	P	1	O
+4	bad	bad	N	1	O
+5	en	en	C	1	O
+6	douche	douche	N	1	O
+7	en	en	C	1	O
+8	wc	wc	N	1	O
+9	wastafel	wastafel	N	1	O
+10	en	en	C	1	O
+11	fohn	fohn	O	1	O
+12	.	.	O	1	O
 
-1	op	op	P	1	
-2	iedere	ieder	D	1	
-3	kamer	kamer	N	1	
-4	2	@card@	O	1	
-5	flatscreen	flatscreen	O	1	
-6	tv	tv	N	1	
-7	met	met	P	1	
-8	vele	veel	O	1	
-9	zenders	zender	N	1	
-10	.	.	O	1	
+1	op	op	P	1	O
+2	iedere	ieder	D	1	O
+3	kamer	kamer	N	1	O
+4	2	@card@	O	1	O
+5	flatscreen	flatscreen	O	1	O
+6	tv	tv	N	1	O
+7	met	met	P	1	O
+8	vele	veel	O	1	O
+9	zenders	zender	N	1	O
+10	.	.	O	1	O
 
-1	kasten	kast|kaste	N	1	
-2	en	en	C	1	
-3	bergruimte	bergruimte	N	1	
-4	mooie	mooi	G	1	
-5	meubels	meubel	N	1	
-6	kamer	kamer	N	1	
-7	heeft	hebben	V	1	
-8	zonverduisterende	zonverduisterende	O	1	
-9	gordijnen	gordijn	N	1	
-10	.	.	O	1	
+1	kasten	kast|kaste	N	1	O
+2	en	en	C	1	O
+3	bergruimte	bergruimte	N	1	O
+4	mooie	mooi	G	1	O
+5	meubels	meubel	N	1	O
+6	kamer	kamer	N	1	O
+7	heeft	hebben	V	1	O
+8	zonverduisterende	zonverduisterende	O	1	O
+9	gordijnen	gordijn	N	1	O
+10	.	.	O	1	O
 
-1	allincl	allincl	O	1	
-2	4	@card@	O	1	
-3	retaurants	retaurants	O	1	
-4	vis	vis	N	1	
-5	orientaal	orientaal	O	1	
-6	itiliaans	itiliaans	O	1	
-7	en	en	C	1	
-8	buffet	buffet	N	1	
-9	restaurant	restaurant	N	1	
+1	allincl	allincl	O	1	O
+2	4	@card@	O	1	O
+3	retaurants	retaurants	O	1	O
+4	vis	vis	N	1	O
+5	orientaal	orientaal	O	1	O
+6	itiliaans	itiliaans	O	1	O
+7	en	en	C	1	O
+8	buffet	buffet	N	1	O
+9	restaurant	restaurant	N	1	O
 
-1	het	het	D	1	
-2	eten	eten	N	1	
-3	is	zijn	V	1	
-4	erg	erg	A	1	
-5	goed	goed	G	1	
-6	veel	veel	O	1	
-7	keus	keus	N	1	
-8	.	.	O	1	
+1	het	het	D	1	O
+2	eten	eten	N	1	O
+3	is	zijn	V	1	O
+4	erg	erg	A	1	O
+5	goed	goed	G	1	O
+6	veel	veel	O	1	O
+7	keus	keus	N	1	O
+8	.	.	O	1	O
 
-1	zeer	zeer	G	1	
-2	uitgebreid	uitbreiden	V	1	
-3	keuze	keuze	N	1	
-4	ontbijt	ontbijt	N	1	
-5	en	en	C	1	
-6	lunch	lunch	N	1	
-7	en	en	C	1	
-8	dinner	dinner	O	1	
-9	.	.	O	1	
+1	zeer	zeer	G	1	O
+2	uitgebreid	uitbreiden	V	1	O
+3	keuze	keuze	N	1	O
+4	ontbijt	ontbijt	N	1	O
+5	en	en	C	1	O
+6	lunch	lunch	N	1	O
+7	en	en	C	1	O
+8	dinner	dinner	O	1	O
+9	.	.	O	1	O
 
-1	aan	aan	P	1	
-2	zwembad	zwembad	N	1	
-3	een	een	D	1	
-4	snack	snack	N	1	
-5	corner	corner	N	1	
-6	en	en	C	1	
-7	een	een	D	1	
-8	bar	bar	N	1	
-9	.	.	O	1	
+1	aan	aan	P	1	O
+2	zwembad	zwembad	N	1	O
+3	een	een	D	1	O
+4	snack	snack	N	1	O
+5	corner	corner	N	1	O
+6	en	en	C	1	O
+7	een	een	D	1	O
+8	bar	bar	N	1	O
+9	.	.	O	1	O
 
-1	reseptie	reseptie	O	1	
-2	hal	hal	N	1	
-3	groot	groot	G	1	
-4	met	met	P	1	
-5	vele	veel	O	1	
-6	lounge	lounge	N	1	
-7	banken	bank	N	1	
-8	.	.	O	1	
+1	reseptie	reseptie	O	1	O
+2	hal	hal	N	1	O
+3	groot	groot	G	1	O
+4	met	met	P	1	O
+5	vele	veel	O	1	O
+6	lounge	lounge	N	1	O
+7	banken	bank	N	1	O
+8	.	.	O	1	O
 
-1	bar	bar	N	1	
-2	voor	voor	P	1	
-3	cocktails	cocktail	N	1	
-4	en	en	C	1	
-5	lekkere	lek|lekker	G	1	
-6	koffie	koffie	N	1	
-7	.	.	O	1	
+1	bar	bar	N	1	O
+2	voor	voor	P	1	O
+3	cocktails	cocktail	N	1	O
+4	en	en	C	1	O
+5	lekkere	lek|lekker	G	1	O
+6	koffie	koffie	N	1	O
+7	.	.	O	1	O
 

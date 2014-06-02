@@ -1,131 +1,131 @@
-1	Camping	camping	N	1	
-2	assez	assez	G	1	
-3	agréable	agréable	G	1	
+1	Camping	camping	N	1	O
+2	assez	assez	G	1	O
+3	agréable	agréable	G	1	O
 
-1	Le	le	D	1	
-2	camping	camping	N	1	
-3	est	être	V	1	
-4	assez	assez	G	1	
-5	agréable	agréable	G	1	
-6	car	car	C	1	
-7	situé	situer	G	1	
-8	près	près	G	1	
-9	de	de	P	1	
-10	la	le	D	1	
-11	mer	mer	N	1	
-12	(	(	O	1	
-13	10	10	D	1	
-14	à	à	P	1	
-15	15min	15min	N	1	
-16	à	à	P	1	
-17	pied	pied	N	1	
-18	et	et	C	1	
-19	qlques	qlques	D	1	
-20	minutes	minute	N	1	
-21	en	en	P	1	
-22	voiture	voiture	N	1	
-23	)	)	O	1	
-24	.	.	O	1	
+1	Le	le	D	1	O
+2	camping	camping	N	1	O
+3	est	être	V	1	O
+4	assez	assez	G	1	O
+5	agréable	agréable	G	1	O
+6	car	car	C	1	O
+7	situé	situer	G	1	O
+8	près	près	G	1	O
+9	de	de	P	1	O
+10	la	le	D	1	O
+11	mer	mer	N	1	O
+12	(	(	O	1	O
+13	10	10	D	1	O
+14	à	à	P	1	O
+15	15min	15min	N	1	O
+16	à	à	P	1	O
+17	pied	pied	N	1	O
+18	et	et	C	1	O
+19	qlques	qlques	D	1	O
+20	minutes	minute	N	1	O
+21	en	en	P	1	O
+22	voiture	voiture	N	1	O
+23	)	)	O	1	O
+24	.	.	O	1	O
 
-1	Etant	Etant	V	1	
-2	logé	loger	V	1	
-3	dans	dans	P	1	
-4	un	un	D	1	
-5	studio	studio	N	1	
-6	dans	dans	P	1	
-7	la	le	D	1	
-8	partie	partie	N	1	
-9	haute	haut	G	1	
-10	du	du	P	1	
-11	camping	camping	N	1	
-12	,	,	O	1	
-13	jolie	joli	G	1	
-14	vue	voir	V	1	
-15	,	,	O	1	
-16	et	et	C	1	
-17	bonne	bon	G	1	
-18	insonorisation	insonorisation	N	1	
-19	malgré	malgré	P	1	
-20	la	le	D	1	
-21	voie	voie	N	1	
-22	férré	férré	G	1	
-23	et	et	C	1	
-24	la	le	D	1	
-25	route	route	N	1	
-26	à	à	P	1	
-27	proximité	proximité	N	1	
-28	(	(	O	1	
-29	Logement	Logement	G	1	
-30	de	de	P	1	
-31	type	type	N	1	
-32	"	&amp;quot;	O	1	
-33	tente	tente	N	1	
-34	"	&amp;quot;	O	1	
-35	à	à	P	1	
-36	éviter	éviter	V	1	
-37	)	)	O	1	
-38	.	.	O	1	
-39	studio	studio	O	1	
-40	bien	bien	G	1	
-41	équipé	équiper	V	1	
-42	et	et	C	1	
-43	propre	propre	G	1	
-44	.	.	O	1	
+1	Etant	Etant	V	1	O
+2	logé	loger	V	1	O
+3	dans	dans	P	1	O
+4	un	un	D	1	O
+5	studio	studio	N	1	O
+6	dans	dans	P	1	O
+7	la	le	D	1	O
+8	partie	partie	N	1	O
+9	haute	haut	G	1	O
+10	du	du	P	1	O
+11	camping	camping	N	1	O
+12	,	,	O	1	O
+13	jolie	joli	G	1	O
+14	vue	voir	V	1	O
+15	,	,	O	1	O
+16	et	et	C	1	O
+17	bonne	bon	G	1	O
+18	insonorisation	insonorisation	N	1	O
+19	malgré	malgré	P	1	O
+20	la	le	D	1	O
+21	voie	voie	N	1	O
+22	férré	férré	G	1	O
+23	et	et	C	1	O
+24	la	le	D	1	O
+25	route	route	N	1	O
+26	à	à	P	1	O
+27	proximité	proximité	N	1	O
+28	(	(	O	1	O
+29	Logement	Logement	G	1	O
+30	de	de	P	1	O
+31	type	type	N	1	O
+32	"	&amp;quot;	O	1	O
+33	tente	tente	N	1	O
+34	"	&amp;quot;	O	1	O
+35	à	à	P	1	O
+36	éviter	éviter	V	1	O
+37	)	)	O	1	O
+38	.	.	O	1	O
+39	studio	studio	O	1	O
+40	bien	bien	G	1	O
+41	équipé	équiper	V	1	O
+42	et	et	C	1	O
+43	propre	propre	G	1	O
+44	.	.	O	1	O
 
-1	Bon	bon	N	1	
-2	accueil	accueil	N	1	
-3	du	du	D	1	
-4	personnel	personnel	N	1	
-5	à	à	P	1	
-6	l'	le	D	1	
-7	arrivée	arrivé	N	1	
-8	et	et	C	1	
-9	tout	tout	G	1	
-10	au	au	P	1	
-11	long	long	G	1	
-12	du	du	P	1	
-13	séjour.	séjour.	G	1	
-14	bon	bon	G	1	
-15	rapport	rapport	N	1	
-16	qualité	qualité	N	1	
-17	/	/	P	1	
-18	prix	prix	N	1	
-19	(	(	O	1	
-20	septembre	septembre	R	1	ne=Date
-21	)	)	O	1	
-22	.	.	O	1	
-23	personnel	personnel	N	1	
-24	du	du	D	1	
-25	restaurant	restaurant	N	1	
-26	acceuillant	acceuillant	G	1	
-27	.	.	O	1	
+1	Bon	bon	N	1	O
+2	accueil	accueil	N	1	O
+3	du	du	D	1	O
+4	personnel	personnel	N	1	O
+5	à	à	P	1	O
+6	l'	le	D	1	O
+7	arrivée	arrivé	N	1	O
+8	et	et	C	1	O
+9	tout	tout	G	1	O
+10	au	au	P	1	O
+11	long	long	G	1	O
+12	du	du	P	1	O
+13	séjour.	séjour.	G	1	O
+14	bon	bon	G	1	O
+15	rapport	rapport	N	1	O
+16	qualité	qualité	N	1	O
+17	/	/	P	1	O
+18	prix	prix	N	1	O
+19	(	(	O	1	O
+20	septembre	septembre	R	1	I-Date
+21	)	)	O	1	O
+22	.	.	O	1	O
+23	personnel	personnel	N	1	O
+24	du	du	D	1	O
+25	restaurant	restaurant	N	1	O
+26	acceuillant	acceuillant	G	1	O
+27	.	.	O	1	O
 
-1	Manque	Manque	P	1	
-2	d'	d'	P	1	
-3	éclairage	éclairage	N	1	
-4	dans	dans	P	1	
-5	les	le	D	1	
-6	allées	allée	N	1	
-7	,	,	O	1	
-8	qlques	qlques	D	1	
-9	éclairage	éclairage	N	1	
-10	supplémentaires	supplémentaire	G	1	
-11	seraient	être	V	1	
-12	bienvenue	bienvenu	G	1	
-13	à	à	P	1	
-14	certains	certain	D	1	
-15	endroits	endroit	N	1	
-16	.	.	O	1	
+1	Manque	Manque	P	1	O
+2	d'	d'	P	1	O
+3	éclairage	éclairage	N	1	O
+4	dans	dans	P	1	O
+5	les	le	D	1	O
+6	allées	allée	N	1	O
+7	,	,	O	1	O
+8	qlques	qlques	D	1	O
+9	éclairage	éclairage	N	1	O
+10	supplémentaires	supplémentaire	G	1	O
+11	seraient	être	V	1	O
+12	bienvenue	bienvenu	G	1	O
+13	à	à	P	1	O
+14	certains	certain	D	1	O
+15	endroits	endroit	N	1	O
+16	.	.	O	1	O
 
-1	En	En	P	1	
-2	ce	ce	P	1	
-3	qui	qui	P	1	
-4	concerne	concerner	V	1	
-5	la	le	D	1	
-6	piscine	piscine	N	1	
-7	,	,	O	1	
-8	manque	manquer	V	1	
-9	de	de	P	1	
-10	transat	transat	N	1	
-11	.	.	O	1	
+1	En	En	P	1	O
+2	ce	ce	P	1	O
+3	qui	qui	P	1	O
+4	concerne	concerner	V	1	O
+5	la	le	D	1	O
+6	piscine	piscine	N	1	O
+7	,	,	O	1	O
+8	manque	manquer	V	1	O
+9	de	de	P	1	O
+10	transat	transat	N	1	O
+11	.	.	O	1	O
 

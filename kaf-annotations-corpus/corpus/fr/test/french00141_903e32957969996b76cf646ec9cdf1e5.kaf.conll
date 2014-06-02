@@ -1,87 +1,87 @@
-1	Un	un	D	1	
-2	camping	camping	N	1	
-3	ideale	ideale	G	1	
-4	pour	pour	P	1	
-5	la	le	D	1	
-6	visite	visite	N	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	région	région	N	1	
+1	Un	un	D	1	O
+2	camping	camping	N	1	O
+3	ideale	ideale	G	1	O
+4	pour	pour	P	1	O
+5	la	le	D	1	O
+6	visite	visite	N	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	région	région	N	1	O
 
-1	Bonjour	bonjour	N	1	
-2	,	,	O	1	
-3	nous	lui	Q	1	
-4	avons	avoir	V	1	
-5	vraiement	vraiement	G	1	
-6	passés	passer	V	1	
-7	de	de	P	1	
-8	magnifiques	magnifiques	N	1	
-9	vacances	vacance	N	1	
-10	.	.	O	1	
+1	Bonjour	bonjour	N	1	O
+2	,	,	O	1	O
+3	nous	lui	Q	1	O
+4	avons	avoir	V	1	O
+5	vraiement	vraiement	G	1	O
+6	passés	passer	V	1	O
+7	de	de	P	1	O
+8	magnifiques	magnifiques	N	1	O
+9	vacances	vacance	N	1	O
+10	.	.	O	1	O
 
-1	Le	le	D	1	
-2	camping	camping	N	1	
-3	est	être	V	1	
-4	des	des	P	1	
-5	plus	plus	G	1	
-6	agréables	agréable	G	1	
-7	,	,	O	1	
-8	la	le	D	1	
-9	région	région	N	1	
-10	est	être	V	1	
-11	magnifique	magnifique	G	1	
-12	,	,	O	1	
-13	les	le	D	1	
-14	gérants	gérant	N	1	
-15	yohann	yohann	R	1	ne=Person
-16	et	et	C	1	
-17	Virginie	virginie	R	1	ne=Person
-18	très	très	G	1	
-19	gentils	gentil	N	1	
-20	et	et	C	1	
-21	serviables	serviables	N	1	
-22	.	.	O	1	
+1	Le	le	D	1	O
+2	camping	camping	N	1	O
+3	est	être	V	1	O
+4	des	des	P	1	O
+5	plus	plus	G	1	O
+6	agréables	agréable	G	1	O
+7	,	,	O	1	O
+8	la	le	D	1	O
+9	région	région	N	1	O
+10	est	être	V	1	O
+11	magnifique	magnifique	G	1	O
+12	,	,	O	1	O
+13	les	le	D	1	O
+14	gérants	gérant	N	1	O
+15	yohann	yohann	R	1	I-Person
+16	et	et	C	1	O
+17	Virginie	virginie	R	1	I-Person
+18	très	très	G	1	O
+19	gentils	gentil	N	1	O
+20	et	et	C	1	O
+21	serviables	serviables	N	1	O
+22	.	.	O	1	O
 
-1	Les	le	D	1	
-2	sanitaire	sanitaire	N	1	
-3	sont	être	V	1	
-4	super	super	G	1	
-5	bien	bien	G	1	
-6	entretenu	entretenir	V	1	
-7	et	et	C	1	
-8	l'	le	D	1	
-9	animateur	animateur	N	1	
-10	pour	pour	P	1	
-11	les	le	D	1	
-12	enfants	enfant	N	1	
-13	est	être	V	1	
-14	très	très	G	1	
-15	gentil	gentil	G	1	
-16	.	.	O	1	
+1	Les	le	D	1	O
+2	sanitaire	sanitaire	N	1	O
+3	sont	être	V	1	O
+4	super	super	G	1	O
+5	bien	bien	G	1	O
+6	entretenu	entretenir	V	1	O
+7	et	et	C	1	O
+8	l'	le	D	1	O
+9	animateur	animateur	N	1	O
+10	pour	pour	P	1	O
+11	les	le	D	1	O
+12	enfants	enfant	N	1	O
+13	est	être	V	1	O
+14	très	très	G	1	O
+15	gentil	gentil	G	1	O
+16	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	est	être	V	1	
-3	néerlandais	néerlandais	G	1	
-4	mais	mais	C	1	
-5	parle	parler	V	1	
-6	parfaitement	parfaitement	G	1	
-7	le	le	D	1	
-8	francais	francais	N	1	
-9	et	et	C	1	
-10	est	être	V	1	
-11	très	très	G	1	
-12	gentil	gentil	G	1	
-13	avec	avec	P	1	
-14	les	le	D	1	
-15	enfants	enfant	N	1	
-16	.	.	O	1	
+1	Il	Il	Q	1	O
+2	est	être	V	1	O
+3	néerlandais	néerlandais	G	1	O
+4	mais	mais	C	1	O
+5	parle	parler	V	1	O
+6	parfaitement	parfaitement	G	1	O
+7	le	le	D	1	O
+8	francais	francais	N	1	O
+9	et	et	C	1	O
+10	est	être	V	1	O
+11	très	très	G	1	O
+12	gentil	gentil	G	1	O
+13	avec	avec	P	1	O
+14	les	le	D	1	O
+15	enfants	enfant	N	1	O
+16	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	vous	lui	Q	1	
-3	disons	disons	N	1	
-4	surement	surement	V	1	
-5	à	à	P	1	
-6	très	très	G	1	
-7	très	très	G	1	
-8	bientot	bientot	G	1	
+1	Nous	lui	Q	1	O
+2	vous	lui	Q	1	O
+3	disons	disons	N	1	O
+4	surement	surement	V	1	O
+5	à	à	P	1	O
+6	très	très	G	1	O
+7	très	très	G	1	O
+8	bientot	bientot	G	1	O
 

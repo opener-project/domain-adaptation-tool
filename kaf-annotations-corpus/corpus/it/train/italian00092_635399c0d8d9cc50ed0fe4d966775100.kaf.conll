@@ -1,52 +1,54 @@
-1	Villaggio_costa_verde	villaggio_costa_verde	R	1	ne=Hotel
-2	:	:	O	1	
-3	uno	uno	D	1	
-4	scandalo	scandalo	N	1	
-5	!	!	O	1	
-6	!	!	O	1	
+1	Villaggio	villaggio	O	1	I-Hotel
+2	costa	costa	N	1	I-Hotel
+3	verde	verde	N	1	I-Hotel
+4	:	:	O	1	O
+5	uno	uno	D	1	O
+6	scandalo	scandalo	N	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
 
-1	carenza	carenza	N	1	
-2	di	di	P	1	
-3	infrastrutture	infrastruttura	N	1	
-4	basilari	basilare	G	1	
-5	(	(	O	1	
-6	su	su	P	1	
-7	tutte	tutte	Q	1	
-8	la	lo	D	1	
-9	zona	zona	N	1	
-10	spiaggia	spiaggia	G	1	
-11	)	)	O	1	
-12	,	,	O	1	
-13	animazione	animazione	N	1	
-14	scadente	scadere	V	1	
-15	e	e	Q	1	
-16	comunque	comunque	Q	1	
-17	in	in	P	1	
-18	linea	linea	N	1	
-19	con	con	P	1	
-20	la	lo	D	1	
-21	struttura	struttura	N	1	
-22	,	,	O	1	
-23	superficie	superficie	N	1	
-24	complessiva	complessivo	G	1	
-25	da	da	P	1	
-26	lillipuziani	lillipuziano	R	1	
-27	,	,	O	1	
-28	“	“	R	1	
-29	servizi	servizio	N	1	
-30	”	”	R	1	
-31	inesistenti	inesistente	G	1	
-32	o	o	Q	1	
-33	comunque	comunque	A	1	
-34	a	a	P	1	
-35	costi	costo	N	1	
-36	da	da	P	1	
-37	Forte	forte	R	1	
-38	Village	village	R	1	
-39	.	.	O	1	
+1	carenza	carenza	N	1	O
+2	di	di	P	1	O
+3	infrastrutture	infrastruttura	N	1	O
+4	basilari	basilare	G	1	O
+5	(	(	O	1	O
+6	su	su	P	1	O
+7	tutte	tutte	Q	1	O
+8	la	lo	D	1	O
+9	zona	zona	N	1	O
+10	spiaggia	spiaggia	G	1	O
+11	)	)	O	1	O
+12	,	,	O	1	O
+13	animazione	animazione	N	1	O
+14	scadente	scadere	V	1	O
+15	e	e	Q	1	O
+16	comunque	comunque	Q	1	O
+17	in	in	P	1	O
+18	linea	linea	N	1	O
+19	con	con	P	1	O
+20	la	lo	D	1	O
+21	struttura	struttura	N	1	O
+22	,	,	O	1	O
+23	superficie	superficie	N	1	O
+24	complessiva	complessivo	G	1	O
+25	da	da	P	1	O
+26	lillipuziani	lillipuziano	R	1	O
+27	,	,	O	1	O
+28	“	“	R	1	O
+29	servizi	servizio	N	1	O
+30	”	”	R	1	O
+31	inesistenti	inesistente	G	1	O
+32	o	o	Q	1	O
+33	comunque	comunque	A	1	O
+34	a	a	P	1	O
+35	costi	costo	N	1	O
+36	da	da	P	1	O
+37	Forte	forte	R	1	O
+38	Village	village	R	1	O
+39	.	.	O	1	O
 
-1	DA	da	P	1	
-2	EVITARE	evitare	V	1	
-3	!	!	O	1	
-4	!	!	O	1	
+1	DA	da	P	1	O
+2	EVITARE	evitare	V	1	O
+3	!	!	O	1	O
+4	!	!	O	1	O
 

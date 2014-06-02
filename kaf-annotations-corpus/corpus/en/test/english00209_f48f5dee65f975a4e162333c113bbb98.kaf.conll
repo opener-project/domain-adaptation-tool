@@ -1,57 +1,57 @@
-1	I	i	Q	1	
-2	don	don	V	1	
-3	't	't	A	1	
-4	recommend	recommend	V	1	
-5	this	this	D	1	
-6	hotel	hotel	N	1	
-7	!	!	O	1	
+1	I	i	Q	1	O
+2	don	don	V	1	O
+3	't	't	A	1	O
+4	recommend	recommend	V	1	O
+5	this	this	D	1	O
+6	hotel	hotel	N	1	O
+7	!	!	O	1	O
 
-1	Very	Very	R	1	
-2	small	small	G	1	
-3	room	room	N	1	
-4	and	and	C	1	
-5	bathroom	bathroom	N	1	
-6	.	.	O	1	
+1	Very	Very	R	1	O
+2	small	small	G	1	O
+3	room	room	N	1	O
+4	and	and	C	1	O
+5	bathroom	bathroom	N	1	O
+6	.	.	O	1	O
 
-1	Extremely	extremely	A	1	
-2	unpleasant	unpleasant	G	1	
-3	odor	odor	N	1	
-4	in	in	P	1	
-5	the	the	D	1	
-6	bathroom	bathroom	N	1	
-7	,	,	O	1	
-8	Very	Very	R	1	
-9	poor	poor	G	1	
-10	breakfast	breakfast	N	1	
-11	and	and	C	1	
-12	almost	almost	A	1	
-13	expired	expire	V	1	
-14	date	date	N	1	
-15	of	of	P	1	
-16	the	the	D	1	
-17	food	food	N	1	
-18	(	(	O	1	
-19	butter	butter	N	1	
-20	,	,	O	1	
-21	baguette	baguette	N	1	
-22	)	)	O	1	
-23	.	.	O	1	
+1	Extremely	extremely	A	1	O
+2	unpleasant	unpleasant	G	1	O
+3	odor	odor	N	1	O
+4	in	in	P	1	O
+5	the	the	D	1	O
+6	bathroom	bathroom	N	1	O
+7	,	,	O	1	O
+8	Very	Very	R	1	O
+9	poor	poor	G	1	O
+10	breakfast	breakfast	N	1	O
+11	and	and	C	1	O
+12	almost	almost	A	1	O
+13	expired	expire	V	1	O
+14	date	date	N	1	O
+15	of	of	P	1	O
+16	the	the	D	1	O
+17	food	food	N	1	O
+18	(	(	O	1	O
+19	butter	butter	N	1	O
+20	,	,	O	1	O
+21	baguette	baguette	N	1	O
+22	)	)	O	1	O
+23	.	.	O	1	O
 
-1	No	no	D	1	
-2	parking	parking	N	1	
-3	.	.	O	1	
+1	No	no	D	1	O
+2	parking	parking	N	1	O
+3	.	.	O	1	O
 
-1	Generally	generally	A	1	
-2	to	to	P	1	
-3	get	get	V	1	
-4	to	to	P	1	
-5	the	the	D	1	
-6	hotel	hotel	N	1	
-7	with	with	P	1	
-8	a	a	D	1	
-9	car	car	N	1	
-10	is	be	V	1	
-11	extremely	extremely	A	1	
-12	difficult	difficult	G	1	
-13	.	.	O	1	
+1	Generally	generally	A	1	O
+2	to	to	P	1	O
+3	get	get	V	1	O
+4	to	to	P	1	O
+5	the	the	D	1	O
+6	hotel	hotel	N	1	O
+7	with	with	P	1	O
+8	a	a	D	1	O
+9	car	car	N	1	O
+10	is	be	V	1	O
+11	extremely	extremely	A	1	O
+12	difficult	difficult	G	1	O
+13	.	.	O	1	O
 

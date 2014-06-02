@@ -1,128 +1,128 @@
-1	Dieser	dies	Q	1	
-2	Urlaub	Urlaub	N	1	
-3	war	sein	V	1	
-4	schon	schon	A	1	
-5	was	was	Q	1	
-6	Besonderes	Besondere	N	1	
+1	Dieser	dies	Q	1	O
+2	Urlaub	Urlaub	N	1	O
+3	war	sein	V	1	O
+4	schon	schon	A	1	O
+5	was	was	Q	1	O
+6	Besonderes	Besondere	N	1	O
 
-1	Eine	eine	D	1	
-2	Anlage	Anlage	N	1	
-3	mit	mit	P	1	
-4	tollem	toll	G	1	
-5	Flair	Flair	N	1	
-6	.	.	O	1	
+1	Eine	eine	D	1	O
+2	Anlage	Anlage	N	1	O
+3	mit	mit	P	1	O
+4	tollem	toll	G	1	O
+5	Flair	Flair	N	1	O
+6	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Pool	Pool	N	1	
-3	(	(	O	1	
-4	mit	mit	P	1	
-5	zwei	zwei	O	1	
-6	kleinen	klein	G	1	
-7	Wasserfällen	Wasserfall	N	1	
-8	)	)	O	1	
-9	und	und	C	1	
-10	ein	eine	D	1	
-11	Koiteich	Koiteich	O	1	
-12	ist	sein	V	1	
-13	lagunenförmig	lagunenförmig	O	1	
-14	angelegt	anlegen	V	1	
-15	.	.	O	1	
+1	Der	die	D	1	O
+2	Pool	Pool	N	1	O
+3	(	(	O	1	O
+4	mit	mit	P	1	O
+5	zwei	zwei	O	1	O
+6	kleinen	klein	G	1	O
+7	Wasserfällen	Wasserfall	N	1	O
+8	)	)	O	1	O
+9	und	und	C	1	O
+10	ein	eine	D	1	O
+11	Koiteich	Koiteich	O	1	O
+12	ist	sein	V	1	O
+13	lagunenförmig	lagunenförmig	O	1	O
+14	angelegt	anlegen	V	1	O
+15	.	.	O	1	O
 
-1	Tolle	toll	G	1	
-2	Sonnenuntergänge	Sonnenuntergang	N	1	
-3	direkt	direkt	G	1	
-4	vom	von	P	1	
-5	Balkon	Balkon	N	1	
-6	aus	aus	V	1	
-7	zu	zu	O	1	
-8	sehen	sehen	V	1	
-9	.	.	O	1	
+1	Tolle	toll	G	1	O
+2	Sonnenuntergänge	Sonnenuntergang	N	1	O
+3	direkt	direkt	G	1	O
+4	vom	von	P	1	O
+5	Balkon	Balkon	N	1	O
+6	aus	aus	V	1	O
+7	zu	zu	O	1	O
+8	sehen	sehen	V	1	O
+9	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Sauberkeit	Sauberkeit	N	1	
-3	von	von	P	1	
-4	unserem	unser	Q	1	
-5	Zimmer	Zimmer	N	1	
-6	ist	sein	V	1	
-7	nicht	nicht	O	1	
-8	zu	zu	O	1	
-9	übertreffen	übertreffen	V	1	
-10	.	.	O	1	
+1	Die	die	D	1	O
+2	Sauberkeit	Sauberkeit	N	1	O
+3	von	von	P	1	O
+4	unserem	unser	Q	1	O
+5	Zimmer	Zimmer	N	1	O
+6	ist	sein	V	1	O
+7	nicht	nicht	O	1	O
+8	zu	zu	O	1	O
+9	übertreffen	übertreffen	V	1	O
+10	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	möchten	mögen	V	1	
-3	uns	wir	Q	1	
-4	noch	noch	A	1	
-5	bei	bei	P	1	
-6	N.	N.	R	1	
-7	(	(	O	1	
-8	unserem	unser	Q	1	
-9	Zimmermädchen	Zimmermädchen	N	1	
-10	)	)	O	1	
-11	für	für	P	1	
-12	das	die	D	1	
-13	tolle	toll	G	1	
-14	Saubermachen	Saubermachen	N	1	
-15	bedanken	bedanken	V	1	
-16	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	möchten	mögen	V	1	O
+3	uns	wir	Q	1	O
+4	noch	noch	A	1	O
+5	bei	bei	P	1	O
+6	N.	N.	R	1	O
+7	(	(	O	1	O
+8	unserem	unser	Q	1	O
+9	Zimmermädchen	Zimmermädchen	N	1	O
+10	)	)	O	1	O
+11	für	für	P	1	O
+12	das	die	D	1	O
+13	tolle	toll	G	1	O
+14	Saubermachen	Saubermachen	N	1	O
+15	bedanken	bedanken	V	1	O
+16	.	.	O	1	O
 
-1	Jeden	jede	Q	1	
-2	Tag	Tag	N	1	
-3	wurde	werden	V	1	
-4	das	die	D	1	
-5	Zimmer	Zimmer	N	1	
-6	gereinigt	reinigen	V	1	
-7	,	,	O	1	
-8	jeden	jede	Q	1	
-9	zweiten	zweit	G	1	
-10	Tag	Tag	N	1	
-11	wurde	werden	V	1	
-12	die	die	D	1	
-13	Bettwäsche	Bettwäsche	N	1	
-14	gewechselt	wechseln	V	1	
-15	,	,	O	1	
-16	und	und	C	1	
-17	jeden	jede	Q	1	
-18	Abend	Abend	N	1	
-19	wurde	werden	V	1	
-20	das	die	D	1	
-21	Bett	Bett	N	1	
-22	zur	zu	P	1	
-23	Nacht	Nacht	N	1	
-24	hergerichtet	herrichten	V	1	
-25	.	.	O	1	
+1	Jeden	jede	Q	1	O
+2	Tag	Tag	N	1	O
+3	wurde	werden	V	1	O
+4	das	die	D	1	O
+5	Zimmer	Zimmer	N	1	O
+6	gereinigt	reinigen	V	1	O
+7	,	,	O	1	O
+8	jeden	jede	Q	1	O
+9	zweiten	zweit	G	1	O
+10	Tag	Tag	N	1	O
+11	wurde	werden	V	1	O
+12	die	die	D	1	O
+13	Bettwäsche	Bettwäsche	N	1	O
+14	gewechselt	wechseln	V	1	O
+15	,	,	O	1	O
+16	und	und	C	1	O
+17	jeden	jede	Q	1	O
+18	Abend	Abend	N	1	O
+19	wurde	werden	V	1	O
+20	das	die	D	1	O
+21	Bett	Bett	N	1	O
+22	zur	zu	P	1	O
+23	Nacht	Nacht	N	1	O
+24	hergerichtet	herrichten	V	1	O
+25	.	.	O	1	O
 
-1	Den	die	D	1	
-2	Spabereich	Spabereich	O	1	
-3	mit	mit	P	1	
-4	toller	toll	G	1	
-5	Atmosphäre	Atmosphäre	N	1	
-6	sollte	sollen	V	1	
-7	man	man	Q	1	
-8	am	an	P	1	
-9	Abend	Abend	N	1	
-10	benutzen	benutzen	V	1	
-11	.	.	O	1	
+1	Den	die	D	1	O
+2	Spabereich	Spabereich	O	1	O
+3	mit	mit	P	1	O
+4	toller	toll	G	1	O
+5	Atmosphäre	Atmosphäre	N	1	O
+6	sollte	sollen	V	1	O
+7	man	man	Q	1	O
+8	am	an	P	1	O
+9	Abend	Abend	N	1	O
+10	benutzen	benutzen	V	1	O
+11	.	.	O	1	O
 
-1	Romantik	romantik	G	1	
-2	pur	pur	G	1	
-3	.	.	O	1	
+1	Romantik	romantik	G	1	O
+2	pur	pur	G	1	O
+3	.	.	O	1	O
 
-1	Überwiegend	überwiegend	G	1	
-2	engliche	engliche	O	1	
-3	und	und	C	1	
-4	französiche	französiche	O	1	
-5	Gäste	Gast	N	1	
-6	jeden	jede	Q	1	
-7	Alters	Alter	N	1	
-8	.	.	O	1	
+1	Überwiegend	überwiegend	G	1	O
+2	engliche	engliche	O	1	O
+3	und	und	C	1	O
+4	französiche	französiche	O	1	O
+5	Gäste	Gast	N	1	O
+6	jeden	jede	Q	1	O
+7	Alters	Alter	N	1	O
+8	.	.	O	1	O
 
-1	Englich	Englich	O	1	
-2	sprechen	sprechen	V	1	
-3	zu	zu	O	1	
-4	können	können	V	1	
-5	ist	sein	V	1	
-6	von	von	P	1	
-7	Vorteil	Vorteil	N	1	
-8	.	.	O	1	
+1	Englich	Englich	O	1	O
+2	sprechen	sprechen	V	1	O
+3	zu	zu	O	1	O
+4	können	können	V	1	O
+5	ist	sein	V	1	O
+6	von	von	P	1	O
+7	Vorteil	Vorteil	N	1	O
+8	.	.	O	1	O
 

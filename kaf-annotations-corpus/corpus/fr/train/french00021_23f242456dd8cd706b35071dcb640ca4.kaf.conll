@@ -1,131 +1,131 @@
-1	Ne	Ne	G	1	
-2	mérite	mériter	V	1	
-3	pas	pas	G	1	
-4	4	4	D	1	
-5	étoiles	étoile	N	1	
+1	Ne	Ne	G	1	O
+2	mérite	mériter	V	1	O
+3	pas	pas	G	1	O
+4	4	4	D	1	O
+5	étoiles	étoile	N	1	O
 
-1	pédiluve	pédiluve	V	1	
-2	de	de	P	1	
-3	la	le	D	1	
-4	piscine	piscine	N	1	
-5	absolument	absolument	G	1	
-6	immonde	immonde	G	1	
-7	,	,	O	1	
-8	mini	mini	N	1	
-9	·	·	G	1	
-10	golf	golf	N	1	
-11	à	à	P	1	
-12	l'	le	D	1	
-13	abandon	abandon	N	1	
-14	entouré	entourer	V	1	
-15	d'	d'	P	1	
-16	un	un	D	1	
-17	grillage	grillage	N	1	
-18	défectueux	défectueux	G	1	
-19	et	et	C	1	
-20	dangereux	dangereux	G	1	
-21	,	,	O	1	
-22	tables	table	N	1	
-23	de	de	P	1	
-24	ping	ping	N	1	
-25	·	·	P	1	
-26	pong	pong	N	1	
-27	sur	sur	P	1	
-28	le	le	D	1	
-29	terrain	terrain	N	1	
-30	de	de	P	1	
-31	pétanque	pétanque	N	1	
-32	,	,	O	1	
-33	mini	mini	N	1	
-34	·	·	G	1	
-35	golf	golf	N	1	
-36	et	et	C	1	
-37	terrain	terrain	N	1	
-38	pétanque	pétanque	N	1	
-39	situés	situer	V	1	
-40	juste	juste	G	1	
-41	à	à	P	1	
-42	coté	coté	N	1	
-43	des	des	P	1	
-44	poubelles	poubelle	N	1	
-45	,	,	O	1	
-46	installations	installation	N	1	
-47	avec	avec	P	1	
-48	murs	mur	N	1	
-49	nus	nu	G	1	
-50	en	en	P	1	
-51	parpaing	parpaing	N	1	
-52	non	non	G	1	
-53	peints	peindre	V	1	
-54	,	,	O	1	
-55	pas	pas	G	1	
-56	assez	assez	G	1	
-57	de	de	P	1	
-58	parasol	parasol	N	1	
-59	autour	autour	G	1	
-60	de	de	P	1	
-61	la	le	D	1	
-62	piscine	piscine	N	1	
-63	,	,	O	1	
-64	pas	pas	G	1	
-65	de	de	P	1	
-66	parasol	parasol	N	1	
-67	pour	pour	P	1	
-68	terrasse	terrasse	N	1	
-69	mobile	mobile	G	1	
-70	home	home	O	1	
-71	,	,	O	1	
-72	aucune	aucun	D	1	
-73	animation	animation	N	1	
-74	en	en	P	1	
-75	juin	juin	R	1	ne=Date
-76	(	(	O	1	
-77	alors	alors	G	1	
-78	que	que	C	1	
-79	de	de	P	1	
-80	nombreux	nombreux	G	1	
-81	campings	camping	N	1	
-82	3	3	D	1	
-83	étoiles	étoile	N	1	
-84	en	en	P	1	
-85	proposent	proposent	N	1	
-86	)	)	O	1	
-87	,	,	O	1	
-88	meme	meme	V	1	
-89	pas	pas	G	1	
-90	un	un	D	1	
-91	pot	pot	N	1	
-92	d'	d'	P	1	
-93	accueil	accueil	N	1	
-94	,	,	O	1	
-95	personnel	personnel	N	1	
-96	peu	peu	G	1	
-97	aimable	aimable	G	1	
-98	à	à	P	1	
-99	la	le	D	1	
-100	réception	réception	N	1	
-101	,	,	O	1	
-102	camping	camping	N	1	
-103	peu	peu	G	1	
-104	décoré	décorer	V	1	
-105	;	;	O	1	
-106	Point	point	N	1	
-107	positif	positif	G	1	
-108	:	:	O	1	
-109	la	le	D	1	
-110	pinède	pinède	N	1	
-111	dans	dans	P	1	
-112	laquelle	laquelle	P	1	
-113	le	le	D	1	
-114	camping	camping	N	1	
-115	est	être	V	1	
-116	placé	placer	V	1	
-117	.	.	O	1	
+1	pédiluve	pédiluve	V	1	O
+2	de	de	P	1	O
+3	la	le	D	1	O
+4	piscine	piscine	N	1	O
+5	absolument	absolument	G	1	O
+6	immonde	immonde	G	1	O
+7	,	,	O	1	O
+8	mini	mini	N	1	O
+9	·	·	G	1	O
+10	golf	golf	N	1	O
+11	à	à	P	1	O
+12	l'	le	D	1	O
+13	abandon	abandon	N	1	O
+14	entouré	entourer	V	1	O
+15	d'	d'	P	1	O
+16	un	un	D	1	O
+17	grillage	grillage	N	1	O
+18	défectueux	défectueux	G	1	O
+19	et	et	C	1	O
+20	dangereux	dangereux	G	1	O
+21	,	,	O	1	O
+22	tables	table	N	1	O
+23	de	de	P	1	O
+24	ping	ping	N	1	O
+25	·	·	P	1	O
+26	pong	pong	N	1	O
+27	sur	sur	P	1	O
+28	le	le	D	1	O
+29	terrain	terrain	N	1	O
+30	de	de	P	1	O
+31	pétanque	pétanque	N	1	O
+32	,	,	O	1	O
+33	mini	mini	N	1	O
+34	·	·	G	1	O
+35	golf	golf	N	1	O
+36	et	et	C	1	O
+37	terrain	terrain	N	1	O
+38	pétanque	pétanque	N	1	O
+39	situés	situer	V	1	O
+40	juste	juste	G	1	O
+41	à	à	P	1	O
+42	coté	coté	N	1	O
+43	des	des	P	1	O
+44	poubelles	poubelle	N	1	O
+45	,	,	O	1	O
+46	installations	installation	N	1	O
+47	avec	avec	P	1	O
+48	murs	mur	N	1	O
+49	nus	nu	G	1	O
+50	en	en	P	1	O
+51	parpaing	parpaing	N	1	O
+52	non	non	G	1	O
+53	peints	peindre	V	1	O
+54	,	,	O	1	O
+55	pas	pas	G	1	O
+56	assez	assez	G	1	O
+57	de	de	P	1	O
+58	parasol	parasol	N	1	O
+59	autour	autour	G	1	O
+60	de	de	P	1	O
+61	la	le	D	1	O
+62	piscine	piscine	N	1	O
+63	,	,	O	1	O
+64	pas	pas	G	1	O
+65	de	de	P	1	O
+66	parasol	parasol	N	1	O
+67	pour	pour	P	1	O
+68	terrasse	terrasse	N	1	O
+69	mobile	mobile	G	1	O
+70	home	home	O	1	O
+71	,	,	O	1	O
+72	aucune	aucun	D	1	O
+73	animation	animation	N	1	O
+74	en	en	P	1	O
+75	juin	juin	R	1	I-Date
+76	(	(	O	1	O
+77	alors	alors	G	1	O
+78	que	que	C	1	O
+79	de	de	P	1	O
+80	nombreux	nombreux	G	1	O
+81	campings	camping	N	1	O
+82	3	3	D	1	O
+83	étoiles	étoile	N	1	O
+84	en	en	P	1	O
+85	proposent	proposent	N	1	O
+86	)	)	O	1	O
+87	,	,	O	1	O
+88	meme	meme	V	1	O
+89	pas	pas	G	1	O
+90	un	un	D	1	O
+91	pot	pot	N	1	O
+92	d'	d'	P	1	O
+93	accueil	accueil	N	1	O
+94	,	,	O	1	O
+95	personnel	personnel	N	1	O
+96	peu	peu	G	1	O
+97	aimable	aimable	G	1	O
+98	à	à	P	1	O
+99	la	le	D	1	O
+100	réception	réception	N	1	O
+101	,	,	O	1	O
+102	camping	camping	N	1	O
+103	peu	peu	G	1	O
+104	décoré	décorer	V	1	O
+105	;	;	O	1	O
+106	Point	point	N	1	O
+107	positif	positif	G	1	O
+108	:	:	O	1	O
+109	la	le	D	1	O
+110	pinède	pinède	N	1	O
+111	dans	dans	P	1	O
+112	laquelle	laquelle	P	1	O
+113	le	le	D	1	O
+114	camping	camping	N	1	O
+115	est	être	V	1	O
+116	placé	placer	V	1	O
+117	.	.	O	1	O
 
-1	Pas	Pas	G	1	
-2	suffisant	suffisant	G	1	
-3	pour	pour	P	1	
-4	le	le	D	1	
-5	recommander	recommander	N	1	
-6	.	.	O	1	
+1	Pas	Pas	G	1	O
+2	suffisant	suffisant	G	1	O
+3	pour	pour	P	1	O
+4	le	le	D	1	O
+5	recommander	recommander	N	1	O
+6	.	.	O	1	O
 

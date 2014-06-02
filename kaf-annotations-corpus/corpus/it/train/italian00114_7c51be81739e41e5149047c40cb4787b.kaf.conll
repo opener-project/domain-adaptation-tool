@@ -1,162 +1,168 @@
-1	Molto	molto	A	1	
-2	comodo	comodo	G	1	
-3	per	per	P	1	
-4	visitare	visitare	V	1	
-5	l'	lo	D	1	
-6	Olanda	olanda	R	1	ne=Location
+1	Molto	molto	A	1	O
+2	comodo	comodo	G	1	O
+3	per	per	P	1	O
+4	visitare	visitare	V	1	O
+5	l'	lo	D	1	O
+6	Olanda	olanda	R	1	I-Location
 
-1	L'	lo	D	1	
-2	albergo	albergo	N	1	
-3	è	è	R	1	
-4	situato	situare	V	1	
-5	nei	nei	P	1	
-6	pressi	presso	N	1	
-7	di	di	P	1	
-8	una	una	Q	1	
-9	delle	delle	P	1	
-10	stazioni	stazione	N	1	
-11	ferroviarie	ferroviario	G	1	
-12	di	di	P	1	
-13	Amsterdam	amsterdam	R	1	ne=Location
-14	,	,	O	1	
-15	da	da	P	1	
-16	Schiphol	schiphol	R	1	ne=POI
-17	sono	essere	V	1	
-18	8	8	G	1	
-19	minuti	minuto	N	1	
-20	di	di	P	1	
-21	treno	treno	N	1	
-22	.	.	O	1	
+1	L'	lo	D	1	O
+2	albergo	albergo	N	1	O
+3	è	è	R	1	O
+4	situato	situare	V	1	O
+5	nei	nei	P	1	O
+6	pressi	presso	N	1	O
+7	di	di	P	1	O
+8	una	una	Q	1	O
+9	delle	delle	P	1	O
+10	stazioni	stazione	N	1	O
+11	ferroviarie	ferroviario	G	1	O
+12	di	di	P	1	O
+13	Amsterdam	amsterdam	R	1	I-Location
+14	,	,	O	1	O
+15	da	da	P	1	O
+16	Schiphol	schiphol	R	1	I-POI
+17	sono	essere	V	1	O
+18	8	8	G	1	O
+19	minuti	minuto	N	1	O
+20	di	di	P	1	O
+21	treno	treno	N	1	O
+22	.	.	O	1	O
 
-1	Per	per	P	1	
-2	chi	chi	Q	1	
-3	viaggia	viaggiare	V	1	
-4	in	in	P	1	
-5	aereo	aereo	N	1	
-6	è	essere	V	1	
-7	l'	lo	D	1	
-8	ideale	ideale	N	1	
-9	.	.	O	1	
+1	Per	per	P	1	O
+2	chi	chi	Q	1	O
+3	viaggia	viaggiare	V	1	O
+4	in	in	P	1	O
+5	aereo	aereo	N	1	O
+6	è	essere	V	1	O
+7	l'	lo	D	1	O
+8	ideale	ideale	N	1	O
+9	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	albergo	albergare	V	1	
-3	è	è	R	1	
-4	nuovo	nuovo	G	1	
-5	,	,	O	1	
-6	ottima	ottimo	G	1	
-7	colazione	colazione	N	1	
-8	,	,	O	1	
-9	pulito	pulito	N	1	
-10	e	e	Q	1	
-11	spazioso	spazioso	G	1	
-12	.	.	O	1	
+1	L'	lo	D	1	O
+2	albergo	albergare	V	1	O
+3	è	è	R	1	O
+4	nuovo	nuovo	G	1	O
+5	,	,	O	1	O
+6	ottima	ottimo	G	1	O
+7	colazione	colazione	N	1	O
+8	,	,	O	1	O
+9	pulito	pulito	N	1	O
+10	e	e	Q	1	O
+11	spazioso	spazioso	G	1	O
+12	.	.	O	1	O
 
-1	Dalla	dalla	P	1	
-2	Stazione_di_Sloterdijk	stazione_di_sloterdijk	R	1	ne=POI
-3	si	si	Q	1	
-4	raggiunge	raggiungere	V	1	
-5	il	lo	D	1	
-6	centro	centro	N	1	
-7	di	di	P	1	
-8	Amsterdam	amsterdam	R	1	ne=Location
-9	in	in	P	1	
-10	pochi	poco	G	1	
-11	minuti	minuto	N	1	
-12	con	con	P	1	
-13	il	lo	D	1	
-14	treno	treno	N	1	
-15	a	a	P	1	
-16	Amsterdam_Centraal	amsterdam_centraal	R	1	ne=POI
-17	,	,	O	1	
-18	se	se	Q	1	
-19	si	si	Q	1	
-20	vuole	volere	V	1	
-21	vedere	vedere	V	1	
-22	la	lo	D	1	
-23	città	citta'	N	1	
-24	con	con	P	1	
-25	il	lo	D	1	
-26	bus	bus	N	1	
-27	·	·	R	1	
-28	sempre	sempre	A	1	
-29	a	a	P	1	
-30	Amsterdam_Centraal	amsterdam_centraal	R	1	ne=POI
-31	in	in	P	1	
-32	15	15	G	1	
-33	minuti	minuto	N	1	
-34	.	.	O	1	
+1	Dalla	dalla	P	1	O
+2	Stazione	stazione	N	1	I-POI
+3	di	di	P	1	I-POI
+4	Sloterdijk	sloterdijk	N	1	I-POI
+5	si	si	Q	1	O
+6	raggiunge	raggiungere	V	1	O
+7	il	lo	D	1	O
+8	centro	centro	N	1	O
+9	di	di	P	1	O
+10	Amsterdam	amsterdam	R	1	I-Location
+11	in	in	P	1	O
+12	pochi	poco	G	1	O
+13	minuti	minuto	N	1	O
+14	con	con	P	1	O
+15	il	lo	D	1	O
+16	treno	treno	N	1	O
+17	a	a	P	1	O
+18	Amsterdam	amsterdam	R	1	I-POI
+19	Centraal	centraal	R	1	I-POI
+20	,	,	O	1	O
+21	se	se	Q	1	O
+22	si	si	Q	1	O
+23	vuole	volere	V	1	O
+24	vedere	vedere	V	1	O
+25	la	lo	D	1	O
+26	città	citta'	N	1	O
+27	con	con	P	1	O
+28	il	lo	D	1	O
+29	bus	bus	N	1	O
+30	·	·	R	1	O
+31	sempre	sempre	A	1	O
+32	a	a	P	1	O
+33	Amsterdam	amsterdam	R	1	I-POI
+34	Centraal	centraal	R	1	I-POI
+35	in	in	P	1	O
+36	15	15	G	1	O
+37	minuti	minuto	N	1	O
+38	.	.	O	1	O
 
-1	La	lo	D	1	
-2	stazione_di_Sloterdijk	stazione_di_sloterdijk	R	1	ne=POI
-3	è	è	R	1	
-4	collegata	collegare	V	1	
-5	o	o	Q	1	
-6	direttamente	direttamente	A	1	
-7	o	o	Q	1	
-8	al	al	P	1	
-9	massimo	massimo	G	1	
-10	con	con	P	1	
-11	un	uno	D	1	
-12	cambio	cambio	N	1	
-13	praticamente	praticamente	A	1	
-14	istantaneo	istantaneo	G	1	
-15	a	a	P	1	
-16	Centraal	centraal	R	1	ne=POI
-17	o	o	Q	1	
-18	a	a	P	1	
-19	Schiphol	schiphol	R	1	ne=POI
-20	con	con	P	1	
-21	tutta	tutto	G	1	
-22	l'	lo	D	1	
-23	Olanda	olanda	R	1	ne=Location
-24	.	.	O	1	
+1	La	lo	D	1	O
+2	stazione	stazione	N	1	I-POI
+3	di	di	P	1	I-POI
+4	Sloterdijk	sloterdijk	R	1	I-POI
+5	è	è	R	1	O
+6	collegata	collegare	V	1	O
+7	o	o	Q	1	O
+8	direttamente	direttamente	A	1	O
+9	o	o	Q	1	O
+10	al	al	P	1	O
+11	massimo	massimo	G	1	O
+12	con	con	P	1	O
+13	un	uno	D	1	O
+14	cambio	cambio	N	1	O
+15	praticamente	praticamente	A	1	O
+16	istantaneo	istantaneo	G	1	O
+17	a	a	P	1	O
+18	Centraal	centraal	R	1	I-POI
+19	o	o	Q	1	O
+20	a	a	P	1	O
+21	Schiphol	schiphol	R	1	I-POI
+22	con	con	P	1	O
+23	tutta	tutto	G	1	O
+24	l'	lo	D	1	O
+25	Olanda	olanda	R	1	I-Location
+26	.	.	O	1	O
 
-1	Cosa	cosa	Q	1	
-2	ne	ne	Q	1	
-3	volete	volere	V	1	
-4	di	di	P	1	
-5	più	piu'	N	1	
-6	Unica	unico	G	1	
-7	avvertenza	avvertenza	N	1	
-8	:	:	O	1	
-9	l'	lo	D	1	
-10	abergo	abergo	V	1	
-11	non	non	A	1	
-12	ha	avere	V	1	
-13	ristorante	ristorare	V	1	
-14	ma	ma	Q	1	
-15	solo	solo	G	1	
-16	un	uno	D	1	
-17	bar	bar	N	1	
-18	;	;	O	1	
-19	appena	appena	A	1	
-20	fuori	fuori	N	1	
-21	c'	c'	A	1	
-22	è	essere	V	1	
-23	un	uno	D	1	
-24	ristorante	ristorante	N	1	
-25	consigliabile	consigliabile	G	1	
-26	,	,	O	1	
-27	ma	ma	Q	1	
-28	è	è	O	1	
-29	chiuso	chiudere	V	1	
-30	sabato	sabato	N	1	
-31	e	e	Q	1	
-32	domenica	domenica	N	1	
-33	quindi	quindi	A	1	
-34	in	in	P	1	
-35	questi	questi	G	1	
-36	giorni	giorno	N	1	
-37	occorre	occorrere	V	1	
-38	cenare	cenare	V	1	
-39	in	in	P	1	
-40	centro	centro	N	1	
-41	o	o	Q	1	
-42	arrangiarsi	arrangiarsi	V	1	
-43	in	in	P	1	
-44	un	uno	D	1	
-45	chioso	chioso	N	1	
-46	della	della	P	1	
-47	stazione	stazione	N	1	
-48	.	.	O	1	
+1	Cosa	cosa	Q	1	O
+2	ne	ne	Q	1	O
+3	volete	volere	V	1	O
+4	di	di	P	1	O
+5	più	piu'	N	1	O
+6	Unica	unico	G	1	O
+7	avvertenza	avvertenza	N	1	O
+8	:	:	O	1	O
+9	l'	lo	D	1	O
+10	abergo	abergo	V	1	O
+11	non	non	A	1	O
+12	ha	avere	V	1	O
+13	ristorante	ristorare	V	1	O
+14	ma	ma	Q	1	O
+15	solo	solo	G	1	O
+16	un	uno	D	1	O
+17	bar	bar	N	1	O
+18	;	;	O	1	O
+19	appena	appena	A	1	O
+20	fuori	fuori	N	1	O
+21	c'	c'	A	1	O
+22	è	essere	V	1	O
+23	un	uno	D	1	O
+24	ristorante	ristorante	N	1	O
+25	consigliabile	consigliabile	G	1	O
+26	,	,	O	1	O
+27	ma	ma	Q	1	O
+28	è	è	O	1	O
+29	chiuso	chiudere	V	1	O
+30	sabato	sabato	N	1	O
+31	e	e	Q	1	O
+32	domenica	domenica	N	1	O
+33	quindi	quindi	A	1	O
+34	in	in	P	1	O
+35	questi	questi	G	1	O
+36	giorni	giorno	N	1	O
+37	occorre	occorrere	V	1	O
+38	cenare	cenare	V	1	O
+39	in	in	P	1	O
+40	centro	centro	N	1	O
+41	o	o	Q	1	O
+42	arrangiarsi	arrangiarsi	V	1	O
+43	in	in	P	1	O
+44	un	uno	D	1	O
+45	chioso	chioso	N	1	O
+46	della	della	P	1	O
+47	stazione	stazione	N	1	O
+48	.	.	O	1	O
 

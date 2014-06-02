@@ -1,52 +1,52 @@
-1	Hilton	Hilton	R	1	ne=Hotel
-2	goes	goes	O	1	
-3	Jugendherberge	Jugendherberge	N	1	
+1	Hilton	Hilton	R	1	I-Hotel
+2	goes	goes	O	1	O
+3	Jugendherberge	Jugendherberge	N	1	O
 
-1	Ein	eine	D	1	
-2	zwar	zwar	A	1	
-3	neues	neu	G	1	
-4	Hotel	Hotel	N	1	
-5	,	,	O	1	
-6	aber	aber	A	1	
-7	eines	eine	Q	1	
-8	,	,	O	1	
-9	das	die	Q	1	
-10	den	die	D	1	
-11	Zusatz	Zusatz	N	1	
-12	"	"	O	1	
-13	by	by	O	1	
-14	Hilton	Hilton	O	1	
-15	"	"	O	1	
-16	nicht	nicht	O	1	
-17	verdient	verdient	G	1	
-18	.	.	O	1	
+1	Ein	eine	D	1	O
+2	zwar	zwar	A	1	O
+3	neues	neu	G	1	O
+4	Hotel	Hotel	N	1	O
+5	,	,	O	1	O
+6	aber	aber	A	1	O
+7	eines	eine	Q	1	O
+8	,	,	O	1	O
+9	das	die	Q	1	O
+10	den	die	D	1	O
+11	Zusatz	Zusatz	N	1	O
+12	"	"	O	1	O
+13	by	by	O	1	O
+14	Hilton	Hilton	O	1	O
+15	"	"	O	1	O
+16	nicht	nicht	O	1	O
+17	verdient	verdient	G	1	O
+18	.	.	O	1	O
 
-1	Dieses	dies	Q	1	
-2	Hotel	Hotel	N	1	
-3	wirkt	wirken	V	1	
-4	wie	wie	C	1	
-5	ein	eine	D	1	
-6	Businesshotel	Businesshotel	O	1	
-7	,	,	O	1	
-8	doch	doch	C	1	
-9	Essen	Essen	N	1	
-10	,	,	O	1	
-11	Service	Service	N	1	
-12	und	und	C	1	
-13	Kompetenz	Kompetenz	N	1	
-14	des	die	D	1	
-15	Personals	Personal	N	1	
-16	sind	sein	V	1	
-17	derart	derart	A	1	
-18	schlecht	schlecht	G	1	
-19	,	,	O	1	
-20	dass	dass	C	1	
-21	man	man	Q	1	
-22	sich	sich	Q	1	
-23	wie	wie	C	1	
-24	in	in	P	1	
-25	einer	eine	D	1	
-26	Jugendherberge	Jugendherberge	N	1	
-27	fühlt	fühlen	V	1	
-28	.	.	O	1	
+1	Dieses	dies	Q	1	O
+2	Hotel	Hotel	N	1	O
+3	wirkt	wirken	V	1	O
+4	wie	wie	C	1	O
+5	ein	eine	D	1	O
+6	Businesshotel	Businesshotel	O	1	O
+7	,	,	O	1	O
+8	doch	doch	C	1	O
+9	Essen	Essen	N	1	O
+10	,	,	O	1	O
+11	Service	Service	N	1	O
+12	und	und	C	1	O
+13	Kompetenz	Kompetenz	N	1	O
+14	des	die	D	1	O
+15	Personals	Personal	N	1	O
+16	sind	sein	V	1	O
+17	derart	derart	A	1	O
+18	schlecht	schlecht	G	1	O
+19	,	,	O	1	O
+20	dass	dass	C	1	O
+21	man	man	Q	1	O
+22	sich	sich	Q	1	O
+23	wie	wie	C	1	O
+24	in	in	P	1	O
+25	einer	eine	D	1	O
+26	Jugendherberge	Jugendherberge	N	1	O
+27	fühlt	fühlen	V	1	O
+28	.	.	O	1	O
 

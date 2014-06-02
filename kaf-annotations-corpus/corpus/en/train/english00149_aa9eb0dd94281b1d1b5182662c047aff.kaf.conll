@@ -1,133 +1,136 @@
-1	It	it	Q	1	
-2	can	can	O	1	
-3	be	be	V	1	
-4	a	a	D	1	
-5	nice	nice	G	1	
-6	place	place	N	1	
+1	It	it	Q	1	O
+2	can	can	O	1	O
+3	be	be	V	1	O
+4	a	a	D	1	O
+5	nice	nice	G	1	O
+6	place	place	N	1	O
 
-1	It	it	Q	1	
-2	's	have	V	1	
-3	not	not	A	1	
-4	negative	negative	G	1	
-5	review	review	N	1	
-6	.	.	O	1	
+1	It	it	Q	1	O
+2	's	have	V	1	O
+3	not	not	A	1	O
+4	negative	negative	G	1	O
+5	review	review	N	1	O
+6	.	.	O	1	O
 
-1	I	i	Q	1	
-2	was	be	V	1	
-3	there	there	O	1	
-4	during	during	P	1	
-5	some	some	D	1	
-6	refurbishment	refurbishment	N	1	
-7	works	work	V	1	
-8	so	so	P	1	
-9	it	it	Q	1	
-10	was	be	V	1	
-11	not	not	A	1	
-12	the	the	D	1	
-13	best	good	G	1	
-14	moment	moment	N	1	
-15	to	to	P	1	
-16	be	be	V	1	
-17	there	there	A	1	
-18	.	.	O	1	
+1	I	i	Q	1	O
+2	was	be	V	1	O
+3	there	there	O	1	O
+4	during	during	P	1	O
+5	some	some	D	1	O
+6	refurbishment	refurbishment	N	1	O
+7	works	work	V	1	O
+8	so	so	P	1	O
+9	it	it	Q	1	O
+10	was	be	V	1	O
+11	not	not	A	1	O
+12	the	the	D	1	O
+13	best	good	G	1	O
+14	moment	moment	N	1	O
+15	to	to	P	1	O
+16	be	be	V	1	O
+17	there	there	A	1	O
+18	.	.	O	1	O
 
-1	Plus	plus	C	1	
-2	:	:	O	1	
-3	really	really	A	1	
-4	fresh	fresh	G	1	
-5	orange	orange	N	1	
-6	juice	juice	N	1	
-7	at	at	P	1	
-8	breakfast	breakfast	N	1	
-9	(	(	O	1	
-10	squeezed	squeeze	V	1	
-11	on	on	P	1	
-12	demand	demand	N	1	
-13	)	)	O	1	
+1	Plus	plus	C	1	O
+2	:	:	O	1	O
+3	really	really	A	1	O
+4	fresh	fresh	G	1	O
+5	orange	orange	N	1	O
+6	juice	juice	N	1	O
+7	at	at	P	1	O
+8	breakfast	breakfast	N	1	O
+9	(	(	O	1	O
+10	squeezed	squeeze	V	1	O
+11	on	on	P	1	O
+12	demand	demand	N	1	O
+13	)	)	O	1	O
 
-1	Location	Location	R	1	
-2	:	:	O	1	
-3	just	just	A	1	
-4	crossing	cross	V	1	
-5	the	the	D	1	
-6	roads	road	N	1	
-7	there	there	O	1	
-8	are	be	V	1	
-9	plenty	plenty	A	1	
-10	of	of	P	1	
-11	very	very	A	1	
-12	good	good	G	1	
-13	restaurants	restaurant	N	1	
-14	at	at	P	1	
-15	affordable	affordable	G	1	
-16	prices	price	N	1	
-17	.	.	O	1	
+1	Location	Location	R	1	O
+2	:	:	O	1	O
+3	just	just	A	1	O
+4	crossing	cross	V	1	O
+5	the	the	D	1	O
+6	roads	road	N	1	O
+7	there	there	O	1	O
+8	are	be	V	1	O
+9	plenty	plenty	A	1	O
+10	of	of	P	1	O
+11	very	very	A	1	O
+12	good	good	G	1	O
+13	restaurants	restaurant	N	1	O
+14	at	at	P	1	O
+15	affordable	affordable	G	1	O
+16	prices	price	N	1	O
+17	.	.	O	1	O
 
-1	You	you	Q	1	
-2	just	just	A	1	
-3	cross	cross	V	1	
-4	the	the	D	1	
-5	boulevar_du_Periferique	boulevar_du_Periferique	R	1	ne=Location
-6	and	and	C	1	
-7	you	you	Q	1	
-8	are	be	V	1	
-9	in	in	P	1	
-10	zone	zone	N	1	
-11	1	1	O	1	
-12	or	or	C	1	
-13	public	public	G	1	
-14	transportation	transportation	N	1	
-15	.	.	O	1	
+1	You	you	Q	1	O
+2	just	just	A	1	O
+3	cross	cross	V	1	O
+4	the	the	D	1	O
+5	boulevar	boulevar	N	1	I-Location
+6	du	du	A	1	I-Location
+7	Periferique	Periferique	R	1	I-Location
+8	and	and	C	1	O
+9	you	you	Q	1	O
+10	are	be	V	1	O
+11	in	in	P	1	O
+12	zone	zone	N	1	O
+13	1	1	O	1	O
+14	or	or	C	1	O
+15	public	public	G	1	O
+16	transportation	transportation	N	1	O
+17	.	.	O	1	O
 
-1	30	30	O	1	
-2	min	min	N	1	
-3	of	of	P	1	
-4	underground	underground	N	1	
-5	and	and	C	1	
-6	you	you	Q	1	
-7	are	be	V	1	
-8	at	at	P	1	
-9	Saint_Michael	Saint_Michael	R	1	ne=Attraction
-10	.	.	O	1	
+1	30	30	O	1	O
+2	min	min	N	1	O
+3	of	of	P	1	O
+4	underground	underground	N	1	O
+5	and	and	C	1	O
+6	you	you	Q	1	O
+7	are	be	V	1	O
+8	at	at	P	1	O
+9	Saint	Saint	R	1	I-Attraction
+10	Michael	Michael	R	1	I-Attraction
+11	.	.	O	1	O
 
-1	As	as	A	1	
-2	Ibis	Ibis	R	1	
-3	"	"	R	1	
-4	Style	Style	R	1	
-5	"	"	N	1	
-6	you	you	Q	1	
-7	get	get	V	1	
-8	Accor	Accor	R	1	
-9	points	point	N	1	
-10	even	even	A	1	
-11	during	during	P	1	
-12	workdays	workday	N	1	
+1	As	as	A	1	O
+2	Ibis	Ibis	R	1	O
+3	"	"	R	1	O
+4	Style	Style	R	1	O
+5	"	"	N	1	O
+6	you	you	Q	1	O
+7	get	get	V	1	O
+8	Accor	Accor	R	1	O
+9	points	point	N	1	O
+10	even	even	A	1	O
+11	during	during	P	1	O
+12	workdays	workday	N	1	O
 
-1	Minus	Minus	R	1	
+1	Minus	Minus	R	1	O
 
-1	size	size	N	1	
-2	of	of	P	1	
-3	the	the	D	1	
-4	room	room	N	1	
-5	,	,	O	1	
-6	really	really	A	1	
-7	small	small	G	1	
-8	small	small	G	1	
-9	,	,	O	1	
-10	no	no	D	1	
-11	place	place	N	1	
-12	to	to	P	1	
-13	hang	hang	V	1	
-14	something	something	N	1	
-15	more	more	G	1	
-16	than	than	P	1	
-17	two	two	O	1	
-18	shirts	shirt	N	1	
-19	.	.	O	1	
+1	size	size	N	1	O
+2	of	of	P	1	O
+3	the	the	D	1	O
+4	room	room	N	1	O
+5	,	,	O	1	O
+6	really	really	A	1	O
+7	small	small	G	1	O
+8	small	small	G	1	O
+9	,	,	O	1	O
+10	no	no	D	1	O
+11	place	place	N	1	O
+12	to	to	P	1	O
+13	hang	hang	V	1	O
+14	something	something	N	1	O
+15	more	more	G	1	O
+16	than	than	P	1	O
+17	two	two	O	1	O
+18	shirts	shirt	N	1	O
+19	.	.	O	1	O
 
-1	Impossible	impossible	G	1	
-2	to	to	P	1	
-3	hang	hang	V	1	
-4	trousers	trouser	N	1	
-5	.	.	O	1	
+1	Impossible	impossible	G	1	O
+2	to	to	P	1	O
+3	hang	hang	V	1	O
+4	trousers	trouser	N	1	O
+5	.	.	O	1	O
 

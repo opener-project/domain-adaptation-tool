@@ -1,152 +1,152 @@
-1	De	de	D	1	
-2	juiste	juist	G	1	
-3	keuze	keuze	N	1	
-4	van	van	P	1	
-5	hotel	hotel	N	1	
-6	in	in	P	1	
-7	Toscane	Toscane	R	1	ne=Location
-8	!	!	O	1	
+1	De	de	D	1	O
+2	juiste	juist	G	1	O
+3	keuze	keuze	N	1	O
+4	van	van	P	1	O
+5	hotel	hotel	N	1	O
+6	in	in	P	1	O
+7	Toscane	Toscane	R	1	I-Location
+8	!	!	O	1	O
 
-1	Wij	wij	Q	1	
-2	hebben	hebben	V	1	
-3	erg	erg	A	1	
-4	genoten	genieten	V	1	
-5	van	van	P	1	
-6	dit	dit	D	1	
-7	hotel	hotel	N	1	
-8	en	en	C	1	
-9	kunnen	kunnen	V	1	
-10	dit	dit	Q	1	
-11	dan	dan	A	1	
-12	ook	ook	A	1	
-13	van	van	P	1	
-14	harte	harte	O	1	
-15	aanbevelen	aanbevelen	V	1	
-16	,	,	O	1	
-17	voor	voor	P	1	
-18	ouderen	oudere	N	1	
-19	en	en	C	1	
-20	gezinnen	gezin	N	1	
-21	met	met	P	1	
-22	kinderen	kind	N	1	
-23	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hebben	hebben	V	1	O
+3	erg	erg	A	1	O
+4	genoten	genieten	V	1	O
+5	van	van	P	1	O
+6	dit	dit	D	1	O
+7	hotel	hotel	N	1	O
+8	en	en	C	1	O
+9	kunnen	kunnen	V	1	O
+10	dit	dit	Q	1	O
+11	dan	dan	A	1	O
+12	ook	ook	A	1	O
+13	van	van	P	1	O
+14	harte	harte	O	1	O
+15	aanbevelen	aanbevelen	V	1	O
+16	,	,	O	1	O
+17	voor	voor	P	1	O
+18	ouderen	oudere	N	1	O
+19	en	en	C	1	O
+20	gezinnen	gezin	N	1	O
+21	met	met	P	1	O
+22	kinderen	kind	N	1	O
+23	.	.	O	1	O
 
-1	De	de	D	1	
-2	prijs	prijs	N	1	
-3	t.o.v.	t.	O	1	
-4	t.o.v.	o.	O	1	
-5	t.o.v.	v.	O	1	
-6	het	het	D	1	
-7	gebodene	gebodene	O	1	
-8	was	wezen|zijn	V	1	
-9	uitstekend	uitstekend	G	1	
-10	.	.	O	1	
+1	De	de	D	1	O
+2	prijs	prijs	N	1	O
+3	t.o.v.	t.	O	1	O
+4	t.o.v.	o.	O	1	O
+5	t.o.v.	v.	O	1	O
+6	het	het	D	1	O
+7	gebodene	gebodene	O	1	O
+8	was	wezen|zijn	V	1	O
+9	uitstekend	uitstekend	G	1	O
+10	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	hadden	hebben	V	1	
-3	beduidend	beduidend	G	1	
-4	minder	min	G	1	
-5	verwacht	verwachten	V	1	
-6	van	van	P	1	
-7	dit	dit	D	1	
-8	hotel	hotel	N	1	
-9	,	,	O	1	
-10	gezien	gezien	P	1	
-11	de	de	D	1	
-12	prijs	prijs	N	1	
-13	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hadden	hebben	V	1	O
+3	beduidend	beduidend	G	1	O
+4	minder	min	G	1	O
+5	verwacht	verwachten	V	1	O
+6	van	van	P	1	O
+7	dit	dit	D	1	O
+8	hotel	hotel	N	1	O
+9	,	,	O	1	O
+10	gezien	gezien	P	1	O
+11	de	de	D	1	O
+12	prijs	prijs	N	1	O
+13	.	.	O	1	O
 
-1	Wie	wie	Q	1	
-2	aan	aan	P	1	
-3	dit	dit	D	1	
-4	hotel	hotel	N	1	
-5	een	een	D	1	
-6	negatieve	negatief	G	1	
-7	beoordeling	beoordeling	N	1	
-8	geeft	geven	V	1	
-9	,	,	O	1	
-10	kan	kunnen	V	1	
-11	beter	beter	A	1	
-12	thuis	thuis	A	1	
-13	blijven	blijven	V	1	
-14	!	!	O	1	
+1	Wie	wie	Q	1	O
+2	aan	aan	P	1	O
+3	dit	dit	D	1	O
+4	hotel	hotel	N	1	O
+5	een	een	D	1	O
+6	negatieve	negatief	G	1	O
+7	beoordeling	beoordeling	N	1	O
+8	geeft	geven	V	1	O
+9	,	,	O	1	O
+10	kan	kunnen	V	1	O
+11	beter	beter	A	1	O
+12	thuis	thuis	A	1	O
+13	blijven	blijven	V	1	O
+14	!	!	O	1	O
 
-1	Een	een	D	1	
-2	leuke	leuk	G	1	
-3	plaats	plaats	N	1	
-4	,	,	O	1	
-5	met	met	P	1	
-6	centrum	centrum	N	1	
-7	op	op	P	1	
-8	300	@card@	O	1	
-9	meter	meter	N	1	
-10	afstand	afstand	N	1	
-11	,	,	O	1	
-12	veel	veel	O	1	
-13	mogelijkheden	mogelijkheid	N	1	
-14	in	in	P	1	
-15	het	het	D	1	
-16	plaatsje	plaatsje	O	1	
-17	,	,	O	1	
-18	maar	maar	C	1	
-19	ook	ook	A	1	
-20	als	als	C	1	
-21	uitvalsbasis	uitvalsbasis	N	1	
-22	naar	naar	P	1	
-23	steden	stad|stede	N	1	
-24	in	in	P	1	
-25	de	de	D	1	
-26	omgeving	omgeving	N	1	
-27	,	,	O	1	
-28	daarbij	daarbij	Q	1	
-29	genietend	genieten	V	1	
-30	van	van	P	1	
-31	de	de	D	1	
-32	prachtige	prachtig	G	1	
-33	Toscaanse	Toscaanse	N	1	
-34	natuur	natuur	N	1	
-35	en	en	C	1	
-36	cltuur	cltuur	O	1	
-37	.	.	O	1	
+1	Een	een	D	1	O
+2	leuke	leuk	G	1	O
+3	plaats	plaats	N	1	O
+4	,	,	O	1	O
+5	met	met	P	1	O
+6	centrum	centrum	N	1	O
+7	op	op	P	1	O
+8	300	@card@	O	1	O
+9	meter	meter	N	1	O
+10	afstand	afstand	N	1	O
+11	,	,	O	1	O
+12	veel	veel	O	1	O
+13	mogelijkheden	mogelijkheid	N	1	O
+14	in	in	P	1	O
+15	het	het	D	1	O
+16	plaatsje	plaatsje	O	1	O
+17	,	,	O	1	O
+18	maar	maar	C	1	O
+19	ook	ook	A	1	O
+20	als	als	C	1	O
+21	uitvalsbasis	uitvalsbasis	N	1	O
+22	naar	naar	P	1	O
+23	steden	stad|stede	N	1	O
+24	in	in	P	1	O
+25	de	de	D	1	O
+26	omgeving	omgeving	N	1	O
+27	,	,	O	1	O
+28	daarbij	daarbij	Q	1	O
+29	genietend	genieten	V	1	O
+30	van	van	P	1	O
+31	de	de	D	1	O
+32	prachtige	prachtig	G	1	O
+33	Toscaanse	Toscaanse	N	1	O
+34	natuur	natuur	N	1	O
+35	en	en	C	1	O
+36	cltuur	cltuur	O	1	O
+37	.	.	O	1	O
 
-1	Wat	wat	A	1	
-2	voor	voor	P	1	
-3	cijfer	cijfer	N	1	
-4	geven	geven	V	1	
-5	wij	wij	Q	1	
-6	?	?	O	1	
-7	?	?	O	1	
-8	?	?	O	1	
+1	Wat	wat	A	1	O
+2	voor	voor	P	1	O
+3	cijfer	cijfer	N	1	O
+4	geven	geven	V	1	O
+5	wij	wij	Q	1	O
+6	?	?	O	1	O
+7	?	?	O	1	O
+8	?	?	O	1	O
 
-1	een	een	D	1	
-2	ruime	ruim	G	1	
-3	8	@card@	O	1	
-4	!	!	O	1	
+1	een	een	D	1	O
+2	ruime	ruim	G	1	O
+3	8	@card@	O	1	O
+4	!	!	O	1	O
 
-1	Wij	wij	Q	1	
-2	reizen	reizen	V	1	
-3	veel	veel	A	1	
-4	over	over	P	1	
-5	de	de	D	1	
-6	wereld	wereld	N	1	
-7	,	,	O	1	
-8	maar	maar	C	1	
-9	dit	dit	D	1	
-10	hotel	hotel	N	1	
-11	en	en	C	1	
-12	Toscane	Toscane	R	1	ne=Location
-13	hebben	hebben	V	1	
-14	een	een	D	1	
-15	plekje	plekje	O	1	
-16	in	in	P	1	
-17	ons	ons	D	1	
-18	hart	hart	N	1	
-19	veroverd	veroveren	V	1	
-20	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	reizen	reizen	V	1	O
+3	veel	veel	A	1	O
+4	over	over	P	1	O
+5	de	de	D	1	O
+6	wereld	wereld	N	1	O
+7	,	,	O	1	O
+8	maar	maar	C	1	O
+9	dit	dit	D	1	O
+10	hotel	hotel	N	1	O
+11	en	en	C	1	O
+12	Toscane	Toscane	R	1	I-Location
+13	hebben	hebben	V	1	O
+14	een	een	D	1	O
+15	plekje	plekje	O	1	O
+16	in	in	P	1	O
+17	ons	ons	D	1	O
+18	hart	hart	N	1	O
+19	veroverd	veroveren	V	1	O
+20	.	.	O	1	O
 
-1	R.	R.	O	1	
-2	van	van	P	1	
-3	Leeuwen	leeuw	N	1	
-4	,	,	O	1	
-5	arts	arts	N	1	
+1	R.	R.	O	1	O
+2	van	van	P	1	O
+3	Leeuwen	leeuw	N	1	O
+4	,	,	O	1	O
+5	arts	arts	N	1	O
 

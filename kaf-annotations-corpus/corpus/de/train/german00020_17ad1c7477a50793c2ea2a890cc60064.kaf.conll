@@ -1,170 +1,170 @@
-1	Geschäftsreise	Geschäftsreise	N	1	
-2	=	=	O	1	
-3	ja	ja	A	1	
-4	,	,	O	1	
-5	Urlaub	Urlaub	N	1	
-6	=	=	O	1	
-7	nein	nein	O	1	
+1	Geschäftsreise	Geschäftsreise	N	1	O
+2	=	=	O	1	O
+3	ja	ja	A	1	O
+4	,	,	O	1	O
+5	Urlaub	Urlaub	N	1	O
+6	=	=	O	1	O
+7	nein	nein	O	1	O
 
-1	Für	für	P	1	
-2	Geschäftsreise	Geschäftsreise	N	1	
-3	ganz	ganz	A	1	
-4	gut	gut	G	1	
-5	,	,	O	1	
-6	für	für	P	1	
-7	den	die	D	1	
-8	Urlaub	Urlaub	N	1	
-9	würde	werden	V	1	
-10	ich	ich	Q	1	
-11	dieses	dies	Q	1	
-12	Hotel	Hotel	N	1	
-13	nicht	nicht	O	1	
-14	buchen	buchen	V	1	
-15	.	.	O	1	
+1	Für	für	P	1	O
+2	Geschäftsreise	Geschäftsreise	N	1	O
+3	ganz	ganz	A	1	O
+4	gut	gut	G	1	O
+5	,	,	O	1	O
+6	für	für	P	1	O
+7	den	die	D	1	O
+8	Urlaub	Urlaub	N	1	O
+9	würde	werden	V	1	O
+10	ich	ich	Q	1	O
+11	dieses	dies	Q	1	O
+12	Hotel	Hotel	N	1	O
+13	nicht	nicht	O	1	O
+14	buchen	buchen	V	1	O
+15	.	.	O	1	O
 
-1	Bezüglich	bezüglich	P	1	
-2	der	die	D	1	
-3	Zimmergröße	Zimmergröße	N	1	
-4	gibt	geben	V	1	
-5	es	es	Q	1	
-6	nichts	nichts	Q	1	
-7	zu	zu	O	1	
-8	meckern	meckern	V	1	
-9	,	,	O	1	
-10	auch	auch	A	1	
-11	kann	können	V	1	
-12	man	man	Q	1	
-13	vieles	viele	Q	1	
-14	in	in	P	1	
-15	der	die	D	1	
-16	Gegend	Gegend	N	1	
-17	sehr	sehr	A	1	
-18	schnell	schnell	G	1	
-19	und	und	C	1	
-20	relativ	relativ	G	1	
-21	günstig	günstig	G	1	
-22	mit	mit	P	1	
-23	dem	die	D	1	
-24	Taxi	Taxi	N	1	
-25	erreichen	erreichen	V	1	
-26	,	,	O	1	
-27	allerdings	allerdings	A	1	
-28	ist	sein	V	1	
-29	dieses	dies	Q	1	
-30	Hotel	Hotel	N	1	
-31	ziemlich	ziemlich	A	1	
-32	am	an	P	1	
-33	Ende	Ende	N	1	
-34	des	die	D	1	
-35	Strips	Strips	O	1	
-36	.	.	O	1	
+1	Bezüglich	bezüglich	P	1	O
+2	der	die	D	1	O
+3	Zimmergröße	Zimmergröße	N	1	O
+4	gibt	geben	V	1	O
+5	es	es	Q	1	O
+6	nichts	nichts	Q	1	O
+7	zu	zu	O	1	O
+8	meckern	meckern	V	1	O
+9	,	,	O	1	O
+10	auch	auch	A	1	O
+11	kann	können	V	1	O
+12	man	man	Q	1	O
+13	vieles	viele	Q	1	O
+14	in	in	P	1	O
+15	der	die	D	1	O
+16	Gegend	Gegend	N	1	O
+17	sehr	sehr	A	1	O
+18	schnell	schnell	G	1	O
+19	und	und	C	1	O
+20	relativ	relativ	G	1	O
+21	günstig	günstig	G	1	O
+22	mit	mit	P	1	O
+23	dem	die	D	1	O
+24	Taxi	Taxi	N	1	O
+25	erreichen	erreichen	V	1	O
+26	,	,	O	1	O
+27	allerdings	allerdings	A	1	O
+28	ist	sein	V	1	O
+29	dieses	dies	Q	1	O
+30	Hotel	Hotel	N	1	O
+31	ziemlich	ziemlich	A	1	O
+32	am	an	P	1	O
+33	Ende	Ende	N	1	O
+34	des	die	D	1	O
+35	Strips	Strips	O	1	O
+36	.	.	O	1	O
 
-1	Ich	ich	Q	1	
-2	war	sein	V	1	
-3	im	in	P	1	
-4	Bereich	Bereich	N	1	
-5	"	"	O	1	
-6	Manor	Manor	O	1	
-7	Motor	Motor	N	1	
-8	Lodge	Lodge	O	1	
-9	"	"	O	1	
-10	einquartiert	einquartieren	V	1	
-11	,	,	O	1	
-12	es	es	Q	1	
-13	gibt	geben	V	1	
-14	verschiedene	verschieden	G	1	
-15	Gebäude	Gebäude	N	1	
-16	auf	auf	P	1	
-17	dem	die	D	1	
-18	weitläufigen	weitläufig	G	1	
-19	Gelände	Gelände	N	1	
-20	,	,	O	1	
-21	dieses	diese	Q	1	
-22	ist	sein	V	1	
-23	am	an	P	1	
-24	Ende	Ende	N	1	
-25	.	.	O	1	
+1	Ich	ich	Q	1	O
+2	war	sein	V	1	O
+3	im	in	P	1	O
+4	Bereich	Bereich	N	1	O
+5	"	"	O	1	O
+6	Manor	Manor	O	1	O
+7	Motor	Motor	N	1	O
+8	Lodge	Lodge	O	1	O
+9	"	"	O	1	O
+10	einquartiert	einquartieren	V	1	O
+11	,	,	O	1	O
+12	es	es	Q	1	O
+13	gibt	geben	V	1	O
+14	verschiedene	verschieden	G	1	O
+15	Gebäude	Gebäude	N	1	O
+16	auf	auf	P	1	O
+17	dem	die	D	1	O
+18	weitläufigen	weitläufig	G	1	O
+19	Gelände	Gelände	N	1	O
+20	,	,	O	1	O
+21	dieses	diese	Q	1	O
+22	ist	sein	V	1	O
+23	am	an	P	1	O
+24	Ende	Ende	N	1	O
+25	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	sieht	sehen	V	1	
-3	dem	die	D	1	
-4	Hotel	Hotel	N	1	
-5	an	an	V	1	
-6	,	,	O	1	
-7	dass	dass	C	1	
-8	es	es	Q	1	
-9	in	in	P	1	
-10	die	die	D	1	
-11	Jahre	Jahr	N	1	
-12	gekommen	kommen	V	1	
-13	ist	sein	V	1	
-14	,	,	O	1	
-15	kein	keine	Q	1	
-16	Vergleich	Vergleich	N	1	
-17	zu	zu	P	1	
-18	sonstigen	sonstig	G	1	
-19	Hotels	Hotel	N	1	
-20	,	,	O	1	
-21	die	die	Q	1	
-22	moderner	modern	G	1	
-23	,	,	O	1	
-24	sauberer	sauber	G	1	
-25	als	als	C	1	
-26	auch	auch	A	1	
-27	zentraler	zentral	G	1	
-28	am	an	P	1	
-29	Strip	Strip	N	1	
-30	liegen	liegen	V	1	
-31	.	.	O	1	
+1	Man	man	Q	1	O
+2	sieht	sehen	V	1	O
+3	dem	die	D	1	O
+4	Hotel	Hotel	N	1	O
+5	an	an	V	1	O
+6	,	,	O	1	O
+7	dass	dass	C	1	O
+8	es	es	Q	1	O
+9	in	in	P	1	O
+10	die	die	D	1	O
+11	Jahre	Jahr	N	1	O
+12	gekommen	kommen	V	1	O
+13	ist	sein	V	1	O
+14	,	,	O	1	O
+15	kein	keine	Q	1	O
+16	Vergleich	Vergleich	N	1	O
+17	zu	zu	P	1	O
+18	sonstigen	sonstig	G	1	O
+19	Hotels	Hotel	N	1	O
+20	,	,	O	1	O
+21	die	die	Q	1	O
+22	moderner	modern	G	1	O
+23	,	,	O	1	O
+24	sauberer	sauber	G	1	O
+25	als	als	C	1	O
+26	auch	auch	A	1	O
+27	zentraler	zentral	G	1	O
+28	am	an	P	1	O
+29	Strip	Strip	N	1	O
+30	liegen	liegen	V	1	O
+31	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	kann	können	V	1	
-4	man	man	Q	1	
-5	nicht	nicht	O	1	
-6	als	als	C	1	
-7	Frühstück	Frühstück	N	1	
-8	bezeichnen	bezeichnen	V	1	
-9	,	,	O	1	
-10	dieses	diese	Q	1	
-11	sieht	sehen	V	1	
-12	aus	aus	V	1	
-13	:	:	O	1	
-14	Muffin	Muffin	O	1	
-15	oder	oder	C	1	
-16	Croissant	Croissant	O	1	
-17	+	+	C	1	
-18	Banane	Banane	N	1	
-19	oder	oder	C	1	
-20	Apfel	Apfel	N	1	
-21	+	+	C	1	
-22	Kaffee	Kaffee	N	1	
-23	oder	oder	C	1	
-24	Tee	Tee	N	1	
-25	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	kann	können	V	1	O
+4	man	man	Q	1	O
+5	nicht	nicht	O	1	O
+6	als	als	C	1	O
+7	Frühstück	Frühstück	N	1	O
+8	bezeichnen	bezeichnen	V	1	O
+9	,	,	O	1	O
+10	dieses	diese	Q	1	O
+11	sieht	sehen	V	1	O
+12	aus	aus	V	1	O
+13	:	:	O	1	O
+14	Muffin	Muffin	O	1	O
+15	oder	oder	C	1	O
+16	Croissant	Croissant	O	1	O
+17	+	+	C	1	O
+18	Banane	Banane	N	1	O
+19	oder	oder	C	1	O
+20	Apfel	Apfel	N	1	O
+21	+	+	C	1	O
+22	Kaffee	Kaffee	N	1	O
+23	oder	oder	C	1	O
+24	Tee	Tee	N	1	O
+25	.	.	O	1	O
 
-1	Mehr	mehr	A	1	
-2	nicht	nicht	O	1	
-3	.	.	O	1	
+1	Mehr	mehr	A	1	O
+2	nicht	nicht	O	1	O
+3	.	.	O	1	O
 
-1	Im	in	P	1	
-2	Casinokomplex	Casinokomplex	O	1	
-3	gibt	geben	V	1	
-4	es	es	Q	1	
-5	verschiedene	verschieden	G	1	
-6	Restaurants	Restaurant	N	1	
-7	,	,	O	1	
-8	diese	diese	Q	1	
-9	sind	sein	V	1	
-10	bedingungslos	bedingungslos	G	1	
-11	empfehlenswert	empfehlenswert	G	1	
-12	,	,	O	1	
-13	haben	haben	V	1	
-14	aber	aber	A	1	
-15	"	"	O	1	
-16	Casino	Casino	N	1	
-17	·	·	O	1	
-18	Preise	Preis	N	1	
-19	"	"	O	1	
-20	.	.	O	1	
+1	Im	in	P	1	O
+2	Casinokomplex	Casinokomplex	O	1	O
+3	gibt	geben	V	1	O
+4	es	es	Q	1	O
+5	verschiedene	verschieden	G	1	O
+6	Restaurants	Restaurant	N	1	O
+7	,	,	O	1	O
+8	diese	diese	Q	1	O
+9	sind	sein	V	1	O
+10	bedingungslos	bedingungslos	G	1	O
+11	empfehlenswert	empfehlenswert	G	1	O
+12	,	,	O	1	O
+13	haben	haben	V	1	O
+14	aber	aber	A	1	O
+15	"	"	O	1	O
+16	Casino	Casino	N	1	O
+17	·	·	O	1	O
+18	Preise	Preis	N	1	O
+19	"	"	O	1	O
+20	.	.	O	1	O
 

@@ -1,93 +1,93 @@
-1	Enfant	enfant	G	1	
-2	de	de	P	1	
-3	moins	moins	G	1	
-4	d	d	G	1	
-5	'	'	P	1	
-6	1m20	1m20	N	1	
-7	passe	passer	V	1	
-8	ton	son	D	1	
-9	chemin	chemin	N	1	
+1	Enfant	enfant	G	1	O
+2	de	de	P	1	O
+3	moins	moins	G	1	O
+4	d	d	G	1	O
+5	'	'	P	1	O
+6	1m20	1m20	N	1	O
+7	passe	passer	V	1	O
+8	ton	son	D	1	O
+9	chemin	chemin	N	1	O
 
-1	N'	N'	G	1	
-2	y	y	Q	1	
-3	allez	aller	V	1	
-4	pas	pas	G	1	
-5	avec	avec	P	1	
-6	des	un	D	1	
-7	enfants	enfant	N	1	
-8	de	de	P	1	
-9	moins	moins	G	1	
-10	d	d	G	1	
-11	'	'	P	1	
-12	1m20	1m20	D	1	
-13	.	.	O	1	
+1	N'	N'	G	1	O
+2	y	y	Q	1	O
+3	allez	aller	V	1	O
+4	pas	pas	G	1	O
+5	avec	avec	P	1	O
+6	des	un	D	1	O
+7	enfants	enfant	N	1	O
+8	de	de	P	1	O
+9	moins	moins	G	1	O
+10	d	d	G	1	O
+11	'	'	P	1	O
+12	1m20	1m20	D	1	O
+13	.	.	O	1	O
 
-1	A	A	P	1	
-2	part	part	N	1	
-3	le	le	D	1	
-4	surf	surf	N	1	
-5	aucunes	aucunes	P	1	
-6	activités	activité	N	1	
-7	n'	n'	G	1	
-8	est	être	V	1	
-9	autorisées	autoriser	V	1	
-10	aux	aux	P	1	
-11	enfants	enfant	N	1	
-12	de	de	P	1	
-13	moins	moins	G	1	
-14	d	d	G	1	
-15	'	'	P	1	
-16	1m20	1m20	N	1	
-17	.	.	O	1	
+1	A	A	P	1	O
+2	part	part	N	1	O
+3	le	le	D	1	O
+4	surf	surf	N	1	O
+5	aucunes	aucunes	P	1	O
+6	activités	activité	N	1	O
+7	n'	n'	G	1	O
+8	est	être	V	1	O
+9	autorisées	autoriser	V	1	O
+10	aux	aux	P	1	O
+11	enfants	enfant	N	1	O
+12	de	de	P	1	O
+13	moins	moins	G	1	O
+14	d	d	G	1	O
+15	'	'	P	1	O
+16	1m20	1m20	N	1	O
+17	.	.	O	1	O
 
-1	Donc	Donc	N	1	
-2	à	à	P	1	
-3	part	part	N	1	
-4	barboter	barboter	V	1	
-5	dans	dans	P	1	
-6	l'	le	D	1	
-7	eau	eau	N	1	
-8	on	on	Q	1	
-9	ne	ne	G	1	
-10	peut	pouvoir	V	1	
-11	rien	rien	G	1	
-12	faire	faire	V	1	
-13	.	.	O	1	
+1	Donc	Donc	N	1	O
+2	à	à	P	1	O
+3	part	part	N	1	O
+4	barboter	barboter	V	1	O
+5	dans	dans	P	1	O
+6	l'	le	D	1	O
+7	eau	eau	N	1	O
+8	on	on	Q	1	O
+9	ne	ne	G	1	O
+10	peut	pouvoir	V	1	O
+11	rien	rien	G	1	O
+12	faire	faire	V	1	O
+13	.	.	O	1	O
 
-1	Autant	Autant	G	1	
-2	pour	pour	P	1	
-3	çà	çà	G	1	
-4	aller	aller	V	1	
-5	à	à	P	1	
-6	la	le	D	1	
-7	piscine	piscine	N	1	
-8	communale	communal	G	1	
-9	c'	c'	Q	1	
-10	est	être	V	1	
-11	beaucoup	beaucoup	G	1	
-12	moins	moins	G	1	
-13	chère	cher	G	1	
-14	.	.	O	1	
+1	Autant	Autant	G	1	O
+2	pour	pour	P	1	O
+3	çà	çà	G	1	O
+4	aller	aller	V	1	O
+5	à	à	P	1	O
+6	la	le	D	1	O
+7	piscine	piscine	N	1	O
+8	communale	communal	G	1	O
+9	c'	c'	Q	1	O
+10	est	être	V	1	O
+11	beaucoup	beaucoup	G	1	O
+12	moins	moins	G	1	O
+13	chère	cher	G	1	O
+14	.	.	O	1	O
 
-1	Un	un	D	1	
-2	bravo	bravo	N	1	
-3	tout	tout	G	1	
-4	particulier	particulier	G	1	
-5	aux	aux	P	1	
-6	gardiens	gardien	N	1	
-7	de	de	P	1	
-8	prison	prison	N	1	
-9	qui	qui	P	1	
-10	vous	lui	Q	1	
-11	surveillent	surveiller	V	1	
-12	et	et	C	1	
-13	qui	qui	P	1	
-14	manient	manient	G	1	
-15	le	le	D	1	
-16	sifflet	sifflet	N	1	
-17	avec	avec	P	1	
-18	beaucoup	beaucoup	G	1	
-19	d'	d'	P	1	
-20	entrain	entrain	N	1	
-21	.	.	O	1	
+1	Un	un	D	1	O
+2	bravo	bravo	N	1	O
+3	tout	tout	G	1	O
+4	particulier	particulier	G	1	O
+5	aux	aux	P	1	O
+6	gardiens	gardien	N	1	O
+7	de	de	P	1	O
+8	prison	prison	N	1	O
+9	qui	qui	P	1	O
+10	vous	lui	Q	1	O
+11	surveillent	surveiller	V	1	O
+12	et	et	C	1	O
+13	qui	qui	P	1	O
+14	manient	manient	G	1	O
+15	le	le	D	1	O
+16	sifflet	sifflet	N	1	O
+17	avec	avec	P	1	O
+18	beaucoup	beaucoup	G	1	O
+19	d'	d'	P	1	O
+20	entrain	entrain	N	1	O
+21	.	.	O	1	O
 

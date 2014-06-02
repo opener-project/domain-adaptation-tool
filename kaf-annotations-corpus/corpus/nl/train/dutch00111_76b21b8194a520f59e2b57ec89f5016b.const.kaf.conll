@@ -1,175 +1,175 @@
-1	Erg	erg	A	1	
-2	afhankelijk	afhankelijk	G	1	
-3	van	van	P	1	
-4	de	de	D	1	
-5	kamer	kamer	N	1	
-6	die	die	Q	1	
-7	je	je	Q	1	
-8	krijgt	krijgen	V	1	
-9	...	...	O	1	
+1	Erg	erg	A	1	O
+2	afhankelijk	afhankelijk	G	1	O
+3	van	van	P	1	O
+4	de	de	D	1	O
+5	kamer	kamer	N	1	O
+6	die	die	Q	1	O
+7	je	je	Q	1	O
+8	krijgt	krijgen	V	1	O
+9	...	...	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	ziet	zien	V	1	
-4	er	er	Q	1	
-5	erg	erg	A	1	
-6	mooi	mooi	A	1	
-7	uit	uit	A	1	
-8	aan	aan	P	1	
-9	de	de	D	1	
-10	buitenkant	buitenkant	N	1	
-11	en	en	C	1	
-12	is	zijn	V	1	
-13	gelegen	liggen	V	1	
-14	aan	aan	P	1	
-15	een	een	D	1	
-16	leuk	leuk	G	1	
-17	pleintje	plein	N	1	
-18	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	ziet	zien	V	1	O
+4	er	er	Q	1	O
+5	erg	erg	A	1	O
+6	mooi	mooi	A	1	O
+7	uit	uit	A	1	O
+8	aan	aan	P	1	O
+9	de	de	D	1	O
+10	buitenkant	buitenkant	N	1	O
+11	en	en	C	1	O
+12	is	zijn	V	1	O
+13	gelegen	liggen	V	1	O
+14	aan	aan	P	1	O
+15	een	een	D	1	O
+16	leuk	leuk	G	1	O
+17	pleintje	plein	N	1	O
+18	.	.	O	1	O
 
-1	In	in	P	1	
-2	Staverlot	Staverlot	R	1	ne=Location
-3	zelf	zelf	Q	1	
-4	is	zijn	V	1	
-5	weinig	weinig	A	1	
-6	te	te	O	1	
-7	doen	doen	V	1	
-8	.	.	O	1	
+1	In	in	P	1	O
+2	Staverlot	Staverlot	R	1	I-Location
+3	zelf	zelf	Q	1	O
+4	is	zijn	V	1	O
+5	weinig	weinig	A	1	O
+6	te	te	O	1	O
+7	doen	doen	V	1	O
+8	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	ben	zijn	V	1	
-3	het	het	Q	1	
-4	eens	eens	A	1	
-5	met	met	P	1	
-6	het	het	D	1	
-7	feit	feit	N	1	
-8	dat	dat	C	1	
-9	dit	dit	D	1	
-10	hotel	hotel	N	1	
-11	valt	vallen	V	1	
-12	of	of	C	1	
-13	staat	staat	N	1	
-14	op	op	P	1	
-15	basis	basis	N	1	
-16	van	van	P	1	
-17	welke	welk	D	1	
-18	kamer	kamer	N	1	
-19	je	je	Q	1	
-20	krijgt	krijgen	V	1	
-21	.	.	O	1	
-22	,	,	O	1	
-23	want	want	C	1	
-24	ik	ik	Q	1	
-25	kan	kunnen	V	1	
-26	me	me	Q	1	
-27	niet	niet	A	1	
-28	vinden	vinden	V	1	
-29	in	in	P	1	
-30	de	de	D	1	
-31	positieve	positief	G	1	
-32	reacties	reactie	N	1	
-33	(	(	O	1	
-34	dus	dus	C	1	
-35	die	die	D	1	
-36	kamers	kamer	N	1	
-37	moeten	moeten	V	1	
-38	veel	veel	A	1	
-39	beter	beter|goed	G	1	
-40	zijn	zijn	V	1	
-41	geweest	wezen|zijn	V	1	
-42	)	)	O	1	
-43	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	ben	zijn	V	1	O
+3	het	het	Q	1	O
+4	eens	eens	A	1	O
+5	met	met	P	1	O
+6	het	het	D	1	O
+7	feit	feit	N	1	O
+8	dat	dat	C	1	O
+9	dit	dit	D	1	O
+10	hotel	hotel	N	1	O
+11	valt	vallen	V	1	O
+12	of	of	C	1	O
+13	staat	staat	N	1	O
+14	op	op	P	1	O
+15	basis	basis	N	1	O
+16	van	van	P	1	O
+17	welke	welk	D	1	O
+18	kamer	kamer	N	1	O
+19	je	je	Q	1	O
+20	krijgt	krijgen	V	1	O
+21	.	.	O	1	O
+22	,	,	O	1	O
+23	want	want	C	1	O
+24	ik	ik	Q	1	O
+25	kan	kunnen	V	1	O
+26	me	me	Q	1	O
+27	niet	niet	A	1	O
+28	vinden	vinden	V	1	O
+29	in	in	P	1	O
+30	de	de	D	1	O
+31	positieve	positief	G	1	O
+32	reacties	reactie	N	1	O
+33	(	(	O	1	O
+34	dus	dus	C	1	O
+35	die	die	D	1	O
+36	kamers	kamer	N	1	O
+37	moeten	moeten	V	1	O
+38	veel	veel	A	1	O
+39	beter	beter|goed	G	1	O
+40	zijn	zijn	V	1	O
+41	geweest	wezen|zijn	V	1	O
+42	)	)	O	1	O
+43	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	zaten	zitten	V	1	
-3	op	op	P	1	
-4	zolder	zolder	N	1	
-5	waar	waar	Q	1	
-6	het	het	D	1	
-7	vreselijk	vreselijk	G	1	
-8	warm	warm	G	1	
-9	was	wezen|zijn	V	1	
-10	,	,	O	1	
-11	35gr	35gr	O	1	
-12	en	en	C	1	
-13	door	door	P	1	
-14	de	de	D	1	
-15	kleine	klein	G	1	
-16	hoge	hoog	G	1	
-17	ramen	ramen	N	1	
-18	kwam	komen	V	1	
-19	niet	niet	A	1	
-20	veel	veel	A	1	
-21	wind	wind	N	1	
-22	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	zaten	zitten	V	1	O
+3	op	op	P	1	O
+4	zolder	zolder	N	1	O
+5	waar	waar	Q	1	O
+6	het	het	D	1	O
+7	vreselijk	vreselijk	G	1	O
+8	warm	warm	G	1	O
+9	was	wezen|zijn	V	1	O
+10	,	,	O	1	O
+11	35gr	35gr	O	1	O
+12	en	en	C	1	O
+13	door	door	P	1	O
+14	de	de	D	1	O
+15	kleine	klein	G	1	O
+16	hoge	hoog	G	1	O
+17	ramen	ramen	N	1	O
+18	kwam	komen	V	1	O
+19	niet	niet	A	1	O
+20	veel	veel	A	1	O
+21	wind	wind	N	1	O
+22	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	was	wezen|zijn	V	1	
-3	een	een	D	1	
-4	vreemde	vreemd	G	1	
-5	kamer	kamer	N	1	
-6	waar	waar	Q	1	
-7	ze	ze	Q	1	
-8	volgens	volgens	P	1	
-9	mij	mij	Q	1	
-10	halverwege	halverwege	A	1	
-11	zijn	zijn	V	1	
-12	met	met	P	1	
-13	renoveren	renoveren	N	1	
-14	.	.	O	1	
+1	Het	het	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	een	een	D	1	O
+4	vreemde	vreemd	G	1	O
+5	kamer	kamer	N	1	O
+6	waar	waar	Q	1	O
+7	ze	ze	Q	1	O
+8	volgens	volgens	P	1	O
+9	mij	mij	Q	1	O
+10	halverwege	halverwege	A	1	O
+11	zijn	zijn	V	1	O
+12	met	met	P	1	O
+13	renoveren	renoveren	N	1	O
+14	.	.	O	1	O
 
-1	Ouderwetse	ouderwets	G	1	
-2	meubels	meubel	N	1	
-3	opgepimpt	opgepimpt	O	1	
-4	met	met	P	1	
-5	een	een	D	1	
-6	fel	fel	G	1	
-7	behangetje	behang	N	1	
-8	.	.	O	1	
+1	Ouderwetse	ouderwets	G	1	O
+2	meubels	meubel	N	1	O
+3	opgepimpt	opgepimpt	O	1	O
+4	met	met	P	1	O
+5	een	een	D	1	O
+6	fel	fel	G	1	O
+7	behangetje	behang	N	1	O
+8	.	.	O	1	O
 
-1	De	de	D	1	
-2	badkamer	badkamer	N	1	
-3	vonden	vinden	V	1	
-4	wij	wij	Q	1	
-5	vies	vies	G	1	
-6	met	met	P	1	
-7	gele	geel	G	1	
-8	en	en	C	1	
-9	oranje	oranje	G	1	
-10	naden	naad	N	1	
-11	.	.	O	1	
+1	De	de	D	1	O
+2	badkamer	badkamer	N	1	O
+3	vonden	vinden	V	1	O
+4	wij	wij	Q	1	O
+5	vies	vies	G	1	O
+6	met	met	P	1	O
+7	gele	geel	G	1	O
+8	en	en	C	1	O
+9	oranje	oranje	G	1	O
+10	naden	naad	N	1	O
+11	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	het	het	D	1	
-3	personeel	personeel	N	1	
-4	/	/	O	1	
-5	eigenaren	eigenaar	N	1	
-6	vond	vinden	V	1	
-7	ik	ik	Q	1	
-8	niet	niet	A	1	
-9	zeer	zeer	G	1	
-10	gastvriendelijk	gastvriendelijk	O	1	
-11	.	.	O	1	
+1	Ook	ook	A	1	O
+2	het	het	D	1	O
+3	personeel	personeel	N	1	O
+4	/	/	O	1	O
+5	eigenaren	eigenaar	N	1	O
+6	vond	vinden	V	1	O
+7	ik	ik	Q	1	O
+8	niet	niet	A	1	O
+9	zeer	zeer	G	1	O
+10	gastvriendelijk	gastvriendelijk	O	1	O
+11	.	.	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	niet	niet	A	1	
-4	veel	veel	A	1	
-5	betaald	betalen	V	1	
-6	,	,	O	1	
-7	dus	dus	A	1	
-8	hadden	hebben	V	1	
-9	geen	geen	D	1	
-10	hoge	hoog	G	1	
-11	verwachtingen	verwachting	N	1	
-12	maar	maar	C	1	
-13	toch	toch	A	1	
-14	vond	vinden	V	1	
-15	ik	ik	Q	1	
-16	het	het	Q	1	
-17	een	een	D	1	
-18	klein	klein	G	1	
-19	beetje	beetje	N	1	
-20	tegenvallen	tegenvallen	V	1	
-21	.	.	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	niet	niet	A	1	O
+4	veel	veel	A	1	O
+5	betaald	betalen	V	1	O
+6	,	,	O	1	O
+7	dus	dus	A	1	O
+8	hadden	hebben	V	1	O
+9	geen	geen	D	1	O
+10	hoge	hoog	G	1	O
+11	verwachtingen	verwachting	N	1	O
+12	maar	maar	C	1	O
+13	toch	toch	A	1	O
+14	vond	vinden	V	1	O
+15	ik	ik	Q	1	O
+16	het	het	Q	1	O
+17	een	een	D	1	O
+18	klein	klein	G	1	O
+19	beetje	beetje	N	1	O
+20	tegenvallen	tegenvallen	V	1	O
+21	.	.	O	1	O
 

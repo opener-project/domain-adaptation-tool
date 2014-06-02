@@ -1,43 +1,48 @@
-1	à	à	P	1	
-2	éviter	éviter	V	1	
-3	à	à	P	1	
-4	tout	tout	D	1	
-5	prix	prix	N	1	
-6	!	!	O	1	
+1	à	à	P	1	O
+2	éviter	éviter	V	1	O
+3	à	à	P	1	O
+4	tout	tout	D	1	O
+5	prix	prix	N	1	O
+6	!	!	O	1	O
 
-1	une	un	D	1	
-2	véritable	véritable	G	1	
-3	arnaque	arnaque	N	1	
-4	!	!	O	1	
-5	!	!	O	1	
-6	!	!	O	1	
+1	une	un	D	1	O
+2	véritable	véritable	G	1	O
+3	arnaque	arnaque	N	1	O
+4	!	!	O	1	O
+5	!	!	O	1	O
+6	!	!	O	1	O
 
-1	des	un	D	1	
-2	attractions	attraction	N	1	
-3	décevantes	décevant	G	1	
-4	et	et	C	1	
-5	similaires	similaire	G	1	
-6	;	;	O	1	
-7	une	un	D	1	
-8	attente	attente	N	1	
-9	indécente	indécent	G	1	
-10	(	(	O	1	
-11	plus	plus	G	1	
-12	d'	d'	P	1	
-13	une	un	D	1	
-14	heure	heure	N	1	
-15	en	en	P	1	
-16	moyenne	moyenne	N	1	
-17	,	,	O	1	
-18	alors	alors	G	1	
-19	que	que	C	1	
-20	nous	lui	Q	1	
-21	y	y	Q	1	
-22	étions	être	V	1	
-23	dernière_semaine_d_'_août	dernier_semaine_d_'_août	R	1	ne=Date
-24	et	et	C	1	
-25	un_jeudi	un_jeudi	R	1	ne=Date
-26	!	!	O	1	
-27	!	!	O	1	
-28	)	)	O	1	
+1	des	un	D	1	O
+2	attractions	attraction	N	1	O
+3	décevantes	décevant	G	1	O
+4	et	et	C	1	O
+5	similaires	similaire	G	1	O
+6	;	;	O	1	O
+7	une	un	D	1	O
+8	attente	attente	N	1	O
+9	indécente	indécent	G	1	O
+10	(	(	O	1	O
+11	plus	plus	G	1	O
+12	d'	d'	P	1	O
+13	une	un	D	1	O
+14	heure	heure	N	1	O
+15	en	en	P	1	O
+16	moyenne	moyenne	N	1	O
+17	,	,	O	1	O
+18	alors	alors	G	1	O
+19	que	que	C	1	O
+20	nous	lui	Q	1	O
+21	y	y	Q	1	O
+22	étions	être	V	1	O
+23	dernière	dernier	G	1	I-Date
+24	semaine	semaine	N	1	I-Date
+25	d	d	V	1	I-Date
+26	'	'	P	1	I-Date
+27	août	août	N	1	I-Date
+28	et	et	C	1	O
+29	un	un	D	1	I-Date
+30	jeudi	jeudi	N	1	I-Date
+31	!	!	O	1	O
+32	!	!	O	1	O
+33	)	)	O	1	O
 

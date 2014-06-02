@@ -1,114 +1,116 @@
-1	Las	Las	R	1	
-2	apariencias	apariencias	A	1	
-3	engañan	engañan	G	1	
+1	Las	Las	R	1	O
+2	apariencias	apariencias	A	1	O
+3	engañan	engañan	G	1	O
 
-1	Está	Está	R	1	
-2	situado	situado	N	1	
-3	en	en	O	1	
-4	la	la	O	1	
-5	Gran_Vía	Gran_Vía	R	1	ne=Location
-6	,	,	O	1	
-7	desde	desde	G	1	
-8	fuera	fuera	N	1	
-9	son	son	N	1	
-10	los	los	V	1	
-11	típicos	típicos	N	1	
-12	edificios	edificios	N	1	
-13	altos	alto	N	1	
-14	con	con	A	1	
-15	apartamentos	apartamentos	N	1	
-16	normales	normales	N	1	
-17	,	,	O	1	
-18	pero	pero	O	1	
-19	al	al	G	1	
-20	subir	subir	N	1	
-21	nos	nos	N	1	
-22	sorprendió	sorprendió	V	1	
-23	mucho	mucho	G	1	
-24	encontrarnos	encontrarnos	N	1	
-25	este	este	N	1	
-26	hostal	hostal	G	1	
-27	tan	tan	G	1	
-28	genial	genial	G	1	
-29	!!	!!	N	1	
+1	Está	Está	R	1	O
+2	situado	situado	N	1	O
+3	en	en	O	1	O
+4	la	la	O	1	O
+5	Gran	Gran	R	1	I-Location
+6	Vía	Vía	R	1	I-Location
+7	,	,	O	1	O
+8	desde	desde	G	1	O
+9	fuera	fuera	N	1	O
+10	son	son	N	1	O
+11	los	los	V	1	O
+12	típicos	típicos	N	1	O
+13	edificios	edificios	N	1	O
+14	altos	alto	N	1	O
+15	con	con	A	1	O
+16	apartamentos	apartamentos	N	1	O
+17	normales	normales	N	1	O
+18	,	,	O	1	O
+19	pero	pero	O	1	O
+20	al	al	G	1	O
+21	subir	subir	N	1	O
+22	nos	nos	N	1	O
+23	sorprendió	sorprendió	V	1	O
+24	mucho	mucho	G	1	O
+25	encontrarnos	encontrarnos	N	1	O
+26	este	este	N	1	O
+27	hostal	hostal	G	1	O
+28	tan	tan	G	1	O
+29	genial	genial	G	1	O
+30	!!	!!	N	1	O
 
-1	Tiene	Tiene	R	1	
-2	una	una	G	1	
-3	limpieza	limpieza	N	1	
-4	impecable	impecable	G	1	
-5	.	.	O	1	
+1	Tiene	Tiene	R	1	O
+2	una	una	G	1	O
+3	limpieza	limpieza	N	1	O
+4	impecable	impecable	G	1	O
+5	.	.	O	1	O
 
-1	La	La	R	1	
-2	decoración	decoración	V	1	
-3	de	de	P	1	
-4	las	las	N	1	
-5	habitaciones	habitaciones	N	1	
-6	es	es	V	1	
-7	genial	genial	G	1	
-8	.	.	O	1	
+1	La	La	R	1	O
+2	decoración	decoración	V	1	O
+3	de	de	P	1	O
+4	las	las	N	1	O
+5	habitaciones	habitaciones	N	1	O
+6	es	es	V	1	O
+7	genial	genial	G	1	O
+8	.	.	O	1	O
 
-1	Era	era	N	1	
-2	pequeña	pequeña	N	1	
-3	pero	pero	V	1	
-4	muy	muy	G	1	
-5	acogedora	acogedora	N	1	
-6	.	.	O	1	
+1	Era	era	N	1	O
+2	pequeña	pequeña	N	1	O
+3	pero	pero	V	1	O
+4	muy	muy	G	1	O
+5	acogedora	acogedora	N	1	O
+6	.	.	O	1	O
 
-1	Y	Y	N	1	
-2	a	a	D	1	
-3	pesar	pesar	G	1	
-4	de	de	O	1	
-5	estar	estar	O	1	
-6	en	en	O	1	
-7	la	la	O	1	
-8	Gran	gran	O	1	
-9	Vía_la	vía_la	R	1	ne=Location
-10	habitación	habitación	O	1	
-11	era	era	O	1	
-12	muy	muy	O	1	
-13	silenciosa	silenciosa	O	1	
-14	.	.	O	1	
+1	Y	Y	N	1	O
+2	a	a	D	1	O
+3	pesar	pesar	G	1	O
+4	de	de	O	1	O
+5	estar	estar	O	1	O
+6	en	en	O	1	O
+7	la	la	O	1	O
+8	Gran	gran	O	1	O
+9	Vía	vía	O	1	I-Location
+10	la	la	O	1	I-Location
+11	habitación	habitación	O	1	O
+12	era	era	O	1	O
+13	muy	muy	O	1	O
+14	silenciosa	silenciosa	O	1	O
+15	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	también	también	N	1	
-4	fue	fue	N	1	
-5	muy	muy	G	1	
-6	agradable	agradable	G	1	
-7	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	también	también	N	1	O
+4	fue	fue	N	1	O
+5	muy	muy	G	1	O
+6	agradable	agradable	G	1	O
+7	.	.	O	1	O
 
-1	De	De	R	1	
-2	lo	lo	V	1	
-3	único	único	G	1	
-4	que	que	N	1	
-5	podría	podría	N	1	
-6	quejarme	quejarme	V	1	
-7	es	es	N	1	
-8	de	de	P	1	
-9	que	que	G	1	
-10	el	el	N	1	
-11	baño	baño	N	1	
-12	estaba	estaba	O	1	
-13	tan	tan	G	1	
-14	tan	tan	G	1	
-15	perfumado	perfumado	G	1	
-16	que	que	N	1	
-17	me	me	Q	1	
-18	dolió	dolió	V	1	
-19	la	la	D	1	
-20	cabeza	cabeza	N	1	
-21	...	...	O	1	
+1	De	De	R	1	O
+2	lo	lo	V	1	O
+3	único	único	G	1	O
+4	que	que	N	1	O
+5	podría	podría	N	1	O
+6	quejarme	quejarme	V	1	O
+7	es	es	N	1	O
+8	de	de	P	1	O
+9	que	que	G	1	O
+10	el	el	N	1	O
+11	baño	baño	N	1	O
+12	estaba	estaba	O	1	O
+13	tan	tan	G	1	O
+14	tan	tan	G	1	O
+15	perfumado	perfumado	G	1	O
+16	que	que	N	1	O
+17	me	me	Q	1	O
+18	dolió	dolió	V	1	O
+19	la	la	D	1	O
+20	cabeza	cabeza	N	1	O
+21	...	...	O	1	O
 
-1	Si	Si	R	1	
-2	volvemos	volvemos	N	1	
-3	por	por	V	1	
-4	Madrid	Madrid	R	1	
-5	no	no	R	1	ne=Location
-6	dudaremos	dudaremos	N	1	
-7	en	en	P	1	
-8	volver	volver	N	1	
-9	a	a	D	1	
-10	alojarnos	alojarnos	N	1	
-11	allí	allí	O	1	
-12	.	.	O	1	
+1	Si	Si	R	1	O
+2	volvemos	volvemos	N	1	O
+3	por	por	V	1	O
+4	Madrid	Madrid	R	1	O
+5	no	no	R	1	I-Location
+6	dudaremos	dudaremos	N	1	O
+7	en	en	P	1	O
+8	volver	volver	N	1	O
+9	a	a	D	1	O
+10	alojarnos	alojarnos	N	1	O
+11	allí	allí	O	1	O
+12	.	.	O	1	O
 

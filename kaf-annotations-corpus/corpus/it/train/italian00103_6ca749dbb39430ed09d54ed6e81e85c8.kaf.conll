@@ -1,133 +1,133 @@
-1	Niente	niente	N	1	
-2	di	di	P	1	
-3	speciale	speciale	G	1	
+1	Niente	niente	N	1	O
+2	di	di	P	1	O
+3	speciale	speciale	G	1	O
 
-1	Sono	essere	V	1	
-2	sceso	scendere	V	1	
-3	in	in	P	1	
-4	questo	questo	G	1	
-5	hotel	hotel	N	1	
-6	solo	solo	G	1	
-7	di	di	P	1	
-8	passaggio	passaggio	N	1	
-9	per	per	P	1	
-10	una	uno	D	1	
-11	notte	notte	N	1	
-12	di	di	P	1	
-13	sosta	sosta	N	1	
-14	tra	tra	P	1	
-15	un	uno	D	1	
-16	volo	volo	N	1	
-17	e	e	Q	1	
-18	l’	l’	G	1	
-19	altro	altro	N	1	
-20	.	.	O	1	
+1	Sono	essere	V	1	O
+2	sceso	scendere	V	1	O
+3	in	in	P	1	O
+4	questo	questo	G	1	O
+5	hotel	hotel	N	1	O
+6	solo	solo	G	1	O
+7	di	di	P	1	O
+8	passaggio	passaggio	N	1	O
+9	per	per	P	1	O
+10	una	uno	D	1	O
+11	notte	notte	N	1	O
+12	di	di	P	1	O
+13	sosta	sosta	N	1	O
+14	tra	tra	P	1	O
+15	un	uno	D	1	O
+16	volo	volo	N	1	O
+17	e	e	Q	1	O
+18	l’	l’	G	1	O
+19	altro	altro	N	1	O
+20	.	.	O	1	O
 
-1	L’	l’	R	1	
-2	hotel	hotel	N	1	
-3	dispone	disporre	V	1	
-4	di	di	P	1	
-5	navetta	navetta	N	1	
-6	da	da	P	1	
-7	e	e	Q	1	
-8	per	per	P	1	
-9	l’	l’	R	1	
-10	aeroporto	aeroporto	N	1	
-11	molto	molto	G	1	
-12	comoda	comodo	G	1	
-13	(	(	O	1	
-14	circa	circa	P	1	
-15	20	20	G	1	
-16	min	min	R	1	
-17	)	)	O	1	
-18	.	.	O	1	
+1	L’	l’	R	1	O
+2	hotel	hotel	N	1	O
+3	dispone	disporre	V	1	O
+4	di	di	P	1	O
+5	navetta	navetta	N	1	O
+6	da	da	P	1	O
+7	e	e	Q	1	O
+8	per	per	P	1	O
+9	l’	l’	R	1	O
+10	aeroporto	aeroporto	N	1	O
+11	molto	molto	G	1	O
+12	comoda	comodo	G	1	O
+13	(	(	O	1	O
+14	circa	circa	P	1	O
+15	20	20	G	1	O
+16	min	min	R	1	O
+17	)	)	O	1	O
+18	.	.	O	1	O
 
-1	La	lo	D	1	
-2	struttura	struttura	N	1	
-3	è	essere	V	1	
-4	molto	molto	A	1	
-5	grande	grande	G	1	
-6	,	,	O	1	
-7	la	lo	D	1	
-8	hall	hall	N	1	
-9	carina	carino	G	1	
-10	e	e	Q	1	
-11	lo	lo	D	1	
-12	staff	staff	N	1	
-13	gentile	gentile	G	1	
-14	.	.	O	1	
+1	La	lo	D	1	O
+2	struttura	struttura	N	1	O
+3	è	essere	V	1	O
+4	molto	molto	A	1	O
+5	grande	grande	G	1	O
+6	,	,	O	1	O
+7	la	lo	D	1	O
+8	hall	hall	N	1	O
+9	carina	carino	G	1	O
+10	e	e	Q	1	O
+11	lo	lo	D	1	O
+12	staff	staff	N	1	O
+13	gentile	gentile	G	1	O
+14	.	.	O	1	O
 
-1	La	lo	D	1	
-2	camera	camera	N	1	
-3	era	era	N	1	
-4	grande	grande	G	1	
-5	con	con	P	1	
-6	arredi	arredo	N	1	
-7	nella	nella	P	1	
-8	media	media	N	1	
-9	.	.	O	1	
+1	La	lo	D	1	O
+2	camera	camera	N	1	O
+3	era	era	N	1	O
+4	grande	grande	G	1	O
+5	con	con	P	1	O
+6	arredi	arredo	N	1	O
+7	nella	nella	P	1	O
+8	media	media	N	1	O
+9	.	.	O	1	O
 
-1	Purtroppo	purtroppo	A	1	
-2	tutto	tutto	Q	1	
-3	era	essere	V	1	
-4	come	come	A	1	
-5	avvolto	avvolto	G	1	
-6	da	da	P	1	
-7	un	uno	D	1	
-8	alone	alone	N	1	
-9	di	di	P	1	
-10	umidità	umidita'	N	1	
-11	e	e	Q	1	
-12	da	da	P	1	
-13	odore	odore	N	1	
-14	di	di	P	1	
-15	stantio	stantio	V	1	
-16	anche	anche	Q	1	
-17	se	se	Q	1	
-18	sembrava	sembrare	V	1	
-19	tutto	tutto	A	1	
-20	pulito	pulire	V	1	
-21	.	.	O	1	
+1	Purtroppo	purtroppo	A	1	O
+2	tutto	tutto	Q	1	O
+3	era	essere	V	1	O
+4	come	come	A	1	O
+5	avvolto	avvolto	G	1	O
+6	da	da	P	1	O
+7	un	uno	D	1	O
+8	alone	alone	N	1	O
+9	di	di	P	1	O
+10	umidità	umidita'	N	1	O
+11	e	e	Q	1	O
+12	da	da	P	1	O
+13	odore	odore	N	1	O
+14	di	di	P	1	O
+15	stantio	stantio	V	1	O
+16	anche	anche	Q	1	O
+17	se	se	Q	1	O
+18	sembrava	sembrare	V	1	O
+19	tutto	tutto	A	1	O
+20	pulito	pulire	V	1	O
+21	.	.	O	1	O
 
-1	Alla	alla	P	1	
-2	reception	reception	R	1	
-3	mi	mi	Q	1	
-4	hanno	avere	V	1	
-5	organizzato	organizzare	V	1	
-6	una	uno	D	1	
-7	visita	visita	N	1	
-8	con	con	P	1	
-9	taxi	taxi	N	1	
-10	della	della	P	1	
-11	città	citta'	N	1	
-12	(	(	O	1	
-13	alla	alla	P	1	
-14	fine	fine	N	1	
-15	risultata	risultare	V	1	
-16	piuttosto	piuttosto	A	1	
-17	cara	caro	G	1	
-18	)	)	O	1	
+1	Alla	alla	P	1	O
+2	reception	reception	R	1	O
+3	mi	mi	Q	1	O
+4	hanno	avere	V	1	O
+5	organizzato	organizzare	V	1	O
+6	una	uno	D	1	O
+7	visita	visita	N	1	O
+8	con	con	P	1	O
+9	taxi	taxi	N	1	O
+10	della	della	P	1	O
+11	città	citta'	N	1	O
+12	(	(	O	1	O
+13	alla	alla	P	1	O
+14	fine	fine	N	1	O
+15	risultata	risultare	V	1	O
+16	piuttosto	piuttosto	A	1	O
+17	cara	caro	G	1	O
+18	)	)	O	1	O
 
-1	Piscina	piscina	R	1	
-2	all’	all’	N	1	
-3	aperto	aprire	V	1	
-4	e	e	Q	1	
-5	centro	centro	N	1	
-6	fitness	fitness	N	1	
-7	che	che	Q	1	
-8	però	però	V	1	
-9	non	non	A	1	
-10	ho	avere	V	1	
-11	visto	vedere	V	1	
+1	Piscina	piscina	R	1	O
+2	all’	all’	N	1	O
+3	aperto	aprire	V	1	O
+4	e	e	Q	1	O
+5	centro	centro	N	1	O
+6	fitness	fitness	N	1	O
+7	che	che	Q	1	O
+8	però	però	V	1	O
+9	non	non	A	1	O
+10	ho	avere	V	1	O
+11	visto	vedere	V	1	O
 
-1	Dubai	dubai	R	1	ne=Location
-2	offre	offrire	V	1	
-3	molto	molto	A	1	
-4	per	per	P	1	
-5	cui	cui	Q	1	
-6	se	se	Q	1	
-7	dovessi	dovere	V	1	
-8	tornare	tornare	V	1	
-9	cercherei	cercare	V	1	
-10	altro	altro	Q	1	
+1	Dubai	dubai	R	1	I-Location
+2	offre	offrire	V	1	O
+3	molto	molto	A	1	O
+4	per	per	P	1	O
+5	cui	cui	Q	1	O
+6	se	se	Q	1	O
+7	dovessi	dovere	V	1	O
+8	tornare	tornare	V	1	O
+9	cercherei	cercare	V	1	O
+10	altro	altro	Q	1	O
 

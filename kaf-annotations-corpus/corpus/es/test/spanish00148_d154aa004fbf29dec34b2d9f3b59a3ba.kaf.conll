@@ -1,46 +1,46 @@
-1	Buen	Buen	R	1	
-2	hotel	hotel	N	1	
+1	Buen	Buen	R	1	O
+2	hotel	hotel	N	1	O
 
-1	La	La	R	1	
-2	verdad	verdad	A	1	
-3	es	es	V	1	
-4	que	que	G	1	
-5	es	es	N	1	
-6	un	un	G	1	
-7	muy	muy	G	1	
-8	buen	buen	G	1	
-9	hotel	hotel	N	1	
-10	,	,	O	1	
-11	de	de	P	1	
-12	buena	buena	N	1	
-13	calidad	calidad	V	1	
-14	y	y	G	1	
-15	volvere	volvere	G	1	
-16	claramente	claramente	N	1	
-17	a	a	D	1	
-18	ese	ese	G	1	
-19	hotel	hotel	N	1	
-20	para	para	N	1	
-21	ir	ir	N	1	
-22	en	en	P	1	
-23	familia	familia	N	1	
-24	,	,	O	1	
-25	en	en	P	1	
-26	pareja	pareja	N	1	
-27	,	,	O	1	
-28	tiene	tiene	N	1	
-29	cercanos	cercanos	N	1	
-30	bocas	bocas	V	1	
-31	de	de	P	1	
-32	metro	metro	N	1	
-33	y	y	G	1	
-34	de	de	P	1	
-35	autobuses	autobuses	N	1	
-36	en	en	P	1	
-37	conclusión	conclusión	G	1	
-38	un	un	G	1	
-39	muy	muy	G	1	
-40	buen	buen	G	1	
-41	hotel	hotel	N	1	
-42	.	.	O	1	
+1	La	La	R	1	O
+2	verdad	verdad	A	1	O
+3	es	es	V	1	O
+4	que	que	G	1	O
+5	es	es	N	1	O
+6	un	un	G	1	O
+7	muy	muy	G	1	O
+8	buen	buen	G	1	O
+9	hotel	hotel	N	1	O
+10	,	,	O	1	O
+11	de	de	P	1	O
+12	buena	buena	N	1	O
+13	calidad	calidad	V	1	O
+14	y	y	G	1	O
+15	volvere	volvere	G	1	O
+16	claramente	claramente	N	1	O
+17	a	a	D	1	O
+18	ese	ese	G	1	O
+19	hotel	hotel	N	1	O
+20	para	para	N	1	O
+21	ir	ir	N	1	O
+22	en	en	P	1	O
+23	familia	familia	N	1	O
+24	,	,	O	1	O
+25	en	en	P	1	O
+26	pareja	pareja	N	1	O
+27	,	,	O	1	O
+28	tiene	tiene	N	1	O
+29	cercanos	cercanos	N	1	O
+30	bocas	bocas	V	1	O
+31	de	de	P	1	O
+32	metro	metro	N	1	O
+33	y	y	G	1	O
+34	de	de	P	1	O
+35	autobuses	autobuses	N	1	O
+36	en	en	P	1	O
+37	conclusión	conclusión	G	1	O
+38	un	un	G	1	O
+39	muy	muy	G	1	O
+40	buen	buen	G	1	O
+41	hotel	hotel	N	1	O
+42	.	.	O	1	O
 

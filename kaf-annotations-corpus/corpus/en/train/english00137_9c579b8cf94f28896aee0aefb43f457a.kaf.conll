@@ -1,137 +1,138 @@
-1	Typical	typical	G	1	
-2	French	french	G	1	
-3	hotel	hotel	N	1	
-4	·	·	O	1	
-5	small	small	G	1	
-6	,	,	O	1	
-7	grubby	grubby	G	1	
-8	but	but	C	1	
-9	charming	charming	G	1	
+1	Typical	typical	G	1	O
+2	French	french	G	1	O
+3	hotel	hotel	N	1	O
+4	·	·	O	1	O
+5	small	small	G	1	O
+6	,	,	O	1	O
+7	grubby	grubby	G	1	O
+8	but	but	C	1	O
+9	charming	charming	G	1	O
 
-1	Hotel_Massena	hotel_Massena	R	1	ne=Hotel
-2	is	be	V	1	
-3	perfectly	perfectly	A	1	
-4	located	locate	V	1	
-5	near	near	P	1	
-6	Opera	Opera	R	1	ne=Attraction
-7	in	in	P	1	
-8	Paris	Paris	R	1	ne=Location
-9	.	.	O	1	
+1	Hotel	hotel	N	1	I-Hotel
+2	Massena	Massena	R	1	I-Hotel
+3	is	be	V	1	O
+4	perfectly	perfectly	A	1	O
+5	located	locate	V	1	O
+6	near	near	P	1	O
+7	Opera	Opera	R	1	I-Attraction
+8	in	in	P	1	O
+9	Paris	Paris	R	1	I-Location
+10	.	.	O	1	O
 
-1	It	it	Q	1	
-2	is	be	V	1	
-3	a	a	D	1	
-4	small	small	G	1	
-5	hotel	hotel	N	1	
-6	which	which	O	1	
-7	one	one	N	1	
-8	can	can	O	1	
-9	easily	easily	A	1	
-10	oversee	oversee	V	1	
-11	with	with	P	1	
-12	all	all	D	1	
-13	the	the	D	1	
-14	shops	shop	N	1	
-15	around	around	A	1	
-16	.	.	O	1	
+1	It	it	Q	1	O
+2	is	be	V	1	O
+3	a	a	D	1	O
+4	small	small	G	1	O
+5	hotel	hotel	N	1	O
+6	which	which	O	1	O
+7	one	one	N	1	O
+8	can	can	O	1	O
+9	easily	easily	A	1	O
+10	oversee	oversee	V	1	O
+11	with	with	P	1	O
+12	all	all	D	1	O
+13	the	the	D	1	O
+14	shops	shop	N	1	O
+15	around	around	A	1	O
+16	.	.	O	1	O
 
-1	The	the	D	1	
-2	street	street	N	1	
-3	was	be	V	1	
-4	very	very	A	1	
-5	alive	alive	G	1	
-6	even	even	A	1	
-7	in	in	P	1	
-8	the	the	D	1	
-9	evening	evening	N	1	
-10	hours	hour	N	1	
-11	.	.	O	1	
+1	The	the	D	1	O
+2	street	street	N	1	O
+3	was	be	V	1	O
+4	very	very	A	1	O
+5	alive	alive	G	1	O
+6	even	even	A	1	O
+7	in	in	P	1	O
+8	the	the	D	1	O
+9	evening	evening	N	1	O
+10	hours	hour	N	1	O
+11	.	.	O	1	O
 
-1	However	however	A	1	
-2	,	,	O	1	
-3	the	the	D	1	
-4	windows	window	N	1	
-5	held	hold	V	1	
-6	almost	almost	A	1	
-7	all	all	D	1	
-8	noise	noise	N	1	
-9	away	away	A	1	
-10	which	which	O	1	
-11	made	make	V	1	
-12	it	it	Q	1	
-13	easy	easy	G	1	
-14	to	to	P	1	
-15	sleep	sleep	V	1	
-16	in	in	P	1	
-17	the	the	D	1	
-18	hotel	hotel	N	1	
-19	.	.	O	1	
+1	However	however	A	1	O
+2	,	,	O	1	O
+3	the	the	D	1	O
+4	windows	window	N	1	O
+5	held	hold	V	1	O
+6	almost	almost	A	1	O
+7	all	all	D	1	O
+8	noise	noise	N	1	O
+9	away	away	A	1	O
+10	which	which	O	1	O
+11	made	make	V	1	O
+12	it	it	Q	1	O
+13	easy	easy	G	1	O
+14	to	to	P	1	O
+15	sleep	sleep	V	1	O
+16	in	in	P	1	O
+17	the	the	D	1	O
+18	hotel	hotel	N	1	O
+19	.	.	O	1	O
 
-1	In	in	P	1	
-2	the	the	D	1	
-3	morning	morning	N	1	
-4	the	the	D	1	
-5	hotel	hotel	N	1	
-6	provided	provide	V	1	
-7	a	a	D	1	
-8	good	good	G	1	
-9	breakfast	breakfast	N	1	
-10	with	with	P	1	
-11	fresh	fresh	G	1	
-12	juices	juice	N	1	
-13	and	and	C	1	
-14	typical	typical	G	1	
-15	croissants	croissant	N	1	
-16	.	.	O	1	
+1	In	in	P	1	O
+2	the	the	D	1	O
+3	morning	morning	N	1	O
+4	the	the	D	1	O
+5	hotel	hotel	N	1	O
+6	provided	provide	V	1	O
+7	a	a	D	1	O
+8	good	good	G	1	O
+9	breakfast	breakfast	N	1	O
+10	with	with	P	1	O
+11	fresh	fresh	G	1	O
+12	juices	juice	N	1	O
+13	and	and	C	1	O
+14	typical	typical	G	1	O
+15	croissants	croissant	N	1	O
+16	.	.	O	1	O
 
-1	The	the	D	1	
-2	room	room	N	1	
-3	was	be	V	1	
-4	small	small	G	1	
-5	but	but	C	1	
-6	provided	provided	G	1	
-7	everything	everything	N	1	
-8	one	one	O	1	
-9	needs	needs	V	1	
-10	but	but	C	1	
-11	also	also	A	1	
-12	nothing	nothing	N	1	
-13	extra	extra	G	1	
-14	.	.	O	1	
+1	The	the	D	1	O
+2	room	room	N	1	O
+3	was	be	V	1	O
+4	small	small	G	1	O
+5	but	but	C	1	O
+6	provided	provided	G	1	O
+7	everything	everything	N	1	O
+8	one	one	O	1	O
+9	needs	needs	V	1	O
+10	but	but	C	1	O
+11	also	also	A	1	O
+12	nothing	nothing	N	1	O
+13	extra	extra	G	1	O
+14	.	.	O	1	O
 
-1	The	the	D	1	
-2	halls	hall	N	1	
-3	are	be	V	1	
-4	fancy	fancy	G	1	
-5	with	with	P	1	
-6	darker	darker	G	1	
-7	walls	wall	N	1	
-8	.	.	O	1	
+1	The	the	D	1	O
+2	halls	hall	N	1	O
+3	are	be	V	1	O
+4	fancy	fancy	G	1	O
+5	with	with	P	1	O
+6	darker	darker	G	1	O
+7	walls	wall	N	1	O
+8	.	.	O	1	O
 
-1	Probably	probably	A	1	
-2	,	,	O	1	
-3	price	price	N	1	
-4	is	be	V	1	
-5	OK	okay	O	1	
-6	because	because	P	1	
-7	it	it	Q	1	
-8	is	be	V	1	
-9	Paris	Paris	R	1	ne=Location
-10	.	.	O	1	
+1	Probably	probably	A	1	O
+2	,	,	O	1	O
+3	price	price	N	1	O
+4	is	be	V	1	O
+5	OK	okay	O	1	O
+6	because	because	P	1	O
+7	it	it	Q	1	O
+8	is	be	V	1	O
+9	Paris	Paris	R	1	I-Location
+10	.	.	O	1	O
 
-1	For	for	P	1	
-2	other	other	G	1	
-3	destinations	destination	N	1	
-4	,	,	O	1	
-5	I	i	Q	1	
-6	would	would	O	1	
-7	think	think	V	1	
-8	money	money	N	1	
-9	for	for	P	1	
-10	value	value	N	1	
-11	was	be	V	1	
-12	a	a	D	1	
-13	little	little	G	1	
-14	low	low	G	1	
-15	.	.	O	1	
+1	For	for	P	1	O
+2	other	other	G	1	O
+3	destinations	destination	N	1	O
+4	,	,	O	1	O
+5	I	i	Q	1	O
+6	would	would	O	1	O
+7	think	think	V	1	O
+8	money	money	N	1	O
+9	for	for	P	1	O
+10	value	value	N	1	O
+11	was	be	V	1	O
+12	a	a	D	1	O
+13	little	little	G	1	O
+14	low	low	G	1	O
+15	.	.	O	1	O
 

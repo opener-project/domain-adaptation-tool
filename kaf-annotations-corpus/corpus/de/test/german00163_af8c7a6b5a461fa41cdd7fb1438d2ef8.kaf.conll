@@ -1,120 +1,121 @@
-1	Verbesserungswürdig	verbesserungswürdig	G	1	
+1	Verbesserungswürdig	verbesserungswürdig	G	1	O
 
-1	Zum	zu	P	1	
-2	Auftakt	Auftakt	N	1	
-3	meiner	mein	Q	1	
-4	Florida	Florida	R	1	ne=Location
-5	Rundreise	Rundreise	N	1	
-6	habe	haben	V	1	
-7	ich	ich	Q	1	
-8	eine	eine	D	1	
-9	Nacht	Nacht	N	1	
-10	in	in	P	1	
-11	diesem	dies	Q	1	
-12	Hotel	Hotel	N	1	
-13	verbracht	verbringen	V	1	
-14	.	.	O	1	
+1	Zum	zu	P	1	O
+2	Auftakt	Auftakt	N	1	O
+3	meiner	mein	Q	1	O
+4	Florida	Florida	R	1	I-Location
+5	Rundreise	Rundreise	N	1	O
+6	habe	haben	V	1	O
+7	ich	ich	Q	1	O
+8	eine	eine	D	1	O
+9	Nacht	Nacht	N	1	O
+10	in	in	P	1	O
+11	diesem	dies	Q	1	O
+12	Hotel	Hotel	N	1	O
+13	verbracht	verbringen	V	1	O
+14	.	.	O	1	O
 
-1	Vom	von	P	1	
-2	Flughafen_Miami	Flughafen_Miami	R	1	ne=POI
-3	ist	sein	V	1	
-4	das	die	D	1	
-5	Hotel	Hotel	N	1	
-6	allerdings	allerdings	A	1	
-7	doch	doch	A	1	
-8	noch	noch	A	1	
-9	ein	eine	D	1	
-10	Stück	Stück	N	1	
-11	entfernt	entfernen	V	1	
-12	.	.	O	1	
+1	Vom	von	P	1	O
+2	Flughafen	Flughafen	N	1	I-POI
+3	Miami	Miami	R	1	I-POI
+4	ist	sein	V	1	O
+5	das	die	D	1	O
+6	Hotel	Hotel	N	1	O
+7	allerdings	allerdings	A	1	O
+8	doch	doch	A	1	O
+9	noch	noch	A	1	O
+10	ein	eine	D	1	O
+11	Stück	Stück	N	1	O
+12	entfernt	entfernen	V	1	O
+13	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Check	Check	N	1	
-3	·	·	O	1	
-4	In	in	P	1	
-5	verlief	verlaufen	V	1	
-6	ebenso	ebenso	A	1	
-7	wie	wie	C	1	
-8	der	die	D	1	
-9	Check	Check	N	1	
-10	·	·	O	1	
-11	Out	Out	O	1	
-12	zügig	zügig	G	1	
-13	,	,	O	1	
-14	allerdings	allerdings	A	1	
-15	hatte	haben	V	1	
-16	man	man	Q	1	
-17	nicht	nicht	O	1	
-18	den	die	D	1	
-19	Eindruck	Eindruck	N	1	
-20	,	,	O	1	
-21	wirklich	wirklich	G	1	
-22	willkommen	willkommen	G	1	
-23	zu	zu	O	1	
-24	sein	sein	V	1	
-25	.	.	O	1	
+1	Der	die	D	1	O
+2	Check	Check	N	1	O
+3	·	·	O	1	O
+4	In	in	P	1	O
+5	verlief	verlaufen	V	1	O
+6	ebenso	ebenso	A	1	O
+7	wie	wie	C	1	O
+8	der	die	D	1	O
+9	Check	Check	N	1	O
+10	·	·	O	1	O
+11	Out	Out	O	1	O
+12	zügig	zügig	G	1	O
+13	,	,	O	1	O
+14	allerdings	allerdings	A	1	O
+15	hatte	haben	V	1	O
+16	man	man	Q	1	O
+17	nicht	nicht	O	1	O
+18	den	die	D	1	O
+19	Eindruck	Eindruck	N	1	O
+20	,	,	O	1	O
+21	wirklich	wirklich	G	1	O
+22	willkommen	willkommen	G	1	O
+23	zu	zu	O	1	O
+24	sein	sein	V	1	O
+25	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	war	sein	V	1	
-4	schon	schon	A	1	
-5	etwas	etwas	A	1	
-6	älter	alt	G	1	
-7	und	und	C	1	
-8	die	die	D	1	
-9	Zimmertür	Zimmertür	N	1	
-10	hatte	haben	V	1	
-11	einen	eine	D	1	
-12	recht	recht	G	1	
-13	großen	groß	G	1	
-14	Schlitz	Schlitz	N	1	
-15	zum	zu	P	1	
-16	Flur	Flur	N	1	
-17	,	,	O	1	
-18	obwohl	obwohl	C	1	
-19	die	die	D	1	
-20	Tür	Türe	N	1	
-21	voll	voll	G	1	
-22	geschlossen	schließen	V	1	
-23	war	sein	V	1	
-24	.	.	O	1	
+1	Das	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	war	sein	V	1	O
+4	schon	schon	A	1	O
+5	etwas	etwas	A	1	O
+6	älter	alt	G	1	O
+7	und	und	C	1	O
+8	die	die	D	1	O
+9	Zimmertür	Zimmertür	N	1	O
+10	hatte	haben	V	1	O
+11	einen	eine	D	1	O
+12	recht	recht	G	1	O
+13	großen	groß	G	1	O
+14	Schlitz	Schlitz	N	1	O
+15	zum	zu	P	1	O
+16	Flur	Flur	N	1	O
+17	,	,	O	1	O
+18	obwohl	obwohl	C	1	O
+19	die	die	D	1	O
+20	Tür	Türe	N	1	O
+21	voll	voll	G	1	O
+22	geschlossen	schließen	V	1	O
+23	war	sein	V	1	O
+24	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	am	an	P	1	
-4	nächsten	nah	G	1	
-5	Morgen	Morgen	N	1	
-6	war	sein	V	1	
-7	typisch	typisch	G	1	
-8	amerikanisch	amerikanisch	G	1	
-9	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	am	an	P	1	O
+4	nächsten	nah	G	1	O
+5	Morgen	Morgen	N	1	O
+6	war	sein	V	1	O
+7	typisch	typisch	G	1	O
+8	amerikanisch	amerikanisch	G	1	O
+9	.	.	O	1	O
 
-1	Alles	alle	Q	1	
-2	in	in	P	1	
-3	allem	alle	Q	1	
-4	habe	haben	V	1	
-5	ich	ich	Q	1	
-6	mich	ich	Q	1	
-7	in	in	P	1	
-8	diesem	dies	Q	1	
-9	Hotel	Hotel	N	1	
-10	nicht	nicht	O	1	
-11	wohl	wohl	A	1	
-12	gefühlt	fühlen	V	1	
-13	,	,	O	1	
-14	zum	zu	P	1	
-15	einen	eine	Q	1	
-16	aufgrund	aufgrund	P	1	
-17	der	die	D	1	
-18	älteren	alt	G	1	
-19	und	und	C	1	
-20	teilweise	teilweise	G	1	
-21	abgenutzten	abgenutzt	G	1	
-22	Zimmerausstattung	Zimmerausstattung	O	1	
-23	als	als	C	1	
-24	auch	auch	A	1	
-25	aufgrund	aufgrund	P	1	
-26	des	die	D	1	
-27	Serviceniveaus	Serviceniveaus	O	1	
-28	.	.	O	1	
+1	Alles	alle	Q	1	O
+2	in	in	P	1	O
+3	allem	alle	Q	1	O
+4	habe	haben	V	1	O
+5	ich	ich	Q	1	O
+6	mich	ich	Q	1	O
+7	in	in	P	1	O
+8	diesem	dies	Q	1	O
+9	Hotel	Hotel	N	1	O
+10	nicht	nicht	O	1	O
+11	wohl	wohl	A	1	O
+12	gefühlt	fühlen	V	1	O
+13	,	,	O	1	O
+14	zum	zu	P	1	O
+15	einen	eine	Q	1	O
+16	aufgrund	aufgrund	P	1	O
+17	der	die	D	1	O
+18	älteren	alt	G	1	O
+19	und	und	C	1	O
+20	teilweise	teilweise	G	1	O
+21	abgenutzten	abgenutzt	G	1	O
+22	Zimmerausstattung	Zimmerausstattung	O	1	O
+23	als	als	C	1	O
+24	auch	auch	A	1	O
+25	aufgrund	aufgrund	P	1	O
+26	des	die	D	1	O
+27	Serviceniveaus	Serviceniveaus	O	1	O
+28	.	.	O	1	O
 

@@ -1,56 +1,56 @@
-1	Recomendable	recomendable	G	1	
-2	hotel	hotel	N	1	
-3	en	en	P	1	
-4	el	el	N	1	
-5	centro	centro	N	1	
+1	Recomendable	recomendable	G	1	O
+2	hotel	hotel	N	1	O
+3	en	en	P	1	O
+4	el	el	N	1	O
+5	centro	centro	N	1	O
 
-1	Lo	Lo	R	1	
-2	mejor	mejor	N	1	
-3	es	es	V	1	
-4	su	su	G	1	
-5	situación	situación	N	1	
-6	,	,	O	1	
-7	cerca	cerca	O	1	
-8	de	de	O	1	
-9	todo	todo	O	1	
-10	lo	lo	O	1	
-11	que	que	O	1	
-12	hay	hay	O	1	
-13	que	que	O	1	
-14	ver	ver	A	1	
-15	en	en	P	1	
-16	Madrid	Madrid	R	1	
-17	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	mejor	mejor	N	1	O
+3	es	es	V	1	O
+4	su	su	G	1	O
+5	situación	situación	N	1	O
+6	,	,	O	1	O
+7	cerca	cerca	O	1	O
+8	de	de	O	1	O
+9	todo	todo	O	1	O
+10	lo	lo	O	1	O
+11	que	que	O	1	O
+12	hay	hay	O	1	O
+13	que	que	O	1	O
+14	ver	ver	A	1	O
+15	en	en	P	1	O
+16	Madrid	Madrid	R	1	O
+17	.	.	O	1	O
 
-1	La	La	R	1	
-2	habitación	habitación	N	1	
-3	amplia	amplia	N	1	
-4	,	,	O	1	
-5	la	la	D	1	
-6	recepción	recepción	N	1	
-7	un	un	G	1	
-8	poco	poco	N	1	
-9	justa	justa	N	1	
-10	,	,	O	1	
-11	pero	pero	O	1	
-12	una	una	G	1	
-13	buena	buena	N	1	
-14	relación	relación	N	1	
-15	calidad	calidad	G	1	
-16	/	/	N	1	
-17	precio	precio	N	1	
-18	.	.	O	1	
+1	La	La	R	1	O
+2	habitación	habitación	N	1	O
+3	amplia	amplia	N	1	O
+4	,	,	O	1	O
+5	la	la	D	1	O
+6	recepción	recepción	N	1	O
+7	un	un	G	1	O
+8	poco	poco	N	1	O
+9	justa	justa	N	1	O
+10	,	,	O	1	O
+11	pero	pero	O	1	O
+12	una	una	G	1	O
+13	buena	buena	N	1	O
+14	relación	relación	N	1	O
+15	calidad	calidad	G	1	O
+16	/	/	N	1	O
+17	precio	precio	N	1	O
+18	.	.	O	1	O
 
-1	En	En	R	1	
-2	la	la	D	1	
-3	línea	línea	O	1	
-4	de	de	O	1	
-5	todos	todos	O	1	
-6	los	los	O	1	
-7	demás	demás	O	1	
-8	establecimientos	establecimientos	O	1	
-9	de	de	O	1	
-10	la	la	O	1	
-11	cadena	cadena	N	1	
-12	.	.	O	1	
+1	En	En	R	1	O
+2	la	la	D	1	O
+3	línea	línea	O	1	O
+4	de	de	O	1	O
+5	todos	todos	O	1	O
+6	los	los	O	1	O
+7	demás	demás	O	1	O
+8	establecimientos	establecimientos	O	1	O
+9	de	de	O	1	O
+10	la	la	O	1	O
+11	cadena	cadena	N	1	O
+12	.	.	O	1	O
 

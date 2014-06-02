@@ -1,147 +1,148 @@
-1	A	A	P	1	
-2	REFAIRE	REFAIRE	N	1	
-3	!!!!	!!!!	P	1	
+1	A	A	P	1	O
+2	REFAIRE	REFAIRE	N	1	O
+3	!!!!	!!!!	P	1	O
 
-1	Nous	lui	Q	1	
-2	venons	venir	V	1	
-3	de	de	P	1	
-4	passer	passer	V	1	
-5	une	un	D	1	
-6	semaine	semaine	N	1	
-7	dans	dans	P	1	
-8	ce	ce	D	1	
-9	camping	camping	N	1	
-10	via	via	P	1	
+1	Nous	lui	Q	1	O
+2	venons	venir	V	1	O
+3	de	de	P	1	O
+4	passer	passer	V	1	O
+5	une	un	D	1	O
+6	semaine	semaine	N	1	O
+7	dans	dans	P	1	O
+8	ce	ce	D	1	O
+9	camping	camping	N	1	O
+10	via	via	P	1	O
 
-1	un	un	D	1	
-2	Tour	tour	N	1	
-3	Opérateur	opérateur	N	1	
-4	et	et	C	1	
-5	très	très	G	1	
-6	bon	bon	G	1	
-7	rapport	rapport	N	1	
-8	qualité	qualité	N	1	
-9	prix	prix	N	1	
-10	.	.	O	1	
+1	un	un	D	1	O
+2	Tour	tour	N	1	O
+3	Opérateur	opérateur	N	1	O
+4	et	et	C	1	O
+5	très	très	G	1	O
+6	bon	bon	G	1	O
+7	rapport	rapport	N	1	O
+8	qualité	qualité	N	1	O
+9	prix	prix	N	1	O
+10	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	étions	être	V	1	
-3	dans	dans	P	1	
-4	une	un	D	1	
-5	tente	tente	N	1	
-6	équipée	équiper	G	1	
-7	et	et	C	1	
-8	avec	avec	P	1	
-9	vue	vue	N	1	
-10	sur	sur	P	1	
-11	la	le	D	1	
-12	mer	mer	N	1	
-13	et	et	C	1	
-14	la_Ciotat	le_Ciotat	R	1	ne=Location
-15	!	!	O	1	
+1	Nous	lui	Q	1	O
+2	étions	être	V	1	O
+3	dans	dans	P	1	O
+4	une	un	D	1	O
+5	tente	tente	N	1	O
+6	équipée	équiper	G	1	O
+7	et	et	C	1	O
+8	avec	avec	P	1	O
+9	vue	vue	N	1	O
+10	sur	sur	P	1	O
+11	la	le	D	1	O
+12	mer	mer	N	1	O
+13	et	et	C	1	O
+14	la	le	D	1	I-Location
+15	Ciotat	Ciotat	N	1	I-Location
+16	!	!	O	1	O
 
-1	Pas	Pas	G	1	
-2	très	très	G	1	
-3	loin	loin	G	1	
-4	des	un	D	1	
-5	sanitaires	sanitaire	N	1	
-6	(	(	O	1	
-7	en	en	P	1	
-8	très	très	G	1	
-9	bon	bon	G	1	
-10	état	état	N	1	
-11	et	et	C	1	
-12	nettoyés	nettoyer	G	1	
-13	une	un	D	1	
-14	à	à	P	1	
-15	deux	deux	D	1	
-16	fois	foi	N	1	
-17	par	par	P	1	
-18	jour	jour	N	1	
-19	!	!	O	1	
+1	Pas	Pas	G	1	O
+2	très	très	G	1	O
+3	loin	loin	G	1	O
+4	des	un	D	1	O
+5	sanitaires	sanitaire	N	1	O
+6	(	(	O	1	O
+7	en	en	P	1	O
+8	très	très	G	1	O
+9	bon	bon	G	1	O
+10	état	état	N	1	O
+11	et	et	C	1	O
+12	nettoyés	nettoyer	G	1	O
+13	une	un	D	1	O
+14	à	à	P	1	O
+15	deux	deux	D	1	O
+16	fois	foi	N	1	O
+17	par	par	P	1	O
+18	jour	jour	N	1	O
+19	!	!	O	1	O
 
-1	)	)	O	1	
-2	Equipe	Equipe	N	1	
-3	à	à	P	1	
-4	votre	son	D	1	
-5	service	service	N	1	
-6	et	et	C	1	
-7	la	le	D	1	
-8	personne	personne	N	1	
-9	du	du	P	1	
-10	Tour	tour	N	1	
-11	Opérateur	opérateur	N	1	
-12	fait	faire	V	1	
-13	en	en	P	1	
-14	sorte	sorte	N	1	
-15	que	que	C	1	
-16	vous	lui	Q	1	
-17	n'	n'	G	1	
-18	ayez	avoir	V	1	
-19	qu'	qu'	G	1	
-20	à	à	P	1	
-21	vous	lui	Q	1	
-22	reposer	reposer	V	1	
-23	(	(	O	1	
-24	très	très	G	1	
-25	cool	cool	V	1	
-26	sur	sur	P	1	
-27	les	le	D	1	
-28	horaires	horaire	N	1	
-29	de	de	P	1	
-30	départ	départ	N	1	
-31	!	!	O	1	
+1	)	)	O	1	O
+2	Equipe	Equipe	N	1	O
+3	à	à	P	1	O
+4	votre	son	D	1	O
+5	service	service	N	1	O
+6	et	et	C	1	O
+7	la	le	D	1	O
+8	personne	personne	N	1	O
+9	du	du	P	1	O
+10	Tour	tour	N	1	O
+11	Opérateur	opérateur	N	1	O
+12	fait	faire	V	1	O
+13	en	en	P	1	O
+14	sorte	sorte	N	1	O
+15	que	que	C	1	O
+16	vous	lui	Q	1	O
+17	n'	n'	G	1	O
+18	ayez	avoir	V	1	O
+19	qu'	qu'	G	1	O
+20	à	à	P	1	O
+21	vous	lui	Q	1	O
+22	reposer	reposer	V	1	O
+23	(	(	O	1	O
+24	très	très	G	1	O
+25	cool	cool	V	1	O
+26	sur	sur	P	1	O
+27	les	le	D	1	O
+28	horaires	horaire	N	1	O
+29	de	de	P	1	O
+30	départ	départ	N	1	O
+31	!	!	O	1	O
 
-1	)	)	O	1	
+1	)	)	O	1	O
 
-1	La	le	D	1	
-2	piscine	piscine	N	1	
-3	bien	bien	G	1	
-4	,	,	O	1	
-5	peut	pouvoir	V	1	
-6	être	être	V	1	
-7	un	un	D	1	
-8	peu	peu	G	1	
-9	petite	petit	G	1	
-10	en	en	P	1	
-11	pleine	plein	G	1	
-12	saison	saison	N	1	
-13	mais	mais	C	1	
-14	voila	voiler	V	1	
-15	!	!	O	1	
+1	La	le	D	1	O
+2	piscine	piscine	N	1	O
+3	bien	bien	G	1	O
+4	,	,	O	1	O
+5	peut	pouvoir	V	1	O
+6	être	être	V	1	O
+7	un	un	D	1	O
+8	peu	peu	G	1	O
+9	petite	petit	G	1	O
+10	en	en	P	1	O
+11	pleine	plein	G	1	O
+12	saison	saison	N	1	O
+13	mais	mais	C	1	O
+14	voila	voiler	V	1	O
+15	!	!	O	1	O
 
-1	Pour	Pour	P	1	
-2	le	le	D	1	
-3	bruit	bruit	N	1	
-4	:	:	O	1	
-5	ligne	ligne	N	1	
-6	de	de	P	1	
-7	chemin	chemin	N	1	
-8	de	de	P	1	
-9	fer	fer	N	1	
-10	à	à	P	1	
-11	proximité	proximité	N	1	
-12	mais	mais	C	1	
-13	nous	lui	Q	1	
-14	ne	ne	G	1	
-15	l'	l'	Q	1	
-16	entendions	entendions	N	1	
-17	pas	pas	G	1	
-18	,	,	O	1	
-19	juste	juste	G	1	
-20	un	un	D	1	
-21	peu	peu	G	1	
-22	le	le	D	1	
-23	bruit	bruit	N	1	
-24	de	de	P	1	
-25	la	le	D	1	
-26	route	route	N	1	
-27	,	,	O	1	
-28	mais	mais	C	1	
-29	vous	lui	Q	1	
-30	etes	etes	N	1	
-31	sur	sur	P	1	
-32	la	le	D	1	
-33	côte	côte	N	1	
-34	!	!	O	1	
+1	Pour	Pour	P	1	O
+2	le	le	D	1	O
+3	bruit	bruit	N	1	O
+4	:	:	O	1	O
+5	ligne	ligne	N	1	O
+6	de	de	P	1	O
+7	chemin	chemin	N	1	O
+8	de	de	P	1	O
+9	fer	fer	N	1	O
+10	à	à	P	1	O
+11	proximité	proximité	N	1	O
+12	mais	mais	C	1	O
+13	nous	lui	Q	1	O
+14	ne	ne	G	1	O
+15	l'	l'	Q	1	O
+16	entendions	entendions	N	1	O
+17	pas	pas	G	1	O
+18	,	,	O	1	O
+19	juste	juste	G	1	O
+20	un	un	D	1	O
+21	peu	peu	G	1	O
+22	le	le	D	1	O
+23	bruit	bruit	N	1	O
+24	de	de	P	1	O
+25	la	le	D	1	O
+26	route	route	N	1	O
+27	,	,	O	1	O
+28	mais	mais	C	1	O
+29	vous	lui	Q	1	O
+30	etes	etes	N	1	O
+31	sur	sur	P	1	O
+32	la	le	D	1	O
+33	côte	côte	N	1	O
+34	!	!	O	1	O
 

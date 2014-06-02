@@ -1,123 +1,127 @@
-1	Für	für	P	1	
-2	Wien	Wien	R	1	ne=Location
-3	nicht	nicht	O	1	
-4	würdig	würdig	G	1	
+1	Für	für	P	1	O
+2	Wien	Wien	R	1	I-Location
+3	nicht	nicht	O	1	O
+4	würdig	würdig	G	1	O
 
-1	Ein	eine	D	1	
-2	sehr	sehr	A	1	
-3	hektisches	hektisch	G	1	
-4	Frühstück	Frühstück	N	1	
-5	mit	mit	P	1	
-6	Fabrikbrötchen	Fabrikbrötchen	O	1	
-7	und	und	C	1	
-8	Wasserkaffee	Wasserkaffee	O	1	
-9	welches	welche	Q	1	
-10	in	in	P	1	
-11	keinster	keinster	O	1	
-12	Weise	Weise	N	1	
-13	dem	die	D	1	
-14	Österreichischem	österreichisch	G	1	
-15	Flair	Flair	N	1	
-16	nahe	nahe	V	1	
-17	kommt	kommen	V	1	
-18	.	.	O	1	
+1	Ein	eine	D	1	O
+2	sehr	sehr	A	1	O
+3	hektisches	hektisch	G	1	O
+4	Frühstück	Frühstück	N	1	O
+5	mit	mit	P	1	O
+6	Fabrikbrötchen	Fabrikbrötchen	O	1	O
+7	und	und	C	1	O
+8	Wasserkaffee	Wasserkaffee	O	1	O
+9	welches	welche	Q	1	O
+10	in	in	P	1	O
+11	keinster	keinster	O	1	O
+12	Weise	Weise	N	1	O
+13	dem	die	D	1	O
+14	Österreichischem	österreichisch	G	1	O
+15	Flair	Flair	N	1	O
+16	nahe	nahe	V	1	O
+17	kommt	kommen	V	1	O
+18	.	.	O	1	O
 
-1	Betten	Bett|Betten	N	1	
-2	so	so	A	1	
-3	hart	hart	G	1	
-4	,	,	O	1	
-5	daß	dass	C	1	
-6	es	es	Q	1	
-7	schon	schon	A	1	
-8	fast	fast	A	1	
-9	einer	eine	D	1	
-10	Körperverletzung	Körperverletzung	N	1	
-11	nahe	nahe	V	1	
-12	kommt	kommen	V	1	
-13	.	.	O	1	
+1	Betten	Bett|Betten	N	1	O
+2	so	so	A	1	O
+3	hart	hart	G	1	O
+4	,	,	O	1	O
+5	daß	dass	C	1	O
+6	es	es	Q	1	O
+7	schon	schon	A	1	O
+8	fast	fast	A	1	O
+9	einer	eine	D	1	O
+10	Körperverletzung	Körperverletzung	N	1	O
+11	nahe	nahe	V	1	O
+12	kommt	kommen	V	1	O
+13	.	.	O	1	O
 
-1	Bin	sein	V	1	
-2	froh	froh	G	1	
-3	,	,	O	1	
-4	daß	dass	C	1	
-5	wir	wir	Q	1	
-6	nur	nur	A	1	
-7	2	2	O	1	
-8	Tage	Tag	N	1	
-9	gebucht	buchen	V	1	
-10	hatten	haben	V	1	
-11	,	,	O	1	
-12	länger	lang	G	1	
-13	wäre	sein	V	1	
-14	meinem	mein	Q	1	
-15	Körper	Körper	N	1	
-16	nicht	nicht	O	1	
-17	zuzumuten	zumuten	V	1	
-18	gewesen	sein	V	1	
-19	.	.	O	1	
+1	Bin	sein	V	1	O
+2	froh	froh	G	1	O
+3	,	,	O	1	O
+4	daß	dass	C	1	O
+5	wir	wir	Q	1	O
+6	nur	nur	A	1	O
+7	2	2	O	1	O
+8	Tage	Tag	N	1	O
+9	gebucht	buchen	V	1	O
+10	hatten	haben	V	1	O
+11	,	,	O	1	O
+12	länger	lang	G	1	O
+13	wäre	sein	V	1	O
+14	meinem	mein	Q	1	O
+15	Körper	Körper	N	1	O
+16	nicht	nicht	O	1	O
+17	zuzumuten	zumuten	V	1	O
+18	gewesen	sein	V	1	O
+19	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	ist	sein	V	1	
-3	wohl	wohl	A	1	
-4	darauf	darauf	Q	1	
-5	aus	aus	V	1	
-6	,	,	O	1	
-7	daß	dass	C	1	
-8	man	man	Q	1	
-9	nur	nur	A	1	
-10	1	1	O	1	
-11	Nacht	Nacht	N	1	
-12	da	da	A	1	
-13	verbringt	verbringen	V	1	
-14	.	.	O	1	
+1	Man	man	Q	1	O
+2	ist	sein	V	1	O
+3	wohl	wohl	A	1	O
+4	darauf	darauf	Q	1	O
+5	aus	aus	V	1	O
+6	,	,	O	1	O
+7	daß	dass	C	1	O
+8	man	man	Q	1	O
+9	nur	nur	A	1	O
+10	1	1	O	1	O
+11	Nacht	Nacht	N	1	O
+12	da	da	A	1	O
+13	verbringt	verbringen	V	1	O
+14	.	.	O	1	O
 
-1	Die_Dame_an_der_Rezeption	die_Dame_an_die_Rezeption	R	1	ne=Person
-2	machte	machen	V	1	
-3	auf	auf	P	1	
-4	mich	ich	Q	1	
-5	einen	eine	D	1	
-6	extrem	extrem	G	1	
-7	dummen	dumm	G	1	
-8	Eindruck	Eindruck	N	1	
-9	,	,	O	1	
-10	nachdem	nachdem	C	1	
-11	sie	sie	Q	1	
-12	mir	ich	Q	1	
-13	mehrfach	mehrfach	G	1	
-14	versuchte	versuchen	V	1	
-15	rechts	rechts	A	1	
-16	mit	mit	P	1	
-17	links	links	A	1	
-18	zu	zu	O	1	
-19	erklären	erklären	V	1	
-20	.	.	O	1	
+1	Die	die	D	1	I-Person
+2	Dame	Dame	N	1	I-Person
+3	an	an	P	1	I-Person
+4	der	die	D	1	I-Person
+5	Rezeption	Rezeption	N	1	I-Person
+6	machte	machen	V	1	O
+7	auf	auf	P	1	O
+8	mich	ich	Q	1	O
+9	einen	eine	D	1	O
+10	extrem	extrem	G	1	O
+11	dummen	dumm	G	1	O
+12	Eindruck	Eindruck	N	1	O
+13	,	,	O	1	O
+14	nachdem	nachdem	C	1	O
+15	sie	sie	Q	1	O
+16	mir	ich	Q	1	O
+17	mehrfach	mehrfach	G	1	O
+18	versuchte	versuchen	V	1	O
+19	rechts	rechts	A	1	O
+20	mit	mit	P	1	O
+21	links	links	A	1	O
+22	zu	zu	O	1	O
+23	erklären	erklären	V	1	O
+24	.	.	O	1	O
 
-1	Ich	ich	Q	1	
-2	weiß	wissen	V	1	
-3	sehr	sehr	A	1	
-4	wohl	wohl	V	1	
-5	wann	wann	Q	1	
-6	ich	ich	Q	1	
-7	rechts	rechts	A	1	
-8	mit	mit	P	1	
-9	dem	die	D	1	
-10	PKW	Pkw	N	1	
-11	abbiegen	abbiegen	V	1	
-12	muß	müssen	V	1	
-13	und	und	C	1	
-14	wann	wann	Q	1	
-15	links	links	A	1	
-16	!	!	O	1	
+1	Ich	ich	Q	1	O
+2	weiß	wissen	V	1	O
+3	sehr	sehr	A	1	O
+4	wohl	wohl	V	1	O
+5	wann	wann	Q	1	O
+6	ich	ich	Q	1	O
+7	rechts	rechts	A	1	O
+8	mit	mit	P	1	O
+9	dem	die	D	1	O
+10	PKW	Pkw	N	1	O
+11	abbiegen	abbiegen	V	1	O
+12	muß	müssen	V	1	O
+13	und	und	C	1	O
+14	wann	wann	Q	1	O
+15	links	links	A	1	O
+16	!	!	O	1	O
 
-1	Nie	nie	A	1	
-2	mehr	mehr	Q	1	
-3	Motel	Motel	N	1	
-4	One	One	O	1	
-5	,	,	O	1	
-6	nie	nie	A	1	
-7	mehr	mehr	A	1	
-8	!	!	O	1	
-9	!	!	O	1	
-10	!	!	O	1	
-11	!	!	O	1	
+1	Nie	nie	A	1	O
+2	mehr	mehr	Q	1	O
+3	Motel	Motel	N	1	O
+4	One	One	O	1	O
+5	,	,	O	1	O
+6	nie	nie	A	1	O
+7	mehr	mehr	A	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
 

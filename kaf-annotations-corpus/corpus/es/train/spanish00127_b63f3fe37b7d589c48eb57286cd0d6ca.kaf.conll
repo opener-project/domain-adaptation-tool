@@ -1,61 +1,61 @@
-1	Excelente	Excelente	R	1	
-2	hotel	hotel	N	1	
+1	Excelente	Excelente	R	1	O
+2	hotel	hotel	N	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	bien	bien	N	1	
-5	situado	situado	N	1	
-6	,	,	O	1	
-7	cerca	cerca	O	1	
-8	de	de	O	1	
-9	la	la	O	1	
-10	Plaza	Plaza	R	1	
-11	de	de	P	1	
-12	España	España	R	1	
-13	,	,	O	1	
-14	con	con	G	1	
-15	muchas	muchas	N	1	
-16	tiendas	tiendas	N	1	
-17	y	y	G	1	
-18	bares	bares	N	1	
-19	cerca	cerca	N	1	
-20	.	.	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	bien	bien	N	1	O
+5	situado	situado	N	1	O
+6	,	,	O	1	O
+7	cerca	cerca	O	1	O
+8	de	de	O	1	O
+9	la	la	O	1	O
+10	Plaza	Plaza	R	1	O
+11	de	de	P	1	O
+12	España	España	R	1	O
+13	,	,	O	1	O
+14	con	con	G	1	O
+15	muchas	muchas	N	1	O
+16	tiendas	tiendas	N	1	O
+17	y	y	G	1	O
+18	bares	bares	N	1	O
+19	cerca	cerca	N	1	O
+20	.	.	O	1	O
 
-1	Bien	Bien	R	1	
-2	comunicado	comunicado	N	1	
-3	.	.	O	1	
+1	Bien	Bien	R	1	O
+2	comunicado	comunicado	N	1	O
+3	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	amable	amable	G	1	
-4	y	y	G	1	
-5	eficiente	eficiente	N	1	
-6	,	,	O	1	
-7	con	con	O	1	
-8	ganas	ganas	O	1	
-9	de	de	O	1	
-10	ayudar.	ayudar.	O	1	
-11	muchos	muchos	O	1	
-12	detalles	detalles	O	1	
-13	en	en	O	1	
-14	la	la	O	1	
-15	habitacion	habitacion	O	1	
-16	(	(	O	1	
-17	cafetera	cafetera	N	1	
-18	,	,	O	1	
-19	minibar	minibar	G	1	
-20	gratito	gratito	N	1	
-21	etc.	etc.	N	1	
-22	)	)	O	1	
-23	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	amable	amable	G	1	O
+4	y	y	G	1	O
+5	eficiente	eficiente	N	1	O
+6	,	,	O	1	O
+7	con	con	O	1	O
+8	ganas	ganas	O	1	O
+9	de	de	O	1	O
+10	ayudar.	ayudar.	O	1	O
+11	muchos	muchos	O	1	O
+12	detalles	detalles	O	1	O
+13	en	en	O	1	O
+14	la	la	O	1	O
+15	habitacion	habitacion	O	1	O
+16	(	(	O	1	O
+17	cafetera	cafetera	N	1	O
+18	,	,	O	1	O
+19	minibar	minibar	G	1	O
+20	gratito	gratito	N	1	O
+21	etc.	etc.	N	1	O
+22	)	)	O	1	O
+23	.	.	O	1	O
 
-1	Limpieza	Limpieza	R	1	
-2	muy	muy	G	1	
-3	buena	buena	N	1	
-4	,	,	O	1	
-5	y	y	G	1	
-6	buen	buen	N	1	
-7	desayuno	desayuno	N	1	
-8	.	.	O	1	
+1	Limpieza	Limpieza	R	1	O
+2	muy	muy	G	1	O
+3	buena	buena	N	1	O
+4	,	,	O	1	O
+5	y	y	G	1	O
+6	buen	buen	N	1	O
+7	desayuno	desayuno	N	1	O
+8	.	.	O	1	O
 

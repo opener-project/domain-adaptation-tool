@@ -1,169 +1,169 @@
-1	Zoals	zoals	C	1	
-2	ik	ik	Q	1	
-3	het	het	Q	1	
-4	gelezen	lezen	V	1	
-5	had	hebben	V	1	
-6	.	.	O	1	
-7	.	.	O	1	
+1	Zoals	zoals	C	1	O
+2	ik	ik	Q	1	O
+3	het	het	Q	1	O
+4	gelezen	lezen	V	1	O
+5	had	hebben	V	1	O
+6	.	.	O	1	O
+7	.	.	O	1	O
 
-1	Toen	toen	C	1	
-2	ik	ik	Q	1	
-3	al	al	A	1	
-4	de	de	D	1	
-5	beoordelingen	beoordeling	N	1	
-6	had	hebben	V	1	
-7	gelezen	lezen	V	1	
-8	was	wezen|zijn	V	1	
-9	ik	ik	Q	1	
-10	bang	bang	G	1	
-11	.	.	O	1	
+1	Toen	toen	C	1	O
+2	ik	ik	Q	1	O
+3	al	al	A	1	O
+4	de	de	D	1	O
+5	beoordelingen	beoordeling	N	1	O
+6	had	hebben	V	1	O
+7	gelezen	lezen	V	1	O
+8	was	wezen|zijn	V	1	O
+9	ik	ik	Q	1	O
+10	bang	bang	G	1	O
+11	.	.	O	1	O
 
-1	Eens	eens	A	1	
-2	aangekomen	aankomen	V	1	
-3	in	in	P	1	
-4	Het	Het	O	1	
-5	"	"	O	1	
-6	hotel	hotel	N	1	
-7	"	"	O	1	
-8	bleek	blijken	V	1	
-9	het	het	Q	1	
-10	niet	niet	A	1	
-11	echt	echt	A	1	
-12	een	een	D	1	
-13	hotel	hotel	N	1	
-14	te	te	O	1	
-15	zijn	zijn	V	1	
-16	maar	maar	C	1	
-17	eerder	eerder	G	1	
-18	een	een	D	1	
-19	jeugdherberg	jeugdherberg	N	1	
-20	.	.	O	1	
+1	Eens	eens	A	1	O
+2	aangekomen	aankomen	V	1	O
+3	in	in	P	1	O
+4	Het	Het	O	1	O
+5	"	"	O	1	O
+6	hotel	hotel	N	1	O
+7	"	"	O	1	O
+8	bleek	blijken	V	1	O
+9	het	het	Q	1	O
+10	niet	niet	A	1	O
+11	echt	echt	A	1	O
+12	een	een	D	1	O
+13	hotel	hotel	N	1	O
+14	te	te	O	1	O
+15	zijn	zijn	V	1	O
+16	maar	maar	C	1	O
+17	eerder	eerder	G	1	O
+18	een	een	D	1	O
+19	jeugdherberg	jeugdherberg	N	1	O
+20	.	.	O	1	O
 
-1	Niets	niets	Q	1	
-2	kwam	komen	V	1	
-3	overeen	overeen	A	1	
-4	met	met	P	1	
-5	de	de	D	1	
-6	dingen	ding	N	1	
-7	die	die	Q	1	
-8	je	je	Q	1	
-9	kon	kunnen	V	1	
-10	terug	terug	A	1	
-11	vinden	vinden	V	1	
-12	op	op	P	1	
-13	de	de	D	1	
-14	bookingsite	bookingsite	O	1	
-15	.	.	O	1	
+1	Niets	niets	Q	1	O
+2	kwam	komen	V	1	O
+3	overeen	overeen	A	1	O
+4	met	met	P	1	O
+5	de	de	D	1	O
+6	dingen	ding	N	1	O
+7	die	die	Q	1	O
+8	je	je	Q	1	O
+9	kon	kunnen	V	1	O
+10	terug	terug	A	1	O
+11	vinden	vinden	V	1	O
+12	op	op	P	1	O
+13	de	de	D	1	O
+14	bookingsite	bookingsite	O	1	O
+15	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	waren	wezen|zijn	V	1	
-4	op	op	P	1	
-5	het	het	D	1	
-6	randje	randje	N	1	
-7	van	van	P	1	
-8	proper	proper	G	1	
-9	,	,	O	1	
-10	het	het	Q	1	
-11	was	wezen|zijn	V	1	
-12	leefbaar	leefbaar	G	1	
-13	maar	maar	C	1	
-14	het	het	Q	1	
-15	kon	kunnen	V	1	
-16	beter	beter	A	1	
-17	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	waren	wezen|zijn	V	1	O
+4	op	op	P	1	O
+5	het	het	D	1	O
+6	randje	randje	N	1	O
+7	van	van	P	1	O
+8	proper	proper	G	1	O
+9	,	,	O	1	O
+10	het	het	Q	1	O
+11	was	wezen|zijn	V	1	O
+12	leefbaar	leefbaar	G	1	O
+13	maar	maar	C	1	O
+14	het	het	Q	1	O
+15	kon	kunnen	V	1	O
+16	beter	beter	A	1	O
+17	.	.	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	is	zijn	V	1	
-4	er	er	Q	1	
-5	vriendelijk	vriendelijk	G	1	
-6	maar	maar	C	1	
-7	de	de	D	1	
-8	kok	kok	N	1	
-9	zou	zullen	V	1	
-10	toch	toch	A	1	
-11	een	een	D	1	
-12	beetje	beetje	N	1	
-13	meer	meer	A	1	
-14	liefde	liefde	N	1	
-15	in	in	P	1	
-16	zijn	zijn	D	1	
-17	eten	eten	N	1	
-18	mogen	mogen	V	1	
-19	steken	steken	V	1	
-20	.	.	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	is	zijn	V	1	O
+4	er	er	Q	1	O
+5	vriendelijk	vriendelijk	G	1	O
+6	maar	maar	C	1	O
+7	de	de	D	1	O
+8	kok	kok	N	1	O
+9	zou	zullen	V	1	O
+10	toch	toch	A	1	O
+11	een	een	D	1	O
+12	beetje	beetje	N	1	O
+13	meer	meer	A	1	O
+14	liefde	liefde	N	1	O
+15	in	in	P	1	O
+16	zijn	zijn	D	1	O
+17	eten	eten	N	1	O
+18	mogen	mogen	V	1	O
+19	steken	steken	V	1	O
+20	.	.	O	1	O
 
-1	Het	het	D	1	
-2	eten	eten	N	1	
-3	was	wezen|zijn	V	1	
-4	eetbaar	eetbaar	G	1	
-5	maar	maar	C	1	
-6	niet	niet	A	1	
-7	meer	meer	A	1	
-8	.	.	O	1	
+1	Het	het	D	1	O
+2	eten	eten	N	1	O
+3	was	wezen|zijn	V	1	O
+4	eetbaar	eetbaar	G	1	O
+5	maar	maar	C	1	O
+6	niet	niet	A	1	O
+7	meer	meer	A	1	O
+8	.	.	O	1	O
 
-1	Blijkbaar	blijkbaar	A	1	
-2	was	wezen|zijn	V	1	
-3	het	het	Q	1	
-4	in	in	P	1	
-5	de	de	D	1	
-6	zomer	zomer	N	1	
-7	van	van	P	1	
-8	2012	@card@	O	1	
-9	een	een	D	1	
-10	andere	ander	G	1	
-11	kok	kok	N	1	
-12	.	.	O	1	
+1	Blijkbaar	blijkbaar	A	1	O
+2	was	wezen|zijn	V	1	O
+3	het	het	Q	1	O
+4	in	in	P	1	O
+5	de	de	D	1	O
+6	zomer	zomer	N	1	O
+7	van	van	P	1	O
+8	2012	@card@	O	1	O
+9	een	een	D	1	O
+10	andere	ander	G	1	O
+11	kok	kok	N	1	O
+12	.	.	O	1	O
 
-1	We	we	Q	1	
-2	waren	wezen|zijn	V	1	
-3	met	met	P	1	
-4	een	een	D	1	
-5	grote	groot	G	1	
-6	bende	bende	N	1	
-7	en	en	C	1	
-8	we	we	Q	1	
-9	hebben	hebben	V	1	
-10	er	er	Q	1	
-11	het	het	D	1	
-12	beste	beste	N	1	
-13	van	van	P	1	
-14	gemaakt	maken	V	1	
-15	en	en	C	1	
-16	ons	ons	Q	1	
-17	geamuseerd	amuseren	V	1	
-18	.	.	O	1	
+1	We	we	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	met	met	P	1	O
+4	een	een	D	1	O
+5	grote	groot	G	1	O
+6	bende	bende	N	1	O
+7	en	en	C	1	O
+8	we	we	Q	1	O
+9	hebben	hebben	V	1	O
+10	er	er	Q	1	O
+11	het	het	D	1	O
+12	beste	beste	N	1	O
+13	van	van	P	1	O
+14	gemaakt	maken	V	1	O
+15	en	en	C	1	O
+16	ons	ons	Q	1	O
+17	geamuseerd	amuseren	V	1	O
+18	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	voor	voor	P	1	
-3	kinderen	kind	N	1	
-4	is	zijn	V	1	
-5	er	er	Q	1	
-6	geen	geen	D	1	
-7	kinderbed	kinderbed	O	1	
-8	voorzien	voorzien	V	1	
-9	en	en	C	1	
-10	is	zijn	V	1	
-11	het	het	Q	1	
-12	dus	dus	A	1	
-13	niet	niet	A	1	
-14	ideaal	ideaal	G	1	
-15	.	.	O	1	
+1	Ook	ook	A	1	O
+2	voor	voor	P	1	O
+3	kinderen	kind	N	1	O
+4	is	zijn	V	1	O
+5	er	er	Q	1	O
+6	geen	geen	D	1	O
+7	kinderbed	kinderbed	O	1	O
+8	voorzien	voorzien	V	1	O
+9	en	en	C	1	O
+10	is	zijn	V	1	O
+11	het	het	Q	1	O
+12	dus	dus	A	1	O
+13	niet	niet	A	1	O
+14	ideaal	ideaal	G	1	O
+15	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	is	zijn	V	1	
-3	zeker	zeker	G	1	
-4	niet	niet	A	1	
-5	voor	voor	P	1	
-6	herhaling	herhaling	N	1	
-7	vatbaar	vatbaar	G	1	
-8	!	!	O	1	
-9	!	!	O	1	
+1	Het	het	Q	1	O
+2	is	zijn	V	1	O
+3	zeker	zeker	G	1	O
+4	niet	niet	A	1	O
+5	voor	voor	P	1	O
+6	herhaling	herhaling	N	1	O
+7	vatbaar	vatbaar	G	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
 
-1	Wel	wel	A	1	
-2	een	een	D	1	
-3	goed	goed	G	1	
-4	skiegebied	skiegebied	O	1	
-5	!	!	O	1	
+1	Wel	wel	A	1	O
+2	een	een	D	1	O
+3	goed	goed	G	1	O
+4	skiegebied	skiegebied	O	1	O
+5	!	!	O	1	O
 

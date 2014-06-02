@@ -1,114 +1,114 @@
-1	ASSEZ	ASSEZ	P	1	
-2	DECUS	DECUS	N	1	
-3	DE	DE	P	1	
-4	CE	CE	N	1	
-5	CAMPING	camping	N	1	
+1	ASSEZ	ASSEZ	P	1	O
+2	DECUS	DECUS	N	1	O
+3	DE	DE	P	1	O
+4	CE	CE	N	1	O
+5	CAMPING	camping	N	1	O
 
-1	Mobilhomes	Mobilhomes	N	1	
-2	collés	collés	P	1	
-3	les	le	D	1	
-4	uns	uns	P	1	
-5	aux	aux	P	1	
-6	autres	autres	D	1	
-7	avec	avec	P	1	
-8	emplacement	emplacement	N	1	
-9	pour	pour	P	1	
-10	voiture	voiture	N	1	
-11	impossible	impossible	G	1	
-12	pour	pour	P	1	
-13	nous	lui	Q	1	
-14	.	.	O	1	
+1	Mobilhomes	Mobilhomes	N	1	O
+2	collés	collés	P	1	O
+3	les	le	D	1	O
+4	uns	uns	P	1	O
+5	aux	aux	P	1	O
+6	autres	autres	D	1	O
+7	avec	avec	P	1	O
+8	emplacement	emplacement	N	1	O
+9	pour	pour	P	1	O
+10	voiture	voiture	N	1	O
+11	impossible	impossible	G	1	O
+12	pour	pour	P	1	O
+13	nous	lui	Q	1	O
+14	.	.	O	1	O
 
-1	Bac	bac	N	1	
-2	de	de	P	1	
-3	douche	douche	N	1	
-4	cassé	casser	G	1	
-5	,	,	O	1	
-6	malgré	malgré	P	1	
-7	l'	le	D	1	
-8	intervention	intervention	N	1	
-9	de	de	P	1	
-10	Michel	Michel	R	1	ne=Person
-11	(	(	O	1	
-12	technicien	technicien	N	1	
-13	charmant	charmant	G	1	
-14	)	)	O	1	
-15	il	il	Q	1	
-16	était	être	V	1	
-17	fort	fort	G	1	
-18	périlleux	périlleux	G	1	
-19	de	de	P	1	
-20	prendre	prendre	V	1	
-21	une	un	D	1	
-22	douche	douche	N	1	
-23	.	.	O	1	
+1	Bac	bac	N	1	O
+2	de	de	P	1	O
+3	douche	douche	N	1	O
+4	cassé	casser	G	1	O
+5	,	,	O	1	O
+6	malgré	malgré	P	1	O
+7	l'	le	D	1	O
+8	intervention	intervention	N	1	O
+9	de	de	P	1	O
+10	Michel	Michel	R	1	I-Person
+11	(	(	O	1	O
+12	technicien	technicien	N	1	O
+13	charmant	charmant	G	1	O
+14	)	)	O	1	O
+15	il	il	Q	1	O
+16	était	être	V	1	O
+17	fort	fort	G	1	O
+18	périlleux	périlleux	G	1	O
+19	de	de	P	1	O
+20	prendre	prendre	V	1	O
+21	une	un	D	1	O
+22	douche	douche	N	1	O
+23	.	.	O	1	O
 
-1	Port	port	N	1	
-2	du	du	D	1	
-3	short	short	N	1	
-4	de	de	P	1	
-5	bain	bain	N	1	
-6	et	et	C	1	
-7	poussettes	poussette	N	1	
-8	autorisées	autoriser	V	1	
-9	à	à	P	1	
-10	la	le	D	1	
-11	piscine	piscine	N	1	
-12	(	(	O	1	
-13	donc	donc	G	1	
-14	pb	pb	D	1	
-15	d'	d'	P	1	
-16	hygiène	hygiène	N	1	
-17	)	)	O	1	
-18	,	,	O	1	
-19	manque	manquer	V	1	
-20	de	de	P	1	
-21	transat	transat	N	1	
-22	(	(	O	1	
-23	il	il	Q	1	
-24	faut	faillir	V	1	
-25	arriver	arriver	V	1	
-26	de	de	P	1	
-27	bonne	bon	G	1	
-28	heure	heure	N	1	
-29	l'	le	D	1	
-30	aprem	aprem	N	1	
-31	)	)	O	1	
+1	Port	port	N	1	O
+2	du	du	D	1	O
+3	short	short	N	1	O
+4	de	de	P	1	O
+5	bain	bain	N	1	O
+6	et	et	C	1	O
+7	poussettes	poussette	N	1	O
+8	autorisées	autoriser	V	1	O
+9	à	à	P	1	O
+10	la	le	D	1	O
+11	piscine	piscine	N	1	O
+12	(	(	O	1	O
+13	donc	donc	G	1	O
+14	pb	pb	D	1	O
+15	d'	d'	P	1	O
+16	hygiène	hygiène	N	1	O
+17	)	)	O	1	O
+18	,	,	O	1	O
+19	manque	manquer	V	1	O
+20	de	de	P	1	O
+21	transat	transat	N	1	O
+22	(	(	O	1	O
+23	il	il	Q	1	O
+24	faut	faillir	V	1	O
+25	arriver	arriver	V	1	O
+26	de	de	P	1	O
+27	bonne	bon	G	1	O
+28	heure	heure	N	1	O
+29	l'	le	D	1	O
+30	aprem	aprem	N	1	O
+31	)	)	O	1	O
 
-1	Notre	son	D	1	
-2	mobilhome	mobilhome	N	1	
-3	était	être	V	1	
-4	situé	situer	V	1	
-5	proche	proche	G	1	
-6	de	de	P	1	
-7	la	le	D	1	
-8	voix	voix	N	1	
-9	ferrée	ferrer	G	1	
-10	donc	donc	G	1	
-11	passage	passage	N	1	
-12	des	des	P	1	
-13	trains	train	N	1	
-14	régulièrement	régulièrement	G	1	
-15	entre	entre	P	1	
-16	5h	5h	R	1	ne=Time
-17	et	et	C	1	
-18	23h	23h	R	1	ne=Time
+1	Notre	son	D	1	O
+2	mobilhome	mobilhome	N	1	O
+3	était	être	V	1	O
+4	situé	situer	V	1	O
+5	proche	proche	G	1	O
+6	de	de	P	1	O
+7	la	le	D	1	O
+8	voix	voix	N	1	O
+9	ferrée	ferrer	G	1	O
+10	donc	donc	G	1	O
+11	passage	passage	N	1	O
+12	des	des	P	1	O
+13	trains	train	N	1	O
+14	régulièrement	régulièrement	G	1	O
+15	entre	entre	P	1	O
+16	5h	5h	R	1	I-Time
+17	et	et	C	1	O
+18	23h	23h	R	1	I-Time
 
-1	Animations	animation	N	1	
-2	très	très	G	1	
-3	sympa	sympa	G	1	
-4	à	à	P	1	
-5	la	le	D	1	
-6	piscine	piscine	N	1	
-7	et	et	C	1	
-8	au	au	P	1	
-9	club	club	N	1	
-10	enfant	enfant	G	1	
-11	.	.	O	1	
+1	Animations	animation	N	1	O
+2	très	très	G	1	O
+3	sympa	sympa	G	1	O
+4	à	à	P	1	O
+5	la	le	D	1	O
+6	piscine	piscine	N	1	O
+7	et	et	C	1	O
+8	au	au	P	1	O
+9	club	club	N	1	O
+10	enfant	enfant	G	1	O
+11	.	.	O	1	O
 
-1	Personnel	personnel	N	1	
-2	Homair	Homair	R	1	ne=Person
-3	très	très	G	1	
-4	sympa	sympa	G	1	
-5	.	.	O	1	
+1	Personnel	personnel	N	1	O
+2	Homair	Homair	R	1	I-Person
+3	très	très	G	1	O
+4	sympa	sympa	G	1	O
+5	.	.	O	1	O
 

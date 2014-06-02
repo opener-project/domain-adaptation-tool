@@ -1,50 +1,50 @@
-1	Même	même	G	1	
-2	par	par	P	1	
-3	temps	temps	N	1	
-4	de	de	P	1	
-5	pluie	pluie	N	1	
-6	toujours	toujours	G	1	
-7	joyeux	joyeux	P	1	
+1	Même	même	G	1	O
+2	par	par	P	1	O
+3	temps	temps	N	1	O
+4	de	de	P	1	O
+5	pluie	pluie	N	1	O
+6	toujours	toujours	G	1	O
+7	joyeux	joyeux	P	1	O
 
-1	l'	le	D	1	
-2	htel	htel	N	1	
-3	a	avoir	V	1	
-4	6etages	6etages	D	1	
-5	mais	mais	C	1	
-6	trés	trés	D	1	
-7	silencieu	silencieu	N	1	
-8	,	,	O	1	
-9	moquette	moquetter	V	1	
-10	dans	dans	P	1	
-11	les	le	D	1	
-12	couloirs	couloir	N	1	
-13	,	,	O	1	
-14	aucun	aucun	D	1	
-15	bruit	bruit	N	1	
-16	de	de	P	1	
-17	valises	valise	N	1	
-18	ni	ni	C	1	
-19	de	de	P	1	
-20	pas.la	pas.la	D	1	
-21	propreté	propreté	N	1	
-22	trés	trés	G	1	
-23	satisfaisante	satisfaisant	G	1	
-24	trés	trés	N	1	
-25	bon	bon	G	1	
-26	buffet	buffet	N	1	
-27	pour	pour	P	1	
-28	le	le	D	1	
-29	petit	petit	G	1	
-30	dej	déjeuner	N	1	
-31	et	et	C	1	
-32	a	avoir	V	1	
-33	toute	tout	G	1	
-34	heure	heure	N	1	
-35	il	il	Q	1	
-36	peuvent	pouvoir	V	1	
-37	vous	lui	Q	1	
-38	servire	servire	Q	1	
-39	un	un	D	1	
-40	encas	encas	N	1	
-41	.	.	O	1	
+1	l'	le	D	1	O
+2	htel	htel	N	1	O
+3	a	avoir	V	1	O
+4	6etages	6etages	D	1	O
+5	mais	mais	C	1	O
+6	trés	trés	D	1	O
+7	silencieu	silencieu	N	1	O
+8	,	,	O	1	O
+9	moquette	moquetter	V	1	O
+10	dans	dans	P	1	O
+11	les	le	D	1	O
+12	couloirs	couloir	N	1	O
+13	,	,	O	1	O
+14	aucun	aucun	D	1	O
+15	bruit	bruit	N	1	O
+16	de	de	P	1	O
+17	valises	valise	N	1	O
+18	ni	ni	C	1	O
+19	de	de	P	1	O
+20	pas.la	pas.la	D	1	O
+21	propreté	propreté	N	1	O
+22	trés	trés	G	1	O
+23	satisfaisante	satisfaisant	G	1	O
+24	trés	trés	N	1	O
+25	bon	bon	G	1	O
+26	buffet	buffet	N	1	O
+27	pour	pour	P	1	O
+28	le	le	D	1	O
+29	petit	petit	G	1	O
+30	dej	déjeuner	N	1	O
+31	et	et	C	1	O
+32	a	avoir	V	1	O
+33	toute	tout	G	1	O
+34	heure	heure	N	1	O
+35	il	il	Q	1	O
+36	peuvent	pouvoir	V	1	O
+37	vous	lui	Q	1	O
+38	servire	servire	Q	1	O
+39	un	un	D	1	O
+40	encas	encas	N	1	O
+41	.	.	O	1	O
 

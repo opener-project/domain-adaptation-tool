@@ -1,122 +1,122 @@
-1	Hotel	Hotel	N	1	
-2	super	super	G	1	
-3	und	und	C	1	
-4	komfortabel	komfortabel	G	1	
-5	,	,	O	1	
-6	schlechte	schlecht	G	1	
-7	Lage	Lage	N	1	
+1	Hotel	Hotel	N	1	O
+2	super	super	G	1	O
+3	und	und	C	1	O
+4	komfortabel	komfortabel	G	1	O
+5	,	,	O	1	O
+6	schlechte	schlecht	G	1	O
+7	Lage	Lage	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	einem	eine	D	1	
-5	Rundkomplex	Rundkomplex	O	1	
-6	integriert	integrieren	V	1	
-7	und	und	C	1	
-8	verfügt	verfügen	V	1	
-9	über	über	P	1	
-10	10	10	O	1	
-11	Etagen	Etage	N	1	
-12	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	einem	eine	D	1	O
+5	Rundkomplex	Rundkomplex	O	1	O
+6	integriert	integrieren	V	1	O
+7	und	und	C	1	O
+8	verfügt	verfügen	V	1	O
+9	über	über	P	1	O
+10	10	10	O	1	O
+11	Etagen	Etage	N	1	O
+12	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Eingang	Eingang	N	1	
-3	,	,	O	1	
-4	die	die	D	1	
-5	Rezeption	Rezeption	N	1	
-6	und	und	C	1	
-7	der	die	D	1	
-8	angrenzende	angrenzend	G	1	
-9	Gastromiebereich	Gastromiebereich	O	1	
-10	wirken	wirken	V	1	
-11	freundlich	freundlich	G	1	
-12	.	.	O	1	
+1	Der	die	D	1	O
+2	Eingang	Eingang	N	1	O
+3	,	,	O	1	O
+4	die	die	D	1	O
+5	Rezeption	Rezeption	N	1	O
+6	und	und	C	1	O
+7	der	die	D	1	O
+8	angrenzende	angrenzend	G	1	O
+9	Gastromiebereich	Gastromiebereich	O	1	O
+10	wirken	wirken	V	1	O
+11	freundlich	freundlich	G	1	O
+12	.	.	O	1	O
 
-1	Alle	alle	Q	1	
-2	Bereiche	Bereich	N	1	
-3	des	die	D	1	
-4	Hotels	Hotel	N	1	
-5	sind	sein	V	1	
-6	sauber	sauber	G	1	
-7	und	und	C	1	
-8	hergerichtet	herrichten	V	1	
-9	.	.	O	1	
+1	Alle	alle	Q	1	O
+2	Bereiche	Bereich	N	1	O
+3	des	die	D	1	O
+4	Hotels	Hotel	N	1	O
+5	sind	sein	V	1	O
+6	sauber	sauber	G	1	O
+7	und	und	C	1	O
+8	hergerichtet	herrichten	V	1	O
+9	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hauptkliente	Hauptkliente	O	1	
-3	der	die	D	1	
-4	Hotelkette	Hotelkette	N	1	
-5	sind	sein	V	1	
-6	Geschäftsreisende	Geschäftsreisende	N	1	
-7	.	.	O	1	
+1	Das	die	D	1	O
+2	Hauptkliente	Hauptkliente	O	1	O
+3	der	die	D	1	O
+4	Hotelkette	Hotelkette	N	1	O
+5	sind	sein	V	1	O
+6	Geschäftsreisende	Geschäftsreisende	N	1	O
+7	.	.	O	1	O
 
-1	Dementsprechend	dementsprechend	G	1	
-2	ist	sein	V	1	
-3	eine	eine	D	1	
-4	Verpflegung	Verpflegung	N	1	
-5	nicht	nicht	O	1	
-6	eingeschlossen	einschließen	V	1	
-7	.	.	O	1	
+1	Dementsprechend	dementsprechend	G	1	O
+2	ist	sein	V	1	O
+3	eine	eine	D	1	O
+4	Verpflegung	Verpflegung	N	1	O
+5	nicht	nicht	O	1	O
+6	eingeschlossen	einschließen	V	1	O
+7	.	.	O	1	O
 
-1	Zur	zu	P	1	
-2	Zimmerausstattung	Zimmerausstattung	O	1	
-3	zählte	zählen	V	1	
-4	jedoch	jedoch	A	1	
-5	ein	eine	D	1	
-6	Mini	mini	G	1	
-7	·	·	O	1	
-8	Kühlschrank	Kühlschrank	N	1	
-9	,	,	O	1	
-10	Mikrowelle	Mikrowelle	N	1	
-11	und	und	C	1	
-12	Wasserkocher	Wasserkocher	N	1	
-13	.	.	O	1	
+1	Zur	zu	P	1	O
+2	Zimmerausstattung	Zimmerausstattung	O	1	O
+3	zählte	zählen	V	1	O
+4	jedoch	jedoch	A	1	O
+5	ein	eine	D	1	O
+6	Mini	mini	G	1	O
+7	·	·	O	1	O
+8	Kühlschrank	Kühlschrank	N	1	O
+9	,	,	O	1	O
+10	Mikrowelle	Mikrowelle	N	1	O
+11	und	und	C	1	O
+12	Wasserkocher	Wasserkocher	N	1	O
+13	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	waren	sein	V	1	
-3	jedoch	jedoch	A	1	
-4	auch	auch	A	1	
-5	einige	einige	Q	1	
-6	Touristen	Tourist	N	1	
-7	aus	aus	P	1	
-8	dem	die	D	1	
-9	europäischen	europäisch	G	1	
-10	Ausland	Ausland	N	1	
-11	vertreten	vertreten	V	1	
-12	,	,	O	1	
-13	sowie	sowie	C	1	
-14	Familien	Familie	N	1	
-15	mit	mit	P	1	
-16	Kindern	Kind	N	1	
-17	.	.	O	1	
+1	Es	es	Q	1	O
+2	waren	sein	V	1	O
+3	jedoch	jedoch	A	1	O
+4	auch	auch	A	1	O
+5	einige	einige	Q	1	O
+6	Touristen	Tourist	N	1	O
+7	aus	aus	P	1	O
+8	dem	die	D	1	O
+9	europäischen	europäisch	G	1	O
+10	Ausland	Ausland	N	1	O
+11	vertreten	vertreten	V	1	O
+12	,	,	O	1	O
+13	sowie	sowie	C	1	O
+14	Familien	Familie	N	1	O
+15	mit	mit	P	1	O
+16	Kindern	Kind	N	1	O
+17	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	sehr	sehr	A	1	
-5	komfortabel	komfortabel	G	1	
-6	ausgestattet	ausstatten	V	1	
-7	und	und	C	1	
-8	sicher	sicher	G	1	
-9	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	komfortabel	komfortabel	G	1	O
+6	ausgestattet	ausstatten	V	1	O
+7	und	und	C	1	O
+8	sicher	sicher	G	1	O
+9	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Rezeption	Rezeption	N	1	
-3	ist	sein	V	1	
-4	24	24	O	1	
-5	Stunden	Stunde|Stunden	N	1	
-6	besetzt	besetzen	V	1	
-7	und	und	C	1	
-8	in	in	P	1	
-9	den	die	D	1	
-10	Abendstunden	Abendstunde	N	1	
-11	wird	werden	V	1	
-12	die	die	D	1	
-13	Eingangstür	Eingangstür	N	1	
-14	nur	nur	A	1	
-15	noch	noch	A	1	
-16	für	für	P	1	
-17	Hotelgäste	Hotelgast	N	1	
-18	geöffnet	öffnen	V	1	
-19	.	.	O	1	
+1	Die	die	D	1	O
+2	Rezeption	Rezeption	N	1	O
+3	ist	sein	V	1	O
+4	24	24	O	1	O
+5	Stunden	Stunde|Stunden	N	1	O
+6	besetzt	besetzen	V	1	O
+7	und	und	C	1	O
+8	in	in	P	1	O
+9	den	die	D	1	O
+10	Abendstunden	Abendstunde	N	1	O
+11	wird	werden	V	1	O
+12	die	die	D	1	O
+13	Eingangstür	Eingangstür	N	1	O
+14	nur	nur	A	1	O
+15	noch	noch	A	1	O
+16	für	für	P	1	O
+17	Hotelgäste	Hotelgast	N	1	O
+18	geöffnet	öffnen	V	1	O
+19	.	.	O	1	O
 

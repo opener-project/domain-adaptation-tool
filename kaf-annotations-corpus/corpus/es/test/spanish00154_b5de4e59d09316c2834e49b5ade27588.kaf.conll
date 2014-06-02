@@ -1,138 +1,140 @@
-1	Hotel	Hotel	R	1	
-2	antiguo	antiguo	N	1	
-3	,	,	O	1	
-4	desayuno	desayuno	N	1	
-5	malo	malo	N	1	
-6	,	,	O	1	
-7	limpieza	limpieza	N	1	
-8	mal	mal	G	1	
+1	Hotel	Hotel	R	1	O
+2	antiguo	antiguo	N	1	O
+3	,	,	O	1	O
+4	desayuno	desayuno	N	1	O
+5	malo	malo	N	1	O
+6	,	,	O	1	O
+7	limpieza	limpieza	N	1	O
+8	mal	mal	G	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	pretensioso	pretensioso	A	1	
-5	,	,	O	1	
-6	es	es	N	1	
-7	decir	decir	V	1	
-8	pretende	pretende	G	1	
-9	ser	ser	N	1	
-10	lo	lo	V	1	
-11	que	que	N	1	
-12	no	no	D	1	
-13	es.Se	es.Se	R	1	
-14	quedo	quedo	V	1	
-15	en	en	O	1	
-16	los	los	O	1	
-17	años	años	O	1	
-18	70_y_por	70_y_por	R	1	ne=Date
-19	mas	mama	N	1	
-20	que	que	V	1	
-21	lo	lo	G	1	
-22	hayan	hayan	G	1	
-23	remozado	remozado	N	1	
-24	sigue	sigue	N	1	
-25	siiendo	siiendo	N	1	
-26	viejo.El	viejo.El	R	1	
-27	personal	personal	G	1	
-28	del	del	N	1	
-29	horel	horel	N	1	
-30	es	es	V	1	
-31	amable	amable	G	1	
-32	.	.	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	pretensioso	pretensioso	A	1	O
+5	,	,	O	1	O
+6	es	es	N	1	O
+7	decir	decir	V	1	O
+8	pretende	pretende	G	1	O
+9	ser	ser	N	1	O
+10	lo	lo	V	1	O
+11	que	que	N	1	O
+12	no	no	D	1	O
+13	es.Se	es.Se	R	1	O
+14	quedo	quedo	V	1	O
+15	en	en	O	1	O
+16	los	los	O	1	O
+17	años	años	O	1	O
+18	70	70	O	1	I-Date
+19	y	y	G	1	I-Date
+20	por	por	N	1	I-Date
+21	mas	mama	N	1	O
+22	que	que	V	1	O
+23	lo	lo	G	1	O
+24	hayan	hayan	G	1	O
+25	remozado	remozado	N	1	O
+26	sigue	sigue	N	1	O
+27	siiendo	siiendo	N	1	O
+28	viejo.El	viejo.El	R	1	O
+29	personal	personal	G	1	O
+30	del	del	N	1	O
+31	horel	horel	N	1	O
+32	es	es	V	1	O
+33	amable	amable	G	1	O
+34	.	.	O	1	O
 
-1	La	La	R	1	
-2	ubicación	ubicación	N	1	
-3	es	es	V	1	
-4	correcta	correcta	G	1	
-5	para	para	N	1	
-6	quien	quien	G	1	
-7	gusto	gusto	N	1	
-8	del	del	O	1	
-9	ruido	ruido	O	1	
-10	de	de	O	1	
-11	la	la	O	1	
-12	ciudad	ciudad	N	1	
-13	,	,	O	1	
-14	pero	pero	O	1	
-15	tiene	tiene	G	1	
-16	cerca	cerca	N	1	
-17	varios	varios	N	1	
-18	cabarets	cabarets	V	1	
-19	que	que	G	1	
-20	hacen	hacen	N	1	
-21	que	que	N	1	
-22	de	de	P	1	
-23	noche	noche	G	1	
-24	tarde	tarde	N	1	
-25	,	,	O	1	
-26	los	los	V	1	
-27	alrededores	alrededores	N	1	
-28	no	no	D	1	
-29	sean	sean	G	1	
-30	lo	lo	G	1	
-31	mejor	mejor	N	1	
-32	.	.	O	1	
+1	La	La	R	1	O
+2	ubicación	ubicación	N	1	O
+3	es	es	V	1	O
+4	correcta	correcta	G	1	O
+5	para	para	N	1	O
+6	quien	quien	G	1	O
+7	gusto	gusto	N	1	O
+8	del	del	O	1	O
+9	ruido	ruido	O	1	O
+10	de	de	O	1	O
+11	la	la	O	1	O
+12	ciudad	ciudad	N	1	O
+13	,	,	O	1	O
+14	pero	pero	O	1	O
+15	tiene	tiene	G	1	O
+16	cerca	cerca	N	1	O
+17	varios	varios	N	1	O
+18	cabarets	cabarets	V	1	O
+19	que	que	G	1	O
+20	hacen	hacen	N	1	O
+21	que	que	N	1	O
+22	de	de	P	1	O
+23	noche	noche	G	1	O
+24	tarde	tarde	N	1	O
+25	,	,	O	1	O
+26	los	los	V	1	O
+27	alrededores	alrededores	N	1	O
+28	no	no	D	1	O
+29	sean	sean	G	1	O
+30	lo	lo	G	1	O
+31	mejor	mejor	N	1	O
+32	.	.	O	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	tipo	tipo	O	1	
-4	de	de	O	1	
-5	hotel	hotel	N	1	
-6	que	que	N	1	
-7	estuvo	estuvo	N	1	
-8	de	de	P	1	
-9	moda	moda	N	1	
-10	hace	hace	V	1	
-11	40	40	O	1	
-12	años	años	N	1	
-13	y	y	G	1	
-14	que	que	N	1	
-15	por	por	N	1	
-16	su	su	N	1	
-17	enorme	enorme	N	1	
-18	tamaño	tamaño	N	1	
-19	hace	hace	N	1	
-20	que	que	N	1	
-21	el	el	N	1	
-22	huesped	huesped	V	1	
-23	no	no	D	1	
-24	tenga	tenga	N	1	
-25	una	una	G	1	
-26	sensacion	sensacion	N	1	
-27	acogedora	acogedora	N	1	
-28	.	.	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	tipo	tipo	O	1	O
+4	de	de	O	1	O
+5	hotel	hotel	N	1	O
+6	que	que	N	1	O
+7	estuvo	estuvo	N	1	O
+8	de	de	P	1	O
+9	moda	moda	N	1	O
+10	hace	hace	V	1	O
+11	40	40	O	1	O
+12	años	años	N	1	O
+13	y	y	G	1	O
+14	que	que	N	1	O
+15	por	por	N	1	O
+16	su	su	N	1	O
+17	enorme	enorme	N	1	O
+18	tamaño	tamaño	N	1	O
+19	hace	hace	N	1	O
+20	que	que	N	1	O
+21	el	el	N	1	O
+22	huesped	huesped	V	1	O
+23	no	no	D	1	O
+24	tenga	tenga	N	1	O
+25	una	una	G	1	O
+26	sensacion	sensacion	N	1	O
+27	acogedora	acogedora	N	1	O
+28	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	peor	peor	O	1	
-3	me	me	Q	1	
-4	parecio	parecio	N	1	
-5	el	el	N	1	
-6	desayuno	desayuno	N	1	
-7	:	:	O	1	
-8	bolleria	bolleria	N	1	
-9	de	de	P	1	
-10	pesima	pesima	G	1	
-11	calidad	calidad	N	1	
-12	,	,	O	1	
-13	productos	productos	O	1	
-14	de	de	O	1	
-15	calidad	calidad	O	1	
-16	baja	baja	O	1	
-17	en	en	O	1	
-18	general	general	G	1	
-19	y	y	G	1	
-20	con	con	N	1	
-21	poca	poca	N	1	
-22	variedad	variedad	N	1	
-23	,	,	O	1	
-24	supervisor	supervisor	N	1	
-25	de	de	P	1	
-26	mozos	mozos	N	1	
-27	muy	muy	G	1	
-28	molesto	molesto	N	1	
-29	y	y	A	1	
-30	mozos	mozos	V	1	
-31	muy	muy	G	1	
-32	desatentos	desatentos	N	1	
-33	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	peor	peor	O	1	O
+3	me	me	Q	1	O
+4	parecio	parecio	N	1	O
+5	el	el	N	1	O
+6	desayuno	desayuno	N	1	O
+7	:	:	O	1	O
+8	bolleria	bolleria	N	1	O
+9	de	de	P	1	O
+10	pesima	pesima	G	1	O
+11	calidad	calidad	N	1	O
+12	,	,	O	1	O
+13	productos	productos	O	1	O
+14	de	de	O	1	O
+15	calidad	calidad	O	1	O
+16	baja	baja	O	1	O
+17	en	en	O	1	O
+18	general	general	G	1	O
+19	y	y	G	1	O
+20	con	con	N	1	O
+21	poca	poca	N	1	O
+22	variedad	variedad	N	1	O
+23	,	,	O	1	O
+24	supervisor	supervisor	N	1	O
+25	de	de	P	1	O
+26	mozos	mozos	N	1	O
+27	muy	muy	G	1	O
+28	molesto	molesto	N	1	O
+29	y	y	A	1	O
+30	mozos	mozos	V	1	O
+31	muy	muy	G	1	O
+32	desatentos	desatentos	N	1	O
+33	.	.	O	1	O
 

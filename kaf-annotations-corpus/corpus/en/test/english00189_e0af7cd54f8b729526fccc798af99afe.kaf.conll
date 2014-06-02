@@ -1,73 +1,73 @@
-1	Excellent	excellent	G	1	
-2	hotel	hotel	N	1	
-3	and	and	C	1	
-4	staff	staff	N	1	
+1	Excellent	excellent	G	1	O
+2	hotel	hotel	N	1	O
+3	and	and	C	1	O
+4	staff	staff	N	1	O
 
-1	excellent	excellent	G	1	
-2	facilities	facility	N	1	
-3	for	for	P	1	
-4	adults	adult	N	1	
-5	and	and	C	1	
-6	chldren	chldren	N	1	
-7	.	.	O	1	
+1	excellent	excellent	G	1	O
+2	facilities	facility	N	1	O
+3	for	for	P	1	O
+4	adults	adult	N	1	O
+5	and	and	C	1	O
+6	chldren	chldren	N	1	O
+7	.	.	O	1	O
 
-1	Range	range	N	1	
-2	of	of	P	1	
-3	restaurants	restaurant	N	1	
-4	and	and	C	1	
-5	bars	bar	N	1	
-6	.	.	O	1	
+1	Range	range	N	1	O
+2	of	of	P	1	O
+3	restaurants	restaurant	N	1	O
+4	and	and	C	1	O
+5	bars	bar	N	1	O
+6	.	.	O	1	O
 
-1	Superb	Superb	R	1	
-2	pool	pool	N	1	
-3	areas	area	N	1	
-4	and	and	C	1	
-5	large	large	G	1	
-6	aqua	aqua	N	1	
-7	park	park	N	1	
-8	area	area	N	1	
-9	.	.	O	1	
+1	Superb	Superb	R	1	O
+2	pool	pool	N	1	O
+3	areas	area	N	1	O
+4	and	and	C	1	O
+5	large	large	G	1	O
+6	aqua	aqua	N	1	O
+7	park	park	N	1	O
+8	area	area	N	1	O
+9	.	.	O	1	O
 
-1	Lovely	lovely	A	1	
-2	beach	beach	D	1	
-3	area	area	N	1	
-4	with	with	P	1	
-5	access	access	N	1	
-6	for	for	P	1	
-7	snorkelling	snorkelling	N	1	
-8	and	and	C	1	
-9	some	some	D	1	
-10	water	water	N	1	
-11	sports	sport	N	1	
-12	.	.	O	1	
+1	Lovely	lovely	A	1	O
+2	beach	beach	D	1	O
+3	area	area	N	1	O
+4	with	with	P	1	O
+5	access	access	N	1	O
+6	for	for	P	1	O
+7	snorkelling	snorkelling	N	1	O
+8	and	and	C	1	O
+9	some	some	D	1	O
+10	water	water	N	1	O
+11	sports	sport	N	1	O
+12	.	.	O	1	O
 
-1	Rooms	room	N	1	
-2	large	large	G	1	
-3	and	and	C	1	
-4	very	very	A	1	
-5	comfortable.Lounge	comfortable.lounge	G	1	
-6	areas	area	N	1	
-7	very	very	A	1	
-8	large	large	G	1	
-9	and	and	C	1	
-10	beautifully	beautifully	A	1	
-11	decorated	decorate	V	1	
-12	.	.	O	1	
+1	Rooms	room	N	1	O
+2	large	large	G	1	O
+3	and	and	C	1	O
+4	very	very	A	1	O
+5	comfortable.Lounge	comfortable.lounge	G	1	O
+6	areas	area	N	1	O
+7	very	very	A	1	O
+8	large	large	G	1	O
+9	and	and	C	1	O
+10	beautifully	beautifully	A	1	O
+11	decorated	decorate	V	1	O
+12	.	.	O	1	O
 
-1	Spa	spa	G	1	
-2	area	area	N	1	
-3	excellent	excellent	P	1	
-4	with	with	P	1	
-5	grewat	grewat	G	1	
-6	gym	gym	N	1	
-7	facilities	facility	N	1	
-8	.	.	O	1	
+1	Spa	spa	G	1	O
+2	area	area	N	1	O
+3	excellent	excellent	P	1	O
+4	with	with	P	1	O
+5	grewat	grewat	G	1	O
+6	gym	gym	N	1	O
+7	facilities	facility	N	1	O
+8	.	.	O	1	O
 
-1	Indoor	indoor	G	1	
-2	games	game	N	1	
-3	room	room	N	1	
-4	and	and	C	1	
-5	bowling	bowling	N	1	
-6	alley	alley	N	1	
-7	.	.	O	1	
+1	Indoor	indoor	G	1	O
+2	games	game	N	1	O
+3	room	room	N	1	O
+4	and	and	C	1	O
+5	bowling	bowling	N	1	O
+6	alley	alley	N	1	O
+7	.	.	O	1	O
 

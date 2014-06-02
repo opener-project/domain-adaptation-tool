@@ -1,105 +1,107 @@
-1	Fantástici	Fantástici	R	1	
-2	!	!	O	1	
+1	Fantástici	Fantástici	R	1	O
+2	!	!	O	1	O
 
-1	Esta	Esta	R	1	
-2	semana	semana	N	1	
-3	he	he	Q	1	
-4	vuelto	vuelto	V	1	
-5	de	de	P	1	
-6	Punta_Cana	Punta_Cana	R	1	ne=Location
-7	y	y	G	1	
-8	,	,	O	1	
-9	mi	mi	G	1	
-10	pareja	pareja	N	1	
-11	y	y	G	1	
-12	yo	yo	N	1	
-13	,	,	O	1	
-14	nos	nos	O	1	
-15	hemos	hemos	O	1	
-16	hospedado	hospedado	O	1	
-17	en	en	O	1	
-18	este	este	O	1	
-19	hotal	hotal	N	1	
-20	.	.	O	1	
+1	Esta	Esta	R	1	O
+2	semana	semana	N	1	O
+3	he	he	Q	1	O
+4	vuelto	vuelto	V	1	O
+5	de	de	P	1	O
+6	Punta	Punta	R	1	I-Location
+7	Cana	Cana	R	1	I-Location
+8	y	y	G	1	O
+9	,	,	O	1	O
+10	mi	mi	G	1	O
+11	pareja	pareja	N	1	O
+12	y	y	G	1	O
+13	yo	yo	N	1	O
+14	,	,	O	1	O
+15	nos	nos	O	1	O
+16	hemos	hemos	O	1	O
+17	hospedado	hospedado	O	1	O
+18	en	en	O	1	O
+19	este	este	O	1	O
+20	hotal	hotal	N	1	O
+21	.	.	O	1	O
 
-1	Sólo	Sólo	R	1	
-2	tengo	tengo	N	1	
-3	buenas	buenas	N	1	
-4	palabras	palabras	V	1	
-5	para	para	G	1	
-6	describir	describir	N	1	
-7	al	al	G	1	
-8	hotal	hotal	G	1	
-9	y	y	G	1	
-10	al	al	G	1	
-11	personal	personal	N	1	
-12	.	.	O	1	
+1	Sólo	Sólo	R	1	O
+2	tengo	tengo	N	1	O
+3	buenas	buenas	N	1	O
+4	palabras	palabras	V	1	O
+5	para	para	G	1	O
+6	describir	describir	N	1	O
+7	al	al	G	1	O
+8	hotal	hotal	G	1	O
+9	y	y	G	1	O
+10	al	al	G	1	O
+11	personal	personal	N	1	O
+12	.	.	O	1	O
 
-1	Realmente	Realmente	R	1	
-2	,	,	O	1	
-3	nos	nos	V	1	
-4	hemos	hemos	N	1	
-5	quedados	quedados	N	1	
-6	fascinados	fascinados	N	1	
-7	,	,	O	1	
-8	un	un	G	1	
-9	lujo	lujo	N	1	
-10	total	total	N	1	
-11	.	.	O	1	
+1	Realmente	Realmente	R	1	O
+2	,	,	O	1	O
+3	nos	nos	V	1	O
+4	hemos	hemos	N	1	O
+5	quedados	quedados	N	1	O
+6	fascinados	fascinados	N	1	O
+7	,	,	O	1	O
+8	un	un	G	1	O
+9	lujo	lujo	N	1	O
+10	total	total	N	1	O
+11	.	.	O	1	O
 
-1	En	en	G	1	
-2	pocas	pocas	N	1	
-3	palabras	palabras	N	1	
-4	,	,	O	1	
-5	ha	ha	N	1	
-6	sido	sido	O	1	
-7	como	como	N	1	
-8	vivir	vivir	N	1	
-9	un	un	G	1	
-10	sueño	sueño	N	1	
-11	!!	!!	N	1	
+1	En	en	G	1	O
+2	pocas	pocas	N	1	O
+3	palabras	palabras	N	1	O
+4	,	,	O	1	O
+5	ha	ha	N	1	O
+6	sido	sido	O	1	O
+7	como	como	N	1	O
+8	vivir	vivir	N	1	O
+9	un	un	G	1	O
+10	sueño	sueño	N	1	O
+11	!!	!!	N	1	O
 
-1	Además	Además	R	1	
-2	de	de	O	1	
-3	las	las	O	1	
-4	instalaciones	instalaciones	N	1	
-5	,	,	O	1	
-6	limpieza	limpieza	N	1	
-7	,	,	O	1	
-8	habitaciones	habitaciones	N	1	
-9	,	,	O	1	
-10	jardines	jardines	N	1	
-11	...	...	O	1	
-12	destaco	destaco	N	1	
-13	,	,	O	1	
-14	especialmente	especialmente	N	1	
-15	,	,	O	1	
-16	la	la	D	1	
-17	comida	comida	N	1	
-18	,	,	O	1	
-19	la	la	D	1	
-20	atención	atención	N	1	
-21	del	del	D	1	
-22	personal	personal	G	1	
-23	y	y	G	1	
-24	el	el	N	1	
-25	trato	trato	N	1	
-26	del	del	O	1	
-27	Director	Director	R	1	
-28	.	.	O	1	
+1	Además	Además	R	1	O
+2	de	de	O	1	O
+3	las	las	O	1	O
+4	instalaciones	instalaciones	N	1	O
+5	,	,	O	1	O
+6	limpieza	limpieza	N	1	O
+7	,	,	O	1	O
+8	habitaciones	habitaciones	N	1	O
+9	,	,	O	1	O
+10	jardines	jardines	N	1	O
+11	...	...	O	1	O
+12	destaco	destaco	N	1	O
+13	,	,	O	1	O
+14	especialmente	especialmente	N	1	O
+15	,	,	O	1	O
+16	la	la	D	1	O
+17	comida	comida	N	1	O
+18	,	,	O	1	O
+19	la	la	D	1	O
+20	atención	atención	N	1	O
+21	del	del	D	1	O
+22	personal	personal	G	1	O
+23	y	y	G	1	O
+24	el	el	N	1	O
+25	trato	trato	N	1	O
+26	del	del	O	1	O
+27	Director	Director	R	1	O
+28	.	.	O	1	O
 
-1	Recomiendo	Recomiendo	R	1	
-2	al	al	G	1	
-3	100	100	O	1	
-4	%_este	%_este	R	1	ne=Percent
-5	hotel	hotel	N	1	
-6	a	a	D	1	
-7	todo	todo	N	1	
-8	el	el	N	1	
-9	mundo	mundo	N	1	
-10	.	.	O	1	
+1	Recomiendo	Recomiendo	R	1	O
+2	al	al	G	1	O
+3	100	100	O	1	O
+4	%	%	N	1	I-Percent
+5	este	este	N	1	I-Percent
+6	hotel	hotel	N	1	O
+7	a	a	D	1	O
+8	todo	todo	N	1	O
+9	el	el	N	1	O
+10	mundo	mundo	N	1	O
+11	.	.	O	1	O
 
-1	Es	es	N	1	
-2	insuperable	insuperable	G	1	
-3	!!!	!!!	N	1	
+1	Es	es	N	1	O
+2	insuperable	insuperable	G	1	O
+3	!!!	!!!	N	1	O
 

@@ -1,70 +1,75 @@
-1	Hôtel	hôtel	N	1	
-2	bien	bien	G	1	
-3	rénové	rénover	V	1	
-4	,	,	O	1	
-5	personnel	personnel	N	1	
-6	sympathique	sympathique	G	1	
-7	.	.	O	1	
+1	Hôtel	hôtel	N	1	O
+2	bien	bien	G	1	O
+3	rénové	rénover	V	1	O
+4	,	,	O	1	O
+5	personnel	personnel	N	1	O
+6	sympathique	sympathique	G	1	O
+7	.	.	O	1	O
 
-1	L'	le	D	1	
-2	hôtel	hôtel	N	1	
-3	a	avoir	V	1	
-4	été	être	V	1	
-5	rénové	rénover	V	1	
-6	et	et	C	1	
-7	agrandi	agrandi	N	1	
-8	,	,	O	1	
-9	ce	ce	P	1	
-10	qui	qui	P	1	
-11	est	être	V	1	
-12	une	un	D	1	
-13	bonne	bon	G	1	
-14	chose	chose	N	1	
-15	surtout	surtout	G	1	
-16	pour	pour	P	1	
-17	sa	son	D	1	
-18	sécurité.Il	sécurité.Il	N	1	
-19	est	être	V	1	
-20	bien	bien	G	1	
-21	situé	situer	V	1	
-22	pour	pour	P	1	
-23	les_palais_des_festivals	le_palais_des_festival	R	1	ne=POI
-24	et	et	C	1	
-25	la_gare_ferroviaire	le_gare_ferroviaire	R	1	ne=POI
-26	.Supermarché	.Supermarché	N	1	
-27	AH	AH	N	1	
-28	tout	tout	G	1	
-29	près	près	G	1	
-30	.	.	O	1	
+1	L'	le	D	1	O
+2	hôtel	hôtel	N	1	O
+3	a	avoir	V	1	O
+4	été	être	V	1	O
+5	rénové	rénover	V	1	O
+6	et	et	C	1	O
+7	agrandi	agrandi	N	1	O
+8	,	,	O	1	O
+9	ce	ce	P	1	O
+10	qui	qui	P	1	O
+11	est	être	V	1	O
+12	une	un	D	1	O
+13	bonne	bon	G	1	O
+14	chose	chose	N	1	O
+15	surtout	surtout	G	1	O
+16	pour	pour	P	1	O
+17	sa	son	D	1	O
+18	sécurité.Il	sécurité.Il	N	1	O
+19	est	être	V	1	O
+20	bien	bien	G	1	O
+21	situé	situer	V	1	O
+22	pour	pour	P	1	O
+23	les	le	D	1	I-POI
+24	palais	palais	N	1	I-POI
+25	des	des	P	1	I-POI
+26	festivals	festival	N	1	I-POI
+27	et	et	C	1	O
+28	la	le	D	1	I-POI
+29	gare	gare	N	1	I-POI
+30	ferroviaire	ferroviaire	G	1	I-POI
+31	.Supermarché	.Supermarché	N	1	O
+32	AH	AH	N	1	O
+33	tout	tout	G	1	O
+34	près	près	G	1	O
+35	.	.	O	1	O
 
-1	La	le	D	1	
-2	photo	photo	N	1	
-3	ne	ne	G	1	
-4	correspond	correspondre	V	1	
-5	plus	plus	G	1	
-6	car	car	C	1	
-7	elle	lui	Q	1	
-8	date	dater	V	1	
-9	d'	d'	P	1	
-10	avant	avant	P	1	
-11	la	le	D	1	
-12	rénovation	rénovation	N	1	
-13	.	.	O	1	
+1	La	le	D	1	O
+2	photo	photo	N	1	O
+3	ne	ne	G	1	O
+4	correspond	correspondre	V	1	O
+5	plus	plus	G	1	O
+6	car	car	C	1	O
+7	elle	lui	Q	1	O
+8	date	dater	V	1	O
+9	d'	d'	P	1	O
+10	avant	avant	P	1	O
+11	la	le	D	1	O
+12	rénovation	rénovation	N	1	O
+13	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	,	,	O	1	
-4	jeune	jeune	G	1	
-5	et	et	C	1	
-6	dynamique	dynamique	G	1	
-7	,	,	O	1	
-8	est	être	V	1	
-9	très	très	G	1	
-10	serviable	serviable	G	1	
-11	.Très	.Très	P	1	
-12	bon	bon	G	1	
-13	rapport	rapport	N	1	
-14	qualité	qualité	N	1	
-15	prix	prix	N	1	
-16	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	,	,	O	1	O
+4	jeune	jeune	G	1	O
+5	et	et	C	1	O
+6	dynamique	dynamique	G	1	O
+7	,	,	O	1	O
+8	est	être	V	1	O
+9	très	très	G	1	O
+10	serviable	serviable	G	1	O
+11	.Très	.Très	P	1	O
+12	bon	bon	G	1	O
+13	rapport	rapport	N	1	O
+14	qualité	qualité	N	1	O
+15	prix	prix	N	1	O
+16	.	.	O	1	O
 

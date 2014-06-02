@@ -1,75 +1,76 @@
-1	Dem	die	D	1	
-2	Hotel	Hotel	N	1	
-3	würde	werden	V	1	
-4	ich	ich	Q	1	
-5	eher	eher	A	1	
-6	ein	eine	D	1	
-7	3	3	O	1	
-8	+	+	C	1	
-9	Sterne	Stern	N	1	
-10	Vergeben	Vergeben	N	1	
+1	Dem	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	würde	werden	V	1	O
+4	ich	ich	Q	1	O
+5	eher	eher	A	1	O
+6	ein	eine	D	1	O
+7	3	3	O	1	O
+8	+	+	C	1	O
+9	Sterne	Stern	N	1	O
+10	Vergeben	Vergeben	N	1	O
 
-1	Die	die	D	1	
-2	Einrichtung	Einrichtung	N	1	
-3	des	die	D	1	
-4	Hotels	Hotel	N	1	
-5	entspricht	entsprechen	V	1	
-6	einem	eine	D	1	
-7	3	3	O	1	
-8	Sterne	Stern	N	1	
-9	+	+	C	1	
-10	Das	die	D	1	
-11	Frühstück	Frühstück	N	1	
-12	für	für	P	1	
-13	Italienische	italienisch	G	1	
-14	Verhältnisse	Verhältnis	N	1	
-15	außergewöhnlich	außergewöhnlich	G	1	
-16	gut	gut	G	1	
-17	und	und	C	1	
-18	ausreichend	ausreichend	G	1	
-19	.	.	O	1	
+1	Die	die	D	1	O
+2	Einrichtung	Einrichtung	N	1	O
+3	des	die	D	1	O
+4	Hotels	Hotel	N	1	O
+5	entspricht	entsprechen	V	1	O
+6	einem	eine	D	1	O
+7	3	3	O	1	O
+8	Sterne	Stern	N	1	O
+9	+	+	C	1	O
+10	Das	die	D	1	O
+11	Frühstück	Frühstück	N	1	O
+12	für	für	P	1	O
+13	Italienische	italienisch	G	1	O
+14	Verhältnisse	Verhältnis	N	1	O
+15	außergewöhnlich	außergewöhnlich	G	1	O
+16	gut	gut	G	1	O
+17	und	und	C	1	O
+18	ausreichend	ausreichend	G	1	O
+19	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	ein	eine	D	1	
-4	sehr	sehr	A	1	
-5	schönes	schön	G	1	
-6	und	und	C	1	
-7	ruhiges	ruhig	G	1	
-8	Zimmer	Zimmer	N	1	
-9	auf	auf	P	1	
-10	der	die	D	1	
-11	hinteren	hinter	G	1	
-12	Seite	Seite	N	1	
-13	des	die	D	1	
-14	Hotels	Hotel	N	1	
-15	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	ein	eine	D	1	O
+4	sehr	sehr	A	1	O
+5	schönes	schön	G	1	O
+6	und	und	C	1	O
+7	ruhiges	ruhig	G	1	O
+8	Zimmer	Zimmer	N	1	O
+9	auf	auf	P	1	O
+10	der	die	D	1	O
+11	hinteren	hinter	G	1	O
+12	Seite	Seite	N	1	O
+13	des	die	D	1	O
+14	Hotels	Hotel	N	1	O
+15	.	.	O	1	O
 
-1	Alle	alle	Q	1	
-2	8_Minuten	8_Minute	R	1	ne=Time
-3	fährt	fahren	V	1	
-4	ein	eine	D	1	
-5	Bus	Bus	N	1	
-6	mit	mit	P	1	
-7	der	die	D	1	
-8	Nr.	Nr.	N	1	
-9	310	@card@	O	1	
-10	direckt	direckt	O	1	
-11	vor	vor	P	1	
-12	dem	die	D	1	
-13	Hotel	Hotel	N	1	
-14	ab	ab	V	1	
-15	nach	nach	P	1	
-16	Termini	Terminus	R	1	ne=Location
-17	.	.	O	1	
+1	Alle	alle	Q	1	O
+2	8	8	O	1	I-Time
+3	Minuten	Minute	N	1	I-Time
+4	fährt	fahren	V	1	O
+5	ein	eine	D	1	O
+6	Bus	Bus	N	1	O
+7	mit	mit	P	1	O
+8	der	die	D	1	O
+9	Nr.	Nr.	N	1	O
+10	310	@card@	O	1	O
+11	direckt	direckt	O	1	O
+12	vor	vor	P	1	O
+13	dem	die	D	1	O
+14	Hotel	Hotel	N	1	O
+15	ab	ab	V	1	O
+16	nach	nach	P	1	O
+17	Termini	Terminus	R	1	I-Location
+18	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	kann	können	V	1	
-4	ich	ich	Q	1	
-5	guten	gut	G	1	
-6	Gewissens	Gewissen	N	1	
-7	weiter	weiter	A	1	
-8	Empfehlen	Empfehlen	N	1	
-9	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	kann	können	V	1	O
+4	ich	ich	Q	1	O
+5	guten	gut	G	1	O
+6	Gewissens	Gewissen	N	1	O
+7	weiter	weiter	A	1	O
+8	Empfehlen	Empfehlen	N	1	O
+9	.	.	O	1	O
 

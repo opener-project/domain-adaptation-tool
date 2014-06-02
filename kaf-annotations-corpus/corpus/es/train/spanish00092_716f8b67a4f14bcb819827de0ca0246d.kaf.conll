@@ -1,114 +1,120 @@
-1	Peor	Peor	R	1	
-2	trato	trato	N	1	
-3	imposible	imposible	G	1	
+1	Peor	Peor	R	1	O
+2	trato	trato	N	1	O
+3	imposible	imposible	G	1	O
 
-1	El_camping_Pola	El_camp_Pola	R	1	ne=Hotel
-2	es	es	N	1	
-3	un	un	G	1	
-4	lugar	lugar	N	1	
-5	para	para	N	1	
-6	no	no	D	1	
-7	repetir	repetir	N	1	
-8	.	.	O	1	
+1	El	El	R	1	I-Hotel
+2	camping	camp	V	1	I-Hotel
+3	Pola	Pola	R	1	I-Hotel
+4	es	es	N	1	O
+5	un	un	G	1	O
+6	lugar	lugar	N	1	O
+7	para	para	N	1	O
+8	no	no	D	1	O
+9	repetir	repetir	N	1	O
+10	.	.	O	1	O
 
-1	Sobretodo	Sobretodo	R	1	
-2	por	por	N	1	
-3	el	el	N	1	
-4	trato	trato	N	1	
-5	del	del	D	1	
-6	personal	personal	N	1	
-7	,	,	O	1	
-8	el	el	N	1	
-9	estado	estado	O	1	
-10	de	de	P	1	
-11	los	los	O	1	
-12	sanitarios	sanitarios	O	1	
-13	(	(	O	1	
-14	mientras	mientras	N	1	
-15	te	te	G	1	
-16	duchas	duchas	P	1	
-17	te	te	G	1	
-18	saludan	saludan	N	1	
-19	las	las	V	1	
-20	hormigas	hormigas	N	1	
-21	)	)	O	1	
-22	y	y	G	1	
-23	los	los	N	1	
-24	bungalow	bungalow	V	1	
-25	de	de	P	1	
-26	plástico	plástico	N	1	
-27	,	,	O	1	
-28	con	con	A	1	
-29	lo	lo	G	1	
-30	que	que	N	1	
-31	el	el	N	1	
-32	calor	calor	O	1	
-33	de	de	O	1	
-34	las_8_de_la_mañana	las_8_de_la_mañana	R	1	ne=Time
-35	te	te	O	1	
-36	hace	hace	O	1	
-37	levantarte	levantarte	O	1	
-38	sudado	sudado	O	1	
-39	.	.	O	1	
+1	Sobretodo	Sobretodo	R	1	O
+2	por	por	N	1	O
+3	el	el	N	1	O
+4	trato	trato	N	1	O
+5	del	del	D	1	O
+6	personal	personal	N	1	O
+7	,	,	O	1	O
+8	el	el	N	1	O
+9	estado	estado	O	1	O
+10	de	de	P	1	O
+11	los	los	O	1	O
+12	sanitarios	sanitarios	O	1	O
+13	(	(	O	1	O
+14	mientras	mientras	N	1	O
+15	te	te	G	1	O
+16	duchas	duchas	P	1	O
+17	te	te	G	1	O
+18	saludan	saludan	N	1	O
+19	las	las	V	1	O
+20	hormigas	hormigas	N	1	O
+21	)	)	O	1	O
+22	y	y	G	1	O
+23	los	los	N	1	O
+24	bungalow	bungalow	V	1	O
+25	de	de	P	1	O
+26	plástico	plástico	N	1	O
+27	,	,	O	1	O
+28	con	con	A	1	O
+29	lo	lo	G	1	O
+30	que	que	N	1	O
+31	el	el	N	1	O
+32	calor	calor	O	1	O
+33	de	de	O	1	O
+34	las	las	O	1	I-Time
+35	8	8	O	1	I-Time
+36	de	de	O	1	I-Time
+37	la	la	O	1	I-Time
+38	mañana	mañana	O	1	I-Time
+39	te	te	O	1	O
+40	hace	hace	O	1	O
+41	levantarte	levantarte	O	1	O
+42	sudado	sudado	O	1	O
+43	.	.	O	1	O
 
-1	Asimismo	asimismo	A	1	
-2	,	,	O	1	
-3	debemos	debemos	N	1	
-4	añadir	añadir	V	1	
-5	que	que	G	1	
-6	sólo	sólo	N	1	
-7	hay	hay	N	1	
-8	unos	unos	N	1	
-9	baños	baños	N	1	
-10	para	para	G	1	
-11	todo	todo	N	1	
-12	el	el	N	1	
-13	camping	camping	N	1	
-14	,	,	O	1	
-15	cosa	cosa	O	1	
-16	que	que	O	1	
-17	hace	hace	O	1	
-18	que	que	O	1	
-19	éstos	éstos	O	1	
-20	esten	esten	O	1	
-21	muy	muy	O	1	
-22	sucios	sucios	O	1	
-23	y	y	G	1	
-24	excesivamente	excesivamente	G	1	
-25	concurridos	concurridos	N	1	
-26	.	.	O	1	
+1	Asimismo	asimismo	A	1	O
+2	,	,	O	1	O
+3	debemos	debemos	N	1	O
+4	añadir	añadir	V	1	O
+5	que	que	G	1	O
+6	sólo	sólo	N	1	O
+7	hay	hay	N	1	O
+8	unos	unos	N	1	O
+9	baños	baños	N	1	O
+10	para	para	G	1	O
+11	todo	todo	N	1	O
+12	el	el	N	1	O
+13	camping	camping	N	1	O
+14	,	,	O	1	O
+15	cosa	cosa	O	1	O
+16	que	que	O	1	O
+17	hace	hace	O	1	O
+18	que	que	O	1	O
+19	éstos	éstos	O	1	O
+20	esten	esten	O	1	O
+21	muy	muy	O	1	O
+22	sucios	sucios	O	1	O
+23	y	y	G	1	O
+24	excesivamente	excesivamente	G	1	O
+25	concurridos	concurridos	N	1	O
+26	.	.	O	1	O
 
-1	A	a	D	1	
-2	nosotros	nosotros	O	1	
-3	nos	nos	O	1	
-4	dieron	dieron	O	1	
-5	un	un	G	1	
-6	bungalow	bungalow	N	1	
-7	que	que	N	1	
-8	estaba	estaba	O	1	
-9	muy	muy	O	1	
-10	cerca	cerca	O	1	
-11	de	de	O	1	
-12	la	la	O	1	
-13	montaña	montaña	O	1	
-14	y	y	G	1	
-15	para	para	N	1	
-16	subir	subir	N	1	
-17	hasta	hasta	V	1	
-18	él	él	G	1	
-19	era	era	N	1	
-20	una	una	G	1	
-21	aventura	aventura	N	1	
-22	.	.	O	1	
+1	A	a	D	1	O
+2	nosotros	nosotros	O	1	O
+3	nos	nos	O	1	O
+4	dieron	dieron	O	1	O
+5	un	un	G	1	O
+6	bungalow	bungalow	N	1	O
+7	que	que	N	1	O
+8	estaba	estaba	O	1	O
+9	muy	muy	O	1	O
+10	cerca	cerca	O	1	O
+11	de	de	O	1	O
+12	la	la	O	1	O
+13	montaña	montaña	O	1	O
+14	y	y	G	1	O
+15	para	para	N	1	O
+16	subir	subir	N	1	O
+17	hasta	hasta	V	1	O
+18	él	él	G	1	O
+19	era	era	N	1	O
+20	una	una	G	1	O
+21	aventura	aventura	N	1	O
+22	.	.	O	1	O
 
-1	La	La	R	1	
-2	directora	directora	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	estúpida	estúpida	N	1	
-6	y	y	A	1	
-7	muy	muy	G	1	
-8	poco	poco	N	1	
-9	servicial	servicial	N	1	
-10	.	.	O	1	
+1	La	La	R	1	O
+2	directora	directora	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	estúpida	estúpida	N	1	O
+6	y	y	A	1	O
+7	muy	muy	G	1	O
+8	poco	poco	N	1	O
+9	servicial	servicial	N	1	O
+10	.	.	O	1	O
 

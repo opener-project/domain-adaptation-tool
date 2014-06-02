@@ -1,61 +1,61 @@
-1	Hotel	Hotel	N	1	
-2	im	in	P	1	
-3	Gewerbegebiet	Gewerbegebiet	N	1	
-4	ohne	ohne	P	1	
-5	Atmosphäre	Atmosphäre	N	1	
+1	Hotel	Hotel	N	1	O
+2	im	in	P	1	O
+3	Gewerbegebiet	Gewerbegebiet	N	1	O
+4	ohne	ohne	P	1	O
+5	Atmosphäre	Atmosphäre	N	1	O
 
-1	Reines	rein	G	1	
-2	Zweckhotel	Zweckhotel	O	1	
-3	im	in	P	1	
-4	Gewerbegebiet	Gewerbegebiet	N	1	
-5	ohne	ohne	P	1	
-6	Atmosphäre	Atmosphäre	N	1	
-7	.	.	O	1	
+1	Reines	rein	G	1	O
+2	Zweckhotel	Zweckhotel	O	1	O
+3	im	in	P	1	O
+4	Gewerbegebiet	Gewerbegebiet	N	1	O
+5	ohne	ohne	P	1	O
+6	Atmosphäre	Atmosphäre	N	1	O
+7	.	.	O	1	O
 
-1	Existenzberechtigung	Existenzberechtigung	N	1	
-2	allein	allein	A	1	
-3	aufgrund	aufgrund	P	1	
-4	Mangels	Mangel	N	1	
-5	an	an	P	1	
-6	vergleichbaren	vergleichbar	G	1	
-7	/	/	O	1	
-8	besseren	gut	G	1	
-9	Hotels	Hotel	N	1	
-10	in	in	P	1	
-11	der	die	D	1	
-12	näheren	nah	G	1	
-13	Umgebung	Umgebung	N	1	
-14	.	.	O	1	
+1	Existenzberechtigung	Existenzberechtigung	N	1	O
+2	allein	allein	A	1	O
+3	aufgrund	aufgrund	P	1	O
+4	Mangels	Mangel	N	1	O
+5	an	an	P	1	O
+6	vergleichbaren	vergleichbar	G	1	O
+7	/	/	O	1	O
+8	besseren	gut	G	1	O
+9	Hotels	Hotel	N	1	O
+10	in	in	P	1	O
+11	der	die	D	1	O
+12	näheren	nah	G	1	O
+13	Umgebung	Umgebung	N	1	O
+14	.	.	O	1	O
 
-1	Kleine	klein	G	1	
-2	Zimmer	Zimmer	N	1	
-3	und	und	C	1	
-4	Bäder	Bad	N	1	
-5	,	,	O	1	
-6	sehr	sehr	A	1	
-7	"	"	O	1	
-8	kostenbewusst	kostenbewusst	O	1	
-9	"	"	O	1	
-10	eingerichtet	einrichten	V	1	
-11	.	.	O	1	
+1	Kleine	klein	G	1	O
+2	Zimmer	Zimmer	N	1	O
+3	und	und	C	1	O
+4	Bäder	Bad	N	1	O
+5	,	,	O	1	O
+6	sehr	sehr	A	1	O
+7	"	"	O	1	O
+8	kostenbewusst	kostenbewusst	O	1	O
+9	"	"	O	1	O
+10	eingerichtet	einrichten	V	1	O
+11	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	war	sein	V	1	
-4	erstaunlich	erstaunlich	G	1	
-5	vielfältig	vielfältig	G	1	
-6	und	und	C	1	
-7	von	von	P	1	
-8	besserer	gut	G	1	
-9	Qulität	Qulität	O	1	
-10	,	,	O	1	
-11	dies	dies	Q	1	
-12	war	sein	V	1	
-13	aber	aber	A	1	
-14	auch	auch	A	1	
-15	schon	schon	A	1	
-16	der	die	D	1	
-17	einzige	einzig	G	1	
-18	hervorzuhebende	hervorzuhebende	O	1	
-19	Punkt	Punkt	N	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	war	sein	V	1	O
+4	erstaunlich	erstaunlich	G	1	O
+5	vielfältig	vielfältig	G	1	O
+6	und	und	C	1	O
+7	von	von	P	1	O
+8	besserer	gut	G	1	O
+9	Qulität	Qulität	O	1	O
+10	,	,	O	1	O
+11	dies	dies	Q	1	O
+12	war	sein	V	1	O
+13	aber	aber	A	1	O
+14	auch	auch	A	1	O
+15	schon	schon	A	1	O
+16	der	die	D	1	O
+17	einzige	einzig	G	1	O
+18	hervorzuhebende	hervorzuhebende	O	1	O
+19	Punkt	Punkt	N	1	O
 

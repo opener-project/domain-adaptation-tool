@@ -1,53 +1,54 @@
-1	Hôtel_Kyriad	hôtel_Kyriad	R	1	ne=Hotel
-2	pas	pas	G	1	
-3	de	de	P	1	
-4	qualité	qualité	N	1	
-5	de	de	P	1	
-6	service	service	N	1	
-7	client	client	N	1	
+1	Hôtel	hôtel	N	1	I-Hotel
+2	Kyriad	Kyriad	N	1	I-Hotel
+3	pas	pas	G	1	O
+4	de	de	P	1	O
+5	qualité	qualité	N	1	O
+6	de	de	P	1	O
+7	service	service	N	1	O
+8	client	client	N	1	O
 
-1	plus	plus	G	1	
-2	de	de	P	1	
-3	kiriad	kiriad	N	1	
-4	je	je	Q	1	
-5	verais	verais	V	1	
-6	un	un	D	1	
-7	autre	autre	G	1	
-8	hotel	hotel	N	1	
-9	car	car	C	1	
-10	je	je	Q	1	
-11	souhaite	souhaiter	V	1	
-12	retrouver	retrouver	V	1	
-13	dans	dans	P	1	
-14	un	un	D	1	
-15	hotel	hotel	N	1	
-16	une	un	D	1	
-17	chaleur	chaleur	N	1	
-18	presque	presque	G	1	
-19	familliale	familliale	G	1	
-20	"	&quot;	O	1	
-21	comme	comme	P	1	
-22	a	avoir	V	1	
-23	la	le	D	1	
-24	maison	maison	N	1	
-25	"	&quot;	O	1	
-26	cela	cela	P	1	
-27	exsiste	exsiste	V	1	
-28	dans	dans	P	1	
-29	certain	certain	G	1	
-30	hotel	hotel	N	1	
-31	mais	mais	C	1	
-32	pas	pas	G	1	
-33	dans	dans	P	1	
-34	celui	celui	P	1	
-35	la	le	D	1	
-36	don	don	P	1	
-37	je	je	Q	1	
-38	vais	aller	V	1	
-39	tester	tester	V	1	
-40	d'	d'	P	1	
-41	autres	autres	P	1	
-42	hotel	hotel	G	1	
-43	pour	pour	P	1	
-44	voir	voir	V	1	
+1	plus	plus	G	1	O
+2	de	de	P	1	O
+3	kiriad	kiriad	N	1	O
+4	je	je	Q	1	O
+5	verais	verais	V	1	O
+6	un	un	D	1	O
+7	autre	autre	G	1	O
+8	hotel	hotel	N	1	O
+9	car	car	C	1	O
+10	je	je	Q	1	O
+11	souhaite	souhaiter	V	1	O
+12	retrouver	retrouver	V	1	O
+13	dans	dans	P	1	O
+14	un	un	D	1	O
+15	hotel	hotel	N	1	O
+16	une	un	D	1	O
+17	chaleur	chaleur	N	1	O
+18	presque	presque	G	1	O
+19	familliale	familliale	G	1	O
+20	"	&quot;	O	1	O
+21	comme	comme	P	1	O
+22	a	avoir	V	1	O
+23	la	le	D	1	O
+24	maison	maison	N	1	O
+25	"	&quot;	O	1	O
+26	cela	cela	P	1	O
+27	exsiste	exsiste	V	1	O
+28	dans	dans	P	1	O
+29	certain	certain	G	1	O
+30	hotel	hotel	N	1	O
+31	mais	mais	C	1	O
+32	pas	pas	G	1	O
+33	dans	dans	P	1	O
+34	celui	celui	P	1	O
+35	la	le	D	1	O
+36	don	don	P	1	O
+37	je	je	Q	1	O
+38	vais	aller	V	1	O
+39	tester	tester	V	1	O
+40	d'	d'	P	1	O
+41	autres	autres	P	1	O
+42	hotel	hotel	G	1	O
+43	pour	pour	P	1	O
+44	voir	voir	V	1	O
 

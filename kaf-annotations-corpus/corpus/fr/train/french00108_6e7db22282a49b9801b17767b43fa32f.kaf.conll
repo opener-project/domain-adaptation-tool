@@ -1,69 +1,71 @@
-1	Un	un	D	1	
-2	petit	petit	G	1	
-3	pardis	pardis	N	1	
-4	sur	sur	P	1	
-5	terre	terre	N	1	
-6	!	!	O	1	
+1	Un	un	D	1	O
+2	petit	petit	G	1	O
+3	pardis	pardis	N	1	O
+4	sur	sur	P	1	O
+5	terre	terre	N	1	O
+6	!	!	O	1	O
 
-1	Un	un	D	1	
-2	hotel	hotel	N	1	
-3	5	5	G	1	
-4	étoiles	étoile	N	1	
-5	ou	ou	C	1	
-6	vous	lui	Q	1	
-7	vous	lui	Q	1	
-8	sentirez	sentir	V	1	
-9	comme	comme	P	1	
-10	des	un	D	1	
-11	rois	roi	N	1	
-12	et	et	C	1	
-13	reines	reine	N	1	
-14	dans	dans	P	1	
-15	un	un	D	1	
-16	cadre	cadre	N	1	
-17	paradisiaque	paradisiaque	G	1	
-18	mais	mais	C	1	
-19	ce	ce	D	1	
-20	petit	petit	G	1	
-21	coin	coin	N	1	
-22	de	de	P	1	
-23	paradis	paradis	N	1	
-24	a	avoir	V	1	
-25	un	un	D	1	
-26	prix	prix	N	1	
-27	qui	qui	P	1	
-28	peut	pouvoir	V	1	
-29	en	en	P	1	
-30	refroidir	refroidir	V	1	
-31	plus	plus	G	1	
-32	d'	d'	P	1	
-33	un	un	D	1	
-34	sachant	sachant	N	1	
-35	que	que	C	1	
-36	le	le	D	1	
-37	prix	prix	N	1	
-38	du	du	P	1	
-39	billet	billet	N	1	
-40	pour	pour	P	1	
-41	l'_ile_Maurice	le_ile_Maurice	R	1	ne=Location
-42	n'	n'	G	1	
-43	est	être	V	1	
-44	déjà	déjà	G	1	
-45	pas	pas	G	1	
-46	donné	donner	V	1	
-47	...	...	O	1	
+1	Un	un	D	1	O
+2	hotel	hotel	N	1	O
+3	5	5	G	1	O
+4	étoiles	étoile	N	1	O
+5	ou	ou	C	1	O
+6	vous	lui	Q	1	O
+7	vous	lui	Q	1	O
+8	sentirez	sentir	V	1	O
+9	comme	comme	P	1	O
+10	des	un	D	1	O
+11	rois	roi	N	1	O
+12	et	et	C	1	O
+13	reines	reine	N	1	O
+14	dans	dans	P	1	O
+15	un	un	D	1	O
+16	cadre	cadre	N	1	O
+17	paradisiaque	paradisiaque	G	1	O
+18	mais	mais	C	1	O
+19	ce	ce	D	1	O
+20	petit	petit	G	1	O
+21	coin	coin	N	1	O
+22	de	de	P	1	O
+23	paradis	paradis	N	1	O
+24	a	avoir	V	1	O
+25	un	un	D	1	O
+26	prix	prix	N	1	O
+27	qui	qui	P	1	O
+28	peut	pouvoir	V	1	O
+29	en	en	P	1	O
+30	refroidir	refroidir	V	1	O
+31	plus	plus	G	1	O
+32	d'	d'	P	1	O
+33	un	un	D	1	O
+34	sachant	sachant	N	1	O
+35	que	que	C	1	O
+36	le	le	D	1	O
+37	prix	prix	N	1	O
+38	du	du	P	1	O
+39	billet	billet	N	1	O
+40	pour	pour	P	1	O
+41	l'	le	D	1	I-Location
+42	ile	ile	N	1	I-Location
+43	Maurice	Maurice	N	1	I-Location
+44	n'	n'	G	1	O
+45	est	être	V	1	O
+46	déjà	déjà	G	1	O
+47	pas	pas	G	1	O
+48	donné	donner	V	1	O
+49	...	...	O	1	O
 
-1	Mais	Mais	C	1	
-2	c'	c'	Q	1	
-3	est	être	V	1	
-4	sans	sans]	P	1	
-5	aucuns	aucuns	P	1	
-6	doutes	doutes	P	1	
-7	un	un	D	1	
-8	des	un	D	1	
-9	plus	plus	G	1	
-10	beau	beau	G	1	
-11	hotels	hotels	P	1	
-12	du	du	D	1	
-13	monde	monde	N	1	
+1	Mais	Mais	C	1	O
+2	c'	c'	Q	1	O
+3	est	être	V	1	O
+4	sans	sans]	P	1	O
+5	aucuns	aucuns	P	1	O
+6	doutes	doutes	P	1	O
+7	un	un	D	1	O
+8	des	un	D	1	O
+9	plus	plus	G	1	O
+10	beau	beau	G	1	O
+11	hotels	hotels	P	1	O
+12	du	du	D	1	O
+13	monde	monde	N	1	O
 

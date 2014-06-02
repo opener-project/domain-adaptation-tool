@@ -1,43 +1,43 @@
-1	Gratuit	Gratuit	N	1	
-2	,	,	O	1	
-3	ce	ce	P	1	
-4	qui	qui	P	1	
-5	est	être	V	1	
-6	rare	rare	G	1	
+1	Gratuit	Gratuit	N	1	O
+2	,	,	O	1	O
+3	ce	ce	P	1	O
+4	qui	qui	P	1	O
+5	est	être	V	1	O
+6	rare	rare	G	1	O
 
-1	Très	Très	G	1	
-2	bien	bien	G	1	
-3	quand	quand	G	1	
-4	le	le	D	1	
-5	temps	temps	N	1	
-6	ne	ne	G	1	
-7	permet	permettre	V	1	
-8	pas	pas	G	1	
-9	la	le	D	1	
-10	piscine	piscine	N	1	
-11	ou	ou	C	1	
-12	la	le	D	1	
-13	plage	plage	N	1	
-14	.	.	O	1	
+1	Très	Très	G	1	O
+2	bien	bien	G	1	O
+3	quand	quand	G	1	O
+4	le	le	D	1	O
+5	temps	temps	N	1	O
+6	ne	ne	G	1	O
+7	permet	permettre	V	1	O
+8	pas	pas	G	1	O
+9	la	le	D	1	O
+10	piscine	piscine	N	1	O
+11	ou	ou	C	1	O
+12	la	le	D	1	O
+13	plage	plage	N	1	O
+14	.	.	O	1	O
 
-1	Ce	Ce	Q	1	
-2	n'	n'	G	1	
-3	est	être	V	1	
-4	pas	pas	G	1	
-5	un	un	D	1	
-6	immense	immense	G	1	
-7	zoo	zoo	N	1	
-8	comme	comme	P	1	
-9	ceux	ceux	P	1	
-10	du	du	D	1	
-11	privé	privé	N	1	
-12	mais	mais	C	1	
-13	c'	c'	Q	1	
-14	est	être	V	1	
-15	gratuit	gratuit	G	1	
-16	(	(	O	1	
-17	sauf	sauf	P	1	
-18	la	le	D	1	
-19	serre	serre	N	1	
-20	)	)	O	1	
+1	Ce	Ce	Q	1	O
+2	n'	n'	G	1	O
+3	est	être	V	1	O
+4	pas	pas	G	1	O
+5	un	un	D	1	O
+6	immense	immense	G	1	O
+7	zoo	zoo	N	1	O
+8	comme	comme	P	1	O
+9	ceux	ceux	P	1	O
+10	du	du	D	1	O
+11	privé	privé	N	1	O
+12	mais	mais	C	1	O
+13	c'	c'	Q	1	O
+14	est	être	V	1	O
+15	gratuit	gratuit	G	1	O
+16	(	(	O	1	O
+17	sauf	sauf	P	1	O
+18	la	le	D	1	O
+19	serre	serre	N	1	O
+20	)	)	O	1	O
 

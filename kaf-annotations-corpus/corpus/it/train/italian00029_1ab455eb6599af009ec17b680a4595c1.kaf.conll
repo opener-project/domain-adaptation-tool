@@ -1,86 +1,86 @@
-1	Magnifico	magnifico	G	1	
-2	!	!	O	1	
+1	Magnifico	magnifico	G	1	O
+2	!	!	O	1	O
 
-1	Ho	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	hotel	hotel	N	1	
-5	per	per	P	1	
-6	una	uno	D	1	
-7	settimana	settimana	N	1	
-8	ai	ai	P	1	
-9	primi	primo	N	1	
-10	di	di	P	1	
-11	Giugno	giugno	R	1	ne=Date
-12	.	.	O	1	
+1	Ho	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	hotel	hotel	N	1	O
+5	per	per	P	1	O
+6	una	uno	D	1	O
+7	settimana	settimana	N	1	O
+8	ai	ai	P	1	O
+9	primi	primo	N	1	O
+10	di	di	P	1	O
+11	Giugno	giugno	R	1	I-Date
+12	.	.	O	1	O
 
-1	Tutto	tutto	A	1	
-2	fantastico	fantastico	G	1	
-3	.	.	O	1	
+1	Tutto	tutto	A	1	O
+2	fantastico	fantastico	G	1	O
+3	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	G	1	
-3	sempre	sempre	A	1	
-4	disponibile	disponibile	G	1	
-5	e	e	Q	1	
-6	sorridente	sorridere	V	1	
-7	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	G	1	O
+3	sempre	sempre	A	1	O
+4	disponibile	disponibile	G	1	O
+5	e	e	Q	1	O
+6	sorridente	sorridere	V	1	O
+7	.	.	O	1	O
 
-1	Servizio	servizio	N	1	
-2	impeccabile	impeccabile	G	1	
-3	.	.	O	1	
+1	Servizio	servizio	N	1	O
+2	impeccabile	impeccabile	G	1	O
+3	.	.	O	1	O
 
-1	Camere	camera	N	1	
-2	ampie	ampio	G	1	
-3	e	e	Q	1	
-4	belle	bello	G	1	
-5	,	,	O	1	
-6	soprattutto	soprattutto	A	1	
-7	i	lo	D	1	
-8	bagni	bagno	N	1	
-9	.	.	O	1	
+1	Camere	camera	N	1	O
+2	ampie	ampio	G	1	O
+3	e	e	Q	1	O
+4	belle	bello	G	1	O
+5	,	,	O	1	O
+6	soprattutto	soprattutto	A	1	O
+7	i	lo	D	1	O
+8	bagni	bagno	N	1	O
+9	.	.	O	1	O
 
-1	Struttura	struttura	N	1	
-2	grande	grande	G	1	
-3	ma	ma	Q	1	
-4	perfettamente	perfettamente	A	1	
-5	mimetizzata	mimetizzare	V	1	
-6	nel	nel	P	1	
-7	verde	verde	N	1	
-8	.	.	O	1	
+1	Struttura	struttura	N	1	O
+2	grande	grande	G	1	O
+3	ma	ma	Q	1	O
+4	perfettamente	perfettamente	A	1	O
+5	mimetizzata	mimetizzare	V	1	O
+6	nel	nel	P	1	O
+7	verde	verde	N	1	O
+8	.	.	O	1	O
 
-1	Tutto	tutto	Q	1	
-2	in	in	P	1	
-3	stile	stile	N	1	
-4	arabo	arabo	G	1	
-5	che	che	Q	1	
-6	rende	rendere	V	1	
-7	tutto	tutto	G	1	
-8	una	uno	D	1	
-9	splendida	splendido	G	1	
-10	atmosfera	atmosfera	N	1	
-11	.	.	O	1	
+1	Tutto	tutto	Q	1	O
+2	in	in	P	1	O
+3	stile	stile	N	1	O
+4	arabo	arabo	G	1	O
+5	che	che	Q	1	O
+6	rende	rendere	V	1	O
+7	tutto	tutto	G	1	O
+8	una	uno	D	1	O
+9	splendida	splendido	G	1	O
+10	atmosfera	atmosfera	N	1	O
+11	.	.	O	1	O
 
-1	Piscine	piscina	N	1	
-2	stupende	stupendo	G	1	
-3	.	.	O	1	
+1	Piscine	piscina	N	1	O
+2	stupende	stupendo	G	1	O
+3	.	.	O	1	O
 
-1	Spiaggia	spiaggia	V	1	
-2	bella	bello	G	1	
-3	.	.	O	1	
+1	Spiaggia	spiaggia	V	1	O
+2	bella	bello	G	1	O
+3	.	.	O	1	O
 
-1	Ristoranti	ristorante	N	1	
-2	di	di	P	1	
-3	altissimo	altissimo	G	1	
-4	livello	livello	N	1	
-5	.	.	O	1	
+1	Ristoranti	ristorante	N	1	O
+2	di	di	P	1	O
+3	altissimo	altissimo	G	1	O
+4	livello	livello	N	1	O
+5	.	.	O	1	O
 
-1	Insomma	insomma	A	1	
-2	posto	porre	V	1	
-3	perfetto	perfetto	G	1	
-4	per	per	P	1	
-5	relax	relax	N	1	
-6	a	a	P	1	
-7	Dubai	dubai	R	1	ne=Location
-8	.	.	O	1	
+1	Insomma	insomma	A	1	O
+2	posto	porre	V	1	O
+3	perfetto	perfetto	G	1	O
+4	per	per	P	1	O
+5	relax	relax	N	1	O
+6	a	a	P	1	O
+7	Dubai	dubai	R	1	I-Location
+8	.	.	O	1	O
 

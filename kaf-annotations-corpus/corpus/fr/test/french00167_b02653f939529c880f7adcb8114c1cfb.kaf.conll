@@ -1,95 +1,95 @@
-1	Personnel	personnel	N	1	
-2	sympa	sympa	G	1	
-3	,	,	O	1	
-4	mais	mais	C	1	
-5	niveau	niveau	D	1	
-6	hôtel	hôtel	N	1	
-7	insuffisant	insuffisant	G	1	
+1	Personnel	personnel	N	1	O
+2	sympa	sympa	G	1	O
+3	,	,	O	1	O
+4	mais	mais	C	1	O
+5	niveau	niveau	D	1	O
+6	hôtel	hôtel	N	1	O
+7	insuffisant	insuffisant	G	1	O
 
-1	toutes	tout	G	1	
-2	les	le	D	1	
-3	chambres	chambre	N	1	
-4	n'	n'	G	1	
-5	ont	avoir	V	1	
-6	pas	pas	G	1	
-7	de	de	P	1	
-8	clim	climatisation	N	1	
-9	,	,	O	1	
-10	hôtel	hôtel	N	1	
-11	bruyant	bruyant	G	1	
-12	,	,	O	1	
-13	nourriture	nourriture	G	1	
-14	de	de	P	1	
-15	cantine	cantine	N	1	
-16	avec	avec	P	1	
-17	l'	le	D	1	
-18	atmosphère	atmosphère	N	1	
-19	de	de	P	1	
-20	réfectoire	réfectoire	N	1	
-21	,	,	O	1	
-22	la	le	D	1	
-23	seule	seul	G	1	
-24	fois	foi	N	1	
-25	où	où	P	1	
-26	j'	j'	Q	1	
-27	ai	avoir	V	1	
-28	mangé	manger	V	1	
-29	des	un	D	1	
-30	pâtes	pâte	N	1	
-31	trop	trop	G	1	
-32	cuites	cuire	G	1	
-33	en	en	P	1	
-34	ITALIE	ITALIE	R	1	ne=Location
-35	,	,	O	1	
-36	cadre	cadre	N	1	
-37	triste	triste	G	1	
-38	au	au	P	1	
-39	bord	bord	N	1	
-40	de	de	P	1	
-41	la	le	D	1	
-42	route	route	N	1	
+1	toutes	tout	G	1	O
+2	les	le	D	1	O
+3	chambres	chambre	N	1	O
+4	n'	n'	G	1	O
+5	ont	avoir	V	1	O
+6	pas	pas	G	1	O
+7	de	de	P	1	O
+8	clim	climatisation	N	1	O
+9	,	,	O	1	O
+10	hôtel	hôtel	N	1	O
+11	bruyant	bruyant	G	1	O
+12	,	,	O	1	O
+13	nourriture	nourriture	G	1	O
+14	de	de	P	1	O
+15	cantine	cantine	N	1	O
+16	avec	avec	P	1	O
+17	l'	le	D	1	O
+18	atmosphère	atmosphère	N	1	O
+19	de	de	P	1	O
+20	réfectoire	réfectoire	N	1	O
+21	,	,	O	1	O
+22	la	le	D	1	O
+23	seule	seul	G	1	O
+24	fois	foi	N	1	O
+25	où	où	P	1	O
+26	j'	j'	Q	1	O
+27	ai	avoir	V	1	O
+28	mangé	manger	V	1	O
+29	des	un	D	1	O
+30	pâtes	pâte	N	1	O
+31	trop	trop	G	1	O
+32	cuites	cuire	G	1	O
+33	en	en	P	1	O
+34	ITALIE	ITALIE	R	1	I-Location
+35	,	,	O	1	O
+36	cadre	cadre	N	1	O
+37	triste	triste	G	1	O
+38	au	au	P	1	O
+39	bord	bord	N	1	O
+40	de	de	P	1	O
+41	la	le	D	1	O
+42	route	route	N	1	O
 
-1	centre	centre	P	1	
-2	de	de	P	1	
-3	thalasso	thalasso	R	1	ne=Location
-4	très	très	G	1	
-5	éloigné	éloigner	V	1	
-6	environ	environ	G	1	
-7	1	1	D	1	
-8	km	kilomètre	N	1	
-9	+	+	G	1	
-10	+	+	P	1	
-11	+	+	G	1	
+1	centre	centre	P	1	O
+2	de	de	P	1	O
+3	thalasso	thalasso	R	1	I-Location
+4	très	très	G	1	O
+5	éloigné	éloigner	V	1	O
+6	environ	environ	G	1	O
+7	1	1	D	1	O
+8	km	kilomètre	N	1	O
+9	+	+	G	1	O
+10	+	+	P	1	O
+11	+	+	G	1	O
 
-1	piscine	piscine	N	1	
-2	municipale	municipale	O	1	
-3	dans	dans	P	1	
-4	toute	tout	G	1	
-5	sa	son	D	1	
-6	splendeur	splendeur	N	1	
-7	et	et	C	1	
-8	centre	centre	N	1	
-9	de	de	P	1	
-10	fitness	fitness	N	1	
-11	à	à	P	1	
-12	500	500	D	1	
-13	m	m	N	1	
-14	de	de	P	1	
-15	l'	le	D	1	
-16	hôtel	hôtel	N	1	
+1	piscine	piscine	N	1	O
+2	municipale	municipale	O	1	O
+3	dans	dans	P	1	O
+4	toute	tout	G	1	O
+5	sa	son	D	1	O
+6	splendeur	splendeur	N	1	O
+7	et	et	C	1	O
+8	centre	centre	N	1	O
+9	de	de	P	1	O
+10	fitness	fitness	N	1	O
+11	à	à	P	1	O
+12	500	500	D	1	O
+13	m	m	N	1	O
+14	de	de	P	1	O
+15	l'	le	D	1	O
+16	hôtel	hôtel	N	1	O
 
-1	deux	deux	D	1	
-2	sortes	sorte	N	1	
-3	de	de	P	1	
-4	clientèles	clientèle	N	1	
-5	avec	avec	P	1	
-6	enfants	enfant	N	1	
-7	bas	bas	G	1	
-8	âge	âge	N	1	
-9	et	et	C	1	
-10	personnes	personne	N	1	
-11	plus	plus	G	1	
-12	de	de	P	1	
-13	60	60	D	1	
-14	ans	an	N	1	
+1	deux	deux	D	1	O
+2	sortes	sorte	N	1	O
+3	de	de	P	1	O
+4	clientèles	clientèle	N	1	O
+5	avec	avec	P	1	O
+6	enfants	enfant	N	1	O
+7	bas	bas	G	1	O
+8	âge	âge	N	1	O
+9	et	et	C	1	O
+10	personnes	personne	N	1	O
+11	plus	plus	G	1	O
+12	de	de	P	1	O
+13	60	60	D	1	O
+14	ans	an	N	1	O
 

@@ -1,122 +1,123 @@
-1	Buon	buon	G	1	
-2	hotel	hotel	N	1	
-3	,	,	O	1	
-4	ma	ma	Q	1	
-5	niente	niente	N	1	
-6	di	di	P	1	
-7	eccezionale	eccezionale	G	1	
+1	Buon	buon	G	1	O
+2	hotel	hotel	N	1	O
+3	,	,	O	1	O
+4	ma	ma	Q	1	O
+5	niente	niente	N	1	O
+6	di	di	P	1	O
+7	eccezionale	eccezionale	G	1	O
 
-1	uno	uno	Q	1	
-2	dei	dei	P	1	
-3	più	piu'	N	1	
-4	belli	bello	G	1	
-5	dall'	dall'	P	1	
-6	esterno	esterno	N	1	
-7	,	,	O	1	
-8	non	non	A	1	
-9	mantiene	mantenere	V	1	
-10	le	lo	D	1	
-11	aspettative	aspettativa	N	1	
-12	per	per	P	1	
-13	quanto	quanto	N	1	
-14	riguarda	riguardare	V	1	
-15	le	lo	D	1	
-16	camere	camera	N	1	
-17	.	.	O	1	
+1	uno	uno	Q	1	O
+2	dei	dei	P	1	O
+3	più	piu'	N	1	O
+4	belli	bello	G	1	O
+5	dall'	dall'	P	1	O
+6	esterno	esterno	N	1	O
+7	,	,	O	1	O
+8	non	non	A	1	O
+9	mantiene	mantenere	V	1	O
+10	le	lo	D	1	O
+11	aspettative	aspettativa	N	1	O
+12	per	per	P	1	O
+13	quanto	quanto	N	1	O
+14	riguarda	riguardare	V	1	O
+15	le	lo	D	1	O
+16	camere	camera	N	1	O
+17	.	.	O	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	seppur	seppur	R	1	
-4	leggermente	leggermente	A	1	
-5	decentrata	decentrato	G	1	
-6	è	è	R	1	
-7	comoda	comodo	G	1	
-8	per	per	P	1	
-9	chi	chi	Q	1	
-10	arriva	arrivare	V	1	
-11	in	in	P	1	
-12	auto	auto	N	1	
-13	a	a	P	1	
-14	Las_Vegas	las_vegas	R	1	ne=Location
-15	e	e	Q	1	
-16	comoda	comodo	G	1	
-17	anche	anche	Q	1	
-18	per	per	P	1	
-19	usufruire	usufruire	V	1	
-20	dei	dei	P	1	
-21	mezzi	mezzo	N	1	
-22	pubblici	pubblico	G	1	
-23	.	.	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	seppur	seppur	R	1	O
+4	leggermente	leggermente	A	1	O
+5	decentrata	decentrato	G	1	O
+6	è	è	R	1	O
+7	comoda	comodo	G	1	O
+8	per	per	P	1	O
+9	chi	chi	Q	1	O
+10	arriva	arrivare	V	1	O
+11	in	in	P	1	O
+12	auto	auto	N	1	O
+13	a	a	P	1	O
+14	Las	las	R	1	I-Location
+15	Vegas	vegas	R	1	I-Location
+16	e	e	Q	1	O
+17	comoda	comodo	G	1	O
+18	anche	anche	Q	1	O
+19	per	per	P	1	O
+20	usufruire	usufruire	V	1	O
+21	dei	dei	P	1	O
+22	mezzi	mezzo	N	1	O
+23	pubblici	pubblico	G	1	O
+24	.	.	O	1	O
 
-1	Ho	avere	V	1	
-2	pernottato	pernottare	V	1	
-3	insieme	insieme	N	1	
-4	alla	alla	P	1	
-5	mia	mio	G	1	
-6	compagna	compagna	N	1	
-7	in	in	P	1	
-8	una	uno	D	1	
-9	stanza	stanza	N	1	
-10	deluxe	deluxe	Q	1	
-11	nella	nella	P	1	
-12	piramide	piramide	N	1	
-13	.	.	O	1	
+1	Ho	avere	V	1	O
+2	pernottato	pernottare	V	1	O
+3	insieme	insieme	N	1	O
+4	alla	alla	P	1	O
+5	mia	mio	G	1	O
+6	compagna	compagna	N	1	O
+7	in	in	P	1	O
+8	una	uno	D	1	O
+9	stanza	stanza	N	1	O
+10	deluxe	deluxe	Q	1	O
+11	nella	nella	P	1	O
+12	piramide	piramide	N	1	O
+13	.	.	O	1	O
 
-1	La	lo	D	1	
-2	stanza	stanza	N	1	
-3	era	essere	V	1	
-4	abbastanza	abbastanza	A	1	
-5	spaziosa	spazioso	G	1	
-6	,	,	O	1	
-7	con	con	P	1	
-8	due	due	G	1	
-9	letti	letto	N	1	
-10	,	,	O	1	
-11	ma	ma	Q	1	
-12	abbastanza	abbastanza	A	1	
-13	buia	buio	G	1	
-14	e	e	Q	1	
-15	in	in	P	1	
-16	pessima	pessimo	G	1	
-17	posizione	posizione	N	1	
-18	.	.	O	1	
+1	La	lo	D	1	O
+2	stanza	stanza	N	1	O
+3	era	essere	V	1	O
+4	abbastanza	abbastanza	A	1	O
+5	spaziosa	spazioso	G	1	O
+6	,	,	O	1	O
+7	con	con	P	1	O
+8	due	due	G	1	O
+9	letti	letto	N	1	O
+10	,	,	O	1	O
+11	ma	ma	Q	1	O
+12	abbastanza	abbastanza	A	1	O
+13	buia	buio	G	1	O
+14	e	e	Q	1	O
+15	in	in	P	1	O
+16	pessima	pessimo	G	1	O
+17	posizione	posizione	N	1	O
+18	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	arredamento	arredamento	N	1	
-3	abbastanza	abbastanza	A	1	
-4	datato	datare	V	1	
-5	.	.	O	1	
+1	L'	lo	D	1	O
+2	arredamento	arredamento	N	1	O
+3	abbastanza	abbastanza	A	1	O
+4	datato	datare	V	1	O
+5	.	.	O	1	O
 
-1	Ci	ci	Q	1	
-2	siamo	essere	V	1	
-3	invece	invece	A	1	
-4	trovati	trovare	V	1	
-5	bene	bene	A	1	
-6	per	per	P	1	
-7	quanto	quanto	N	1	
-8	riguarda	riguardare	V	1	
-9	la	lo	D	1	
-10	gentilezza	gentilezza	N	1	
-11	del	del	P	1	
-12	personale	personale	N	1	
-13	.	.	O	1	
+1	Ci	ci	Q	1	O
+2	siamo	essere	V	1	O
+3	invece	invece	A	1	O
+4	trovati	trovare	V	1	O
+5	bene	bene	A	1	O
+6	per	per	P	1	O
+7	quanto	quanto	N	1	O
+8	riguarda	riguardare	V	1	O
+9	la	lo	D	1	O
+10	gentilezza	gentilezza	N	1	O
+11	del	del	P	1	O
+12	personale	personale	N	1	O
+13	.	.	O	1	O
 
-1	Abbastanza	abbastanza	A	1	
-2	buono	buono	G	1	
-3	anche	anche	Q	1	
-4	il	lo	D	1	
-5	cibo	cibo	N	1	
-6	proposto	proporre	V	1	
-7	al	al	P	1	
-8	buffet	buffet	N	1	
-9	sia	sia	Q	1	
-10	per	per	P	1	
-11	quanto	quanto	N	1	
-12	riguarda	riguardare	V	1	
-13	la	lo	D	1	
-14	colazione	colazione	N	1	
-15	che	che	Q	1	
-16	la	lo	D	1	
-17	cena	cenare	V	1	
-18	.	.	O	1	
+1	Abbastanza	abbastanza	A	1	O
+2	buono	buono	G	1	O
+3	anche	anche	Q	1	O
+4	il	lo	D	1	O
+5	cibo	cibo	N	1	O
+6	proposto	proporre	V	1	O
+7	al	al	P	1	O
+8	buffet	buffet	N	1	O
+9	sia	sia	Q	1	O
+10	per	per	P	1	O
+11	quanto	quanto	N	1	O
+12	riguarda	riguardare	V	1	O
+13	la	lo	D	1	O
+14	colazione	colazione	N	1	O
+15	che	che	Q	1	O
+16	la	lo	D	1	O
+17	cena	cenare	V	1	O
+18	.	.	O	1	O
 

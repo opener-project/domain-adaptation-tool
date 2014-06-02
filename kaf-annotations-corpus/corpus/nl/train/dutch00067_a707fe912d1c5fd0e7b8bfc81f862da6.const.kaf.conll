@@ -1,129 +1,132 @@
-1	Aardig	aardig	G	1	
-2	3	@card@	O	1	
-3	sterren	ster	N	1	
-4	hotel	hotel	N	1	
-5	in	in	A	1	
-6	iets	iets	A	1	
-7	afgelegen	afgelegen	G	1	
-8	buurt	buurt	N	1	
+1	Aardig	aardig	G	1	O
+2	3	@card@	O	1	O
+3	sterren	ster	N	1	O
+4	hotel	hotel	N	1	O
+5	in	in	A	1	O
+6	iets	iets	A	1	O
+7	afgelegen	afgelegen	G	1	O
+8	buurt	buurt	N	1	O
 
-1	Het_Astrid_Hotel_hotel	het_Astrid_hotel_hotel	R	1	ne=Hotel
-2	ligt	liggen	V	1	
-3	in	in	P	1	
-4	een	een	D	1	
-5	woonwijk	woonwijk	N	1	
-6	buiten	buiten	P	1	
-7	het	het	D	1	
-8	echte	echt	G	1	
-9	centrum	centrum	N	1	
-10	Rome	Rome	R	1	ne=Location
-11	,	,	O	1	
-12	maar	maar	C	1	
-13	wel	wel	A	1	
-14	met	met	P	1	
-15	een	een	D	1	
-16	goede	goed	G	1	
-17	tramverbinding	tramverbinding	O	1	
-18	vlakbij	vlakbij	A	1	
-19	.	.	O	1	
+1	Het	het	D	1	I-Hotel
+2	Astrid	Astrid	O	1	I-Hotel
+3	Hotel	hotel	N	1	I-Hotel
+4	hotel	hotel	N	1	I-Hotel
+5	ligt	liggen	V	1	O
+6	in	in	P	1	O
+7	een	een	D	1	O
+8	woonwijk	woonwijk	N	1	O
+9	buiten	buiten	P	1	O
+10	het	het	D	1	O
+11	echte	echt	G	1	O
+12	centrum	centrum	N	1	O
+13	Rome	Rome	R	1	I-Location
+14	,	,	O	1	O
+15	maar	maar	C	1	O
+16	wel	wel	A	1	O
+17	met	met	P	1	O
+18	een	een	D	1	O
+19	goede	goed	G	1	O
+20	tramverbinding	tramverbinding	O	1	O
+21	vlakbij	vlakbij	A	1	O
+22	.	.	O	1	O
 
-1	Mijn	mijn	D	1	
-2	kamer	kamer	N	1	
-3	was	wezen|zijn	V	1	
-4	voldoende	voldoende	G	1	
-5	groot	groot	G	1	
-6	,	,	O	1	
-7	niet	niet	A	1	
-8	bijzonder	bijzonder	G	1	
-9	ruim	ruim	G	1	
-10	.	.	O	1	
+1	Mijn	mijn	D	1	O
+2	kamer	kamer	N	1	O
+3	was	wezen|zijn	V	1	O
+4	voldoende	voldoende	G	1	O
+5	groot	groot	G	1	O
+6	,	,	O	1	O
+7	niet	niet	A	1	O
+8	bijzonder	bijzonder	G	1	O
+9	ruim	ruim	G	1	O
+10	.	.	O	1	O
 
-1	De	de	D	1	
-2	badkamer	badkamer	N	1	
-3	was	wezen|zijn	V	1	
-4	zeer	zeer	G	1	
-5	onpraktisch	onpraktisch	G	1	
-6	met	met	P	1	
-7	een	een	D	1	
-8	extreem	extreem	G	1	
-9	krappe	krap	G	1	
-10	douchecabine	douchecabine	N	1	
-11	.	.	O	1	
+1	De	de	D	1	O
+2	badkamer	badkamer	N	1	O
+3	was	wezen|zijn	V	1	O
+4	zeer	zeer	G	1	O
+5	onpraktisch	onpraktisch	G	1	O
+6	met	met	P	1	O
+7	een	een	D	1	O
+8	extreem	extreem	G	1	O
+9	krappe	krap	G	1	O
+10	douchecabine	douchecabine	N	1	O
+11	.	.	O	1	O
 
-1	De	de	D	1	
-2	"	"	O	1	
-3	gratis	gratis	G	1	
-4	minibar	minibar	O	1	
-5	"	"	O	1	
-6	die	die	Q	1	
-7	ik	ik	Q	1	
-8	aangeboden	aanbieden	V	1	
-9	kreeg	krijgen	V	1	
-10	was	wezen|zijn	V	1	
-11	een	een	D	1	
-12	sof	sof	N	1	
-13	,	,	O	1	
-14	deze	deze	D	1	
-15	bevatte	bevatte	N	1	
-16	slechts	slechts	A	1	
-17	mineraalwater	mineraalwater	N	1	
-18	en	en	C	1	
-19	nootjes	noot	N	1	
-20	.	.	O	1	
+1	De	de	D	1	O
+2	"	"	O	1	O
+3	gratis	gratis	G	1	O
+4	minibar	minibar	O	1	O
+5	"	"	O	1	O
+6	die	die	Q	1	O
+7	ik	ik	Q	1	O
+8	aangeboden	aanbieden	V	1	O
+9	kreeg	krijgen	V	1	O
+10	was	wezen|zijn	V	1	O
+11	een	een	D	1	O
+12	sof	sof	N	1	O
+13	,	,	O	1	O
+14	deze	deze	D	1	O
+15	bevatte	bevatte	N	1	O
+16	slechts	slechts	A	1	O
+17	mineraalwater	mineraalwater	N	1	O
+18	en	en	C	1	O
+19	nootjes	noot	N	1	O
+20	.	.	O	1	O
 
-1	De	de	D	1	
-2	koelkast	koelkast	N	1	
-3	bleek	blijken	V	1	
-4	bovendien	bovendien	A	1	
-5	niet	niet	A	1	
-6	goed	goed	N	1	
-7	te	te	O	1	
-8	werken	werken	V	1	
-9	,	,	O	1	
-10	een	een	D	1	
-11	euvel	euvel	N	1	
-12	dat	dat	Q	1	
-13	tijdens	tijdens	P	1	
-14	het	het	D	1	
-15	weekend	weekend	N	1	
-16	niet	niet	A	1	
-17	door	door	P	1	
-18	het	het	D	1	
-19	personeel	personeel	N	1	
-20	kon	kunnen	V	1	
-21	worden	worden	V	1	
-22	opgelost	oplossen	V	1	
-23	.	.	O	1	
+1	De	de	D	1	O
+2	koelkast	koelkast	N	1	O
+3	bleek	blijken	V	1	O
+4	bovendien	bovendien	A	1	O
+5	niet	niet	A	1	O
+6	goed	goed	N	1	O
+7	te	te	O	1	O
+8	werken	werken	V	1	O
+9	,	,	O	1	O
+10	een	een	D	1	O
+11	euvel	euvel	N	1	O
+12	dat	dat	Q	1	O
+13	tijdens	tijdens	P	1	O
+14	het	het	D	1	O
+15	weekend	weekend	N	1	O
+16	niet	niet	A	1	O
+17	door	door	P	1	O
+18	het	het	D	1	O
+19	personeel	personeel	N	1	O
+20	kon	kunnen	V	1	O
+21	worden	worden	V	1	O
+22	opgelost	oplossen	V	1	O
+23	.	.	O	1	O
 
-1	Het	het	D	1	
-2	ontbijt	ontbijt	N	1	
-3	was	wezen|zijn	V	1	
-4	voor	voor	P	1	
-5	Italiaanse	Italiaans	G	1	
-6	begrippen	begrip	N	1	
-7	prima	prima	G	1	
-8	en	en	C	1	
-9	vooral	vooral	A	1	
-10	het	het	D	1	
-11	uitzicht	uitzicht	N	1	
-12	vanuit	vanuit	P	1	
-13	de	de	D	1	
-14	ontbijtzaal	ontbijtzaal	O	1	
-15	(	(	O	1	
-16	met	met	P	1	
-17	dakterras	dakterras	O	1	
-18	)	)	O	1	
-19	is	zijn	V	1	
-20	schitterend	schitteren	V	1	
-21	.	.	O	1	
+1	Het	het	D	1	O
+2	ontbijt	ontbijt	N	1	O
+3	was	wezen|zijn	V	1	O
+4	voor	voor	P	1	O
+5	Italiaanse	Italiaans	G	1	O
+6	begrippen	begrip	N	1	O
+7	prima	prima	G	1	O
+8	en	en	C	1	O
+9	vooral	vooral	A	1	O
+10	het	het	D	1	O
+11	uitzicht	uitzicht	N	1	O
+12	vanuit	vanuit	P	1	O
+13	de	de	D	1	O
+14	ontbijtzaal	ontbijtzaal	O	1	O
+15	(	(	O	1	O
+16	met	met	P	1	O
+17	dakterras	dakterras	O	1	O
+18	)	)	O	1	O
+19	is	zijn	V	1	O
+20	schitterend	schitteren	V	1	O
+21	.	.	O	1	O
 
-1	Dit	dit	D	1	
-2	hotel	hotel	N	1	
-3	is	zijn	V	1	
-4	zodoende	zodoende	A	1	
-5	beperkt	beperken	V	1	
-6	aan	aan	P	1	
-7	te	te	O	1	
-8	bevelen	bevelen	V	1	
-9	.	.	O	1	
+1	Dit	dit	D	1	O
+2	hotel	hotel	N	1	O
+3	is	zijn	V	1	O
+4	zodoende	zodoende	A	1	O
+5	beperkt	beperken	V	1	O
+6	aan	aan	P	1	O
+7	te	te	O	1	O
+8	bevelen	bevelen	V	1	O
+9	.	.	O	1	O
 

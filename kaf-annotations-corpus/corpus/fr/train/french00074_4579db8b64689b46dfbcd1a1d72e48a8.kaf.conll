@@ -1,159 +1,159 @@
-1	Bien	Bien	G	1	
-2	situé	situer	G	1	
-3	,	,	O	1	
-4	mais	mais	C	1	
-5	trop	trop	G	1	
-6	cher	cher	G	1	
-7	pour	pour	P	1	
-8	les	le	D	1	
-9	prestations	prestation	N	1	
-10	!	!	O	1	
+1	Bien	Bien	G	1	O
+2	situé	situer	G	1	O
+3	,	,	O	1	O
+4	mais	mais	C	1	O
+5	trop	trop	G	1	O
+6	cher	cher	G	1	O
+7	pour	pour	P	1	O
+8	les	le	D	1	O
+9	prestations	prestation	N	1	O
+10	!	!	O	1	O
 
-1	hotel	hotel	N	1	
-2	très	très	G	1	
-3	bien	bien	G	1	
-4	situé	situer	V	1	
-5	,	,	O	1	
-6	proche	proche	G	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	rampa	rampa	N	1	
-10	,	,	O	1	
-11	et	et	C	1	
-12	des	un	D	1	
-13	centres	centre	N	1	
-14	touristiques	touristique	G	1	
-15	,	,	O	1	
-16	prestations	prestation	N	1	
-17	à	à	P	1	
-18	minima	minimum	N	1	
-19	pour	pour	P	1	
-20	un	un	D	1	
-21	4	4	G	1	
-22	étoiles	étoile	N	1	
-23	qui	qui	P	1	
-24	ne	ne	G	1	
-25	se	se	Q	1	
-26	retrouve	retrouver	V	1	
-27	que	que	C	1	
-28	dans	dans	P	1	
-29	le	le	D	1	
-30	prix	prix	N	1	
-31	de	de	P	1	
-32	la	le	D	1	
-33	nuit	nuit	N	1	
-34	,	,	O	1	
-35	pour	pour	P	1	
-36	le	le	D	1	
-37	reste	reste	N	1	
-38	,	,	O	1	
-39	accueil	accueil	N	1	
-40	correct	correct	G	1	
-41	,	,	O	1	
-42	chambre	chambre	N	1	
-43	correct	correct	G	1	
-44	mais	mais	C	1	
-45	nécessiterait	nécessiter	V	1	
-46	un	un	D	1	
-47	rafraichissement	rafraichissement	N	1	
-48	et	et	C	1	
-49	quelques	quelque	D	1	
-50	détails	détail	N	1	
-51	permettraient	permettre	V	1	
-52	de	de	P	1	
-53	paraitre	paraitre	V	1	
-54	la	le	D	1	
-55	chambre	chambre	N	1	
-56	plus	plus	G	1	
-57	soignée	soigner	V	1	
-58	et	et	C	1	
-59	bien	bien	G	1	
-60	entretenue	entretenir	V	1	
-61	:	:	O	1	
-62	par	par	P	1	
-63	exemple	exemple	N	1	
-64	,	,	O	1	
-65	coin	coin	N	1	
-66	de	de	P	1	
-67	sommier	sommier	V	1	
-68	usé	user	V	1	
-69	,	,	O	1	
-70	tissu	tissu	N	1	
-71	déchiré	déchirer	V	1	
-72	,	,	O	1	
-73	ordi	ordi	N	1	
-74	dans	dans	P	1	
-75	la	le	D	1	
-76	chambre	chambre	N	1	
-77	,	,	O	1	
-78	(	(	D	1	
-79	manque	manque	N	1	
-80	des	des	P	1	
-81	touches	touche	N	1	
-82	au	au	P	1	
-83	clavier	clavier	V	1	
-84	,	,	O	1	
-85	imprimante	imprimant	G	1	
-86	inutilisable	inutilisable	G	1	
-87	,	,	O	1	
-88	salle	salle	N	1	
-89	de	de	P	1	
-90	bain	bain	N	1	
-91	correcte	correcte	N	1	
-92	et	et	C	1	
-93	propre	propre	G	1	
-94	,	,	O	1	
-95	linge	linge	N	1	
-96	et	et	C	1	
-97	accessoires	accessoire	N	1	
-98	salle	salle	N	1	
-99	de	de	P	1	
-100	bain	bain	N	1	
-101	bien	bien	G	1	
-102	;	;	O	1	
-103	déco	déco	N	1	
-104	particulière	particulière	N	1	
-105	,	,	O	1	
-106	tous	tout	G	1	
-107	les	le	D	1	
-108	couloirs	couloir	N	1	
-109	sont	être	V	1	
-110	noirs	noir	G	1	
-111	,	,	O	1	
-112	chambre	chambre	N	1	
-113	noire	noir	G	1	
-114	et	et	C	1	
-115	violet	violet	G	1	
-116	,	,	O	1	
-117	conclusion	conclusion	N	1	
-118	,	,	O	1	
-119	prix	prix	N	1	
-120	trop	trop	G	1	
-121	élevé	élever	G	1	
-122	mais	mais	C	1	
-123	difficile	difficile	G	1	
-124	de	de	P	1	
-125	trouver	trouver	V	1	
-126	en	en	P	1	
-127	48	48	D	1	
-128	heures	heure	N	1	
-129	avant	avant	P	1	
-130	un	un	D	1	
-131	week	week	N	1	
-132	end	end	G	1	
-133	de	de	P	1	
-134	4	4	D	1	
-135	jours	jour	N	1	
-136	;	;	O	1	
-137	petits	petit	G	1	
-138	déjeuners	déjeuner	N	1	
-139	buffet	buffet	V	1	
-140	très	très	G	1	
-141	bien	bien	G	1	
-142	,	,	O	1	
-143	ville	ville	N	1	
-144	superbe	superbe	G	1	
-145	à	à	P	1	
-146	revoir	revoir	V	1	
-147	,	,	O	1	
+1	hotel	hotel	N	1	O
+2	très	très	G	1	O
+3	bien	bien	G	1	O
+4	situé	situer	V	1	O
+5	,	,	O	1	O
+6	proche	proche	G	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	rampa	rampa	N	1	O
+10	,	,	O	1	O
+11	et	et	C	1	O
+12	des	un	D	1	O
+13	centres	centre	N	1	O
+14	touristiques	touristique	G	1	O
+15	,	,	O	1	O
+16	prestations	prestation	N	1	O
+17	à	à	P	1	O
+18	minima	minimum	N	1	O
+19	pour	pour	P	1	O
+20	un	un	D	1	O
+21	4	4	G	1	O
+22	étoiles	étoile	N	1	O
+23	qui	qui	P	1	O
+24	ne	ne	G	1	O
+25	se	se	Q	1	O
+26	retrouve	retrouver	V	1	O
+27	que	que	C	1	O
+28	dans	dans	P	1	O
+29	le	le	D	1	O
+30	prix	prix	N	1	O
+31	de	de	P	1	O
+32	la	le	D	1	O
+33	nuit	nuit	N	1	O
+34	,	,	O	1	O
+35	pour	pour	P	1	O
+36	le	le	D	1	O
+37	reste	reste	N	1	O
+38	,	,	O	1	O
+39	accueil	accueil	N	1	O
+40	correct	correct	G	1	O
+41	,	,	O	1	O
+42	chambre	chambre	N	1	O
+43	correct	correct	G	1	O
+44	mais	mais	C	1	O
+45	nécessiterait	nécessiter	V	1	O
+46	un	un	D	1	O
+47	rafraichissement	rafraichissement	N	1	O
+48	et	et	C	1	O
+49	quelques	quelque	D	1	O
+50	détails	détail	N	1	O
+51	permettraient	permettre	V	1	O
+52	de	de	P	1	O
+53	paraitre	paraitre	V	1	O
+54	la	le	D	1	O
+55	chambre	chambre	N	1	O
+56	plus	plus	G	1	O
+57	soignée	soigner	V	1	O
+58	et	et	C	1	O
+59	bien	bien	G	1	O
+60	entretenue	entretenir	V	1	O
+61	:	:	O	1	O
+62	par	par	P	1	O
+63	exemple	exemple	N	1	O
+64	,	,	O	1	O
+65	coin	coin	N	1	O
+66	de	de	P	1	O
+67	sommier	sommier	V	1	O
+68	usé	user	V	1	O
+69	,	,	O	1	O
+70	tissu	tissu	N	1	O
+71	déchiré	déchirer	V	1	O
+72	,	,	O	1	O
+73	ordi	ordi	N	1	O
+74	dans	dans	P	1	O
+75	la	le	D	1	O
+76	chambre	chambre	N	1	O
+77	,	,	O	1	O
+78	(	(	D	1	O
+79	manque	manque	N	1	O
+80	des	des	P	1	O
+81	touches	touche	N	1	O
+82	au	au	P	1	O
+83	clavier	clavier	V	1	O
+84	,	,	O	1	O
+85	imprimante	imprimant	G	1	O
+86	inutilisable	inutilisable	G	1	O
+87	,	,	O	1	O
+88	salle	salle	N	1	O
+89	de	de	P	1	O
+90	bain	bain	N	1	O
+91	correcte	correcte	N	1	O
+92	et	et	C	1	O
+93	propre	propre	G	1	O
+94	,	,	O	1	O
+95	linge	linge	N	1	O
+96	et	et	C	1	O
+97	accessoires	accessoire	N	1	O
+98	salle	salle	N	1	O
+99	de	de	P	1	O
+100	bain	bain	N	1	O
+101	bien	bien	G	1	O
+102	;	;	O	1	O
+103	déco	déco	N	1	O
+104	particulière	particulière	N	1	O
+105	,	,	O	1	O
+106	tous	tout	G	1	O
+107	les	le	D	1	O
+108	couloirs	couloir	N	1	O
+109	sont	être	V	1	O
+110	noirs	noir	G	1	O
+111	,	,	O	1	O
+112	chambre	chambre	N	1	O
+113	noire	noir	G	1	O
+114	et	et	C	1	O
+115	violet	violet	G	1	O
+116	,	,	O	1	O
+117	conclusion	conclusion	N	1	O
+118	,	,	O	1	O
+119	prix	prix	N	1	O
+120	trop	trop	G	1	O
+121	élevé	élever	G	1	O
+122	mais	mais	C	1	O
+123	difficile	difficile	G	1	O
+124	de	de	P	1	O
+125	trouver	trouver	V	1	O
+126	en	en	P	1	O
+127	48	48	D	1	O
+128	heures	heure	N	1	O
+129	avant	avant	P	1	O
+130	un	un	D	1	O
+131	week	week	N	1	O
+132	end	end	G	1	O
+133	de	de	P	1	O
+134	4	4	D	1	O
+135	jours	jour	N	1	O
+136	;	;	O	1	O
+137	petits	petit	G	1	O
+138	déjeuners	déjeuner	N	1	O
+139	buffet	buffet	V	1	O
+140	très	très	G	1	O
+141	bien	bien	G	1	O
+142	,	,	O	1	O
+143	ville	ville	N	1	O
+144	superbe	superbe	G	1	O
+145	à	à	P	1	O
+146	revoir	revoir	V	1	O
+147	,	,	O	1	O
 

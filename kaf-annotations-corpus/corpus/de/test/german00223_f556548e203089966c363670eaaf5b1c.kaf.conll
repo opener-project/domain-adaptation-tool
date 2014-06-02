@@ -1,178 +1,184 @@
-1	Gute	gut	G	1	
-2	Lage	Lage	N	1	
+1	Gute	gut	G	1	O
+2	Lage	Lage	N	1	O
 
-1	Der	die	D	1	
-2	Aufenthalt	Aufenthalt	N	1	
-3	in	in	P	1	
-4	Libertel_Canal_Saint_Martin	Libertel_Canal_Saint_Martin	R	1	ne=Hotel
-5	war	sein	V	1	
-6	gut	gut	G	1	
-7	.	.	O	1	
+1	Der	die	D	1	O
+2	Aufenthalt	Aufenthalt	N	1	O
+3	in	in	P	1	O
+4	Libertel	Libertel	O	1	I-Hotel
+5	Canal	Canal	O	1	I-Hotel
+6	Saint	Saint	R	1	I-Hotel
+7	Martin	Martin	R	1	I-Hotel
+8	war	sein	V	1	O
+9	gut	gut	G	1	O
+10	.	.	O	1	O
 
-1	Das	die	D	1	
-2	"	"	O	1	
-3	comfort	Comfort	R	1	
-4	"	"	O	1	
-5	Zimmer	Zimmer	N	1	
-6	mit	mit	P	1	
-7	Balkon	Balkon	N	1	
-8	im	in	P	1	
-9	7.	7.	O	1	
-10	Stock	Stock	N	1	
-11	(	(	O	1	
-12	Aufzug	Aufzug	N	1	
-13	vorhanden	vorhanden	G	1	
-14	)	)	O	1	
-15	war	sein	V	1	
-16	schön	schön	G	1	
-17	eingerichtet	einrichten	V	1	
-18	.	.	O	1	
+1	Das	die	D	1	O
+2	"	"	O	1	O
+3	comfort	Comfort	R	1	O
+4	"	"	O	1	O
+5	Zimmer	Zimmer	N	1	O
+6	mit	mit	P	1	O
+7	Balkon	Balkon	N	1	O
+8	im	in	P	1	O
+9	7.	7.	O	1	O
+10	Stock	Stock	N	1	O
+11	(	(	O	1	O
+12	Aufzug	Aufzug	N	1	O
+13	vorhanden	vorhanden	G	1	O
+14	)	)	O	1	O
+15	war	sein	V	1	O
+16	schön	schön	G	1	O
+17	eingerichtet	einrichten	V	1	O
+18	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	hatte	haben	V	1	
-3	genug	genug	A	1	
-4	Platz	Platz	N	1	
-5	für	für	P	1	
-6	Koffer	Koffer	N	1	
-7	.	.	O	1	
+1	Man	man	Q	1	O
+2	hatte	haben	V	1	O
+3	genug	genug	A	1	O
+4	Platz	Platz	N	1	O
+5	für	für	P	1	O
+6	Koffer	Koffer	N	1	O
+7	.	.	O	1	O
 
-1	Wasserkocher	Wasserkocher	N	1	
-2	und	und	C	1	
-3	TV	TV	R	1	
-4	haben	haben	V	1	
-5	funktioniert	funktionieren	V	1	
-6	.	.	O	1	
+1	Wasserkocher	Wasserkocher	N	1	O
+2	und	und	C	1	O
+3	TV	TV	R	1	O
+4	haben	haben	V	1	O
+5	funktioniert	funktionieren	V	1	O
+6	.	.	O	1	O
 
-1	Blick	Blick	N	1	
-2	auf	auf	P	1	
-3	das	die	D	1	
-4	Sacre_Coeur	Sacre_Coeur	R	1	ne=Attraction
-5	!	!	O	1	
-6	=	=	O	1	
-7	)	)	O	1	
+1	Blick	Blick	N	1	O
+2	auf	auf	P	1	O
+3	das	die	D	1	O
+4	Sacre	Sacre	O	1	I-Attraction
+5	Coeur	Coeur	O	1	I-Attraction
+6	!	!	O	1	O
+7	=	=	O	1	O
+8	)	)	O	1	O
 
-1	Kleines	klein	G	1	
-2	Makel	Makel	N	1	
-3	:	:	O	1	
-4	kein	keine	Q	1	
-5	Kühlschrank	Kühlschrank	N	1	
-6	/	/	O	1	
-7	Minibar	Minibar	N	1	
-8	.	.	O	1	
+1	Kleines	klein	G	1	O
+2	Makel	Makel	N	1	O
+3	:	:	O	1	O
+4	kein	keine	Q	1	O
+5	Kühlschrank	Kühlschrank	N	1	O
+6	/	/	O	1	O
+7	Minibar	Minibar	N	1	O
+8	.	.	O	1	O
 
-1	Was	was	Q	1	
-2	bei	bei	P	1	
-3	Temperaturen	Temperatur	N	1	
-4	von	von	P	1	
-5	26C	26C	O	1	
-6	schon	schon	A	1	
-7	recht	recht	G	1	
-8	schön	schön	G	1	
-9	gewesen	sein	V	1	
-10	wäre	sein	V	1	
-11	...	...	O	1	
+1	Was	was	Q	1	O
+2	bei	bei	P	1	O
+3	Temperaturen	Temperatur	N	1	O
+4	von	von	P	1	O
+5	26C	26C	O	1	O
+6	schon	schon	A	1	O
+7	recht	recht	G	1	O
+8	schön	schön	G	1	O
+9	gewesen	sein	V	1	O
+10	wäre	sein	V	1	O
+11	...	...	O	1	O
 
-1	Außerdem	außerdem	A	1	
-2	·	·	O	1	
-3	vielleicht	vielleicht	A	1	
-4	"	"	O	1	
-5	vergessen	vergessen	V	1	
-6	"	"	O	1	
-7	·	·	O	1	
-8	kein	keine	Q	1	
-9	Duschvorhang	Duschvorhang	N	1	
-10	im	in	P	1	
-11	Bad	Bad	R	1	
-12	.	.	O	1	
+1	Außerdem	außerdem	A	1	O
+2	·	·	O	1	O
+3	vielleicht	vielleicht	A	1	O
+4	"	"	O	1	O
+5	vergessen	vergessen	V	1	O
+6	"	"	O	1	O
+7	·	·	O	1	O
+8	kein	keine	Q	1	O
+9	Duschvorhang	Duschvorhang	N	1	O
+10	im	in	P	1	O
+11	Bad	Bad	R	1	O
+12	.	.	O	1	O
 
-1	Aber	aber	C	1	
-2	die	die	D	1	
-3	Überschwemmung	Überschwemmung	N	1	
-4	hielt	halten	V	1	
-5	sich	sich	Q	1	
-6	in	in	P	1	
-7	Grenzen	Grenze	N	1	
-8	;	;	O	1	
-9	)	)	O	1	
+1	Aber	aber	C	1	O
+2	die	die	D	1	O
+3	Überschwemmung	Überschwemmung	N	1	O
+4	hielt	halten	V	1	O
+5	sich	sich	Q	1	O
+6	in	in	P	1	O
+7	Grenzen	Grenze	N	1	O
+8	;	;	O	1	O
+9	)	)	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	kein	keine	Q	1	
-4	Frühstück	Frühstück	N	1	
-5	(	(	O	1	
-6	8_€	8_€	R	1	ne=Money
-7	pro	pro	P	1	
-8	Person	Person	N	1	
-9	)	)	O	1	
-10	,	,	O	1	
-11	jedoch	jedoch	A	1	
-12	sah	sehen	V	1	
-13	der	die	D	1	
-14	Frühstücksrau	Frühstücksrau	O	1	
-15	ganz	ganz	A	1	
-16	nett	nett	G	1	
-17	aus	aus	V	1	
-18	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	kein	keine	Q	1	O
+4	Frühstück	Frühstück	N	1	O
+5	(	(	O	1	O
+6	8	8	O	1	I-Money
+7	€	€	O	1	I-Money
+8	pro	pro	P	1	O
+9	Person	Person	N	1	O
+10	)	)	O	1	O
+11	,	,	O	1	O
+12	jedoch	jedoch	A	1	O
+13	sah	sehen	V	1	O
+14	der	die	D	1	O
+15	Frühstücksrau	Frühstücksrau	O	1	O
+16	ganz	ganz	A	1	O
+17	nett	nett	G	1	O
+18	aus	aus	V	1	O
+19	.	.	O	1	O
 
-1	Guter	gut	G	1	
-2	Kaffeeautomat	Kaffeeautomat	N	1	
-3	vorhanden	vorhanden	G	1	
-4	.	.	O	1	
+1	Guter	gut	G	1	O
+2	Kaffeeautomat	Kaffeeautomat	N	1	O
+3	vorhanden	vorhanden	G	1	O
+4	.	.	O	1	O
 
-1	Auswahl	Auswahl	N	1	
-2	an	an	P	1	
-3	Baguette	Baguette	O	1	
-4	,	,	O	1	
-5	Brot	Brot	N	1	
-6	,	,	O	1	
-7	Marmelade	Marmelade	N	1	
-8	etc.	etc.	A	1	
-9	das	die	D	1	
-10	übliche	üblich	G	1	
-11	halt	halt	A	1	
-12	...	...	O	1	
+1	Auswahl	Auswahl	N	1	O
+2	an	an	P	1	O
+3	Baguette	Baguette	O	1	O
+4	,	,	O	1	O
+5	Brot	Brot	N	1	O
+6	,	,	O	1	O
+7	Marmelade	Marmelade	N	1	O
+8	etc.	etc.	A	1	O
+9	das	die	D	1	O
+10	übliche	üblich	G	1	O
+11	halt	halt	A	1	O
+12	...	...	O	1	O
 
-1	Gleich	gleich	G	1	
-2	um	um	P	1	
-3	die	die	D	1	
-4	Ecke	Ecke	N	1	
-5	die	die	D	1	
-6	Matro	Matro	O	1	
-7	Station	Station	N	1	
-8	"	"	O	1	
-9	Jaures	Jaures	O	1	
-10	"	"	O	1	
-11	.	.	O	1	
-12	gute	gut	G	1	
-13	Anbindungen	Anbindung	N	1	
-14	(	(	O	1	
-15	mit	mit	P	1	
-16	einmal	einmal	A	1	
-17	umsteigen	umsteigen	V	1	
-18	)	)	O	1	
-19	in	in	P	1	
-20	jede	jede	Q	1	
-21	Ecke	Ecke	N	1	
-22	der	die	D	1	
-23	Stadt	Stadt	N	1	
-24	;	;	O	1	
-25	)	)	O	1	
-26	Außerdem	außerdem	A	1	
-27	kleine	klein	G	1	
-28	Cafes	Cafes	O	1	
-29	,	,	O	1	
-30	ein	eine	D	1	
-31	Supermarkt	Supermarkt	N	1	
-32	(	(	O	1	
-33	mit	mit	P	1	
-34	nicht	nicht	O	1	
-35	sehr	sehr	A	1	
-36	freundlichen	freundlich	G	1	
-37	Kassierern	Kassierer	N	1	
-38	)	)	O	1	
-39	und	und	C	1	
-40	ein	eine	D	1	
-41	Mc_Donalds	Mc_Donald	R	1	ne=Restaurant
-42	nebenan	nebenan	A	1	
-43	.	.	O	1	
+1	Gleich	gleich	G	1	O
+2	um	um	P	1	O
+3	die	die	D	1	O
+4	Ecke	Ecke	N	1	O
+5	die	die	D	1	O
+6	Matro	Matro	O	1	O
+7	Station	Station	N	1	O
+8	"	"	O	1	O
+9	Jaures	Jaures	O	1	O
+10	"	"	O	1	O
+11	.	.	O	1	O
+12	gute	gut	G	1	O
+13	Anbindungen	Anbindung	N	1	O
+14	(	(	O	1	O
+15	mit	mit	P	1	O
+16	einmal	einmal	A	1	O
+17	umsteigen	umsteigen	V	1	O
+18	)	)	O	1	O
+19	in	in	P	1	O
+20	jede	jede	Q	1	O
+21	Ecke	Ecke	N	1	O
+22	der	die	D	1	O
+23	Stadt	Stadt	N	1	O
+24	;	;	O	1	O
+25	)	)	O	1	O
+26	Außerdem	außerdem	A	1	O
+27	kleine	klein	G	1	O
+28	Cafes	Cafes	O	1	O
+29	,	,	O	1	O
+30	ein	eine	D	1	O
+31	Supermarkt	Supermarkt	N	1	O
+32	(	(	O	1	O
+33	mit	mit	P	1	O
+34	nicht	nicht	O	1	O
+35	sehr	sehr	A	1	O
+36	freundlichen	freundlich	G	1	O
+37	Kassierern	Kassierer	N	1	O
+38	)	)	O	1	O
+39	und	und	C	1	O
+40	ein	eine	D	1	O
+41	Mc	Mc	R	1	I-Restaurant
+42	Donalds	Donald	R	1	I-Restaurant
+43	nebenan	nebenan	A	1	O
+44	.	.	O	1	O
 

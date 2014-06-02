@@ -1,127 +1,129 @@
-1	Bei	bei	P	1	
-2	Hilton	Hilton	O	1	
-3	weis	weis	V	1	
-4	man	man	Q	1	
-5	,	,	O	1	
-6	was	was	Q	1	
-7	man	man	Q	1	
-8	bekommt	bekommen	V	1	
-9	!	!	O	1	
+1	Bei	bei	P	1	O
+2	Hilton	Hilton	O	1	O
+3	weis	weis	V	1	O
+4	man	man	Q	1	O
+5	,	,	O	1	O
+6	was	was	Q	1	O
+7	man	man	Q	1	O
+8	bekommt	bekommen	V	1	O
+9	!	!	O	1	O
 
-1	Tolles	toll	G	1	
-2	Hotel	Hotel	N	1	
-3	·	·	O	1	
-4	Hilton	Hilton	O	1	
-5	typischer	typisch	G	1	
-6	Standard	Standard	N	1	
-7	.	.	O	1	
+1	Tolles	toll	G	1	O
+2	Hotel	Hotel	N	1	O
+3	·	·	O	1	O
+4	Hilton	Hilton	O	1	O
+5	typischer	typisch	G	1	O
+6	Standard	Standard	N	1	O
+7	.	.	O	1	O
 
-1	Konnte	können	V	1	
-2	das	die	D	1	
-3	Hotel	Hotel	N	1	
-4	für	für	P	1	
-5	Sage	Sage	N	1	
-6	und	und	C	1	
-7	Schreibe	Schreibe	O	1	
-8	60_Euro	60_Euro	R	1	ne=Money
-9	(	(	O	1	
-10	an	an	P	1	
-11	einem	eine	D	1	
-12	Wochenende	Wochenende	R	1	ne=Date
-13	!	!	O	1	
-14	)	)	O	1	
-15	buchen	buchen	V	1	
-16	.	.	O	1	
+1	Konnte	können	V	1	O
+2	das	die	D	1	O
+3	Hotel	Hotel	N	1	O
+4	für	für	P	1	O
+5	Sage	Sage	N	1	O
+6	und	und	C	1	O
+7	Schreibe	Schreibe	O	1	O
+8	60	60	O	1	I-Money
+9	Euro	Euro	N	1	I-Money
+10	(	(	O	1	O
+11	an	an	P	1	O
+12	einem	eine	D	1	O
+13	Wochenende	Wochenende	R	1	I-Date
+14	!	!	O	1	O
+15	)	)	O	1	O
+16	buchen	buchen	V	1	O
+17	.	.	O	1	O
 
-1	Durch	durch	P	1	
-2	meinen	mein	Q	1	
-3	Goldstatus	Goldstatus	O	1	
-4	gab	geben	V	1	
-5	'	'	O	1	
-6	s	s	N	1	
-7	das	die	D	1	
-8	Frühstück	Frühstück	N	1	
-9	umsonst	umsonst	A	1	
-10	.	.	O	1	
+1	Durch	durch	P	1	O
+2	meinen	mein	Q	1	O
+3	Goldstatus	Goldstatus	O	1	O
+4	gab	geben	V	1	O
+5	'	'	O	1	O
+6	s	s	N	1	O
+7	das	die	D	1	O
+8	Frühstück	Frühstück	N	1	O
+9	umsonst	umsonst	A	1	O
+10	.	.	O	1	O
 
-1	Von	von	P	1	
-2	daher	daher	A	1	
-3	unschlagbar	unschlagbar	G	1	
-4	!	!	O	1	
+1	Von	von	P	1	O
+2	daher	daher	A	1	O
+3	unschlagbar	unschlagbar	G	1	O
+4	!	!	O	1	O
 
-1	Die	die	D	1	
-2	Lage	Lage	N	1	
-3	ist	sein	V	1	
-4	ganz	ganz	A	1	
-5	gut	gut	G	1	
-6	,	,	O	1	
-7	liegt	liegen	V	1	
-8	genau	genau	G	1	
-9	zwischen	zwischen	P	1	
-10	Flughafen	Flughafen	N	1	
-11	und	und	C	1	
-12	Altstadt	Altstadt	N	1	
-13	.	.	O	1	
+1	Die	die	D	1	O
+2	Lage	Lage	N	1	O
+3	ist	sein	V	1	O
+4	ganz	ganz	A	1	O
+5	gut	gut	G	1	O
+6	,	,	O	1	O
+7	liegt	liegen	V	1	O
+8	genau	genau	G	1	O
+9	zwischen	zwischen	P	1	O
+10	Flughafen	Flughafen	N	1	O
+11	und	und	C	1	O
+12	Altstadt	Altstadt	N	1	O
+13	.	.	O	1	O
 
-1	Zur	zu	P	1	
-2	Straßenbahn	Straßenbahn	N	1	
-3	geht	gehen	V	1	
-4	man	man	Q	1	
-5	5	5	O	1	
-6	Minuten	Minute	N	1	
-7	.	.	O	1	
+1	Zur	zu	P	1	O
+2	Straßenbahn	Straßenbahn	N	1	O
+3	geht	gehen	V	1	O
+4	man	man	Q	1	O
+5	5	5	O	1	O
+6	Minuten	Minute	N	1	O
+7	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	zum	zu	P	1	
-3	Stadion	Stadion	N	1	
-4	/	/	O	1	
-5	Messe	Messe	N	1	
-6	ist	sein	V	1	
-7	es	es	Q	1	
-8	nicht	nicht	O	1	
-9	weit	weit	G	1	
-10	.	.	O	1	
+1	Auch	auch	A	1	O
+2	zum	zu	P	1	O
+3	Stadion	Stadion	N	1	O
+4	/	/	O	1	O
+5	Messe	Messe	N	1	O
+6	ist	sein	V	1	O
+7	es	es	Q	1	O
+8	nicht	nicht	O	1	O
+9	weit	weit	G	1	O
+10	.	.	O	1	O
 
-1	Lediglich	lediglich	A	1	
-2	die	die	D	1	
-3	Fahrt	Fahrt	N	1	
-4	zum	zu	P	1	
-5	Flughafen	Flughafen	N	1	
-6	ist	sein	V	1	
-7	etwas	etwas	A	1	
-8	umständlich	umständlich	G	1	
-9	,	,	O	1	
-10	da	da	C	1	
-11	der	die	D	1	
-12	Bus	Bus	N	1	
-13	nur	nur	A	1	
-14	bis	bis	P	1	
-15	zum	zu	P	1	
-16	Bahnhof	Bahnhof	N	1	
-17	Flughafen	Flughafen	N	1	
-18	fährt	fahren	V	1	
-19	.	.	O	1	
+1	Lediglich	lediglich	A	1	O
+2	die	die	D	1	O
+3	Fahrt	Fahrt	N	1	O
+4	zum	zu	P	1	O
+5	Flughafen	Flughafen	N	1	O
+6	ist	sein	V	1	O
+7	etwas	etwas	A	1	O
+8	umständlich	umständlich	G	1	O
+9	,	,	O	1	O
+10	da	da	C	1	O
+11	der	die	D	1	O
+12	Bus	Bus	N	1	O
+13	nur	nur	A	1	O
+14	bis	bis	P	1	O
+15	zum	zu	P	1	O
+16	Bahnhof	Bahnhof	N	1	O
+17	Flughafen	Flughafen	N	1	O
+18	fährt	fahren	V	1	O
+19	.	.	O	1	O
 
-1	Von	von	P	1	
-2	dort	dort	A	1	
-3	muss	müssen	V	1	
-4	man	man	Q	1	
-5	noch	noch	A	1	
-6	mit	mit	P	1	
-7	der	die	D	1	
-8	Flughafenbahn	Flughafenbahn	N	1	
-9	5	5	O	1	
-10	Minuten	Minute	N	1	
-11	fahren	fahren	V	1	
-12	.	.	O	1	
+1	Von	von	P	1	O
+2	dort	dort	A	1	O
+3	muss	müssen	V	1	O
+4	man	man	Q	1	O
+5	noch	noch	A	1	O
+6	mit	mit	P	1	O
+7	der	die	D	1	O
+8	Flughafenbahn	Flughafenbahn	N	1	O
+9	5	5	O	1	O
+10	Minuten	Minute	N	1	O
+11	fahren	fahren	V	1	O
+12	.	.	O	1	O
 
-1	Taxi	Taxi	N	1	
-2	kostet	kosten	V	1	
-3	etwa	etwa	A	1	
-4	15_Euro	15_Euro	R	1	ne=Money
-5	inkl	inkl	O	1	
-6	.	.	O	1	
+1	Taxi	Taxi	N	1	O
+2	kostet	kosten	V	1	O
+3	etwa	etwa	A	1	O
+4	15	15	O	1	I-Money
+5	Euro	Euro	N	1	I-Money
+6	inkl	inkl	O	1	O
+7	.	.	O	1	O
 
-1	Trinkgeld	Trinkgeld	N	1	
-2	.	.	O	1	
+1	Trinkgeld	Trinkgeld	N	1	O
+2	.	.	O	1	O
 

@@ -1,50 +1,50 @@
-1	Bien	Bien	G	1	
-2	situé	situer	V	1	
+1	Bien	Bien	G	1	O
+2	situé	situer	V	1	O
 
-1	Hotel	Hotel	N	1	
-2	simpatique	simpatique	G	1	
-3	,	,	O	1	
-4	bien	bien	G	1	
-5	situé	situer	V	1	
-6	au	au	P	1	
-7	centre	centre	D	1	
-8	ville	ville	N	1	
-9	,	,	O	1	
-10	proche	proche	G	1	
-11	de	de	P	1	
-12	la	le	D	1	
-13	gare	gare	N	1	
-14	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	simpatique	simpatique	G	1	O
+3	,	,	O	1	O
+4	bien	bien	G	1	O
+5	situé	situer	V	1	O
+6	au	au	P	1	O
+7	centre	centre	D	1	O
+8	ville	ville	N	1	O
+9	,	,	O	1	O
+10	proche	proche	G	1	O
+11	de	de	P	1	O
+12	la	le	D	1	O
+13	gare	gare	N	1	O
+14	.	.	O	1	O
 
-1	Hotel	Hotel	N	1	
-2	moyennement	moyennement	G	1	
-3	isolé	isoler	G	1	
-4	mais	mais	C	1	
-5	chambres	chambre	N	1	
-6	spacieuses	spacieux	G	1	
-7	et	et	C	1	
-8	propres	propre	G	1	
-9	;	;	O	1	
-10	on	on	Q	1	
-11	s'	s'	Q	1	
-12	y	y	Q	1	
-13	sent	sentir	V	1	
-14	a	avoir	V	1	
-15	l'	le	D	1	
-16	aise	aise	N	1	
-17	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	moyennement	moyennement	G	1	O
+3	isolé	isoler	G	1	O
+4	mais	mais	C	1	O
+5	chambres	chambre	N	1	O
+6	spacieuses	spacieux	G	1	O
+7	et	et	C	1	O
+8	propres	propre	G	1	O
+9	;	;	O	1	O
+10	on	on	Q	1	O
+11	s'	s'	Q	1	O
+12	y	y	Q	1	O
+13	sent	sentir	V	1	O
+14	a	avoir	V	1	O
+15	l'	le	D	1	O
+16	aise	aise	N	1	O
+17	.	.	O	1	O
 
-1	Climatisation	Climatisation	O	1	
-2	un	un	D	1	
-3	peu	peu	G	1	
-4	bruyante	bruyant	G	1	
-5	la	le	D	1	
-6	nuit	nuit	N	1	
-7	,	,	O	1	
-8	mais	mais	C	1	
-9	supportable	supportable	G	1	
-10	dans	dans	P	1	
-11	l'	le	D	1	
-12	ensemble	ensemble	N	1	
-13	.	.	O	1	
+1	Climatisation	Climatisation	O	1	O
+2	un	un	D	1	O
+3	peu	peu	G	1	O
+4	bruyante	bruyant	G	1	O
+5	la	le	D	1	O
+6	nuit	nuit	N	1	O
+7	,	,	O	1	O
+8	mais	mais	C	1	O
+9	supportable	supportable	G	1	O
+10	dans	dans	P	1	O
+11	l'	le	D	1	O
+12	ensemble	ensemble	N	1	O
+13	.	.	O	1	O
 

@@ -1,65 +1,65 @@
-1	Zimmer	Zimmer	R	1	
-2	riechen	riechen	V	1	
-3	nach	nach	P	1	
-4	Muff	Muff	N	1	
+1	Zimmer	Zimmer	R	1	O
+2	riechen	riechen	V	1	O
+3	nach	nach	P	1	O
+4	Muff	Muff	N	1	O
 
-1	Hotel	Hotel	N	1	
-2	liegt	liegen	V	1	
-3	in	in	P	1	
-4	einer	eine	D	1	
-5	schönen	schön	G	1	
-6	Anlage	Anlage	N	1	
-7	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	liegt	liegen	V	1	O
+3	in	in	P	1	O
+4	einer	eine	D	1	O
+5	schönen	schön	G	1	O
+6	Anlage	Anlage	N	1	O
+7	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Sandstrand	Sandstrand	N	1	
-3	ist	sein	V	1	
-4	sehr	sehr	A	1	
-5	schmal	schmal	G	1	
-6	im	in	P	1	
-7	Vergleich	Vergleich	N	1	
-8	zu	zu	P	1	
-9	anderen	andere	Q	1	
-10	Hotels	Hotel	N	1	
-11	in	in	P	1	
-12	Bali	Bali	R	1	ne=Location
-13	.	.	O	1	
+1	Der	die	D	1	O
+2	Sandstrand	Sandstrand	N	1	O
+3	ist	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	schmal	schmal	G	1	O
+6	im	in	P	1	O
+7	Vergleich	Vergleich	N	1	O
+8	zu	zu	P	1	O
+9	anderen	andere	Q	1	O
+10	Hotels	Hotel	N	1	O
+11	in	in	P	1	O
+12	Bali	Bali	R	1	I-Location
+13	.	.	O	1	O
 
-1	Frühstücksbuffet	Frühstücksbuffet	N	1	
-2	ist	sein	V	1	
-3	unübersichtlich	unübersichtlich	G	1	
-4	und	und	C	1	
-5	fast	fast	A	1	
-6	ausschließlich	ausschließlich	A	1	
-7	mit	mit	P	1	
-8	asiatischen	asiatisch	G	1	
-9	Speisen	Speise|Speisen	N	1	
-10	,	,	O	1	
-11	kaum	kaum	A	1	
-12	europäische	europäisch	G	1	
-13	Speisen	Speise|Speisen	N	1	
-14	im	in	P	1	
-15	Angebot	Angebot	N	1	
-16	(	(	O	1	
-17	außer	außer	P	1	
-18	Eier	Ei	N	1	
-19	)	)	O	1	
+1	Frühstücksbuffet	Frühstücksbuffet	N	1	O
+2	ist	sein	V	1	O
+3	unübersichtlich	unübersichtlich	G	1	O
+4	und	und	C	1	O
+5	fast	fast	A	1	O
+6	ausschließlich	ausschließlich	A	1	O
+7	mit	mit	P	1	O
+8	asiatischen	asiatisch	G	1	O
+9	Speisen	Speise|Speisen	N	1	O
+10	,	,	O	1	O
+11	kaum	kaum	A	1	O
+12	europäische	europäisch	G	1	O
+13	Speisen	Speise|Speisen	N	1	O
+14	im	in	P	1	O
+15	Angebot	Angebot	N	1	O
+16	(	(	O	1	O
+17	außer	außer	P	1	O
+18	Eier	Ei	N	1	O
+19	)	)	O	1	O
 
-1	Hotel	Hotel	N	1	
-2	,	,	O	1	
-3	speziell	speziell	G	1	
-4	die	die	D	1	
-5	Zimmer	Zimmer	N	1	
-6	entsprechen	entsprechen	V	1	
-7	nicht	nicht	O	1	
-8	5	5	O	1	
-9	Sternen	Stern	N	1	
-10	und	und	C	1	
-11	sollten	sollen	V	1	
-12	schnellstens	schnellstens	A	1	
-13	renoviert	renovieren	V	1	
-14	bzw.	bzw.	C	1	
-15	instandgesetzt	instandsetzen	V	1	
-16	werden	werden	V	1	
-17	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	,	,	O	1	O
+3	speziell	speziell	G	1	O
+4	die	die	D	1	O
+5	Zimmer	Zimmer	N	1	O
+6	entsprechen	entsprechen	V	1	O
+7	nicht	nicht	O	1	O
+8	5	5	O	1	O
+9	Sternen	Stern	N	1	O
+10	und	und	C	1	O
+11	sollten	sollen	V	1	O
+12	schnellstens	schnellstens	A	1	O
+13	renoviert	renovieren	V	1	O
+14	bzw.	bzw.	C	1	O
+15	instandgesetzt	instandsetzen	V	1	O
+16	werden	werden	V	1	O
+17	.	.	O	1	O
 

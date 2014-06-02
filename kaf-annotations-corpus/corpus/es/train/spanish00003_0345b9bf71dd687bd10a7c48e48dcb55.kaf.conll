@@ -1,121 +1,121 @@
-1	Un	un	G	1	
-2	poco	poco	N	1	
-3	viejo	viejo	N	1	
-4	en	en	O	1	
-5	las	las	O	1	
-6	zonas	zonas	O	1	
-7	comunes	comunes	N	1	
+1	Un	un	G	1	O
+2	poco	poco	N	1	O
+3	viejo	viejo	N	1	O
+4	en	en	O	1	O
+5	las	las	O	1	O
+6	zonas	zonas	O	1	O
+7	comunes	comunes	N	1	O
 
-1	en	en	P	1	
-2	general	general	G	1	
-3	no	no	D	1	
-4	está	está	N	1	
-5	mal	mal	N	1	
-6	.	.	O	1	
+1	en	en	P	1	O
+2	general	general	G	1	O
+3	no	no	D	1	O
+4	está	está	N	1	O
+5	mal	mal	N	1	O
+6	.	.	O	1	O
 
-1	hay	hay	G	1	
-2	WIFI	WIFI	R	1	
-3	gratuito	gratuito	N	1	
-4	,	,	O	1	
-5	las	las	G	1	
-6	habitaciones	habitaciones	N	1	
-7	son	son	N	1	
-8	amplias	amplias	P	1	
-9	y	y	G	1	
-10	cómodas	cómodas	N	1	
-11	,	,	O	1	
-12	el	el	N	1	
-13	baño	baño	N	1	
-14	es	es	V	1	
-15	correcto	correcto	G	1	
-16	y	y	G	1	
-17	tienen	tienen	G	1	
-18	una	una	G	1	
-19	buena	buena	N	1	
-20	terraza.	terraza.	N	1	
-21	el	el	N	1	
-22	desayuno	desayuno	N	1	
-23	no	no	D	1	
-24	era	era	N	1	
-25	abundante	abundante	A	1	
-26	,	,	O	1	
-27	pero	pero	O	1	
-28	de	de	O	1	
-29	muy	muy	O	1	
-30	buena	buena	O	1	
-31	calidad	calidad	O	1	
-32	,	,	O	1	
-33	eso	eso	A	1	
-34	si	si	N	1	
-35	las	las	A	1	
-36	zonas	zonas	V	1	
-37	comunes	comunes	N	1	
-38	están	están	N	1	
-39	un	un	G	1	
-40	poco	poco	N	1	
-41	viejas	viejas	N	1	
-42	.	.	O	1	
+1	hay	hay	G	1	O
+2	WIFI	WIFI	R	1	O
+3	gratuito	gratuito	N	1	O
+4	,	,	O	1	O
+5	las	las	G	1	O
+6	habitaciones	habitaciones	N	1	O
+7	son	son	N	1	O
+8	amplias	amplias	P	1	O
+9	y	y	G	1	O
+10	cómodas	cómodas	N	1	O
+11	,	,	O	1	O
+12	el	el	N	1	O
+13	baño	baño	N	1	O
+14	es	es	V	1	O
+15	correcto	correcto	G	1	O
+16	y	y	G	1	O
+17	tienen	tienen	G	1	O
+18	una	una	G	1	O
+19	buena	buena	N	1	O
+20	terraza.	terraza.	N	1	O
+21	el	el	N	1	O
+22	desayuno	desayuno	N	1	O
+23	no	no	D	1	O
+24	era	era	N	1	O
+25	abundante	abundante	A	1	O
+26	,	,	O	1	O
+27	pero	pero	O	1	O
+28	de	de	O	1	O
+29	muy	muy	O	1	O
+30	buena	buena	O	1	O
+31	calidad	calidad	O	1	O
+32	,	,	O	1	O
+33	eso	eso	A	1	O
+34	si	si	N	1	O
+35	las	las	A	1	O
+36	zonas	zonas	V	1	O
+37	comunes	comunes	N	1	O
+38	están	están	N	1	O
+39	un	un	G	1	O
+40	poco	poco	N	1	O
+41	viejas	viejas	N	1	O
+42	.	.	O	1	O
 
-1	la	la	D	1	
-2	ubicación	ubicación	N	1	
-3	es	es	V	1	
-4	perfecta	perfecta	N	1	
-5	,	,	O	1	
-6	buenos	buenos	N	1	
-7	transportes	transportes	V	1	
-8	,	,	O	1	
-9	primera	primera	N	1	
-10	linea	linea	N	1	
-11	de	de	P	1	
-12	playa	playa	N	1	
-13	y	y	G	1	
-14	con	con	N	1	
-15	abundantes	abundantes	N	1	
-16	restaurantes	restaurantes	V	1	
-17	y	y	G	1	
-18	locales	locale	N	1	
-19	de	de	P	1	
-20	ocio	ocio	N	1	
-21	cerca	cerca	N	1	
-22	.	.	O	1	
+1	la	la	D	1	O
+2	ubicación	ubicación	N	1	O
+3	es	es	V	1	O
+4	perfecta	perfecta	N	1	O
+5	,	,	O	1	O
+6	buenos	buenos	N	1	O
+7	transportes	transportes	V	1	O
+8	,	,	O	1	O
+9	primera	primera	N	1	O
+10	linea	linea	N	1	O
+11	de	de	P	1	O
+12	playa	playa	N	1	O
+13	y	y	G	1	O
+14	con	con	N	1	O
+15	abundantes	abundantes	N	1	O
+16	restaurantes	restaurantes	V	1	O
+17	y	y	G	1	O
+18	locales	locale	N	1	O
+19	de	de	P	1	O
+20	ocio	ocio	N	1	O
+21	cerca	cerca	N	1	O
+22	.	.	O	1	O
 
-1	el	el	N	1	
-2	único	único	O	1	
-3	inconveniente	inconveniente	O	1	
-4	lo	lo	O	1	
-5	encontré	encontré	O	1	
-6	en	en	O	1	
-7	recepción	recepción	N	1	
-8	,	,	O	1	
-9	puesto	puesto	O	1	
-10	en	en	O	1	
-11	el	el	O	1	
-12	cual	cual	G	1	
-13	los	los	N	1	
-14	trabajadores	trabajadores	V	1	
-15	no	no	D	1	
-16	eran	eran	G	1	
-17	para	para	G	1	
-18	nada	nada	N	1	
-19	amables	amables	N	1	
-20	,	,	O	1	
-21	y	y	A	1	
-22	es	es	V	1	
-23	algo	algo	A	1	
-24	que	que	G	1	
-25	sorprende	sorprende	N	1	
-26	,	,	O	1	
-27	ya	you	Q	1	
-28	que	que	V	1	
-29	generalmente	generalmente	G	1	
-30	suelen	suelen	N	1	
-31	ser	ser	N	1	
-32	de	de	P	1	
-33	lo	lo	G	1	
-34	mejor	mejor	G	1	
-35	en	en	P	1	
-36	todos	todos	N	1	
-37	os	os	N	1	
-38	hoteles	hoteles	N	1	
-39	.	.	O	1	
+1	el	el	N	1	O
+2	único	único	O	1	O
+3	inconveniente	inconveniente	O	1	O
+4	lo	lo	O	1	O
+5	encontré	encontré	O	1	O
+6	en	en	O	1	O
+7	recepción	recepción	N	1	O
+8	,	,	O	1	O
+9	puesto	puesto	O	1	O
+10	en	en	O	1	O
+11	el	el	O	1	O
+12	cual	cual	G	1	O
+13	los	los	N	1	O
+14	trabajadores	trabajadores	V	1	O
+15	no	no	D	1	O
+16	eran	eran	G	1	O
+17	para	para	G	1	O
+18	nada	nada	N	1	O
+19	amables	amables	N	1	O
+20	,	,	O	1	O
+21	y	y	A	1	O
+22	es	es	V	1	O
+23	algo	algo	A	1	O
+24	que	que	G	1	O
+25	sorprende	sorprende	N	1	O
+26	,	,	O	1	O
+27	ya	you	Q	1	O
+28	que	que	V	1	O
+29	generalmente	generalmente	G	1	O
+30	suelen	suelen	N	1	O
+31	ser	ser	N	1	O
+32	de	de	P	1	O
+33	lo	lo	G	1	O
+34	mejor	mejor	G	1	O
+35	en	en	P	1	O
+36	todos	todos	N	1	O
+37	os	os	N	1	O
+38	hoteles	hoteles	N	1	O
+39	.	.	O	1	O
 

@@ -1,53 +1,53 @@
-1	Hôtel	hôtel	N	1	
-2	magnifique	magnifique	N	1	
+1	Hôtel	hôtel	N	1	O
+2	magnifique	magnifique	N	1	O
 
-1	Un	un	D	1	
-2	hotel	hotel	N	1	
-3	de	de	P	1	
-4	toute	tout	D	1	
-5	beauté	beauté	N	1	
-6	.	.	O	1	
+1	Un	un	D	1	O
+2	hotel	hotel	N	1	O
+3	de	de	P	1	O
+4	toute	tout	D	1	O
+5	beauté	beauté	N	1	O
+6	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	tient	tenir	V	1	
-3	bien	bien	G	1	
-4	son	son	D	1	
-5	nom	nom	N	1	
-6	de	de	P	1	
-7	PALACE	palace	R	1	ne=Hotel
-8	.	.	O	1	
+1	Il	Il	Q	1	O
+2	tient	tenir	V	1	O
+3	bien	bien	G	1	O
+4	son	son	D	1	O
+5	nom	nom	N	1	O
+6	de	de	P	1	O
+7	PALACE	palace	R	1	I-Hotel
+8	.	.	O	1	O
 
-1	le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	sympathique	sympathique	G	1	
-5	,	,	O	1	
-6	les	le	D	1	
-7	chambres	chambre	N	1	
-8	sont	être	V	1	
-9	dans	dans	P	1	
-10	un	un	D	1	
-11	état	état	N	1	
-12	de	de	P	1	
-13	propreté	propreté	N	1	
-14	parfait	parfait	V	1	
-15	.	.	O	1	
+1	le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	sympathique	sympathique	G	1	O
+5	,	,	O	1	O
+6	les	le	D	1	O
+7	chambres	chambre	N	1	O
+8	sont	être	V	1	O
+9	dans	dans	P	1	O
+10	un	un	D	1	O
+11	état	état	N	1	O
+12	de	de	P	1	O
+13	propreté	propreté	N	1	O
+14	parfait	parfait	V	1	O
+15	.	.	O	1	O
 
-1	quel	quel	G	1	
-2	plaisir	plaisir	N	1	
-3	de	de	P	1	
-4	se	se	Q	1	
-5	baigner	baigner	V	1	
-6	dans	dans	P	1	
-7	la	le	D	1	
-8	superbe	superbe	N	1	
-9	piscine	piscine	G	1	
-10	.	.	O	1	
+1	quel	quel	G	1	O
+2	plaisir	plaisir	N	1	O
+3	de	de	P	1	O
+4	se	se	Q	1	O
+5	baigner	baigner	V	1	O
+6	dans	dans	P	1	O
+7	la	le	D	1	O
+8	superbe	superbe	N	1	O
+9	piscine	piscine	G	1	O
+10	.	.	O	1	O
 
-1	nous	lui	Q	1	
-2	y	y	Q	1	
-3	retournerons	retourner	V	1	
-4	sans	sans]	P	1	
-5	hésiter	hésiter	V	1	
-6	!!	!!	D	1	
+1	nous	lui	Q	1	O
+2	y	y	Q	1	O
+3	retournerons	retourner	V	1	O
+4	sans	sans]	P	1	O
+5	hésiter	hésiter	V	1	O
+6	!!	!!	D	1	O
 

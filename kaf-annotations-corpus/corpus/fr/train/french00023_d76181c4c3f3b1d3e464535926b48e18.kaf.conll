@@ -1,61 +1,61 @@
-1	Super	super	N	1	
+1	Super	super	N	1	O
 
-1	Paradis	Paradis	G	1	
-2	des	des	P	1	
-3	toboggans	toboggan	N	1	
-4	aquatiques	aquatique	G	1	
-5	.	.	O	1	
+1	Paradis	Paradis	G	1	O
+2	des	des	P	1	O
+3	toboggans	toboggan	N	1	O
+4	aquatiques	aquatique	G	1	O
+5	.	.	O	1	O
 
-1	Toujours	Toujours	G	1	
-2	autant	autant	G	1	
-3	de	de	P	1	
-4	monde	monde	N	1	
-5	qui	qui	P	1	
-6	gache	gache	V	1	
-7	un	un	D	1	
-8	peu	peu	G	1	
-9	le	le	D	1	
-10	plaisir	plaisir	N	1	
-11	car	car	C	1	
-12	beaucoup	beaucoup	G	1	
-13	d'	d'	P	1	
-14	attente	attente	N	1	
-15	entre	entre	P	1	
-16	chaque	chaque	D	1	
-17	attraction	attraction	N	1	
-18	.	.	O	1	
+1	Toujours	Toujours	G	1	O
+2	autant	autant	G	1	O
+3	de	de	P	1	O
+4	monde	monde	N	1	O
+5	qui	qui	P	1	O
+6	gache	gache	V	1	O
+7	un	un	D	1	O
+8	peu	peu	G	1	O
+9	le	le	D	1	O
+10	plaisir	plaisir	N	1	O
+11	car	car	C	1	O
+12	beaucoup	beaucoup	G	1	O
+13	d'	d'	P	1	O
+14	attente	attente	N	1	O
+15	entre	entre	P	1	O
+16	chaque	chaque	D	1	O
+17	attraction	attraction	N	1	O
+18	.	.	O	1	O
 
-1	Les	le	D	1	
-2	sauveteurs	sauveteur	N	1	
-3	ne	ne	G	1	
-4	font	faire	V	1	
-5	que	que	G	1	
-6	de	de	P	1	
-7	la	le	D	1	
-8	figuration	figuration	N	1	
-9	et	et	C	1	
-10	prise	prise	N	1	
-11	en	en	P	1	
-12	charge	charge	N	1	
-13	de	de	P	1	
-14	blessé	blessé	N	1	
-15	,	,	O	1	
-16	zéro	zéro	N	1	
-17	.	.	O	1	
+1	Les	le	D	1	O
+2	sauveteurs	sauveteur	N	1	O
+3	ne	ne	G	1	O
+4	font	faire	V	1	O
+5	que	que	G	1	O
+6	de	de	P	1	O
+7	la	le	D	1	O
+8	figuration	figuration	N	1	O
+9	et	et	C	1	O
+10	prise	prise	N	1	O
+11	en	en	P	1	O
+12	charge	charge	N	1	O
+13	de	de	P	1	O
+14	blessé	blessé	N	1	O
+15	,	,	O	1	O
+16	zéro	zéro	N	1	O
+17	.	.	O	1	O
 
-1	Certains	Certains	P	1	
-2	sont	être	V	1	
-3	limite	limite	N	1	
-4	désagréables	désagréable	G	1	
-5	.	.	O	1	
+1	Certains	Certains	P	1	O
+2	sont	être	V	1	O
+3	limite	limite	N	1	O
+4	désagréables	désagréable	G	1	O
+5	.	.	O	1	O
 
-1	Parking	Parking	O	1	
-2	payant	payer	V	1	
-3	,	,	O	1	
-4	transat	transat	N	1	
-5	payant	payant	G	1	
-6	,	,	O	1	
-7	casier	casier	N	1	
-8	payant	payant	G	1	
-9	.	.	O	1	
+1	Parking	Parking	O	1	O
+2	payant	payer	V	1	O
+3	,	,	O	1	O
+4	transat	transat	N	1	O
+5	payant	payant	G	1	O
+6	,	,	O	1	O
+7	casier	casier	N	1	O
+8	payant	payant	G	1	O
+9	.	.	O	1	O
 

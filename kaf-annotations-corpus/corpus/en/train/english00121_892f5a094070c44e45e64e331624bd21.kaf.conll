@@ -1,87 +1,87 @@
-1	Only	only	A	1	
-2	location	location	N	1	
+1	Only	only	A	1	O
+2	location	location	N	1	O
 
-1	I	i	Q	1	
-2	was	be	V	1	
-3	there	there	O	1	
-4	with	with	P	1	
-5	my	my	Q	1	
-6	friends	friend	N	1	
-7	in	in	P	1	
-8	a	a	D	1	
-9	4	4	O	1	
-10	days	day	N	1	
-11	vacation	vacation	N	1	
-12	.	.	O	1	
+1	I	i	Q	1	O
+2	was	be	V	1	O
+3	there	there	O	1	O
+4	with	with	P	1	O
+5	my	my	Q	1	O
+6	friends	friend	N	1	O
+7	in	in	P	1	O
+8	a	a	D	1	O
+9	4	4	O	1	O
+10	days	day	N	1	O
+11	vacation	vacation	N	1	O
+12	.	.	O	1	O
 
-1	We	we	Q	1	
-2	wanted	want	V	1	
-3	a	a	D	1	
-4	private	private	G	1	
-5	room	room	N	1	
-6	for	for	P	1	
-7	us	us	Q	1	
-8	"	"	O	1	
-9	8	8	O	1	
-10	persons	person	N	1	
-11	"	"	N	1	
-12	.	.	O	1	
+1	We	we	Q	1	O
+2	wanted	want	V	1	O
+3	a	a	D	1	O
+4	private	private	G	1	O
+5	room	room	N	1	O
+6	for	for	P	1	O
+7	us	us	Q	1	O
+8	"	"	O	1	O
+9	8	8	O	1	O
+10	persons	person	N	1	O
+11	"	"	N	1	O
+12	.	.	O	1	O
 
-1	The	the	D	1	
-2	Pension	Pension	R	1	
-3	offered	offer	V	1	
-4	this	this	D	1	
-5	room	room	N	1	
-6	which	which	O	1	
-7	was	be	V	1	
-8	big	big	G	1	
-9	enough	enough	A	1	
-10	to	to	P	1	
-11	fit	fit	V	1	
-12	us	us	Q	1	
-13	.	.	O	1	
+1	The	the	D	1	O
+2	Pension	Pension	R	1	O
+3	offered	offer	V	1	O
+4	this	this	D	1	O
+5	room	room	N	1	O
+6	which	which	O	1	O
+7	was	be	V	1	O
+8	big	big	G	1	O
+9	enough	enough	A	1	O
+10	to	to	P	1	O
+11	fit	fit	V	1	O
+12	us	us	Q	1	O
+13	.	.	O	1	O
 
-1	The	the	D	1	
-2	location	location	N	1	
-3	of	of	P	1	
-4	the	the	D	1	
-5	Pension	Pension	R	1	
-6	is	be	V	1	
-7	PERFECT	perfect	G	1	
-8	..	..	O	1	
-9	BEST	BEST	G	1	
-10	LOCATION	LOCATION	R	1	
-11	EVER	EVER	R	1	
-12	....	....	O	1	
-13	but	but	C	1	
-14	everything	everything	N	1	
-15	else	else	A	1	
-16	is	be	V	1	
-17	negative	negative	G	1	
-18	..	..	O	1	
-19	It	it	Q	1	
-20	is	be	V	1	
-21	not	not	A	1	
-22	clean	clean	G	1	
-23	,	,	O	1	
-24	staff	staff	N	1	
-25	are	be	V	1	
-26	not	not	A	1	
-27	friendly	friendly	G	1	
-28	at	at	P	1	
-29	all	all	D	1	
-30	,	,	O	1	
-31	it	it	Q	1	
-32	is	be	V	1	
-33	not	not	A	1	
-34	safe	safe	G	1	
-35	....	....	O	1	
-36	I	i	Q	1	
-37	am	be	V	1	
-38	not	not	A	1	
-39	recommending	recommend	V	1	
-40	it	it	Q	1	
-41	to	to	P	1	
-42	anyone	anyone	N	1	
-43	...	...	O	1	
+1	The	the	D	1	O
+2	location	location	N	1	O
+3	of	of	P	1	O
+4	the	the	D	1	O
+5	Pension	Pension	R	1	O
+6	is	be	V	1	O
+7	PERFECT	perfect	G	1	O
+8	..	..	O	1	O
+9	BEST	BEST	G	1	O
+10	LOCATION	LOCATION	R	1	O
+11	EVER	EVER	R	1	O
+12	....	....	O	1	O
+13	but	but	C	1	O
+14	everything	everything	N	1	O
+15	else	else	A	1	O
+16	is	be	V	1	O
+17	negative	negative	G	1	O
+18	..	..	O	1	O
+19	It	it	Q	1	O
+20	is	be	V	1	O
+21	not	not	A	1	O
+22	clean	clean	G	1	O
+23	,	,	O	1	O
+24	staff	staff	N	1	O
+25	are	be	V	1	O
+26	not	not	A	1	O
+27	friendly	friendly	G	1	O
+28	at	at	P	1	O
+29	all	all	D	1	O
+30	,	,	O	1	O
+31	it	it	Q	1	O
+32	is	be	V	1	O
+33	not	not	A	1	O
+34	safe	safe	G	1	O
+35	....	....	O	1	O
+36	I	i	Q	1	O
+37	am	be	V	1	O
+38	not	not	A	1	O
+39	recommending	recommend	V	1	O
+40	it	it	Q	1	O
+41	to	to	P	1	O
+42	anyone	anyone	N	1	O
+43	...	...	O	1	O
 

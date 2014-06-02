@@ -1,150 +1,152 @@
-1	Gut	gut	G	1	
-2	gelegenes	gelegen	G	1	
-3	Hotel	Hotel	N	1	
-4	,	,	O	1	
-5	jedoch	jedoch	A	1	
-6	ist	sein	V	1	
-7	Preis	Preis	N	1	
-8	nicht	nicht	O	1	
-9	alles	alle	Q	1	
+1	Gut	gut	G	1	O
+2	gelegenes	gelegen	G	1	O
+3	Hotel	Hotel	N	1	O
+4	,	,	O	1	O
+5	jedoch	jedoch	A	1	O
+6	ist	sein	V	1	O
+7	Preis	Preis	N	1	O
+8	nicht	nicht	O	1	O
+9	alles	alle	Q	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	gut	gut	G	1	
-5	gelegen	liegen	V	1	
-6	und	und	C	1	
-7	bietet	bieten	V	1	
-8	für	für	P	1	
-9	Amsterdamer	Amsterdamer	N	1	
-10	Verhältnisse	Verhältnis	N	1	
-11	attraktive	attraktiv	G	1	
-12	Übernachtungspreise	Übernachtungspreis	N	1	
-13	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	gut	gut	G	1	O
+5	gelegen	liegen	V	1	O
+6	und	und	C	1	O
+7	bietet	bieten	V	1	O
+8	für	für	P	1	O
+9	Amsterdamer	Amsterdamer	N	1	O
+10	Verhältnisse	Verhältnis	N	1	O
+11	attraktive	attraktiv	G	1	O
+12	Übernachtungspreise	Übernachtungspreis	N	1	O
+13	.	.	O	1	O
 
-1	Allerdings	allerdings	A	1	
-2	ist	sein	V	1	
-3	das	die	Q	1	
-4	nicht	nicht	O	1	
-5	alles	alle	Q	1	
-6	.	.	O	1	
+1	Allerdings	allerdings	A	1	O
+2	ist	sein	V	1	O
+3	das	die	Q	1	O
+4	nicht	nicht	O	1	O
+5	alles	alle	Q	1	O
+6	.	.	O	1	O
 
-1	Mein	mein	Q	1	
-2	Zimmer	Zimmer	N	1	
-3	war	sein	V	1	
-4	wirklich	wirklich	G	1	
-5	mikroskopisch	mikroskopisch	G	1	
-6	klein	klein	V	1	
-7	·	·	O	1	
-8	das	die	D	1	
-9	Bett	Bett	N	1	
-10	allein	allein	A	1	
-11	hat	haben	V	1	
-12	mehr	mehr	A	1	
-13	als	als	C	1	
-14	die	die	D	1	
-15	Hälfte	Hälfte	N	1	
-16	der	die	D	1	
-17	Grundfläche	Grundfläche	N	1	
-18	des	die	D	1	
-19	Zimmers	Zimmer	N	1	
-20	ausgefühlt	ausgefühlt	O	1	
-21	.	.	O	1	
+1	Mein	mein	Q	1	O
+2	Zimmer	Zimmer	N	1	O
+3	war	sein	V	1	O
+4	wirklich	wirklich	G	1	O
+5	mikroskopisch	mikroskopisch	G	1	O
+6	klein	klein	V	1	O
+7	·	·	O	1	O
+8	das	die	D	1	O
+9	Bett	Bett	N	1	O
+10	allein	allein	A	1	O
+11	hat	haben	V	1	O
+12	mehr	mehr	A	1	O
+13	als	als	C	1	O
+14	die	die	D	1	O
+15	Hälfte	Hälfte	N	1	O
+16	der	die	D	1	O
+17	Grundfläche	Grundfläche	N	1	O
+18	des	die	D	1	O
+19	Zimmers	Zimmer	N	1	O
+20	ausgefühlt	ausgefühlt	O	1	O
+21	.	.	O	1	O
 
-1	Damit	damit	Q	1	
-2	hätte	haben	V	1	
-3	ich	ich	Q	1	
-4	noch	noch	A	1	
-5	kein	keine	Q	1	
-6	Problem	Problem	N	1	
-7	,	,	O	1	
-8	da	da	C	1	
-9	ich	ich	Q	1	
-10	eh	eh	A	1	
-11	nur	nur	A	1	
-12	zum	zu	P	1	
-13	Schlafen	Schlafen	N	1	
-14	da	da	A	1	
-15	war	sein	V	1	
-16	.	.	O	1	
+1	Damit	damit	Q	1	O
+2	hätte	haben	V	1	O
+3	ich	ich	Q	1	O
+4	noch	noch	A	1	O
+5	kein	keine	Q	1	O
+6	Problem	Problem	N	1	O
+7	,	,	O	1	O
+8	da	da	C	1	O
+9	ich	ich	Q	1	O
+10	eh	eh	A	1	O
+11	nur	nur	A	1	O
+12	zum	zu	P	1	O
+13	Schlafen	Schlafen	N	1	O
+14	da	da	A	1	O
+15	war	sein	V	1	O
+16	.	.	O	1	O
 
-1	Aber	aber	C	1	
-2	die	die	D	1	
-3	Matrazze	Matrazze	O	1	
-4	war	sein	V	1	
-5	extrem	extrem	G	1	
-6	weich	weich	G	1	
-7	,	,	O	1	
-8	das	die	D	1	
-9	Fenster	Fenster	N	1	
-10	nicht	nicht	O	1	
-11	wirklich	wirklich	G	1	
-12	winddicht	winddicht	G	1	
-13	und	und	C	1	
-14	schon	schon	A	1	
-15	gar	gar	A	1	
-16	nicht	nicht	O	1	
-17	schalldicht	schalldicht	G	1	
-18	und	und	C	1	
-19	beim	bei	P	1	
-20	Duschen	Dusche|Duschen	N	1	
-21	(	(	O	1	
-22	im	in	P	1	
-23	nur	nur	A	1	
-24	ca.	ca.	A	1	
-25	1m2	1m2	O	1	
-26	grossen	groß	G	1	
-27	Badezimmer	Badezimmer	N	1	
-28	)	)	O	1	
-29	lief	laufen	V	1	
-30	das	die	D	1	
-31	Wasser	Wasser	N	1	
-32	überall	überall	A	1	
-33	hin	hin	V	1	
-34	.	.	O	1	
+1	Aber	aber	C	1	O
+2	die	die	D	1	O
+3	Matrazze	Matrazze	O	1	O
+4	war	sein	V	1	O
+5	extrem	extrem	G	1	O
+6	weich	weich	G	1	O
+7	,	,	O	1	O
+8	das	die	D	1	O
+9	Fenster	Fenster	N	1	O
+10	nicht	nicht	O	1	O
+11	wirklich	wirklich	G	1	O
+12	winddicht	winddicht	G	1	O
+13	und	und	C	1	O
+14	schon	schon	A	1	O
+15	gar	gar	A	1	O
+16	nicht	nicht	O	1	O
+17	schalldicht	schalldicht	G	1	O
+18	und	und	C	1	O
+19	beim	bei	P	1	O
+20	Duschen	Dusche|Duschen	N	1	O
+21	(	(	O	1	O
+22	im	in	P	1	O
+23	nur	nur	A	1	O
+24	ca.	ca.	A	1	O
+25	1m2	1m2	O	1	O
+26	grossen	groß	G	1	O
+27	Badezimmer	Badezimmer	N	1	O
+28	)	)	O	1	O
+29	lief	laufen	V	1	O
+30	das	die	D	1	O
+31	Wasser	Wasser	N	1	O
+32	überall	überall	A	1	O
+33	hin	hin	V	1	O
+34	.	.	O	1	O
 
-1	Ich	ich	Q	1	
-2	denke	denken	V	1	
-3	heute	heute	A	1	
-4	,	,	O	1	
-5	das	die	D	1	
-6	Hotel_Avenue	Hotel_Avenue	R	1	ne=Hotel
-7	ist	sein	V	1	
-8	gut	gut	G	1	
-9	wenn	wenn	C	1	
-10	man	man	Q	1	
-11	wirklich	wirklich	G	1	
-12	sparen	sparen	V	1	
-13	will	wollen	V	1	
-14	und	und	C	1	
-15	nur	nur	A	1	
-16	1	1	O	1	
-17	·	·	O	1	
-18	2	2	O	1	
-19	Nächte	Nacht	N	1	
-20	da	da	A	1	
-21	verbringen	verbringen	V	1	
-22	muss	müssen	V	1	
-23	·	·	O	1	
-24	solange	solange	C	1	
-25	man	man	Q	1	
-26	seine	sein	Q	1	
-27	Ansprüche	Anspruch	N	1	
-28	wirklich	wirklich	G	1	
-29	extrem	extrem	G	1	
-30	klein	klein	G	1	
-31	hält	halten	V	1	
-32	.	.	O	1	
+1	Ich	ich	Q	1	O
+2	denke	denken	V	1	O
+3	heute	heute	A	1	O
+4	,	,	O	1	O
+5	das	die	D	1	O
+6	Hotel	Hotel	N	1	I-Hotel
+7	Avenue	Avenue	N	1	I-Hotel
+8	ist	sein	V	1	O
+9	gut	gut	G	1	O
+10	wenn	wenn	C	1	O
+11	man	man	Q	1	O
+12	wirklich	wirklich	G	1	O
+13	sparen	sparen	V	1	O
+14	will	wollen	V	1	O
+15	und	und	C	1	O
+16	nur	nur	A	1	O
+17	1	1	O	1	O
+18	·	·	O	1	O
+19	2	2	O	1	O
+20	Nächte	Nacht	N	1	O
+21	da	da	A	1	O
+22	verbringen	verbringen	V	1	O
+23	muss	müssen	V	1	O
+24	·	·	O	1	O
+25	solange	solange	C	1	O
+26	man	man	Q	1	O
+27	seine	sein	Q	1	O
+28	Ansprüche	Anspruch	N	1	O
+29	wirklich	wirklich	G	1	O
+30	extrem	extrem	G	1	O
+31	klein	klein	G	1	O
+32	hält	halten	V	1	O
+33	.	.	O	1	O
 
-1	Längere	lang	G	1	
-2	Aufenthalte	Aufenthalt	N	1	
-3	oder	oder	C	1	
-4	auch	auch	A	1	
-5	schon	schon	A	1	
-6	minimale	minimal	G	1	
-7	Ansprüche	Anspruch	N	1	
-8	sprechen	sprechen	V	1	
-9	gegen	gegen	P	1	
-10	das	die	D	1	
-11	Hotel_Avenue	Hotel_Avenue	R	1	ne=Hotel
+1	Längere	lang	G	1	O
+2	Aufenthalte	Aufenthalt	N	1	O
+3	oder	oder	C	1	O
+4	auch	auch	A	1	O
+5	schon	schon	A	1	O
+6	minimale	minimal	G	1	O
+7	Ansprüche	Anspruch	N	1	O
+8	sprechen	sprechen	V	1	O
+9	gegen	gegen	P	1	O
+10	das	die	D	1	O
+11	Hotel	Hotel	N	1	I-Hotel
+12	Avenue	Avenue	N	1	I-Hotel
 

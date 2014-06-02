@@ -1,76 +1,76 @@
-1	Fraai	fraai	G	1	
-2	hotel	hotel	N	1	
-3	ondanks	ondanks	P	1	
-4	"	"	O	1	
-5	dubbele	dubbel	G	1	
-6	boeking	boeking	N	1	
-7	"	"	O	1	
+1	Fraai	fraai	G	1	O
+2	hotel	hotel	N	1	O
+3	ondanks	ondanks	P	1	O
+4	"	"	O	1	O
+5	dubbele	dubbel	G	1	O
+6	boeking	boeking	N	1	O
+7	"	"	O	1	O
 
-1	De	de	D	1	
-2	wijze	wijze	N	1	
-3	waarop	waarop	Q	1	
-4	men	men	Q	1	
-5	omging	omgaan	V	1	
-6	met	met	P	1	
-7	het	het	D	1	
-8	feit	feit	N	1	
-9	dat	dat	C	1	
-10	de	de	D	1	
-11	kamer	kamer	N	1	
-12	"	"	O	1	
-13	dubbel	dubbel	G	1	
-14	"	"	O	1	
-15	was	wezen|zijn	V	1	
-16	geboekt	boeken	V	1	
-17	,	,	O	1	
-18	heeft	hebben	V	1	
-19	mij	mij	Q	1	
-20	zeer	zeer	G	1	
-21	teleurgesteld	teleurstellen	V	1	
-22	.	.	O	1	
+1	De	de	D	1	O
+2	wijze	wijze	N	1	O
+3	waarop	waarop	Q	1	O
+4	men	men	Q	1	O
+5	omging	omgaan	V	1	O
+6	met	met	P	1	O
+7	het	het	D	1	O
+8	feit	feit	N	1	O
+9	dat	dat	C	1	O
+10	de	de	D	1	O
+11	kamer	kamer	N	1	O
+12	"	"	O	1	O
+13	dubbel	dubbel	G	1	O
+14	"	"	O	1	O
+15	was	wezen|zijn	V	1	O
+16	geboekt	boeken	V	1	O
+17	,	,	O	1	O
+18	heeft	hebben	V	1	O
+19	mij	mij	Q	1	O
+20	zeer	zeer	G	1	O
+21	teleurgesteld	teleurstellen	V	1	O
+22	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	lag	liggen	V	1	
-3	al	al	A	1	
-4	in	in	P	1	
-5	bed	bed	N	1	
-6	toen	toen	C	1	
-7	een	een	D	1	
-8	andere	ander	G	1	
-9	gast	gast	N	1	
-10	alsnog	alsnog	A	1	
-11	mijn	mijn	D	1	
-12	kamer	kamer	N	1	
-13	binnen	binnen	P	1	
-14	kwam	komen	V	1	
-15	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	lag	liggen	V	1	O
+3	al	al	A	1	O
+4	in	in	P	1	O
+5	bed	bed	N	1	O
+6	toen	toen	C	1	O
+7	een	een	D	1	O
+8	andere	ander	G	1	O
+9	gast	gast	N	1	O
+10	alsnog	alsnog	A	1	O
+11	mijn	mijn	D	1	O
+12	kamer	kamer	N	1	O
+13	binnen	binnen	P	1	O
+14	kwam	komen	V	1	O
+15	.	.	O	1	O
 
-1	Toen	toen	C	1	
-2	ik	ik	Q	1	
-3	daar	daar	A	1	
-4	de	de	D	1	
-5	volgende	volgend	G	1	
-6	ochtend	ochtend	N	1	
-7	de	de	D	1	
-8	receptie	receptie	N	1	
-9	over	over	P	1	
-10	inlichttte	inlichttte	O	1	
-11	zei	zeggen	V	1	
-12	men	men	Q	1	
-13	:	:	O	1	
-14	ja	ja	O	1	
-15	foutje	foutje	O	1	
-16	.	.	O	1	
+1	Toen	toen	C	1	O
+2	ik	ik	Q	1	O
+3	daar	daar	A	1	O
+4	de	de	D	1	O
+5	volgende	volgend	G	1	O
+6	ochtend	ochtend	N	1	O
+7	de	de	D	1	O
+8	receptie	receptie	N	1	O
+9	over	over	P	1	O
+10	inlichttte	inlichttte	O	1	O
+11	zei	zeggen	V	1	O
+12	men	men	Q	1	O
+13	:	:	O	1	O
+14	ja	ja	O	1	O
+15	foutje	foutje	O	1	O
+16	.	.	O	1	O
 
-1	Tevens	tevens	A	1	
-2	was	wezen|zijn	V	1	
-3	na	na	P	1	
-4	het	het	D	1	
-5	omtbijt	omtbijt	O	1	
-6	mijn	mijn	D	1	
-7	kamer	kamer	N	1	
-8	niet	niet	A	1	
-9	meer	meer	A	1	
-10	toegangkelijk	toegangkelijk	O	1	
-11	.	.	O	1	
+1	Tevens	tevens	A	1	O
+2	was	wezen|zijn	V	1	O
+3	na	na	P	1	O
+4	het	het	D	1	O
+5	omtbijt	omtbijt	O	1	O
+6	mijn	mijn	D	1	O
+7	kamer	kamer	N	1	O
+8	niet	niet	A	1	O
+9	meer	meer	A	1	O
+10	toegangkelijk	toegangkelijk	O	1	O
+11	.	.	O	1	O
 

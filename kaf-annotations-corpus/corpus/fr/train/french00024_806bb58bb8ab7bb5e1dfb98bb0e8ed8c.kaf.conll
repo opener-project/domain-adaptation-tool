@@ -1,41 +1,41 @@
-1	Que	Que	C	1	
-2	de	de	P	1	
-3	monde	monde	N	1	
+1	Que	Que	C	1	O
+2	de	de	P	1	O
+3	monde	monde	N	1	O
 
-1	Bondé	bonder	G	1	
-2	en	en	P	1	
-3	pleine	plein	G	1	
-4	saison	saison	N	1	
-5	le	le	D	1	
-6	parc	parc	N	1	
-7	ferait	faire	V	1	
-8	de	de	P	1	
-9	limité	limité	N	1	
-10	les	le	D	1	
-11	entrées	entrée	N	1	
-12	pour	pour	P	1	
-13	que	que	C	1	
-14	la	le	D	1	
-15	visite	visite	N	1	
-16	sot	sot	P	1	
-17	agréable	agréable	G	1	
-18	et	et	C	1	
-19	éviter	éviter	V	1	
-20	les	le	D	1	
-21	heures	heure	N	1	
-22	d'	d'	P	1	
-23	attente	attente	N	1	
-24	en	en	P	1	
-25	plein	plein	G	1	
-26	soleil	soleil	N	1	
-27	.	.	O	1	
+1	Bondé	bonder	G	1	O
+2	en	en	P	1	O
+3	pleine	plein	G	1	O
+4	saison	saison	N	1	O
+5	le	le	D	1	O
+6	parc	parc	N	1	O
+7	ferait	faire	V	1	O
+8	de	de	P	1	O
+9	limité	limité	N	1	O
+10	les	le	D	1	O
+11	entrées	entrée	N	1	O
+12	pour	pour	P	1	O
+13	que	que	C	1	O
+14	la	le	D	1	O
+15	visite	visite	N	1	O
+16	sot	sot	P	1	O
+17	agréable	agréable	G	1	O
+18	et	et	C	1	O
+19	éviter	éviter	V	1	O
+20	les	le	D	1	O
+21	heures	heure	N	1	O
+22	d'	d'	P	1	O
+23	attente	attente	N	1	O
+24	en	en	P	1	O
+25	plein	plein	G	1	O
+26	soleil	soleil	N	1	O
+27	.	.	O	1	O
 
-1	Sinon	Sinon	C	1	
-2	les	le	D	1	
-3	attractions	attraction	N	1	
-4	proposées	proposer	V	1	
-5	sont	être	V	1	
-6	très	très	G	1	
-7	bien	bien	G	1	
-8	.	.	O	1	
+1	Sinon	Sinon	C	1	O
+2	les	le	D	1	O
+3	attractions	attraction	N	1	O
+4	proposées	proposer	V	1	O
+5	sont	être	V	1	O
+6	très	très	G	1	O
+7	bien	bien	G	1	O
+8	.	.	O	1	O
 

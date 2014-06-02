@@ -1,101 +1,103 @@
-1	Troppo	troppo	G	1	
-2	rumoroso	rumoroso	G	1	
-3	!	!	O	1	
+1	Troppo	troppo	G	1	O
+2	rumoroso	rumoroso	G	1	O
+3	!	!	O	1	O
 
-1	Nonostante	nonostante	P	1	
-2	la	lo	D	1	
-3	stanza	stanza	N	1	
-4	fosse	essere	V	1	
-5	al	al	P	1	
-6	3	3	N	1	
-7	°	°	G	1	
-8	piano	piano	G	1	
-9	,	,	O	1	
-10	sembrava	sembrare	V	1	
-11	di	di	P	1	
-12	dormire	dormire	V	1	
-13	in	in	P	1	
-14	strada	strada	N	1	
-15	per	per	P	1	
-16	il	lo	D	1	
-17	rumore	rumore	N	1	
-18	.	.	O	1	
+1	Nonostante	nonostante	P	1	O
+2	la	lo	D	1	O
+3	stanza	stanza	N	1	O
+4	fosse	essere	V	1	O
+5	al	al	P	1	O
+6	3	3	N	1	O
+7	°	°	G	1	O
+8	piano	piano	G	1	O
+9	,	,	O	1	O
+10	sembrava	sembrare	V	1	O
+11	di	di	P	1	O
+12	dormire	dormire	V	1	O
+13	in	in	P	1	O
+14	strada	strada	N	1	O
+15	per	per	P	1	O
+16	il	lo	D	1	O
+17	rumore	rumore	N	1	O
+18	.	.	O	1	O
 
-1	Probabilmente	probabilmente	A	1	
-2	degli	degli	P	1	
-3	infissi	infisso	N	1	
-4	piu	piu	R	1	
-5	'	'	Q	1	
-6	nuovi	nuovo	G	1	
-7	aiuterebbero	aiutare	V	1	
-8	l'	lo	D	1	
-9	insonorizzazione	insonorizzazione	N	1	
-10	!	!	O	1	
+1	Probabilmente	probabilmente	A	1	O
+2	degli	degli	P	1	O
+3	infissi	infisso	N	1	O
+4	piu	piu	R	1	O
+5	'	'	Q	1	O
+6	nuovi	nuovo	G	1	O
+7	aiuterebbero	aiutare	V	1	O
+8	l'	lo	D	1	O
+9	insonorizzazione	insonorizzazione	N	1	O
+10	!	!	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	N	1	
-3	al	al	P	1	
-4	check	check	N	1	
-5	·	·	N	1	
-6	in	in	P	1	
-7	e	e	Q	1	
-8	'	'	Q	1	
-9	scarsamente	scarsamente	A	1	
-10	collaborativo	collaborativo	G	1	
-11	...	...	O	1	
-12	gia	gia	N	1	
-13	'	'	Q	1	
-14	all'	all'	P	1	
-15	atto	atto	N	1	
-16	del	del	P	1	
-17	check	check	N	1	
-18	·	·	N	1	
-19	in	in	P	1	
-20	avevo	avere	V	1	
-21	richiesto	richiesto	G	1	
-22	una	uno	D	1	
-23	stanza	stanza	N	1	
-24	ad	ad	P	1	
-25	un	uno	D	1	
-26	piano	piano	N	1	
-27	piu	piu	A	1	
-28	'	'	Q	1	
-29	alto	alto	G	1	
-30	e	e	Q	1	
-31	mi	mi	Q	1	
-32	e	e	Q	1	
-33	'	'	Q	1	
-34	stato	essere	V	1	
-35	risposto	rispondere	V	1	
-36	che	che	Q	1	
-37	non	non	A	1	
-38	era	essere	V	1	
-39	disponibile	disponibile	G	1	
-40	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	N	1	O
+3	al	al	P	1	O
+4	check	check	N	1	O
+5	·	·	N	1	O
+6	in	in	P	1	O
+7	e	e	Q	1	O
+8	'	'	Q	1	O
+9	scarsamente	scarsamente	A	1	O
+10	collaborativo	collaborativo	G	1	O
+11	...	...	O	1	O
+12	gia	gia	N	1	O
+13	'	'	Q	1	O
+14	all'	all'	P	1	O
+15	atto	atto	N	1	O
+16	del	del	P	1	O
+17	check	check	N	1	O
+18	·	·	N	1	O
+19	in	in	P	1	O
+20	avevo	avere	V	1	O
+21	richiesto	richiesto	G	1	O
+22	una	uno	D	1	O
+23	stanza	stanza	N	1	O
+24	ad	ad	P	1	O
+25	un	uno	D	1	O
+26	piano	piano	N	1	O
+27	piu	piu	A	1	O
+28	'	'	Q	1	O
+29	alto	alto	G	1	O
+30	e	e	Q	1	O
+31	mi	mi	Q	1	O
+32	e	e	Q	1	O
+33	'	'	Q	1	O
+34	stato	essere	V	1	O
+35	risposto	rispondere	V	1	O
+36	che	che	Q	1	O
+37	non	non	A	1	O
+38	era	essere	V	1	O
+39	disponibile	disponibile	G	1	O
+40	.	.	O	1	O
 
-1	Dopo	dopo	P	1	
-2	una	uno	D	1	
-3	notte	notte	N	1	
-4	insonne	insonne	G	1	
-5	per	per	P	1	
-6	il	lo	D	1	
-7	rumore	rumore	N	1	
-8	,	,	O	1	
-9	alle	alle	P	1	
-10	8_del_mattino	8_del_mattino	R	1	ne=Time
-11	ho	avere	V	1	
-12	richiesto	richiesto	N	1	
-13	di	di	P	1	
-14	cambiare	cambiare	V	1	
-15	e	e	Q	1	
-16	,	,	O	1	
-17	come	come	A	1	
-18	magicamente	magicamente	G	1	
-19	,	,	O	1	
-20	la	lo	D	1	
-21	stanza	stanza	N	1	
-22	era	essere	V	1	
-23	ora	ora	A	1	
-24	disponibile	disponibile	G	1	
-25	...	...	O	1	
+1	Dopo	dopo	P	1	O
+2	una	uno	D	1	O
+3	notte	notte	N	1	O
+4	insonne	insonne	G	1	O
+5	per	per	P	1	O
+6	il	lo	D	1	O
+7	rumore	rumore	N	1	O
+8	,	,	O	1	O
+9	alle	alle	P	1	O
+10	8	8	N	1	I-Time
+11	del	del	P	1	I-Time
+12	mattino	mattino	N	1	I-Time
+13	ho	avere	V	1	O
+14	richiesto	richiesto	N	1	O
+15	di	di	P	1	O
+16	cambiare	cambiare	V	1	O
+17	e	e	Q	1	O
+18	,	,	O	1	O
+19	come	come	A	1	O
+20	magicamente	magicamente	G	1	O
+21	,	,	O	1	O
+22	la	lo	D	1	O
+23	stanza	stanza	N	1	O
+24	era	essere	V	1	O
+25	ora	ora	A	1	O
+26	disponibile	disponibile	G	1	O
+27	...	...	O	1	O
 

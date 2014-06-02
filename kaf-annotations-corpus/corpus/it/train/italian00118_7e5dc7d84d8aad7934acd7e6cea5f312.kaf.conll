@@ -1,123 +1,125 @@
-1	Veramente	veramente	A	1	
-2	bello	bello	G	1	
-3	!	!	O	1	
+1	Veramente	veramente	A	1	O
+2	bello	bello	G	1	O
+3	!	!	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	villa	villa	N	1	
-5	,	,	O	1	
-6	dove	dove	A	1	
-7	era	essere	V	1	
-8	presente	presente	N	1	
-9	anche	anche	Q	1	
-10	una	uno	D	1	
-11	piccola	piccolo	G	1	
-12	piscina	piscina	N	1	
-13	privata	privare	V	1	
-14	!	!	O	1	
+1	Abbiamo	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	villa	villa	N	1	O
+5	,	,	O	1	O
+6	dove	dove	A	1	O
+7	era	essere	V	1	O
+8	presente	presente	N	1	O
+9	anche	anche	Q	1	O
+10	una	uno	D	1	O
+11	piccola	piccolo	G	1	O
+12	piscina	piscina	N	1	O
+13	privata	privare	V	1	O
+14	!	!	O	1	O
 
-1	Si	si	Q	1	
-2	può	può	N	1	
-3	scegliere	scegliere	V	1	
-4	tra	tra	P	1	
-5	albergo	albergo	N	1	
-6	,	,	O	1	
-7	ville	villa	N	1	
-8	,	,	O	1	
-9	appartamenti	appartamento	N	1	
-10	in	in	P	1	
-11	affitto	affitto	N	1	
-12	e	e	Q	1	
-13	residence	residence	N	1	
-14	.	.	O	1	
+1	Si	si	Q	1	O
+2	può	può	N	1	O
+3	scegliere	scegliere	V	1	O
+4	tra	tra	P	1	O
+5	albergo	albergo	N	1	O
+6	,	,	O	1	O
+7	ville	villa	N	1	O
+8	,	,	O	1	O
+9	appartamenti	appartamento	N	1	O
+10	in	in	P	1	O
+11	affitto	affitto	N	1	O
+12	e	e	Q	1	O
+13	residence	residence	N	1	O
+14	.	.	O	1	O
 
-1	La	lo	D	1	
-2	tenuta	tenuta	N	1	
-3	è	è	R	1	
-4	immersa	immergere	V	1	
-5	nella	nella	P	1	
-6	natura	natura	N	1	
-7	con	con	P	1	
-8	tantissime	tantissime	G	1	
-9	attività	attivita'	N	1	
-10	:	:	O	1	
-11	noi	noi	Q	1	
-12	abbiamo	avere	V	1	
-13	provato	provare	V	1	
-14	immersioni	immersione	N	1	
-15	e	e	Q	1	
-16	passeggiate	passeggiare	V	1	
-17	a	a	P	1	
-18	cavallo	cavallo	N	1	
-19	.	.	O	1	
+1	La	lo	D	1	O
+2	tenuta	tenuta	N	1	O
+3	è	è	R	1	O
+4	immersa	immergere	V	1	O
+5	nella	nella	P	1	O
+6	natura	natura	N	1	O
+7	con	con	P	1	O
+8	tantissime	tantissime	G	1	O
+9	attività	attivita'	N	1	O
+10	:	:	O	1	O
+11	noi	noi	Q	1	O
+12	abbiamo	avere	V	1	O
+13	provato	provare	V	1	O
+14	immersioni	immersione	N	1	O
+15	e	e	Q	1	O
+16	passeggiate	passeggiare	V	1	O
+17	a	a	P	1	O
+18	cavallo	cavallo	N	1	O
+19	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	anche	anche	Q	1	
-3	fatto	fare	V	1	
-4	un’	un’	G	1	
-5	uscita	uscita	N	1	
-6	in	in	P	1	
-7	mare	mare	N	1	
-8	con	con	P	1	
-9	il	lo	D	1	
-10	peschereccio	peschereccio	N	1	
-11	Ariel	ariel	R	1	
-12	!	!	O	1	
+1	Abbiamo	avere	V	1	O
+2	anche	anche	Q	1	O
+3	fatto	fare	V	1	O
+4	un’	un’	G	1	O
+5	uscita	uscita	N	1	O
+6	in	in	P	1	O
+7	mare	mare	N	1	O
+8	con	con	P	1	O
+9	il	lo	D	1	O
+10	peschereccio	peschereccio	N	1	O
+11	Ariel	ariel	R	1	O
+12	!	!	O	1	O
 
-1	Bellissima	bellissima	G	1	
-2	,	,	O	1	
-3	con	con	P	1	
-4	il	lo	D	1	
-5	pranzo	pranzo	N	1	
-6	a	a	P	1	
-7	bordo	bordo	N	1	
-8	.	.	O	1	
+1	Bellissima	bellissima	G	1	O
+2	,	,	O	1	O
+3	con	con	P	1	O
+4	il	lo	D	1	O
+5	pranzo	pranzo	N	1	O
+6	a	a	P	1	O
+7	bordo	bordo	N	1	O
+8	.	.	O	1	O
 
-1	Consiglio	consigliare	V	1	
-2	di	di	P	1	
-3	visitare	visitare	V	1	
-4	la	lo	D	1	
-5	cantina	cantina	N	1	
-6	e	e	Q	1	
-7	degustare	degustare	V	1	
-8	l’	l’	A	1	
-9	ottimo	ottimo	G	1	
-10	vino	vino	N	1	
-11	di	di	P	1	
-12	produzione	produzione	N	1	
-13	della	della	P	1	
-14	tenuta	tenuta	N	1	
-15	sulla	sulla	P	1	
-16	terrazza	terrazza	N	1	
-17	della	della	P	1	
-18	cantina	cantina	N	1	
-19	con	con	P	1	
-20	vista	vista	N	1	
-21	eccezionale	eccezionale	G	1	
-22	sull'	sull'	P	1	
-23	Isola_di_Montecristo	isola_di_montecristo	R	1	ne=POI
-24	!	!	O	1	
-25	!	!	O	1	
+1	Consiglio	consigliare	V	1	O
+2	di	di	P	1	O
+3	visitare	visitare	V	1	O
+4	la	lo	D	1	O
+5	cantina	cantina	N	1	O
+6	e	e	Q	1	O
+7	degustare	degustare	V	1	O
+8	l’	l’	A	1	O
+9	ottimo	ottimo	G	1	O
+10	vino	vino	N	1	O
+11	di	di	P	1	O
+12	produzione	produzione	N	1	O
+13	della	della	P	1	O
+14	tenuta	tenuta	N	1	O
+15	sulla	sulla	P	1	O
+16	terrazza	terrazza	N	1	O
+17	della	della	P	1	O
+18	cantina	cantina	N	1	O
+19	con	con	P	1	O
+20	vista	vista	N	1	O
+21	eccezionale	eccezionale	G	1	O
+22	sull'	sull'	P	1	O
+23	Isola	isola	N	1	I-POI
+24	di	di	P	1	I-POI
+25	Montecristo	montecristo	R	1	I-POI
+26	!	!	O	1	O
+27	!	!	O	1	O
 
-1	Incantevole	incantevole	G	1	
-2	anche	anche	Q	1	
-3	la	lo	D	1	
-4	spiaggia	spiaggia	N	1	
-5	.	.	O	1	
+1	Incantevole	incantevole	G	1	O
+2	anche	anche	Q	1	O
+3	la	lo	D	1	O
+4	spiaggia	spiaggia	N	1	O
+5	.	.	O	1	O
 
-1	E	e	Q	1	
-2	’	’	R	1	
-3	l’	l’	V	1	
-4	ideale	ideale	N	1	
-5	per	per	P	1	
-6	chi	chi	Q	1	
-7	ricerca	ricercare	V	1	
-8	relax	relax	N	1	
-9	e	e	Q	1	
-10	contatto	contatto	N	1	
-11	con	con	P	1	
-12	la	lo	D	1	
-13	natura	natura	N	1	
-14	.	.	O	1	
+1	E	e	Q	1	O
+2	’	’	R	1	O
+3	l’	l’	V	1	O
+4	ideale	ideale	N	1	O
+5	per	per	P	1	O
+6	chi	chi	Q	1	O
+7	ricerca	ricercare	V	1	O
+8	relax	relax	N	1	O
+9	e	e	Q	1	O
+10	contatto	contatto	N	1	O
+11	con	con	P	1	O
+12	la	lo	D	1	O
+13	natura	natura	N	1	O
+14	.	.	O	1	O
 

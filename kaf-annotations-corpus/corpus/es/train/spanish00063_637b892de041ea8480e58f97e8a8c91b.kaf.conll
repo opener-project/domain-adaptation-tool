@@ -1,44 +1,44 @@
-1	Calidad	Calidad	R	1	
-2	para	para	N	1	
-3	persona	persona	N	1	
-4	no	no	A	1	
-5	exigentes	exigentes	V	1	
+1	Calidad	Calidad	R	1	O
+2	para	para	N	1	O
+3	persona	persona	N	1	O
+4	no	no	A	1	O
+5	exigentes	exigentes	V	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	en	en	P	1	
-4	general	general	G	1	
-5	no	no	D	1	
-6	esta	esta	N	1	
-7	nada	nada	N	1	
-8	mal	mal	G	1	
-9	,	,	O	1	
-10	tal	tal	G	1	
-11	vez	vez	N	1	
-12	necesita	necesita	O	1	
-13	un	un	G	1	
-14	poco	poco	N	1	
-15	de	de	P	1	
-16	renovación	renovación	N	1	
-17	y	y	G	1	
-18	modernidad	modernidad	N	1	
-19	en	en	P	1	
-20	determinadas	determinadas	N	1	
-21	áreas	áreas	N	1	
-22	,	,	O	1	
-23	sobre	sobre	G	1	
-24	todo	todo	N	1	
-25	en	en	P	1	
-26	la	la	D	1	
-27	recepción	recepción	N	1	
-28	y	y	A	1	
-29	en	en	P	1	
-30	los	los	N	1	
-31	cuartos	cuartos	N	1	
-32	de	de	P	1	
-33	baño	baño	G	1	
-34	de	de	P	1	
-35	las	las	G	1	
-36	habitaciones	habitaciones	N	1	
-37	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	en	en	P	1	O
+4	general	general	G	1	O
+5	no	no	D	1	O
+6	esta	esta	N	1	O
+7	nada	nada	N	1	O
+8	mal	mal	G	1	O
+9	,	,	O	1	O
+10	tal	tal	G	1	O
+11	vez	vez	N	1	O
+12	necesita	necesita	O	1	O
+13	un	un	G	1	O
+14	poco	poco	N	1	O
+15	de	de	P	1	O
+16	renovación	renovación	N	1	O
+17	y	y	G	1	O
+18	modernidad	modernidad	N	1	O
+19	en	en	P	1	O
+20	determinadas	determinadas	N	1	O
+21	áreas	áreas	N	1	O
+22	,	,	O	1	O
+23	sobre	sobre	G	1	O
+24	todo	todo	N	1	O
+25	en	en	P	1	O
+26	la	la	D	1	O
+27	recepción	recepción	N	1	O
+28	y	y	A	1	O
+29	en	en	P	1	O
+30	los	los	N	1	O
+31	cuartos	cuartos	N	1	O
+32	de	de	P	1	O
+33	baño	baño	G	1	O
+34	de	de	P	1	O
+35	las	las	G	1	O
+36	habitaciones	habitaciones	N	1	O
+37	.	.	O	1	O
 

@@ -1,35 +1,35 @@
-1	Moment	Moment	G	1	
-2	de	de	P	1	
-3	détente	détente	N	1	
-4	en	en	P	1	
-5	famille	famille	N	1	
+1	Moment	Moment	G	1	O
+2	de	de	P	1	O
+3	détente	détente	N	1	O
+4	en	en	P	1	O
+5	famille	famille	N	1	O
 
-1	Superbe	Superbe	P	1	
-2	ballade	ballade	N	1	
-3	en	en	P	1	
-4	famille	famille	N	1	
-5	,	,	O	1	
-6	tortues	tortue	N	1	
-7	de	de	P	1	
-8	toutes	tout	D	1	
-9	sortes	sorte	N	1	
-10	des	des	P	1	
-11	géantes	géantes	N	1	
-12	aussi	aussi	G	1	
-13	,	,	O	1	
-14	espace	espace	N	1	
-15	soleil	soleil	N	1	
-16	et	et	C	1	
-17	ombre	ombre	N	1	
-18	donc	donc	G	1	
-19	super	super	G	1	
-20	et	et	C	1	
-21	aire	aire	G	1	
-22	de	de	P	1	
-23	jeux	jeu	N	1	
-24	pour	pour	P	1	
-25	les	les	Q	1	
-26	enfants	enfant	N	1	
-27	vraiment	vraiment	G	1	
-28	appréciables	appréciable	G	1	
+1	Superbe	Superbe	P	1	O
+2	ballade	ballade	N	1	O
+3	en	en	P	1	O
+4	famille	famille	N	1	O
+5	,	,	O	1	O
+6	tortues	tortue	N	1	O
+7	de	de	P	1	O
+8	toutes	tout	D	1	O
+9	sortes	sorte	N	1	O
+10	des	des	P	1	O
+11	géantes	géantes	N	1	O
+12	aussi	aussi	G	1	O
+13	,	,	O	1	O
+14	espace	espace	N	1	O
+15	soleil	soleil	N	1	O
+16	et	et	C	1	O
+17	ombre	ombre	N	1	O
+18	donc	donc	G	1	O
+19	super	super	G	1	O
+20	et	et	C	1	O
+21	aire	aire	G	1	O
+22	de	de	P	1	O
+23	jeux	jeu	N	1	O
+24	pour	pour	P	1	O
+25	les	les	Q	1	O
+26	enfants	enfant	N	1	O
+27	vraiment	vraiment	G	1	O
+28	appréciables	appréciable	G	1	O
 

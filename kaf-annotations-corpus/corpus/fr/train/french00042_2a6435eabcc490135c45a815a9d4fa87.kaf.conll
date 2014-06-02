@@ -1,157 +1,159 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	accueil	accueil	N	1	
-4	et	et	C	1	
-5	sacrés	sacrer	V	1	
-6	escaliers	escalier	N	1	
-7	!	!	O	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	accueil	accueil	N	1	O
+4	et	et	C	1	O
+5	sacrés	sacrer	V	1	O
+6	escaliers	escalier	N	1	O
+7	!	!	O	1	O
 
-1	Parfait	parfait	G	1	
-2	pour	pour	P	1	
-3	un	un	D	1	
-4	court	court	G	1	
-5	séjour	séjour	N	1	
-6	entre	entre	P	1	
-7	amis	ami	N	1	
-8	,	,	O	1	
-9	la	le	D	1	
-10	principale	principal	G	1	
-11	artère	artère	N	1	
-12	de	de	P	1	
-13	la	le	D	1	
-14	ville	ville	N	1	
-15	est	être	V	1	
-16	à	à	P	1	
-17	5mn	5mn	O	1	
-18	à	à	P	1	
-19	pieds	pied	N	1	
-20	,	,	O	1	
-21	les	le	D	1	
-22	chambres	chambre	N	1	
-23	sont	être	V	1	
-24	tout	tout	G	1	
-25	à	à	P	1	
-26	fait	fait	N	1	
-27	convenables	convenable	G	1	
-28	bien	bien	G	1	
-29	que	que	C	1	
-30	relativement	relativement	G	1	
-31	petites	petit	G	1	
-32	et	et	C	1	
-33	exiguës	exigu	G	1	
-34	,	,	O	1	
-35	donc	donc	G	1	
-36	vraiment	vraiment	G	1	
-37	à	à	P	1	
-38	vocation	vocation	N	1	
-39	nocturne	nocturne	G	1	
-40	.	.	O	1	
+1	Parfait	parfait	G	1	O
+2	pour	pour	P	1	O
+3	un	un	D	1	O
+4	court	court	G	1	O
+5	séjour	séjour	N	1	O
+6	entre	entre	P	1	O
+7	amis	ami	N	1	O
+8	,	,	O	1	O
+9	la	le	D	1	O
+10	principale	principal	G	1	O
+11	artère	artère	N	1	O
+12	de	de	P	1	O
+13	la	le	D	1	O
+14	ville	ville	N	1	O
+15	est	être	V	1	O
+16	à	à	P	1	O
+17	5mn	5mn	O	1	O
+18	à	à	P	1	O
+19	pieds	pied	N	1	O
+20	,	,	O	1	O
+21	les	le	D	1	O
+22	chambres	chambre	N	1	O
+23	sont	être	V	1	O
+24	tout	tout	G	1	O
+25	à	à	P	1	O
+26	fait	fait	N	1	O
+27	convenables	convenable	G	1	O
+28	bien	bien	G	1	O
+29	que	que	C	1	O
+30	relativement	relativement	G	1	O
+31	petites	petit	G	1	O
+32	et	et	C	1	O
+33	exiguës	exigu	G	1	O
+34	,	,	O	1	O
+35	donc	donc	G	1	O
+36	vraiment	vraiment	G	1	O
+37	à	à	P	1	O
+38	vocation	vocation	N	1	O
+39	nocturne	nocturne	G	1	O
+40	.	.	O	1	O
 
-1	Un	un	D	1	
-2	petit	petit	G	1	
-3	coffre	coffre	N	1	
-4	fort	fort	G	1	
-5	est	être	V	1	
-6	disponible	disponible	G	1	
-7	dans	dans	P	1	
-8	la	le	D	1	
-9	chambre	chambre	N	1	
-10	ainsi	ainsi	G	1	
-11	qu'	qu'	C	1	
-12	une	un	D	1	
-13	petite	petit	G	1	
-14	télé	télé	N	1	
-15	avec	avec	P	1	
-16	1	1	D	1	
-17	ou	ou	C	1	
-18	2	2	D	1	
-19	chaînes	chaîne	N	1	
-20	française	français	G	1	
-21	suivant	suivant]	P	1	
-22	les	le	D	1	
-23	heure	heure	N	1	
-24	,	,	O	1	
-25	une	un	D	1	
-26	petite	petit	G	1	
-27	table	table	N	1	
-28	et	et	C	1	
-29	deux	deux	D	1	
-30	chaise	chaise	N	1	
-31	(	(	O	1	
-32	dans	dans	P	1	
-33	une	un	D	1	
-34	chambre	chambre	N	1	
-35	double	double	G	1	
-36	)	)	O	1	
-37	.	.	O	1	
+1	Un	un	D	1	O
+2	petit	petit	G	1	O
+3	coffre	coffre	N	1	O
+4	fort	fort	G	1	O
+5	est	être	V	1	O
+6	disponible	disponible	G	1	O
+7	dans	dans	P	1	O
+8	la	le	D	1	O
+9	chambre	chambre	N	1	O
+10	ainsi	ainsi	G	1	O
+11	qu'	qu'	C	1	O
+12	une	un	D	1	O
+13	petite	petit	G	1	O
+14	télé	télé	N	1	O
+15	avec	avec	P	1	O
+16	1	1	D	1	O
+17	ou	ou	C	1	O
+18	2	2	D	1	O
+19	chaînes	chaîne	N	1	O
+20	française	français	G	1	O
+21	suivant	suivant]	P	1	O
+22	les	le	D	1	O
+23	heure	heure	N	1	O
+24	,	,	O	1	O
+25	une	un	D	1	O
+26	petite	petit	G	1	O
+27	table	table	N	1	O
+28	et	et	C	1	O
+29	deux	deux	D	1	O
+30	chaise	chaise	N	1	O
+31	(	(	O	1	O
+32	dans	dans	P	1	O
+33	une	un	D	1	O
+34	chambre	chambre	N	1	O
+35	double	double	G	1	O
+36	)	)	O	1	O
+37	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	tout	tout	G	1	
-5	à	à	P	1	
-6	fait	fait	N	1	
-7	sympathique	sympathique	G	1	
-8	,	,	O	1	
-9	il	il	Q	1	
-10	y	y	Q	1	
-11	a	avoir	V	1	
-12	24heures_sur_24	24heures_sur_24	R	1	ne=Time
-13	quelqu'	quelque	D	1	
-14	un	un	D	1	
-15	à	à	P	1	
-16	l'	le	D	1	
-17	accueil	accueil	N	1	
-18	avec	avec	P	1	
-19	un	un	D	1	
-20	anglais	anglais	N	1	
-21	impeccable	impeccable	G	1	
-22	(	(	O	1	
-23	on	on	Q	1	
-24	y	y	Q	1	
-25	laisse	laisser	V	1	
-26	la	le	D	1	
-27	clé	clé	N	1	
-28	de	de	P	1	
-29	la	le	D	1	
-30	chambre	chambre	N	1	
-31	à	à	P	1	
-32	chaque	chaque	D	1	
-33	sortie	sortie	N	1	
-34	et	et	C	1	
-35	on	on	Q	1	
-36	l'	l'	Q	1	
-37	y	y	Q	1	
-38	reprend	reprendre	V	1	
-39	en	en	P	1	
-40	rentrant	rentrer	V	1	
-41	)	)	O	1	
-42	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	tout	tout	G	1	O
+5	à	à	P	1	O
+6	fait	fait	N	1	O
+7	sympathique	sympathique	G	1	O
+8	,	,	O	1	O
+9	il	il	Q	1	O
+10	y	y	Q	1	O
+11	a	avoir	V	1	O
+12	24heures	24heures	D	1	I-Time
+13	sur	sur	P	1	I-Time
+14	24	24	D	1	I-Time
+15	quelqu'	quelque	D	1	O
+16	un	un	D	1	O
+17	à	à	P	1	O
+18	l'	le	D	1	O
+19	accueil	accueil	N	1	O
+20	avec	avec	P	1	O
+21	un	un	D	1	O
+22	anglais	anglais	N	1	O
+23	impeccable	impeccable	G	1	O
+24	(	(	O	1	O
+25	on	on	Q	1	O
+26	y	y	Q	1	O
+27	laisse	laisser	V	1	O
+28	la	le	D	1	O
+29	clé	clé	N	1	O
+30	de	de	P	1	O
+31	la	le	D	1	O
+32	chambre	chambre	N	1	O
+33	à	à	P	1	O
+34	chaque	chaque	D	1	O
+35	sortie	sortie	N	1	O
+36	et	et	C	1	O
+37	on	on	Q	1	O
+38	l'	l'	Q	1	O
+39	y	y	Q	1	O
+40	reprend	reprendre	V	1	O
+41	en	en	P	1	O
+42	rentrant	rentrer	V	1	O
+43	)	)	O	1	O
+44	.	.	O	1	O
 
-1	Ma	son	D	1	
-2	seule	seul	G	1	
-3	recommandation	recommandation	N	1	
-4	est	être	V	1	
-5	de	de	P	1	
-6	se	se	Q	1	
-7	préparer	préparer	V	1	
-8	aux	aux	P	1	
-9	escaliers	escalier	N	1	
-10	!!	!!	P	1	
+1	Ma	son	D	1	O
+2	seule	seul	G	1	O
+3	recommandation	recommandation	N	1	O
+4	est	être	V	1	O
+5	de	de	P	1	O
+6	se	se	Q	1	O
+7	préparer	préparer	V	1	O
+8	aux	aux	P	1	O
+9	escaliers	escalier	N	1	O
+10	!!	!!	P	1	O
 
-1	Surtout	Surtout	G	1	
-2	si	si	C	1	
-3	la	le	D	1	
-4	chambre	chambre	N	1	
-5	est	être	V	1	
-6	au	au	P	1	
-7	4ème	4ème	D	1	
-8	étage	étage	N	1	
-9	,	,	O	1	
-10	les	le	D	1	
-11	cuisses	cuisse	N	1	
-12	sont	être	V	1	
-13	sérieusement	sérieusement	G	1	
-14	attaquées	attaquer	V	1	
-15	!!	!!	C	1	
+1	Surtout	Surtout	G	1	O
+2	si	si	C	1	O
+3	la	le	D	1	O
+4	chambre	chambre	N	1	O
+5	est	être	V	1	O
+6	au	au	P	1	O
+7	4ème	4ème	D	1	O
+8	étage	étage	N	1	O
+9	,	,	O	1	O
+10	les	le	D	1	O
+11	cuisses	cuisse	N	1	O
+12	sont	être	V	1	O
+13	sérieusement	sérieusement	G	1	O
+14	attaquées	attaquer	V	1	O
+15	!!	!!	C	1	O
 

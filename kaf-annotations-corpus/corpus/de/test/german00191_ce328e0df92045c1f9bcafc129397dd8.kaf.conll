@@ -1,126 +1,126 @@
-1	Hochzeitsreise	Hochzeitsreise	R	1	ne=Hotel
+1	Hochzeitsreise	Hochzeitsreise	R	1	I-Hotel
 
-1	Hochtzeitsreise	Hochtzeitsreise	R	1	ne=Hotel
-2	:	:	O	1	
-3	es	es	Q	1	
-4	ist	sein	V	1	
-5	ein	eine	D	1	
-6	schönes	schön	G	1	
-7	Hotel	Hotel	N	1	
-8	,	,	O	1	
-9	aber	aber	A	1	
-10	weit	weit	G	1	
-11	und	und	C	1	
-12	breit	breit	G	1	
-13	nix	nix	Q	1	
-14	anderes	andere	Q	1	
-15	.	.	O	1	
+1	Hochtzeitsreise	Hochtzeitsreise	R	1	I-Hotel
+2	:	:	O	1	O
+3	es	es	Q	1	O
+4	ist	sein	V	1	O
+5	ein	eine	D	1	O
+6	schönes	schön	G	1	O
+7	Hotel	Hotel	N	1	O
+8	,	,	O	1	O
+9	aber	aber	A	1	O
+10	weit	weit	G	1	O
+11	und	und	C	1	O
+12	breit	breit	G	1	O
+13	nix	nix	Q	1	O
+14	anderes	andere	Q	1	O
+15	.	.	O	1	O
 
-1	Zu	zu	O	1	
-2	weit	weit	G	1	
-3	ab	ab	V	1	
-4	von	von	P	1	
-5	Allem	Allem	O	1	
-6	!	!	O	1	
-7	!	!	O	1	
-8	!	!	O	1	
+1	Zu	zu	O	1	O
+2	weit	weit	G	1	O
+3	ab	ab	V	1	O
+4	von	von	P	1	O
+5	Allem	Allem	O	1	O
+6	!	!	O	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
 
-1	Supermarkt	Supermarkt	N	1	
-2	im	in	P	1	
-3	Hotel	Hotel	N	1	
-4	zu	zu	O	1	
-5	teuer	teuer	G	1	
-6	6	6	O	1	
-7	$	$	N	1	
-8	Flasche	Flasche	N	1	
-9	Stilles	still	G	1	
-10	Wasser	Wasser	N	1	
-11	?	?	O	1	
-12	!	!	O	1	
+1	Supermarkt	Supermarkt	N	1	O
+2	im	in	P	1	O
+3	Hotel	Hotel	N	1	O
+4	zu	zu	O	1	O
+5	teuer	teuer	G	1	O
+6	6	6	O	1	O
+7	$	$	N	1	O
+8	Flasche	Flasche	N	1	O
+9	Stilles	still	G	1	O
+10	Wasser	Wasser	N	1	O
+11	?	?	O	1	O
+12	!	!	O	1	O
 
-1	Und	und	C	1	
-2	wenn	wenn	C	1	
-3	ich	ich	Q	1	
-4	für	für	P	1	
-5	so	so	A	1	
-6	einen	eine	D	1	
-7	Anlaß	Anlass	N	1	
-8	das	die	D	1	
-9	Hyatt	Hyatt	O	1	
-10	wähle	wählen	V	1	
-11	mit	mit	P	1	
-12	privat	privat	G	1	
-13	Stand	stand	V	1	
-14	,	,	O	1	
-15	möchte	mögen	V	1	
-16	ich	ich	Q	1	
-17	nicht	nicht	O	1	
-18	das	die	D	1	
-19	am	an	P	1	
-20	WE	WE	R	1	
-21	Einheimische	Einheimische	N	1	
-22	mit	mit	P	1	
-23	ihren	ihr	Q	1	
-24	Booten	Boot	N	1	
-25	kommen	kommen	V	1	
-26	die	die	D	1	
-27	dann	dann	A	1	
-28	Party	Party	N	1	
-29	machen	machen	V	1	
-30	,	,	O	1	
-31	sich	sich	Q	1	
-32	besaufen	besaufen	V	1	
-33	!	!	O	1	
-34	!	!	O	1	
+1	Und	und	C	1	O
+2	wenn	wenn	C	1	O
+3	ich	ich	Q	1	O
+4	für	für	P	1	O
+5	so	so	A	1	O
+6	einen	eine	D	1	O
+7	Anlaß	Anlass	N	1	O
+8	das	die	D	1	O
+9	Hyatt	Hyatt	O	1	O
+10	wähle	wählen	V	1	O
+11	mit	mit	P	1	O
+12	privat	privat	G	1	O
+13	Stand	stand	V	1	O
+14	,	,	O	1	O
+15	möchte	mögen	V	1	O
+16	ich	ich	Q	1	O
+17	nicht	nicht	O	1	O
+18	das	die	D	1	O
+19	am	an	P	1	O
+20	WE	WE	R	1	O
+21	Einheimische	Einheimische	N	1	O
+22	mit	mit	P	1	O
+23	ihren	ihr	Q	1	O
+24	Booten	Boot	N	1	O
+25	kommen	kommen	V	1	O
+26	die	die	D	1	O
+27	dann	dann	A	1	O
+28	Party	Party	N	1	O
+29	machen	machen	V	1	O
+30	,	,	O	1	O
+31	sich	sich	Q	1	O
+32	besaufen	besaufen	V	1	O
+33	!	!	O	1	O
+34	!	!	O	1	O
 
-1	Ihre	ihr	Q	1	
-2	Boote	Boot	N	1	
-3	putzen	putzen	V	1	
-4	:	:	O	1	
-5	·	·	O	1	
-6	(	(	O	1	
-7	ins	in	P	1	
-8	Meer	Meer	N	1	
-9	!	!	O	1	
+1	Ihre	ihr	Q	1	O
+2	Boote	Boot	N	1	O
+3	putzen	putzen	V	1	O
+4	:	:	O	1	O
+5	·	·	O	1	O
+6	(	(	O	1	O
+7	ins	in	P	1	O
+8	Meer	Meer	N	1	O
+9	!	!	O	1	O
 
-1	Ach	ach	O	1	
-2	so	so	A	1	
-3	von	von	P	1	
-4	jedem	jede	Q	1	
-5	Boot	Boot	N	1	
-6	natürlich	natürlich	A	1	
-7	andere	andere	Q	1	
-8	Musik	Musik	N	1	
-9	und	und	C	1	
-10	jeder	jede	Q	1	
-11	versucht	versuchen	V	1	
-12	lauter	laut	G	1	
-13	zu	zu	O	1	
-14	sein	sein	V	1	
-15	.	.	O	1	
+1	Ach	ach	O	1	O
+2	so	so	A	1	O
+3	von	von	P	1	O
+4	jedem	jede	Q	1	O
+5	Boot	Boot	N	1	O
+6	natürlich	natürlich	A	1	O
+7	andere	andere	Q	1	O
+8	Musik	Musik	N	1	O
+9	und	und	C	1	O
+10	jeder	jede	Q	1	O
+11	versucht	versuchen	V	1	O
+12	lauter	laut	G	1	O
+13	zu	zu	O	1	O
+14	sein	sein	V	1	O
+15	.	.	O	1	O
 
-1	Nein	nein	O	1	
-2	dann	dann	A	1	
-3	doch	doch	A	1	
-4	lieber	lieb	G	1	
-5	Hyatt	Hyatt	O	1	
-6	Regency	Regency	O	1	
-7	in	in	P	1	
-8	Hua	Hua	R	1	
-9	Hin	hin	V	1	
-10	!	!	O	1	
-11	!	!	O	1	
-12	!	!	O	1	
+1	Nein	nein	O	1	O
+2	dann	dann	A	1	O
+3	doch	doch	A	1	O
+4	lieber	lieb	G	1	O
+5	Hyatt	Hyatt	O	1	O
+6	Regency	Regency	O	1	O
+7	in	in	P	1	O
+8	Hua	Hua	R	1	O
+9	Hin	hin	V	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
 
-1	Viel	viel	A	1	
-2	günstiger	günstig	G	1	
-3	und	und	C	1	
-4	viel	viel	A	1	
-5	besser	gut	G	1	
-6	in	in	P	1	
-7	allem	alle	Q	1	
-8	,	,	O	1	
-9	Spitzen	spitzen	V	1	
-10	Küche	Küche	N	1	
-11	!	!	O	1	
+1	Viel	viel	A	1	O
+2	günstiger	günstig	G	1	O
+3	und	und	C	1	O
+4	viel	viel	A	1	O
+5	besser	gut	G	1	O
+6	in	in	P	1	O
+7	allem	alle	Q	1	O
+8	,	,	O	1	O
+9	Spitzen	spitzen	V	1	O
+10	Küche	Küche	N	1	O
+11	!	!	O	1	O
 

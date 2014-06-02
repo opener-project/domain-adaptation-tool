@@ -1,94 +1,97 @@
-1	Posizione	posizione	N	1	
-2	ottima	ottimo	G	1	
-3	vicino	vicino	N	1	
-4	alla	alla	P	1	
-5	strip	strip	N	1	
+1	Posizione	posizione	N	1	O
+2	ottima	ottimo	G	1	O
+3	vicino	vicino	N	1	O
+4	alla	alla	P	1	O
+5	strip	strip	N	1	O
 
-1	Ho	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	per	per	P	1	
-4	2	2	G	1	
-5	notti	notte	N	1	
-6	in	in	P	1	
-7	questo	questo	G	1	
-8	motel	motel	N	1	
-9	.	.	O	1	
+1	Ho	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	per	per	P	1	O
+4	2	2	G	1	O
+5	notti	notte	N	1	O
+6	in	in	P	1	O
+7	questo	questo	G	1	O
+8	motel	motel	N	1	O
+9	.	.	O	1	O
 
-1	La	lo	D	1	
-2	camera	camera	N	1	
-3	era	essere	V	1	
-4	abbastanza	abbastanza	A	1	
-5	sporca	sporco	G	1	
-6	.	.	O	1	
+1	La	lo	D	1	O
+2	camera	camera	N	1	O
+3	era	essere	V	1	O
+4	abbastanza	abbastanza	A	1	O
+5	sporca	sporco	G	1	O
+6	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	bagno	bagno	N	1	
-3	anch'	anch'	Q	1	
-4	esso	esso	Q	1	
-5	sporco	sporco	G	1	
-6	.	.	O	1	
+1	Il	lo	D	1	O
+2	bagno	bagno	N	1	O
+3	anch'	anch'	Q	1	O
+4	esso	esso	Q	1	O
+5	sporco	sporco	G	1	O
+6	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	unica	unico	G	1	
-3	cosa	cosa	N	1	
-4	davvero	davvero	A	1	
-5	ottima	ottimo	G	1	
-6	è	è	N	1	
-7	la	lo	D	1	
-8	posizione	posizione	N	1	
-9	,	,	O	1	
-10	direttamente	direttamente	A	1	
-11	in	in	P	1	
-12	tropicana_avenue	tropicana_avenue	R	1	ne=Location
-13	.	.	O	1	
+1	L'	lo	D	1	O
+2	unica	unico	G	1	O
+3	cosa	cosa	N	1	O
+4	davvero	davvero	A	1	O
+5	ottima	ottimo	G	1	O
+6	è	è	N	1	O
+7	la	lo	D	1	O
+8	posizione	posizione	N	1	O
+9	,	,	O	1	O
+10	direttamente	direttamente	A	1	O
+11	in	in	P	1	O
+12	tropicana	tropicana	G	1	I-Location
+13	avenue	avenue	N	1	I-Location
+14	.	.	O	1	O
 
-1	Della	della	P	1	
-2	piscina	piscina	N	1	
-3	non	non	A	1	
-4	ho	avere	V	1	
-5	usufruito	usufruire	V	1	
-6	ma	ma	Q	1	
-7	non	non	A	1	
-8	è	essere	V	1	
-9	accogliente	accogliere	V	1	
-10	come	come	A	1	
-11	quella	quella	Q	1	
-12	in	in	P	1	
-13	foto	foto	N	1	
-14	!	!	O	1	
+1	Della	della	P	1	O
+2	piscina	piscina	N	1	O
+3	non	non	A	1	O
+4	ho	avere	V	1	O
+5	usufruito	usufruire	V	1	O
+6	ma	ma	Q	1	O
+7	non	non	A	1	O
+8	è	essere	V	1	O
+9	accogliente	accogliere	V	1	O
+10	come	come	A	1	O
+11	quella	quella	Q	1	O
+12	in	in	P	1	O
+13	foto	foto	N	1	O
+14	!	!	O	1	O
 
-1	Il	lo	D	1	
-2	motel	motel	N	1	
-3	si	si	Q	1	
-4	trova	trovare	V	1	
-5	proprio	proprio	A	1	
-6	di	di	P	1	
-7	fronte	fronte	N	1	
-8	al	al	P	1	
-9	MGM_GRAND	mgm_grand	R	1	ne=POI
-10	.	.	O	1	
+1	Il	lo	D	1	O
+2	motel	motel	N	1	O
+3	si	si	Q	1	O
+4	trova	trovare	V	1	O
+5	proprio	proprio	A	1	O
+6	di	di	P	1	O
+7	fronte	fronte	N	1	O
+8	al	al	P	1	O
+9	MGM	mgm	R	1	I-POI
+10	GRAND	grand	R	1	I-POI
+11	.	.	O	1	O
 
-1	Niente	niente	N	1	
-2	a	a	P	1	
-3	che	che	Q	1	
-4	vedere	vedere	V	1	
-5	con	con	P	1	
-6	i	lo	D	1	
-7	gran	gran	G	1	
-8	hotel	hotel	N	1	
-9	di	di	P	1	
-10	las_vegas	las_vegas	R	1	ne=Location
-11	ma	ma	Q	1	
-12	potrebbe	potere	V	1	
-13	essere	essere	V	1	
-14	un	uno	D	1	
-15	ottimo	ottimo	N	1	
-16	ripiego	ripiegare	V	1	
-17	per	per	P	1	
-18	viaggiatori	viaggiatore	N	1	
-19	low	low	R	1	
-20	cost	cost	N	1	
-21	come	come	A	1	
-22	me	me	Q	1	
-23	!	!	O	1	
+1	Niente	niente	N	1	O
+2	a	a	P	1	O
+3	che	che	Q	1	O
+4	vedere	vedere	V	1	O
+5	con	con	P	1	O
+6	i	lo	D	1	O
+7	gran	gran	G	1	O
+8	hotel	hotel	N	1	O
+9	di	di	P	1	O
+10	las	las	R	1	I-Location
+11	vegas	vegas	R	1	I-Location
+12	ma	ma	Q	1	O
+13	potrebbe	potere	V	1	O
+14	essere	essere	V	1	O
+15	un	uno	D	1	O
+16	ottimo	ottimo	N	1	O
+17	ripiego	ripiegare	V	1	O
+18	per	per	P	1	O
+19	viaggiatori	viaggiatore	N	1	O
+20	low	low	R	1	O
+21	cost	cost	N	1	O
+22	come	come	A	1	O
+23	me	me	Q	1	O
+24	!	!	O	1	O
 

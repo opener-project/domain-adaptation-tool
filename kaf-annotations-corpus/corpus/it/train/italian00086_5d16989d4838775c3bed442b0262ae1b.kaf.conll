@@ -1,154 +1,157 @@
-1	Uno	uno	Q	1	
-2	dei	dei	P	1	
-3	campeggi	campeggio	N	1	
-4	piu	piu	O	1	
-5	'	'	Q	1	
-6	romantici	romantico	G	1	
-7	d'	d'	P	1	
-8	Italia	italia	R	1	ne=Location
+1	Uno	uno	Q	1	O
+2	dei	dei	P	1	O
+3	campeggi	campeggio	N	1	O
+4	piu	piu	O	1	O
+5	'	'	Q	1	O
+6	romantici	romantico	G	1	O
+7	d'	d'	P	1	O
+8	Italia	italia	R	1	I-Location
 
-1	Abbiamo	abbiamo	R	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	questa	questa	G	1	
-5	struttura	struttura	N	1	
-6	,	,	O	1	
-7	per	per	P	1	
-8	cause	causa	N	1	
-9	meteo	meteo	N	1	
-10	,	,	O	1	
-11	solo	solo	G	1	
-12	per	per	P	1	
-13	2	2	G	1	
-14	giorni	giorno	N	1	
-15	a	a	P	1	
-16	fine	fine	N	1	
-17	giugno_2011	giugno_2011	R	1	ne=Date
-18	.	.	O	1	
+1	Abbiamo	abbiamo	R	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	questa	questa	G	1	O
+5	struttura	struttura	N	1	O
+6	,	,	O	1	O
+7	per	per	P	1	O
+8	cause	causa	N	1	O
+9	meteo	meteo	N	1	O
+10	,	,	O	1	O
+11	solo	solo	G	1	O
+12	per	per	P	1	O
+13	2	2	G	1	O
+14	giorni	giorno	N	1	O
+15	a	a	P	1	O
+16	fine	fine	N	1	O
+17	giugno	giugno	N	1	I-Date
+18	2011	2011	N	1	I-Date
+19	.	.	O	1	O
 
-1	E	e	Q	1	
-2	'	'	Q	1	
-3	un	uno	D	1	
-4	bellissimo	bellissimo	G	1	
-5	campeggio	campeggiare	V	1	
-6	molto	molto	A	1	
-7	tranquillo	tranquillo	G	1	
-8	frequentato	frequentare	V	1	
-9	soprattutto	soprattutto	A	1	
-10	da	da	P	1	
-11	Norvegesi	norvegese	R	1	
-12	tedesci	tedesco	N	1	
-13	e	e	Q	1	
-14	Austrici	austrici	G	1	
-15	adagiato	adagiare	V	1	
-16	sulle	sulle	P	1	
-17	sponde	sponda	N	1	
-18	di	di	P	1	
-19	Passignano_del_Trasimeno	passignano_del_trasimeno	R	1	ne=Location
-20	,	,	O	1	
-21	abbiamo	avere	V	1	
-22	prenotato	prenotare	V	1	
-23	una	uno	D	1	
-24	piazzola	piazzola	R	1	
-25	fronte	fronte	N	1	
-26	lago	lago	N	1	
-27	,	,	O	1	
-28	da	da	P	1	
-29	cui	cui	Q	1	
-30	si	si	Q	1	
-31	puo	puo	V	1	
-32	'	'	Q	1	
-33	ammirare	ammirare	V	1	
-34	il	lo	D	1	
-35	paesino	paesino	N	1	
-36	e	e	Q	1	
-37	l'	lo	D	1	
-38	isola	isola	N	1	
-39	maggiore	maggiore	G	1	
-40	.	.	O	1	
+1	E	e	Q	1	O
+2	'	'	Q	1	O
+3	un	uno	D	1	O
+4	bellissimo	bellissimo	G	1	O
+5	campeggio	campeggiare	V	1	O
+6	molto	molto	A	1	O
+7	tranquillo	tranquillo	G	1	O
+8	frequentato	frequentare	V	1	O
+9	soprattutto	soprattutto	A	1	O
+10	da	da	P	1	O
+11	Norvegesi	norvegese	R	1	O
+12	tedesci	tedesco	N	1	O
+13	e	e	Q	1	O
+14	Austrici	austrici	G	1	O
+15	adagiato	adagiare	V	1	O
+16	sulle	sulle	P	1	O
+17	sponde	sponda	N	1	O
+18	di	di	P	1	O
+19	Passignano	passignano	V	1	I-Location
+20	del	del	P	1	I-Location
+21	Trasimeno	trasimeno	R	1	I-Location
+22	,	,	O	1	O
+23	abbiamo	avere	V	1	O
+24	prenotato	prenotare	V	1	O
+25	una	uno	D	1	O
+26	piazzola	piazzola	R	1	O
+27	fronte	fronte	N	1	O
+28	lago	lago	N	1	O
+29	,	,	O	1	O
+30	da	da	P	1	O
+31	cui	cui	Q	1	O
+32	si	si	Q	1	O
+33	puo	puo	V	1	O
+34	'	'	Q	1	O
+35	ammirare	ammirare	V	1	O
+36	il	lo	D	1	O
+37	paesino	paesino	N	1	O
+38	e	e	Q	1	O
+39	l'	lo	D	1	O
+40	isola	isola	N	1	O
+41	maggiore	maggiore	G	1	O
+42	.	.	O	1	O
 
-1	La	lo	D	1	
-2	struttura	struttura	N	1	
-3	al	al	P	1	
-4	primo	primo	G	1	
-5	impatto	impatto	N	1	
-6	puo	puo	G	1	
-7	'	'	Q	1	
-8	risultare	risultare	V	1	
-9	un	uno	D	1	
-10	po'	po'	A	1	
-11	spartana	spartano	G	1	
-12	con	con	P	1	
-13	pochi	poco	G	1	
-14	alberi	albero	N	1	
-15	e	e	Q	1	
-16	lo	lo	D	1	
-17	spazio	spaziare	V	1	
-18	dove	dove	Q	1	
-19	mettere	mettere	V	1	
-20	la	lo	D	1	
-21	tenda	tenda	N	1	
-22	di	di	P	1	
-23	terra	terra	N	1	
-24	battuta	battuto	G	1	
-25	e	e	Q	1	
-26	le	lo	D	1	
-27	macchine	macchina	N	1	
-28	in	in	P	1	
-29	piazzola	piazzola	N	1	
-30	,	,	O	1	
-31	ma	ma	Q	1	
-32	alla	alla	P	1	
-33	fine	fine	N	1	
-34	e	e	Q	1	
-35	'	'	Q	1	
-36	risultato	risultare	V	1	
-37	tutto	tutto	G	1	
-38	molto	molto	G	1	
-39	piacevole	piacevole	G	1	
-40	.	.	O	1	
+1	La	lo	D	1	O
+2	struttura	struttura	N	1	O
+3	al	al	P	1	O
+4	primo	primo	G	1	O
+5	impatto	impatto	N	1	O
+6	puo	puo	G	1	O
+7	'	'	Q	1	O
+8	risultare	risultare	V	1	O
+9	un	uno	D	1	O
+10	po'	po'	A	1	O
+11	spartana	spartano	G	1	O
+12	con	con	P	1	O
+13	pochi	poco	G	1	O
+14	alberi	albero	N	1	O
+15	e	e	Q	1	O
+16	lo	lo	D	1	O
+17	spazio	spaziare	V	1	O
+18	dove	dove	Q	1	O
+19	mettere	mettere	V	1	O
+20	la	lo	D	1	O
+21	tenda	tenda	N	1	O
+22	di	di	P	1	O
+23	terra	terra	N	1	O
+24	battuta	battuto	G	1	O
+25	e	e	Q	1	O
+26	le	lo	D	1	O
+27	macchine	macchina	N	1	O
+28	in	in	P	1	O
+29	piazzola	piazzola	N	1	O
+30	,	,	O	1	O
+31	ma	ma	Q	1	O
+32	alla	alla	P	1	O
+33	fine	fine	N	1	O
+34	e	e	Q	1	O
+35	'	'	Q	1	O
+36	risultato	risultare	V	1	O
+37	tutto	tutto	G	1	O
+38	molto	molto	G	1	O
+39	piacevole	piacevole	G	1	O
+40	.	.	O	1	O
 
-1	Pulitissimi	pulitissimi	G	1	
-2	i	lo	D	1	
-3	servizi	servizio	N	1	
-4	igenici	igenici	G	1	
-5	.	.	O	1	
+1	Pulitissimi	pulitissimi	G	1	O
+2	i	lo	D	1	O
+3	servizi	servizio	N	1	O
+4	igenici	igenici	G	1	O
+5	.	.	O	1	O
 
-1	C'	c'	A	1	
-2	e	e	Q	1	
-3	'	'	Q	1	
-4	anche	anche	Q	1	
-5	la	lo	D	1	
-6	piscina	piscina	N	1	
-7	e	e	Q	1	
-8	una	uno	D	1	
-9	spiaggietta	spiaggietta	N	1	
-10	attrezzata	attrezzare	V	1	
-11	!	!	O	1	
-12	!	!	O	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
+1	C'	c'	A	1	O
+2	e	e	Q	1	O
+3	'	'	Q	1	O
+4	anche	anche	Q	1	O
+5	la	lo	D	1	O
+6	piscina	piscina	N	1	O
+7	e	e	Q	1	O
+8	una	uno	D	1	O
+9	spiaggietta	spiaggietta	N	1	O
+10	attrezzata	attrezzare	V	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
 
-1	Peccato	peccato	N	1	
-2	che	che	Q	1	
-3	1	1	G	1	
-4	bufera	bufera	R	1	
-5	di	di	P	1	
-6	vento	vento	N	1	
-7	ci	ci	Q	1	
-8	ha	avere	V	1	
-9	distrutto	distruggere	V	1	
-10	la	lo	D	1	
-11	tenda	tenda	N	1	
-12	e	e	Q	1	
-13	siamo	essere	V	1	
-14	dovuti	dovere	V	1	
-15	andar	andar	V	1	
-16	via	via	A	1	
-17	,	,	O	1	
-18	ma	ma	Q	1	
-19	torneremo	tornare	V	1	
-20	prestissimo	prestissimo	R	1	
-21	...........	...........	O	1	
+1	Peccato	peccato	N	1	O
+2	che	che	Q	1	O
+3	1	1	G	1	O
+4	bufera	bufera	R	1	O
+5	di	di	P	1	O
+6	vento	vento	N	1	O
+7	ci	ci	Q	1	O
+8	ha	avere	V	1	O
+9	distrutto	distruggere	V	1	O
+10	la	lo	D	1	O
+11	tenda	tenda	N	1	O
+12	e	e	Q	1	O
+13	siamo	essere	V	1	O
+14	dovuti	dovere	V	1	O
+15	andar	andar	V	1	O
+16	via	via	A	1	O
+17	,	,	O	1	O
+18	ma	ma	Q	1	O
+19	torneremo	tornare	V	1	O
+20	prestissimo	prestissimo	R	1	O
+21	...........	...........	O	1	O
 

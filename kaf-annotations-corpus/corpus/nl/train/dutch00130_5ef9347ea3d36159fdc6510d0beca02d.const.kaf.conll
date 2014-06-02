@@ -1,47 +1,47 @@
-1	Mooi	mooi	G	1	
-2	deluxe	deluxe	O	1	
-3	hotel	hotel	N	1	
-4	in	in	P	1	
-5	centrum	centrum	N	1	
-6	van	van	P	1	
-7	München	München	R	1	ne=Location
+1	Mooi	mooi	G	1	O
+2	deluxe	deluxe	O	1	O
+3	hotel	hotel	N	1	O
+4	in	in	P	1	O
+5	centrum	centrum	N	1	O
+6	van	van	P	1	O
+7	München	München	R	1	I-Location
 
-1	Dit	dit	D	1	
-2	bijzonder	bijzonder	G	1	
-3	mooie	mooi	G	1	
-4	hotel	hotel	N	1	
-5	heeft	hebben	V	1	
-6	alles	alles	Q	1	
-7	in	in	P	1	
-8	huis	huis	N	1	
-9	voor	voor	P	1	
-10	een	een	D	1	
-11	aangenaam	aangenaam	G	1	
-12	verblijf	verblijf	N	1	
-13	.	.	O	1	
+1	Dit	dit	D	1	O
+2	bijzonder	bijzonder	G	1	O
+3	mooie	mooi	G	1	O
+4	hotel	hotel	N	1	O
+5	heeft	hebben	V	1	O
+6	alles	alles	Q	1	O
+7	in	in	P	1	O
+8	huis	huis	N	1	O
+9	voor	voor	P	1	O
+10	een	een	D	1	O
+11	aangenaam	aangenaam	G	1	O
+12	verblijf	verblijf	N	1	O
+13	.	.	O	1	O
 
-1	Verder	ver|verder	G	1	
-2	ligt	liggen	V	1	
-3	het	het	D	1	
-4	in	in	P	1	
-5	hartje	hartje	O	1	
-6	Munchen	Munchen	R	1	ne=Location
-7	dus	dus	A	1	
-8	prima	prima	G	1	
-9	geschikt	schikken	V	1	
-10	om	om	C	1	
-11	the	the	O	1	
-12	shoppen	shoppen	O	1	
-13	of	of	C	1	
-14	het	het	D	1	
-15	centrum	centrum	N	1	
-16	te	te	O	1	
-17	verkennen	verkennen	V	1	
-18	.	.	O	1	
+1	Verder	ver|verder	G	1	O
+2	ligt	liggen	V	1	O
+3	het	het	D	1	O
+4	in	in	P	1	O
+5	hartje	hartje	O	1	O
+6	Munchen	Munchen	R	1	I-Location
+7	dus	dus	A	1	O
+8	prima	prima	G	1	O
+9	geschikt	schikken	V	1	O
+10	om	om	C	1	O
+11	the	the	O	1	O
+12	shoppen	shoppen	O	1	O
+13	of	of	C	1	O
+14	het	het	D	1	O
+15	centrum	centrum	N	1	O
+16	te	te	O	1	O
+17	verkennen	verkennen	V	1	O
+18	.	.	O	1	O
 
-1	Overall	overall	N	1	
-2	zeer	zeer	G	1	
-3	aan	aan	A	1	
-4	te	te	O	1	
-5	bevelen	bevelen	V	1	
+1	Overall	overall	N	1	O
+2	zeer	zeer	G	1	O
+3	aan	aan	A	1	O
+4	te	te	O	1	O
+5	bevelen	bevelen	V	1	O
 

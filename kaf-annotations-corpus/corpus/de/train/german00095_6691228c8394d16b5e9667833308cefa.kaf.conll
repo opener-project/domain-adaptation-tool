@@ -1,123 +1,124 @@
-1	Zantrales	Zantrales	O	1	
-2	Top	Top	R	1	
-3	·	·	O	1	
-4	Hotel	Hotel	N	1	
-5	mit	mit	P	1	
-6	freundlichem	freundlich	G	1	
-7	Service	Service	N	1	
+1	Zantrales	Zantrales	O	1	O
+2	Top	Top	R	1	O
+3	·	·	O	1	O
+4	Hotel	Hotel	N	1	O
+5	mit	mit	P	1	O
+6	freundlichem	freundlich	G	1	O
+7	Service	Service	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	verbindet	verbinden	V	1	
-4	einen	eine	D	1	
-5	wunderschönen	wunderschön	G	1	
-6	,	,	O	1	
-7	historischen	historisch	G	1	
-8	Altbau	Altbau	N	1	
-9	mit	mit	P	1	
-10	moderner	modern	G	1	
-11	Ausstattung	Ausstattung	N	1	
-12	und	und	C	1	
-13	viel	viele	Q	1	
-14	Komfort	Komfort	N	1	
-15	,	,	O	1	
-16	mitten	mitten	A	1	
-17	im	in	P	1	
-18	Zentrum	Zentrum	N	1	
-19	von	von	P	1	
-20	Leipzig	Leipzig	R	1	ne=Location
-21	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	verbindet	verbinden	V	1	O
+4	einen	eine	D	1	O
+5	wunderschönen	wunderschön	G	1	O
+6	,	,	O	1	O
+7	historischen	historisch	G	1	O
+8	Altbau	Altbau	N	1	O
+9	mit	mit	P	1	O
+10	moderner	modern	G	1	O
+11	Ausstattung	Ausstattung	N	1	O
+12	und	und	C	1	O
+13	viel	viele	Q	1	O
+14	Komfort	Komfort	N	1	O
+15	,	,	O	1	O
+16	mitten	mitten	A	1	O
+17	im	in	P	1	O
+18	Zentrum	Zentrum	N	1	O
+19	von	von	P	1	O
+20	Leipzig	Leipzig	R	1	I-Location
+21	.	.	O	1	O
 
-1	Da	da	C	1	
-2	das	die	D	1	
-3	Hotel	Hotel	N	1	
-4	erst	erst	A	1	
-5	im	in	P	1	
-6	April_2011	April_@card@	R	1	ne=Date
-7	eröffnet	eröffnen	V	1	
-8	wurde	werden	V	1	
-9	,	,	O	1	
-10	ist	sein	V	1	
-11	alles	alle	Q	1	
-12	neu	neu	G	1	
-13	und	und	C	1	
-14	in	in	P	1	
-15	einem	eine	D	1	
-16	super	super	G	1	
-17	Zustand	Zustand	N	1	
-18	.	.	O	1	
+1	Da	da	C	1	O
+2	das	die	D	1	O
+3	Hotel	Hotel	N	1	O
+4	erst	erst	A	1	O
+5	im	in	P	1	O
+6	April	April	N	1	I-Date
+7	2011	@card@	O	1	I-Date
+8	eröffnet	eröffnen	V	1	O
+9	wurde	werden	V	1	O
+10	,	,	O	1	O
+11	ist	sein	V	1	O
+12	alles	alle	Q	1	O
+13	neu	neu	G	1	O
+14	und	und	C	1	O
+15	in	in	P	1	O
+16	einem	eine	D	1	O
+17	super	super	G	1	O
+18	Zustand	Zustand	N	1	O
+19	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	gibt	geben	V	1	
-3	163	163	O	1	
-4	Deluxe	Deluxe	O	1	
-5	·	·	O	1	
-6	und	und	C	1	
-7	Superiorzimmer	Superiorzimmer	O	1	
-8	,	,	O	1	
-9	die	die	Q	1	
-10	zwischen	zwischen	P	1	
-11	26	26	O	1	
-12	und	und	C	1	
-13	44	44	O	1	
-14	m2	m2	O	1	
-15	groß	groß	G	1	
-16	sind	sein	V	1	
-17	.	.	O	1	
+1	Es	es	Q	1	O
+2	gibt	geben	V	1	O
+3	163	163	O	1	O
+4	Deluxe	Deluxe	O	1	O
+5	·	·	O	1	O
+6	und	und	C	1	O
+7	Superiorzimmer	Superiorzimmer	O	1	O
+8	,	,	O	1	O
+9	die	die	Q	1	O
+10	zwischen	zwischen	P	1	O
+11	26	26	O	1	O
+12	und	und	C	1	O
+13	44	44	O	1	O
+14	m2	m2	O	1	O
+15	groß	groß	G	1	O
+16	sind	sein	V	1	O
+17	.	.	O	1	O
 
-1	Außerdem	außerdem	A	1	
-2	bietet	bieten	V	1	
-3	das	die	D	1	
-4	Hotel	Hotel	N	1	
-5	4	4	O	1	
-6	Juniorsuiten	Juniorsuiten	O	1	
-7	mit	mit	P	1	
-8	42	@card@	O	1	
-9	bis	bis	C	1	
-10	46	46	O	1	
-11	m2	m2	O	1	
-12	und	und	C	1	
-13	9	9	O	1	
-14	Suiten	Suiten	O	1	
-15	mit	mit	P	1	
-16	getrenntem	getrennt	G	1	
-17	Wohn	Wohn	O	1	
-18	·	·	O	1	
-19	und	und	C	1	
-20	Schlafbereich	Schlafbereich	N	1	
-21	auf	auf	P	1	
-22	51	@card@	O	1	
-23	bis	bis	C	1	
-24	64	64	O	1	
-25	m2	m2	O	1	
-26	an	an	V	1	
-27	.	.	O	1	
+1	Außerdem	außerdem	A	1	O
+2	bietet	bieten	V	1	O
+3	das	die	D	1	O
+4	Hotel	Hotel	N	1	O
+5	4	4	O	1	O
+6	Juniorsuiten	Juniorsuiten	O	1	O
+7	mit	mit	P	1	O
+8	42	@card@	O	1	O
+9	bis	bis	C	1	O
+10	46	46	O	1	O
+11	m2	m2	O	1	O
+12	und	und	C	1	O
+13	9	9	O	1	O
+14	Suiten	Suiten	O	1	O
+15	mit	mit	P	1	O
+16	getrenntem	getrennt	G	1	O
+17	Wohn	Wohn	O	1	O
+18	·	·	O	1	O
+19	und	und	C	1	O
+20	Schlafbereich	Schlafbereich	N	1	O
+21	auf	auf	P	1	O
+22	51	@card@	O	1	O
+23	bis	bis	C	1	O
+24	64	64	O	1	O
+25	m2	m2	O	1	O
+26	an	an	V	1	O
+27	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	gibt	geben	V	1	
-3	eine	eine	D	1	
-4	Präsidentensuite	Präsidentensuite	O	1	
-5	mit	mit	P	1	
-6	220	220	O	1	
-7	m2	m2	O	1	
-8	Größe	Größe	N	1	
-9	.	.	O	1	
+1	Es	es	Q	1	O
+2	gibt	geben	V	1	O
+3	eine	eine	D	1	O
+4	Präsidentensuite	Präsidentensuite	O	1	O
+5	mit	mit	P	1	O
+6	220	220	O	1	O
+7	m2	m2	O	1	O
+8	Größe	Größe	N	1	O
+9	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	eine	eine	Q	1	
-4	rate	raten	V	1	
-5	mit	mit	P	1	
-6	Frühstück	Frühstück	N	1	
-7	gebucht	buchen	V	1	
-8	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	eine	eine	Q	1	O
+4	rate	raten	V	1	O
+5	mit	mit	P	1	O
+6	Frühstück	Frühstück	N	1	O
+7	gebucht	buchen	V	1	O
+8	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Gästestruktur	Gästestruktur	N	1	
-3	würde	werden	V	1	
-4	ich	ich	Q	1	
-5	als	als	C	1	
-6	international	international	G	1	
-7	bezeichnen	bezeichnen	V	1	
-8	.	.	O	1	
+1	Die	die	D	1	O
+2	Gästestruktur	Gästestruktur	N	1	O
+3	würde	werden	V	1	O
+4	ich	ich	Q	1	O
+5	als	als	C	1	O
+6	international	international	G	1	O
+7	bezeichnen	bezeichnen	V	1	O
+8	.	.	O	1	O
 

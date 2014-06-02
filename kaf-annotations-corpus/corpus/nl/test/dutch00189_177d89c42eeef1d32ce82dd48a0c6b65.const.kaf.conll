@@ -1,141 +1,146 @@
-1	Steeds	steeds	A	1	
-2	overboekt	overboeken	V	1	
-3	!	!	O	1	
+1	Steeds	steeds	A	1	O
+2	overboekt	overboeken	V	1	O
+3	!	!	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	geboekt	boeken	V	1	
-4	,	,	O	1	
-5	komen	komen	V	1	
-6	om	om	P	1	
-7	6h_s_'_ochtends	6h_s_'_ochtend	R	1	ne=Time
-8	toe	toe	A	1	
-9	,	,	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	geboekt	boeken	V	1	O
+4	,	,	O	1	O
+5	komen	komen	V	1	O
+6	om	om	P	1	O
+7	6h	6h	O	1	I-Time
+8	s	s	N	1	I-Time
+9	'	'	O	1	I-Time
+10	ochtends	ochtend	N	1	I-Time
+11	toe	toe	A	1	O
+12	,	,	O	1	O
 
-1	de	de	D	1	
-2	kamer	kamer	N	1	
-3	is	zijn	V	1	
-4	nog	nog	A	1	
-5	niet	niet	A	1	
-6	gereed	gereed	G	1	
-7	.	.	O	1	
+1	de	de	D	1	O
+2	kamer	kamer	N	1	O
+3	is	zijn	V	1	O
+4	nog	nog	A	1	O
+5	niet	niet	A	1	O
+6	gereed	gereed	G	1	O
+7	.	.	O	1	O
 
-1	Ze	ze	Q	1	
-2	zeggen	zeggen	V	1	
-3	ons	ons	Q	1	
-4	om	om	P	1	
-5	rond	rond	G	1	
-6	11h	11h	R	1	ne=Time
-7	terug	terug	A	1	
-8	te	te	O	1	
-9	komen	komen	V	1	
-10	en	en	C	1	
-11	onze	ons	D	1	
-12	bagage	bagage	N	1	
-13	te	te	O	1	
-14	laten	laten	V	1	
-15	staan	staan	V	1	
-16	.	.	O	1	
+1	Ze	ze	Q	1	O
+2	zeggen	zeggen	V	1	O
+3	ons	ons	Q	1	O
+4	om	om	P	1	O
+5	rond	rond	G	1	O
+6	11h	11h	R	1	I-Time
+7	terug	terug	A	1	O
+8	te	te	O	1	O
+9	komen	komen	V	1	O
+10	en	en	C	1	O
+11	onze	ons	D	1	O
+12	bagage	bagage	N	1	O
+13	te	te	O	1	O
+14	laten	laten	V	1	O
+15	staan	staan	V	1	O
+16	.	.	O	1	O
 
-1	Rond	rond	P	1	
-2	11	@card@	R	1	ne=Time
-3	zijn	zijn	V	1	
-4	we	we	Q	1	
-5	terug	terug	A	1	
-6	gekomen	komen	V	1	
-7	en	en	C	1	
-8	het	het	D	1	
-9	hotel	hotel	N	1	
-10	was	wezen|zijn	V	1	
-11	volzet	volzet	G	1	
-12	,	,	O	1	
-13	blijkt	blijken	V	1	
-14	dat	dat	C	1	
-15	ze	ze	Q	1	
-16	het	het	D	1	
-17	constant	constant	G	1	
-18	overboeken	overboeken	N	1	
-19	!	!	O	1	
-20	!	!	O	1	
-21	!	!	O	1	
+1	Rond	rond	P	1	O
+2	11	@card@	R	1	I-Time
+3	zijn	zijn	V	1	O
+4	we	we	Q	1	O
+5	terug	terug	A	1	O
+6	gekomen	komen	V	1	O
+7	en	en	C	1	O
+8	het	het	D	1	O
+9	hotel	hotel	N	1	O
+10	was	wezen|zijn	V	1	O
+11	volzet	volzet	G	1	O
+12	,	,	O	1	O
+13	blijkt	blijken	V	1	O
+14	dat	dat	C	1	O
+15	ze	ze	Q	1	O
+16	het	het	D	1	O
+17	constant	constant	G	1	O
+18	overboeken	overboeken	N	1	O
+19	!	!	O	1	O
+20	!	!	O	1	O
+21	!	!	O	1	O
 
-1	We	we	Q	1	
-2	moesten	moeten	V	1	
-3	naar	naar	P	1	
-4	een	een	D	1	
-5	ander	ander	G	1	
-6	hotel	hotel	N	1	
-7	van	van	P	1	
-8	de_eigenaar	de_eigenaar	R	1	ne=Person
-9	in	in	P	1	
-10	een	een	D	1	
-11	volledig	volledig	G	1	
-12	ander	ander	G	1	
-13	wijk	wijk	N	1	
-14	aan	aan	P	1	
-15	de	de	D	1	
-16	andere	ander	G	1	
-17	kant	kant	N	1	
-18	van	van	P	1	
-19	Parijs	Parijs	R	1	ne=Location
-20	!	!	O	1	
-21	!	!	O	1	
-22	!	!	O	1	
+1	We	we	Q	1	O
+2	moesten	moeten	V	1	O
+3	naar	naar	P	1	O
+4	een	een	D	1	O
+5	ander	ander	G	1	O
+6	hotel	hotel	N	1	O
+7	van	van	P	1	O
+8	de	de	D	1	I-Person
+9	eigenaar	eigenaar	N	1	I-Person
+10	in	in	P	1	O
+11	een	een	D	1	O
+12	volledig	volledig	G	1	O
+13	ander	ander	G	1	O
+14	wijk	wijk	N	1	O
+15	aan	aan	P	1	O
+16	de	de	D	1	O
+17	andere	ander	G	1	O
+18	kant	kant	N	1	O
+19	van	van	P	1	O
+20	Parijs	Parijs	R	1	I-Location
+21	!	!	O	1	O
+22	!	!	O	1	O
+23	!	!	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	was	wezen|zijn	V	1	
-4	arrogant	arrogant	G	1	
-5	en	en	C	1	
-6	onbeleefd	onbeleefd	G	1	
-7	!	!	O	1	
-8	!	!	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	was	wezen|zijn	V	1	O
+4	arrogant	arrogant	G	1	O
+5	en	en	C	1	O
+6	onbeleefd	onbeleefd	G	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
 
-1	NOOIT	nooit	A	1	
-2	BOEKEN	boek	N	1	
-3	ZOU	ZOU	O	1	
-4	IK	IK	O	1	
-5	ZEGGEN	zegge	N	1	
-6	!	!	O	1	
-7	!	!	O	1	
+1	NOOIT	nooit	A	1	O
+2	BOEKEN	boek	N	1	O
+3	ZOU	ZOU	O	1	O
+4	IK	IK	O	1	O
+5	ZEGGEN	zegge	N	1	O
+6	!	!	O	1	O
+7	!	!	O	1	O
 
-1	Vrienden	vriend	N	1	
-2	van	van	P	1	
-3	mij	mij	Q	1	
-4	hebben	hebben	V	1	
-5	hetzelfde	hetzelfde	D	1	
-6	in	in	P	1	
-7	dit	dit	D	1	
-8	hotel	hotel	N	1	
-9	meegemaakt	meemaken	V	1	
-10	!	!	O	1	
-11	!	!	O	1	
-12	!	!	O	1	
+1	Vrienden	vriend	N	1	O
+2	van	van	P	1	O
+3	mij	mij	Q	1	O
+4	hebben	hebben	V	1	O
+5	hetzelfde	hetzelfde	D	1	O
+6	in	in	P	1	O
+7	dit	dit	D	1	O
+8	hotel	hotel	N	1	O
+9	meegemaakt	meemaken	V	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	is	zijn	V	1	
-4	zeer	zeer	G	1	
-5	mooi	mooi	G	1	
-6	en	en	C	1	
-7	wordt	worden	V	1	
-8	gebruikt	gebruiken	V	1	
-9	als	als	C	1	
-10	lokvogel	lokvogel	N	1	
-11	,	,	O	1	
-12	want	want	C	1	
-13	je	je	Q	1	
-14	komt	komen	V	1	
-15	in	in	A	1	
-16	andere	ander	G	1	
-17	,	,	O	1	
-18	minder	min	G	1	
-19	mooie	mooi	G	1	
-20	hotels	hotel	N	1	
-21	van	van	P	1	
-22	dezelfde_eigenaar	dezelfde_eigenaar	R	1	ne=Person
-23	terecht	terecht	G	1	
-24	!	!	O	1	
-25	!	!	O	1	
-26	!	!	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	is	zijn	V	1	O
+4	zeer	zeer	G	1	O
+5	mooi	mooi	G	1	O
+6	en	en	C	1	O
+7	wordt	worden	V	1	O
+8	gebruikt	gebruiken	V	1	O
+9	als	als	C	1	O
+10	lokvogel	lokvogel	N	1	O
+11	,	,	O	1	O
+12	want	want	C	1	O
+13	je	je	Q	1	O
+14	komt	komen	V	1	O
+15	in	in	A	1	O
+16	andere	ander	G	1	O
+17	,	,	O	1	O
+18	minder	min	G	1	O
+19	mooie	mooi	G	1	O
+20	hotels	hotel	N	1	O
+21	van	van	P	1	O
+22	dezelfde	dezelfde	D	1	I-Person
+23	eigenaar	eigenaar	N	1	I-Person
+24	terecht	terecht	G	1	O
+25	!	!	O	1	O
+26	!	!	O	1	O
+27	!	!	O	1	O
 

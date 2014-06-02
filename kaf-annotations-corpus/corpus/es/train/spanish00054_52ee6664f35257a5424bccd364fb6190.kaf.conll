@@ -1,49 +1,49 @@
-1	Descanso	Descanso	R	1	
-2	,	,	O	1	
-3	mb	mb	G	1	
-4	comida	comida	N	1	
-5	y	y	G	1	
-6	servicio	servicio	N	1	
-7	.	.	O	1	
+1	Descanso	Descanso	R	1	O
+2	,	,	O	1	O
+3	mb	mb	G	1	O
+4	comida	comida	N	1	O
+5	y	y	G	1	O
+6	servicio	servicio	N	1	O
+7	.	.	O	1	O
 
-1	excelentes	excelentes	N	1	
-2	instalaciones	instalaciones	N	1	
-3	,	,	O	1	
-4	servicio	servicio	N	1	
-5	,	,	O	1	
-6	entretenimiento	entretenimiento	N	1	
-7	,	,	O	1	
-8	comida	comida	N	1	
-9	,	,	O	1	
-10	atencion	atencion	N	1	
-11	en	en	P	1	
-12	general	general	G	1	
-13	.	.	O	1	
+1	excelentes	excelentes	N	1	O
+2	instalaciones	instalaciones	N	1	O
+3	,	,	O	1	O
+4	servicio	servicio	N	1	O
+5	,	,	O	1	O
+6	entretenimiento	entretenimiento	N	1	O
+7	,	,	O	1	O
+8	comida	comida	N	1	O
+9	,	,	O	1	O
+10	atencion	atencion	N	1	O
+11	en	en	P	1	O
+12	general	general	G	1	O
+13	.	.	O	1	O
 
-1	Llegando	Llegando	R	1	
-2	a	a	D	1	
-3	la	la	D	1	
-4	madrugada	madrugada	N	1	
-5	no	no	D	1	
-6	hubo	hubo	N	1	
-7	indicacion	indicacion	A	1	
-8	concreta	concreta	G	1	
-9	ni	ni	N	1	
-10	acompanamiento	acompanamiento	P	1	
-11	de	de	P	1	
-12	personal	personal	G	1	
-13	para	para	N	1	
-14	poder	poder	N	1	
-15	encontrar	encontrar	G	1	
-16	rapidamente	rapidamente	G	1	
-17	las	las	N	1	
-18	habitaciones	habitaciones	N	1	
-19	en	en	P	1	
-20	semejante	semejante	G	1	
-21	complejo	complejo	N	1	
-22	desconocido	desconocido	N	1	
-23	para	para	N	1	
-24	los	los	N	1	
-25	huespedes	huespedes	N	1	
-26	.	.	O	1	
+1	Llegando	Llegando	R	1	O
+2	a	a	D	1	O
+3	la	la	D	1	O
+4	madrugada	madrugada	N	1	O
+5	no	no	D	1	O
+6	hubo	hubo	N	1	O
+7	indicacion	indicacion	A	1	O
+8	concreta	concreta	G	1	O
+9	ni	ni	N	1	O
+10	acompanamiento	acompanamiento	P	1	O
+11	de	de	P	1	O
+12	personal	personal	G	1	O
+13	para	para	N	1	O
+14	poder	poder	N	1	O
+15	encontrar	encontrar	G	1	O
+16	rapidamente	rapidamente	G	1	O
+17	las	las	N	1	O
+18	habitaciones	habitaciones	N	1	O
+19	en	en	P	1	O
+20	semejante	semejante	G	1	O
+21	complejo	complejo	N	1	O
+22	desconocido	desconocido	N	1	O
+23	para	para	N	1	O
+24	los	los	N	1	O
+25	huespedes	huespedes	N	1	O
+26	.	.	O	1	O
 

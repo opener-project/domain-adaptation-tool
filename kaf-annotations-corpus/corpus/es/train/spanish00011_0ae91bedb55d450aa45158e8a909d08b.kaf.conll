@@ -1,111 +1,113 @@
-1	Cómodo	Cómodo	R	1	
+1	Cómodo	Cómodo	R	1	O
 
-1	Aunque	Aunque	R	1	
-2	desde	desde	N	1	
-3	fuera	fuera	N	1	
-4	y	y	A	1	
-5	a	a	D	1	
-6	primera	primera	N	1	
-7	vista	vista	O	1	
-8	parece	parece	O	1	
-9	un	un	G	1	
-10	motel	motel	N	1	
-11	por	por	N	1	
-12	su	su	N	1	
-13	forma	forma	N	1	
-14	,	,	O	1	
-15	la	la	D	1	
-16	verdad	verdad	N	1	
-17	es	es	V	1	
-18	que	que	G	1	
-19	es	es	N	1	
-20	cómodo	cómodo	V	1	
-21	para	para	G	1	
-22	viajes	viajes	N	1	
-23	de	de	P	1	
-24	negocios	negocios	N	1	
-25	.	.	O	1	
+1	Aunque	Aunque	R	1	O
+2	desde	desde	N	1	O
+3	fuera	fuera	N	1	O
+4	y	y	A	1	O
+5	a	a	D	1	O
+6	primera	primera	N	1	O
+7	vista	vista	O	1	O
+8	parece	parece	O	1	O
+9	un	un	G	1	O
+10	motel	motel	N	1	O
+11	por	por	N	1	O
+12	su	su	N	1	O
+13	forma	forma	N	1	O
+14	,	,	O	1	O
+15	la	la	D	1	O
+16	verdad	verdad	N	1	O
+17	es	es	V	1	O
+18	que	que	G	1	O
+19	es	es	N	1	O
+20	cómodo	cómodo	V	1	O
+21	para	para	G	1	O
+22	viajes	viajes	N	1	O
+23	de	de	P	1	O
+24	negocios	negocios	N	1	O
+25	.	.	O	1	O
 
-1	Está	Está	R	1	
-2	a	a	D	1	
-3	40	40	O	1	
-4	minutos	minutos	N	1	
-5	en	en	P	1	
-6	taxi	taxi	N	1	
-7	del	del	O	1	
-8	aeropuerto_de_Dammam	aeropuerto_de_Dammam	R	1	ne=POI
-9	.	.	O	1	
+1	Está	Está	R	1	O
+2	a	a	D	1	O
+3	40	40	O	1	O
+4	minutos	minutos	N	1	O
+5	en	en	P	1	O
+6	taxi	taxi	N	1	O
+7	del	del	O	1	O
+8	aeropuerto	aeropuerto	O	1	I-POI
+9	de	de	O	1	I-POI
+10	Dammam	Dammam	R	1	I-POI
+11	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	N	1	
-3	son	son	N	1	
-4	grandes	grandes	V	1	
-5	con	con	A	1	
-6	cama	cama	G	1	
-7	buena	buena	N	1	
-8	y	y	G	1	
-9	baño	baño	N	1	
-10	grande	grande	N	1	
-11	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	N	1	O
+3	son	son	N	1	O
+4	grandes	grandes	V	1	O
+5	con	con	A	1	O
+6	cama	cama	G	1	O
+7	buena	buena	N	1	O
+8	y	y	G	1	O
+9	baño	baño	N	1	O
+10	grande	grande	N	1	O
+11	.	.	O	1	O
 
-1	El	El	R	1	
-2	internet	internet	N	1	
-3	es	es	V	1	
-4	gratuito	gratuito	G	1	
-5	y	y	G	1	
-6	va	va	N	1	
-7	bien	bien	N	1	
-8	,	,	O	1	
-9	aunque	aunque	V	1	
-10	a	a	D	1	
-11	veces	veces	N	1	
-12	baja	baja	O	1	
-13	la	la	O	1	
-14	velocidad	velocidad	O	1	
-15	.	.	O	1	
+1	El	El	R	1	O
+2	internet	internet	N	1	O
+3	es	es	V	1	O
+4	gratuito	gratuito	G	1	O
+5	y	y	G	1	O
+6	va	va	N	1	O
+7	bien	bien	N	1	O
+8	,	,	O	1	O
+9	aunque	aunque	V	1	O
+10	a	a	D	1	O
+11	veces	veces	N	1	O
+12	baja	baja	O	1	O
+13	la	la	O	1	O
+14	velocidad	velocidad	O	1	O
+15	.	.	O	1	O
 
-1	Una	Una	R	1	
-2	de	de	O	1	
-3	las	las	O	1	
-4	razones	razones	O	1	
-5	por	por	O	1	
-6	las	las	O	1	
-7	que	que	O	1	
-8	me	me	O	1	
-9	quedé	quedé	O	1	
-10	aquí	aquí	O	1	
-11	es	es	O	1	
-12	que	que	O	1	
-13	la	la	O	1	
-14	oficina	oficina	O	1	
-15	de	de	O	1	
-16	Europcar	europcar	R	1	ne=Attraction
-17	está	está	O	1	
-18	dentro	dentro	O	1	
-19	del	del	O	1	
-20	hotel	hotel	N	1	
-21	.	.	O	1	
+1	Una	Una	R	1	O
+2	de	de	O	1	O
+3	las	las	O	1	O
+4	razones	razones	O	1	O
+5	por	por	O	1	O
+6	las	las	O	1	O
+7	que	que	O	1	O
+8	me	me	O	1	O
+9	quedé	quedé	O	1	O
+10	aquí	aquí	O	1	O
+11	es	es	O	1	O
+12	que	que	O	1	O
+13	la	la	O	1	O
+14	oficina	oficina	O	1	O
+15	de	de	O	1	O
+16	Europcar	europcar	R	1	I-Attraction
+17	está	está	O	1	O
+18	dentro	dentro	O	1	O
+19	del	del	O	1	O
+20	hotel	hotel	N	1	O
+21	.	.	O	1	O
 
-1	Tiene	Tiene	R	1	
-2	también	también	N	1	
-3	taxis	taxi	V	1	
-4	en	en	P	1	
-5	la	la	N	1	
-6	puerta	puerta	N	1	
-7	.	.	O	1	
+1	Tiene	Tiene	R	1	O
+2	también	también	N	1	O
+3	taxis	taxi	V	1	O
+4	en	en	P	1	O
+5	la	la	N	1	O
+6	puerta	puerta	N	1	O
+7	.	.	O	1	O
 
-1	Se	se	V	1	
-2	me	me	Q	1	
-3	hizo	hizo	O	1	
-4	curioso	curioso	V	1	
-5	que	que	G	1	
-6	en	en	P	1	
-7	al	al	G	1	
-8	final	final	G	1	
-9	del	del	G	1	
-10	pasillo	pasillo	N	1	
-11	hubiera	hubiera	N	1	
-12	una	una	G	1	
-13	mezquita	mezquita	N	1	
-14	.	.	O	1	
+1	Se	se	V	1	O
+2	me	me	Q	1	O
+3	hizo	hizo	O	1	O
+4	curioso	curioso	V	1	O
+5	que	que	G	1	O
+6	en	en	P	1	O
+7	al	al	G	1	O
+8	final	final	G	1	O
+9	del	del	G	1	O
+10	pasillo	pasillo	N	1	O
+11	hubiera	hubiera	N	1	O
+12	una	una	G	1	O
+13	mezquita	mezquita	N	1	O
+14	.	.	O	1	O
 

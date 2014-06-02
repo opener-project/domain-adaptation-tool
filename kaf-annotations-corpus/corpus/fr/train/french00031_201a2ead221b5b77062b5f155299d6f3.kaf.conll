@@ -1,91 +1,91 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	accueil	accueil	N	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	accueil	accueil	N	1	O
 
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	hôtel	hôtel	N	1	
-4	,	,	O	1	
-5	très	très	G	1	
-6	bon	bon	G	1	
-7	accueil	accueil	N	1	
-8	,	,	O	1	
-9	idéal	idéal	G	1	
-10	pour	pour	P	1	
-11	un	un	D	1	
-12	séjour	séjour	N	1	
-13	en	en	P	1	
-14	famille	famille	N	1	
-15	au	au	P	1	
-16	calme	calme	N	1	
-17	.	.	O	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	hôtel	hôtel	N	1	O
+4	,	,	O	1	O
+5	très	très	G	1	O
+6	bon	bon	G	1	O
+7	accueil	accueil	N	1	O
+8	,	,	O	1	O
+9	idéal	idéal	G	1	O
+10	pour	pour	P	1	O
+11	un	un	D	1	O
+12	séjour	séjour	N	1	O
+13	en	en	P	1	O
+14	famille	famille	N	1	O
+15	au	au	P	1	O
+16	calme	calme	N	1	O
+17	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	sympa	sympa	G	1	
-6	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	sympa	sympa	G	1	O
+6	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	étions	être	V	1	
-3	logés	loger	V	1	
-4	dans	dans	P	1	
-5	une	un	D	1	
-6	chambre	chambre	N	1	
-7	indienne	indien	G	1	
-8	très	très	G	1	
-9	confortable	confortable	G	1	
-10	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	étions	être	V	1	O
+3	logés	loger	V	1	O
+4	dans	dans	P	1	O
+5	une	un	D	1	O
+6	chambre	chambre	N	1	O
+7	indienne	indien	G	1	O
+8	très	très	G	1	O
+9	confortable	confortable	G	1	O
+10	.	.	O	1	O
 
-1	Le	le	D	1	
-2	niveau	niveau	N	1	
-3	de	de	P	1	
-4	la	le	D	1	
-5	(	(	O	1	
-6	cuisine	cuisine	N	1	
-7	/	/	P	1	
-8	restauration	restauration	N	1	
-9	)	)	O	1	
-10	pourrait	pouvoir	V	1	
-11	être	être	V	1	
-12	amélioré	améliorer	V	1	
-13	.	.	O	1	
+1	Le	le	D	1	O
+2	niveau	niveau	N	1	O
+3	de	de	P	1	O
+4	la	le	D	1	O
+5	(	(	O	1	O
+6	cuisine	cuisine	N	1	O
+7	/	/	P	1	O
+8	restauration	restauration	N	1	O
+9	)	)	O	1	O
+10	pourrait	pouvoir	V	1	O
+11	être	être	V	1	O
+12	amélioré	améliorer	V	1	O
+13	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	faudrait	falloir	V	1	
-3	par	par	P	1	
-4	exemple	exemple	N	1	
-5	proposer	proposer	V	1	
-6	des	un	D	1	
-7	jus	jus	P	1	
-8	de	de	P	1	
-9	fruits	fruit	N	1	
-10	frais	frais	G	1	
-11	au	au	P	1	
-12	petit	petit	G	1	
-13	déjeuner	déjeuner	N	1	
-14	et	et	C	1	
-15	varier	varier	V	1	
-16	un	un	D	1	
-17	peu	peu	G	1	
-18	plus	plus	G	1	
-19	le	le	D	1	
-20	choix	choix	N	1	
-21	des	des	P	1	
-22	plats	plat	N	1	
-23	.	.	O	1	
+1	Il	Il	Q	1	O
+2	faudrait	falloir	V	1	O
+3	par	par	P	1	O
+4	exemple	exemple	N	1	O
+5	proposer	proposer	V	1	O
+6	des	un	D	1	O
+7	jus	jus	P	1	O
+8	de	de	P	1	O
+9	fruits	fruit	N	1	O
+10	frais	frais	G	1	O
+11	au	au	P	1	O
+12	petit	petit	G	1	O
+13	déjeuner	déjeuner	N	1	O
+14	et	et	C	1	O
+15	varier	varier	V	1	O
+16	un	un	D	1	O
+17	peu	peu	G	1	O
+18	plus	plus	G	1	O
+19	le	le	D	1	O
+20	choix	choix	N	1	O
+21	des	des	P	1	O
+22	plats	plat	N	1	O
+23	.	.	O	1	O
 
-1	Conclusion	conclusion	N	1	
-2	:	:	O	1	
-3	Séjour	séjour	N	1	
-4	très	très	G	1	
-5	positif	positif	G	1	
-6	(	(	O	1	
-7	à	à	P	1	
-8	recommander	recommander	V	1	
-9	sans	sans]	P	1	
-10	hésitation	hésitation	N	1	
-11	)	)	O	1	
-12	.	.	O	1	
+1	Conclusion	conclusion	N	1	O
+2	:	:	O	1	O
+3	Séjour	séjour	N	1	O
+4	très	très	G	1	O
+5	positif	positif	G	1	O
+6	(	(	O	1	O
+7	à	à	P	1	O
+8	recommander	recommander	V	1	O
+9	sans	sans]	P	1	O
+10	hésitation	hésitation	N	1	O
+11	)	)	O	1	O
+12	.	.	O	1	O
 

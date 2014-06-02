@@ -1,143 +1,145 @@
-1	Bon	bon	G	1	
-2	hôtel	hôtel	N	1	
-3	,	,	O	1	
-4	mais	mais	C	1	
-5	petite	petit	G	1	
-6	chambre	chambre	N	1	
+1	Bon	bon	G	1	O
+2	hôtel	hôtel	N	1	O
+3	,	,	O	1	O
+4	mais	mais	C	1	O
+5	petite	petit	G	1	O
+6	chambre	chambre	N	1	O
 
-1	l'	le	D	1	
-2	hotel	hotel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	agréable	agréable	G	1	
-6	mais	mais	C	1	
-7	la	le	D	1	
-8	chambre	chambre	N	1	
-9	qui	qui	P	1	
-10	nous	lui	Q	1	
-11	a	avoir	V	1	
-12	été	être	V	1	
-13	attribuée	attribuer	V	1	
-14	était	être	V	1	
-15	vraiment	vraiment	G	1	
-16	très	très	G	1	
-17	petite	petit	G	1	
-18	,	,	O	1	
-19	la	le	D	1	
-20	plus	plus	G	1	
-21	petite	petit	G	1	
-22	d'	d'	P	1	
-23	après	après	P	1	
-24	le	le	D	1	
-25	plan	plan	N	1	
-26	d'	d'	P	1	
-27	évacuation	évacuation	N	1	
-28	:	:	O	1	
-29	·	·	N	1	
-30	)	)	O	1	
-31	!	!	O	1	
+1	l'	le	D	1	O
+2	hotel	hotel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	agréable	agréable	G	1	O
+6	mais	mais	C	1	O
+7	la	le	D	1	O
+8	chambre	chambre	N	1	O
+9	qui	qui	P	1	O
+10	nous	lui	Q	1	O
+11	a	avoir	V	1	O
+12	été	être	V	1	O
+13	attribuée	attribuer	V	1	O
+14	était	être	V	1	O
+15	vraiment	vraiment	G	1	O
+16	très	très	G	1	O
+17	petite	petit	G	1	O
+18	,	,	O	1	O
+19	la	le	D	1	O
+20	plus	plus	G	1	O
+21	petite	petit	G	1	O
+22	d'	d'	P	1	O
+23	après	après	P	1	O
+24	le	le	D	1	O
+25	plan	plan	N	1	O
+26	d'	d'	P	1	O
+27	évacuation	évacuation	N	1	O
+28	:	:	O	1	O
+29	·	·	N	1	O
+30	)	)	O	1	O
+31	!	!	O	1	O
 
-1	la	le	D	1	
-2	salle	salle	N	1	
-3	de	de	P	1	
-4	bain	bain	N	1	
-5	était	être	V	1	
-6	plutot	plutot	G	1	
-7	grande	grand	G	1	
-8	,	,	O	1	
-9	par	par	P	1	
-10	rapport	rapport	N	1	
-11	à	à	P	1	
-12	la	le	D	1	
-13	chambre	chambre	N	1	
-14	et	et	C	1	
-15	bien	bien	G	1	
-16	équipée	équiper	G	1	
-17	(	(	O	1	
-18	douche	douche	N	1	
-19	multi	multi	G	1	
-20	jets	jet	N	1	
-21	et	et	C	1	
-22	beau	beau	G	1	
-23	panier	panier	N	1	
-24	de	de	P	1	
-25	produits	produit	N	1	
-26	d'	d'	P	1	
-27	accueil	accueil	N	1	
-28	)	)	O	1	
+1	la	le	D	1	O
+2	salle	salle	N	1	O
+3	de	de	P	1	O
+4	bain	bain	N	1	O
+5	était	être	V	1	O
+6	plutot	plutot	G	1	O
+7	grande	grand	G	1	O
+8	,	,	O	1	O
+9	par	par	P	1	O
+10	rapport	rapport	N	1	O
+11	à	à	P	1	O
+12	la	le	D	1	O
+13	chambre	chambre	N	1	O
+14	et	et	C	1	O
+15	bien	bien	G	1	O
+16	équipée	équiper	G	1	O
+17	(	(	O	1	O
+18	douche	douche	N	1	O
+19	multi	multi	G	1	O
+20	jets	jet	N	1	O
+21	et	et	C	1	O
+22	beau	beau	G	1	O
+23	panier	panier	N	1	O
+24	de	de	P	1	O
+25	produits	produit	N	1	O
+26	d'	d'	P	1	O
+27	accueil	accueil	N	1	O
+28	)	)	O	1	O
 
-1	mais	mais	C	1	
-2	bon	bon	G	1	
-3	le	le	D	1	
-4	plus	plus	G	1	
-5	important	important	G	1	
-6	était	être	V	1	
-7	le	le	D	1	
-8	fait	fait	N	1	
-9	que	que	C	1	
-10	l'	le	D	1	
-11	hotel	hotel	N	1	
-12	soit	soit	C	1	
-13	en	en	P	1	
-14	plein	plein	G	1	
-15	centre	centre	N	1	
-16	,	,	O	1	
-17	à	à	P	1	
-18	5	5	D	1	
-19	min	min	N	1	
-20	du	du	D	1	
-21	colisée	colisée	R	1	ne=POI
-22	et	et	C	1	
-23	de	de	P	1	
-24	sainte_marie_majeure	saint_marie_majeur	R	1	ne=POI
-25	,	,	O	1	
-26	la	le	D	1	
-27	pluspart	pluspart	N	1	
-28	des	des	P	1	
-29	exursions	exursions	N	1	
-30	peuvent	pouvoir	V	1	
-31	se	se	Q	1	
-32	faire	faire	V	1	
-33	à	à	P	1	
-34	pied	pied	N	1	
-35	et	et	C	1	
-36	le	le	D	1	
-37	matin	matin	N	1	
-38	une	un	D	1	
-39	personne	personne	N	1	
-40	de	de	P	1	
-41	l'	le	D	1	
-42	hotel	hotel	N	1	
-43	peut	pouvoir	V	1	
-44	vous	lui	Q	1	
-45	renseigner	renseigner	V	1	
-46	et	et	C	1	
-47	vous	lui	Q	1	
-48	guider	guider	V	1	
-49	sur	sur	P	1	
-50	les	le	D	1	
-51	possibilités	possibilité	N	1	
-52	de	de	P	1	
-53	sorties	sortie	N	1	
-54	.	.	O	1	
+1	mais	mais	C	1	O
+2	bon	bon	G	1	O
+3	le	le	D	1	O
+4	plus	plus	G	1	O
+5	important	important	G	1	O
+6	était	être	V	1	O
+7	le	le	D	1	O
+8	fait	fait	N	1	O
+9	que	que	C	1	O
+10	l'	le	D	1	O
+11	hotel	hotel	N	1	O
+12	soit	soit	C	1	O
+13	en	en	P	1	O
+14	plein	plein	G	1	O
+15	centre	centre	N	1	O
+16	,	,	O	1	O
+17	à	à	P	1	O
+18	5	5	D	1	O
+19	min	min	N	1	O
+20	du	du	D	1	O
+21	colisée	colisée	R	1	I-POI
+22	et	et	C	1	O
+23	de	de	P	1	O
+24	sainte	saint	N	1	I-POI
+25	marie	marie	G	1	I-POI
+26	majeure	majeur	G	1	I-POI
+27	,	,	O	1	O
+28	la	le	D	1	O
+29	pluspart	pluspart	N	1	O
+30	des	des	P	1	O
+31	exursions	exursions	N	1	O
+32	peuvent	pouvoir	V	1	O
+33	se	se	Q	1	O
+34	faire	faire	V	1	O
+35	à	à	P	1	O
+36	pied	pied	N	1	O
+37	et	et	C	1	O
+38	le	le	D	1	O
+39	matin	matin	N	1	O
+40	une	un	D	1	O
+41	personne	personne	N	1	O
+42	de	de	P	1	O
+43	l'	le	D	1	O
+44	hotel	hotel	N	1	O
+45	peut	pouvoir	V	1	O
+46	vous	lui	Q	1	O
+47	renseigner	renseigner	V	1	O
+48	et	et	C	1	O
+49	vous	lui	Q	1	O
+50	guider	guider	V	1	O
+51	sur	sur	P	1	O
+52	les	le	D	1	O
+53	possibilités	possibilité	N	1	O
+54	de	de	P	1	O
+55	sorties	sortie	N	1	O
+56	.	.	O	1	O
 
-1	donc	donc	G	1	
-2	en	en	P	1	
-3	résumé	résumé	N	1	
-4	nous	lui	Q	1	
-5	avons	avoir	V	1	
-6	passé	passer	V	1	
-7	un	un	D	1	
-8	très	très	G	1	
-9	bon	bon	G	1	
-10	week	week	N	1	
-11	end	end	G	1	
-12	à	à	P	1	
-13	rome	rome	R	1	ne=Location
-14	,	,	O	1	
-15	dans	dans	P	1	
-16	une	un	D	1	
-17	petite	petit	G	1	
-18	chambre	chambre	N	1	
-19	!	!	O	1	
+1	donc	donc	G	1	O
+2	en	en	P	1	O
+3	résumé	résumé	N	1	O
+4	nous	lui	Q	1	O
+5	avons	avoir	V	1	O
+6	passé	passer	V	1	O
+7	un	un	D	1	O
+8	très	très	G	1	O
+9	bon	bon	G	1	O
+10	week	week	N	1	O
+11	end	end	G	1	O
+12	à	à	P	1	O
+13	rome	rome	R	1	I-Location
+14	,	,	O	1	O
+15	dans	dans	P	1	O
+16	une	un	D	1	O
+17	petite	petit	G	1	O
+18	chambre	chambre	N	1	O
+19	!	!	O	1	O
 

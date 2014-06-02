@@ -1,40 +1,40 @@
-1	Au	Au	P	1	
-2	bon	bon	G	1	
-3	accueil	accueil	N	1	
+1	Au	Au	P	1	O
+2	bon	bon	G	1	O
+3	accueil	accueil	N	1	O
 
-1	Dommage	dommage	G	1	
-2	que	que	C	1	
-3	le	le	D	1	
-4	restaurant	restaurant	N	1	
-5	ne	ne	G	1	
-6	fonctionne	fonctionner	V	1	
-7	que	que	G	1	
-8	pour	pour	P	1	
-9	les	le	D	1	
-10	séminaires	séminaire	N	1	
-11	ou	ou	C	1	
-12	les	le	D	1	
-13	groupes.Sinon	groupes.Sinon	N	1	
-14	l'	le	D	1	
-15	endroit	endroit	N	1	
-16	est	être	V	1	
-17	très	très	G	1	
-18	acceuillant	acceuillant	G	1	
-19	mais	mais	C	1	
-20	je	je	Q	1	
-21	regrette	regretter	V	1	
-22	que	que	C	1	
-23	le	le	D	1	
-24	parking	parking	N	1	
-25	ne	ne	G	1	
-26	soit	être	V	1	
-27	pas	pas	G	1	
-28	accessible	accessible	G	1	
-29	à	à	P	1	
-30	tous	tout	G	1	
-31	les	le	D	1	
-32	types	type	N	1	
-33	de	de	P	1	
-34	voitures	voiture	N	1	
-35	.	.	O	1	
+1	Dommage	dommage	G	1	O
+2	que	que	C	1	O
+3	le	le	D	1	O
+4	restaurant	restaurant	N	1	O
+5	ne	ne	G	1	O
+6	fonctionne	fonctionner	V	1	O
+7	que	que	G	1	O
+8	pour	pour	P	1	O
+9	les	le	D	1	O
+10	séminaires	séminaire	N	1	O
+11	ou	ou	C	1	O
+12	les	le	D	1	O
+13	groupes.Sinon	groupes.Sinon	N	1	O
+14	l'	le	D	1	O
+15	endroit	endroit	N	1	O
+16	est	être	V	1	O
+17	très	très	G	1	O
+18	acceuillant	acceuillant	G	1	O
+19	mais	mais	C	1	O
+20	je	je	Q	1	O
+21	regrette	regretter	V	1	O
+22	que	que	C	1	O
+23	le	le	D	1	O
+24	parking	parking	N	1	O
+25	ne	ne	G	1	O
+26	soit	être	V	1	O
+27	pas	pas	G	1	O
+28	accessible	accessible	G	1	O
+29	à	à	P	1	O
+30	tous	tout	G	1	O
+31	les	le	D	1	O
+32	types	type	N	1	O
+33	de	de	P	1	O
+34	voitures	voiture	N	1	O
+35	.	.	O	1	O
 

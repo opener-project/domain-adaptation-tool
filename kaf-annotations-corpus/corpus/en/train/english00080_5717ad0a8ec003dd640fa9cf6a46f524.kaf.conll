@@ -1,118 +1,125 @@
-1	City	City	R	1	
-2	of	of	P	1	
-3	good	good	G	1	
-4	food	food	N	1	
+1	City	City	R	1	O
+2	of	of	P	1	O
+3	good	good	G	1	O
+4	food	food	N	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	is	be	V	1	
-4	laying	lay	V	1	
-5	in	in	P	1	
-6	the_real_center_of_Lyon	the_real_center_of_Lyon	R	1	ne=Location
-7	and	and	C	1	
-8	the	the	D	1	
-9	old	old	G	1	
-10	parts	part	N	1	
-11	of	of	P	1	
-12	town	town	N	1	
-13	is	be	V	1	
-14	all	all	A	1	
-15	around	around	A	1	
-16	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	is	be	V	1	O
+4	laying	lay	V	1	O
+5	in	in	P	1	O
+6	the	the	D	1	I-Location
+7	real	real	G	1	I-Location
+8	center	center	N	1	I-Location
+9	of	of	P	1	I-Location
+10	Lyon	Lyon	R	1	I-Location
+11	and	and	C	1	O
+12	the	the	D	1	O
+13	old	old	G	1	O
+14	parts	part	N	1	O
+15	of	of	P	1	O
+16	town	town	N	1	O
+17	is	be	V	1	O
+18	all	all	A	1	O
+19	around	around	A	1	O
+20	.	.	O	1	O
 
-1	Very	Very	R	1	
-2	close	close	N	1	
-3	there	there	O	1	
-4	are	be	V	1	
-5	lots	lot	N	1	
-6	of	of	P	1	
-7	narrow	narrow	G	1	
-8	old	old	G	1	
-9	streets	street	N	1	
-10	with	with	P	1	
-11	shopping	shopping	N	1	
-12	of	of	P	1	
-13	all	all	D	1	
-14	kind	kind	N	1	
-15	and	and	C	1	
-16	you	you	Q	1	
-17	can	can	O	1	
-18	also	also	A	1	
-19	find	find	V	1	
-20	excusive	excusive	G	1	
-21	cloth	cloth	N	1	
-22	boutiques	boutique	N	1	
-23	,	,	O	1	
-24	antic	antic	G	1	
-25	shops	shop	N	1	
-26	for	for	P	1	
-27	books	book	N	1	
-28	and	and	C	1	
-29	funiture	funiture	N	1	
-30	,	,	O	1	
-31	etc.	etc.	O	1	
-32	Afew	Afew	R	1	
-33	blocks	block	N	1	
-34	away	away	A	1	
-35	there	there	A	1	
-36	ia	ia	N	1	
-37	also	also	A	1	
-38	a	a	D	1	
-39	large	large	G	1	
-40	walking	walking	N	1	
-41	street	street	N	1	
-42	with	with	P	1	
-43	shopping	shopping	N	1	
-44	and	and	C	1	
-45	restaurants	restaurant	N	1	
-46	and	and	C	1	
-47	in	in	P	1	
-48	every	every	D	1	
-49	corner	corner	N	1	
-50	you	you	Q	1	
-51	will	will	O	1	
-52	find	find	V	1	
-53	bars	bar	N	1	
-54	where	where	O	1	
-55	you	you	Q	1	
-56	can	can	O	1	
-57	sit	sit	V	1	
-58	down	down	A	1	
-59	and	and	C	1	
-60	rest	rest	V	1	
-61	your	your	Q	1	
-62	legs	leg	N	1	
-63	and	and	C	1	
-64	cool	cool	V	1	
-65	down	down	A	1	
-66	with	with	P	1	
-67	a	a	D	1	
-68	drink	drink	N	1	
-69	!	!	O	1	
+1	Very	Very	R	1	O
+2	close	close	N	1	O
+3	there	there	O	1	O
+4	are	be	V	1	O
+5	lots	lot	N	1	O
+6	of	of	P	1	O
+7	narrow	narrow	G	1	O
+8	old	old	G	1	O
+9	streets	street	N	1	O
+10	with	with	P	1	O
+11	shopping	shopping	N	1	O
+12	of	of	P	1	O
+13	all	all	D	1	O
+14	kind	kind	N	1	O
+15	and	and	C	1	O
+16	you	you	Q	1	O
+17	can	can	O	1	O
+18	also	also	A	1	O
+19	find	find	V	1	O
+20	excusive	excusive	G	1	O
+21	cloth	cloth	N	1	O
+22	boutiques	boutique	N	1	O
+23	,	,	O	1	O
+24	antic	antic	G	1	O
+25	shops	shop	N	1	O
+26	for	for	P	1	O
+27	books	book	N	1	O
+28	and	and	C	1	O
+29	funiture	funiture	N	1	O
+30	,	,	O	1	O
+31	etc.	etc.	O	1	O
+32	Afew	Afew	R	1	O
+33	blocks	block	N	1	O
+34	away	away	A	1	O
+35	there	there	A	1	O
+36	ia	ia	N	1	O
+37	also	also	A	1	O
+38	a	a	D	1	O
+39	large	large	G	1	O
+40	walking	walking	N	1	O
+41	street	street	N	1	O
+42	with	with	P	1	O
+43	shopping	shopping	N	1	O
+44	and	and	C	1	O
+45	restaurants	restaurant	N	1	O
+46	and	and	C	1	O
+47	in	in	P	1	O
+48	every	every	D	1	O
+49	corner	corner	N	1	O
+50	you	you	Q	1	O
+51	will	will	O	1	O
+52	find	find	V	1	O
+53	bars	bar	N	1	O
+54	where	where	O	1	O
+55	you	you	Q	1	O
+56	can	can	O	1	O
+57	sit	sit	V	1	O
+58	down	down	A	1	O
+59	and	and	C	1	O
+60	rest	rest	V	1	O
+61	your	your	Q	1	O
+62	legs	leg	N	1	O
+63	and	and	C	1	O
+64	cool	cool	V	1	O
+65	down	down	A	1	O
+66	with	with	P	1	O
+67	a	a	D	1	O
+68	drink	drink	N	1	O
+69	!	!	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	a	a	D	1	
-4	lot	lot	N	1	
-5	of	of	P	1	
-6	historical	historical	G	1	
-7	place	place	N	1	
-8	to	to	P	1	
-9	visit	visit	V	1	
-10	and	and	C	1	
-11	if	if	P	1	
-12	interested	interested	G	1	
-13	in	in	P	1	
-14	real	real	G	1	
-15	good	good	G	1	
-16	gastronomic	gastronomic	G	1	
-17	eating	eating	N	1	
-18	then	then	A	1	
-19	you	you	Q	1	
-20	make	make	V	1	
-21	a	a	D	1	
-22	visit	visit	N	1	
-23	to	to	P	1	
-24	famous_Paul_Bocuse_restaurant	famous_Paul_Bocuse_restaurant	R	1	ne=Attraction
-25	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	a	a	D	1	O
+4	lot	lot	N	1	O
+5	of	of	P	1	O
+6	historical	historical	G	1	O
+7	place	place	N	1	O
+8	to	to	P	1	O
+9	visit	visit	V	1	O
+10	and	and	C	1	O
+11	if	if	P	1	O
+12	interested	interested	G	1	O
+13	in	in	P	1	O
+14	real	real	G	1	O
+15	good	good	G	1	O
+16	gastronomic	gastronomic	G	1	O
+17	eating	eating	N	1	O
+18	then	then	A	1	O
+19	you	you	Q	1	O
+20	make	make	V	1	O
+21	a	a	D	1	O
+22	visit	visit	N	1	O
+23	to	to	P	1	O
+24	famous	famous	G	1	I-Attraction
+25	Paul	Paul	R	1	I-Attraction
+26	Bocuse	Bocuse	R	1	I-Attraction
+27	restaurant	restaurant	N	1	I-Attraction
+28	.	.	O	1	O
 

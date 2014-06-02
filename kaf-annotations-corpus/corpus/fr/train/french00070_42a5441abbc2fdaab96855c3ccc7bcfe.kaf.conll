@@ -1,97 +1,101 @@
-1	Hôtel	hôtel	N	1	
-2	confortable	confortable	G	1	
-3	,	,	O	1	
-4	bien	bien	G	1	
-5	placé	placer	V	1	
+1	Hôtel	hôtel	N	1	O
+2	confortable	confortable	G	1	O
+3	,	,	O	1	O
+4	bien	bien	G	1	O
+5	placé	placer	V	1	O
 
-1	Bel	bel	N	1	
-2	hôtel	hôtel	N	1	
-3	,	,	O	1	
-4	service	service	N	1	
-5	efficace	efficace	G	1	
-6	.	.	O	1	
+1	Bel	bel	N	1	O
+2	hôtel	hôtel	N	1	O
+3	,	,	O	1	O
+4	service	service	N	1	O
+5	efficace	efficace	G	1	O
+6	.	.	O	1	O
 
-1	Chambre	chambre	N	1	
-2	confortable	confortable	G	1	
-3	avec	avec	P	1	
-4	belle	beau	G	1	
-5	salle	salle	N	1	
-6	de	de	P	1	
-7	bains	bain	N	1	
-8	,	,	O	1	
-9	si	si	C	1	
-10	en	en	P	1	
-11	étage	étage	N	1	
-12	belle	beau	G	1	
-13	vue	vue	N	1	
-14	sur	sur	P	1	
-15	les	le	D	1	
-16	immeubles	immeuble	N	1	
-17	hauts	haut	G	1	
-18	de	de	P	1	
-19	Hong_·_Kong	Hong_·_Kong	R	1	ne=Location
-20	.	.	O	1	
+1	Chambre	chambre	N	1	O
+2	confortable	confortable	G	1	O
+3	avec	avec	P	1	O
+4	belle	beau	G	1	O
+5	salle	salle	N	1	O
+6	de	de	P	1	O
+7	bains	bain	N	1	O
+8	,	,	O	1	O
+9	si	si	C	1	O
+10	en	en	P	1	O
+11	étage	étage	N	1	O
+12	belle	beau	G	1	O
+13	vue	vue	N	1	O
+14	sur	sur	P	1	O
+15	les	le	D	1	O
+16	immeubles	immeuble	N	1	O
+17	hauts	haut	G	1	O
+18	de	de	P	1	O
+19	Hong	Hong	N	1	I-Location
+20	·	·	N	1	I-Location
+21	Kong	Kong	N	1	I-Location
+22	.	.	O	1	O
 
-1	Restaurant	restaurer	V	1	
-2	avec	avec	P	1	
-3	carte	carte	N	1	
-4	internationale	international	G	1	
-5	dont	dont	P	1	
-6	un	un	D	1	
-7	nasi	nasi	N	1	
-8	goreng	goreng	N	1	
-9	avec	avec	P	1	
-10	saté	saté	N	1	
-11	de	de	P	1	
-12	poulet	poulet	N	1	
-13	.	.	O	1	
+1	Restaurant	restaurer	V	1	O
+2	avec	avec	P	1	O
+3	carte	carte	N	1	O
+4	internationale	international	G	1	O
+5	dont	dont	P	1	O
+6	un	un	D	1	O
+7	nasi	nasi	N	1	O
+8	goreng	goreng	N	1	O
+9	avec	avec	P	1	O
+10	saté	saté	N	1	O
+11	de	de	P	1	O
+12	poulet	poulet	N	1	O
+13	.	.	O	1	O
 
-1	Petit	petit	G	1	
-2	·	·	V	1	
-3	déjeuner	déjeuner	V	1	
-4	très	très	G	1	
-5	varié	varier	V	1	
-6	allant	aller	V	1	
-7	du	du	D	1	
-8	dim	dim	N	1	
-9	sum	sum	G	1	
-10	aux	aux	P	1	
-11	viennoiseries	viennoiseries	N	1	
-12	.	.	O	1	
+1	Petit	petit	G	1	O
+2	·	·	V	1	O
+3	déjeuner	déjeuner	V	1	O
+4	très	très	G	1	O
+5	varié	varier	V	1	O
+6	allant	aller	V	1	O
+7	du	du	D	1	O
+8	dim	dim	N	1	O
+9	sum	sum	G	1	O
+10	aux	aux	P	1	O
+11	viennoiseries	viennoiseries	N	1	O
+12	.	.	O	1	O
 
-1	L’	L’	D	1	
-2	hôtel	hôtel	N	1	
-3	est	être	V	1	
-4	adjacent	adjacent	G	1	
-5	à	à	P	1	
-6	un	un	D	1	
-7	très	très	G	1	
-8	grand	grand	G	1	
-9	shopping	shopping	O	1	
-10	center	center	O	1	
-11	:	:	O	1	
-12	pratique	pratique	N	1	
-13	pour	pour	P	1	
-14	aller	aller	V	1	
-15	faire	faire	V	1	
-16	quelques	quelque	D	1	
-17	courses	course	N	1	
-18	.	.	O	1	
+1	L’	L’	D	1	O
+2	hôtel	hôtel	N	1	O
+3	est	être	V	1	O
+4	adjacent	adjacent	G	1	O
+5	à	à	P	1	O
+6	un	un	D	1	O
+7	très	très	G	1	O
+8	grand	grand	G	1	O
+9	shopping	shopping	O	1	O
+10	center	center	O	1	O
+11	:	:	O	1	O
+12	pratique	pratique	N	1	O
+13	pour	pour	P	1	O
+14	aller	aller	V	1	O
+15	faire	faire	V	1	O
+16	quelques	quelque	D	1	O
+17	courses	course	N	1	O
+18	.	.	O	1	O
 
-1	Accès	accès	N	1	
-2	au	au	P	1	
-3	métro	métro	N	1	
-4	à	à	P	1	
-5	deux	deux	D	1	
-6	minutes	minute	N	1	
-7	à	à	P	1	
-8	pied	pied	N	1	
-9	.	.	O	1	
+1	Accès	accès	N	1	O
+2	au	au	P	1	O
+3	métro	métro	N	1	O
+4	à	à	P	1	O
+5	deux	deux	D	1	O
+6	minutes	minute	N	1	O
+7	à	à	P	1	O
+8	pied	pied	N	1	O
+9	.	.	O	1	O
 
-1	Idéalement	Idéalement	G	1	
-2	situé	situer	V	1	
-3	pour	pour	P	1	
-4	rayonner	rayonner	V	1	
-5	dans	dans	P	1	
-6	Hong_·_Kong	Hong_·_Kong	R	1	ne=Location
+1	Idéalement	Idéalement	G	1	O
+2	situé	situer	V	1	O
+3	pour	pour	P	1	O
+4	rayonner	rayonner	V	1	O
+5	dans	dans	P	1	O
+6	Hong	Hong	N	1	I-Location
+7	·	·	N	1	I-Location
+8	Kong	Kong	N	1	I-Location
 

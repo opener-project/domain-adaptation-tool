@@ -1,129 +1,134 @@
-1	Mamlouk	Mamlouk	R	1	ne=Hotel
-2	was	be	V	1	
-3	great	great	G	1	
-4	!	!	O	1	
+1	Mamlouk	Mamlouk	R	1	I-Hotel
+2	was	be	V	1	O
+3	great	great	G	1	O
+4	!	!	O	1	O
 
-1	Mamlouk_resort	Mamlouk_resort	R	1	ne=Hotel
-2	was	be	V	1	
-3	great	great	G	1	
-4	.	.	O	1	
+1	Mamlouk	Mamlouk	R	1	I-Hotel
+2	resort	resort	N	1	I-Hotel
+3	was	be	V	1	O
+4	great	great	G	1	O
+5	.	.	O	1	O
 
-1	Especially	especially	A	1	
-2	Ahmed_F.	Ahmed_F.	R	1	ne=Person
-3	who	who	Q	1	
-4	worked	work	V	1	
-5	in	in	P	1	
-6	the_Sultana_Café	the_Sultana_Café	R	1	ne=Restaurant
-7	.	.	O	1	
+1	Especially	especially	A	1	O
+2	Ahmed	Ahmed	R	1	I-Person
+3	F.	F.	R	1	I-Person
+4	who	who	Q	1	O
+5	worked	work	V	1	O
+6	in	in	P	1	O
+7	the	the	D	1	I-Restaurant
+8	Sultana	Sultana	R	1	I-Restaurant
+9	Café	Café	R	1	I-Restaurant
+10	.	.	O	1	O
 
-1	He	he	Q	1	
-2	was	be	V	1	
-3	really	really	A	1	
-4	kind	kind	G	1	
-5	and	and	C	1	
-6	service	service	N	1	
-7	minded	mind	V	1	
-8	.	.	O	1	
+1	He	he	Q	1	O
+2	was	be	V	1	O
+3	really	really	A	1	O
+4	kind	kind	G	1	O
+5	and	and	C	1	O
+6	service	service	N	1	O
+7	minded	mind	V	1	O
+8	.	.	O	1	O
 
-1	Sultana_Café	Sultana_Café	R	1	ne=Restaurant
-2	is	be	V	1	
-3	really	really	A	1	
-4	worth	worth	G	1	
-5	a	a	D	1	
-6	visit	visit	N	1	
-7	.	.	O	1	
+1	Sultana	Sultana	R	1	I-Restaurant
+2	Café	Café	R	1	I-Restaurant
+3	is	be	V	1	O
+4	really	really	A	1	O
+5	worth	worth	G	1	O
+6	a	a	D	1	O
+7	visit	visit	N	1	O
+8	.	.	O	1	O
 
-1	Also	also	A	1	
-2	the	the	D	1	
-3	perfume	perfume	N	1	
-4	store	store	N	1	
-5	in	in	P	1	
-6	the	the	D	1	
-7	hotel	hotel	N	1	
-8	.	.	O	1	
+1	Also	also	A	1	O
+2	the	the	D	1	O
+3	perfume	perfume	N	1	O
+4	store	store	N	1	O
+5	in	in	P	1	O
+6	the	the	D	1	O
+7	hotel	hotel	N	1	O
+8	.	.	O	1	O
 
-1	Amir	Amir	R	1	
-2	there	there	O	1	
-3	is	be	V	1	
-4	cool	cool	G	1	
-5	and	and	C	1	
-6	nice	nice	G	1	
-7	and	and	C	1	
-8	the	the	D	1	
-9	perfumes	perfume	N	1	
-10	is	be	V	1	
-11	really	really	A	1	
-12	worth	worth	G	1	
-13	it	it	Q	1	
-14	.	.	O	1	
+1	Amir	Amir	R	1	O
+2	there	there	O	1	O
+3	is	be	V	1	O
+4	cool	cool	G	1	O
+5	and	and	C	1	O
+6	nice	nice	G	1	O
+7	and	and	C	1	O
+8	the	the	D	1	O
+9	perfumes	perfume	N	1	O
+10	is	be	V	1	O
+11	really	really	A	1	O
+12	worth	worth	G	1	O
+13	it	it	Q	1	O
+14	.	.	O	1	O
 
-1	The	the	D	1	
-2	bad	bad	G	1	
-3	things	thing	N	1	
-4	though	though	O	1	
-5	were	be	V	1	
-6	that	that	P	1	
-7	the	the	D	1	
-8	shopping	shopping	N	1	
-9	center	center	N	1	
-10	in	in	P	1	
-11	the	the	D	1	
-12	hotel	hotel	N	1	
-13	were	be	V	1	
-14	really	really	A	1	
-15	bad	bad	G	1	
-16	.	.	O	1	
+1	The	the	D	1	O
+2	bad	bad	G	1	O
+3	things	thing	N	1	O
+4	though	though	O	1	O
+5	were	be	V	1	O
+6	that	that	P	1	O
+7	the	the	D	1	O
+8	shopping	shopping	N	1	O
+9	center	center	N	1	O
+10	in	in	P	1	O
+11	the	the	D	1	O
+12	hotel	hotel	N	1	O
+13	were	be	V	1	O
+14	really	really	A	1	O
+15	bad	bad	G	1	O
+16	.	.	O	1	O
 
-1	The	the	D	1	
-2	salesmen	salesman	N	1	
-3	could	can	O	1	
-4	take	take	V	1	
-5	a	a	D	1	
-6	no	no	D	1	
-7	and	and	C	1	
-8	they	they	Q	1	
-9	were	be	V	1	
-10	kinda	kinda	N	1	
-11	rude	rude	N	1	
-12	.	.	O	1	
+1	The	the	D	1	O
+2	salesmen	salesman	N	1	O
+3	could	can	O	1	O
+4	take	take	V	1	O
+5	a	a	D	1	O
+6	no	no	D	1	O
+7	and	and	C	1	O
+8	they	they	Q	1	O
+9	were	be	V	1	O
+10	kinda	kinda	N	1	O
+11	rude	rude	N	1	O
+12	.	.	O	1	O
 
-1	And	and	C	1	
-2	then	then	A	1	
-3	there	there	O	1	
-4	were	be	V	1	
-5	the	the	D	1	
-6	salesmen	salesman	N	1	
-7	who	who	Q	1	
-8	walked	walk	V	1	
-9	the	the	D	1	
-10	poolarea	poolarea	N	1	
-11	.	.	O	1	
+1	And	and	C	1	O
+2	then	then	A	1	O
+3	there	there	O	1	O
+4	were	be	V	1	O
+5	the	the	D	1	O
+6	salesmen	salesman	N	1	O
+7	who	who	Q	1	O
+8	walked	walk	V	1	O
+9	the	the	D	1	O
+10	poolarea	poolarea	N	1	O
+11	.	.	O	1	O
 
-1	They	they	Q	1	
-2	ignored	ignore	V	1	
-3	the	the	D	1	
-4	red	red	G	1	
-5	flag	flag	N	1	
-6	that	that	O	1	
-7	means	mean	V	1	
-8	"	"	G	1	
-9	no	no	D	1	
-10	salestalk	salestalk	N	1	
-11	"	"	N	1	
-12	and	and	C	1	
-13	were	be	V	1	
-14	kinda	kinda	N	1	
-15	rude	rude	N	1	
-16	.	.	O	1	
+1	They	they	Q	1	O
+2	ignored	ignore	V	1	O
+3	the	the	D	1	O
+4	red	red	G	1	O
+5	flag	flag	N	1	O
+6	that	that	O	1	O
+7	means	mean	V	1	O
+8	"	"	G	1	O
+9	no	no	D	1	O
+10	salestalk	salestalk	N	1	O
+11	"	"	N	1	O
+12	and	and	C	1	O
+13	were	be	V	1	O
+14	kinda	kinda	N	1	O
+15	rude	rude	N	1	O
+16	.	.	O	1	O
 
-1	But	but	C	1	
-2	the	the	D	1	
-3	whole	whole	G	1	
-4	experience	experience	N	1	
-5	was	be	V	1	
-6	nice	nice	G	1	
-7	and	and	C	1	
-8	worth	worth	G	1	
-9	it	it	Q	1	
-10	.	.	O	1	
+1	But	but	C	1	O
+2	the	the	D	1	O
+3	whole	whole	G	1	O
+4	experience	experience	N	1	O
+5	was	be	V	1	O
+6	nice	nice	G	1	O
+7	and	and	C	1	O
+8	worth	worth	G	1	O
+9	it	it	Q	1	O
+10	.	.	O	1	O
 

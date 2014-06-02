@@ -1,103 +1,104 @@
-1	Discreto	discreto	G	1	
-2	buone	buono	G	1	
-3	tariffe	tariffa	N	1	
+1	Discreto	discreto	G	1	O
+2	buone	buono	G	1	O
+3	tariffe	tariffa	N	1	O
 
-1	Questo	questo	G	1	
-2	alloggio	alloggio	R	1	
-3	è	è	R	1	
-4	ricavato	ricavare	V	1	
-5	da	da	P	1	
-6	una	uno	D	1	
-7	casa	casa	N	1	
-8	in	in	P	1	
-9	cui	cui	Q	1	
-10	una	uno	D	1	
-11	famiglia	famiglia	N	1	
-12	gestisce	gestire	V	1	
-13	alcune	alcuno	G	1	
-14	stanze	stanza	N	1	
-15	comode	comodo	G	1	
-16	ma	ma	Q	1	
-17	un	uno	D	1	
-18	po'	po'	A	1	
-19	vecchie	vecchio	G	1	
-20	con	con	P	1	
-21	un	uno	D	1	
-22	servizio	servizio	N	1	
-23	di	di	P	1	
-24	colazione	colazione	N	1	
-25	non	non	A	1	
-26	esaltante	esaltare	V	1	
-27	ma	ma	Q	1	
-28	comunque	comunque	Q	1	
-29	all'	all'	P	1	
-30	altezza	altezza	N	1	
-31	.	.	O	1	
+1	Questo	questo	G	1	O
+2	alloggio	alloggio	R	1	O
+3	è	è	R	1	O
+4	ricavato	ricavare	V	1	O
+5	da	da	P	1	O
+6	una	uno	D	1	O
+7	casa	casa	N	1	O
+8	in	in	P	1	O
+9	cui	cui	Q	1	O
+10	una	uno	D	1	O
+11	famiglia	famiglia	N	1	O
+12	gestisce	gestire	V	1	O
+13	alcune	alcuno	G	1	O
+14	stanze	stanza	N	1	O
+15	comode	comodo	G	1	O
+16	ma	ma	Q	1	O
+17	un	uno	D	1	O
+18	po'	po'	A	1	O
+19	vecchie	vecchio	G	1	O
+20	con	con	P	1	O
+21	un	uno	D	1	O
+22	servizio	servizio	N	1	O
+23	di	di	P	1	O
+24	colazione	colazione	N	1	O
+25	non	non	A	1	O
+26	esaltante	esaltare	V	1	O
+27	ma	ma	Q	1	O
+28	comunque	comunque	Q	1	O
+29	all'	all'	P	1	O
+30	altezza	altezza	N	1	O
+31	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	preso	prendere	V	1	
-3	una	uno	D	1	
-4	stanza	stanza	N	1	
-5	doppia	doppio	G	1	
-6	con	con	P	1	
-7	il	lo	D	1	
-8	bagno	bagno	N	1	
-9	all'	all'	P	1	
-10	esterno	esterno	N	1	
-11	,	,	O	1	
-12	ottimo	ottimo	G	1	
-13	compromesso	compromesso	N	1	
-14	tra	tra	P	1	
-15	il	lo	D	1	
-16	nostro	nostro	G	1	
-17	budget	budget	N	1	
-18	e	e	Q	1	
-19	la	lo	D	1	
-20	necessità	necessità	V	1	
-21	di	di	P	1	
-22	dormire	dormire	V	1	
-23	a	a	P	1	
-24	cambridge	cambridge	R	1	ne=Location
-25	una	uno	D	1	
-26	notte	notte	N	1	
-27	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	preso	prendere	V	1	O
+3	una	uno	D	1	O
+4	stanza	stanza	N	1	O
+5	doppia	doppio	G	1	O
+6	con	con	P	1	O
+7	il	lo	D	1	O
+8	bagno	bagno	N	1	O
+9	all'	all'	P	1	O
+10	esterno	esterno	N	1	O
+11	,	,	O	1	O
+12	ottimo	ottimo	G	1	O
+13	compromesso	compromesso	N	1	O
+14	tra	tra	P	1	O
+15	il	lo	D	1	O
+16	nostro	nostro	G	1	O
+17	budget	budget	N	1	O
+18	e	e	Q	1	O
+19	la	lo	D	1	O
+20	necessità	necessità	V	1	O
+21	di	di	P	1	O
+22	dormire	dormire	V	1	O
+23	a	a	P	1	O
+24	cambridge	cambridge	R	1	I-Location
+25	una	uno	D	1	O
+26	notte	notte	N	1	O
+27	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	Arbury_Lodge	arbury_lodge	R	1	ne=Hotel
-3	è	è	R	1	
-4	un	uno	D	1	
-5	po'	po'	G	1	
-6	fuori	fuori	N	1	
-7	dal	dal	P	1	
-8	centro	centro	N	1	
-9	,	,	O	1	
-10	ma	ma	Q	1	
-11	comunque	comunque	Q	1	
-12	ha	avere	V	1	
-13	la	lo	D	1	
-14	fermata	fermata	N	1	
-15	dell'	dell'	P	1	
-16	autobus	autobus	N	1	
-17	vicino	vicino	G	1	
-18	.	.	O	1	
+1	L'	lo	D	1	O
+2	Arbury	arbury	R	1	I-Hotel
+3	Lodge	lodge	R	1	I-Hotel
+4	è	è	R	1	O
+5	un	uno	D	1	O
+6	po'	po'	G	1	O
+7	fuori	fuori	N	1	O
+8	dal	dal	P	1	O
+9	centro	centro	N	1	O
+10	,	,	O	1	O
+11	ma	ma	Q	1	O
+12	comunque	comunque	Q	1	O
+13	ha	avere	V	1	O
+14	la	lo	D	1	O
+15	fermata	fermata	N	1	O
+16	dell'	dell'	P	1	O
+17	autobus	autobus	N	1	O
+18	vicino	vicino	G	1	O
+19	.	.	O	1	O
 
-1	Se	se	Q	1	
-2	non	non	A	1	
-3	siete	essere	V	1	
-4	agili	agile	G	1	
-5	con	con	P	1	
-6	i	lo	D	1	
-7	mezzi	mezzo	G	1	
-8	pubblici	pubblico	G	1	
-9	,	,	O	1	
-10	meglio	meglio	A	1	
-11	spendere	spendere	V	1	
-12	qualche	qualche	G	1	
-13	sterlina	sterlina	G	1	
-14	in	in	P	1	
-15	più	piu'	R	1	
-16	e	e	Q	1	
-17	stare	stare	V	1	
-18	in	in	P	1	
-19	centro	centro	N	1	
+1	Se	se	Q	1	O
+2	non	non	A	1	O
+3	siete	essere	V	1	O
+4	agili	agile	G	1	O
+5	con	con	P	1	O
+6	i	lo	D	1	O
+7	mezzi	mezzo	G	1	O
+8	pubblici	pubblico	G	1	O
+9	,	,	O	1	O
+10	meglio	meglio	A	1	O
+11	spendere	spendere	V	1	O
+12	qualche	qualche	G	1	O
+13	sterlina	sterlina	G	1	O
+14	in	in	P	1	O
+15	più	piu'	R	1	O
+16	e	e	Q	1	O
+17	stare	stare	V	1	O
+18	in	in	P	1	O
+19	centro	centro	N	1	O
 

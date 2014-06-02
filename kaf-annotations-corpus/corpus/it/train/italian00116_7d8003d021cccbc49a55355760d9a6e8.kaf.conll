@@ -1,158 +1,159 @@
-1	Esperienza	esperienza	N	1	
-2	positiva	positivo	G	1	
+1	Esperienza	esperienza	N	1	O
+2	positiva	positivo	G	1	O
 
-1	Ottima	ottimo	G	1	
-2	posizione	posizione	N	1	
-3	davanti	davanti	N	1	
-4	alla	alla	P	1	
-5	stazione	stazione	N	1	
-6	(	(	O	1	
-7	che	che	Q	1	
-8	fra	fra	P	1	
-9	parentesi	parentesi	N	1	
-10	ho	avere	V	1	
-11	trovato	trovare	V	1	
-12	bellissima	bellissima	G	1	
-13	...	...	O	1	
-14	)	)	O	1	
-15	,	,	O	1	
-16	ci	ci	Q	1	
-17	sono	essere	V	1	
-18	ancora	ancora	A	1	
-19	tanti	tanti	Q	1	
-20	lavori	lavoro	N	1	
-21	intorno	intorno	N	1	
-22	all'	all'	P	1	
-23	hotel	hotel	N	1	
-24	,	,	O	1	
-25	ma	ma	Q	1	
-26	la	lo	D	1	
-27	nostra	nostro	G	1	
-28	stanza	stanza	N	1	
-29	,	,	O	1	
-30	sebbene	sebbene	Q	1	
-31	al	al	P	1	
-32	primo	primo	G	1	
-33	piano	piano	N	1	
-34	e	e	Q	1	
-35	proprio	proprio	A	1	
-36	sulla	sulla	P	1	
-37	strada	strada	N	1	
-38	è	è	R	1	
-39	risultata	risultata	G	1	
-40	tranquilla	tranquillo	G	1	
-41	.	.	O	1	
+1	Ottima	ottimo	G	1	O
+2	posizione	posizione	N	1	O
+3	davanti	davanti	N	1	O
+4	alla	alla	P	1	O
+5	stazione	stazione	N	1	O
+6	(	(	O	1	O
+7	che	che	Q	1	O
+8	fra	fra	P	1	O
+9	parentesi	parentesi	N	1	O
+10	ho	avere	V	1	O
+11	trovato	trovare	V	1	O
+12	bellissima	bellissima	G	1	O
+13	...	...	O	1	O
+14	)	)	O	1	O
+15	,	,	O	1	O
+16	ci	ci	Q	1	O
+17	sono	essere	V	1	O
+18	ancora	ancora	A	1	O
+19	tanti	tanti	Q	1	O
+20	lavori	lavoro	N	1	O
+21	intorno	intorno	N	1	O
+22	all'	all'	P	1	O
+23	hotel	hotel	N	1	O
+24	,	,	O	1	O
+25	ma	ma	Q	1	O
+26	la	lo	D	1	O
+27	nostra	nostro	G	1	O
+28	stanza	stanza	N	1	O
+29	,	,	O	1	O
+30	sebbene	sebbene	Q	1	O
+31	al	al	P	1	O
+32	primo	primo	G	1	O
+33	piano	piano	N	1	O
+34	e	e	Q	1	O
+35	proprio	proprio	A	1	O
+36	sulla	sulla	P	1	O
+37	strada	strada	N	1	O
+38	è	è	R	1	O
+39	risultata	risultata	G	1	O
+40	tranquilla	tranquillo	G	1	O
+41	.	.	O	1	O
 
-1	Camera	camera	N	1	
-2	ampia	ampio	G	1	
-3	,	,	O	1	
-4	pulita	pulita	N	1	
-5	,	,	O	1	
-6	letto	letto	N	1	
-7	comodo	comodo	G	1	
-8	e	e	Q	1	
-9	possibilità	possibilita'	R	1	
-10	di	di	P	1	
-11	regolare	regolare	G	1	
-12	molto	molto	G	1	
-13	bene	bene	N	1	
-14	la	lo	D	1	
-15	temperatura	temperatura	N	1	
-16	.	.	O	1	
+1	Camera	camera	N	1	O
+2	ampia	ampio	G	1	O
+3	,	,	O	1	O
+4	pulita	pulita	N	1	O
+5	,	,	O	1	O
+6	letto	letto	N	1	O
+7	comodo	comodo	G	1	O
+8	e	e	Q	1	O
+9	possibilità	possibilita'	R	1	O
+10	di	di	P	1	O
+11	regolare	regolare	G	1	O
+12	molto	molto	G	1	O
+13	bene	bene	N	1	O
+14	la	lo	D	1	O
+15	temperatura	temperatura	N	1	O
+16	.	.	O	1	O
 
-1	Piuttosto	piuttosto	Q	1	
-2	scomodo	scomodare	V	1	
-3	il	lo	D	1	
-4	lavandino	lavandino	N	1	
-5	in	in	P	1	
-6	bagno	bagno	N	1	
-7	(	(	O	1	
-8	rubinetto	rubinetto	N	1	
-9	posizionato	posizionare	V	1	
-10	troppo	troppo	G	1	
-11	lateralmente	lateralmente	N	1	
-12	che	che	Q	1	
-13	faceva	fare	V	1	
-14	sì	si'	N	1	
-15	che	che	Q	1	
-16	si	si	Q	1	
-17	allagasse	allagare	V	1	
-18	tutto	tutto	A	1	
-19	il	lo	D	1	
-20	piano	piano	N	1	
-21	del	del	P	1	
-22	lavandino	lavandino	N	1	
-23	)	)	O	1	
-24	,	,	O	1	
-25	ma	ma	Q	1	
-26	molto	molto	A	1	
-27	buona	buono	G	1	
-28	la	lo	D	1	
-29	doccia	doccia	N	1	
-30	.	.	O	1	
+1	Piuttosto	piuttosto	Q	1	O
+2	scomodo	scomodare	V	1	O
+3	il	lo	D	1	O
+4	lavandino	lavandino	N	1	O
+5	in	in	P	1	O
+6	bagno	bagno	N	1	O
+7	(	(	O	1	O
+8	rubinetto	rubinetto	N	1	O
+9	posizionato	posizionare	V	1	O
+10	troppo	troppo	G	1	O
+11	lateralmente	lateralmente	N	1	O
+12	che	che	Q	1	O
+13	faceva	fare	V	1	O
+14	sì	si'	N	1	O
+15	che	che	Q	1	O
+16	si	si	Q	1	O
+17	allagasse	allagare	V	1	O
+18	tutto	tutto	A	1	O
+19	il	lo	D	1	O
+20	piano	piano	N	1	O
+21	del	del	P	1	O
+22	lavandino	lavandino	N	1	O
+23	)	)	O	1	O
+24	,	,	O	1	O
+25	ma	ma	Q	1	O
+26	molto	molto	A	1	O
+27	buona	buono	G	1	O
+28	la	lo	D	1	O
+29	doccia	doccia	N	1	O
+30	.	.	O	1	O
 
-1	Personale	personale	G	1	
-2	abbastanza	abbastanza	A	1	
-3	disponibile	disponibile	G	1	
-4	e	e	Q	1	
-5	cordiale	cordiale	G	1	
-6	.	.	O	1	
+1	Personale	personale	G	1	O
+2	abbastanza	abbastanza	A	1	O
+3	disponibile	disponibile	G	1	O
+4	e	e	Q	1	O
+5	cordiale	cordiale	G	1	O
+6	.	.	O	1	O
 
-1	Non	non	A	1	
-2	ho	avere	V	1	
-3	trovato	trovare	V	1	
-4	all'	all'	P	1	
-5	altezza	altezza	N	1	
-6	la	lo	D	1	
-7	colazione	colazione	N	1	
-8	che	che	Q	1	
-9	non	non	A	1	
-10	vale	valere	V	1	
-11	assolutamente	assolutamente	A	1	
-12	i	lo	D	1	
-13	16_euro	16_euro	R	1	ne=Money
-14	;	;	O	1	
-15	fortunatamente	fortunatamente	A	1	
-16	avevamo	avere	V	1	
-17	trovato	trovare	V	1	
-18	un'	uno	D	1	
-19	ottima	ottimo	G	1	
-20	offerta	offrire	V	1	
-21	colazione	colazione	N	1	
-22	inclusa	incluso	G	1	
-23	,	,	O	1	
-24	che	che	Q	1	
-25	ha	avere	V	1	
-26	reso	rendere	V	1	
-27	comunque	comunque	A	1	
-28	ottimo	ottimo	G	1	
-29	il	lo	D	1	
-30	rapporto	rapporto	N	1	
-31	qualità	qualita'	N	1	
-32	/	/	O	1	
-33	prezzo	prezzo	N	1	
-34	.	.	O	1	
+1	Non	non	A	1	O
+2	ho	avere	V	1	O
+3	trovato	trovare	V	1	O
+4	all'	all'	P	1	O
+5	altezza	altezza	N	1	O
+6	la	lo	D	1	O
+7	colazione	colazione	N	1	O
+8	che	che	Q	1	O
+9	non	non	A	1	O
+10	vale	valere	V	1	O
+11	assolutamente	assolutamente	A	1	O
+12	i	lo	D	1	O
+13	16	16	G	1	I-Money
+14	euro	euro	R	1	I-Money
+15	;	;	O	1	O
+16	fortunatamente	fortunatamente	A	1	O
+17	avevamo	avere	V	1	O
+18	trovato	trovare	V	1	O
+19	un'	uno	D	1	O
+20	ottima	ottimo	G	1	O
+21	offerta	offrire	V	1	O
+22	colazione	colazione	N	1	O
+23	inclusa	incluso	G	1	O
+24	,	,	O	1	O
+25	che	che	Q	1	O
+26	ha	avere	V	1	O
+27	reso	rendere	V	1	O
+28	comunque	comunque	A	1	O
+29	ottimo	ottimo	G	1	O
+30	il	lo	D	1	O
+31	rapporto	rapporto	N	1	O
+32	qualità	qualita'	N	1	O
+33	/	/	O	1	O
+34	prezzo	prezzo	N	1	O
+35	.	.	O	1	O
 
-1	Ottimo	ottimo	G	1	
-2	il	lo	D	1	
-3	collegamento	collegamento	N	1	
-4	via	via	N	1	
-5	bus	bus	N	1	
-6	con	con	P	1	
-7	il	lo	D	1	
-8	centro	centro	N	1	
-9	.	.	O	1	
+1	Ottimo	ottimo	G	1	O
+2	il	lo	D	1	O
+3	collegamento	collegamento	N	1	O
+4	via	via	N	1	O
+5	bus	bus	N	1	O
+6	con	con	P	1	O
+7	il	lo	D	1	O
+8	centro	centro	N	1	O
+9	.	.	O	1	O
 
-1	Buona	buono	G	1	
-2	connessione	connessione	N	1	
-3	WIFI	wifi	R	1	
-4	.	.	O	1	
+1	Buona	buono	G	1	O
+2	connessione	connessione	N	1	O
+3	WIFI	wifi	R	1	O
+4	.	.	O	1	O
 
-1	Lo	lo	Q	1	
-2	consiglierei	consigliare	V	1	
-3	solo	solo	G	1	
-4	trovando	trovare	V	1	
-5	un'	uno	D	1	
-6	offerta	offerta	N	1	
-7	.	.	O	1	
+1	Lo	lo	Q	1	O
+2	consiglierei	consigliare	V	1	O
+3	solo	solo	G	1	O
+4	trovando	trovare	V	1	O
+5	un'	uno	D	1	O
+6	offerta	offerta	N	1	O
+7	.	.	O	1	O
 

@@ -1,45 +1,45 @@
-1	Grand	grand	G	1	
-2	,	,	O	1	
-3	beau	beau	G	1	
-4	,	,	O	1	
-5	plein	plein	G	1	
-6	de	de	P	1	
-7	piscines	piscine	N	1	
+1	Grand	grand	G	1	O
+2	,	,	O	1	O
+3	beau	beau	G	1	O
+4	,	,	O	1	O
+5	plein	plein	G	1	O
+6	de	de	P	1	O
+7	piscines	piscine	N	1	O
 
-1	Cet	ce	D	1	
-2	hotel	hotel	N	1	
-3	est	être	V	1	
-4	à	à	P	1	
-5	conseiller	conseiller	V	1	
-6	pour	pour	P	1	
-7	ses	son	D	1	
-8	piscines	piscine	N	1	
-9	et	et	C	1	
-10	les	le	D	1	
-11	jeux	jeu	N	1	
-12	aquatiques	aquatique	G	1	
-13	.	.	O	1	
+1	Cet	ce	D	1	O
+2	hotel	hotel	N	1	O
+3	est	être	V	1	O
+4	à	à	P	1	O
+5	conseiller	conseiller	V	1	O
+6	pour	pour	P	1	O
+7	ses	son	D	1	O
+8	piscines	piscine	N	1	O
+9	et	et	C	1	O
+10	les	le	D	1	O
+11	jeux	jeu	N	1	O
+12	aquatiques	aquatique	G	1	O
+13	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	bel	beau	G	1	
-3	hotel	hotel	N	1	
-4	mais	mais	C	1	
-5	la	le	D	1	
-6	nourriture	nourriture	N	1	
-7	est	être	V	1	
-8	le	le	D	1	
-9	point	point	N	1	
-10	faible	faible	G	1	
-11	même	même	G	1	
-12	si	si	C	1	
-13	on	on	Q	1	
-14	peut	pouvoir	V	1	
-15	manger	manger	V	1	
-16	correctement	correctement	G	1	
-17	mais	mais	C	1	
-18	simplement	simplement	G	1	
-19	tous	tout	G	1	
-20	les	le	D	1	
-21	jours.	jours.	N	1	
-22	ok	ok	N	1	
+1	Très	Très	G	1	O
+2	bel	beau	G	1	O
+3	hotel	hotel	N	1	O
+4	mais	mais	C	1	O
+5	la	le	D	1	O
+6	nourriture	nourriture	N	1	O
+7	est	être	V	1	O
+8	le	le	D	1	O
+9	point	point	N	1	O
+10	faible	faible	G	1	O
+11	même	même	G	1	O
+12	si	si	C	1	O
+13	on	on	Q	1	O
+14	peut	pouvoir	V	1	O
+15	manger	manger	V	1	O
+16	correctement	correctement	G	1	O
+17	mais	mais	C	1	O
+18	simplement	simplement	G	1	O
+19	tous	tout	G	1	O
+20	les	le	D	1	O
+21	jours.	jours.	N	1	O
+22	ok	ok	N	1	O
 

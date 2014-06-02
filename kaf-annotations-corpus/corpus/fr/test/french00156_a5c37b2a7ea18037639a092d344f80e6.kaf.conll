@@ -1,145 +1,146 @@
-1	Situé	situer	V	1	
-2	près	près	P	1	
-3	de	de	P	1	
-4	l'	le	D	1	
-5	aéroport	aéroport	N	1	
-6	avec	avec	P	1	
-7	navettes	navette	N	1	
-8	régulières	régulier	G	1	
+1	Situé	situer	V	1	O
+2	près	près	P	1	O
+3	de	de	P	1	O
+4	l'	le	D	1	O
+5	aéroport	aéroport	N	1	O
+6	avec	avec	P	1	O
+7	navettes	navette	N	1	O
+8	régulières	régulier	G	1	O
 
-1	Cet	ce	D	1	
-2	hôtel	hôtel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	pratique	pratique	G	1	
-6	pour	pour	P	1	
-7	celui	celui	P	1	
-8	qui	qui	P	1	
-9	prend	prendre	V	1	
-10	l'	le	D	1	
-11	avion	avion	N	1	
-12	à	à	P	1	
-13	Brussels_Airport	Brussels_Airport	R	1	ne=POI
-14	.	.	O	1	
+1	Cet	ce	D	1	O
+2	hôtel	hôtel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	pratique	pratique	G	1	O
+6	pour	pour	P	1	O
+7	celui	celui	P	1	O
+8	qui	qui	P	1	O
+9	prend	prendre	V	1	O
+10	l'	le	D	1	O
+11	avion	avion	N	1	O
+12	à	à	P	1	O
+13	Brussels	Brussels	N	1	I-POI
+14	Airport	Airport	N	1	I-POI
+15	.	.	O	1	O
 
-1	Permet	Permet	N	1	
-2	d'	d'	P	1	
-3	arriver	arriver	V	1	
-4	la	le	D	1	
-5	veille	veille	N	1	
-6	du	du	P	1	
-7	départ	départ	N	1	
-8	et	et	C	1	
-9	de	de	P	1	
-10	passer	passer	V	1	
-11	la	le	D	1	
-12	nuit	nuit	N	1	
-13	sans	sans]	P	1	
-14	se	se	Q	1	
-15	soucier	soucier	V	1	
-16	des	des	P	1	
-17	embouteillages	embouteillage	N	1	
-18	le	le	D	1	
-19	matin	matin	N	1	
-20	.	.	O	1	
+1	Permet	Permet	N	1	O
+2	d'	d'	P	1	O
+3	arriver	arriver	V	1	O
+4	la	le	D	1	O
+5	veille	veille	N	1	O
+6	du	du	P	1	O
+7	départ	départ	N	1	O
+8	et	et	C	1	O
+9	de	de	P	1	O
+10	passer	passer	V	1	O
+11	la	le	D	1	O
+12	nuit	nuit	N	1	O
+13	sans	sans]	P	1	O
+14	se	se	Q	1	O
+15	soucier	soucier	V	1	O
+16	des	des	P	1	O
+17	embouteillages	embouteillage	N	1	O
+18	le	le	D	1	O
+19	matin	matin	N	1	O
+20	.	.	O	1	O
 
-1	L'	le	D	1	
-2	hôtel	hôtel	N	1	
-3	propose	proposer	V	1	
-4	des	un	D	1	
-5	navettes	navette	N	1	
-6	gratuites	gratuit	G	1	
-7	régulières	régulier	G	1	
-8	vers	vers	P	1	
-9	l'	le	D	1	
-10	aéroport	aéroport	N	1	
-11	.	.	O	1	
+1	L'	le	D	1	O
+2	hôtel	hôtel	N	1	O
+3	propose	proposer	V	1	O
+4	des	un	D	1	O
+5	navettes	navette	N	1	O
+6	gratuites	gratuit	G	1	O
+7	régulières	régulier	G	1	O
+8	vers	vers	P	1	O
+9	l'	le	D	1	O
+10	aéroport	aéroport	N	1	O
+11	.	.	O	1	O
 
-1	Vous	lui	Q	1	
-2	pouvez	pouvez	Q	1	
-3	laisser	laisser	V	1	
-4	votre	son	D	1	
-5	voiture	voiture	N	1	
-6	dans	dans	P	1	
-7	le	le	D	1	
-8	parking	parking	N	1	
-9	sous	sous	P	1	
-10	·	·	D	1	
-11	terrain	terrain	N	1	
-12	de	de	P	1	
-13	l'	le	D	1	
-14	hôtel.	hôtel.	D	1	
-15	on	cln	O	1	
-16	vous	lui	Q	1	
-17	proposera	proposer	V	1	
-18	même	même	G	1	
-19	de	de	P	1	
-20	la	le	D	1	
-21	laver	laver	N	1	
-22	(	(	O	1	
-23	car	car	C	1	
-24	·	·	D	1	
-25	wash	wash	O	1	
-26	)	)	O	1	
-27	pendant	pendant	P	1	
-28	votre	son	D	1	
-29	absence	absence	N	1	
-30	.	.	O	1	
+1	Vous	lui	Q	1	O
+2	pouvez	pouvez	Q	1	O
+3	laisser	laisser	V	1	O
+4	votre	son	D	1	O
+5	voiture	voiture	N	1	O
+6	dans	dans	P	1	O
+7	le	le	D	1	O
+8	parking	parking	N	1	O
+9	sous	sous	P	1	O
+10	·	·	D	1	O
+11	terrain	terrain	N	1	O
+12	de	de	P	1	O
+13	l'	le	D	1	O
+14	hôtel.	hôtel.	D	1	O
+15	on	cln	O	1	O
+16	vous	lui	Q	1	O
+17	proposera	proposer	V	1	O
+18	même	même	G	1	O
+19	de	de	P	1	O
+20	la	le	D	1	O
+21	laver	laver	N	1	O
+22	(	(	O	1	O
+23	car	car	C	1	O
+24	·	·	D	1	O
+25	wash	wash	O	1	O
+26	)	)	O	1	O
+27	pendant	pendant	P	1	O
+28	votre	son	D	1	O
+29	absence	absence	N	1	O
+30	.	.	O	1	O
 
-1	Lors	Lors	G	1	
-2	de	de	P	1	
-3	votre	son	D	1	
-4	retour	retour	N	1	
-5	,	,	O	1	
-6	il	il	Q	1	
-7	suffit	suffire	V	1	
-8	de	de	P	1	
-9	donner	donner	V	1	
-10	un	un	D	1	
-11	coup	coup	N	1	
-12	de	de	P	1	
-13	fil	fil	N	1	
-14	à	à	P	1	
-15	l'	le	D	1	
-16	hôtel	hôtel	N	1	
-17	et	et	C	1	
-18	la	le	D	1	
-19	navette	navette	N	1	
-20	vient	venir	V	1	
-21	vous	lui	Q	1	
-22	chercher	chercher	V	1	
-23	à	à	P	1	
-24	l'	le	D	1	
-25	aéroport	aéroport	N	1	
-26	pour	pour	P	1	
-27	vous	lui	Q	1	
-28	ramener	ramener	V	1	
-29	à	à	P	1	
-30	l'	le	D	1	
-31	hôtel	hôtel	N	1	
-32	.	.	O	1	
+1	Lors	Lors	G	1	O
+2	de	de	P	1	O
+3	votre	son	D	1	O
+4	retour	retour	N	1	O
+5	,	,	O	1	O
+6	il	il	Q	1	O
+7	suffit	suffire	V	1	O
+8	de	de	P	1	O
+9	donner	donner	V	1	O
+10	un	un	D	1	O
+11	coup	coup	N	1	O
+12	de	de	P	1	O
+13	fil	fil	N	1	O
+14	à	à	P	1	O
+15	l'	le	D	1	O
+16	hôtel	hôtel	N	1	O
+17	et	et	C	1	O
+18	la	le	D	1	O
+19	navette	navette	N	1	O
+20	vient	venir	V	1	O
+21	vous	lui	Q	1	O
+22	chercher	chercher	V	1	O
+23	à	à	P	1	O
+24	l'	le	D	1	O
+25	aéroport	aéroport	N	1	O
+26	pour	pour	P	1	O
+27	vous	lui	Q	1	O
+28	ramener	ramener	V	1	O
+29	à	à	P	1	O
+30	l'	le	D	1	O
+31	hôtel	hôtel	N	1	O
+32	.	.	O	1	O
 
-1	Les	le	D	1	
-2	chambres	chambre	N	1	
-3	sont	être	V	1	
-4	assez	assez	G	1	
-5	spacieuses	spacieux	G	1	
-6	et	et	C	1	
-7	très	très	G	1	
-8	modernes	moderne	G	1	
-9	.	.	O	1	
+1	Les	le	D	1	O
+2	chambres	chambre	N	1	O
+3	sont	être	V	1	O
+4	assez	assez	G	1	O
+5	spacieuses	spacieux	G	1	O
+6	et	et	C	1	O
+7	très	très	G	1	O
+8	modernes	moderne	G	1	O
+9	.	.	O	1	O
 
-1	Petit	petit	G	1	
-2	bémol	bémol	N	1	
-3	,	,	O	1	
-4	quasi	quasi	G	1	
-5	aucun	aucun	D	1	
-6	membre	membre	N	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	réception	réception	N	1	
-10	ne	ne	G	1	
-11	parle	parler	V	1	
-12	français	français	G	1	
-13	.	.	O	1	
+1	Petit	petit	G	1	O
+2	bémol	bémol	N	1	O
+3	,	,	O	1	O
+4	quasi	quasi	G	1	O
+5	aucun	aucun	D	1	O
+6	membre	membre	N	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	réception	réception	N	1	O
+10	ne	ne	G	1	O
+11	parle	parler	V	1	O
+12	français	français	G	1	O
+13	.	.	O	1	O
 

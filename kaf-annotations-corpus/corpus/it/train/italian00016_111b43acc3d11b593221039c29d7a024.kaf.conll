@@ -1,69 +1,69 @@
-1	Delusa	deludere	V	1	
+1	Delusa	deludere	V	1	O
 
-1	L'	lo	D	1	
-2	agrihotel	agrihotel	R	1	ne=Hotel
-3	è	è	R	1	
-4	situato	situare	V	1	
-5	un	uno	D	1	
-6	posto	posto	N	1	
-7	molto	molto	G	1	
-8	bello	bello	N	1	
-9	delle	delle	P	1	
-10	colline	collina	N	1	
-11	di	di	P	1	
-12	Volterra	volterra	R	1	ne=Location
-13	,	,	O	1	
-14	siamo	essere	V	1	
-15	delusi	deludere	V	1	
-16	da	da	P	1	
-17	questo	questo	G	1	
-18	soggiorno	soggiorno	N	1	
-19	per	per	P	1	
-20	quanto	quanto	N	1	
-21	riguarda	riguardare	V	1	
-22	la	lo	D	1	
-23	pulizia	pulizia	N	1	
-24	e	e	Q	1	
-25	l	l	N	1	
-26	'	'	Q	1	
-27	igiene	igiene	N	1	
-28	,	,	O	1	
-29	soprattutto	soprattutto	A	1	
-30	del	del	P	1	
-31	bagno	bagno	N	1	
-32	che	che	Q	1	
-33	lo	lo	Q	1	
-34	abbiamo	avere	V	1	
-35	trovato	trovare	V	1	
-36	piuttosto	piuttosto	A	1	
-37	sporco	sporco	G	1	
-38	,	,	O	1	
-39	ci	ci	Q	1	
-40	siamo	essere	V	1	
-41	lamentati	lamentare	V	1	
-42	con	con	P	1	
-43	la	lo	D	1	
-44	proprietaria	proprietario	N	1	
-45	,	,	O	1	
-46	ci	ci	Q	1	
-47	aspettiamo	aspettare	V	1	
-48	quindi	quindi	A	1	
-49	un	uno	D	1	
-50	miglioramento	miglioramento	N	1	
-51	.	.	O	1	
-52	.	.	O	1	
-53	anche	anche	Q	1	
-54	se	se	Q	1	
-55	ne	ne	Q	1	
-56	dubitiamo	dubitare	V	1	
-57	fortemente	fortemente	A	1	
-58	in	in	P	1	
-59	quanto	quanto	Q	1	
-60	troppo	troppo	G	1	
-61	giovane	giovane	N	1	
-62	e	e	Q	1	
-63	incapace	incapace	G	1	
-64	di	di	P	1	
-65	gestire	gestire	V	1	
-66	.	.	O	1	
+1	L'	lo	D	1	O
+2	agrihotel	agrihotel	R	1	I-Hotel
+3	è	è	R	1	O
+4	situato	situare	V	1	O
+5	un	uno	D	1	O
+6	posto	posto	N	1	O
+7	molto	molto	G	1	O
+8	bello	bello	N	1	O
+9	delle	delle	P	1	O
+10	colline	collina	N	1	O
+11	di	di	P	1	O
+12	Volterra	volterra	R	1	I-Location
+13	,	,	O	1	O
+14	siamo	essere	V	1	O
+15	delusi	deludere	V	1	O
+16	da	da	P	1	O
+17	questo	questo	G	1	O
+18	soggiorno	soggiorno	N	1	O
+19	per	per	P	1	O
+20	quanto	quanto	N	1	O
+21	riguarda	riguardare	V	1	O
+22	la	lo	D	1	O
+23	pulizia	pulizia	N	1	O
+24	e	e	Q	1	O
+25	l	l	N	1	O
+26	'	'	Q	1	O
+27	igiene	igiene	N	1	O
+28	,	,	O	1	O
+29	soprattutto	soprattutto	A	1	O
+30	del	del	P	1	O
+31	bagno	bagno	N	1	O
+32	che	che	Q	1	O
+33	lo	lo	Q	1	O
+34	abbiamo	avere	V	1	O
+35	trovato	trovare	V	1	O
+36	piuttosto	piuttosto	A	1	O
+37	sporco	sporco	G	1	O
+38	,	,	O	1	O
+39	ci	ci	Q	1	O
+40	siamo	essere	V	1	O
+41	lamentati	lamentare	V	1	O
+42	con	con	P	1	O
+43	la	lo	D	1	O
+44	proprietaria	proprietario	N	1	O
+45	,	,	O	1	O
+46	ci	ci	Q	1	O
+47	aspettiamo	aspettare	V	1	O
+48	quindi	quindi	A	1	O
+49	un	uno	D	1	O
+50	miglioramento	miglioramento	N	1	O
+51	.	.	O	1	O
+52	.	.	O	1	O
+53	anche	anche	Q	1	O
+54	se	se	Q	1	O
+55	ne	ne	Q	1	O
+56	dubitiamo	dubitare	V	1	O
+57	fortemente	fortemente	A	1	O
+58	in	in	P	1	O
+59	quanto	quanto	Q	1	O
+60	troppo	troppo	G	1	O
+61	giovane	giovane	N	1	O
+62	e	e	Q	1	O
+63	incapace	incapace	G	1	O
+64	di	di	P	1	O
+65	gestire	gestire	V	1	O
+66	.	.	O	1	O
 

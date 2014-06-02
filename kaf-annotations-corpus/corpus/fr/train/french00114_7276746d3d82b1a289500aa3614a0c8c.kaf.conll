@@ -1,162 +1,162 @@
-1	Reçus	recevoir	V	1	
-2	comme	comme	P	1	
-3	des	un	D	1	
-4	amis	ami	N	1	
+1	Reçus	recevoir	V	1	O
+2	comme	comme	P	1	O
+3	des	un	D	1	O
+4	amis	ami	N	1	O
 
-1	je	je	Q	1	
-2	recommande	recommande	Q	1	
-3	vivement	vivement	G	1	
-4	cet	ce	D	1	
-5	établissement	établissement	N	1	
-6	qui	qui	P	1	
-7	vous	lui	Q	1	
-8	recevra	recevoir	V	1	
-9	comme	comme	C	1	
-10	si	si	C	1	
-11	vous	lui	Q	1	
-12	étiez	être	V	1	
-13	des	un	D	1	
-14	amis	ami	N	1	
-15	et	et	C	1	
-16	non	non	G	1	
-17	des	un	D	1	
-18	clients	client	N	1	
-19	.	.	O	1	
+1	je	je	Q	1	O
+2	recommande	recommande	Q	1	O
+3	vivement	vivement	G	1	O
+4	cet	ce	D	1	O
+5	établissement	établissement	N	1	O
+6	qui	qui	P	1	O
+7	vous	lui	Q	1	O
+8	recevra	recevoir	V	1	O
+9	comme	comme	C	1	O
+10	si	si	C	1	O
+11	vous	lui	Q	1	O
+12	étiez	être	V	1	O
+13	des	un	D	1	O
+14	amis	ami	N	1	O
+15	et	et	C	1	O
+16	non	non	G	1	O
+17	des	un	D	1	O
+18	clients	client	N	1	O
+19	.	.	O	1	O
 
-1	cadre	cadre	N	1	
-2	toscan	toscan	G	1	
-3	typique	typique	N	1	
-4	et	et	C	1	
-5	chambres	chambre	N	1	
-6	charmantes	charmant	G	1	
-7	.	.	O	1	
+1	cadre	cadre	N	1	O
+2	toscan	toscan	G	1	O
+3	typique	typique	N	1	O
+4	et	et	C	1	O
+5	chambres	chambre	N	1	O
+6	charmantes	charmant	G	1	O
+7	.	.	O	1	O
 
-1	Certains	certain	D	1	
-2	soirs	soir	N	1	
-3	,	,	O	1	
-4	le	le	D	1	
-5	propriétaire	propriétaire	N	1	
-6	vous	cla	O	1	
-7	proposera	proposer	V	1	
-8	de	de	P	1	
-9	diner	diner	V	1	
-10	sur	sur	P	1	
-11	la	le	D	1	
-12	terrasse	terrasse	N	1	
-13	avec	avec	P	1	
-14	une	un	D	1	
-15	vue	vue	N	1	
-16	extraordinaire	extraordinaire	G	1	
-17	sur	sur	P	1	
-18	la	le	D	1	
-19	Toscane	toscan	R	1	ne=Location
-20	.	.	O	1	
+1	Certains	certain	D	1	O
+2	soirs	soir	N	1	O
+3	,	,	O	1	O
+4	le	le	D	1	O
+5	propriétaire	propriétaire	N	1	O
+6	vous	cla	O	1	O
+7	proposera	proposer	V	1	O
+8	de	de	P	1	O
+9	diner	diner	V	1	O
+10	sur	sur	P	1	O
+11	la	le	D	1	O
+12	terrasse	terrasse	N	1	O
+13	avec	avec	P	1	O
+14	une	un	D	1	O
+15	vue	vue	N	1	O
+16	extraordinaire	extraordinaire	G	1	O
+17	sur	sur	P	1	O
+18	la	le	D	1	O
+19	Toscane	toscan	R	1	I-Location
+20	.	.	O	1	O
 
-1	la	le	D	1	
-2	particularité	particularité	N	1	
-3	de	de	P	1	
-4	ce	ce	D	1	
-5	diner	diner	N	1	
-6	,	,	O	1	
-7	est	être	V	1	
-8	qu'	qu'	C	1	
-9	il	il	Q	1	
-10	vous	lui	Q	1	
-11	sera	être	V	1	
-12	servi	servir	V	1	
-13	assis	asseoir	V	1	
-14	à	à	P	1	
-15	une	un	D	1	
-16	longue	long	G	1	
-17	table	table	N	1	
-18	familial	familial	N	1	
-19	en	en	P	1	
-20	compagnie	compagnie	N	1	
-21	d'	d'	P	1	
-22	autres	autre	G	1	
-23	clients	client	N	1	
-24	de	de	P	1	
-25	l'	le	D	1	
-26	hôtel	hôtel	N	1	
-27	,	,	O	1	
-28	de	de	P	1	
-29	toutes	tout	G	1	
-30	nationalités	nationalité	N	1	
-31	,	,	O	1	
-32	je	je	Q	1	
-33	vous	lui	Q	1	
-34	laisse	laisser	V	1	
-35	imaginer	imaginer	V	1	
-36	l'	le	D	1	
-37	ambiance	ambiance	N	1	
-38	qui	qui	P	1	
-39	en	en	Q	1	
-40	résulte	résulter	V	1	
-41	.	.	O	1	
+1	la	le	D	1	O
+2	particularité	particularité	N	1	O
+3	de	de	P	1	O
+4	ce	ce	D	1	O
+5	diner	diner	N	1	O
+6	,	,	O	1	O
+7	est	être	V	1	O
+8	qu'	qu'	C	1	O
+9	il	il	Q	1	O
+10	vous	lui	Q	1	O
+11	sera	être	V	1	O
+12	servi	servir	V	1	O
+13	assis	asseoir	V	1	O
+14	à	à	P	1	O
+15	une	un	D	1	O
+16	longue	long	G	1	O
+17	table	table	N	1	O
+18	familial	familial	N	1	O
+19	en	en	P	1	O
+20	compagnie	compagnie	N	1	O
+21	d'	d'	P	1	O
+22	autres	autre	G	1	O
+23	clients	client	N	1	O
+24	de	de	P	1	O
+25	l'	le	D	1	O
+26	hôtel	hôtel	N	1	O
+27	,	,	O	1	O
+28	de	de	P	1	O
+29	toutes	tout	G	1	O
+30	nationalités	nationalité	N	1	O
+31	,	,	O	1	O
+32	je	je	Q	1	O
+33	vous	lui	Q	1	O
+34	laisse	laisser	V	1	O
+35	imaginer	imaginer	V	1	O
+36	l'	le	D	1	O
+37	ambiance	ambiance	N	1	O
+38	qui	qui	P	1	O
+39	en	en	Q	1	O
+40	résulte	résulter	V	1	O
+41	.	.	O	1	O
 
-1	Une	un	D	1	
-2	expérience	expérience	N	1	
-3	inoubliable	inoubliable	G	1	
-4	.	.	O	1	
+1	Une	un	D	1	O
+2	expérience	expérience	N	1	O
+3	inoubliable	inoubliable	G	1	O
+4	.	.	O	1	O
 
-1	très	très	G	1	
-2	belle	beau	G	1	
-3	piscine	piscine	N	1	
-4	et	et	C	1	
-5	un	un	D	1	
-6	parc	parc	N	1	
-7	magnifique	magnifique	G	1	
-8	ou	ou	C	1	
-9	vous	lui	Q	1	
-10	trouverez	trouver	V	1	
-11	à	à	P	1	
-12	votre	son	D	1	
-13	disposition	disposition	N	1	
-14	hamacs	hamacs	O	1	
-15	et	et	C	1	
-16	bancs	banc	N	1	
-17	,	,	O	1	
-18	chacun	chacun	P	1	
-19	pouvant	pouvoir	V	1	
-20	trouver	trouver	V	1	
-21	son	son	D	1	
-22	petit	petit	G	1	
-23	coin	coin	N	1	
-24	d'	d'	P	1	
-25	intimité	intimité	N	1	
-26	s'	s'	C	1	
-27	il	il	Q	1	
-28	le	le	Q	1	
-29	souhaite	souhaiter	V	1	
-30	.	.	O	1	
+1	très	très	G	1	O
+2	belle	beau	G	1	O
+3	piscine	piscine	N	1	O
+4	et	et	C	1	O
+5	un	un	D	1	O
+6	parc	parc	N	1	O
+7	magnifique	magnifique	G	1	O
+8	ou	ou	C	1	O
+9	vous	lui	Q	1	O
+10	trouverez	trouver	V	1	O
+11	à	à	P	1	O
+12	votre	son	D	1	O
+13	disposition	disposition	N	1	O
+14	hamacs	hamacs	O	1	O
+15	et	et	C	1	O
+16	bancs	banc	N	1	O
+17	,	,	O	1	O
+18	chacun	chacun	P	1	O
+19	pouvant	pouvoir	V	1	O
+20	trouver	trouver	V	1	O
+21	son	son	D	1	O
+22	petit	petit	G	1	O
+23	coin	coin	N	1	O
+24	d'	d'	P	1	O
+25	intimité	intimité	N	1	O
+26	s'	s'	C	1	O
+27	il	il	Q	1	O
+28	le	le	Q	1	O
+29	souhaite	souhaiter	V	1	O
+30	.	.	O	1	O
 
-1	nous	lui	Q	1	
-2	n'	n'	G	1	
-3	avons	avoir	V	1	
-4	qu'	qu'	G	1	
-5	une	un	D	1	
-6	hâte	hâte	N	1	
-7	,	,	O	1	
-8	c'	c'	Q	1	
-9	est	être	V	1	
-10	d'	d'	P	1	
-11	y	y	Q	1	
-12	retourner	retourner	V	1	
-13	.	.	O	1	
+1	nous	lui	Q	1	O
+2	n'	n'	G	1	O
+3	avons	avoir	V	1	O
+4	qu'	qu'	G	1	O
+5	une	un	D	1	O
+6	hâte	hâte	N	1	O
+7	,	,	O	1	O
+8	c'	c'	Q	1	O
+9	est	être	V	1	O
+10	d'	d'	P	1	O
+11	y	y	Q	1	O
+12	retourner	retourner	V	1	O
+13	.	.	O	1	O
 
-1	bravo	bravo	O	1	
-2	aux	aux	P	1	
-3	propriétaires	propriétaire	N	1	
-4	pour	pour	P	1	
-5	l'	le	D	1	
-6	ambiance	ambiance	N	1	
-7	qu'	qu'	C	1	
-8	ils	ils	Q	1	
-9	ont	avoir	V	1	
-10	su	savoir	V	1	
-11	créer	créer	V	1	
-12	dans	dans	P	1	
-13	leur	son	D	1	
-14	établissement	établissement	N	1	
-15	.	.	O	1	
+1	bravo	bravo	O	1	O
+2	aux	aux	P	1	O
+3	propriétaires	propriétaire	N	1	O
+4	pour	pour	P	1	O
+5	l'	le	D	1	O
+6	ambiance	ambiance	N	1	O
+7	qu'	qu'	C	1	O
+8	ils	ils	Q	1	O
+9	ont	avoir	V	1	O
+10	su	savoir	V	1	O
+11	créer	créer	V	1	O
+12	dans	dans	P	1	O
+13	leur	son	D	1	O
+14	établissement	établissement	N	1	O
+15	.	.	O	1	O
 

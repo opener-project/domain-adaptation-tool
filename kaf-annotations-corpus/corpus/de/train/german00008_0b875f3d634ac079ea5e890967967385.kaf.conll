@@ -1,173 +1,173 @@
-1	Vollkommen	vollkommen	G	1	
-2	zufrieden	zufrieden	G	1	
+1	Vollkommen	vollkommen	G	1	O
+2	zufrieden	zufrieden	G	1	O
 
-1	Vergleichsweise	vergleichsweise	A	1	
-2	großes	groß	G	1	
-3	sehr	sehr	A	1	
-4	sauberes	sauber	G	1	
-5	Hotel	Hotel	N	1	
-6	.	.	O	1	
+1	Vergleichsweise	vergleichsweise	A	1	O
+2	großes	groß	G	1	O
+3	sehr	sehr	A	1	O
+4	sauberes	sauber	G	1	O
+5	Hotel	Hotel	N	1	O
+6	.	.	O	1	O
 
-1	Die	die	D	1	
-2	AI	Ai	N	1	
-3	·	·	O	1	
-4	Leistungen	Leistung	N	1	
-5	sind	sein	V	1	
-6	mehr	mehr	A	1	
-7	als	als	C	1	
-8	ausreichend	ausreichend	G	1	
-9	.	.	O	1	
+1	Die	die	D	1	O
+2	AI	Ai	N	1	O
+3	·	·	O	1	O
+4	Leistungen	Leistung	N	1	O
+5	sind	sein	V	1	O
+6	mehr	mehr	A	1	O
+7	als	als	C	1	O
+8	ausreichend	ausreichend	G	1	O
+9	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	gibt	geben	V	1	
-3	verschiedene	verschieden	G	1	
-4	Extra	Extra	N	1	
-5	·	·	O	1	
-6	Restaurants	Restaurant	N	1	
-7	die	die	D	1	
-8	sowohl	sowohl	C	1	
-9	zum	zu	P	1	
-10	Mittag	Mittag	N	1	
-11	als	als	C	1	
-12	auch	auch	A	1	
-13	Abends	Abend	N	1	
-14	(	(	O	1	
-15	nicht	nicht	O	1	
-16	alle	alle	Q	1	
-17	&	&	C	1	
-18	nur	nur	A	1	
-19	mit	mit	P	1	
-20	Reservierung	Reservierung	N	1	
-21	)	)	O	1	
-22	geöffnet	öffnen	V	1	
-23	sind	sein	V	1	
-24	.	.	O	1	
+1	Es	es	Q	1	O
+2	gibt	geben	V	1	O
+3	verschiedene	verschieden	G	1	O
+4	Extra	Extra	N	1	O
+5	·	·	O	1	O
+6	Restaurants	Restaurant	N	1	O
+7	die	die	D	1	O
+8	sowohl	sowohl	C	1	O
+9	zum	zu	P	1	O
+10	Mittag	Mittag	N	1	O
+11	als	als	C	1	O
+12	auch	auch	A	1	O
+13	Abends	Abend	N	1	O
+14	(	(	O	1	O
+15	nicht	nicht	O	1	O
+16	alle	alle	Q	1	O
+17	&	&	C	1	O
+18	nur	nur	A	1	O
+19	mit	mit	P	1	O
+20	Reservierung	Reservierung	N	1	O
+21	)	)	O	1	O
+22	geöffnet	öffnen	V	1	O
+23	sind	sein	V	1	O
+24	.	.	O	1	O
 
-1	Da	da	C	1	
-2	wir	wir	Q	1	
-3	außerhalb	außerhalb	P	1	
-4	jeder	jede	Q	1	
-5	Ferien	Ferien	N	1	
-6	vor	vor	P	1	
-7	Ort	Ort	N	1	
-8	waren	sein	V	1	
-9	,	,	O	1	
-10	waren	sein	V	1	
-11	ein	eine	D	1	
-12	paar	paar	Q	1	
-13	Familien	Familie	N	1	
-14	mit	mit	P	1	
-15	Kleinkindern	Kleinkind	N	1	
-16	im	in	P	1	
-17	Hotel	Hotel	N	1	
-18	die	die	D	1	
-19	man	man	Q	1	
-20	kaum	kaum	A	1	
-21	bemerkt	bemerken	V	1	
-22	hat	haben	V	1	
-23	.	.	O	1	
+1	Da	da	C	1	O
+2	wir	wir	Q	1	O
+3	außerhalb	außerhalb	P	1	O
+4	jeder	jede	Q	1	O
+5	Ferien	Ferien	N	1	O
+6	vor	vor	P	1	O
+7	Ort	Ort	N	1	O
+8	waren	sein	V	1	O
+9	,	,	O	1	O
+10	waren	sein	V	1	O
+11	ein	eine	D	1	O
+12	paar	paar	Q	1	O
+13	Familien	Familie	N	1	O
+14	mit	mit	P	1	O
+15	Kleinkindern	Kleinkind	N	1	O
+16	im	in	P	1	O
+17	Hotel	Hotel	N	1	O
+18	die	die	D	1	O
+19	man	man	Q	1	O
+20	kaum	kaum	A	1	O
+21	bemerkt	bemerken	V	1	O
+22	hat	haben	V	1	O
+23	.	.	O	1	O
 
-1	Ansonsten	ansonsten	A	1	
-2	schwankt	schwanken	V	1	
-3	der	die	D	1	
-4	Altersdurchschnitt	Altersdurchschnitt	N	1	
-5	von	von	P	1	
-6	25	25	O	1	
-7	bis	bis	C	1	
-8	70	70	O	1	
-9	,	,	O	1	
-10	wobei	wobei	Q	1	
-11	zum	zu	P	1	
-12	Oktober	Oktober	N	1	
-13	hin	hin	A	1	
-14	eher	eher	A	1	
-15	die	die	D	1	
-16	ältere	alt	G	1	
-17	Generation	Generation	N	1	
-18	das	die	D	1	
-19	Hotel	Hotel	N	1	
-20	besucht	besuchen	V	1	
-21	.	.	O	1	
+1	Ansonsten	ansonsten	A	1	O
+2	schwankt	schwanken	V	1	O
+3	der	die	D	1	O
+4	Altersdurchschnitt	Altersdurchschnitt	N	1	O
+5	von	von	P	1	O
+6	25	25	O	1	O
+7	bis	bis	C	1	O
+8	70	70	O	1	O
+9	,	,	O	1	O
+10	wobei	wobei	Q	1	O
+11	zum	zu	P	1	O
+12	Oktober	Oktober	N	1	O
+13	hin	hin	A	1	O
+14	eher	eher	A	1	O
+15	die	die	D	1	O
+16	ältere	alt	G	1	O
+17	Generation	Generation	N	1	O
+18	das	die	D	1	O
+19	Hotel	Hotel	N	1	O
+20	besucht	besuchen	V	1	O
+21	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Publikum	Publikum	N	1	
-3	ist	sein	V	1	
-4	sehr	sehr	A	1	
-5	international	international	G	1	
-6	.	.	O	1	
+1	Das	die	D	1	O
+2	Publikum	Publikum	N	1	O
+3	ist	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	international	international	G	1	O
+6	.	.	O	1	O
 
-1	Anfangs	anfangs	A	1	
-2	traf	treffen	V	1	
-3	man	man	Q	1	
-4	noch	noch	A	1	
-5	ein	eine	D	1	
-6	paar	paar	Q	1	
-7	Russen	Russe	N	1	
-8	,	,	O	1	
-9	diese	diese	Q	1	
-10	schienen	scheinen	V	1	
-11	durch	durch	P	1	
-12	Holländer	Holländer	N	1	
-13	(	(	O	1	
-14	ca.	ca.	A	1	
-15	50	50	O	1	
-16	%	%	N	1	
-17	)	)	O	1	
-18	irgendwann	irgendwann	A	1	
-19	"	"	O	1	
-20	ersetzt	ersetzen	V	1	
-21	"	"	O	1	
-22	worden	werden	V	1	
-23	zu	zu	O	1	
-24	sein	sein	V	1	
-25	.	.	O	1	
+1	Anfangs	anfangs	A	1	O
+2	traf	treffen	V	1	O
+3	man	man	Q	1	O
+4	noch	noch	A	1	O
+5	ein	eine	D	1	O
+6	paar	paar	Q	1	O
+7	Russen	Russe	N	1	O
+8	,	,	O	1	O
+9	diese	diese	Q	1	O
+10	schienen	scheinen	V	1	O
+11	durch	durch	P	1	O
+12	Holländer	Holländer	N	1	O
+13	(	(	O	1	O
+14	ca.	ca.	A	1	O
+15	50	50	O	1	O
+16	%	%	N	1	O
+17	)	)	O	1	O
+18	irgendwann	irgendwann	A	1	O
+19	"	"	O	1	O
+20	ersetzt	ersetzen	V	1	O
+21	"	"	O	1	O
+22	worden	werden	V	1	O
+23	zu	zu	O	1	O
+24	sein	sein	V	1	O
+25	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	sind	sein	V	1	
-3	wenig	wenige	Q	1	
-4	deutsche	deutsch	G	1	
-5	(	(	O	1	
-6	10	10	O	1	
-7	%	%	N	1	
-8	)	)	O	1	
-9	,	,	O	1	
-10	skandiavier	skandiavier	O	1	
-11	(	(	O	1	
-12	20	20	O	1	
-13	%	%	N	1	
-14	)	)	O	1	
-15	und	und	C	1	
-16	Engländer	Engländer	N	1	
-17	(	(	O	1	
-18	20	20	O	1	
-19	%	%	N	1	
-20	)	)	O	1	
-21	im	in	P	1	
-22	Hotel	Hotel	N	1	
-23	und	und	C	1	
-24	man	man	Q	1	
-25	sollte	sollen	V	1	
-26	der	die	D	1	
-27	englischen	englisch	G	1	
-28	Sprache	Sprache	N	1	
-29	mächtig	mächtig	G	1	
-30	sein	sein	V	1	
-31	um	um	C	1	
-32	sich	sich	Q	1	
-33	im	in	P	1	
-34	Hotel	Hotel	N	1	
-35	mit	mit	P	1	
-36	dem	die	D	1	
-37	Personal	Personal	N	1	
-38	(	(	O	1	
-39	und	und	C	1	
-40	evtl	evtl	O	1	
-41	mit	mit	P	1	
-42	anderen	andere	Q	1	
-43	Gästen	Gast	N	1	
-44	)	)	O	1	
-45	unterhalten	unterhalten	V	1	
-46	zu	zu	O	1	
-47	können	können	V	1	
-48	.	.	O	1	
+1	Es	es	Q	1	O
+2	sind	sein	V	1	O
+3	wenig	wenige	Q	1	O
+4	deutsche	deutsch	G	1	O
+5	(	(	O	1	O
+6	10	10	O	1	O
+7	%	%	N	1	O
+8	)	)	O	1	O
+9	,	,	O	1	O
+10	skandiavier	skandiavier	O	1	O
+11	(	(	O	1	O
+12	20	20	O	1	O
+13	%	%	N	1	O
+14	)	)	O	1	O
+15	und	und	C	1	O
+16	Engländer	Engländer	N	1	O
+17	(	(	O	1	O
+18	20	20	O	1	O
+19	%	%	N	1	O
+20	)	)	O	1	O
+21	im	in	P	1	O
+22	Hotel	Hotel	N	1	O
+23	und	und	C	1	O
+24	man	man	Q	1	O
+25	sollte	sollen	V	1	O
+26	der	die	D	1	O
+27	englischen	englisch	G	1	O
+28	Sprache	Sprache	N	1	O
+29	mächtig	mächtig	G	1	O
+30	sein	sein	V	1	O
+31	um	um	C	1	O
+32	sich	sich	Q	1	O
+33	im	in	P	1	O
+34	Hotel	Hotel	N	1	O
+35	mit	mit	P	1	O
+36	dem	die	D	1	O
+37	Personal	Personal	N	1	O
+38	(	(	O	1	O
+39	und	und	C	1	O
+40	evtl	evtl	O	1	O
+41	mit	mit	P	1	O
+42	anderen	andere	Q	1	O
+43	Gästen	Gast	N	1	O
+44	)	)	O	1	O
+45	unterhalten	unterhalten	V	1	O
+46	zu	zu	O	1	O
+47	können	können	V	1	O
+48	.	.	O	1	O
 

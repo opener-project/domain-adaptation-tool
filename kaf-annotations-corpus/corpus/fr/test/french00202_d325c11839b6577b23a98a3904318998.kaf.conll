@@ -1,179 +1,181 @@
-1	Pas	Pas	G	1	
-2	digne	digne	G	1	
-3	d'	d'	P	1	
-4	un	un	D	1	
-5	5	5	G	1	
-6	étoiles	étoile	N	1	
+1	Pas	Pas	G	1	O
+2	digne	digne	G	1	O
+3	d'	d'	P	1	O
+4	un	un	D	1	O
+5	5	5	G	1	O
+6	étoiles	étoile	N	1	O
 
-1	Le	le	D	1	
-2	décor	décor	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	beau	beau	G	1	
-6	,	,	O	1	
-7	les	le	D	1	
-8	restaurants	restaurant	N	1	
-9	très	très	G	1	
-10	bon.Certaines	bon.Certaines	D	1	
-11	chambres	chambre	N	1	
-12	on	on	Q	1	
-13	droit	droit	N	1	
-14	vers	vers	P	1	
-15	5h_du_matin	5h_du_matin	R	1	ne=Time
-16	au	au	P	1	
-17	bruit	bruit	N	1	
-18	infernal	infernal	G	1	
-19	des	des	P	1	
-20	ramassages	ramassage	N	1	
-21	de	de	P	1	
-22	verres	verre	N	1	
-23	!	!	O	1	
+1	Le	le	D	1	O
+2	décor	décor	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	beau	beau	G	1	O
+6	,	,	O	1	O
+7	les	le	D	1	O
+8	restaurants	restaurant	N	1	O
+9	très	très	G	1	O
+10	bon.Certaines	bon.Certaines	D	1	O
+11	chambres	chambre	N	1	O
+12	on	on	Q	1	O
+13	droit	droit	N	1	O
+14	vers	vers	P	1	O
+15	5h	5h	P	1	I-Time
+16	du	du	D	1	I-Time
+17	matin	matin	N	1	I-Time
+18	au	au	P	1	O
+19	bruit	bruit	N	1	O
+20	infernal	infernal	G	1	O
+21	des	des	P	1	O
+22	ramassages	ramassage	N	1	O
+23	de	de	P	1	O
+24	verres	verre	N	1	O
+25	!	!	O	1	O
 
-1	Et	Et	C	1	
-2	lorsque	lorsque	C	1	
-3	'	'	O	1	
-4	on	on	Q	1	
-5	vous	lui	Q	1	
-6	installe	installer	V	1	
-7	dans	dans	P	1	
-8	une	un	D	1	
-9	chambre	chambre	N	1	
-10	plus	plus	G	1	
-11	silencieuse	silencieux	G	1	
-12	,	,	O	1	
-13	il	il	Q	1	
-14	n'	n'	G	1	
-15	y	y	Q	1	
-16	a	avoir	V	1	
-17	même	même	G	1	
-18	pas	pas	G	1	
-19	une	un	D	1	
-20	personne	personne	N	1	
-21	pour	pour	P	1	
-22	vous	lui	Q	1	
-23	emmener	emmener	V	1	
-24	vos	son	D	1	
-25	bagages	bagage	N	1	
-26	!	!	O	1	
+1	Et	Et	C	1	O
+2	lorsque	lorsque	C	1	O
+3	'	'	O	1	O
+4	on	on	Q	1	O
+5	vous	lui	Q	1	O
+6	installe	installer	V	1	O
+7	dans	dans	P	1	O
+8	une	un	D	1	O
+9	chambre	chambre	N	1	O
+10	plus	plus	G	1	O
+11	silencieuse	silencieux	G	1	O
+12	,	,	O	1	O
+13	il	il	Q	1	O
+14	n'	n'	G	1	O
+15	y	y	Q	1	O
+16	a	avoir	V	1	O
+17	même	même	G	1	O
+18	pas	pas	G	1	O
+19	une	un	D	1	O
+20	personne	personne	N	1	O
+21	pour	pour	P	1	O
+22	vous	lui	Q	1	O
+23	emmener	emmener	V	1	O
+24	vos	son	D	1	O
+25	bagages	bagage	N	1	O
+26	!	!	O	1	O
 
-1	dans	dans	P	1	
-2	un	un	D	1	
-3	5	5	G	1	
-4	étoiles	étoile	N	1	
-5	!!!	!!!	G	1	
+1	dans	dans	P	1	O
+2	un	un	D	1	O
+3	5	5	G	1	O
+4	étoiles	étoile	N	1	O
+5	!!!	!!!	G	1	O
 
-1	Dans	Dans	P	1	
-2	la	le	D	1	
-3	2ème	2ème	G	1	
-4	chambre	chambre	N	1	
-5	,	,	O	1	
-6	nous	lui	Q	1	
-7	avons	avoir	V	1	
-8	eu	avoir	V	1	
-9	la	le	D	1	
-10	drôle	drôle	N	1	
-11	de	de	P	1	
-12	surprise	surprise	N	1	
-13	de	de	P	1	
-14	voir	voir	V	1	
-15	que	que	C	1	
-16	quand	quand	C	1	
-17	on	on	Q	1	
-18	allumait	allumer	V	1	
-19	le	le	D	1	
-20	robinet	robinet	N	1	
-21	de	de	P	1	
-22	la	le	D	1	
-23	baignoire	baignoire	N	1	
-24	,	,	O	1	
-25	l'	le	D	1	
-26	eau	eau	N	1	
-27	coulait	couler	V	1	
-28	d'	d'	P	1	
-29	abord	abord	N	1	
-30	par	par	P	1	
-31	terre	terre	N	1	
-32	avant	avant	P	1	
-33	d'	d'	P	1	
-34	aller	aller	V	1	
-35	dans	dans	P	1	
-36	la	le	D	1	
-37	baignoire	baignoire	N	1	
-38	tellement	tellement	G	1	
-39	ça	ça	P	1	
-40	été	être	V	1	
-41	bien	bien	G	1	
-42	installé	installer	V	1	
-43	!	!	O	1	
+1	Dans	Dans	P	1	O
+2	la	le	D	1	O
+3	2ème	2ème	G	1	O
+4	chambre	chambre	N	1	O
+5	,	,	O	1	O
+6	nous	lui	Q	1	O
+7	avons	avoir	V	1	O
+8	eu	avoir	V	1	O
+9	la	le	D	1	O
+10	drôle	drôle	N	1	O
+11	de	de	P	1	O
+12	surprise	surprise	N	1	O
+13	de	de	P	1	O
+14	voir	voir	V	1	O
+15	que	que	C	1	O
+16	quand	quand	C	1	O
+17	on	on	Q	1	O
+18	allumait	allumer	V	1	O
+19	le	le	D	1	O
+20	robinet	robinet	N	1	O
+21	de	de	P	1	O
+22	la	le	D	1	O
+23	baignoire	baignoire	N	1	O
+24	,	,	O	1	O
+25	l'	le	D	1	O
+26	eau	eau	N	1	O
+27	coulait	couler	V	1	O
+28	d'	d'	P	1	O
+29	abord	abord	N	1	O
+30	par	par	P	1	O
+31	terre	terre	N	1	O
+32	avant	avant	P	1	O
+33	d'	d'	P	1	O
+34	aller	aller	V	1	O
+35	dans	dans	P	1	O
+36	la	le	D	1	O
+37	baignoire	baignoire	N	1	O
+38	tellement	tellement	G	1	O
+39	ça	ça	P	1	O
+40	été	être	V	1	O
+41	bien	bien	G	1	O
+42	installé	installer	V	1	O
+43	!	!	O	1	O
 
-1	Et	Et	C	1	
-2	elle	lui	Q	1	
-3	était	être	V	1	
-4	installée	installer	V	1	
-5	pour	pour	P	1	
-6	2	2	D	1	
-7	alors	alors	G	1	
-8	que	que	C	1	
-9	nous	nous	P	1	
-10	avions	avion	N	1	
-11	un	un	D	1	
-12	enfant	enfant	N	1	
-13	avec	avec	P	1	
-14	nous	lui	Q	1	
-15	.	.	O	1	
+1	Et	Et	C	1	O
+2	elle	lui	Q	1	O
+3	était	être	V	1	O
+4	installée	installer	V	1	O
+5	pour	pour	P	1	O
+6	2	2	D	1	O
+7	alors	alors	G	1	O
+8	que	que	C	1	O
+9	nous	nous	P	1	O
+10	avions	avion	N	1	O
+11	un	un	D	1	O
+12	enfant	enfant	N	1	O
+13	avec	avec	P	1	O
+14	nous	lui	Q	1	O
+15	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	attendu	attendre	V	1	
-4	toute	toute	O	1	
-5	la	le	D	1	
-6	journée	journée	N	1	
-7	,	,	O	1	
-8	en	en	P	1	
-9	ayant	avoir	V	1	
-10	demandé	demander	V	1	
-11	plusieurs	plusieurs	D	1	
-12	fois	foi	N	1	
-13	de	de	P	1	
-14	nous	lui	Q	1	
-15	mettre	mettre	V	1	
-16	un	un	D	1	
-17	lit	lit	N	1	
-18	et	et	C	1	
-19	du	du	D	1	
-20	linge	linge	N	1	
-21	de	de	P	1	
-22	toilette	toilette	N	1	
-23	pour	pour	P	1	
-24	l'	le	D	1	
-25	enfant	enfant	N	1	
-26	,	,	O	1	
-27	ce	ce	P	1	
-28	qui	qui	P	1	
-29	a	avoir	V	1	
-30	été	être	V	1	
-31	fait	faire	V	1	
-32	mais	mais	C	1	
-33	tard	tard	G	1	
-34	le	le	D	1	
-35	soir	soir	N	1	
-36	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	attendu	attendre	V	1	O
+4	toute	toute	O	1	O
+5	la	le	D	1	O
+6	journée	journée	N	1	O
+7	,	,	O	1	O
+8	en	en	P	1	O
+9	ayant	avoir	V	1	O
+10	demandé	demander	V	1	O
+11	plusieurs	plusieurs	D	1	O
+12	fois	foi	N	1	O
+13	de	de	P	1	O
+14	nous	lui	Q	1	O
+15	mettre	mettre	V	1	O
+16	un	un	D	1	O
+17	lit	lit	N	1	O
+18	et	et	C	1	O
+19	du	du	D	1	O
+20	linge	linge	N	1	O
+21	de	de	P	1	O
+22	toilette	toilette	N	1	O
+23	pour	pour	P	1	O
+24	l'	le	D	1	O
+25	enfant	enfant	N	1	O
+26	,	,	O	1	O
+27	ce	ce	P	1	O
+28	qui	qui	P	1	O
+29	a	avoir	V	1	O
+30	été	être	V	1	O
+31	fait	faire	V	1	O
+32	mais	mais	C	1	O
+33	tard	tard	G	1	O
+34	le	le	D	1	O
+35	soir	soir	N	1	O
+36	.	.	O	1	O
 
-1	La	le	D	1	
-2	clientèle	clientèle	N	1	
-3	est	être	V	1	
-4	de	de	P	1	
-5	tout	tout	D	1	
-6	âge	âge	N	1	
-7	,	,	O	1	
-8	mais	mais	C	1	
-9	il	il	Q	1	
-10	y	y	Q	1	
-11	avait	avoir	V	1	
-12	beaucoup	beaucoup	G	1	
-13	de	de	P	1	
-14	familles	famille	N	1	
-15	avec	avec	P	1	
-16	enfants	enfant	N	1	
-17	.	.	O	1	
+1	La	le	D	1	O
+2	clientèle	clientèle	N	1	O
+3	est	être	V	1	O
+4	de	de	P	1	O
+5	tout	tout	D	1	O
+6	âge	âge	N	1	O
+7	,	,	O	1	O
+8	mais	mais	C	1	O
+9	il	il	Q	1	O
+10	y	y	Q	1	O
+11	avait	avoir	V	1	O
+12	beaucoup	beaucoup	G	1	O
+13	de	de	P	1	O
+14	familles	famille	N	1	O
+15	avec	avec	P	1	O
+16	enfants	enfant	N	1	O
+17	.	.	O	1	O
 

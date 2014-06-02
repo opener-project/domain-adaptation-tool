@@ -1,133 +1,133 @@
-1	Central	Central	R	1	
-2	location	location	N	1	
-3	,	,	O	1	
-4	very	very	A	1	
-5	professional	professional	G	1	
+1	Central	Central	R	1	O
+2	location	location	N	1	O
+3	,	,	O	1	O
+4	very	very	A	1	O
+5	professional	professional	G	1	O
 
-1	This	this	D	1	
-2	is	be	V	1	
-3	a	a	D	1	
-4	great	great	G	1	
-5	hotel	hotel	N	1	
-6	for	for	P	1	
-7	location	location	N	1	
-8	,	,	O	1	
-9	very	very	A	1	
-10	close	close	A	1	
-11	to	to	P	1	
-12	the	the	D	1	
-13	main	main	G	1	
-14	railway	railway	N	1	
-15	station	station	N	1	
-16	and	and	C	1	
-17	walking	walking	N	1	
-18	distance	distance	N	1	
-19	to	to	P	1	
-20	the	the	D	1	
-21	centre	centre	N	1	
-22	of	of	P	1	
-23	town	town	N	1	
-24	.	.	O	1	
+1	This	this	D	1	O
+2	is	be	V	1	O
+3	a	a	D	1	O
+4	great	great	G	1	O
+5	hotel	hotel	N	1	O
+6	for	for	P	1	O
+7	location	location	N	1	O
+8	,	,	O	1	O
+9	very	very	A	1	O
+10	close	close	A	1	O
+11	to	to	P	1	O
+12	the	the	D	1	O
+13	main	main	G	1	O
+14	railway	railway	N	1	O
+15	station	station	N	1	O
+16	and	and	C	1	O
+17	walking	walking	N	1	O
+18	distance	distance	N	1	O
+19	to	to	P	1	O
+20	the	the	D	1	O
+21	centre	centre	N	1	O
+22	of	of	P	1	O
+23	town	town	N	1	O
+24	.	.	O	1	O
 
-1	The	the	D	1	
-2	actual	actual	G	1	
-3	neighbourhood	neighbourhood	N	1	
-4	is	be	V	1	
-5	not	not	A	1	
-6	great	great	G	1	
-7	however	however	A	1	
-8	,	,	O	1	
-9	mostly	mostly	A	1	
-10	betting	bet	V	1	
-11	shops	shop	N	1	
-12	and	and	C	1	
-13	convenience	convenience	N	1	
-14	stores	store	N	1	
-15	.	.	O	1	
+1	The	the	D	1	O
+2	actual	actual	G	1	O
+3	neighbourhood	neighbourhood	N	1	O
+4	is	be	V	1	O
+5	not	not	A	1	O
+6	great	great	G	1	O
+7	however	however	A	1	O
+8	,	,	O	1	O
+9	mostly	mostly	A	1	O
+10	betting	bet	V	1	O
+11	shops	shop	N	1	O
+12	and	and	C	1	O
+13	convenience	convenience	N	1	O
+14	stores	store	N	1	O
+15	.	.	O	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	is	be	V	1	
-4	very	very	A	1	
-5	secure	secure	G	1	
-6	however	however	A	1	
-7	,	,	O	1	
-8	with	with	P	1	
-9	swipe	swipe	G	1	
-10	card	card	N	1	
-11	access	access	N	1	
-12	to	to	P	1	
-13	each	each	D	1	
-14	floor	floor	N	1	
-15	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	is	be	V	1	O
+4	very	very	A	1	O
+5	secure	secure	G	1	O
+6	however	however	A	1	O
+7	,	,	O	1	O
+8	with	with	P	1	O
+9	swipe	swipe	G	1	O
+10	card	card	N	1	O
+11	access	access	N	1	O
+12	to	to	P	1	O
+13	each	each	D	1	O
+14	floor	floor	N	1	O
+15	.	.	O	1	O
 
-1	The	the	D	1	
-2	staff	staff	N	1	
-3	are	be	V	1	
-4	profession	profession	N	1	
-5	if	if	P	1	
-6	by	by	P	1	
-7	the	the	D	1	
-8	book	book	N	1	
-9	.	.	O	1	
+1	The	the	D	1	O
+2	staff	staff	N	1	O
+3	are	be	V	1	O
+4	profession	profession	N	1	O
+5	if	if	P	1	O
+6	by	by	P	1	O
+7	the	the	D	1	O
+8	book	book	N	1	O
+9	.	.	O	1	O
 
-1	As	as	P	1	
-2	a	a	D	1	
-3	gold	gold	N	1	
-4	member	member	N	1	
-5	I	i	Q	1	
-6	enjoyed	enjoy	V	1	
-7	an	a	D	1	
-8	upgrade	upgrade	N	1	
-9	to	to	P	1	
-10	a	a	D	1	
-11	very	very	A	1	
-12	large	large	G	1	
-13	room	room	N	1	
-14	with	with	P	1	
-15	lots	lot	N	1	
-16	of	of	P	1	
-17	floor	floor	N	1	
-18	space	space	N	1	
-19	.	.	O	1	
+1	As	as	P	1	O
+2	a	a	D	1	O
+3	gold	gold	N	1	O
+4	member	member	N	1	O
+5	I	i	Q	1	O
+6	enjoyed	enjoy	V	1	O
+7	an	a	D	1	O
+8	upgrade	upgrade	N	1	O
+9	to	to	P	1	O
+10	a	a	D	1	O
+11	very	very	A	1	O
+12	large	large	G	1	O
+13	room	room	N	1	O
+14	with	with	P	1	O
+15	lots	lot	N	1	O
+16	of	of	P	1	O
+17	floor	floor	N	1	O
+18	space	space	N	1	O
+19	.	.	O	1	O
 
-1	The	the	D	1	
-2	bathroom	bathroom	N	1	
-3	was	be	V	1	
-4	well	well	A	1	
-5	fitted	fit	V	1	
-6	but	but	C	1	
-7	could	can	O	1	
-8	have	have	V	1	
-9	been	be	V	1	
-10	bigger	bigger	G	1	
-11	given	give	V	1	
-12	the	the	D	1	
-13	size	size	N	1	
-14	of	of	P	1	
-15	the	the	D	1	
-16	room	room	N	1	
-17	.	.	O	1	
+1	The	the	D	1	O
+2	bathroom	bathroom	N	1	O
+3	was	be	V	1	O
+4	well	well	A	1	O
+5	fitted	fit	V	1	O
+6	but	but	C	1	O
+7	could	can	O	1	O
+8	have	have	V	1	O
+9	been	be	V	1	O
+10	bigger	bigger	G	1	O
+11	given	give	V	1	O
+12	the	the	D	1	O
+13	size	size	N	1	O
+14	of	of	P	1	O
+15	the	the	D	1	O
+16	room	room	N	1	O
+17	.	.	O	1	O
 
-1	Also	also	A	1	
-2	had	have	V	1	
-3	one	one	O	1	
-4	of	of	P	1	
-5	those	those	D	1	
-6	combined	combine	V	1	
-7	shampoo	shampoo	N	1	
-8	showergel	showergel	N	1	
-9	wall	wall	N	1	
-10	units	unit	N	1	
-11	which	which	O	1	
-12	is	be	V	1	
-13	displeasing	displease	V	1	
-14	.	.	O	1	
+1	Also	also	A	1	O
+2	had	have	V	1	O
+3	one	one	O	1	O
+4	of	of	P	1	O
+5	those	those	D	1	O
+6	combined	combine	V	1	O
+7	shampoo	shampoo	N	1	O
+8	showergel	showergel	N	1	O
+9	wall	wall	N	1	O
+10	units	unit	N	1	O
+11	which	which	O	1	O
+12	is	be	V	1	O
+13	displeasing	displease	V	1	O
+14	.	.	O	1	O
 
-1	Breakfast	Breakfast	R	1	
-2	was	be	V	1	
-3	substantial	substantial	G	1	
-4	and	and	C	1	
-5	included	included	G	1	
-6	.	.	O	1	
+1	Breakfast	Breakfast	R	1	O
+2	was	be	V	1	O
+3	substantial	substantial	G	1	O
+4	and	and	C	1	O
+5	included	included	G	1	O
+6	.	.	O	1	O
 

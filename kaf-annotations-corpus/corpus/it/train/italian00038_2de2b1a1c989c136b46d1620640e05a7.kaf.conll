@@ -1,73 +1,73 @@
-1	Not	not	R	1	
-2	for	for	R	1	
-3	me	me	Q	1	
+1	Not	not	R	1	O
+2	for	for	R	1	O
+3	me	me	Q	1	O
 
-1	Non	non	A	1	
-2	adatto	adattare	V	1	
-3	per	per	P	1	
-4	chi	chi	Q	1	
-5	non	non	A	1	
-6	ama	amare	V	1	
-7	fare	fare	V	1	
-8	le	lo	D	1	
-9	scale	scala	R	1	
-10	in	in	P	1	
-11	quanto	quanto	N	1	
-12	per	per	P	1	
-13	raggiungere	raggiungere	V	1	
-14	l'	lo	D	1	
-15	appartamento	appartamento	N	1	
-16	in	in	P	1	
-17	cui	cui	Q	1	
-18	è	è	N	1	
-19	stato	essere	V	1	
-20	ricavato	ricavare	V	1	
-21	la	lo	D	1	
-22	Guest	guest	R	1	
-23	House	house	N	1	
-24	bisogna	bisognare	V	1	
-25	scalare	scalare	V	1	
-26	77	77	N	1	
-27	ripidi	ripido	G	1	
-28	gradini	gradino	N	1	
-29	.	.	O	1	
+1	Non	non	A	1	O
+2	adatto	adattare	V	1	O
+3	per	per	P	1	O
+4	chi	chi	Q	1	O
+5	non	non	A	1	O
+6	ama	amare	V	1	O
+7	fare	fare	V	1	O
+8	le	lo	D	1	O
+9	scale	scala	R	1	O
+10	in	in	P	1	O
+11	quanto	quanto	N	1	O
+12	per	per	P	1	O
+13	raggiungere	raggiungere	V	1	O
+14	l'	lo	D	1	O
+15	appartamento	appartamento	N	1	O
+16	in	in	P	1	O
+17	cui	cui	Q	1	O
+18	è	è	N	1	O
+19	stato	essere	V	1	O
+20	ricavato	ricavare	V	1	O
+21	la	lo	D	1	O
+22	Guest	guest	R	1	O
+23	House	house	N	1	O
+24	bisogna	bisognare	V	1	O
+25	scalare	scalare	V	1	O
+26	77	77	N	1	O
+27	ripidi	ripido	G	1	O
+28	gradini	gradino	N	1	O
+29	.	.	O	1	O
 
-1	La	lo	D	1	
-2	camera	camera	N	1	
-3	assegnata	assegnare	V	1	
-4	non	non	A	1	
-5	aveva	avere	V	1	
-6	alcun	alcun	G	1	
-7	particolare	particolare	N	1	
-8	fascino	fascino	N	1	
-9	ed	ed	Q	1	
-10	il	lo	D	1	
-11	bagno	bagno	N	1	
-12	outdoor	outdoor	G	1	
-13	assegnato	assegnare	V	1	
-14	era	essere	V	1	
-15	cieco	cieco	N	1	
-16	e	e	Q	1	
-17	senza	senza	P	1	
-18	bidet	bidet	N	1	
-19	.	.	O	1	
+1	La	lo	D	1	O
+2	camera	camera	N	1	O
+3	assegnata	assegnare	V	1	O
+4	non	non	A	1	O
+5	aveva	avere	V	1	O
+6	alcun	alcun	G	1	O
+7	particolare	particolare	N	1	O
+8	fascino	fascino	N	1	O
+9	ed	ed	Q	1	O
+10	il	lo	D	1	O
+11	bagno	bagno	N	1	O
+12	outdoor	outdoor	G	1	O
+13	assegnato	assegnare	V	1	O
+14	era	essere	V	1	O
+15	cieco	cieco	N	1	O
+16	e	e	Q	1	O
+17	senza	senza	P	1	O
+18	bidet	bidet	N	1	O
+19	.	.	O	1	O
 
-1	Resta	restare	V	1	
-2	conformata	conformare	V	1	
-3	la	lo	D	1	
-4	posizione	posizione	N	1	
-5	centrale	centrale	G	1	
-6	comoda	comodo	G	1	
-7	,	,	O	1	
-8	ma	ma	Q	1	
-9	si	si	Q	1	
-10	possono	potere	V	1	
-11	trovare	trovare	V	1	
-12	alternative	alternativa	N	1	
-13	migliori	migliori	N	1	
-14	per	per	P	1	
-15	qualità	qualità	G	1	
-16	e	e	Q	1	
-17	prezzo	prezzo	N	1	
-18	.	.	O	1	
+1	Resta	restare	V	1	O
+2	conformata	conformare	V	1	O
+3	la	lo	D	1	O
+4	posizione	posizione	N	1	O
+5	centrale	centrale	G	1	O
+6	comoda	comodo	G	1	O
+7	,	,	O	1	O
+8	ma	ma	Q	1	O
+9	si	si	Q	1	O
+10	possono	potere	V	1	O
+11	trovare	trovare	V	1	O
+12	alternative	alternativa	N	1	O
+13	migliori	migliori	N	1	O
+14	per	per	P	1	O
+15	qualità	qualità	G	1	O
+16	e	e	Q	1	O
+17	prezzo	prezzo	N	1	O
+18	.	.	O	1	O
 

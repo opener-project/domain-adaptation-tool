@@ -1,51 +1,51 @@
-1	Muy	Muy	R	1	
-2	buena	buena	N	1	
-3	situación	situación	N	1	
+1	Muy	Muy	R	1	O
+2	buena	buena	N	1	O
+3	situación	situación	N	1	O
 
-1	Hotel	Hotel	R	1	
-2	situado	situado	V	1	
-3	a	a	D	1	
-4	cinco	cinco	N	1	
-5	minutos	minutos	O	1	
-6	de	de	O	1	
-7	todos	todos	O	1	
-8	los	los	O	1	
-9	sitios	sitios	O	1	
-10	,	,	O	1	
-11	personal	personal	G	1	
-12	muy	muy	N	1	
-13	amable	amable	G	1	
-14	,	,	O	1	
-15	habitacion	habitacion	G	1	
-16	pequeña	pequeña	N	1	
-17	pero	pero	O	1	
-18	bien	bien	O	1	
-19	equipada	equipada	O	1	
-20	y	y	G	1	
-21	muy	muy	G	1	
-22	bien	bien	G	1	
-23	insonorizada	insonorizada	N	1	
-24	,	,	O	1	
-25	tiene	tiene	N	1	
-26	un	un	G	1	
-27	patio	patio	N	1	
-28	interior	interior	P	1	
-29	con	con	G	1	
-30	cascada	cascada	N	1	
-31	de	de	P	1	
-32	agua	agua	D	1	
-33	y	y	G	1	
-34	plantas	plantas	N	1	
-35	muy	muy	G	1	
-36	agradable	agradable	G	1	
-37	,	,	O	1	
-38	el	el	N	1	
-39	desayuno	desayuno	N	1	
-40	poco	poco	N	1	
-41	variado	variado	V	1	
-42	pero	pero	O	1	
-43	de	de	O	1	
-44	buena	buena	O	1	
-45	calidad	calidad	N	1	
-46	.	.	O	1	
+1	Hotel	Hotel	R	1	O
+2	situado	situado	V	1	O
+3	a	a	D	1	O
+4	cinco	cinco	N	1	O
+5	minutos	minutos	O	1	O
+6	de	de	O	1	O
+7	todos	todos	O	1	O
+8	los	los	O	1	O
+9	sitios	sitios	O	1	O
+10	,	,	O	1	O
+11	personal	personal	G	1	O
+12	muy	muy	N	1	O
+13	amable	amable	G	1	O
+14	,	,	O	1	O
+15	habitacion	habitacion	G	1	O
+16	pequeña	pequeña	N	1	O
+17	pero	pero	O	1	O
+18	bien	bien	O	1	O
+19	equipada	equipada	O	1	O
+20	y	y	G	1	O
+21	muy	muy	G	1	O
+22	bien	bien	G	1	O
+23	insonorizada	insonorizada	N	1	O
+24	,	,	O	1	O
+25	tiene	tiene	N	1	O
+26	un	un	G	1	O
+27	patio	patio	N	1	O
+28	interior	interior	P	1	O
+29	con	con	G	1	O
+30	cascada	cascada	N	1	O
+31	de	de	P	1	O
+32	agua	agua	D	1	O
+33	y	y	G	1	O
+34	plantas	plantas	N	1	O
+35	muy	muy	G	1	O
+36	agradable	agradable	G	1	O
+37	,	,	O	1	O
+38	el	el	N	1	O
+39	desayuno	desayuno	N	1	O
+40	poco	poco	N	1	O
+41	variado	variado	V	1	O
+42	pero	pero	O	1	O
+43	de	de	O	1	O
+44	buena	buena	O	1	O
+45	calidad	calidad	N	1	O
+46	.	.	O	1	O
 

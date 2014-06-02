@@ -1,72 +1,72 @@
-1	Centralissimo	centralissimo	R	1	
-2	,	,	O	1	
-3	piccolissimo	piccolissimo	G	1	
-4	.	.	O	1	
+1	Centralissimo	centralissimo	R	1	O
+2	,	,	O	1	O
+3	piccolissimo	piccolissimo	G	1	O
+4	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	questo	questo	G	1	
-5	hotel	hotel	N	1	
-6	per	per	P	1	
-7	il	lo	D	1	
-8	capodanno	capodanno	N	1	
-9	,	,	O	1	
-10	difficile	difficile	G	1	
-11	trovare	trovare	V	1	
-12	soluzioni	soluzione	N	1	
-13	più	piu'	G	1	
-14	economiche	economico	G	1	
-15	nella	nella	P	1	
-16	zona	zona	N	1	
-17	del	del	P	1	
-18	Marais	marais	R	1	ne=POI
-19	,	,	O	1	
-20	raggiungibile	raggiungibile	G	1	
-21	in	in	P	1	
-22	2	2	G	1	
-23	minuti	minuto	N	1	
-24	a	a	P	1	
-25	piedi	piede	N	1	
-26	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	questo	questo	G	1	O
+5	hotel	hotel	N	1	O
+6	per	per	P	1	O
+7	il	lo	D	1	O
+8	capodanno	capodanno	N	1	O
+9	,	,	O	1	O
+10	difficile	difficile	G	1	O
+11	trovare	trovare	V	1	O
+12	soluzioni	soluzione	N	1	O
+13	più	piu'	G	1	O
+14	economiche	economico	G	1	O
+15	nella	nella	P	1	O
+16	zona	zona	N	1	O
+17	del	del	P	1	O
+18	Marais	marais	R	1	I-POI
+19	,	,	O	1	O
+20	raggiungibile	raggiungibile	G	1	O
+21	in	in	P	1	O
+22	2	2	G	1	O
+23	minuti	minuto	N	1	O
+24	a	a	P	1	O
+25	piedi	piede	N	1	O
+26	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	è	è	N	1	
-4	quello	quello	Q	1	
-5	che	che	Q	1	
-6	è	è	N	1	
-7	...	...	O	1	
-8	piccolo	piccolo	G	1	
-9	e	e	Q	1	
-10	vecchio	vecchio	G	1	
-11	,	,	O	1	
-12	meglio	meglio	A	1	
-13	evitare	evitare	V	1	
-14	la	lo	D	1	
-15	colazione	colazione	N	1	
-16	ed	ed	Q	1	
-17	andare	andare	V	1	
-18	nella	nella	P	1	
-19	boulangerie	boulangerie	R	1	
-20	nella	nella	P	1	
-21	strada	strada	N	1	
-22	principale	principale	N	1	
-23	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	è	è	N	1	O
+4	quello	quello	Q	1	O
+5	che	che	Q	1	O
+6	è	è	N	1	O
+7	...	...	O	1	O
+8	piccolo	piccolo	G	1	O
+9	e	e	Q	1	O
+10	vecchio	vecchio	G	1	O
+11	,	,	O	1	O
+12	meglio	meglio	A	1	O
+13	evitare	evitare	V	1	O
+14	la	lo	D	1	O
+15	colazione	colazione	N	1	O
+16	ed	ed	Q	1	O
+17	andare	andare	V	1	O
+18	nella	nella	P	1	O
+19	boulangerie	boulangerie	R	1	O
+20	nella	nella	P	1	O
+21	strada	strada	N	1	O
+22	principale	principale	N	1	O
+23	.	.	O	1	O
 
-1	Un	uno	D	1	
-2	giorno	giorno	N	1	
-3	siamo	essere	V	1	
-4	rimasti	rimanere	V	1	
-5	senza	senza	P	1	
-6	acqua	acqua	N	1	
-7	calda	caldo	G	1	
-8	,	,	O	1	
-9	problema	problema	N	1	
-10	tuttavia	tuttavia	Q	1	
-11	risolto	risolvere	V	1	
-12	il	lo	D	1	
-13	giorno	giorno	N	1	
-14	seguente	seguire	V	1	
-15	.	.	O	1	
+1	Un	uno	D	1	O
+2	giorno	giorno	N	1	O
+3	siamo	essere	V	1	O
+4	rimasti	rimanere	V	1	O
+5	senza	senza	P	1	O
+6	acqua	acqua	N	1	O
+7	calda	caldo	G	1	O
+8	,	,	O	1	O
+9	problema	problema	N	1	O
+10	tuttavia	tuttavia	Q	1	O
+11	risolto	risolvere	V	1	O
+12	il	lo	D	1	O
+13	giorno	giorno	N	1	O
+14	seguente	seguire	V	1	O
+15	.	.	O	1	O
 

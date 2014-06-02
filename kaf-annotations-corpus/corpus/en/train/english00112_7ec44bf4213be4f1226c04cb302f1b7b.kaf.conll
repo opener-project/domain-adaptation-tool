@@ -1,152 +1,152 @@
-1	Inclusive	inclusive	G	1	
-2	or	or	C	1	
-3	'	'	O	1	
-4	All	all	A	1	
-5	inclusive	inclusive	G	1	
-6	'	'	O	1	
-7	that	that	O	1	
-8	is	be	V	1	
-9	the	the	D	1	
-10	question	question	N	1	
-11	?	?	O	1	
+1	Inclusive	inclusive	G	1	O
+2	or	or	C	1	O
+3	'	'	O	1	O
+4	All	all	A	1	O
+5	inclusive	inclusive	G	1	O
+6	'	'	O	1	O
+7	that	that	O	1	O
+8	is	be	V	1	O
+9	the	the	D	1	O
+10	question	question	N	1	O
+11	?	?	O	1	O
 
-1	Lovely	lovely	A	1	
-2	and	and	C	1	
-3	clean	clean	A	1	
-4	,	,	O	1	
-5	nice	nice	G	1	
-6	rooms	room	N	1	
-7	,	,	O	1	
-8	nice	nice	G	1	
-9	location	location	N	1	
-10	.	.	O	1	
+1	Lovely	lovely	A	1	O
+2	and	and	C	1	O
+3	clean	clean	A	1	O
+4	,	,	O	1	O
+5	nice	nice	G	1	O
+6	rooms	room	N	1	O
+7	,	,	O	1	O
+8	nice	nice	G	1	O
+9	location	location	N	1	O
+10	.	.	O	1	O
 
-1	Paaid	Paaid	R	1	
-2	for	for	P	1	
-3	All	all	D	1	
-4	inclusive	inclusive	G	1	
-5	but	but	C	1	
-6	this	this	D	1	
-7	was	be	V	1	
-8	not	not	A	1	
-9	exactly	exactly	A	1	
-10	what	what	Q	1	
-11	I	i	Q	1	
-12	received	receive	V	1	
-13	,	,	O	1	
-14	for	for	P	1	
-15	this	this	D	1	
-16	I	i	Q	1	
-17	had	have	V	1	
-18	to	to	P	1	
-19	pay	pay	V	1	
-20	'	'	O	1	
-21	extra	extra	G	1	
-22	'	'	O	1	
-23	,	,	O	1	
-24	All	all	D	1	
-25	inclusive	inclusive	G	1	
-26	to	to	P	1	
-27	this	this	D	1	
-28	hotel	hotel	N	1	
-29	is	be	V	1	
-30	meals	meal	N	1	
-31	in	in	P	1	
-32	the	the	D	1	
-33	main	main	G	1	
-34	self	self	N	1	
-35	sevice	sevice	N	1	
-36	restaurant	restaurant	N	1	
-37	,	,	O	1	
-38	does	do	V	1	
-39	not	not	A	1	
-40	include	include	V	1	
-41	any	any	D	1	
-42	other	other	G	1	
-43	restaurant	restaurant	N	1	
-44	on	on	P	1	
-45	the	the	D	1	
-46	site	site	N	1	
-47	,	,	O	1	
-48	the	the	D	1	
-49	local	local	G	1	
-50	fish	fish	N	1	
-51	market	market	N	1	
-52	evening	evening	N	1	
-53	was	be	V	1	
-54	extra	extra	G	1	
-55	as	as	A	1	
-56	well	well	A	1	
-57	as	as	P	1	
-58	the	the	D	1	
-59	ala	ala	N	1	
-60	carte	carte	N	1	
-61	,	,	O	1	
-62	they	they	Q	1	
-63	do	do	V	1	
-64	give	give	V	1	
-65	you	you	Q	1	
-66	a	a	D	1	
-67	RS375	RS375	R	1	
-68	off	off	P	1	
-69	the	the	D	1	
-70	ala	ala	N	1	
-71	carte	carte	N	1	
-72	menu	menu	N	1	
-73	which	which	O	1	
-74	is	be	V	1	
-75	an	a	D	1	
-76	insult	insult	N	1	
-77	due	due	G	1	
-78	to	to	P	1	
-79	the	the	D	1	
-80	price	price	N	1	
-81	charged	charge	V	1	
-82	for	for	P	1	
-83	self	self	Q	1	
-84	service	service	N	1	
-85	.	.	O	1	
+1	Paaid	Paaid	R	1	O
+2	for	for	P	1	O
+3	All	all	D	1	O
+4	inclusive	inclusive	G	1	O
+5	but	but	C	1	O
+6	this	this	D	1	O
+7	was	be	V	1	O
+8	not	not	A	1	O
+9	exactly	exactly	A	1	O
+10	what	what	Q	1	O
+11	I	i	Q	1	O
+12	received	receive	V	1	O
+13	,	,	O	1	O
+14	for	for	P	1	O
+15	this	this	D	1	O
+16	I	i	Q	1	O
+17	had	have	V	1	O
+18	to	to	P	1	O
+19	pay	pay	V	1	O
+20	'	'	O	1	O
+21	extra	extra	G	1	O
+22	'	'	O	1	O
+23	,	,	O	1	O
+24	All	all	D	1	O
+25	inclusive	inclusive	G	1	O
+26	to	to	P	1	O
+27	this	this	D	1	O
+28	hotel	hotel	N	1	O
+29	is	be	V	1	O
+30	meals	meal	N	1	O
+31	in	in	P	1	O
+32	the	the	D	1	O
+33	main	main	G	1	O
+34	self	self	N	1	O
+35	sevice	sevice	N	1	O
+36	restaurant	restaurant	N	1	O
+37	,	,	O	1	O
+38	does	do	V	1	O
+39	not	not	A	1	O
+40	include	include	V	1	O
+41	any	any	D	1	O
+42	other	other	G	1	O
+43	restaurant	restaurant	N	1	O
+44	on	on	P	1	O
+45	the	the	D	1	O
+46	site	site	N	1	O
+47	,	,	O	1	O
+48	the	the	D	1	O
+49	local	local	G	1	O
+50	fish	fish	N	1	O
+51	market	market	N	1	O
+52	evening	evening	N	1	O
+53	was	be	V	1	O
+54	extra	extra	G	1	O
+55	as	as	A	1	O
+56	well	well	A	1	O
+57	as	as	P	1	O
+58	the	the	D	1	O
+59	ala	ala	N	1	O
+60	carte	carte	N	1	O
+61	,	,	O	1	O
+62	they	they	Q	1	O
+63	do	do	V	1	O
+64	give	give	V	1	O
+65	you	you	Q	1	O
+66	a	a	D	1	O
+67	RS375	RS375	R	1	O
+68	off	off	P	1	O
+69	the	the	D	1	O
+70	ala	ala	N	1	O
+71	carte	carte	N	1	O
+72	menu	menu	N	1	O
+73	which	which	O	1	O
+74	is	be	V	1	O
+75	an	a	D	1	O
+76	insult	insult	N	1	O
+77	due	due	G	1	O
+78	to	to	P	1	O
+79	the	the	D	1	O
+80	price	price	N	1	O
+81	charged	charge	V	1	O
+82	for	for	P	1	O
+83	self	self	Q	1	O
+84	service	service	N	1	O
+85	.	.	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	no	no	D	1	
-4	wine	wine	N	1	
-5	included	include	V	1	
-6	in	in	P	1	
-7	the	the	D	1	
-8	All	All	R	1	
-9	inclusive	inclusive	V	1	
-10	,	,	O	1	
-11	not	not	A	1	
-12	even	even	A	1	
-13	with	with	P	1	
-14	meals	meal	N	1	
-15	,	,	O	1	
-16	this	this	D	1	
-17	has	have	V	1	
-18	to	to	P	1	
-19	be	be	V	1	
-20	paid	pay	V	1	
-21	extra	extra	G	1	
-22	,	,	O	1	
-23	no	no	D	1	
-24	liquires	liquires	N	1	
-25	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	no	no	D	1	O
+4	wine	wine	N	1	O
+5	included	include	V	1	O
+6	in	in	P	1	O
+7	the	the	D	1	O
+8	All	All	R	1	O
+9	inclusive	inclusive	V	1	O
+10	,	,	O	1	O
+11	not	not	A	1	O
+12	even	even	A	1	O
+13	with	with	P	1	O
+14	meals	meal	N	1	O
+15	,	,	O	1	O
+16	this	this	D	1	O
+17	has	have	V	1	O
+18	to	to	P	1	O
+19	be	be	V	1	O
+20	paid	pay	V	1	O
+21	extra	extra	G	1	O
+22	,	,	O	1	O
+23	no	no	D	1	O
+24	liquires	liquires	N	1	O
+25	.	.	O	1	O
 
-1	You	you	Q	1	
-2	can	can	O	1	
-3	pay	pay	V	1	
-4	exrra	exrra	N	1	
-5	for	for	P	1	
-6	these	these	D	1	
-7	by	by	P	1	
-8	paying	pay	V	1	
-9	for	for	P	1	
-10	a	a	D	1	
-11	'	'	O	1	
-12	gold	gold	N	1	
-13	all	all	D	1	
-14	inclusive	inclusive	G	1	
-15	'	'	O	1	
-16	package	package	N	1	
+1	You	you	Q	1	O
+2	can	can	O	1	O
+3	pay	pay	V	1	O
+4	exrra	exrra	N	1	O
+5	for	for	P	1	O
+6	these	these	D	1	O
+7	by	by	P	1	O
+8	paying	pay	V	1	O
+9	for	for	P	1	O
+10	a	a	D	1	O
+11	'	'	O	1	O
+12	gold	gold	N	1	O
+13	all	all	D	1	O
+14	inclusive	inclusive	G	1	O
+15	'	'	O	1	O
+16	package	package	N	1	O
 

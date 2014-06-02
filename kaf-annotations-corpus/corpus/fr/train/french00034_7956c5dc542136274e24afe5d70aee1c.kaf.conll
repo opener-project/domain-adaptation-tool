@@ -1,58 +1,58 @@
-1	A	A	P	1	
-2	éviter	éviter	V	1	
-3	!	!	O	1	
+1	A	A	P	1	O
+2	éviter	éviter	V	1	O
+3	!	!	O	1	O
 
-1	Parc	Parc	G	1	
-2	très	très	G	1	
-3	cher	cher	G	1	
-4	.	.	O	1	
+1	Parc	Parc	G	1	O
+2	très	très	G	1	O
+3	cher	cher	G	1	O
+4	.	.	O	1	O
 
-1	Ensemble	Ensemble	G	1	
-2	assez	assez	G	1	
-3	vieux	vieux	G	1	
-4	et	et	C	1	
-5	surtout	surtout	G	1	
-6	pas	pas	G	1	
-7	entretenu	entretenir	V	1	
-8	du	du	D	1	
-9	tout	tout	P	1	
-10	.	.	O	1	
+1	Ensemble	Ensemble	G	1	O
+2	assez	assez	G	1	O
+3	vieux	vieux	G	1	O
+4	et	et	C	1	O
+5	surtout	surtout	G	1	O
+6	pas	pas	G	1	O
+7	entretenu	entretenir	V	1	O
+8	du	du	D	1	O
+9	tout	tout	P	1	O
+10	.	.	O	1	O
 
-1	Cage	cage	N	1	
-2	en	en	P	1	
-3	mauvais	mauvais	G	1	
-4	état	état	N	1	
-5	.	.	O	1	
+1	Cage	cage	N	1	O
+2	en	en	P	1	O
+3	mauvais	mauvais	G	1	O
+4	état	état	N	1	O
+5	.	.	O	1	O
 
-1	Et	Et	C	1	
-2	le	le	D	1	
-3	pire	pire	N	1	
-4	,	,	O	1	
-5	accès	accès	N	1	
-6	autoriser	autoriser	G	1	
-7	en	en	P	1	
-8	voiture	voiture	N	1	
-9	....	....	O	1	
-10	là	là	G	1	
-11	on	on	Q	1	
-12	touche	toucher	V	1	
-13	le	le	D	1	
-14	fond	fond	N	1	
-15	!	!	O	1	
+1	Et	Et	C	1	O
+2	le	le	D	1	O
+3	pire	pire	N	1	O
+4	,	,	O	1	O
+5	accès	accès	N	1	O
+6	autoriser	autoriser	G	1	O
+7	en	en	P	1	O
+8	voiture	voiture	N	1	O
+9	....	....	O	1	O
+10	là	là	G	1	O
+11	on	on	Q	1	O
+12	touche	toucher	V	1	O
+13	le	le	D	1	O
+14	fond	fond	N	1	O
+15	!	!	O	1	O
 
-1	Quelle	quel	D	1	
-2	éducation	éducation	N	1	
-3	donnée	donner	V	1	
-4	aux	aux	P	1	
-5	enfants	enfant	N	1	
-6	que	que	P	1	
-7	de	de	P	1	
-8	visiter	visiter	V	1	
-9	un	un	D	1	
-10	zoo	zoo	N	1	
-11	en	en	P	1	
-12	voiture	voiture	N	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
+1	Quelle	quel	D	1	O
+2	éducation	éducation	N	1	O
+3	donnée	donner	V	1	O
+4	aux	aux	P	1	O
+5	enfants	enfant	N	1	O
+6	que	que	P	1	O
+7	de	de	P	1	O
+8	visiter	visiter	V	1	O
+9	un	un	D	1	O
+10	zoo	zoo	N	1	O
+11	en	en	P	1	O
+12	voiture	voiture	N	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
 

@@ -1,40 +1,40 @@
-1	Prima	prima	G	1	
-2	accommodatie	accommodatie	N	1	
-3	,	,	O	1	
-4	attente	attent	G	1	
-5	bediening	bediening	N	1	
+1	Prima	prima	G	1	O
+2	accommodatie	accommodatie	N	1	O
+3	,	,	O	1	O
+4	attente	attent	G	1	O
+5	bediening	bediening	N	1	O
 
-1	prima	prima	G	1	
-2	hotel	hotel	N	1	
-3	,	,	O	1	
-4	attente	attent	G	1	
-5	bediening	bediening	N	1	
-6	,	,	O	1	
-7	ruime	ruim	G	1	
-8	kamers.	kamer	N	1	
-9	kamers.	.	O	1	
-10	vergeten	vergeten	V	1	
-11	apparatuur	apparatuur	N	1	
-12	is	zijn	V	1	
-13	later	laat|later	G	1	
-14	kostenloos	kostenloos	O	1	
-15	toegezonden.	toezenden	V	1	
-16	toegezonden.	.	O	1	
-17	restaurant	restaurant	N	1	
-18	was	wezen|zijn	V	1	
-19	goed	goed	G	1	
-20	,	,	O	1	
-21	zowel	zowel	C	1	
-22	van	van	P	1	
-23	de	de	D	1	
-24	kaart	kaart	N	1	
-25	als	als	C	1	
-26	buffet.	buffet	N	1	
-27	buffet.	.	O	1	
-28	aan	aan	P	1	
-29	de	de	D	1	
-30	snelweg	snelweg	N	1	
-31	echter	echter	A	1	
-32	zonder	zonder	P	1	
-33	overlasg	overlasg	O	1	
+1	prima	prima	G	1	O
+2	hotel	hotel	N	1	O
+3	,	,	O	1	O
+4	attente	attent	G	1	O
+5	bediening	bediening	N	1	O
+6	,	,	O	1	O
+7	ruime	ruim	G	1	O
+8	kamers.	kamer	N	1	O
+9	kamers.	.	O	1	O
+10	vergeten	vergeten	V	1	O
+11	apparatuur	apparatuur	N	1	O
+12	is	zijn	V	1	O
+13	later	laat|later	G	1	O
+14	kostenloos	kostenloos	O	1	O
+15	toegezonden.	toezenden	V	1	O
+16	toegezonden.	.	O	1	O
+17	restaurant	restaurant	N	1	O
+18	was	wezen|zijn	V	1	O
+19	goed	goed	G	1	O
+20	,	,	O	1	O
+21	zowel	zowel	C	1	O
+22	van	van	P	1	O
+23	de	de	D	1	O
+24	kaart	kaart	N	1	O
+25	als	als	C	1	O
+26	buffet.	buffet	N	1	O
+27	buffet.	.	O	1	O
+28	aan	aan	P	1	O
+29	de	de	D	1	O
+30	snelweg	snelweg	N	1	O
+31	echter	echter	A	1	O
+32	zonder	zonder	P	1	O
+33	overlasg	overlasg	O	1	O
 

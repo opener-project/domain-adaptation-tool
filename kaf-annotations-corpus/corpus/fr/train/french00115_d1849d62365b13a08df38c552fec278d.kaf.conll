@@ -1,84 +1,90 @@
-1	Bon	bon	G	1	
-2	camping	camping	N	1	
-3	dans	dans	P	1	
-4	l'	le	D	1	
-5	ensemble	ensemble	N	1	
+1	Bon	bon	G	1	O
+2	camping	camping	N	1	O
+3	dans	dans	P	1	O
+4	l'	le	D	1	O
+5	ensemble	ensemble	N	1	O
 
-1	Camping_la_baie_des_anges_la_ciotat	camping_le_baie_des_ange_le_ciotat	R	1	ne=Hotel
-2	est	être	V	1	
-3	un	un	D	1	
-4	camping	camping	N	1	
-5	correcte	correcte	V	1	
-6	,	,	O	1	
-7	les	le	D	1	
-8	mobil	mobil	N	1	
-9	homes	homes	G	1	
-10	sont	être	V	1	
-11	biens	bien	N	1	
-12	le	le	D	1	
-13	personnel	personnel	N	1	
-14	est	être	V	1	
-15	disponible	disponible	G	1	
-16	,	,	O	1	
-17	le	le	D	1	
-18	rapport	rapport	N	1	
-19	qualite	qualite	G	1	
-20	prix	prix	N	1	
-21	est	être	V	1	
-22	tres	tres	G	1	
-23	satisfaisant	satisfaisant	G	1	
-24	.	.	O	1	
+1	Camping	camping	N	1	I-Hotel
+2	la	le	D	1	I-Hotel
+3	baie	baie	N	1	I-Hotel
+4	des	des	P	1	I-Hotel
+5	anges	ange	N	1	I-Hotel
+6	la	le	D	1	I-Hotel
+7	ciotat	ciotat	N	1	I-Hotel
+8	est	être	V	1	O
+9	un	un	D	1	O
+10	camping	camping	N	1	O
+11	correcte	correcte	V	1	O
+12	,	,	O	1	O
+13	les	le	D	1	O
+14	mobil	mobil	N	1	O
+15	homes	homes	G	1	O
+16	sont	être	V	1	O
+17	biens	bien	N	1	O
+18	le	le	D	1	O
+19	personnel	personnel	N	1	O
+20	est	être	V	1	O
+21	disponible	disponible	G	1	O
+22	,	,	O	1	O
+23	le	le	D	1	O
+24	rapport	rapport	N	1	O
+25	qualite	qualite	G	1	O
+26	prix	prix	N	1	O
+27	est	être	V	1	O
+28	tres	tres	G	1	O
+29	satisfaisant	satisfaisant	G	1	O
+30	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	n'	n'	G	1	
-3	y	y	Q	1	
-4	a	avoir	V	1	
-5	pas	pas	G	1	
-6	d'	d'	P	1	
-7	animation	animation	N	1	
-8	le	le	D	1	
-9	week	week	N	1	
-10	·	·	G	1	
-11	end	end	G	1	
-12	et	et	C	1	
-13	tout	tout	G	1	
-14	depent	depent	V	1	
-15	lemplacement	lemplacement	O	1	
-16	il	il	Q	1	
-17	y	y	Q	1	
-18	a	avoir	V	1	
-19	le	le	D	1	
-20	train	train	N	1	
-21	qui	qui	P	1	
-22	passe	passer	V	1	
-23	juste	juste	G	1	
-24	au	au	P	1	
-25	dessus	dessus	G	1	
-26	,	,	O	1	
-27	pas	pas	G	1	
-28	assez	assez	G	1	
-29	d'	d'	P	1	
-30	activiter	activiter	V	1	
-31	pour	pour	P	1	
-32	les	le	D	1	
-33	adultes	adulte	N	1	
-34	,	,	O	1	
-35	la	le	D	1	
-36	salle	salle	N	1	
-37	de	de	P	1	
-38	sport	sport	N	1	
-39	ferme	ferme	G	1	
-40	et	et	C	1	
-41	piscine	piscine	N	1	
-42	non	non	G	1	
-43	chaufee	chaufee	V	1	
-44	au	au	P	1	
-45	mois	moi	N	1	
-46	de	de	P	1	
-47	juin	juin	R	1	ne=Date
-48	mais	mais	C	1	
-49	bien	bien	G	1	
-50	dans	dans	P	1	
-51	l'	le	D	1	
-52	ensemble	ensemble	N	1	
+1	Il	Il	Q	1	O
+2	n'	n'	G	1	O
+3	y	y	Q	1	O
+4	a	avoir	V	1	O
+5	pas	pas	G	1	O
+6	d'	d'	P	1	O
+7	animation	animation	N	1	O
+8	le	le	D	1	O
+9	week	week	N	1	O
+10	·	·	G	1	O
+11	end	end	G	1	O
+12	et	et	C	1	O
+13	tout	tout	G	1	O
+14	depent	depent	V	1	O
+15	lemplacement	lemplacement	O	1	O
+16	il	il	Q	1	O
+17	y	y	Q	1	O
+18	a	avoir	V	1	O
+19	le	le	D	1	O
+20	train	train	N	1	O
+21	qui	qui	P	1	O
+22	passe	passer	V	1	O
+23	juste	juste	G	1	O
+24	au	au	P	1	O
+25	dessus	dessus	G	1	O
+26	,	,	O	1	O
+27	pas	pas	G	1	O
+28	assez	assez	G	1	O
+29	d'	d'	P	1	O
+30	activiter	activiter	V	1	O
+31	pour	pour	P	1	O
+32	les	le	D	1	O
+33	adultes	adulte	N	1	O
+34	,	,	O	1	O
+35	la	le	D	1	O
+36	salle	salle	N	1	O
+37	de	de	P	1	O
+38	sport	sport	N	1	O
+39	ferme	ferme	G	1	O
+40	et	et	C	1	O
+41	piscine	piscine	N	1	O
+42	non	non	G	1	O
+43	chaufee	chaufee	V	1	O
+44	au	au	P	1	O
+45	mois	moi	N	1	O
+46	de	de	P	1	O
+47	juin	juin	R	1	I-Date
+48	mais	mais	C	1	O
+49	bien	bien	G	1	O
+50	dans	dans	P	1	O
+51	l'	le	D	1	O
+52	ensemble	ensemble	N	1	O
 

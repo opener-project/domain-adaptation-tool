@@ -1,141 +1,141 @@
-1	I	i	Q	1	
-2	am	be	V	1	
-3	very	very	A	1	
-4	upset	upset	G	1	
-5	about	about	P	1	
-6	this	this	D	1	
-7	hotel	hotel	N	1	
-8	!	!	O	1	
+1	I	i	Q	1	O
+2	am	be	V	1	O
+3	very	very	A	1	O
+4	upset	upset	G	1	O
+5	about	about	P	1	O
+6	this	this	D	1	O
+7	hotel	hotel	N	1	O
+8	!	!	O	1	O
 
-1	The	the	D	1	
-2	room	room	N	1	
-3	I	i	Q	1	
-4	was	be	V	1	
-5	staying	stay	V	1	
-6	in	in	A	1	
-7	was	be	V	1	
-8	very	very	G	1	
-9	old	old	G	1	
-10	·	·	G	1	
-11	fashioned	fashion	V	1	
-12	.	.	O	1	
+1	The	the	D	1	O
+2	room	room	N	1	O
+3	I	i	Q	1	O
+4	was	be	V	1	O
+5	staying	stay	V	1	O
+6	in	in	A	1	O
+7	was	be	V	1	O
+8	very	very	G	1	O
+9	old	old	G	1	O
+10	·	·	G	1	O
+11	fashioned	fashion	V	1	O
+12	.	.	O	1	O
 
-1	When	when	O	1	
-2	you	you	Q	1	
-3	come	come	V	1	
-4	in	in	P	1	
-5	the	the	D	1	
-6	door	door	N	1	
-7	,	,	O	1	
-8	on	on	P	1	
-9	the	the	D	1	
-10	left	left	G	1	
-11	hand	hand	N	1	
-12	side	side	N	1	
-13	there	there	O	1	
-14	is	be	V	1	
-15	a	a	D	1	
-16	old	old	G	1	
-17	cabinet	cabinet	N	1	
-18	and	and	C	1	
-19	old	old	G	1	
-20	commode	commode	N	1	
-21	with	with	P	1	
-22	an	a	D	1	
-23	very	very	A	1	
-24	old	old	G	1	
-25	tube	tube	N	1	
-26	television	television	N	1	
-27	.	.	O	1	
+1	When	when	O	1	O
+2	you	you	Q	1	O
+3	come	come	V	1	O
+4	in	in	P	1	O
+5	the	the	D	1	O
+6	door	door	N	1	O
+7	,	,	O	1	O
+8	on	on	P	1	O
+9	the	the	D	1	O
+10	left	left	G	1	O
+11	hand	hand	N	1	O
+12	side	side	N	1	O
+13	there	there	O	1	O
+14	is	be	V	1	O
+15	a	a	D	1	O
+16	old	old	G	1	O
+17	cabinet	cabinet	N	1	O
+18	and	and	C	1	O
+19	old	old	G	1	O
+20	commode	commode	N	1	O
+21	with	with	P	1	O
+22	an	a	D	1	O
+23	very	very	A	1	O
+24	old	old	G	1	O
+25	tube	tube	N	1	O
+26	television	television	N	1	O
+27	.	.	O	1	O
 
-1	I	i	Q	1	
-2	am	be	V	1	
-3	no	no	D	1	
-4	technical	technical	G	1	
-5	novice	novice	N	1	
-6	,	,	O	1	
-7	but	but	C	1	
-8	I	i	Q	1	
-9	tried	try	V	1	
-10	5	5	O	1	
-11	minutes	minute	N	1	
-12	hard	hard	G	1	
-13	,	,	O	1	
-14	to	to	P	1	
-15	get	get	V	1	
-16	this	this	D	1	
-17	TV	TV	N	1	
-18	working	working	N	1	
-19	...	...	O	1	
-20	I	i	Q	1	
-21	even	even	A	1	
-22	was	be	V	1	
-23	thinking	think	V	1	
-24	about	about	P	1	
-25	calling	call	V	1	
-26	the	the	D	1	
-27	room	room	N	1	
-28	service	service	N	1	
-29	,	,	O	1	
-30	to	to	P	1	
-31	ask	ask	V	1	
-32	about	about	P	1	
-33	the	the	D	1	
-34	TV	TV	N	1	
-35	.	.	O	1	
+1	I	i	Q	1	O
+2	am	be	V	1	O
+3	no	no	D	1	O
+4	technical	technical	G	1	O
+5	novice	novice	N	1	O
+6	,	,	O	1	O
+7	but	but	C	1	O
+8	I	i	Q	1	O
+9	tried	try	V	1	O
+10	5	5	O	1	O
+11	minutes	minute	N	1	O
+12	hard	hard	G	1	O
+13	,	,	O	1	O
+14	to	to	P	1	O
+15	get	get	V	1	O
+16	this	this	D	1	O
+17	TV	TV	N	1	O
+18	working	working	N	1	O
+19	...	...	O	1	O
+20	I	i	Q	1	O
+21	even	even	A	1	O
+22	was	be	V	1	O
+23	thinking	think	V	1	O
+24	about	about	P	1	O
+25	calling	call	V	1	O
+26	the	the	D	1	O
+27	room	room	N	1	O
+28	service	service	N	1	O
+29	,	,	O	1	O
+30	to	to	P	1	O
+31	ask	ask	V	1	O
+32	about	about	P	1	O
+33	the	the	D	1	O
+34	TV	TV	N	1	O
+35	.	.	O	1	O
 
-1	After	after	P	1	
-2	the	the	D	1	
-3	TV	TV	N	1	
-4	worked	work	V	1	
-5	,	,	O	1	
-6	I	i	Q	1	
-7	settled	settle	V	1	
-8	down	down	A	1	
-9	on	on	P	1	
-10	my	my	Q	1	
-11	bed	bed	N	1	
-12	,	,	O	1	
-13	but	but	C	1	
-14	what	what	Q	1	
-15	was	be	V	1	
-16	the	the	D	1	
-17	first	1	G	1	
-18	thing	thing	N	1	
-19	to	to	P	1	
-20	see	see	V	1	
-21	???	???	G	1	
+1	After	after	P	1	O
+2	the	the	D	1	O
+3	TV	TV	N	1	O
+4	worked	work	V	1	O
+5	,	,	O	1	O
+6	I	i	Q	1	O
+7	settled	settle	V	1	O
+8	down	down	A	1	O
+9	on	on	P	1	O
+10	my	my	Q	1	O
+11	bed	bed	N	1	O
+12	,	,	O	1	O
+13	but	but	C	1	O
+14	what	what	Q	1	O
+15	was	be	V	1	O
+16	the	the	D	1	O
+17	first	1	G	1	O
+18	thing	thing	N	1	O
+19	to	to	P	1	O
+20	see	see	V	1	O
+21	???	???	G	1	O
 
-1	You	you	Q	1	
-2	guessed	guess	V	1	
-3	right	right	A	1	
-4	,	,	O	1	
-5	a	a	D	1	
-6	big	big	G	1	
-7	dirty	dirty	G	1	
-8	spot	spot	N	1	
-9	on	on	P	1	
-10	sheet	sheet	N	1	
-11	.	.	O	1	
+1	You	you	Q	1	O
+2	guessed	guess	V	1	O
+3	right	right	A	1	O
+4	,	,	O	1	O
+5	a	a	D	1	O
+6	big	big	G	1	O
+7	dirty	dirty	G	1	O
+8	spot	spot	N	1	O
+9	on	on	P	1	O
+10	sheet	sheet	N	1	O
+11	.	.	O	1	O
 
-1	After	after	P	1	
-2	staying	stay	V	1	
-3	10	10	O	1	
-4	minutes	minute	N	1	
-5	in	in	P	1	
-6	the	the	D	1	
-7	room	room	N	1	
-8	I	i	Q	1	
-9	was	be	V	1	
-10	already	already	A	1	
-11	really	really	A	1	
-12	angry	angry	G	1	
-13	!	!	O	1	
+1	After	after	P	1	O
+2	staying	stay	V	1	O
+3	10	10	O	1	O
+4	minutes	minute	N	1	O
+5	in	in	P	1	O
+6	the	the	D	1	O
+7	room	room	N	1	O
+8	I	i	Q	1	O
+9	was	be	V	1	O
+10	already	already	A	1	O
+11	really	really	A	1	O
+12	angry	angry	G	1	O
+13	!	!	O	1	O
 
-1	Dirty	dirty	G	1	
-2	public	public	N	1	
-3	restrooms	restrooms	V	1	
+1	Dirty	dirty	G	1	O
+2	public	public	N	1	O
+3	restrooms	restrooms	V	1	O
 
-1	Friendly	friendly	A	1	
-2	staff	staff	N	1	
+1	Friendly	friendly	A	1	O
+2	staff	staff	N	1	O
 

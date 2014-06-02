@@ -1,75 +1,75 @@
-1	Gastvrij	gastvrij	G	1	
-2	hotel	hotel	N	1	
-3	waar	waar	Q	1	
-4	kwaliteit	kwaliteit	N	1	
-5	voorop	voorop	A	1	
-6	staat	staat	N	1	
+1	Gastvrij	gastvrij	G	1	O
+2	hotel	hotel	N	1	O
+3	waar	waar	Q	1	O
+4	kwaliteit	kwaliteit	N	1	O
+5	voorop	voorop	A	1	O
+6	staat	staat	N	1	O
 
-1	Wij	wij	Q	1	
-2	(	(	O	1	
-3	ict	ict	O	1	
-4	·	·	O	1	
-5	dienst	dienst	N	1	
-6	,	,	O	1	
-7	4	@card@	O	1	
-8	collega	collega	N	1	
-9	'	'	O	1	
-10	s	s	N	1	
-11	)	)	O	1	
-12	komen	komen	V	1	
-13	hiet	hiet	O	1	
-14	al	al	A	1	
-15	meerdere	meerdere	D	1	
-16	jaren	jaar	N	1	
-17	naar	naar	P	1	
-18	volle	vol	G	1	
-19	tevredenheid	tevredenheid	N	1	
-20	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	(	(	O	1	O
+3	ict	ict	O	1	O
+4	·	·	O	1	O
+5	dienst	dienst	N	1	O
+6	,	,	O	1	O
+7	4	@card@	O	1	O
+8	collega	collega	N	1	O
+9	'	'	O	1	O
+10	s	s	N	1	O
+11	)	)	O	1	O
+12	komen	komen	V	1	O
+13	hiet	hiet	O	1	O
+14	al	al	A	1	O
+15	meerdere	meerdere	D	1	O
+16	jaren	jaar	N	1	O
+17	naar	naar	P	1	O
+18	volle	vol	G	1	O
+19	tevredenheid	tevredenheid	N	1	O
+20	.	.	O	1	O
 
-1	Uiterst	uiterst	G	1	
-2	plezierig	plezierig	G	1	
-3	verblijf	verblijf	N	1	
-4	,	,	O	1	
-5	gastvrije	gastvrij	G	1	
-6	ontvangst	ontvangst	N	1	
-7	,	,	O	1	
-8	ruim	ruim	G	1	
-9	hotel	hotel	N	1	
-10	,	,	O	1	
-11	straalt	stralen	V	1	
-12	kwaliteit	kwaliteit	N	1	
-13	uit	uit	P	1	
-14	,	,	O	1	
-15	prettige	prettig	G	1	
-16	ligging	ligging	N	1	
-17	vlak	vlak	N	1	
-18	bij	bij	P	1	
-19	de	de	D	1	
-20	snelweg	snelweg	N	1	
-21	.	.	O	1	
+1	Uiterst	uiterst	G	1	O
+2	plezierig	plezierig	G	1	O
+3	verblijf	verblijf	N	1	O
+4	,	,	O	1	O
+5	gastvrije	gastvrij	G	1	O
+6	ontvangst	ontvangst	N	1	O
+7	,	,	O	1	O
+8	ruim	ruim	G	1	O
+9	hotel	hotel	N	1	O
+10	,	,	O	1	O
+11	straalt	stralen	V	1	O
+12	kwaliteit	kwaliteit	N	1	O
+13	uit	uit	P	1	O
+14	,	,	O	1	O
+15	prettige	prettig	G	1	O
+16	ligging	ligging	N	1	O
+17	vlak	vlak	N	1	O
+18	bij	bij	P	1	O
+19	de	de	D	1	O
+20	snelweg	snelweg	N	1	O
+21	.	.	O	1	O
 
-1	Met	met	P	1	
-2	name	naam|name	N	1	
-3	de	de	D	1	
-4	zuidkant	zuidkant	O	1	
-5	van	van	P	1	
-6	de	de	D	1	
-7	kamers	kamer	N	1	
-8	heeft	hebben	V	1	
-9	een	een	D	1	
-10	prachtig	prachtig	G	1	
-11	uitzicht	uitzicht	N	1	
-12	.	.	O	1	
+1	Met	met	P	1	O
+2	name	naam|name	N	1	O
+3	de	de	D	1	O
+4	zuidkant	zuidkant	O	1	O
+5	van	van	P	1	O
+6	de	de	D	1	O
+7	kamers	kamer	N	1	O
+8	heeft	hebben	V	1	O
+9	een	een	D	1	O
+10	prachtig	prachtig	G	1	O
+11	uitzicht	uitzicht	N	1	O
+12	.	.	O	1	O
 
-1	Aan	aan	P	1	
-2	deze	deze	D	1	
-3	kant	kant	N	1	
-4	hoor	horen	V	1	
-5	je	je	Q	1	
-6	ook	ook	A	1	
-7	niets	niets	Q	1	
-8	van	van	P	1	
-9	het	het	D	1	
-10	verkeer	verkeer	N	1	
-11	.	.	O	1	
+1	Aan	aan	P	1	O
+2	deze	deze	D	1	O
+3	kant	kant	N	1	O
+4	hoor	horen	V	1	O
+5	je	je	Q	1	O
+6	ook	ook	A	1	O
+7	niets	niets	Q	1	O
+8	van	van	P	1	O
+9	het	het	D	1	O
+10	verkeer	verkeer	N	1	O
+11	.	.	O	1	O
 

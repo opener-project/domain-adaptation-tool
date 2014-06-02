@@ -1,102 +1,102 @@
-1	Tre	tre	G	1	
-2	stelle	stella	N	1	
-3	molto	molto	A	1	
-4	generose	generoso	G	1	
+1	Tre	tre	G	1	O
+2	stelle	stella	N	1	O
+3	molto	molto	A	1	O
+4	generose	generoso	G	1	O
 
-1	Piccolo	piccolo	G	1	
-2	hotel	hotel	N	1	
-3	a	a	P	1	
-4	10	10	G	1	
-5	minuti	minuto	N	1	
-6	dal	dal	P	1	
-7	centro	centro	N	1	
-8	di	di	P	1	
-9	Firenze	firenze	R	1	ne=Location
-10	.	.	O	1	
+1	Piccolo	piccolo	G	1	O
+2	hotel	hotel	N	1	O
+3	a	a	P	1	O
+4	10	10	G	1	O
+5	minuti	minuto	N	1	O
+6	dal	dal	P	1	O
+7	centro	centro	N	1	O
+8	di	di	P	1	O
+9	Firenze	firenze	R	1	I-Location
+10	.	.	O	1	O
 
-1	Vi	vi	Q	1	
-2	è	è	R	1	
-3	un	uno	D	1	
-4	solo	solo	G	1	
-5	piano	piano	N	1	
-6	,	,	O	1	
-7	e	e	Q	1	
-8	il	lo	D	1	
-9	numero	numero	N	1	
-10	delle	delle	P	1	
-11	camere	camera	N	1	
-12	è	è	R	1	
-13	piuttosto	piuttosto	Q	1	
-14	limitato	limitare	V	1	
-15	.	.	O	1	
+1	Vi	vi	Q	1	O
+2	è	è	R	1	O
+3	un	uno	D	1	O
+4	solo	solo	G	1	O
+5	piano	piano	N	1	O
+6	,	,	O	1	O
+7	e	e	Q	1	O
+8	il	lo	D	1	O
+9	numero	numero	N	1	O
+10	delle	delle	P	1	O
+11	camere	camera	N	1	O
+12	è	è	R	1	O
+13	piuttosto	piuttosto	Q	1	O
+14	limitato	limitare	V	1	O
+15	.	.	O	1	O
 
-1	Non	non	A	1	
-2	c'	c'	A	1	
-3	è	è	G	1	
-4	una	uno	D	1	
-5	vera	vera	N	1	
-6	e	e	Q	1	
-7	propria	proprio	G	1	
-8	hall	hall	N	1	
-9	,	,	O	1	
-10	ma	ma	Q	1	
-11	un	uno	D	1	
-12	piccolissimo	piccolissimo	G	1	
-13	bar	bar	N	1	
-14	dove	dove	Q	1	
-15	vengono	venire	V	1	
-16	servite	servire	V	1	
-17	colazioni	colazione	N	1	
-18	(	(	O	1	
-19	comprese	comprendere	V	1	
-20	nel	nel	P	1	
-21	prezzo	prezzo	N	1	
-22	)	)	O	1	
-23	appena	appena	A	1	
-24	accettabili	accettabile	G	1	
-25	.	.	O	1	
+1	Non	non	A	1	O
+2	c'	c'	A	1	O
+3	è	è	G	1	O
+4	una	uno	D	1	O
+5	vera	vera	N	1	O
+6	e	e	Q	1	O
+7	propria	proprio	G	1	O
+8	hall	hall	N	1	O
+9	,	,	O	1	O
+10	ma	ma	Q	1	O
+11	un	uno	D	1	O
+12	piccolissimo	piccolissimo	G	1	O
+13	bar	bar	N	1	O
+14	dove	dove	Q	1	O
+15	vengono	venire	V	1	O
+16	servite	servire	V	1	O
+17	colazioni	colazione	N	1	O
+18	(	(	O	1	O
+19	comprese	comprendere	V	1	O
+20	nel	nel	P	1	O
+21	prezzo	prezzo	N	1	O
+22	)	)	O	1	O
+23	appena	appena	A	1	O
+24	accettabili	accettabile	G	1	O
+25	.	.	O	1	O
 
-1	La	lo	D	1	
-2	stanza	stanza	N	1	
-3	che	che	Q	1	
-4	mi	mi	Q	1	
-5	hanno	avere	V	1	
-6	dato	dare	V	1	
-7	,	,	O	1	
-8	per	per	P	1	
-9	essere	essera	N	1	
-10	una	uno	D	1	
-11	singola	singolo	G	1	
-12	,	,	O	1	
-13	non	non	A	1	
-14	era	essere	V	1	
-15	troppo	troppo	A	1	
-16	piccola	piccolo	G	1	
-17	,	,	O	1	
-18	ma	ma	Q	1	
-19	il	lo	D	1	
-20	bagno	bagno	N	1	
-21	era	essere	V	1	
-22	parecchio	parecchio	A	1	
-23	datato	datare	V	1	
-24	ed	ed	Q	1	
-25	angusto	angusto	G	1	
-26	.	.	O	1	
+1	La	lo	D	1	O
+2	stanza	stanza	N	1	O
+3	che	che	Q	1	O
+4	mi	mi	Q	1	O
+5	hanno	avere	V	1	O
+6	dato	dare	V	1	O
+7	,	,	O	1	O
+8	per	per	P	1	O
+9	essere	essera	N	1	O
+10	una	uno	D	1	O
+11	singola	singolo	G	1	O
+12	,	,	O	1	O
+13	non	non	A	1	O
+14	era	essere	V	1	O
+15	troppo	troppo	A	1	O
+16	piccola	piccolo	G	1	O
+17	,	,	O	1	O
+18	ma	ma	Q	1	O
+19	il	lo	D	1	O
+20	bagno	bagno	N	1	O
+21	era	essere	V	1	O
+22	parecchio	parecchio	A	1	O
+23	datato	datare	V	1	O
+24	ed	ed	Q	1	O
+25	angusto	angusto	G	1	O
+26	.	.	O	1	O
 
-1	Nulla	nulla	N	1	
-2	da	da	P	1	
-3	dire	dire	V	1	
-4	sulla	sulla	P	1	
-5	pulizia	pulizia	N	1	
-6	e	e	Q	1	
-7	la	lo	D	1	
-8	cortesia	cortesia	N	1	
-9	degli	degli	P	1	
-10	addetti	addetto	N	1	
-11	,	,	O	1	
-12	che	che	Q	1	
-13	sono	essere	V	1	
-14	risultate	risultare	V	1	
-15	buone	buono	G	1	
-16	.	.	O	1	
+1	Nulla	nulla	N	1	O
+2	da	da	P	1	O
+3	dire	dire	V	1	O
+4	sulla	sulla	P	1	O
+5	pulizia	pulizia	N	1	O
+6	e	e	Q	1	O
+7	la	lo	D	1	O
+8	cortesia	cortesia	N	1	O
+9	degli	degli	P	1	O
+10	addetti	addetto	N	1	O
+11	,	,	O	1	O
+12	che	che	Q	1	O
+13	sono	essere	V	1	O
+14	risultate	risultare	V	1	O
+15	buone	buono	G	1	O
+16	.	.	O	1	O
 

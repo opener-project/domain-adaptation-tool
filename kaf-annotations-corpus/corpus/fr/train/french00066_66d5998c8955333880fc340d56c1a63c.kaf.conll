@@ -1,45 +1,45 @@
-1	Très	Très	G	1	
-2	grand	grand	G	1	
+1	Très	Très	G	1	O
+2	grand	grand	G	1	O
 
-1	super	super	N	1	
-2	zoo	zoo	N	1	
-3	,	,	O	1	
-4	trajet	trajet	N	1	
-5	balisé	baliser	V	1	
-6	dans	dans	P	1	
-7	le	le	D	1	
-8	zoo	zoo	N	1	
-9	,	,	O	1	
-10	pas	pas	G	1	
-11	d'	d'	P	1	
-12	animal	animal	N	1	
-13	loupé	louper	G	1	
-14	comme	comme	P	1	
-15	ca	ca	G	1	
-16	!	!	O	1	
+1	super	super	N	1	O
+2	zoo	zoo	N	1	O
+3	,	,	O	1	O
+4	trajet	trajet	N	1	O
+5	balisé	baliser	V	1	O
+6	dans	dans	P	1	O
+7	le	le	D	1	O
+8	zoo	zoo	N	1	O
+9	,	,	O	1	O
+10	pas	pas	G	1	O
+11	d'	d'	P	1	O
+12	animal	animal	N	1	O
+13	loupé	louper	G	1	O
+14	comme	comme	P	1	O
+15	ca	ca	G	1	O
+16	!	!	O	1	O
 
-1	bien	bien	G	1	
-2	,	,	O	1	
-3	mais	mais	C	1	
-4	bcp	bcp	G	1	
-5	de	de	P	1	
-6	monde	monde	N	1	
-7	,	,	O	1	
-8	pas	pas	G	1	
-9	facile	facile	G	1	
-10	de	de	P	1	
-11	se	se	Q	1	
-12	garer	garer	V	1	
-13	sur	sur	P	1	
-14	le	le	D	1	
-15	parking	parking	N	1	
-16	!	!	O	1	
+1	bien	bien	G	1	O
+2	,	,	O	1	O
+3	mais	mais	C	1	O
+4	bcp	bcp	G	1	O
+5	de	de	P	1	O
+6	monde	monde	N	1	O
+7	,	,	O	1	O
+8	pas	pas	G	1	O
+9	facile	facile	G	1	O
+10	de	de	P	1	O
+11	se	se	Q	1	O
+12	garer	garer	V	1	O
+13	sur	sur	P	1	O
+14	le	le	D	1	O
+15	parking	parking	N	1	O
+16	!	!	O	1	O
 
-1	gardez	gardez	D	1	
-2	un	un	D	1	
-3	œil	œil	N	1	
-4	sur	sur	P	1	
-5	vos	son	D	1	
-6	enfants	enfant	N	1	
-7	!	!	O	1	
+1	gardez	gardez	D	1	O
+2	un	un	D	1	O
+3	œil	œil	N	1	O
+4	sur	sur	P	1	O
+5	vos	son	D	1	O
+6	enfants	enfant	N	1	O
+7	!	!	O	1	O
 

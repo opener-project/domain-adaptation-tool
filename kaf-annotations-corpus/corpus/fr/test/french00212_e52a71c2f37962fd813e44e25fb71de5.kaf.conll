@@ -1,159 +1,159 @@
-1	“	“	D	1	
-2	retour	retour	N	1	
-3	de	de	P	1	
-4	vacances	vacance	N	1	
-5	1ère	1ère	P	1	
-6	semaine	semaine	N	1	
-7	de	de	P	1	
-8	juin	juin	N	1	
-9	”	”	G	1	
+1	“	“	D	1	O
+2	retour	retour	N	1	O
+3	de	de	P	1	O
+4	vacances	vacance	N	1	O
+5	1ère	1ère	P	1	O
+6	semaine	semaine	N	1	O
+7	de	de	P	1	O
+8	juin	juin	N	1	O
+9	”	”	G	1	O
 
-1	De	De	P	1	
-2	retour	retour	N	1	
-3	de	de	P	1	
-4	Rhodes	Rhodes	R	1	ne=Location
-5	ce	ce	D	1	
-6	matin	matin	N	1	
-7	.	.	O	1	
+1	De	De	P	1	O
+2	retour	retour	N	1	O
+3	de	de	P	1	O
+4	Rhodes	Rhodes	R	1	I-Location
+5	ce	ce	D	1	O
+6	matin	matin	N	1	O
+7	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	séjourné	séjourner	V	1	
-4	une	un	D	1	
-5	semaine	semaine	N	1	
-6	dans	dans	P	1	
-7	cet	ce	D	1	
-8	hôtel	hôtel	N	1	
-9	qui	qui	P	1	
-10	mérite	mériter	V	1	
-11	bien	bien	G	1	
-12	ses	son	D	1	
-13	5	5	G	1	
-14	étoiles	étoile	N	1	
-15	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	séjourné	séjourner	V	1	O
+4	une	un	D	1	O
+5	semaine	semaine	N	1	O
+6	dans	dans	P	1	O
+7	cet	ce	D	1	O
+8	hôtel	hôtel	N	1	O
+9	qui	qui	P	1	O
+10	mérite	mériter	V	1	O
+11	bien	bien	G	1	O
+12	ses	son	D	1	O
+13	5	5	G	1	O
+14	étoiles	étoile	N	1	O
+15	.	.	O	1	O
 
-1	Beaucoup	Beaucoup	G	1	
-2	d'	d'	P	1	
-3	espace	espace	N	1	
-4	,	,	O	1	
-5	de	de	P	1	
-6	calme	calme	N	1	
-7	,	,	O	1	
-8	de	de	P	1	
-9	fraîcheur	fraîcheur	N	1	
-10	avec	avec	P	1	
-11	toutes	tout	G	1	
-12	ses	son	D	1	
-13	piscines	piscine	N	1	
-14	en	en	P	1	
-15	accès	accès	N	1	
-16	direct	direct	G	1	
-17	avec	avec	P	1	
-18	les	le	D	1	
-19	chambres	chambre	N	1	
-20	en	en	P	1	
-21	rez	rez	V	1	
-22	·	·	Q	1	
-23	de	de	P	1	
-24	·	·	D	1	
-25	chaussée	chaussée	N	1	
-26	.	.	O	1	
+1	Beaucoup	Beaucoup	G	1	O
+2	d'	d'	P	1	O
+3	espace	espace	N	1	O
+4	,	,	O	1	O
+5	de	de	P	1	O
+6	calme	calme	N	1	O
+7	,	,	O	1	O
+8	de	de	P	1	O
+9	fraîcheur	fraîcheur	N	1	O
+10	avec	avec	P	1	O
+11	toutes	tout	G	1	O
+12	ses	son	D	1	O
+13	piscines	piscine	N	1	O
+14	en	en	P	1	O
+15	accès	accès	N	1	O
+16	direct	direct	G	1	O
+17	avec	avec	P	1	O
+18	les	le	D	1	O
+19	chambres	chambre	N	1	O
+20	en	en	P	1	O
+21	rez	rez	V	1	O
+22	·	·	Q	1	O
+23	de	de	P	1	O
+24	·	·	D	1	O
+25	chaussée	chaussée	N	1	O
+26	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	toujours	toujours	G	1	
-5	souriant	souriant	G	1	
-6	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	toujours	toujours	G	1	O
+5	souriant	souriant	G	1	O
+6	.	.	O	1	O
 
-1	Seul	seul	G	1	
-2	petit	petit	G	1	
-3	bémol	bémol	N	1	
-4	,	,	O	1	
-5	la	le	D	1	
-6	langue	langue	N	1	
-7	française	français	G	1	
-8	est	être	V	1	
-9	peu	peu	G	1	
-10	pratiquée	pratiquer	V	1	
-11	,	,	O	1	
-12	ce	ce	P	1	
-13	qui	qui	P	1	
-14	est	être	V	1	
-15	dommage	dommage	G	1	
-16	à	à	P	1	
-17	la	le	D	1	
-18	réception	réception	N	1	
-19	et	et	C	1	
-20	nous	lui	Q	1	
-21	devons	devoir	V	1	
-22	parler	parler	V	1	
-23	anglais	anglais	N	1	
-24	·	·	N	1	
-25	cependant	cependant	G	1	
-26	le	le	D	1	
-27	personnel	personnel	N	1	
-28	du	du	P	1	
-29	restaurant	restaurer	V	1	
-30	fait	faire	V	1	
-31	de	de	P	1	
-32	nombreux	nombreux	G	1	
-33	efforts	effort	N	1	
-34	pour	pour	P	1	
-35	parler	parler	V	1	
-36	et	et	C	1	
-37	comprendre	comprendre	V	1	
-38	notre	son	D	1	
-39	langue	langue	N	1	
-40	:	:	O	1	
-41	un	un	D	1	
-42	grand	grand	G	1	
-43	bravo	bravo	N	1	
-44	à	à	P	1	
-45	Victoria	victoria	R	1	ne=Person
-46	,	,	O	1	
-47	Christina	Christina	R	1	ne=Person
-48	et	et	C	1	
-49	Nelu	Nelu	R	1	ne=Person
-50	,	,	O	1	
-51	nos	son	D	1	
-52	serveurs	serveur	N	1	
-53	.	.	O	1	
+1	Seul	seul	G	1	O
+2	petit	petit	G	1	O
+3	bémol	bémol	N	1	O
+4	,	,	O	1	O
+5	la	le	D	1	O
+6	langue	langue	N	1	O
+7	française	français	G	1	O
+8	est	être	V	1	O
+9	peu	peu	G	1	O
+10	pratiquée	pratiquer	V	1	O
+11	,	,	O	1	O
+12	ce	ce	P	1	O
+13	qui	qui	P	1	O
+14	est	être	V	1	O
+15	dommage	dommage	G	1	O
+16	à	à	P	1	O
+17	la	le	D	1	O
+18	réception	réception	N	1	O
+19	et	et	C	1	O
+20	nous	lui	Q	1	O
+21	devons	devoir	V	1	O
+22	parler	parler	V	1	O
+23	anglais	anglais	N	1	O
+24	·	·	N	1	O
+25	cependant	cependant	G	1	O
+26	le	le	D	1	O
+27	personnel	personnel	N	1	O
+28	du	du	P	1	O
+29	restaurant	restaurer	V	1	O
+30	fait	faire	V	1	O
+31	de	de	P	1	O
+32	nombreux	nombreux	G	1	O
+33	efforts	effort	N	1	O
+34	pour	pour	P	1	O
+35	parler	parler	V	1	O
+36	et	et	C	1	O
+37	comprendre	comprendre	V	1	O
+38	notre	son	D	1	O
+39	langue	langue	N	1	O
+40	:	:	O	1	O
+41	un	un	D	1	O
+42	grand	grand	G	1	O
+43	bravo	bravo	N	1	O
+44	à	à	P	1	O
+45	Victoria	victoria	R	1	I-Person
+46	,	,	O	1	O
+47	Christina	Christina	R	1	I-Person
+48	et	et	C	1	O
+49	Nelu	Nelu	R	1	I-Person
+50	,	,	O	1	O
+51	nos	son	D	1	O
+52	serveurs	serveur	N	1	O
+53	.	.	O	1	O
 
-1	Les	le	D	1	
-2	repas	repas	N	1	
-3	en	en	P	1	
-4	buffet	buffet	N	1	
-5	sont	être	V	1	
-6	excellents	excellent	G	1	
-7	,	,	O	1	
-8	variés	varier	G	1	
-9	et	et	C	1	
-10	en	en	P	1	
-11	quantité	quantité	N	1	
-12	.	.	O	1	
+1	Les	le	D	1	O
+2	repas	repas	N	1	O
+3	en	en	P	1	O
+4	buffet	buffet	N	1	O
+5	sont	être	V	1	O
+6	excellents	excellent	G	1	O
+7	,	,	O	1	O
+8	variés	varier	G	1	O
+9	et	et	C	1	O
+10	en	en	P	1	O
+11	quantité	quantité	N	1	O
+12	.	.	O	1	O
 
-1	Le	le	D	1	
-2	soir	soir	N	1	
-3	,	,	O	1	
-4	animation	animation	N	1	
-5	musicale	musical	G	1	
-6	soft	soft	V	1	
-7	avec	avec	P	1	
-8	chanteurs	chanteur	N	1	
-9	,	,	O	1	
-10	danses	danses	P	1	
-11	grecques	grec	N	1	
-12	,	,	O	1	
-13	très	très	G	1	
-14	appréciée	apprécier	V	1	
-15	.	.	O	1	
+1	Le	le	D	1	O
+2	soir	soir	N	1	O
+3	,	,	O	1	O
+4	animation	animation	N	1	O
+5	musicale	musical	G	1	O
+6	soft	soft	V	1	O
+7	avec	avec	P	1	O
+8	chanteurs	chanteur	N	1	O
+9	,	,	O	1	O
+10	danses	danses	P	1	O
+11	grecques	grec	N	1	O
+12	,	,	O	1	O
+13	très	très	G	1	O
+14	appréciée	apprécier	V	1	O
+15	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	passé	passer	V	1	
-4	d'	d'	P	1	
-5	excellents	excellents	N	1	
-6	vacances	vacance	N	1	
-7	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	passé	passer	V	1	O
+4	d'	d'	P	1	O
+5	excellents	excellents	N	1	O
+6	vacances	vacance	N	1	O
+7	.	.	O	1	O
 

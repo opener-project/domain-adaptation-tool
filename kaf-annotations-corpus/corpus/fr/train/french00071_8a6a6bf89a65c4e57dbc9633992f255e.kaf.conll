@@ -1,57 +1,58 @@
-1	Relax	Relax	G	1	
-2	100	100	D	1	
-3	%	pourcent	N	1	
+1	Relax	Relax	G	1	O
+2	100	100	D	1	O
+3	%	pourcent	N	1	O
 
-1	Notre	son	D	1	
-2	sejour	sejour	N	1	
-3	nous	lui	Q	1	
-4	a	avoir	V	1	
-5	plu	plu	G	1	
-6	enormement	enormement	G	1	
-7	et	et	C	1	
-8	la	le	D	1	
-9	premiere	premiere	N	1	
-10	experience	experience	V	1	
-11	avec	avec	P	1	
-12	l'_Egypte	le_Egypte	R	1	ne=Location
-13	etait	etait	V	1	
-14	inoubliable	inoubliable	G	1	
-15	;	;	O	1	
+1	Notre	son	D	1	O
+2	sejour	sejour	N	1	O
+3	nous	lui	Q	1	O
+4	a	avoir	V	1	O
+5	plu	plu	G	1	O
+6	enormement	enormement	G	1	O
+7	et	et	C	1	O
+8	la	le	D	1	O
+9	premiere	premiere	N	1	O
+10	experience	experience	V	1	O
+11	avec	avec	P	1	O
+12	l'	le	D	1	I-Location
+13	Egypte	Egypte	N	1	I-Location
+14	etait	etait	V	1	O
+15	inoubliable	inoubliable	G	1	O
+16	;	;	O	1	O
 
-1	les	le	D	1	
-2	chambres	chambre	N	1	
-3	sont	être	V	1	
-4	spatieuses	spatieuses	G	1	
-5	et	et	C	1	
-6	l'	le	D	1	
-7	environnement	environnement	N	1	
-8	est	être	V	1	
-9	tres	tres	V	1	
-10	vert	vert	G	1	
-11	et	et	C	1	
-12	agreable	agreable	G	1	
-13	et	et	C	1	
-14	relaxant	relaxant	G	1	
-15	;	;	O	1	
+1	les	le	D	1	O
+2	chambres	chambre	N	1	O
+3	sont	être	V	1	O
+4	spatieuses	spatieuses	G	1	O
+5	et	et	C	1	O
+6	l'	le	D	1	O
+7	environnement	environnement	N	1	O
+8	est	être	V	1	O
+9	tres	tres	V	1	O
+10	vert	vert	G	1	O
+11	et	et	C	1	O
+12	agreable	agreable	G	1	O
+13	et	et	C	1	O
+14	relaxant	relaxant	G	1	O
+15	;	;	O	1	O
 
-1	les	le	D	1	
-2	repas	repas	N	1	
-3	sont	être	V	1	
-4	copieux	copieux	N	1	
-5	et	et	C	1	
-6	varies	varies	N	1	
-7	et	et	C	1	
-8	le	le	D	1	
-9	personnel	personnel	N	1	
-10	est	être	V	1	
-11	accueillant	accueillant	G	1	
-12	et	et	C	1	
-13	toujours	toujours	G	1	
-14	pret	pret	G	1	
-15	a	avoir	V	1	
-16	vous	lui	Q	1	
-17	servir	servir	V	1	
-18	qvec	qvec	G	1	
-19	le	le	D	1	
-20	sourire	sourire	N	1	
+1	les	le	D	1	O
+2	repas	repas	N	1	O
+3	sont	être	V	1	O
+4	copieux	copieux	N	1	O
+5	et	et	C	1	O
+6	varies	varies	N	1	O
+7	et	et	C	1	O
+8	le	le	D	1	O
+9	personnel	personnel	N	1	O
+10	est	être	V	1	O
+11	accueillant	accueillant	G	1	O
+12	et	et	C	1	O
+13	toujours	toujours	G	1	O
+14	pret	pret	G	1	O
+15	a	avoir	V	1	O
+16	vous	lui	Q	1	O
+17	servir	servir	V	1	O
+18	qvec	qvec	G	1	O
+19	le	le	D	1	O
+20	sourire	sourire	N	1	O
 

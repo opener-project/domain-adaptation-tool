@@ -1,107 +1,107 @@
-1	Gerne	gerne	A	1	
-2	wieder	wieder	A	1	
-3	!	!	O	1	
+1	Gerne	gerne	A	1	O
+2	wieder	wieder	A	1	O
+3	!	!	O	1	O
 
-1	Sehr	sehr	A	1	
-2	schönes	schön	G	1	
-3	Hotel	Hotel	N	1	
-4	mit	mit	P	1	
-5	sehr	sehr	A	1	
-6	nettem	nett	G	1	
-7	Personal	Personal	N	1	
-8	und	und	C	1	
-9	tollem	toll	G	1	
-10	Essen	Essen	N	1	
-11	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	schönes	schön	G	1	O
+3	Hotel	Hotel	N	1	O
+4	mit	mit	P	1	O
+5	sehr	sehr	A	1	O
+6	nettem	nett	G	1	O
+7	Personal	Personal	N	1	O
+8	und	und	C	1	O
+9	tollem	toll	G	1	O
+10	Essen	Essen	N	1	O
+11	.	.	O	1	O
 
-1	Ich	ich	Q	1	
-2	hätte	haben	V	1	
-3	nicht	nicht	O	1	
-4	erwartet	erwarten	V	1	
-5	,	,	O	1	
-6	dass	dass	C	1	
-7	es	es	Q	1	
-8	doch	doch	A	1	
-9	so	so	A	1	
-10	gut	gut	G	1	
-11	ist	sein	V	1	
-12	.	.	O	1	
+1	Ich	ich	Q	1	O
+2	hätte	haben	V	1	O
+3	nicht	nicht	O	1	O
+4	erwartet	erwarten	V	1	O
+5	,	,	O	1	O
+6	dass	dass	C	1	O
+7	es	es	Q	1	O
+8	doch	doch	A	1	O
+9	so	so	A	1	O
+10	gut	gut	G	1	O
+11	ist	sein	V	1	O
+12	.	.	O	1	O
 
-1	Alles	alle	Q	1	
-2	ist	sein	V	1	
-3	immer	immer	A	1	
-4	sauber	sauber	G	1	
-5	,	,	O	1	
-6	Restaurant	Restaurant	N	1	
-7	ist	sein	V	1	
-8	auch	auch	A	1	
-9	top	top	O	1	
-10	(	(	O	1	
-11	man	man	Q	1	
-12	kann	können	V	1	
-13	auch	auch	A	1	
-14	auf	auf	P	1	
-15	der	die	D	1	
-16	Terrasse	Terrasse	N	1	
-17	draußen	draußen	A	1	
-18	essen	essen	V	1	
-19	)	)	O	1	
-20	.	.	O	1	
+1	Alles	alle	Q	1	O
+2	ist	sein	V	1	O
+3	immer	immer	A	1	O
+4	sauber	sauber	G	1	O
+5	,	,	O	1	O
+6	Restaurant	Restaurant	N	1	O
+7	ist	sein	V	1	O
+8	auch	auch	A	1	O
+9	top	top	O	1	O
+10	(	(	O	1	O
+11	man	man	Q	1	O
+12	kann	können	V	1	O
+13	auch	auch	A	1	O
+14	auf	auf	P	1	O
+15	der	die	D	1	O
+16	Terrasse	Terrasse	N	1	O
+17	draußen	draußen	A	1	O
+18	essen	essen	V	1	O
+19	)	)	O	1	O
+20	.	.	O	1	O
 
-1	Zimmer	Zimmer	R	1	
-2	waren	sein	V	1	
-3	in	in	P	1	
-4	Ordnung	Ordnung	N	1	
-5	,	,	O	1	
-6	im	in	P	1	
-7	Fernseher	Fernseher	N	1	
-8	gab	geben	V	1	
-9	es	es	Q	1	
-10	auch	auch	A	1	
-11	viele	viele	Q	1	
-12	deutsche	deutsch	G	1	
-13	Kanäle	Kanal	N	1	
-14	.	.	O	1	
+1	Zimmer	Zimmer	R	1	O
+2	waren	sein	V	1	O
+3	in	in	P	1	O
+4	Ordnung	Ordnung	N	1	O
+5	,	,	O	1	O
+6	im	in	P	1	O
+7	Fernseher	Fernseher	N	1	O
+8	gab	geben	V	1	O
+9	es	es	Q	1	O
+10	auch	auch	A	1	O
+11	viele	viele	Q	1	O
+12	deutsche	deutsch	G	1	O
+13	Kanäle	Kanal	N	1	O
+14	.	.	O	1	O
 
-1	Wurde	werden	V	1	
-2	auch	auch	A	1	
-3	täglich	täglich	G	1	
-4	gereinigt	reinigen	V	1	
-5	.	.	O	1	
+1	Wurde	werden	V	1	O
+2	auch	auch	A	1	O
+3	täglich	täglich	G	1	O
+4	gereinigt	reinigen	V	1	O
+5	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	liegt	liegen	V	1	
-4	direkt	direkt	G	1	
-5	am	an	P	1	
-6	Meer	Meer	N	1	
-7	,	,	O	1	
-8	man	man	Q	1	
-9	muss	müssen	V	1	
-10	nur	nur	A	1	
-11	ein	eine	D	1	
-12	paar	paar	Q	1	
-13	Schritte	Schritt	N	1	
-14	gehen	gehen	V	1	
-15	entweder	entweder	C	1	
-16	den	die	D	1	
-17	Berg	Berg	N	1	
-18	hinunter	hinunter	V	1	
-19	oder	oder	C	1	
-20	über	über	P	1	
-21	Treppen	Treppe	N	1	
-22	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	liegt	liegen	V	1	O
+4	direkt	direkt	G	1	O
+5	am	an	P	1	O
+6	Meer	Meer	N	1	O
+7	,	,	O	1	O
+8	man	man	Q	1	O
+9	muss	müssen	V	1	O
+10	nur	nur	A	1	O
+11	ein	eine	D	1	O
+12	paar	paar	Q	1	O
+13	Schritte	Schritt	N	1	O
+14	gehen	gehen	V	1	O
+15	entweder	entweder	C	1	O
+16	den	die	D	1	O
+17	Berg	Berg	N	1	O
+18	hinunter	hinunter	V	1	O
+19	oder	oder	C	1	O
+20	über	über	P	1	O
+21	Treppen	Treppe	N	1	O
+22	.	.	O	1	O
 
-1	Ist	sein	V	1	
-2	auf	auf	P	1	
-3	jeden	jede	Q	1	
-4	Fall	Fall	N	1	
-5	zu	zu	O	1	
-6	empfehlen	empfehlen	V	1	
-7	,	,	O	1	
-8	würde	werden	V	1	
-9	jederzeit	jederzeit	A	1	
-10	wieder	wieder	A	1	
-11	kommen	kommen	V	1	
-12	.	.	O	1	
+1	Ist	sein	V	1	O
+2	auf	auf	P	1	O
+3	jeden	jede	Q	1	O
+4	Fall	Fall	N	1	O
+5	zu	zu	O	1	O
+6	empfehlen	empfehlen	V	1	O
+7	,	,	O	1	O
+8	würde	werden	V	1	O
+9	jederzeit	jederzeit	A	1	O
+10	wieder	wieder	A	1	O
+11	kommen	kommen	V	1	O
+12	.	.	O	1	O
 

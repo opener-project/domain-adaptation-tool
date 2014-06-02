@@ -1,117 +1,121 @@
-1	Direkte	direkt	G	1	
-2	Lage	Lage	N	1	
-3	am	an	P	1	
-4	Gare_du_Nord	Gare_du_Nord	R	1	ne=POI
+1	Direkte	direkt	G	1	O
+2	Lage	Lage	N	1	O
+3	am	an	P	1	O
+4	Gare	Gare	N	1	I-POI
+5	du	du	Q	1	I-POI
+6	Nord	Nord	N	1	I-POI
 
-1	Mercure_Terminus_Nord	Mercure_Terminus_Nord	R	1	ne=Hotel
-2	ist	sein	V	1	
-3	ein	eine	D	1	
-4	älteres	alt	G	1	
-5	Hotel	Hotel	N	1	
-6	,	,	O	1	
-7	das	die	Q	1	
-8	aber	aber	A	1	
-9	vor	vor	P	1	
-10	einiger	einige	Q	1	
-11	Zeit	Zeit	N	1	
-12	renoviert	renovieren	V	1	
-13	wurde	werden	V	1	
-14	und	und	C	1	
-15	durchaus	durchaus	A	1	
-16	im	in	P	1	
-17	guten	gut	G	1	
-18	Zustand	Zustand	N	1	
-19	ist	sein	V	1	
-20	.	.	O	1	
+1	Mercure	Mercure	O	1	I-Hotel
+2	Terminus	Terminus	N	1	I-Hotel
+3	Nord	Nord	N	1	I-Hotel
+4	ist	sein	V	1	O
+5	ein	eine	D	1	O
+6	älteres	alt	G	1	O
+7	Hotel	Hotel	N	1	O
+8	,	,	O	1	O
+9	das	die	Q	1	O
+10	aber	aber	A	1	O
+11	vor	vor	P	1	O
+12	einiger	einige	Q	1	O
+13	Zeit	Zeit	N	1	O
+14	renoviert	renovieren	V	1	O
+15	wurde	werden	V	1	O
+16	und	und	C	1	O
+17	durchaus	durchaus	A	1	O
+18	im	in	P	1	O
+19	guten	gut	G	1	O
+20	Zustand	Zustand	N	1	O
+21	ist	sein	V	1	O
+22	.	.	O	1	O
 
-1	Check	checken	V	1	
-2	·	·	O	1	
-3	in	in	P	1	
-4	und	und	C	1	
-5	Check	Check	N	1	
-6	·	·	O	1	
-7	out	out	O	1	
-8	waren	sein	V	1	
-9	schnell	schnell	G	1	
-10	und	und	C	1	
-11	freundlich	freundlich	G	1	
-12	.	.	O	1	
+1	Check	checken	V	1	O
+2	·	·	O	1	O
+3	in	in	P	1	O
+4	und	und	C	1	O
+5	Check	Check	N	1	O
+6	·	·	O	1	O
+7	out	out	O	1	O
+8	waren	sein	V	1	O
+9	schnell	schnell	G	1	O
+10	und	und	C	1	O
+11	freundlich	freundlich	G	1	O
+12	.	.	O	1	O
 
-1	Für	für	P	1	
-2	die	die	D	1	
-3	erste	erst	G	1	
-4	Nacht	Nacht	N	1	
-5	habe	haben	V	1	
-6	ich	ich	Q	1	
-7	das	die	D	1	
-8	Zimmer	Zimmer	N	1	
-9	mit	mit	P	1	
-10	Blick	Blick	N	1	
-11	auf	auf	P	1	
-12	den	die	D	1	
-13	Bahnhof	Bahnhof	N	1	
-14	bekommen	bekommen	V	1	
-15	,	,	O	1	
-16	es	es	Q	1	
-17	gab	geben	V	1	
-18	viel	viele	Q	1	
-19	Lärm	Lärm	N	1	
-20	von	von	P	1	
-21	der	die	D	1	
-22	Straße	Straße	N	1	
-23	.	.	O	1	
+1	Für	für	P	1	O
+2	die	die	D	1	O
+3	erste	erst	G	1	O
+4	Nacht	Nacht	N	1	O
+5	habe	haben	V	1	O
+6	ich	ich	Q	1	O
+7	das	die	D	1	O
+8	Zimmer	Zimmer	N	1	O
+9	mit	mit	P	1	O
+10	Blick	Blick	N	1	O
+11	auf	auf	P	1	O
+12	den	die	D	1	O
+13	Bahnhof	Bahnhof	N	1	O
+14	bekommen	bekommen	V	1	O
+15	,	,	O	1	O
+16	es	es	Q	1	O
+17	gab	geben	V	1	O
+18	viel	viele	Q	1	O
+19	Lärm	Lärm	N	1	O
+20	von	von	P	1	O
+21	der	die	D	1	O
+22	Straße	Straße	N	1	O
+23	.	.	O	1	O
 
-1	Am	an	P	1	
-2	nächsten	nah	G	1	
-3	Tag	Tag	N	1	
-4	habe	haben	V	1	
-5	ich	ich	Q	1	
-6	dann	dann	A	1	
-7	problemlos	problemlos	G	1	
-8	ein	eine	D	1	
-9	viel	viel	A	1	
-10	ruhigeres	ruhig	G	1	
-11	Zimmer	Zimmer	N	1	
-12	bekommen	bekommen	V	1	
-13	.	.	O	1	
+1	Am	an	P	1	O
+2	nächsten	nah	G	1	O
+3	Tag	Tag	N	1	O
+4	habe	haben	V	1	O
+5	ich	ich	Q	1	O
+6	dann	dann	A	1	O
+7	problemlos	problemlos	G	1	O
+8	ein	eine	D	1	O
+9	viel	viel	A	1	O
+10	ruhigeres	ruhig	G	1	O
+11	Zimmer	Zimmer	N	1	O
+12	bekommen	bekommen	V	1	O
+13	.	.	O	1	O
 
-1	Ein	eine	D	1	
-2	großer	groß	G	1	
-3	Pluspunkt	Pluspunkt	N	1	
-4	ist	sein	V	1	
-5	,	,	O	1	
-6	dass	dass	C	1	
-7	die	die	D	1	
-8	Standard	Standard	N	1	
-9	·	·	O	1	
-10	Zimmer	Zimmer	N	1	
-11	für	für	P	1	
-12	Pariser	Pariser	N	1	
-13	Verhältnisse	Verhältnis	N	1	
-14	geräumig	geräumig	G	1	
-15	sind	sein	V	1	
-16	.	.	O	1	
+1	Ein	eine	D	1	O
+2	großer	groß	G	1	O
+3	Pluspunkt	Pluspunkt	N	1	O
+4	ist	sein	V	1	O
+5	,	,	O	1	O
+6	dass	dass	C	1	O
+7	die	die	D	1	O
+8	Standard	Standard	N	1	O
+9	·	·	O	1	O
+10	Zimmer	Zimmer	N	1	O
+11	für	für	P	1	O
+12	Pariser	Pariser	N	1	O
+13	Verhältnisse	Verhältnis	N	1	O
+14	geräumig	geräumig	G	1	O
+15	sind	sein	V	1	O
+16	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Badezimmer	Badezimmer	N	1	
-3	war	sein	V	1	
-4	auch	auch	A	1	
-5	groß	groß	G	1	
-6	,	,	O	1	
-7	aber	aber	A	1	
-8	an	an	P	1	
-9	einigen	einige	Q	1	
-10	Stellen	Stelle|Stellen	N	1	
-11	renovierungsbedürftig	renovierungsbedürftig	G	1	
-12	.	.	O	1	
+1	Das	die	D	1	O
+2	Badezimmer	Badezimmer	N	1	O
+3	war	sein	V	1	O
+4	auch	auch	A	1	O
+5	groß	groß	G	1	O
+6	,	,	O	1	O
+7	aber	aber	A	1	O
+8	an	an	P	1	O
+9	einigen	einige	Q	1	O
+10	Stellen	Stelle|Stellen	N	1	O
+11	renovierungsbedürftig	renovierungsbedürftig	G	1	O
+12	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstücksbüffet	Frühstücksbüffet	O	1	
-3	ist	sein	V	1	
-4	recht	recht	G	1	
-5	reichhaltig	reichhaltig	G	1	
-6	und	und	C	1	
-7	absolut	absolut	G	1	
-8	empfehlenswert	empfehlenswert	G	1	
-9	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstücksbüffet	Frühstücksbüffet	O	1	O
+3	ist	sein	V	1	O
+4	recht	recht	G	1	O
+5	reichhaltig	reichhaltig	G	1	O
+6	und	und	C	1	O
+7	absolut	absolut	G	1	O
+8	empfehlenswert	empfehlenswert	G	1	O
+9	.	.	O	1	O
 

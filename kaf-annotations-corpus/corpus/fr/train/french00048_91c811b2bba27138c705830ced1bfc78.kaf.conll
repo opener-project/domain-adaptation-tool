@@ -1,41 +1,41 @@
-1	Agréble	Agréble	G	1	
-2	moment	moment	N	1	
+1	Agréble	Agréble	G	1	O
+2	moment	moment	N	1	O
 
-1	a	avoir	V	1	
-2	visiter	visiter	V	1	
-3	avec	avec	P	1	
-4	des	un	D	1	
-5	enfants	enfant	N	1	
-6	concernés	concerner	V	1	
-7	par	par	P	1	
-8	le	le	D	1	
-9	monde	monde	N	1	
-10	scientifique	scientifique	G	1	
-11	et	et	C	1	
-12	surtout	surtout	G	1	
-13	pas	pas	G	1	
-14	avec	avec	P	1	
-15	des	un	D	1	
-16	trop	trop	N	1	
-17	jeunes	jeune	G	1	
+1	a	avoir	V	1	O
+2	visiter	visiter	V	1	O
+3	avec	avec	P	1	O
+4	des	un	D	1	O
+5	enfants	enfant	N	1	O
+6	concernés	concerner	V	1	O
+7	par	par	P	1	O
+8	le	le	D	1	O
+9	monde	monde	N	1	O
+10	scientifique	scientifique	G	1	O
+11	et	et	C	1	O
+12	surtout	surtout	G	1	O
+13	pas	pas	G	1	O
+14	avec	avec	P	1	O
+15	des	un	D	1	O
+16	trop	trop	N	1	O
+17	jeunes	jeune	G	1	O
 
-1	Le	le	D	1	
-2	prix	prix	N	1	
-3	d'	d'	P	1	
-4	entrée	entrée	N	1	
-5	est	être	V	1	
-6	aussi	aussi	G	1	
-7	salé	saler	V	1	
-8	que	que	C	1	
-9	l'	le	D	1	
-10	océan	océan	N	1	
-11	alors	alors	G	1	
-12	allez	allez	P	1	
-13	·	·	P	1	
-14	y	y	Q	1	
-15	avec	avec	P	1	
-16	des	un	D	1	
-17	super	super	N	1	
-18	motivés	motivés	N	1	
-19	!	!	O	1	
+1	Le	le	D	1	O
+2	prix	prix	N	1	O
+3	d'	d'	P	1	O
+4	entrée	entrée	N	1	O
+5	est	être	V	1	O
+6	aussi	aussi	G	1	O
+7	salé	saler	V	1	O
+8	que	que	C	1	O
+9	l'	le	D	1	O
+10	océan	océan	N	1	O
+11	alors	alors	G	1	O
+12	allez	allez	P	1	O
+13	·	·	P	1	O
+14	y	y	Q	1	O
+15	avec	avec	P	1	O
+16	des	un	D	1	O
+17	super	super	N	1	O
+18	motivés	motivés	N	1	O
+19	!	!	O	1	O
 

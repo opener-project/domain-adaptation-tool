@@ -1,51 +1,55 @@
-1	Fines	fines	R	1	
-2	de	de	O	1	
-3	semana	semana	O	1	
-4	agosto_y_septiembre	agosto_y_septiembre	R	1	ne=Date
-5	,	,	O	1	
-6	muy	muy	G	1	
-7	mal	mal	G	1	
+1	Fines	fines	R	1	O
+2	de	de	O	1	O
+3	semana	semana	O	1	O
+4	agosto	agosto	O	1	I-Date
+5	y	y	G	1	I-Date
+6	septiembre	septiembre	N	1	I-Date
+7	,	,	O	1	O
+8	muy	muy	G	1	O
+9	mal	mal	G	1	O
 
-1	en	en	P	1	
-2	agosto_y_septiembre	agosto_y_septiembre	R	1	ne=Date
-3	los	los	N	1	
-4	fines	fine	V	1	
-5	de	de	P	1	
-6	semana	semana	N	1	
-7	llegan	llegan	V	1	
-8	3000	3000	O	1	
-9	.........	.........	O	1	
-10	"	"	N	1	
-11	personas	persona	N	1	
-12	"	"	V	1	
-13	que	que	G	1	
-14	dejan	dejan	N	1	
-15	que	que	N	1	
-16	desear	desear	N	1	
-17	(	(	O	1	
-18	mejor	mejor	O	1	
-19	no	no	D	1	
-20	comento	comento	N	1	
-21	)	)	O	1	
-22	destroyers	destroyer	N	1	
-23	en	en	P	1	
-24	general	general	G	1	
+1	en	en	P	1	O
+2	agosto	agosto	D	1	I-Date
+3	y	y	G	1	I-Date
+4	septiembre	septiembre	N	1	I-Date
+5	los	los	N	1	O
+6	fines	fine	V	1	O
+7	de	de	P	1	O
+8	semana	semana	N	1	O
+9	llegan	llegan	V	1	O
+10	3000	3000	O	1	O
+11	.........	.........	O	1	O
+12	"	"	N	1	O
+13	personas	persona	N	1	O
+14	"	"	V	1	O
+15	que	que	G	1	O
+16	dejan	dejan	N	1	O
+17	que	que	N	1	O
+18	desear	desear	N	1	O
+19	(	(	O	1	O
+20	mejor	mejor	O	1	O
+21	no	no	D	1	O
+22	comento	comento	N	1	O
+23	)	)	O	1	O
+24	destroyers	destroyer	N	1	O
+25	en	en	P	1	O
+26	general	general	G	1	O
 
-1	lo	lo	G	1	
-2	ensuciaron	ensuciaron	N	1	
-3	todo	todo	N	1	
-4	,	,	O	1	
-5	bañandose	bañandose	N	1	
-6	vestidos	vestidos	N	1	
-7	en	en	P	1	
-8	las	las	N	1	
-9	piscinas	piscinas	N	1	
-10	,	,	O	1	
-11	comida	comida	O	1	
-12	en	en	O	1	
-13	las	las	O	1	
-14	piscinas	piscinas	O	1	
+1	lo	lo	G	1	O
+2	ensuciaron	ensuciaron	N	1	O
+3	todo	todo	N	1	O
+4	,	,	O	1	O
+5	bañandose	bañandose	N	1	O
+6	vestidos	vestidos	N	1	O
+7	en	en	P	1	O
+8	las	las	N	1	O
+9	piscinas	piscinas	N	1	O
+10	,	,	O	1	O
+11	comida	comida	O	1	O
+12	en	en	O	1	O
+13	las	las	O	1	O
+14	piscinas	piscinas	O	1	O
 
-1	muy	muy	G	1	
-2	mal	mal	G	1	
+1	muy	muy	G	1	O
+2	mal	mal	G	1	O
 

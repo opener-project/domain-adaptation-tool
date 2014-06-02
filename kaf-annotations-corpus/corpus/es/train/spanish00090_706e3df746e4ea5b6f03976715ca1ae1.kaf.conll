@@ -1,153 +1,153 @@
-1	Una	Una	R	1	
-2	pasada	pasada	N	1	
+1	Una	Una	R	1	O
+2	pasada	pasada	N	1	O
 
-1	Hemos	Hemos	R	1	
-2	recibido	recibido	N	1	
-3	en	en	P	1	
-4	nuestra	nuestra	G	1	
-5	visita	visita	N	1	
-6	un	un	G	1	
-7	trato	trato	N	1	
-8	excelente	excelente	N	1	
-9	,	,	O	1	
-10	.	.	O	1	
+1	Hemos	Hemos	R	1	O
+2	recibido	recibido	N	1	O
+3	en	en	P	1	O
+4	nuestra	nuestra	G	1	O
+5	visita	visita	N	1	O
+6	un	un	G	1	O
+7	trato	trato	N	1	O
+8	excelente	excelente	N	1	O
+9	,	,	O	1	O
+10	.	.	O	1	O
 
-1	La	La	R	1	
-2	decoración	decoración	N	1	
-3	,	,	O	1	
-4	nada	nada	O	1	
-5	más	más	O	1	
-6	entrar	entrar	O	1	
-7	nos	nos	O	1	
-8	pareció	pareció	N	1	
-9	fantástica	fantástica	N	1	
-10	.	.	O	1	
+1	La	La	R	1	O
+2	decoración	decoración	N	1	O
+3	,	,	O	1	O
+4	nada	nada	O	1	O
+5	más	más	O	1	O
+6	entrar	entrar	O	1	O
+7	nos	nos	O	1	O
+8	pareció	pareció	N	1	O
+9	fantástica	fantástica	N	1	O
+10	.	.	O	1	O
 
-1	La	La	R	1	
-2	verdad	verdad	N	1	
-3	que	que	N	1	
-4	quedamos	quedamos	N	1	
-5	encantados	encantados	V	1	
-6	con	con	G	1	
-7	el	el	N	1	
-8	trato	trato	N	1	
-9	del	del	O	1	
-10	personal	personal	O	1	
-11	.	.	O	1	
+1	La	La	R	1	O
+2	verdad	verdad	N	1	O
+3	que	que	N	1	O
+4	quedamos	quedamos	N	1	O
+5	encantados	encantados	V	1	O
+6	con	con	G	1	O
+7	el	el	N	1	O
+8	trato	trato	N	1	O
+9	del	del	O	1	O
+10	personal	personal	O	1	O
+11	.	.	O	1	O
 
-1	Con	con	O	1	
-2	la	la	O	1	
-3	limpieza	limpieza	O	1	
-4	del	del	O	1	
-5	hotel	hotel	N	1	
-6	y	y	A	1	
-7	con	con	G	1	
-8	todo	todo	N	1	
-9	en	en	P	1	
-10	general	general	G	1	
-11	.	.	O	1	
+1	Con	con	O	1	O
+2	la	la	O	1	O
+3	limpieza	limpieza	O	1	O
+4	del	del	O	1	O
+5	hotel	hotel	N	1	O
+6	y	y	A	1	O
+7	con	con	G	1	O
+8	todo	todo	N	1	O
+9	en	en	P	1	O
+10	general	general	G	1	O
+11	.	.	O	1	O
 
-1	De	De	R	1	
-2	lo	lo	N	1	
-3	que	que	N	1	
-4	no	no	D	1	
-5	puedo	puedo	N	1	
-6	opinar	opinar	A	1	
-7	es	es	V	1	
-8	de	de	O	1	
-9	la	la	O	1	
-10	comida	comida	O	1	
-11	y	y	G	1	
-12	el	el	N	1	
-13	bar	bar	N	1	
-14	porque	porque	N	1	
-15	comimos	comimos	N	1	
-16	y	y	G	1	
-17	cenamos	cenamos	N	1	
-18	por	por	V	1	
-19	los	los	N	1	
-20	alrededores	alrededores	N	1	
-21	,	,	O	1	
-22	donde	donde	V	1	
-23	puedes	puedes	N	1	
-24	encontrar	encontrar	V	1	
-25	de	de	P	1	
-26	todo	todo	N	1	
-27	.	.	O	1	
+1	De	De	R	1	O
+2	lo	lo	N	1	O
+3	que	que	N	1	O
+4	no	no	D	1	O
+5	puedo	puedo	N	1	O
+6	opinar	opinar	A	1	O
+7	es	es	V	1	O
+8	de	de	O	1	O
+9	la	la	O	1	O
+10	comida	comida	O	1	O
+11	y	y	G	1	O
+12	el	el	N	1	O
+13	bar	bar	N	1	O
+14	porque	porque	N	1	O
+15	comimos	comimos	N	1	O
+16	y	y	G	1	O
+17	cenamos	cenamos	N	1	O
+18	por	por	V	1	O
+19	los	los	N	1	O
+20	alrededores	alrededores	N	1	O
+21	,	,	O	1	O
+22	donde	donde	V	1	O
+23	puedes	puedes	N	1	O
+24	encontrar	encontrar	V	1	O
+25	de	de	P	1	O
+26	todo	todo	N	1	O
+27	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	instalaciones	instalaciones	V	1	
-3	para	para	G	1	
-4	pasar	pasar	N	1	
-5	el	el	N	1	
-6	tiempo	tiempo	O	1	
-7	libre	libre	N	1	
-8	tampoco	tampoco	N	1	
-9	las	las	V	1	
-10	pisamos	pisamos	N	1	
-11	.	.	O	1	
+1	Las	Las	R	1	O
+2	instalaciones	instalaciones	V	1	O
+3	para	para	G	1	O
+4	pasar	pasar	N	1	O
+5	el	el	N	1	O
+6	tiempo	tiempo	O	1	O
+7	libre	libre	N	1	O
+8	tampoco	tampoco	N	1	O
+9	las	las	V	1	O
+10	pisamos	pisamos	N	1	O
+11	.	.	O	1	O
 
-1	El	El	R	1	
-2	equipamiento	equipamiento	O	1	
-3	de	de	O	1	
-4	las	las	O	1	
-5	habitaciones	habitaciones	N	1	
-6	súper	súper	G	1	
-7	completo	completo	N	1	
-8	.	.	O	1	
+1	El	El	R	1	O
+2	equipamiento	equipamiento	O	1	O
+3	de	de	O	1	O
+4	las	las	O	1	O
+5	habitaciones	habitaciones	N	1	O
+6	súper	súper	G	1	O
+7	completo	completo	N	1	O
+8	.	.	O	1	O
 
-1	El	El	R	1	
-2	baño	baño	N	1	
-3	precioso	precioso	N	1	
-4	y	y	G	1	
-5	con	con	N	1	
-6	las	las	V	1	
-7	cosas	cosas	N	1	
-8	necesarias	necesarias	N	1	
-9	.	.	O	1	
+1	El	El	R	1	O
+2	baño	baño	N	1	O
+3	precioso	precioso	N	1	O
+4	y	y	G	1	O
+5	con	con	N	1	O
+6	las	las	V	1	O
+7	cosas	cosas	N	1	O
+8	necesarias	necesarias	N	1	O
+9	.	.	O	1	O
 
-1	Muy	Muy	R	1	
-2	original	original	G	1	
-3	las	las	N	1	
-4	chocolatinas	chocolatinas	V	1	
-5	de	de	P	1	
-6	la	la	D	1	
-7	habitación	habitación	N	1	
-8	.	.	O	1	
+1	Muy	Muy	R	1	O
+2	original	original	G	1	O
+3	las	las	N	1	O
+4	chocolatinas	chocolatinas	V	1	O
+5	de	de	P	1	O
+6	la	la	D	1	O
+7	habitación	habitación	N	1	O
+8	.	.	O	1	O
 
-1	Al	Al	R	1	
-2	entrar	entrar	N	1	
-3	te	te	N	1	
-4	invitan	invitan	V	1	
-5	a	a	D	1	
-6	una	una	G	1	
-7	copa	copa	N	1	
-8	de	de	P	1	
-9	champán	champán	G	1	
-10	pero	pero	P	1	
-11	no	no	D	1	
-12	la	la	N	1	
-13	tomamos	tomamos	N	1	
-14	.	.	O	1	
+1	Al	Al	R	1	O
+2	entrar	entrar	N	1	O
+3	te	te	N	1	O
+4	invitan	invitan	V	1	O
+5	a	a	D	1	O
+6	una	una	G	1	O
+7	copa	copa	N	1	O
+8	de	de	P	1	O
+9	champán	champán	G	1	O
+10	pero	pero	P	1	O
+11	no	no	D	1	O
+12	la	la	N	1	O
+13	tomamos	tomamos	N	1	O
+14	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	sábanas	sábanas	V	1	
-3	,	,	O	1	
-4	mantas	mantas	V	1	
-5	y	y	A	1	
-6	decoración	decoración	G	1	
-7	de	de	P	1	
-8	la	la	D	1	
-9	cama	cama	N	1	
-10	muy	muy	G	1	
-11	guapo	guapo	N	1	
-12	.	.	O	1	
+1	Las	Las	R	1	O
+2	sábanas	sábanas	V	1	O
+3	,	,	O	1	O
+4	mantas	mantas	V	1	O
+5	y	y	A	1	O
+6	decoración	decoración	G	1	O
+7	de	de	P	1	O
+8	la	la	D	1	O
+9	cama	cama	N	1	O
+10	muy	muy	G	1	O
+11	guapo	guapo	N	1	O
+12	.	.	O	1	O
 
-1	El	El	R	1	
-2	colchón	colchón	V	1	
-3	también	también	G	1	
-4	era	era	N	1	
-5	súper	súper	N	1	
-6	cómodo	cómodo	N	1	
-7	.	.	O	1	
+1	El	El	R	1	O
+2	colchón	colchón	V	1	O
+3	también	también	G	1	O
+4	era	era	N	1	O
+5	súper	súper	N	1	O
+6	cómodo	cómodo	N	1	O
+7	.	.	O	1	O
 

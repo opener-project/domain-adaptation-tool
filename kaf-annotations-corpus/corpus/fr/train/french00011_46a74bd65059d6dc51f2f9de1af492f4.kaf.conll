@@ -1,39 +1,39 @@
-1	Super	super	N	1	
-2	parc	parc	P	1	
+1	Super	super	N	1	O
+2	parc	parc	P	1	O
 
-1	les	le	D	1	
-2	animaux	animal	N	1	
-3	vivent	vivre	V	1	
-4	en	en	P	1	
-5	semi	semi	N	1	
-6	·	·	G	1	
-7	liberté	liberté	N	1	
+1	les	le	D	1	O
+2	animaux	animal	N	1	O
+3	vivent	vivre	V	1	O
+4	en	en	P	1	O
+5	semi	semi	N	1	O
+6	·	·	G	1	O
+7	liberté	liberté	N	1	O
 
-1	Les	le	D	1	
-2	loups	loup	N	1	
-3	guellent	guellent	V	1	
-4	tous	tout	G	1	
-5	les	le	D	1	
-6	matins	matin	N	1	
-7	et	et	C	1	
-8	tous	tout	G	1	
-9	les	le	D	1	
-10	soirs	soir	N	1	
+1	Les	le	D	1	O
+2	loups	loup	N	1	O
+3	guellent	guellent	V	1	O
+4	tous	tout	G	1	O
+5	les	le	D	1	O
+6	matins	matin	N	1	O
+7	et	et	C	1	O
+8	tous	tout	G	1	O
+9	les	le	D	1	O
+10	soirs	soir	N	1	O
 
-1	Marmottes	marmotte	N	1	
-2	:	:	O	1	
-3	super	super	N	1	
-4	contact	contact	N	1	
-5	avec	avec	P	1	
-6	les	le	D	1	
-7	enfants	enfant	N	1	
+1	Marmottes	marmotte	N	1	O
+2	:	:	O	1	O
+3	super	super	N	1	O
+4	contact	contact	N	1	O
+5	avec	avec	P	1	O
+6	les	le	D	1	O
+7	enfants	enfant	N	1	O
 
-1	tres	tres	G	1	
-2	tres	tres	G	1	
-3	beau	beau	G	1	
-4	parc	parc	N	1	
-5	propre	propre	G	1	
-6	et	et	C	1	
-7	bien	bien	G	1	
-8	entretenu	entretenir	V	1	
+1	tres	tres	G	1	O
+2	tres	tres	G	1	O
+3	beau	beau	G	1	O
+4	parc	parc	N	1	O
+5	propre	propre	G	1	O
+6	et	et	C	1	O
+7	bien	bien	G	1	O
+8	entretenu	entretenir	V	1	O
 

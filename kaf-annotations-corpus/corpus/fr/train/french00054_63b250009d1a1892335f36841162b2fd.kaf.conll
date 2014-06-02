@@ -1,131 +1,132 @@
-1	Un	un	D	1	
-2	camping	camping	N	1	
-3	qui	qui	P	1	
-4	ne	ne	G	1	
-5	pense	penser	V	1	
-6	qu'	qu'	G	1	
-7	à	à	P	1	
-8	l'	le	D	1	
-9	argent	argent	N	1	
-10	!	!	O	1	
+1	Un	un	D	1	O
+2	camping	camping	N	1	O
+3	qui	qui	P	1	O
+4	ne	ne	G	1	O
+5	pense	penser	V	1	O
+6	qu'	qu'	G	1	O
+7	à	à	P	1	O
+8	l'	le	D	1	O
+9	argent	argent	N	1	O
+10	!	!	O	1	O
 
-1	Si	Si	C	1	
-2	la	le	D	1	
-3	situation	situation	N	1	
-4	du	du	P	1	
-5	camping	camping	N	1	
-6	est	être	V	1	
-7	bien	bien	G	1	
-8	,	,	O	1	
-9	l'	le	D	1	
-10	intérieur	intérieur	N	1	
-11	l'	le	D	1	
-12	est	être	V	1	
-13	tout	tout	G	1	
-14	au	au	P	1	
-15	contraire	contraire	V	1	
-16	!	!	O	1	
+1	Si	Si	C	1	O
+2	la	le	D	1	O
+3	situation	situation	N	1	O
+4	du	du	P	1	O
+5	camping	camping	N	1	O
+6	est	être	V	1	O
+7	bien	bien	G	1	O
+8	,	,	O	1	O
+9	l'	le	D	1	O
+10	intérieur	intérieur	N	1	O
+11	l'	le	D	1	O
+12	est	être	V	1	O
+13	tout	tout	G	1	O
+14	au	au	P	1	O
+15	contraire	contraire	V	1	O
+16	!	!	O	1	O
 
-1	Un	un	D	1	
-2	petit	petit	G	1	
-3	bar	bar	N	1	
-4	qui	qui	P	1	
-5	devrait	devoir	V	1	
-6	être	être	V	1	
-7	refait	refaire	V	1	
-8	ainsi	ainsi	G	1	
-9	que	que	C	1	
-10	sa	son	D	1	
-11	terrasse	terrasse	N	1	
-12	,	,	O	1	
-13	le	le	D	1	
-14	minigolf	minigolf	N	1	
-15	,	,	O	1	
-16	les	le	D	1	
-17	terrains	terrain	N	1	
-18	de	de	P	1	
-19	tennis	tennis	N	1	
-20	,	,	O	1	
-21	la	le	D	1	
-22	table	table	N	1	
-23	de	de	P	1	
-24	ping	ping	N	1	
-25	pong	pong	G	1	
-26	.	.	O	1	
+1	Un	un	D	1	O
+2	petit	petit	G	1	O
+3	bar	bar	N	1	O
+4	qui	qui	P	1	O
+5	devrait	devoir	V	1	O
+6	être	être	V	1	O
+7	refait	refaire	V	1	O
+8	ainsi	ainsi	G	1	O
+9	que	que	C	1	O
+10	sa	son	D	1	O
+11	terrasse	terrasse	N	1	O
+12	,	,	O	1	O
+13	le	le	D	1	O
+14	minigolf	minigolf	N	1	O
+15	,	,	O	1	O
+16	les	le	D	1	O
+17	terrains	terrain	N	1	O
+18	de	de	P	1	O
+19	tennis	tennis	N	1	O
+20	,	,	O	1	O
+21	la	le	D	1	O
+22	table	table	N	1	O
+23	de	de	P	1	O
+24	ping	ping	N	1	O
+25	pong	pong	G	1	O
+26	.	.	O	1	O
 
-1	Inseré	Inseré	V	1	
-2	une	un	D	1	
-3	douche	douche	N	1	
-4	à	à	P	1	
-5	l'	le	D	1	
-6	intérieur	intérieur	N	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	piscine	piscine	N	1	
-10	de	de	P	1	
-11	l'_Estanque	le_Estanque	R	1	ne=Hotel
-12	ne	ne	G	1	
-13	serait	être	V	1	
-14	pas	pas	G	1	
-15	un	un	D	1	
-16	luxe	luxe	N	1	
-17	!	!	O	1	
+1	Inseré	Inseré	V	1	O
+2	une	un	D	1	O
+3	douche	douche	N	1	O
+4	à	à	P	1	O
+5	l'	le	D	1	O
+6	intérieur	intérieur	N	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	piscine	piscine	N	1	O
+10	de	de	P	1	O
+11	l'	le	D	1	I-Hotel
+12	Estanque	Estanque	N	1	I-Hotel
+13	ne	ne	G	1	O
+14	serait	être	V	1	O
+15	pas	pas	G	1	O
+16	un	un	D	1	O
+17	luxe	luxe	N	1	O
+18	!	!	O	1	O
 
-1	Un	un	D	1	
-2	directeur	directeur	N	1	
-3	très	très	G	1	
-4	peu	peu	G	1	
-5	aimable	aimable	G	1	
-6	qui	qui	P	1	
-7	ne	ne	G	1	
-8	pense	penser	V	1	
-9	qu'	qu'	G	1	
-10	à	à	P	1	
-11	soutirer	soutirer	V	1	
-12	des	un	D	1	
-13	sous	sous	P	1	
-14	à	à	P	1	
-15	ses	son	D	1	
-16	clients	client	N	1	
-17	.	.	O	1	
+1	Un	un	D	1	O
+2	directeur	directeur	N	1	O
+3	très	très	G	1	O
+4	peu	peu	G	1	O
+5	aimable	aimable	G	1	O
+6	qui	qui	P	1	O
+7	ne	ne	G	1	O
+8	pense	penser	V	1	O
+9	qu'	qu'	G	1	O
+10	à	à	P	1	O
+11	soutirer	soutirer	V	1	O
+12	des	un	D	1	O
+13	sous	sous	P	1	O
+14	à	à	P	1	O
+15	ses	son	D	1	O
+16	clients	client	N	1	O
+17	.	.	O	1	O
 
-1	En	En	P	1	
-2	ce	ce	P	1	
-3	qui	qui	P	1	
-4	concerne	concerner	V	1	
-5	les	le	D	1	
-6	saisonniers	saisonnier	N	1	
-7	,	,	O	1	
-8	si	si	C	1	
-9	les	le	D	1	
-10	surveillants	surveillant	N	1	
-11	de	de	P	1	
-12	baignade	baignade	N	1	
-13	et	et	C	1	
-14	les	le	D	1	
-15	femmes	femme	N	1	
-16	à	à	P	1	
-17	l'	le	D	1	
-18	accueil	accueil	N	1	
-19	sont	être	V	1	
-20	très	très	G	1	
-21	sympathiques	sympathique	G	1	
-22	,	,	O	1	
-23	les	le	D	1	
-24	animatrices	animateur	N	1	
-25	et	et	C	1	
-26	les	le	D	1	
-27	barmans	barman	N	1	
-28	le	le	Q	1	
-29	sont	être	V	1	
-30	moins	moins	G	1	
-31	.	.	O	1	
+1	En	En	P	1	O
+2	ce	ce	P	1	O
+3	qui	qui	P	1	O
+4	concerne	concerner	V	1	O
+5	les	le	D	1	O
+6	saisonniers	saisonnier	N	1	O
+7	,	,	O	1	O
+8	si	si	C	1	O
+9	les	le	D	1	O
+10	surveillants	surveillant	N	1	O
+11	de	de	P	1	O
+12	baignade	baignade	N	1	O
+13	et	et	C	1	O
+14	les	le	D	1	O
+15	femmes	femme	N	1	O
+16	à	à	P	1	O
+17	l'	le	D	1	O
+18	accueil	accueil	N	1	O
+19	sont	être	V	1	O
+20	très	très	G	1	O
+21	sympathiques	sympathique	G	1	O
+22	,	,	O	1	O
+23	les	le	D	1	O
+24	animatrices	animateur	N	1	O
+25	et	et	C	1	O
+26	les	le	D	1	O
+27	barmans	barman	N	1	O
+28	le	le	Q	1	O
+29	sont	être	V	1	O
+30	moins	moins	G	1	O
+31	.	.	O	1	O
 
-1	Un	un	D	1	
-2	camping	camping	N	1	
-3	qui	qui	P	1	
-4	manque	manquer	V	1	
-5	de	de	P	1	
-6	classe	classe	N	1	
-7	!	!	O	1	
+1	Un	un	D	1	O
+2	camping	camping	N	1	O
+3	qui	qui	P	1	O
+4	manque	manquer	V	1	O
+5	de	de	P	1	O
+6	classe	classe	N	1	O
+7	!	!	O	1	O
 

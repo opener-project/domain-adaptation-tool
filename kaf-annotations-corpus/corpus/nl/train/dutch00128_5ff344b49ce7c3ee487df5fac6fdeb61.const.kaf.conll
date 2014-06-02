@@ -1,194 +1,197 @@
-1	Gezellige	gezellig	G	1	
-2	kleine	klein	G	1	
-3	camping	camping	N	1	
-4	met	met	P	1	
-5	HERRIE	herrie	N	1	
+1	Gezellige	gezellig	G	1	O
+2	kleine	klein	G	1	O
+3	camping	camping	N	1	O
+4	met	met	P	1	O
+5	HERRIE	herrie	N	1	O
 
-1	Plus	plus	A	1	
-2	:	:	O	1	
-3	Een	een	D	1	
-4	gezellige	gezellig	G	1	
-5	kleine	klein	G	1	
-6	camping	camping	N	1	
-7	.	.	O	1	
+1	Plus	plus	A	1	O
+2	:	:	O	1	O
+3	Een	een	D	1	O
+4	gezellige	gezellig	G	1	O
+5	kleine	klein	G	1	O
+6	camping	camping	N	1	O
+7	.	.	O	1	O
 
-1	Zowel	zowel	C	1	
-2	diep	diep	G	1	
-3	zwembad	zwembad	N	1	
-4	voor	voor	P	1	
-5	volwassenen	volwassene	N	1	
-6	als	als	C	1	
-7	klein	klein	G	1	
-8	zwembad	zwembad	N	1	
-9	voor	voor	P	1	
-10	0	@card@	O	1	
-11	·	·	O	1	
-12	4	@card@	O	1	
-13	jr.	jr	O	1	
-14	jr.	.	O	1	
-15	Overdag	overdag	A	1	
-16	zeer	zeer	G	1	
-17	rustig	rustig	G	1	
-18	(	(	O	1	
-19	je	je	Q	1	
-20	kon	kunnen	V	1	
-21	een	een	D	1	
-22	speld	speld	N	1	
-23	horen	horen	V	1	
-24	vallen	vallen	V	1	
-25	)	)	O	1	
-26	,	,	O	1	
-27	voldoende	voldoende	G	1	
-28	aanspraak	aanspraak	N	1	
-29	van	van	P	1	
-30	andere	ander	G	1	
-31	campinggasten	campinggast	N	1	
-32	(	(	O	1	
-33	veel	veel	O	1	
-34	NL'	NL	O	1	
-35	NL'	'	O	1	
-36	ers	ers	O	1	
-37	met	met	P	1	
-38	kleine	klein	G	1	
-39	kinderen	kind	N	1	
-40	vonden	vinden	V	1	
-41	wij	wij	Q	1	
-42	leuk	leuk	G	1	
-43	)	)	O	1	
-44	.	.	O	1	
+1	Zowel	zowel	C	1	O
+2	diep	diep	G	1	O
+3	zwembad	zwembad	N	1	O
+4	voor	voor	P	1	O
+5	volwassenen	volwassene	N	1	O
+6	als	als	C	1	O
+7	klein	klein	G	1	O
+8	zwembad	zwembad	N	1	O
+9	voor	voor	P	1	O
+10	0	@card@	O	1	O
+11	·	·	O	1	O
+12	4	@card@	O	1	O
+13	jr.	jr	O	1	O
+14	jr.	.	O	1	O
+15	Overdag	overdag	A	1	O
+16	zeer	zeer	G	1	O
+17	rustig	rustig	G	1	O
+18	(	(	O	1	O
+19	je	je	Q	1	O
+20	kon	kunnen	V	1	O
+21	een	een	D	1	O
+22	speld	speld	N	1	O
+23	horen	horen	V	1	O
+24	vallen	vallen	V	1	O
+25	)	)	O	1	O
+26	,	,	O	1	O
+27	voldoende	voldoende	G	1	O
+28	aanspraak	aanspraak	N	1	O
+29	van	van	P	1	O
+30	andere	ander	G	1	O
+31	campinggasten	campinggast	N	1	O
+32	(	(	O	1	O
+33	veel	veel	O	1	O
+34	NL'	NL	O	1	O
+35	NL'	'	O	1	O
+36	ers	ers	O	1	O
+37	met	met	P	1	O
+38	kleine	klein	G	1	O
+39	kinderen	kind	N	1	O
+40	vonden	vinden	V	1	O
+41	wij	wij	Q	1	O
+42	leuk	leuk	G	1	O
+43	)	)	O	1	O
+44	.	.	O	1	O
 
-1	GROTE	groot	G	1	
-2	Min	min	N	1	
-3	:	:	O	1	
-4	van	van	P	1	
-5	20.00_·_22	@card@_·_@card@	R	1	ne=Time
-6	.	.	O	1	
+1	GROTE	groot	G	1	O
+2	Min	min	N	1	O
+3	:	:	O	1	O
+4	van	van	P	1	O
+5	20.00	@card@	O	1	I-Time
+6	·	·	O	1	I-Time
+7	22	@card@	O	1	I-Time
+8	.	.	O	1	O
 
-1	30	@card@	O	1	
-2	uur	uur	N	1	
-3	oorverdovende	oorverdovend	G	1	
-4	herrie	herrie	N	1	
-5	:	:	O	1	
-6	kinderanimatie	kinderanimatie	O	1	
-7	voor	voor	P	1	
-8	een	een	D	1	
-9	10	@card@	O	1	
-10	·	·	O	1	
-11	15	@card@	O	1	
-12	tal	tal	N	1	
-13	volwassenen	volwassene	N	1	
-14	en	en	C	1	
-15	kinderen	kind	N	1	
-16	.	.	O	1	
+1	30	@card@	O	1	O
+2	uur	uur	N	1	O
+3	oorverdovende	oorverdovend	G	1	O
+4	herrie	herrie	N	1	O
+5	:	:	O	1	O
+6	kinderanimatie	kinderanimatie	O	1	O
+7	voor	voor	P	1	O
+8	een	een	D	1	O
+9	10	@card@	O	1	O
+10	·	·	O	1	O
+11	15	@card@	O	1	O
+12	tal	tal	N	1	O
+13	volwassenen	volwassene	N	1	O
+14	en	en	C	1	O
+15	kinderen	kind	N	1	O
+16	.	.	O	1	O
 
-1	Onbegrijpelijk	onbegrijpelijk	G	1	
-2	dat	dat	C	1	
-3	juist	juist	G	1	
-4	op	op	P	1	
-5	dit	dit	D	1	
-6	tijdstip	tijdstip	N	1	
-7	de	de	D	1	
-8	luidsprekers	luidspreker	N	1	
-9	aangingen	aangaan	V	1	
-10	en	en	C	1	
-11	de	de	D	1	
-12	gehele	geheel	G	1	
-13	camping	camping	N	1	
-14	hiervan	hiervan	Q	1	
-15	moest	moeten	V	1	
-16	genieten	genieten	V	1	
-17	.	.	O	1	
+1	Onbegrijpelijk	onbegrijpelijk	G	1	O
+2	dat	dat	C	1	O
+3	juist	juist	G	1	O
+4	op	op	P	1	O
+5	dit	dit	D	1	O
+6	tijdstip	tijdstip	N	1	O
+7	de	de	D	1	O
+8	luidsprekers	luidspreker	N	1	O
+9	aangingen	aangaan	V	1	O
+10	en	en	C	1	O
+11	de	de	D	1	O
+12	gehele	geheel	G	1	O
+13	camping	camping	N	1	O
+14	hiervan	hiervan	Q	1	O
+15	moest	moeten	V	1	O
+16	genieten	genieten	V	1	O
+17	.	.	O	1	O
 
-1	Herhaaldelijke	Herhaaldelijke	O	1	
-2	keren	keren	V	1	
-3	geklaagd	klagen	V	1	
-4	bij	bij	P	1	
-5	touroperator	touroperator	N	1	
-6	(	(	O	1	
-7	konden	kunnen	V	1	
-8	helaas	helaas	A	1	
-9	niets	niets	Q	1	
-10	voor	voor	P	1	
-11	ons	ons	Q	1	
-12	betekenen	betekenen	V	1	
-13	omdat	omdat	C	1	
-14	de	de	D	1	
-15	campingmanager	campingmanager	O	1	
-16	niet	niet	A	1	
-17	naar	naar	P	1	
-18	hen	hen	Q	1	
-19	luisterde	luisteren	V	1	
-20	...	...	O	1	
-21	)	)	O	1	
-22	en	en	C	1	
-23	ook	ook	A	1	
-24	bij	bij	P	1	
-25	de	de	D	1	
-26	campingmanager	campingmanager	O	1	
-27	(	(	O	1	
-28	hij	hij	Q	1	
-29	gaf	geven	V	1	
-30	aan	aan	P	1	
-31	dat	dat	D	1	
-32	juist	juist	G	1	
-33	Italianen	Italiaan	N	1	
-34	voor	voor	P	1	
-35	de	de	D	1	
-36	animatie	animatie	N	1	
-37	naar	naar	P	1	
-38	deze	deze	D	1	
-39	camping	camping	N	1	
-40	kwamen	komen	V	1	
-41	en	en	C	1	
-42	dat	dat	C	1	
-43	wij	wij	Q	1	
-44	als	als	C	1	
-45	Nederlanders	Nederlander	N	1	
-46	/	/	O	1	
-47	Duitsers	Duitser	N	1	
-48	/	/	O	1	
-49	Belgen	Belg	N	1	
-50	/	/	O	1	
-51	Engelsen	Engelse|Engelsman	N	1	
-52	dit	dit	Q	1	
-53	maar	maar	A	1	
-54	moesten	moeten	V	1	
-55	accepteren	accepteren	V	1	
-56	.	.	O	1	
+1	Herhaaldelijke	Herhaaldelijke	O	1	O
+2	keren	keren	V	1	O
+3	geklaagd	klagen	V	1	O
+4	bij	bij	P	1	O
+5	touroperator	touroperator	N	1	O
+6	(	(	O	1	O
+7	konden	kunnen	V	1	O
+8	helaas	helaas	A	1	O
+9	niets	niets	Q	1	O
+10	voor	voor	P	1	O
+11	ons	ons	Q	1	O
+12	betekenen	betekenen	V	1	O
+13	omdat	omdat	C	1	O
+14	de	de	D	1	O
+15	campingmanager	campingmanager	O	1	O
+16	niet	niet	A	1	O
+17	naar	naar	P	1	O
+18	hen	hen	Q	1	O
+19	luisterde	luisteren	V	1	O
+20	...	...	O	1	O
+21	)	)	O	1	O
+22	en	en	C	1	O
+23	ook	ook	A	1	O
+24	bij	bij	P	1	O
+25	de	de	D	1	O
+26	campingmanager	campingmanager	O	1	O
+27	(	(	O	1	O
+28	hij	hij	Q	1	O
+29	gaf	geven	V	1	O
+30	aan	aan	P	1	O
+31	dat	dat	D	1	O
+32	juist	juist	G	1	O
+33	Italianen	Italiaan	N	1	O
+34	voor	voor	P	1	O
+35	de	de	D	1	O
+36	animatie	animatie	N	1	O
+37	naar	naar	P	1	O
+38	deze	deze	D	1	O
+39	camping	camping	N	1	O
+40	kwamen	komen	V	1	O
+41	en	en	C	1	O
+42	dat	dat	C	1	O
+43	wij	wij	Q	1	O
+44	als	als	C	1	O
+45	Nederlanders	Nederlander	N	1	O
+46	/	/	O	1	O
+47	Duitsers	Duitser	N	1	O
+48	/	/	O	1	O
+49	Belgen	Belg	N	1	O
+50	/	/	O	1	O
+51	Engelsen	Engelse|Engelsman	N	1	O
+52	dit	dit	Q	1	O
+53	maar	maar	A	1	O
+54	moesten	moeten	V	1	O
+55	accepteren	accepteren	V	1	O
+56	.	.	O	1	O
 
-1	Echt	echt	A	1	
-2	onvoorstelbaar	onvoorstelbaar	G	1	
-3	!	!	O	1	
+1	Echt	echt	A	1	O
+2	onvoorstelbaar	onvoorstelbaar	G	1	O
+3	!	!	O	1	O
 
-1	Uiteindelijk	uiteindelijk	G	1	
-2	heeft	hebben	V	1	
-3	touroperator	touroperator	N	1	
-4	een	een	D	1	
-5	andere	ander	G	1	
-6	camping	camping	N	1	
-7	voor	voor	P	1	
-8	ons	ons	D	1	
-9	geboekt	boeken	V	1	
-10	waar	waar	Q	1	
-11	we	we	Q	1	
-12	wel	wel	A	1	
-13	'	'	O	1	
-14	s	s	N	1	
-15	avonds	avond	N	1	
-16	met	met	P	1	
-17	elkaar	elkaar	Q	1	
-18	een	een	D	1	
-19	gesprek	gesprek	N	1	
-20	konden	kunnen	V	1	
-21	voeren	voeren	V	1	
-22	.	.	O	1	
+1	Uiteindelijk	uiteindelijk	G	1	O
+2	heeft	hebben	V	1	O
+3	touroperator	touroperator	N	1	O
+4	een	een	D	1	O
+5	andere	ander	G	1	O
+6	camping	camping	N	1	O
+7	voor	voor	P	1	O
+8	ons	ons	D	1	O
+9	geboekt	boeken	V	1	O
+10	waar	waar	Q	1	O
+11	we	we	Q	1	O
+12	wel	wel	A	1	O
+13	'	'	O	1	O
+14	s	s	N	1	O
+15	avonds	avond	N	1	O
+16	met	met	P	1	O
+17	elkaar	elkaar	Q	1	O
+18	een	een	D	1	O
+19	gesprek	gesprek	N	1	O
+20	konden	kunnen	V	1	O
+21	voeren	voeren	V	1	O
+22	.	.	O	1	O
 
-1	Le_panacee	Le_panacee	R	1	ne=Hotel
-2	:	:	O	1	
-3	5	@card@	O	1	
+1	Le	Le	O	1	I-Hotel
+2	panacee	panacee	N	1	I-Hotel
+3	:	:	O	1	O
+4	5	@card@	O	1	O
 
-1	Touroperator	touroperator	N	1	
-2	:	:	O	1	
-3	10	@card@	O	1	
-4	!	!	O	1	
+1	Touroperator	touroperator	N	1	O
+2	:	:	O	1	O
+3	10	@card@	O	1	O
+4	!	!	O	1	O
 

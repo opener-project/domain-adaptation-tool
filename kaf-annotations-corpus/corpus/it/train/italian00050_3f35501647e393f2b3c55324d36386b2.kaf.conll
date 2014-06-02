@@ -1,122 +1,122 @@
-1	Peccato	peccato	N	1	
-2	per	per	P	1	
-3	il	lo	D	1	
-4	rumore	rumore	N	1	
+1	Peccato	peccato	N	1	O
+2	per	per	P	1	O
+3	il	lo	D	1	O
+4	rumore	rumore	N	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	é	é	G	1	
-4	bello	bello	N	1	
-5	,	,	O	1	
-6	molto	molto	G	1	
-7	pulito	pulito	N	1	
-8	,	,	O	1	
-9	con	con	P	1	
-10	camera	camera	N	1	
-11	ampie	ampio	G	1	
-12	e	e	Q	1	
-13	ben	ben	A	1	
-14	arredate	arredare	V	1	
-15	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	é	é	G	1	O
+4	bello	bello	N	1	O
+5	,	,	O	1	O
+6	molto	molto	G	1	O
+7	pulito	pulito	N	1	O
+8	,	,	O	1	O
+9	con	con	P	1	O
+10	camera	camera	N	1	O
+11	ampie	ampio	G	1	O
+12	e	e	Q	1	O
+13	ben	ben	A	1	O
+14	arredate	arredare	V	1	O
+15	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	servizio	servizio	N	1	
-3	é	é	R	1	
-4	ottimo	ottimo	G	1	
-5	,	,	O	1	
-6	tutti	tutto	G	1	
-7	soon	soon	N	1	
-8	molto	molto	A	1	
-9	gentile	gentile	G	1	
-10	,	,	O	1	
-11	disponibili	disponibile	G	1	
-12	e	e	Q	1	
-13	sorridenti	sorridere	V	1	
-14	.	.	O	1	
+1	Il	lo	D	1	O
+2	servizio	servizio	N	1	O
+3	é	é	R	1	O
+4	ottimo	ottimo	G	1	O
+5	,	,	O	1	O
+6	tutti	tutto	G	1	O
+7	soon	soon	N	1	O
+8	molto	molto	A	1	O
+9	gentile	gentile	G	1	O
+10	,	,	O	1	O
+11	disponibili	disponibile	G	1	O
+12	e	e	Q	1	O
+13	sorridenti	sorridere	V	1	O
+14	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	servizio	servizio	N	1	
-3	internet	internet	R	1	
-4	é	é	R	1	
-5	gratuito	gratuito	G	1	
-6	e	e	Q	1	
-7	funziona	funzionare	V	1	
-8	bene	bene	A	1	
-9	.	.	O	1	
+1	Il	lo	D	1	O
+2	servizio	servizio	N	1	O
+3	internet	internet	R	1	O
+4	é	é	R	1	O
+5	gratuito	gratuito	G	1	O
+6	e	e	Q	1	O
+7	funziona	funzionare	V	1	O
+8	bene	bene	A	1	O
+9	.	.	O	1	O
 
-1	Alla	alla	P	1	
-2	reception	reception	R	1	
-3	servo	servire	V	1	
-4	no	no	N	1	
-5	the	the	N	1	
-6	caldo	caldo	N	1	
-7	ed	ed	Q	1	
-8	offrono	offrire	V	1	
-9	datteri	dattero	N	1	
-10	buonissimi	buonissimi	G	1	
-11	.	.	O	1	
+1	Alla	alla	P	1	O
+2	reception	reception	R	1	O
+3	servo	servire	V	1	O
+4	no	no	N	1	O
+5	the	the	N	1	O
+6	caldo	caldo	N	1	O
+7	ed	ed	Q	1	O
+8	offrono	offrire	V	1	O
+9	datteri	dattero	N	1	O
+10	buonissimi	buonissimi	G	1	O
+11	.	.	O	1	O
 
-1	La	lo	D	1	
-2	clientela	clientela	N	1	
-3	é	é	R	1	
-4	soprattutto	soprattutto	A	1	
-5	europea	europeo	G	1	
-6	,	,	O	1	
-7	francesi	francese	G	1	
-8	,	,	O	1	
-9	italiani	italiano	N	1	
-10	e	e	Q	1	
-11	tedeschi	tedesco	N	1	
-12	sono	essere	V	1	
-13	in	in	P	1	
-14	maggioranza	maggioranza	N	1	
-15	.	.	O	1	
+1	La	lo	D	1	O
+2	clientela	clientela	N	1	O
+3	é	é	R	1	O
+4	soprattutto	soprattutto	A	1	O
+5	europea	europeo	G	1	O
+6	,	,	O	1	O
+7	francesi	francese	G	1	O
+8	,	,	O	1	O
+9	italiani	italiano	N	1	O
+10	e	e	Q	1	O
+11	tedeschi	tedesco	N	1	O
+12	sono	essere	V	1	O
+13	in	in	P	1	O
+14	maggioranza	maggioranza	N	1	O
+15	.	.	O	1	O
 
-1	Purtroppo	purtroppo	A	1	
-2	,	,	O	1	
-3	vista	vedere	V	1	
-4	la	lo	D	1	
-5	costruzione	costruzione	N	1	
-6	di	di	P	1	
-7	un	uno	D	1	
-8	nuovo	nuovo	G	1	
-9	centro	centro	N	1	
-10	commercial	commercial	N	1	
-11	proprio	proprio	A	1	
-12	di	di	P	1	
-13	fronte	fronte	N	1	
-14	,	,	O	1	
-15	l'	lo	D	1	
-16	accesso	accesso	N	1	
-17	al	al	P	1	
-18	mare	mare	N	1	
-19	é	é	N	1	
-20	diventato	diventare	V	1	
-21	difficile	difficile	G	1	
-22	e	e	Q	1	
-23	non	non	A	1	
-24	é	é	R	1	
-25	diretto	dirigere	V	1	
-26	come	come	A	1	
-27	lo	lo	D	1	
-28	era	essere	V	1	
-29	in	in	P	1	
-30	origine	origine	N	1	
-31	.	.	O	1	
+1	Purtroppo	purtroppo	A	1	O
+2	,	,	O	1	O
+3	vista	vedere	V	1	O
+4	la	lo	D	1	O
+5	costruzione	costruzione	N	1	O
+6	di	di	P	1	O
+7	un	uno	D	1	O
+8	nuovo	nuovo	G	1	O
+9	centro	centro	N	1	O
+10	commercial	commercial	N	1	O
+11	proprio	proprio	A	1	O
+12	di	di	P	1	O
+13	fronte	fronte	N	1	O
+14	,	,	O	1	O
+15	l'	lo	D	1	O
+16	accesso	accesso	N	1	O
+17	al	al	P	1	O
+18	mare	mare	N	1	O
+19	é	é	N	1	O
+20	diventato	diventare	V	1	O
+21	difficile	difficile	G	1	O
+22	e	e	Q	1	O
+23	non	non	A	1	O
+24	é	é	R	1	O
+25	diretto	dirigere	V	1	O
+26	come	come	A	1	O
+27	lo	lo	D	1	O
+28	era	essere	V	1	O
+29	in	in	P	1	O
+30	origine	origine	N	1	O
+31	.	.	O	1	O
 
-1	C'	c'	A	1	
-2	é	essere	V	1	
-3	comunque	comunque	A	1	
-4	un	uno	D	1	
-5	servizio	servizio	N	1	
-6	navetta	navetta	N	1	
-7	dall'	dall'	P	1	
-8	hotel	hotel	N	1	
-9	alla	alla	P	1	
-10	spiaggia	spiaggia	N	1	
-11	(	(	O	1	
-12	circa	circa	P	1	
-13	2	2	G	1	
-14	'	'	Q	1	
-15	)	)	O	1	
+1	C'	c'	A	1	O
+2	é	essere	V	1	O
+3	comunque	comunque	A	1	O
+4	un	uno	D	1	O
+5	servizio	servizio	N	1	O
+6	navetta	navetta	N	1	O
+7	dall'	dall'	P	1	O
+8	hotel	hotel	N	1	O
+9	alla	alla	P	1	O
+10	spiaggia	spiaggia	N	1	O
+11	(	(	O	1	O
+12	circa	circa	P	1	O
+13	2	2	G	1	O
+14	'	'	Q	1	O
+15	)	)	O	1	O
 

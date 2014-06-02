@@ -1,119 +1,122 @@
-1	Hotel_Beursstraat	Hotel_Beursstraat	R	1	ne=Hotel
+1	Hotel	Hotel	N	1	I-Hotel
+2	Beursstraat	Beursstraat	O	1	I-Hotel
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	macht	machen	V	1	
-4	auf	auf	P	1	
-5	den	die	D	1	
-6	ersten	erst	G	1	
-7	Eindruck	Eindruck	N	1	
-8	einen	eine	D	1	
-9	akzeptablen	akzeptabel	G	1	
-10	Eindruck	Eindruck	N	1	
-11	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	macht	machen	V	1	O
+4	auf	auf	P	1	O
+5	den	die	D	1	O
+6	ersten	erst	G	1	O
+7	Eindruck	Eindruck	N	1	O
+8	einen	eine	D	1	O
+9	akzeptablen	akzeptabel	G	1	O
+10	Eindruck	Eindruck	N	1	O
+11	.	.	O	1	O
 
-1	Jedoch	jedoch	A	1	
-2	wird	werden	V	1	
-3	dieser	diese	Q	1	
-4	sofort	sofort	A	1	
-5	nach	nach	P	1	
-6	dem	die	D	1	
-7	Durchaus	Durchaus	O	1	
-8	schlechten	schlecht	G	1	
-9	Check	Check	N	1	
-10	·	·	O	1	
-11	In	in	P	1	
-12	(	(	O	1	
-13	Mitarbeiter	Mitarbeiter	N	1	
-14	flucht	fluchen	V	1	
-15	weil	weil	C	1	
-16	er	er	Q	1	
-17	vom	von	P	1	
-18	Laptop	Laptop	R	1	
-19	aufstehen	aufstehen	V	1	
-20	muss	müssen	V	1	
-21	)	)	O	1	
-22	verworfen	verwerfen	V	1	
-23	.	.	O	1	
+1	Jedoch	jedoch	A	1	O
+2	wird	werden	V	1	O
+3	dieser	diese	Q	1	O
+4	sofort	sofort	A	1	O
+5	nach	nach	P	1	O
+6	dem	die	D	1	O
+7	Durchaus	Durchaus	O	1	O
+8	schlechten	schlecht	G	1	O
+9	Check	Check	N	1	O
+10	·	·	O	1	O
+11	In	in	P	1	O
+12	(	(	O	1	O
+13	Mitarbeiter	Mitarbeiter	N	1	O
+14	flucht	fluchen	V	1	O
+15	weil	weil	C	1	O
+16	er	er	Q	1	O
+17	vom	von	P	1	O
+18	Laptop	Laptop	R	1	O
+19	aufstehen	aufstehen	V	1	O
+20	muss	müssen	V	1	O
+21	)	)	O	1	O
+22	verworfen	verwerfen	V	1	O
+23	.	.	O	1	O
 
-1	Sobald	sobald	C	1	
-2	man	man	Q	1	
-3	das	die	D	1	
-4	Treppenhaus	Treppenhaus	N	1	
-5	des	die	D	1	
-6	Hotels	Hotel	N	1	
-7	betritt	betreten	V	1	
-8	,	,	O	1	
-9	kommt	kommen	V	1	
-10	einem	eine	Q	1	
-11	ein	eine	D	1	
-12	undefinierbarer	undefinierbar	G	1	
-13	Geruch	Geruch	N	1	
-14	entgegen	entgegen	V	1	
-15	,	,	O	1	
-16	der	die	Q	1	
-17	in	in	P	1	
-18	meinen	mein	Q	1	
-19	Augen	Auge	N	1	
-20	einem	eine	D	1	
-21	zahlendem	zahlend	G	1	
-22	Gast	Gast	N	1	
-23	nicht	nicht	O	1	
-24	zumutbar	zumutbar	G	1	
-25	ist	sein	V	1	
-26	.	.	O	1	
+1	Sobald	sobald	C	1	O
+2	man	man	Q	1	O
+3	das	die	D	1	O
+4	Treppenhaus	Treppenhaus	N	1	O
+5	des	die	D	1	O
+6	Hotels	Hotel	N	1	O
+7	betritt	betreten	V	1	O
+8	,	,	O	1	O
+9	kommt	kommen	V	1	O
+10	einem	eine	Q	1	O
+11	ein	eine	D	1	O
+12	undefinierbarer	undefinierbar	G	1	O
+13	Geruch	Geruch	N	1	O
+14	entgegen	entgegen	V	1	O
+15	,	,	O	1	O
+16	der	die	Q	1	O
+17	in	in	P	1	O
+18	meinen	mein	Q	1	O
+19	Augen	Auge	N	1	O
+20	einem	eine	D	1	O
+21	zahlendem	zahlend	G	1	O
+22	Gast	Gast	N	1	O
+23	nicht	nicht	O	1	O
+24	zumutbar	zumutbar	G	1	O
+25	ist	sein	V	1	O
+26	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Doppelzimmer	Doppelzimmer	N	1	
-3	das	die	Q	1	
-4	uns	wir	Q	1	
-5	70_€	70_€	R	1	ne=Money
-6	die	die	D	1	
-7	Nacht	Nacht	N	1	
-8	kostete	kosten	V	1	
-9	,	,	O	1	
-10	ist	sein	V	1	
-11	maximal	maximal	G	1	
-12	4m	4m	O	1	
-13	²	²	O	1	
-14	groß	groß	G	1	
-15	,	,	O	1	
-16	mit	mit	P	1	
-17	zwei	zwei	O	1	
-18	Betten	Bett|Betten	N	1	
-19	ausgestattet	ausstatten	V	1	
-20	.	.	O	1	
+1	Das	die	D	1	O
+2	Doppelzimmer	Doppelzimmer	N	1	O
+3	das	die	Q	1	O
+4	uns	wir	Q	1	O
+5	70	70	O	1	I-Money
+6	€	€	O	1	I-Money
+7	die	die	D	1	O
+8	Nacht	Nacht	N	1	O
+9	kostete	kosten	V	1	O
+10	,	,	O	1	O
+11	ist	sein	V	1	O
+12	maximal	maximal	G	1	O
+13	4m	4m	O	1	O
+14	²	²	O	1	O
+15	groß	groß	G	1	O
+16	,	,	O	1	O
+17	mit	mit	P	1	O
+18	zwei	zwei	O	1	O
+19	Betten	Bett|Betten	N	1	O
+20	ausgestattet	ausstatten	V	1	O
+21	.	.	O	1	O
 
-1	Für	für	P	1	
-2	den	die	D	1	
-3	Schlüssel	Schlüssel	N	1	
-4	mussten	müssen	V	1	
-5	wir	wir	Q	1	
-6	10_€	10_€	R	1	ne=Money
-7	Pfand	Pfand	N	1	
-8	entrichten	entrichten	V	1	
-9	.	.	O	1	
+1	Für	für	P	1	O
+2	den	die	D	1	O
+3	Schlüssel	Schlüssel	N	1	O
+4	mussten	müssen	V	1	O
+5	wir	wir	Q	1	O
+6	10	10	O	1	I-Money
+7	€	€	O	1	I-Money
+8	Pfand	Pfand	N	1	O
+9	entrichten	entrichten	V	1	O
+10	.	.	O	1	O
 
-1	Im	in	P	1	
-2	Hotel	Hotel	N	1	
-3	(	(	O	1	
-4	oder	oder	C	1	
-5	zum.	zu.	P	1	
-6	auf	auf	P	1	
-7	unserem	unser	Q	1	
-8	Stock	Stock	N	1	
-9	)	)	O	1	
-10	war	sein	V	1	
-11	es	es	Q	1	
-12	aufgrund	aufgrund	P	1	
-13	von	von	P	1	
-14	Musik	Musik	N	1	
-15	und	und	C	1	
-16	Gelächter	Gelächter	N	1	
-17	aus	aus	P	1	
-18	anderen	andere	Q	1	
-19	Zimmern	Zimmer	N	1	
-20	sehr	sehr	A	1	
-21	laut	laut	G	1	
-22	.	.	O	1	
+1	Im	in	P	1	O
+2	Hotel	Hotel	N	1	O
+3	(	(	O	1	O
+4	oder	oder	C	1	O
+5	zum.	zu.	P	1	O
+6	auf	auf	P	1	O
+7	unserem	unser	Q	1	O
+8	Stock	Stock	N	1	O
+9	)	)	O	1	O
+10	war	sein	V	1	O
+11	es	es	Q	1	O
+12	aufgrund	aufgrund	P	1	O
+13	von	von	P	1	O
+14	Musik	Musik	N	1	O
+15	und	und	C	1	O
+16	Gelächter	Gelächter	N	1	O
+17	aus	aus	P	1	O
+18	anderen	andere	Q	1	O
+19	Zimmern	Zimmer	N	1	O
+20	sehr	sehr	A	1	O
+21	laut	laut	G	1	O
+22	.	.	O	1	O
 

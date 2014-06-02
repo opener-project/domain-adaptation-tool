@@ -1,45 +1,45 @@
-1	Un	un	G	1	
-2	hotel	hotel	N	1	
-3	perfecto	perfecto	P	1	
+1	Un	un	G	1	O
+2	hotel	hotel	N	1	O
+3	perfecto	perfecto	P	1	O
 
-1	Estuvimos	estuvimos	N	1	
-2	3	3	O	1	
-3	amigas	amigas	P	1	
-4	y	y	G	1	
-5	fue	fue	N	1	
-6	todo	todo	N	1	
-7	perfecto	perfecto	O	1	
-8	.	.	O	1	
+1	Estuvimos	estuvimos	N	1	O
+2	3	3	O	1	O
+3	amigas	amigas	P	1	O
+4	y	y	G	1	O
+5	fue	fue	N	1	O
+6	todo	todo	N	1	O
+7	perfecto	perfecto	O	1	O
+8	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	está	está	N	1	
-4	muy	muy	O	1	
-5	bien	bien	V	1	
-6	comunicado	comunicado	G	1	
-7	con	con	N	1	
-8	el	el	N	1	
-9	metro	metro	N	1	
-10	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	está	está	N	1	O
+4	muy	muy	O	1	O
+5	bien	bien	V	1	O
+6	comunicado	comunicado	G	1	O
+7	con	con	N	1	O
+8	el	el	N	1	O
+9	metro	metro	N	1	O
+10	.	.	O	1	O
 
-1	La	La	R	1	
-2	habitación	habitación	O	1	
-3	muy	muy	G	1	
-4	bien	bien	N	1	
-5	,	,	O	1	
-6	y	y	G	1	
-7	el	el	N	1	
-8	desayuno	desayuno	N	1	
-9	buffet	buffet	N	1	
-10	genial.volveremos	genial.volveremos	N	1	
-11	a	a	D	1	
-12	repetir.El	repetir.El	R	1	
-13	trato	trato	N	1	
-14	del	del	O	1	
-15	personal	personal	G	1	
-16	fue	fue	N	1	
-17	también	también	N	1	
-18	muy	muy	G	1	
-19	bueno	bueno	N	1	
-20	.	.	O	1	
+1	La	La	R	1	O
+2	habitación	habitación	O	1	O
+3	muy	muy	G	1	O
+4	bien	bien	N	1	O
+5	,	,	O	1	O
+6	y	y	G	1	O
+7	el	el	N	1	O
+8	desayuno	desayuno	N	1	O
+9	buffet	buffet	N	1	O
+10	genial.volveremos	genial.volveremos	N	1	O
+11	a	a	D	1	O
+12	repetir.El	repetir.El	R	1	O
+13	trato	trato	N	1	O
+14	del	del	O	1	O
+15	personal	personal	G	1	O
+16	fue	fue	N	1	O
+17	también	también	N	1	O
+18	muy	muy	G	1	O
+19	bueno	bueno	N	1	O
+20	.	.	O	1	O
 

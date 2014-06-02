@@ -1,171 +1,171 @@
-1	Super	super	G	1	
-2	vakantie	vakantie	N	1	
-3	!	!	O	1	
+1	Super	super	G	1	O
+2	vakantie	vakantie	N	1	O
+3	!	!	O	1	O
 
-1	Met	met	P	1	
-2	twee	twee	O	1	
-3	kleine	klein	G	1	
-4	kinderen	kind	N	1	
-5	(	(	O	1	
-6	4	@card@	O	1	
-7	en	en	C	1	
-8	2	@card@	O	1	
-9	jaar	jaar	N	1	
-10	)	)	O	1	
-11	hebben	hebben	V	1	
-12	we	we	Q	1	
-13	ons	ons	Q	1	
-14	hier	hier	A	1	
-15	prima	prima	G	1	
-16	vermaakt	vermaken	V	1	
-17	.	.	O	1	
+1	Met	met	P	1	O
+2	twee	twee	O	1	O
+3	kleine	klein	G	1	O
+4	kinderen	kind	N	1	O
+5	(	(	O	1	O
+6	4	@card@	O	1	O
+7	en	en	C	1	O
+8	2	@card@	O	1	O
+9	jaar	jaar	N	1	O
+10	)	)	O	1	O
+11	hebben	hebben	V	1	O
+12	we	we	Q	1	O
+13	ons	ons	Q	1	O
+14	hier	hier	A	1	O
+15	prima	prima	G	1	O
+16	vermaakt	vermaken	V	1	O
+17	.	.	O	1	O
 
-1	Het	het	D	1	
-2	zwembad	zwembad	N	1	
-3	was	wezen|zijn	V	1	
-4	netjes	net|netjes	G	1	
-5	en	en	C	1	
-6	schoon	schoon	G	1	
-7	,	,	O	1	
-8	onze	ons	D	1	
-9	kamer	kamer	N	1	
-10	werd	worden	V	1	
-11	elke	elk	D	1	
-12	dag	dag	N	1	
-13	goed	goed	G	1	
-14	schoon	schoon	G	1	
-15	gemaakt	maken	V	1	
-16	en	en	C	1	
-17	het	het	D	1	
-18	eten	eten	N	1	
-19	was	wezen|zijn	V	1	
-20	heerlijk	heerlijk	G	1	
-21	.	.	O	1	
+1	Het	het	D	1	O
+2	zwembad	zwembad	N	1	O
+3	was	wezen|zijn	V	1	O
+4	netjes	net|netjes	G	1	O
+5	en	en	C	1	O
+6	schoon	schoon	G	1	O
+7	,	,	O	1	O
+8	onze	ons	D	1	O
+9	kamer	kamer	N	1	O
+10	werd	worden	V	1	O
+11	elke	elk	D	1	O
+12	dag	dag	N	1	O
+13	goed	goed	G	1	O
+14	schoon	schoon	G	1	O
+15	gemaakt	maken	V	1	O
+16	en	en	C	1	O
+17	het	het	D	1	O
+18	eten	eten	N	1	O
+19	was	wezen|zijn	V	1	O
+20	heerlijk	heerlijk	G	1	O
+21	.	.	O	1	O
 
-1	Met	met	P	1	
-2	name	naam|name	N	1	
-3	het	het	D	1	
-4	themarestaurant	themarestaurant	O	1	
-5	was	wezen|zijn	V	1	
-6	voortreffelijk.	voortreffelijk	G	1	
-7	voortreffelijk.	.	O	1	
-8	ook	ook	A	1	
-9	het	het	D	1	
-10	personeel	personeel	N	1	
-11	was	wezen|zijn	V	1	
-12	vriendelijk	vriendelijk	G	1	
-13	en	en	C	1	
-14	behulpzaam	behulpzaam	G	1	
-15	.	.	O	1	
+1	Met	met	P	1	O
+2	name	naam|name	N	1	O
+3	het	het	D	1	O
+4	themarestaurant	themarestaurant	O	1	O
+5	was	wezen|zijn	V	1	O
+6	voortreffelijk.	voortreffelijk	G	1	O
+7	voortreffelijk.	.	O	1	O
+8	ook	ook	A	1	O
+9	het	het	D	1	O
+10	personeel	personeel	N	1	O
+11	was	wezen|zijn	V	1	O
+12	vriendelijk	vriendelijk	G	1	O
+13	en	en	C	1	O
+14	behulpzaam	behulpzaam	G	1	O
+15	.	.	O	1	O
 
-1	Na	na	P	1	
-2	de	de	D	1	
-3	vakantie	vakantie	N	1	
-4	hebben	hebben	V	1	
-5	ze	ze	Q	1	
-6	zelfs	zelfs	A	1	
-7	de	de	D	1	
-8	ketting	ketting	N	1	
-9	van	van	P	1	
-10	onze	ons	D	1	
-11	dochter	dochter	N	1	
-12	,	,	O	1	
-13	die	die	Q	1	
-14	ze	ze	Q	1	
-15	had	hebben	V	1	
-16	laten	laten	V	1	
-17	liggen	liggen	V	1	
-18	bij	bij	P	1	
-19	vertrek	vertrek	N	1	
-20	,	,	O	1	
-21	nagezonden	nazenden	V	1	
-22	.	.	O	1	
+1	Na	na	P	1	O
+2	de	de	D	1	O
+3	vakantie	vakantie	N	1	O
+4	hebben	hebben	V	1	O
+5	ze	ze	Q	1	O
+6	zelfs	zelfs	A	1	O
+7	de	de	D	1	O
+8	ketting	ketting	N	1	O
+9	van	van	P	1	O
+10	onze	ons	D	1	O
+11	dochter	dochter	N	1	O
+12	,	,	O	1	O
+13	die	die	Q	1	O
+14	ze	ze	Q	1	O
+15	had	hebben	V	1	O
+16	laten	laten	V	1	O
+17	liggen	liggen	V	1	O
+18	bij	bij	P	1	O
+19	vertrek	vertrek	N	1	O
+20	,	,	O	1	O
+21	nagezonden	nazenden	V	1	O
+22	.	.	O	1	O
 
-1	Echt	echt	G	1	
-2	top	top	N	1	
-3	!	!	O	1	
+1	Echt	echt	G	1	O
+2	top	top	N	1	O
+3	!	!	O	1	O
 
-1	De	de	D	1	
-2	informatievoorziening	informatievoorziening	O	1	
-3	was	wezen|zijn	V	1	
-4	helaas	helaas	A	1	
-5	wat	wat	A	1	
-6	minder	min	G	1	
-7	.	.	O	1	
+1	De	de	D	1	O
+2	informatievoorziening	informatievoorziening	O	1	O
+3	was	wezen|zijn	V	1	O
+4	helaas	helaas	A	1	O
+5	wat	wat	A	1	O
+6	minder	min	G	1	O
+7	.	.	O	1	O
 
-1	We	we	Q	1	
-2	zaten	zitten	V	1	
-3	in	in	P	1	
-4	het	het	D	1	
-5	nieuwe	nieuw	G	1	
-6	gedeelte	gedeelte	N	1	
-7	van	van	P	1	
-8	het	het	D	1	
-9	complex	complex	N	1	
-10	,	,	O	1	
-11	met	met	P	1	
-12	een	een	D	1	
-13	eigen	eigen	G	1	
-14	receptie	receptie	N	1	
-15	.	.	O	1	
+1	We	we	Q	1	O
+2	zaten	zitten	V	1	O
+3	in	in	P	1	O
+4	het	het	D	1	O
+5	nieuwe	nieuw	G	1	O
+6	gedeelte	gedeelte	N	1	O
+7	van	van	P	1	O
+8	het	het	D	1	O
+9	complex	complex	N	1	O
+10	,	,	O	1	O
+11	met	met	P	1	O
+12	een	een	D	1	O
+13	eigen	eigen	G	1	O
+14	receptie	receptie	N	1	O
+15	.	.	O	1	O
 
-1	Dat	dat	Q	1	
-2	was	wezen|zijn	V	1	
-3	ons	ons	Q	1	
-4	in	in	P	1	
-5	het	het	D	1	
-6	begin	begin	N	1	
-7	niet	niet	A	1	
-8	duidelijk	duidelijk	G	1	
-9	,	,	O	1	
-10	waardoor	waardoor	Q	1	
-11	we	we	Q	1	
-12	toen	toen	A	1	
-13	regelmatig	regelmatig	G	1	
-14	bij	bij	P	1	
-15	de	de	D	1	
-16	'	'	O	1	
-17	verkeerde	verkeerd	G	1	
-18	'	'	O	1	
-19	receptie	receptie	N	1	
-20	stonden	stonde	N	1	
-21	.	.	O	1	
+1	Dat	dat	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	ons	ons	Q	1	O
+4	in	in	P	1	O
+5	het	het	D	1	O
+6	begin	begin	N	1	O
+7	niet	niet	A	1	O
+8	duidelijk	duidelijk	G	1	O
+9	,	,	O	1	O
+10	waardoor	waardoor	Q	1	O
+11	we	we	Q	1	O
+12	toen	toen	A	1	O
+13	regelmatig	regelmatig	G	1	O
+14	bij	bij	P	1	O
+15	de	de	D	1	O
+16	'	'	O	1	O
+17	verkeerde	verkeerd	G	1	O
+18	'	'	O	1	O
+19	receptie	receptie	N	1	O
+20	stonden	stonde	N	1	O
+21	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	kwamen	komen	V	1	
-3	we	we	Q	1	
-4	per	per	P	1	
-5	toeval	toeval	N	1	
-6	er	er	Q	1	
-7	achter	achter	A	1	
-8	dat	dat	C	1	
-9	er	er	Q	1	
-10	bij	bij	P	1	
-11	het	het	D	1	
-12	oude	oud	G	1	
-13	gedeelte	gedeelte	N	1	
-14	van	van	P	1	
-15	het	het	D	1	
-16	hotel	hotel	N	1	
-17	een	een	D	1	
-18	super	super	G	1	
-19	mooi	mooi	G	1	
-20	strand	strand	N	1	
-21	aanwezig	aanwezig	G	1	
-22	was	wezen|zijn	V	1	
-23	.	.	O	1	
+1	Ook	ook	A	1	O
+2	kwamen	komen	V	1	O
+3	we	we	Q	1	O
+4	per	per	P	1	O
+5	toeval	toeval	N	1	O
+6	er	er	Q	1	O
+7	achter	achter	A	1	O
+8	dat	dat	C	1	O
+9	er	er	Q	1	O
+10	bij	bij	P	1	O
+11	het	het	D	1	O
+12	oude	oud	G	1	O
+13	gedeelte	gedeelte	N	1	O
+14	van	van	P	1	O
+15	het	het	D	1	O
+16	hotel	hotel	N	1	O
+17	een	een	D	1	O
+18	super	super	G	1	O
+19	mooi	mooi	G	1	O
+20	strand	strand	N	1	O
+21	aanwezig	aanwezig	G	1	O
+22	was	wezen|zijn	V	1	O
+23	.	.	O	1	O
 
-1	Maar	maar	A	1	
-2	als	als	C	1	
-3	je	je	Q	1	
-4	daar	daar	A	1	
-5	allemaal	allemaal	Q	1	
-6	achter	achter	A	1	
-7	bent	zijn	V	1	
-8	gekomen	komen	V	1	
-9	is	zijn	V	1	
-10	het	het	Q	1	
-11	puur	puur	G	1	
-12	genieten	genieten	V	1	
-13	!	!	O	1	
+1	Maar	maar	A	1	O
+2	als	als	C	1	O
+3	je	je	Q	1	O
+4	daar	daar	A	1	O
+5	allemaal	allemaal	Q	1	O
+6	achter	achter	A	1	O
+7	bent	zijn	V	1	O
+8	gekomen	komen	V	1	O
+9	is	zijn	V	1	O
+10	het	het	Q	1	O
+11	puur	puur	G	1	O
+12	genieten	genieten	V	1	O
+13	!	!	O	1	O
 

@@ -1,46 +1,49 @@
-1	Journée	journée	N	1	
-2	mémorable	mémorable	G	1	
+1	Journée	journée	N	1	O
+2	mémorable	mémorable	G	1	O
 
-1	très	très	G	1	
-2	agreable	agreable	G	1	
-3	site	site	N	1	
-4	,	,	O	1	
-5	vous	lui	Q	1	
-6	pouvez	pouvoir	V	1	
-7	y	y	Q	1	
-8	passer	passer	V	1	
-9	la	le	D	1	
-10	jounée	jounée	N	1	
-11	avec	avec	P	1	
-12	ses	son	D	1	
-13	nombreuses	nombreux	G	1	
-14	animations	animation	N	1	
-15	,	,	O	1	
-16	ses	son	D	1	
-17	curiosités	curiosité	N	1	
-18	.	.	O	1	
-19	,	,	O	1	
-20	visitez	visiter	V	1	
-21	les	le	D	1	
-22	grottes	grotte	N	1	
-23	,	,	O	1	
-24	les	le	D	1	
-25	nombreuses	nombreux	G	1	
-26	criques	crique	N	1	
-27	de	de	P	1	
-28	plage	plage	N	1	
-29	,	,	O	1	
-30	le_phare_de_Cordouan	le_phare_de_Cordouan	R	1	ne=POI
-31	..........	..........	O	1	
-32	,	,	O	1	
-33	restez	rester	V	1	
-34	au	au	P	1	
-35	moins	moins	G	1	
-36	deux	deux	D	1	
-37	semaines	semaine	N	1	
-38	pour	pour	P	1	
-39	en	en	Q	1	
-40	voir	voir	V	1	
-41	un	un	D	1	
-42	max	maximum	N	1	
+1	très	très	G	1	O
+2	agreable	agreable	G	1	O
+3	site	site	N	1	O
+4	,	,	O	1	O
+5	vous	lui	Q	1	O
+6	pouvez	pouvoir	V	1	O
+7	y	y	Q	1	O
+8	passer	passer	V	1	O
+9	la	le	D	1	O
+10	jounée	jounée	N	1	O
+11	avec	avec	P	1	O
+12	ses	son	D	1	O
+13	nombreuses	nombreux	G	1	O
+14	animations	animation	N	1	O
+15	,	,	O	1	O
+16	ses	son	D	1	O
+17	curiosités	curiosité	N	1	O
+18	.	.	O	1	O
+19	,	,	O	1	O
+20	visitez	visiter	V	1	O
+21	les	le	D	1	O
+22	grottes	grotte	N	1	O
+23	,	,	O	1	O
+24	les	le	D	1	O
+25	nombreuses	nombreux	G	1	O
+26	criques	crique	N	1	O
+27	de	de	P	1	O
+28	plage	plage	N	1	O
+29	,	,	O	1	O
+30	le	le	D	1	I-POI
+31	phare	phare	N	1	I-POI
+32	de	de	P	1	I-POI
+33	Cordouan	Cordouan	N	1	I-POI
+34	..........	..........	O	1	O
+35	,	,	O	1	O
+36	restez	rester	V	1	O
+37	au	au	P	1	O
+38	moins	moins	G	1	O
+39	deux	deux	D	1	O
+40	semaines	semaine	N	1	O
+41	pour	pour	P	1	O
+42	en	en	Q	1	O
+43	voir	voir	V	1	O
+44	un	un	D	1	O
+45	max	maximum	N	1	O
 

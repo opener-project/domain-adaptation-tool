@@ -1,185 +1,185 @@
-1	Vier	vier	O	1	
-2	sterren	ster	N	1	
-3	?	?	O	1	
+1	Vier	vier	O	1	O
+2	sterren	ster	N	1	O
+3	?	?	O	1	O
 
-1	Hoe	hoe	Q	1	
-2	men	men	Q	1	
-3	in	in	P	1	
-4	dit	dit	D	1	
-5	hotel	hotel	N	1	
-6	de	de	D	1	
-7	4	@card@	O	1	
-8	sterren	ster	N	1	
-9	gekregen	krijgen	V	1	
-10	heeft	hebben	V	1	
-11	weten	weten	V	1	
-12	wij	wij	Q	1	
-13	niet	niet	A	1	
-14	.	.	O	1	
+1	Hoe	hoe	Q	1	O
+2	men	men	Q	1	O
+3	in	in	P	1	O
+4	dit	dit	D	1	O
+5	hotel	hotel	N	1	O
+6	de	de	D	1	O
+7	4	@card@	O	1	O
+8	sterren	ster	N	1	O
+9	gekregen	krijgen	V	1	O
+10	heeft	hebben	V	1	O
+11	weten	weten	V	1	O
+12	wij	wij	Q	1	O
+13	niet	niet	A	1	O
+14	.	.	O	1	O
 
-1	Misschien	misschien	A	1	
-2	is	zijn	V	1	
-3	dit	dit	Q	1	
-4	wel	wel	A	1	
-5	gewoon	gewoon	G	1	
-6	een	een	D	1	
-7	vorm	vorm	N	1	
-8	van	van	P	1	
-9	oplichting	oplichting	N	1	
-10	.	.	O	1	
+1	Misschien	misschien	A	1	O
+2	is	zijn	V	1	O
+3	dit	dit	Q	1	O
+4	wel	wel	A	1	O
+5	gewoon	gewoon	G	1	O
+6	een	een	D	1	O
+7	vorm	vorm	N	1	O
+8	van	van	P	1	O
+9	oplichting	oplichting	N	1	O
+10	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	moesten	moeten	V	1	
-3	10	@card@	O	1	
-4	euro	euro	N	1	
-5	extra	extra	G	1	
-6	betalen	betalen	V	1	
-7	voor	voor	P	1	
-8	de	de	D	1	
-9	"	"	O	1	
-10	gegarandeerde	gegarandeerde	N	1	
-11	4	@card@	O	1	
-12	sterren	ster	N	1	
-13	"	"	O	1	
-14	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	moesten	moeten	V	1	O
+3	10	@card@	O	1	O
+4	euro	euro	N	1	O
+5	extra	extra	G	1	O
+6	betalen	betalen	V	1	O
+7	voor	voor	P	1	O
+8	de	de	D	1	O
+9	"	"	O	1	O
+10	gegarandeerde	gegarandeerde	N	1	O
+11	4	@card@	O	1	O
+12	sterren	ster	N	1	O
+13	"	"	O	1	O
+14	.	.	O	1	O
 
-1	Bizar	bizar	G	1	
-2	maar	maar	C	1	
-3	waar	waar	Q	1	
-4	.	.	O	1	
+1	Bizar	bizar	G	1	O
+2	maar	maar	C	1	O
+3	waar	waar	Q	1	O
+4	.	.	O	1	O
 
-1	Oubollige	oubollig	G	1	
-2	kamer	kamer	N	1	
-3	die	die	Q	1	
-4	dringend	dringend	G	1	
-5	aan	aan	P	1	
-6	renovatie	renovatie	N	1	
-7	toe	toe	A	1	
-8	is	zijn	V	1	
-9	.	.	O	1	
+1	Oubollige	oubollig	G	1	O
+2	kamer	kamer	N	1	O
+3	die	die	Q	1	O
+4	dringend	dringend	G	1	O
+5	aan	aan	P	1	O
+6	renovatie	renovatie	N	1	O
+7	toe	toe	A	1	O
+8	is	zijn	V	1	O
+9	.	.	O	1	O
 
-1	Geen	geen	D	1	
-2	koelkastje	koelkastje	O	1	
-3	of	of	C	1	
-4	safe	safe	G	1	
-5	op	op	P	1	
-6	de	de	D	1	
-7	kamer	kamer	N	1	
-8	.	.	O	1	
+1	Geen	geen	D	1	O
+2	koelkastje	koelkastje	O	1	O
+3	of	of	C	1	O
+4	safe	safe	G	1	O
+5	op	op	P	1	O
+6	de	de	D	1	O
+7	kamer	kamer	N	1	O
+8	.	.	O	1	O
 
-1	Onvoldoende	onvoldoend|onvoldoende	G	1	
-2	verlichting	verlichting	N	1	
-3	.	.	O	1	
+1	Onvoldoende	onvoldoend|onvoldoende	G	1	O
+2	verlichting	verlichting	N	1	O
+3	.	.	O	1	O
 
-1	Gelegen	liggen	V	1	
-2	aan	aan	P	1	
-3	een	een	D	1	
-4	zeer	zeer	G	1	
-5	drukke	druk	G	1	
-6	baan	baan	N	1	
-7	.	.	O	1	
+1	Gelegen	liggen	V	1	O
+2	aan	aan	P	1	O
+3	een	een	D	1	O
+4	zeer	zeer	G	1	O
+5	drukke	druk	G	1	O
+6	baan	baan	N	1	O
+7	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	hadden	hebben	V	1	
-3	de	de	D	1	
-4	pech	pech	N	1	
-5	om	om	C	1	
-6	in	in	P	1	
-7	een	een	D	1	
-8	kamer	kamer	N	1	
-9	aan	aan	P	1	
-10	de	de	D	1	
-11	zijde	zijde	N	1	
-12	van	van	P	1	
-13	die	die	D	1	
-14	drukke	druk	G	1	
-15	baan	baan	N	1	
-16	te	te	O	1	
-17	liggen	liggen	V	1	
-18	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hadden	hebben	V	1	O
+3	de	de	D	1	O
+4	pech	pech	N	1	O
+5	om	om	C	1	O
+6	in	in	P	1	O
+7	een	een	D	1	O
+8	kamer	kamer	N	1	O
+9	aan	aan	P	1	O
+10	de	de	D	1	O
+11	zijde	zijde	N	1	O
+12	van	van	P	1	O
+13	die	die	D	1	O
+14	drukke	druk	G	1	O
+15	baan	baan	N	1	O
+16	te	te	O	1	O
+17	liggen	liggen	V	1	O
+18	.	.	O	1	O
 
-1	Zeer	zeer	G	1	
-2	slecht	slecht	G	1	
-3	geslapen	slapen	V	1	
-4	,	,	O	1	
-5	raam	raam	N	1	
-6	dicht	dichten	V	1	
-7	dan	dan	C	1	
-8	wordt	worden	V	1	
-9	het	het	Q	1	
-10	te	te	O	1	
-11	warm	warm	G	1	
-12	en	en	C	1	
-13	is	zijn	V	1	
-14	er	er	Q	1	
-15	geen	geen	D	1	
-16	frisse	fris	G	1	
-17	lucht	lucht	N	1	
-18	.	.	O	1	
+1	Zeer	zeer	G	1	O
+2	slecht	slecht	G	1	O
+3	geslapen	slapen	V	1	O
+4	,	,	O	1	O
+5	raam	raam	N	1	O
+6	dicht	dichten	V	1	O
+7	dan	dan	C	1	O
+8	wordt	worden	V	1	O
+9	het	het	Q	1	O
+10	te	te	O	1	O
+11	warm	warm	G	1	O
+12	en	en	C	1	O
+13	is	zijn	V	1	O
+14	er	er	Q	1	O
+15	geen	geen	D	1	O
+16	frisse	fris	G	1	O
+17	lucht	lucht	N	1	O
+18	.	.	O	1	O
 
-1	Raam	raam	N	1	
-2	open	openen	V	1	
-3	en	en	C	1	
-4	je	je	Q	1	
-5	kan	kunnen	V	1	
-6	niet	niet	A	1	
-7	slapen	slapen	V	1	
-8	van	van	P	1	
-9	het	het	D	1	
-10	lawaai	lawaai	N	1	
-11	.	.	O	1	
+1	Raam	raam	N	1	O
+2	open	openen	V	1	O
+3	en	en	C	1	O
+4	je	je	Q	1	O
+5	kan	kunnen	V	1	O
+6	niet	niet	A	1	O
+7	slapen	slapen	V	1	O
+8	van	van	P	1	O
+9	het	het	D	1	O
+10	lawaai	lawaai	N	1	O
+11	.	.	O	1	O
 
-1	Enige	enig	D	1	
-2	positief	positief	G	1	
-3	punt	punt	N	1	
-4	was	wezen|zijn	V	1	
-5	de	de	D	1	
-6	keuken	keuken	N	1	
-7	.	.	O	1	
+1	Enige	enig	D	1	O
+2	positief	positief	G	1	O
+3	punt	punt	N	1	O
+4	was	wezen|zijn	V	1	O
+5	de	de	D	1	O
+6	keuken	keuken	N	1	O
+7	.	.	O	1	O
 
-1	Het	het	D	1	
-2	ontbijt	ontbijt	N	1	
-3	was	wezen|zijn	V	1	
-4	verzorgd	verzorgen	V	1	
-5	en	en	C	1	
-6	alles	alles	Q	1	
-7	was	wassen	V	1	
-8	aanwezig	aanwezig	G	1	
-9	.	.	O	1	
+1	Het	het	D	1	O
+2	ontbijt	ontbijt	N	1	O
+3	was	wezen|zijn	V	1	O
+4	verzorgd	verzorgen	V	1	O
+5	en	en	C	1	O
+6	alles	alles	Q	1	O
+7	was	wassen	V	1	O
+8	aanwezig	aanwezig	G	1	O
+9	.	.	O	1	O
 
-1	De	de	D	1	
-2	driegangenmenu	driegangenmenu	O	1	
-3	was	wezen|zijn	V	1	
-4	meer	meer	A	1	
-5	dan	dan	A	1	
-6	zijn	zijn	D	1	
-7	geld	geld	N	1	
-8	waard	waard	G	1	
-9	.	.	O	1	
+1	De	de	D	1	O
+2	driegangenmenu	driegangenmenu	O	1	O
+3	was	wezen|zijn	V	1	O
+4	meer	meer	A	1	O
+5	dan	dan	A	1	O
+6	zijn	zijn	D	1	O
+7	geld	geld	N	1	O
+8	waard	waard	G	1	O
+9	.	.	O	1	O
 
-1	Besluit	besluit	N	1	
-2	:	:	O	1	
-3	In	in	P	1	
-4	de	de	D	1	
-5	omringende	omringen	V	1	
-6	landen	land	N	1	
-7	,	,	O	1	
-8	België	België	R	1	
-9	,	,	O	1	
-10	Duitsland	Duitsland	R	1	
-11	,	,	O	1	
-12	enz	enz	A	1	
-13	...	...	O	1	
-14	zou	zullen	V	1	
-15	dit	dit	D	1	
-16	hotel	hotel	N	1	
-17	,	,	O	1	
-18	misschien	misschien	A	1	
-19	,	,	O	1	
-20	max	max	O	1	
-21	3	@card@	O	1	
-22	sterren	ster	N	1	
-23	kunnen	kunnen	V	1	
-24	krijgen	krijgen	V	1	
-25	.	.	O	1	
+1	Besluit	besluit	N	1	O
+2	:	:	O	1	O
+3	In	in	P	1	O
+4	de	de	D	1	O
+5	omringende	omringen	V	1	O
+6	landen	land	N	1	O
+7	,	,	O	1	O
+8	België	België	R	1	O
+9	,	,	O	1	O
+10	Duitsland	Duitsland	R	1	O
+11	,	,	O	1	O
+12	enz	enz	A	1	O
+13	...	...	O	1	O
+14	zou	zullen	V	1	O
+15	dit	dit	D	1	O
+16	hotel	hotel	N	1	O
+17	,	,	O	1	O
+18	misschien	misschien	A	1	O
+19	,	,	O	1	O
+20	max	max	O	1	O
+21	3	@card@	O	1	O
+22	sterren	ster	N	1	O
+23	kunnen	kunnen	V	1	O
+24	krijgen	krijgen	V	1	O
+25	.	.	O	1	O
 

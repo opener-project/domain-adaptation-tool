@@ -1,37 +1,37 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	séjour	séjour	N	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	séjour	séjour	N	1	O
 
-1	hotel	hotel	G	1	
-2	magnifique	magnifique	N	1	
-3	propre	propre	G	1	
-4	dormage	dormage	N	1	
-5	pour	pour	P	1	
-6	la	le	D	1	
-7	nouriture	nouriture	N	1	
-8	les	le	D	1	
-9	piscines	piscine	N	1	
-10	propre	propre	G	1	
-11	des	des	P	1	
-12	chambre	chambre	N	1	
-13	bien	bien	G	1	
-14	propre	propre	G	1	
-15	et	et	C	1	
-16	tres	tres	O	1	
-17	bien	bien	G	1	
-18	equipees	equipees	P	1	
-19	la	le	D	1	
-20	plage	plage	N	1	
-21	magnifique	magnifique	G	1	
-22	la	le	D	1	
-23	mer	mer	N	1	
-24	magnifique	magnifique	G	1	
-25	service	service	N	1	
-26	parfait	parfait	G	1	
-27	rien	rien	G	1	
-28	a	avoir	V	1	
-29	dire	dire	V	1	
-30	toute	tout	D	1	
-31	est	être	V	1	
-32	bien	bien	G	1	
+1	hotel	hotel	G	1	O
+2	magnifique	magnifique	N	1	O
+3	propre	propre	G	1	O
+4	dormage	dormage	N	1	O
+5	pour	pour	P	1	O
+6	la	le	D	1	O
+7	nouriture	nouriture	N	1	O
+8	les	le	D	1	O
+9	piscines	piscine	N	1	O
+10	propre	propre	G	1	O
+11	des	des	P	1	O
+12	chambre	chambre	N	1	O
+13	bien	bien	G	1	O
+14	propre	propre	G	1	O
+15	et	et	C	1	O
+16	tres	tres	O	1	O
+17	bien	bien	G	1	O
+18	equipees	equipees	P	1	O
+19	la	le	D	1	O
+20	plage	plage	N	1	O
+21	magnifique	magnifique	G	1	O
+22	la	le	D	1	O
+23	mer	mer	N	1	O
+24	magnifique	magnifique	G	1	O
+25	service	service	N	1	O
+26	parfait	parfait	G	1	O
+27	rien	rien	G	1	O
+28	a	avoir	V	1	O
+29	dire	dire	V	1	O
+30	toute	tout	D	1	O
+31	est	être	V	1	O
+32	bien	bien	G	1	O
 

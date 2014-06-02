@@ -1,50 +1,50 @@
-1	Un	un	D	1	
-2	hôtel	hôtel	N	1	
-3	très	très	G	1	
-4	pratique	pratique	G	1	
+1	Un	un	D	1	O
+2	hôtel	hôtel	N	1	O
+3	très	très	G	1	O
+4	pratique	pratique	G	1	O
 
-1	Un	un	D	1	
-2	hôtel	hôtel	N	1	
-3	sympathique	sympathique	G	1	
-4	si	si	C	1	
-5	on	on	Q	1	
-6	est	être	V	1	
-7	à	à	P	1	
-8	plusieurs	plusieurs	D	1	
-9	,	,	P	1	
-10	car	car	C	1	
-11	sinon	sinon	G	1	
-12	aucun	aucun	D	1	
-13	loisirs	loisir	N	1	
-14	ou	ou	C	1	
-15	activités	activité	N	1	
-16	possible	possible	G	1	
-17	,	,	O	1	
-18	hormis	hormis	P	1	
-19	sortir	sortir	V	1	
-20	en	en	P	1	
-21	ville	ville	N	1	
-22	.	.	O	1	
+1	Un	un	D	1	O
+2	hôtel	hôtel	N	1	O
+3	sympathique	sympathique	G	1	O
+4	si	si	C	1	O
+5	on	on	Q	1	O
+6	est	être	V	1	O
+7	à	à	P	1	O
+8	plusieurs	plusieurs	D	1	O
+9	,	,	P	1	O
+10	car	car	C	1	O
+11	sinon	sinon	G	1	O
+12	aucun	aucun	D	1	O
+13	loisirs	loisir	N	1	O
+14	ou	ou	C	1	O
+15	activités	activité	N	1	O
+16	possible	possible	G	1	O
+17	,	,	O	1	O
+18	hormis	hormis	P	1	O
+19	sortir	sortir	V	1	O
+20	en	en	P	1	O
+21	ville	ville	N	1	O
+22	.	.	O	1	O
 
-1	Mais	Mais	C	1	
-2	très	très	G	1	
-3	pratique	pratiquer	V	1	
-4	si	si	C	1	
-5	on	on	Q	1	
-6	souhaite	souhaiter	V	1	
-7	juste	juste	G	1	
-8	dormir	dormir	V	1	
-9	quelques	quelque	D	1	
-10	nuits	nuit	N	1	
-11	,	,	O	1	
-12	si	si	C	1	
-13	on	on	Q	1	
-14	doit	devoir	V	1	
-15	être	être	V	1	
-16	sur	sur	P	1	
-17	Paris	pari	R	1	ne=Location
-18	à	à	P	1	
-19	moindre	moindre	G	1	
-20	coût	coût	N	1	
-21	.	.	O	1	
+1	Mais	Mais	C	1	O
+2	très	très	G	1	O
+3	pratique	pratiquer	V	1	O
+4	si	si	C	1	O
+5	on	on	Q	1	O
+6	souhaite	souhaiter	V	1	O
+7	juste	juste	G	1	O
+8	dormir	dormir	V	1	O
+9	quelques	quelque	D	1	O
+10	nuits	nuit	N	1	O
+11	,	,	O	1	O
+12	si	si	C	1	O
+13	on	on	Q	1	O
+14	doit	devoir	V	1	O
+15	être	être	V	1	O
+16	sur	sur	P	1	O
+17	Paris	pari	R	1	I-Location
+18	à	à	P	1	O
+19	moindre	moindre	G	1	O
+20	coût	coût	N	1	O
+21	.	.	O	1	O
 

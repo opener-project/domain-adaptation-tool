@@ -1,126 +1,126 @@
-1	Qualité	Qualité	D	1	
-2	correcte	correcte	N	1	
-3	,	,	O	1	
-4	direction	direction	N	1	
-5	déplorable	déplorable	G	1	
+1	Qualité	Qualité	D	1	O
+2	correcte	correcte	N	1	O
+3	,	,	O	1	O
+4	direction	direction	N	1	O
+5	déplorable	déplorable	G	1	O
 
-1	Un	un	D	1	
-2	hôtel	hôtel	N	1	
-3	de	de	P	1	
-4	bonne	bon	G	1	
-5	qualité	qualité	N	1	
-6	si	si	C	1	
-7	on	on	Q	1	
-8	oublie	oublier	V	1	
-9	le	le	D	1	
-10	fait	fait	N	1	
-11	que	que	C	1	
-12	tout	tout	P	1	
-13	est	être	V	1	
-14	surfacturé	surfacturer	V	1	
-15	en	en	P	1	
-16	permanence	permanence	N	1	
-17	,	,	O	1	
-18	du	du	D	1	
-19	verre	verre	N	1	
-20	cassé	casser	V	1	
-21	par	par	P	1	
-22	accident	accident	N	1	
-23	(	(	O	1	
-24	45	45	D	1	
-25	€	€	N	1	
-26	/	/	P	1	
-27	3000	3000	D	1	
-28	Rs	Rs	N	1	
-29	)	)	O	1	
-30	ou	ou	C	1	
-31	internet	internet	N	1	
-32	(	(	O	1	
-33	5200	5200	D	1	
-34	Rs	Rs	N	1	
-35	HT	HT	N	1	
-36	par	par	P	1	
-37	semaine	semaine	N	1	
-38	...	...	O	1	
-39	)	)	O	1	
-40	pour	pour	P	1	
-41	une	un	D	1	
-42	connexion	connexion	N	1	
-43	plus	plus	G	1	
-44	qu’	qu’	G	1	
-45	intermittente	intermittent	G	1	
-46	.	.	O	1	
+1	Un	un	D	1	O
+2	hôtel	hôtel	N	1	O
+3	de	de	P	1	O
+4	bonne	bon	G	1	O
+5	qualité	qualité	N	1	O
+6	si	si	C	1	O
+7	on	on	Q	1	O
+8	oublie	oublier	V	1	O
+9	le	le	D	1	O
+10	fait	fait	N	1	O
+11	que	que	C	1	O
+12	tout	tout	P	1	O
+13	est	être	V	1	O
+14	surfacturé	surfacturer	V	1	O
+15	en	en	P	1	O
+16	permanence	permanence	N	1	O
+17	,	,	O	1	O
+18	du	du	D	1	O
+19	verre	verre	N	1	O
+20	cassé	casser	V	1	O
+21	par	par	P	1	O
+22	accident	accident	N	1	O
+23	(	(	O	1	O
+24	45	45	D	1	O
+25	€	€	N	1	O
+26	/	/	P	1	O
+27	3000	3000	D	1	O
+28	Rs	Rs	N	1	O
+29	)	)	O	1	O
+30	ou	ou	C	1	O
+31	internet	internet	N	1	O
+32	(	(	O	1	O
+33	5200	5200	D	1	O
+34	Rs	Rs	N	1	O
+35	HT	HT	N	1	O
+36	par	par	P	1	O
+37	semaine	semaine	N	1	O
+38	...	...	O	1	O
+39	)	)	O	1	O
+40	pour	pour	P	1	O
+41	une	un	D	1	O
+42	connexion	connexion	N	1	O
+43	plus	plus	G	1	O
+44	qu’	qu’	G	1	O
+45	intermittente	intermittent	G	1	O
+46	.	.	O	1	O
 
-1	Les	le	D	1	
-2	duty	duty	P	1	
-3	managers	manager	N	1	
-4	ainsi	ainsi	G	1	
-5	que	que	C	1	
-6	les	le	D	1	
-7	agents	agent	N	1	
-8	de	de	P	1	
-9	sécurité	sécurité	N	1	
-10	sont	être	V	1	
-11	soupçonneux	soupçonneux	G	1	
-12	et	et	C	1	
-13	obséquieux	obséquieux	G	1	
-14	ce	ce	P	1	
-15	qui	qui	P	1	
-16	est	être	V	1	
-17	fort	fort	G	1	
-18	désagréable	désagréable	G	1	
-19	.	.	O	1	
+1	Les	le	D	1	O
+2	duty	duty	P	1	O
+3	managers	manager	N	1	O
+4	ainsi	ainsi	G	1	O
+5	que	que	C	1	O
+6	les	le	D	1	O
+7	agents	agent	N	1	O
+8	de	de	P	1	O
+9	sécurité	sécurité	N	1	O
+10	sont	être	V	1	O
+11	soupçonneux	soupçonneux	G	1	O
+12	et	et	C	1	O
+13	obséquieux	obséquieux	G	1	O
+14	ce	ce	P	1	O
+15	qui	qui	P	1	O
+16	est	être	V	1	O
+17	fort	fort	G	1	O
+18	désagréable	désagréable	G	1	O
+19	.	.	O	1	O
 
-1	La	le	D	1	
-2	nourriture	nourriture	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	correcte	correct	G	1	
-6	si	si	C	1	
-7	on	on	Q	1	
-8	n'	n'	G	1	
-9	oublie	oublier	V	1	
-10	pas	pas	G	1	
-11	le	le	D	1	
-12	viel	viel	G	1	
-13	adage	adage	N	1	
-14	:	:	O	1	
-15	loin	loin	G	1	
-16	de	de	P	1	
-17	la	le	D	1	
-18	mer	mer	N	1	
-19	,	,	O	1	
-20	évite	éviter	V	1	
-21	les	le	D	1	
-22	produits	produit	N	1	
-23	de	de	P	1	
-24	la	le	D	1	
-25	mer	mer	N	1	
-26	...	...	O	1	
-27	et	et	C	1	
-28	ce	ce	D	1	
-29	même	même	G	1	
-30	dans	dans	P	1	
-31	un	un	D	1	
-32	5	5	G	1	
-33	*	*	N	1	
+1	La	le	D	1	O
+2	nourriture	nourriture	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	correcte	correct	G	1	O
+6	si	si	C	1	O
+7	on	on	Q	1	O
+8	n'	n'	G	1	O
+9	oublie	oublier	V	1	O
+10	pas	pas	G	1	O
+11	le	le	D	1	O
+12	viel	viel	G	1	O
+13	adage	adage	N	1	O
+14	:	:	O	1	O
+15	loin	loin	G	1	O
+16	de	de	P	1	O
+17	la	le	D	1	O
+18	mer	mer	N	1	O
+19	,	,	O	1	O
+20	évite	éviter	V	1	O
+21	les	le	D	1	O
+22	produits	produit	N	1	O
+23	de	de	P	1	O
+24	la	le	D	1	O
+25	mer	mer	N	1	O
+26	...	...	O	1	O
+27	et	et	C	1	O
+28	ce	ce	D	1	O
+29	même	même	G	1	O
+30	dans	dans	P	1	O
+31	un	un	D	1	O
+32	5	5	G	1	O
+33	*	*	N	1	O
 
-1	Heureusement	Heureusement	G	1	
-2	que	que	C	1	
-3	le	le	D	1	
-4	reste	reste	N	1	
-5	du	du	P	1	
-6	personnel	personnel	N	1	
-7	(	(	O	1	
-8	barman	barman	N	1	
-9	,	,	O	1	
-10	serveurs	serveur	N	1	
-11	...	...	O	1	
-12	)	)	O	1	
-13	rattrape	rattraper	V	1	
-14	un	un	D	1	
-15	peu	peu	G	1	
-16	le	le	D	1	
-17	niveau	niveau	N	1	
-18	.	.	O	1	
+1	Heureusement	Heureusement	G	1	O
+2	que	que	C	1	O
+3	le	le	D	1	O
+4	reste	reste	N	1	O
+5	du	du	P	1	O
+6	personnel	personnel	N	1	O
+7	(	(	O	1	O
+8	barman	barman	N	1	O
+9	,	,	O	1	O
+10	serveurs	serveur	N	1	O
+11	...	...	O	1	O
+12	)	)	O	1	O
+13	rattrape	rattraper	V	1	O
+14	un	un	D	1	O
+15	peu	peu	G	1	O
+16	le	le	D	1	O
+17	niveau	niveau	N	1	O
+18	.	.	O	1	O
 

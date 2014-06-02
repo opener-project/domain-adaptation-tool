@@ -1,148 +1,148 @@
-1	Who	who	Q	1	
-2	needs	needs	V	1	
-3	a	a	D	1	
-4	room	room	N	1	
-5	(	(	O	1	
-6	junior	junior	G	1	
-7	suite	suite	N	1	
-8	)	)	O	1	
-9	this	this	N	1	
-10	large	large	G	1	
+1	Who	who	Q	1	O
+2	needs	needs	V	1	O
+3	a	a	D	1	O
+4	room	room	N	1	O
+5	(	(	O	1	O
+6	junior	junior	G	1	O
+7	suite	suite	N	1	O
+8	)	)	O	1	O
+9	this	this	N	1	O
+10	large	large	G	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	looks	look	V	1	
-4	,	,	O	1	
-5	and	and	C	1	
-6	is	be	V	1	
-7	most	much	A	1	
-8	likely	likely	G	1	
-9	,	,	O	1	
-10	clean	clean	G	1	
-11	inside	inside	N	1	
-12	,	,	O	1	
-13	which	which	O	1	
-14	cannot	cannot	O	1	
-15	be	be	V	1	
-16	said	say	V	1	
-17	from	from	P	1	
-18	the	the	D	1	
-19	outside	outside	N	1	
-20	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	looks	look	V	1	O
+4	,	,	O	1	O
+5	and	and	C	1	O
+6	is	be	V	1	O
+7	most	much	A	1	O
+8	likely	likely	G	1	O
+9	,	,	O	1	O
+10	clean	clean	G	1	O
+11	inside	inside	N	1	O
+12	,	,	O	1	O
+13	which	which	O	1	O
+14	cannot	cannot	O	1	O
+15	be	be	V	1	O
+16	said	say	V	1	O
+17	from	from	P	1	O
+18	the	the	D	1	O
+19	outside	outside	N	1	O
+20	.	.	O	1	O
 
-1	Probably	probably	A	1	
-2	as	as	A	1	
-3	soon	soon	A	1	
-4	as	as	P	1	
-5	you	you	Q	1	
-6	are	be	V	1	
-7	not	not	A	1	
-8	on	on	P	1	
-9	the	the	D	1	
-10	premises	premise	N	1	
-11	anymore	anymore	A	1	
-12	,	,	O	1	
-13	it	it	Q	1	
-14	is	be	V	1	
-15	not	not	A	1	
-16	that	that	P	1	
-17	clean	clean	G	1	
-18	.	.	O	1	
+1	Probably	probably	A	1	O
+2	as	as	A	1	O
+3	soon	soon	A	1	O
+4	as	as	P	1	O
+5	you	you	Q	1	O
+6	are	be	V	1	O
+7	not	not	A	1	O
+8	on	on	P	1	O
+9	the	the	D	1	O
+10	premises	premise	N	1	O
+11	anymore	anymore	A	1	O
+12	,	,	O	1	O
+13	it	it	Q	1	O
+14	is	be	V	1	O
+15	not	not	A	1	O
+16	that	that	P	1	O
+17	clean	clean	G	1	O
+18	.	.	O	1	O
 
-1	During	during	P	1	
-2	my	my	Q	1	
-3	walk	walk	N	1	
-4	this	this	D	1	
-5	morning	morning	N	1	
-6	;	;	O	1	
-7	from	from	P	1	
-8	the	the	D	1	
-9	hotel	hotel	N	1	
-10	to	to	P	1	
-11	the	the	D	1	
-12	office	office	N	1	
-13	;	;	O	1	
-14	I	i	Q	1	
-15	got	get	V	1	
-16	out	out	P	1	
-17	of	of	P	1	
-18	the	the	D	1	
-19	hotel	hotel	N	1	
-20	and	and	C	1	
-21	walked	walk	V	1	
-22	to	to	P	1	
-23	the	the	D	1	
-24	escalator	escalator	N	1	
-25	which	which	O	1	
-26	is	be	V	1	
-27	there	there	A	1	
-28	and	and	C	1	
-29	it	it	Q	1	
-30	smelled	smell	V	1	
-31	terrible	terrible	G	1	
-32	!	!	O	1	
+1	During	during	P	1	O
+2	my	my	Q	1	O
+3	walk	walk	N	1	O
+4	this	this	D	1	O
+5	morning	morning	N	1	O
+6	;	;	O	1	O
+7	from	from	P	1	O
+8	the	the	D	1	O
+9	hotel	hotel	N	1	O
+10	to	to	P	1	O
+11	the	the	D	1	O
+12	office	office	N	1	O
+13	;	;	O	1	O
+14	I	i	Q	1	O
+15	got	get	V	1	O
+16	out	out	P	1	O
+17	of	of	P	1	O
+18	the	the	D	1	O
+19	hotel	hotel	N	1	O
+20	and	and	C	1	O
+21	walked	walk	V	1	O
+22	to	to	P	1	O
+23	the	the	D	1	O
+24	escalator	escalator	N	1	O
+25	which	which	O	1	O
+26	is	be	V	1	O
+27	there	there	A	1	O
+28	and	and	C	1	O
+29	it	it	Q	1	O
+30	smelled	smell	V	1	O
+31	terrible	terrible	G	1	O
+32	!	!	O	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	features	feature	N	1	
-4	free	free	G	1	
-5	Wireless	Wireless	R	1	
-6	Internet	internet	N	1	
-7	which	which	O	1	
-8	is	be	V	1	
-9	also	also	A	1	
-10	pretty	pretty	A	1	
-11	fast	fast	A	1	
-12	,	,	O	1	
-13	which	which	O	1	
-14	allows	allow	V	1	
-15	you	you	Q	1	
-16	to	to	P	1	
-17	work	work	V	1	
-18	and	and	C	1	
-19	surf	surf	N	1	
-20	without	without	P	1	
-21	any	any	D	1	
-22	problems	problem	N	1	
-23	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	features	feature	N	1	O
+4	free	free	G	1	O
+5	Wireless	Wireless	R	1	O
+6	Internet	internet	N	1	O
+7	which	which	O	1	O
+8	is	be	V	1	O
+9	also	also	A	1	O
+10	pretty	pretty	A	1	O
+11	fast	fast	A	1	O
+12	,	,	O	1	O
+13	which	which	O	1	O
+14	allows	allow	V	1	O
+15	you	you	Q	1	O
+16	to	to	P	1	O
+17	work	work	V	1	O
+18	and	and	C	1	O
+19	surf	surf	N	1	O
+20	without	without	P	1	O
+21	any	any	D	1	O
+22	problems	problem	N	1	O
+23	.	.	O	1	O
 
-1	Using	use	V	1	
-2	Skype	Skype	R	1	
-3	may	may	O	1	
-4	cause	cause	V	1	
-5	connection	connection	N	1	
-6	problems	problem	N	1	
-7	.	.	O	1	
+1	Using	use	V	1	O
+2	Skype	Skype	R	1	O
+3	may	may	O	1	O
+4	cause	cause	V	1	O
+5	connection	connection	N	1	O
+6	problems	problem	N	1	O
+7	.	.	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	a	a	D	1	
-4	bar	bar	N	1	
-5	in	in	P	1	
-6	the	the	D	1	
-7	hotel	hotel	N	1	
-8	as	as	A	1	
-9	well	well	A	1	
-10	as	as	P	1	
-11	a	a	D	1	
-12	restaurant	restaurant	N	1	
-13	,	,	O	1	
-14	and	and	C	1	
-15	also	also	A	1	
-16	in	in	P	1	
-17	the	the	D	1	
-18	immediate	immediate	G	1	
-19	surroundings	surroundings	N	1	
-20	there	there	O	1	
-21	are	be	V	1	
-22	places	place	N	1	
-23	to	to	P	1	
-24	stay	stay	V	1	
-25	,	,	O	1	
-26	if	if	P	1	
-27	you	you	Q	1	
-28	'd	would	O	1	
-29	like	like	V	1	
-30	to	to	P	1	
-31	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	a	a	D	1	O
+4	bar	bar	N	1	O
+5	in	in	P	1	O
+6	the	the	D	1	O
+7	hotel	hotel	N	1	O
+8	as	as	A	1	O
+9	well	well	A	1	O
+10	as	as	P	1	O
+11	a	a	D	1	O
+12	restaurant	restaurant	N	1	O
+13	,	,	O	1	O
+14	and	and	C	1	O
+15	also	also	A	1	O
+16	in	in	P	1	O
+17	the	the	D	1	O
+18	immediate	immediate	G	1	O
+19	surroundings	surroundings	N	1	O
+20	there	there	O	1	O
+21	are	be	V	1	O
+22	places	place	N	1	O
+23	to	to	P	1	O
+24	stay	stay	V	1	O
+25	,	,	O	1	O
+26	if	if	P	1	O
+27	you	you	Q	1	O
+28	'd	would	O	1	O
+29	like	like	V	1	O
+30	to	to	P	1	O
+31	.	.	O	1	O
 

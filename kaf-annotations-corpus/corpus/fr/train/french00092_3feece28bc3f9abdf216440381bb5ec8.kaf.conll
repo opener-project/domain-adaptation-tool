@@ -1,117 +1,118 @@
-1	Bel	bel	N	1	
-2	aquarium	aquarium	R	1	ne=POI
-3	à	à	P	1	
-4	visiter	visiter	V	1	
-5	en	en	P	1	
-6	famille	famille	N	1	
+1	Bel	bel	N	1	O
+2	aquarium	aquarium	R	1	I-POI
+3	à	à	P	1	O
+4	visiter	visiter	V	1	O
+5	en	en	P	1	O
+6	famille	famille	N	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	beaucoup	beaucoup	G	1	
-4	aimé	aimer	V	1	
-5	cet_aquarium	ce_aquarium	R	1	ne=POI
-6	,	,	O	1	
-7	que	que	P	1	
-8	nous	lui	Q	1	
-9	avons	avoir	V	1	
-10	visité	visiter	V	1	
-11	durant	durant	P	1	
-12	midi	midi	R	1	ne=Time
-13	,	,	O	1	
-14	peu	peu	G	1	
-15	de	de	P	1	
-16	monde	monde	N	1	
-17	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	beaucoup	beaucoup	G	1	O
+4	aimé	aimer	V	1	O
+5	cet	ce	D	1	I-POI
+6	aquarium	aquarium	N	1	I-POI
+7	,	,	O	1	O
+8	que	que	P	1	O
+9	nous	lui	Q	1	O
+10	avons	avoir	V	1	O
+11	visité	visiter	V	1	O
+12	durant	durant	P	1	O
+13	midi	midi	R	1	I-Time
+14	,	,	O	1	O
+15	peu	peu	G	1	O
+16	de	de	P	1	O
+17	monde	monde	N	1	O
+18	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	donc	donc	G	1	
-4	eu	avoir	V	1	
-5	le	le	D	1	
-6	temps	temps	N	1	
-7	de	de	P	1	
-8	tout	tout	D	1	
-9	voir	voir	N	1	
-10	calmement	calmement	N	1	
-11	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	donc	donc	G	1	O
+4	eu	avoir	V	1	O
+5	le	le	D	1	O
+6	temps	temps	N	1	O
+7	de	de	P	1	O
+8	tout	tout	D	1	O
+9	voir	voir	N	1	O
+10	calmement	calmement	N	1	O
+11	.	.	O	1	O
 
-1	Les	le	D	1	
-2	poissons	poisson	N	1	
-3	y	y	Q	1	
-4	sont	être	V	1	
-5	bien	bien	G	1	
-6	présentés	présenter	V	1	
-7	,	,	O	1	
-8	on	on	Q	1	
-9	voit	voir	V	1	
-10	les	le	D	1	
-11	requins	requin	N	1	
-12	de	de	P	1	
-13	tous	tout	G	1	
-14	les	le	D	1	
-15	côtés	côté	N	1	
-16	,	,	O	1	
-17	et	et	C	1	
-18	même	même	G	1	
-19	d'	d'	P	1	
-20	en	en	P	1	
-21	haut	haut	N	1	
-22	!	!	O	1	
+1	Les	le	D	1	O
+2	poissons	poisson	N	1	O
+3	y	y	Q	1	O
+4	sont	être	V	1	O
+5	bien	bien	G	1	O
+6	présentés	présenter	V	1	O
+7	,	,	O	1	O
+8	on	on	Q	1	O
+9	voit	voir	V	1	O
+10	les	le	D	1	O
+11	requins	requin	N	1	O
+12	de	de	P	1	O
+13	tous	tout	G	1	O
+14	les	le	D	1	O
+15	côtés	côté	N	1	O
+16	,	,	O	1	O
+17	et	et	C	1	O
+18	même	même	G	1	O
+19	d'	d'	P	1	O
+20	en	en	P	1	O
+21	haut	haut	N	1	O
+22	!	!	O	1	O
 
-1	Nous	lui	Q	1	
-2	n'	n'	G	1	
-3	avons	avoir	V	1	
-4	pas	pas	G	1	
-5	vu	voir	V	1	
-6	le	le	D	1	
-7	spectacle	spectacle	N	1	
-8	d'	d'	P	1	
-9	otaries	otarie	N	1	
-10	car	car	C	1	
-11	pas	pas	G	1	
-12	d'	d'	P	1	
-13	heures	heure	N	1	
-14	fixes	fixe	G	1	
-15	prévues	prévoir	G	1	
-16	,	,	O	1	
-17	l'	le	D	1	
-18	équipe	équipe	N	1	
-19	préfère	préférer	V	1	
-20	le	le	Q	1	
-21	faire	faire	V	1	
-22	à	à	P	1	
-23	des	un	D	1	
-24	heures	heure	N	1	
-25	différentes	différent	G	1	
-26	de	de	P	1	
-27	façon	façon	N	1	
-28	à	à	P	1	
-29	ne	ne	G	1	
-30	pas	pas	G	1	
-31	habituer	habituer	V	1	
-32	les	le	D	1	
-33	pensionnaires	pensionnaire	N	1	
-34	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	n'	n'	G	1	O
+3	avons	avoir	V	1	O
+4	pas	pas	G	1	O
+5	vu	voir	V	1	O
+6	le	le	D	1	O
+7	spectacle	spectacle	N	1	O
+8	d'	d'	P	1	O
+9	otaries	otarie	N	1	O
+10	car	car	C	1	O
+11	pas	pas	G	1	O
+12	d'	d'	P	1	O
+13	heures	heure	N	1	O
+14	fixes	fixe	G	1	O
+15	prévues	prévoir	G	1	O
+16	,	,	O	1	O
+17	l'	le	D	1	O
+18	équipe	équipe	N	1	O
+19	préfère	préférer	V	1	O
+20	le	le	Q	1	O
+21	faire	faire	V	1	O
+22	à	à	P	1	O
+23	des	un	D	1	O
+24	heures	heure	N	1	O
+25	différentes	différent	G	1	O
+26	de	de	P	1	O
+27	façon	façon	N	1	O
+28	à	à	P	1	O
+29	ne	ne	G	1	O
+30	pas	pas	G	1	O
+31	habituer	habituer	V	1	O
+32	les	le	D	1	O
+33	pensionnaires	pensionnaire	N	1	O
+34	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	reposant	reposant	G	1	
-3	,	,	O	1	
-4	ludique	ludique	G	1	
-5	.	.	O	1	
+1	Très	Très	G	1	O
+2	reposant	reposant	G	1	O
+3	,	,	O	1	O
+4	ludique	ludique	G	1	O
+5	.	.	O	1	O
 
-1	Forfait	forfait	N	1	
-2	famille	famille	N	1	
-3	(	(	O	1	
-4	2adultes	2adultes	N	1	
-5	+	+	P	1	
-6	2enfants	2enfants	N	1	
-7	)	)	O	1	
-8	à	à	P	1	
-9	39,50	39,50	D	1	
-10	€	€	N	1	
-11	.	.	O	1	
+1	Forfait	forfait	N	1	O
+2	famille	famille	N	1	O
+3	(	(	O	1	O
+4	2adultes	2adultes	N	1	O
+5	+	+	P	1	O
+6	2enfants	2enfants	N	1	O
+7	)	)	O	1	O
+8	à	à	P	1	O
+9	39,50	39,50	D	1	O
+10	€	€	N	1	O
+11	.	.	O	1	O
 
-1	A	A	P	1	
-2	faire	faire	V	1	
-3	!	!	O	1	
+1	A	A	P	1	O
+2	faire	faire	V	1	O
+3	!	!	O	1	O
 

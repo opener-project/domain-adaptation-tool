@@ -1,38 +1,38 @@
-1	Plus	Plus	G	1	
-2	jamais	jamais	G	1	
+1	Plus	Plus	G	1	O
+2	jamais	jamais	G	1	O
 
-1	c'	c'	Q	1	
-2	est	être	V	1	
-3	excessivement	excessivement	G	1	
-4	cher	cher	G	1	
-5	pour	pour	P	1	
-6	un	un	D	1	
-7	zoo	zoo	N	1	
-8	somme	somme	P	1	
-9	toute	tout	D	1	
-10	vraiment	vraiment	G	1	
-11	banal	banal	G	1	
-12	.	.	O	1	
+1	c'	c'	Q	1	O
+2	est	être	V	1	O
+3	excessivement	excessivement	G	1	O
+4	cher	cher	G	1	O
+5	pour	pour	P	1	O
+6	un	un	D	1	O
+7	zoo	zoo	N	1	O
+8	somme	somme	P	1	O
+9	toute	tout	D	1	O
+10	vraiment	vraiment	G	1	O
+11	banal	banal	G	1	O
+12	.	.	O	1	O
 
-1	On	On	Q	1	
-2	suit	suivre	V	1	
-3	une	un	D	1	
-4	multitude	multitude	N	1	
-5	de	de	P	1	
-6	voiture	voiture	N	1	
-7	pour	pour	P	1	
-8	le	le	D	1	
-9	soi	soi	P	1	
-10	disant	disant	G	1	
-11	safari	safari	N	1	
-12	.	.	O	1	
+1	On	On	Q	1	O
+2	suit	suivre	V	1	O
+3	une	un	D	1	O
+4	multitude	multitude	N	1	O
+5	de	de	P	1	O
+6	voiture	voiture	N	1	O
+7	pour	pour	P	1	O
+8	le	le	D	1	O
+9	soi	soi	P	1	O
+10	disant	disant	G	1	O
+11	safari	safari	N	1	O
+12	.	.	O	1	O
 
-1	Les	le	D	1	
-2	animaux	animal	N	1	
-3	sont	être	V	1	
-4	peu	peu	G	1	
-5	nombreux	nombreux	G	1	
-6	et	et	C	1	
-7	endormis	endormi	G	1	
-8	.	.	O	1	
+1	Les	le	D	1	O
+2	animaux	animal	N	1	O
+3	sont	être	V	1	O
+4	peu	peu	G	1	O
+5	nombreux	nombreux	G	1	O
+6	et	et	C	1	O
+7	endormis	endormi	G	1	O
+8	.	.	O	1	O
 

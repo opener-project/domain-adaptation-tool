@@ -1,176 +1,176 @@
-1	Es	es	Q	1	
-2	geht	gehen	V	1	
-3	besser	gut	G	1	
-4	!	!	O	1	
+1	Es	es	Q	1	O
+2	geht	gehen	V	1	O
+3	besser	gut	G	1	O
+4	!	!	O	1	O
 
-1	Hotel	Hotel	N	1	
-2	ist	sein	V	1	
-3	·	·	O	1	
-4	wie	wie	C	1	
-5	schon	schon	A	1	
-6	beschrieben	beschreiben	V	1	
-7	·	·	O	1	
-8	eine	eine	D	1	
-9	Ansammlung	Ansammlung	N	1	
-10	an	an	P	1	
-11	"	"	O	1	
-12	Casas	Casas	O	1	
-13	"	"	O	1	
-14	,	,	O	1	
-15	die	die	Q	1	
-16	rund	rund	A	1	
-17	ums	ums	P	1	
-18	Hotels	Hotel	N	1	
-19	zusammengekauft	zusammenkaufen	V	1	
-20	und	und	C	1	
-21	"	"	O	1	
-22	renoviert	renovieren	V	1	
-23	"	"	O	1	
-24	wurden	werden	V	1	
-25	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	ist	sein	V	1	O
+3	·	·	O	1	O
+4	wie	wie	C	1	O
+5	schon	schon	A	1	O
+6	beschrieben	beschreiben	V	1	O
+7	·	·	O	1	O
+8	eine	eine	D	1	O
+9	Ansammlung	Ansammlung	N	1	O
+10	an	an	P	1	O
+11	"	"	O	1	O
+12	Casas	Casas	O	1	O
+13	"	"	O	1	O
+14	,	,	O	1	O
+15	die	die	Q	1	O
+16	rund	rund	A	1	O
+17	ums	ums	P	1	O
+18	Hotels	Hotel	N	1	O
+19	zusammengekauft	zusammenkaufen	V	1	O
+20	und	und	C	1	O
+21	"	"	O	1	O
+22	renoviert	renovieren	V	1	O
+23	"	"	O	1	O
+24	wurden	werden	V	1	O
+25	.	.	O	1	O
 
-1	Verwinkelt	verwinkelt	G	1	
-2	,	,	O	1	
-3	nicht	nicht	O	1	
-4	wieder	wieder	A	1	
-5	zu	zu	O	1	
-6	finden	finden	V	1	
-7	aufs	aufs	P	1	
-8	erstemal	erstemal	A	1	
-9	,	,	O	1	
-10	trotz	trotz	P	1	
-11	Hotelplan	Hotelplan	O	1	
-12	.	.	O	1	
+1	Verwinkelt	verwinkelt	G	1	O
+2	,	,	O	1	O
+3	nicht	nicht	O	1	O
+4	wieder	wieder	A	1	O
+5	zu	zu	O	1	O
+6	finden	finden	V	1	O
+7	aufs	aufs	P	1	O
+8	erstemal	erstemal	A	1	O
+9	,	,	O	1	O
+10	trotz	trotz	P	1	O
+11	Hotelplan	Hotelplan	O	1	O
+12	.	.	O	1	O
 
-1	Bei	bei	P	1	
-2	einem	eine	D	1	
-3	4	4	O	1	
-4	*	*	O	1	
-5	·	·	O	1	
-6	Hotel	Hotel	N	1	
-7	erwarte	erwarten	V	1	
-8	ich	ich	Q	1	
-9	eigentlich	eigentlich	A	1	
-10	,	,	O	1	
-11	dass	dass	C	1	
-12	man	man	Q	1	
-13	als	als	C	1	
-14	Gast	Gast	N	1	
-15	das	die	D	1	
-16	Hotel	Hotel	N	1	
-17	in	in	P	1	
-18	Ruhe	Ruhe	N	1	
-19	erklärt	erklären	V	1	
-20	bekommt	bekommen	V	1	
-21	.	.	O	1	
+1	Bei	bei	P	1	O
+2	einem	eine	D	1	O
+3	4	4	O	1	O
+4	*	*	O	1	O
+5	·	·	O	1	O
+6	Hotel	Hotel	N	1	O
+7	erwarte	erwarten	V	1	O
+8	ich	ich	Q	1	O
+9	eigentlich	eigentlich	A	1	O
+10	,	,	O	1	O
+11	dass	dass	C	1	O
+12	man	man	Q	1	O
+13	als	als	C	1	O
+14	Gast	Gast	N	1	O
+15	das	die	D	1	O
+16	Hotel	Hotel	N	1	O
+17	in	in	P	1	O
+18	Ruhe	Ruhe	N	1	O
+19	erklärt	erklären	V	1	O
+20	bekommt	bekommen	V	1	O
+21	.	.	O	1	O
 
-1	Aber	aber	C	1	
-2	wer	wer	Q	1	
-3	eine	eine	D	1	
-4	Städtereise	Städtereise	N	1	
-5	macht	machen	V	1	
-6	,	,	O	1	
-7	der	die	Q	1	
-8	sollte	sollen	V	1	
-9	ja	ja	A	1	
-10	nunmal	nunmal	A	1	
-11	auch	auch	A	1	
-12	Orientierungssinn	Orientierungssinn	N	1	
-13	mitbringen	mitbringen	V	1	
-14	;	;	O	1	
-15	·	·	O	1	
-16	)	)	O	1	
-17	das	die	D	1	
-18	Frühstück	Frühstück	N	1	
-19	war	sein	V	1	
-20	mehr	mehr	A	1	
-21	als	als	C	1	
-22	reichhaltig	reichhaltig	G	1	
-23	,	,	O	1	
-24	über	über	P	1	
-25	das	die	D	1	
-26	Kellergewölbe	Kellergewölbe	N	1	
-27	kann	können	V	1	
-28	man	man	Q	1	
-29	geteilter	geteilt	G	1	
-30	Meinung	Meinung	N	1	
-31	sein	sein	V	1	
-32	,	,	O	1	
-33	vorallem	vorallem	O	1	
-34	aber	aber	A	1	
-35	zu	zu	O	1	
-36	klein	klein	G	1	
-37	und	und	C	1	
-38	zu	zu	O	1	
-39	eng	eng	G	1	
-40	bestuhlt	bestuhlt	O	1	
-41	.	.	O	1	
+1	Aber	aber	C	1	O
+2	wer	wer	Q	1	O
+3	eine	eine	D	1	O
+4	Städtereise	Städtereise	N	1	O
+5	macht	machen	V	1	O
+6	,	,	O	1	O
+7	der	die	Q	1	O
+8	sollte	sollen	V	1	O
+9	ja	ja	A	1	O
+10	nunmal	nunmal	A	1	O
+11	auch	auch	A	1	O
+12	Orientierungssinn	Orientierungssinn	N	1	O
+13	mitbringen	mitbringen	V	1	O
+14	;	;	O	1	O
+15	·	·	O	1	O
+16	)	)	O	1	O
+17	das	die	D	1	O
+18	Frühstück	Frühstück	N	1	O
+19	war	sein	V	1	O
+20	mehr	mehr	A	1	O
+21	als	als	C	1	O
+22	reichhaltig	reichhaltig	G	1	O
+23	,	,	O	1	O
+24	über	über	P	1	O
+25	das	die	D	1	O
+26	Kellergewölbe	Kellergewölbe	N	1	O
+27	kann	können	V	1	O
+28	man	man	Q	1	O
+29	geteilter	geteilt	G	1	O
+30	Meinung	Meinung	N	1	O
+31	sein	sein	V	1	O
+32	,	,	O	1	O
+33	vorallem	vorallem	O	1	O
+34	aber	aber	A	1	O
+35	zu	zu	O	1	O
+36	klein	klein	G	1	O
+37	und	und	C	1	O
+38	zu	zu	O	1	O
+39	eng	eng	G	1	O
+40	bestuhlt	bestuhlt	O	1	O
+41	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	ein	eine	D	1	
-4	Economy	Economy	O	1	
-5	·	·	O	1	
-6	Zimmer	Zimmer	N	1	
-7	bebucht	bebucht	O	1	
-8	,	,	O	1	
-9	würde	werden	V	1	
-10	ich	ich	Q	1	
-11	nicht	nicht	O	1	
-12	mehr	mehr	A	1	
-13	tun	tun	V	1	
-14	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	ein	eine	D	1	O
+4	Economy	Economy	O	1	O
+5	·	·	O	1	O
+6	Zimmer	Zimmer	N	1	O
+7	bebucht	bebucht	O	1	O
+8	,	,	O	1	O
+9	würde	werden	V	1	O
+10	ich	ich	Q	1	O
+11	nicht	nicht	O	1	O
+12	mehr	mehr	A	1	O
+13	tun	tun	V	1	O
+14	.	.	O	1	O
 
-1	Klein	klein	G	1	
-2	,	,	O	1	
-3	Fenster	Fenster	N	1	
-4	in	in	P	1	
-5	einer	eine	D	1	
-6	Höhe	Höhe	N	1	
-7	,	,	O	1	
-8	dass	dass	C	1	
-9	man	man	Q	1	
-10	nur	nur	A	1	
-11	die	die	D	1	
-12	Dächer	Dach	N	1	
-13	ahnen	ahnen	V	1	
-14	konnte	können	V	1	
-15	.	.	O	1	
+1	Klein	klein	G	1	O
+2	,	,	O	1	O
+3	Fenster	Fenster	N	1	O
+4	in	in	P	1	O
+5	einer	eine	D	1	O
+6	Höhe	Höhe	N	1	O
+7	,	,	O	1	O
+8	dass	dass	C	1	O
+9	man	man	Q	1	O
+10	nur	nur	A	1	O
+11	die	die	D	1	O
+12	Dächer	Dach	N	1	O
+13	ahnen	ahnen	V	1	O
+14	konnte	können	V	1	O
+15	.	.	O	1	O
 
-1	Dusche	Dusche	N	1	
-2	/	/	O	1	
-3	Bad	Bad	R	1	
-4	toll	toll	G	1	
-5	gross	groß	G	1	
-6	&	&	C	1	
-7	sauber.	sauber.	G	1	
-8	und	und	C	1	
-9	:	:	O	1	
-10	es	es	Q	1	
-11	scheint	scheinen	V	1	
-12	in	in	P	1	
-13	der	die	D	1	
-14	ganzen	ganz	G	1	
-15	Hotelanlage	Hotelanlage	N	1	
-16	wenige	wenige	Q	1	
-17	Zimmer	Zimmer	N	1	
-18	mit	mit	P	1	
-19	Kingsizebetten	Kingsizebetten	O	1	
-20	zu	zu	O	1	
-21	geben	geben	V	1	
-22	...	...	O	1	
+1	Dusche	Dusche	N	1	O
+2	/	/	O	1	O
+3	Bad	Bad	R	1	O
+4	toll	toll	G	1	O
+5	gross	groß	G	1	O
+6	&	&	C	1	O
+7	sauber.	sauber.	G	1	O
+8	und	und	C	1	O
+9	:	:	O	1	O
+10	es	es	Q	1	O
+11	scheint	scheinen	V	1	O
+12	in	in	P	1	O
+13	der	die	D	1	O
+14	ganzen	ganz	G	1	O
+15	Hotelanlage	Hotelanlage	N	1	O
+16	wenige	wenige	Q	1	O
+17	Zimmer	Zimmer	N	1	O
+18	mit	mit	P	1	O
+19	Kingsizebetten	Kingsizebetten	O	1	O
+20	zu	zu	O	1	O
+21	geben	geben	V	1	O
+22	...	...	O	1	O
 
-1	Die	die	D	1	
-2	GEsamtanlage	Gesamtanlage	N	1	
-3	wäre	sein	V	1	
-4	heimelig	heimelig	G	1	
-5	,	,	O	1	
-6	wenn	wenn	C	1	
-7	man	man	Q	1	
-8	sie	sie	Q	1	
-9	ergründen	ergründen	V	1	
-10	könnte	können	V	1	
-11	/	/	O	1	
-12	dürfte	dürfen	V	1	
-13	.	.	O	1	
+1	Die	die	D	1	O
+2	GEsamtanlage	Gesamtanlage	N	1	O
+3	wäre	sein	V	1	O
+4	heimelig	heimelig	G	1	O
+5	,	,	O	1	O
+6	wenn	wenn	C	1	O
+7	man	man	Q	1	O
+8	sie	sie	Q	1	O
+9	ergründen	ergründen	V	1	O
+10	könnte	können	V	1	O
+11	/	/	O	1	O
+12	dürfte	dürfen	V	1	O
+13	.	.	O	1	O
 

@@ -1,107 +1,110 @@
-1	Paradise	Paradise	R	1	
-2	on	on	P	1	
-3	earth	earth	N	1	
+1	Paradise	Paradise	R	1	O
+2	on	on	P	1	O
+3	earth	earth	N	1	O
 
-1	rooms	room	N	1	
-2	are	be	V	1	
-3	great	great	G	1	
-4	,	,	O	1	
-5	but	but	C	1	
-6	should	should	O	1	
-7	be	be	V	1	
-8	separated	separate	V	1	
-9	for	for	P	1	
-10	smokers	smoker	N	1	
-11	and	and	C	1	
-12	for	for	P	1	
-13	family	family	N	1	
-14	with	with	P	1	
-15	children	child	N	1	
+1	rooms	room	N	1	O
+2	are	be	V	1	O
+3	great	great	G	1	O
+4	,	,	O	1	O
+5	but	but	C	1	O
+6	should	should	O	1	O
+7	be	be	V	1	O
+8	separated	separate	V	1	O
+9	for	for	P	1	O
+10	smokers	smoker	N	1	O
+11	and	and	C	1	O
+12	for	for	P	1	O
+13	family	family	N	1	O
+14	with	with	P	1	O
+15	children	child	N	1	O
 
-1	a	a	D	1	
-2	lot	lot	N	1	
-3	of	of	P	1	
-4	staff	staff	N	1	
-5	members	member	N	1	
-6	,	,	O	1	
-7	but	but	C	1	
-8	not	not	A	1	
-9	always	always	A	1	
-10	efficient	efficient	G	1	
-11	as	as	P	1	
-12	supervicion	supervicion	N	1	
-13	is	be	V	1	
-14	oriented	orient	V	1	
-15	for	for	P	1	
-16	control	control	N	1	
-17	of	of	P	1	
-18	procedure	procedure	N	1	
-19	instead	instead	A	1	
-20	of	of	P	1	
-21	control	control	N	1	
-22	of	of	P	1	
-23	the	the	D	1	
-24	result	result	N	1	
-25	and	and	C	1	
-26	client	client	N	1	
-27	satisfaction	satisfaction	N	1	
-28	:	:	O	1	
-29	staff	staff	N	1	
-30	members	member	N	1	
-31	have	have	V	1	
-32	to	to	P	1	
-33	apply	apply	V	1	
-34	strict	strict	G	1	
-35	procedures	procedure	N	1	
-36	and	and	C	1	
-37	finally	finally	A	1	
-38	not	not	A	1	
-39	really	really	A	1	
-40	taking	take	V	1	
-41	care	care	N	1	
-42	of	of	P	1	
-43	the	the	D	1	
-44	result	result	N	1	
-45	(	(	O	1	
-46	as	as	P	1	
-47	not	not	A	1	
-48	responsible	responsible	G	1	
-49	for	for	P	1	
-50	the	the	D	1	
-51	procedure	procedure	N	1	
-52	itself	itself	Q	1	
-53	)	)	O	1	
+1	a	a	D	1	O
+2	lot	lot	N	1	O
+3	of	of	P	1	O
+4	staff	staff	N	1	O
+5	members	member	N	1	O
+6	,	,	O	1	O
+7	but	but	C	1	O
+8	not	not	A	1	O
+9	always	always	A	1	O
+10	efficient	efficient	G	1	O
+11	as	as	P	1	O
+12	supervicion	supervicion	N	1	O
+13	is	be	V	1	O
+14	oriented	orient	V	1	O
+15	for	for	P	1	O
+16	control	control	N	1	O
+17	of	of	P	1	O
+18	procedure	procedure	N	1	O
+19	instead	instead	A	1	O
+20	of	of	P	1	O
+21	control	control	N	1	O
+22	of	of	P	1	O
+23	the	the	D	1	O
+24	result	result	N	1	O
+25	and	and	C	1	O
+26	client	client	N	1	O
+27	satisfaction	satisfaction	N	1	O
+28	:	:	O	1	O
+29	staff	staff	N	1	O
+30	members	member	N	1	O
+31	have	have	V	1	O
+32	to	to	P	1	O
+33	apply	apply	V	1	O
+34	strict	strict	G	1	O
+35	procedures	procedure	N	1	O
+36	and	and	C	1	O
+37	finally	finally	A	1	O
+38	not	not	A	1	O
+39	really	really	A	1	O
+40	taking	take	V	1	O
+41	care	care	N	1	O
+42	of	of	P	1	O
+43	the	the	D	1	O
+44	result	result	N	1	O
+45	(	(	O	1	O
+46	as	as	P	1	O
+47	not	not	A	1	O
+48	responsible	responsible	G	1	O
+49	for	for	P	1	O
+50	the	the	D	1	O
+51	procedure	procedure	N	1	O
+52	itself	itself	Q	1	O
+53	)	)	O	1	O
 
-1	beach	beach	N	1	
-2	activities	activity	N	1	
-3	are	be	V	1	
-4	linked	link	V	1	
-5	to	to	P	1	
-6	tide	tide	V	1	
-7	hours	hour	N	1	
-8	...	...	O	1	
-9	(	(	O	1	
-10	only	only	A	1	
-11	3	3	O	1	
-12	hours	hour	N	1	
-13	/	/	G	1	
-14	day	day	N	1	
-15	..	..	O	1	
-16	)	)	O	1	
-17	and	and	C	1	
-18	C_·_beach_club	C_·_beach_club	R	1	ne=Attraction
-19	mainly	mainly	A	1	
-20	restricted	restrict	V	1	
-21	to	to	P	1	
-22	Villa	Villa	R	1	
-23	residents	resident	N	1	
-24	(	(	O	1	
-25	even	even	A	1	
-26	if	if	P	1	
-27	they	they	Q	1	
-28	are	be	V	1	
-29	not	not	A	1	
-30	present	present	G	1	
-31	...	...	O	1	
-32	)	)	O	1	
+1	beach	beach	N	1	O
+2	activities	activity	N	1	O
+3	are	be	V	1	O
+4	linked	link	V	1	O
+5	to	to	P	1	O
+6	tide	tide	V	1	O
+7	hours	hour	N	1	O
+8	...	...	O	1	O
+9	(	(	O	1	O
+10	only	only	A	1	O
+11	3	3	O	1	O
+12	hours	hour	N	1	O
+13	/	/	G	1	O
+14	day	day	N	1	O
+15	..	..	O	1	O
+16	)	)	O	1	O
+17	and	and	C	1	O
+18	C	C	R	1	I-Attraction
+19	·	·	G	1	I-Attraction
+20	beach	beach	N	1	I-Attraction
+21	club	club	N	1	I-Attraction
+22	mainly	mainly	A	1	O
+23	restricted	restrict	V	1	O
+24	to	to	P	1	O
+25	Villa	Villa	R	1	O
+26	residents	resident	N	1	O
+27	(	(	O	1	O
+28	even	even	A	1	O
+29	if	if	P	1	O
+30	they	they	Q	1	O
+31	are	be	V	1	O
+32	not	not	A	1	O
+33	present	present	G	1	O
+34	...	...	O	1	O
+35	)	)	O	1	O
 

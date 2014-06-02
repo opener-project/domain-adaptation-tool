@@ -1,121 +1,121 @@
-1	Nicht	nicht	O	1	
-2	ganz	ganz	A	1	
-3	neues	neu	G	1	
-4	zentrumsnah	zentrumsnah	G	1	
-5	gelegenes	gelegen	G	1	
-6	großes	groß	G	1	
-7	Hote	Hote	O	1	
+1	Nicht	nicht	O	1	O
+2	ganz	ganz	A	1	O
+3	neues	neu	G	1	O
+4	zentrumsnah	zentrumsnah	G	1	O
+5	gelegenes	gelegen	G	1	O
+6	großes	groß	G	1	O
+7	Hote	Hote	O	1	O
 
-1	Ein	eine	D	1	
-2	unmittelbar	unmittelbar	G	1	
-3	im	in	P	1	
-4	Stadtzentrum	Stadtzentrum	N	1	
-5	gelegenes	gelegen	G	1	
-6	droßes	droßes	O	1	
-7	etwas	etwas	A	1	
-8	ältliches	ältlich	G	1	
-9	Hotel	Hotel	N	1	
-10	,	,	O	1	
-11	nicht	nicht	O	1	
-12	ganz	ganz	A	1	
-13	billig	billig	G	1	
-14	.	.	O	1	
+1	Ein	eine	D	1	O
+2	unmittelbar	unmittelbar	G	1	O
+3	im	in	P	1	O
+4	Stadtzentrum	Stadtzentrum	N	1	O
+5	gelegenes	gelegen	G	1	O
+6	droßes	droßes	O	1	O
+7	etwas	etwas	A	1	O
+8	ältliches	ältlich	G	1	O
+9	Hotel	Hotel	N	1	O
+10	,	,	O	1	O
+11	nicht	nicht	O	1	O
+12	ganz	ganz	A	1	O
+13	billig	billig	G	1	O
+14	.	.	O	1	O
 
-1	Ausreichend	ausreichend	G	1	
-2	gro0e	gro0e	O	1	
-3	Zimmer	Zimmer	R	1	
-4	,	,	O	1	
-5	ca.	ca.	A	1	
-6	18	18	O	1	
-7	qm	qm	N	1	
-8	,	,	O	1	
-9	Fenster	Fenster	N	1	
-10	nicht	nicht	O	1	
-11	zu	zu	O	1	
-12	öffnen	öffnen	V	1	
-13	,	,	O	1	
-14	kein	keine	Q	1	
-15	Lüftungsfenster	Lüftungsfenster	O	1	
-16	,	,	O	1	
-17	heller	hell	G	1	
-18	Laminatfußboden	Laminatfußboden	O	1	
-19	,	,	O	1	
-20	gute	gut	G	1	
-21	Schalldämmung	Schalldämmung	N	1	
-22	,	,	O	1	
-23	nur	nur	A	1	
-24	1	1	O	1	
-25	kleiner	klein	G	1	
-26	Hochschrank	Hochschrank	O	1	
-27	,	,	O	1	
-28	offene	offen	G	1	
-29	Kleiderstange	Kleiderstange	N	1	
-30	,	,	O	1	
-31	1	1	O	1	
-32	Stuhl	Stuhl	N	1	
-33	,	,	O	1	
-34	1	1	O	1	
-35	unbequemer	unbequem	G	1	
-36	älterer	alt	G	1	
-37	Sessel	Sessel	N	1	
-38	,	,	O	1	
-39	grp0e	grp0e	O	1	
-40	Schreibfläche	Schreibfläche	N	1	
-41	mit	mit	P	1	
-42	gro0em	gro0em	O	1	
-43	Spiegel	Spiegel	N	1	
-44	(	(	O	1	
-45	wozu	wozu	Q	1	
-46	?	?	O	1	
-47	)	)	O	1	
-48	,	,	O	1	
-49	Kühlschrank	Kühlschrank	N	1	
-50	.	.	O	1	
+1	Ausreichend	ausreichend	G	1	O
+2	gro0e	gro0e	O	1	O
+3	Zimmer	Zimmer	R	1	O
+4	,	,	O	1	O
+5	ca.	ca.	A	1	O
+6	18	18	O	1	O
+7	qm	qm	N	1	O
+8	,	,	O	1	O
+9	Fenster	Fenster	N	1	O
+10	nicht	nicht	O	1	O
+11	zu	zu	O	1	O
+12	öffnen	öffnen	V	1	O
+13	,	,	O	1	O
+14	kein	keine	Q	1	O
+15	Lüftungsfenster	Lüftungsfenster	O	1	O
+16	,	,	O	1	O
+17	heller	hell	G	1	O
+18	Laminatfußboden	Laminatfußboden	O	1	O
+19	,	,	O	1	O
+20	gute	gut	G	1	O
+21	Schalldämmung	Schalldämmung	N	1	O
+22	,	,	O	1	O
+23	nur	nur	A	1	O
+24	1	1	O	1	O
+25	kleiner	klein	G	1	O
+26	Hochschrank	Hochschrank	O	1	O
+27	,	,	O	1	O
+28	offene	offen	G	1	O
+29	Kleiderstange	Kleiderstange	N	1	O
+30	,	,	O	1	O
+31	1	1	O	1	O
+32	Stuhl	Stuhl	N	1	O
+33	,	,	O	1	O
+34	1	1	O	1	O
+35	unbequemer	unbequem	G	1	O
+36	älterer	alt	G	1	O
+37	Sessel	Sessel	N	1	O
+38	,	,	O	1	O
+39	grp0e	grp0e	O	1	O
+40	Schreibfläche	Schreibfläche	N	1	O
+41	mit	mit	P	1	O
+42	gro0em	gro0em	O	1	O
+43	Spiegel	Spiegel	N	1	O
+44	(	(	O	1	O
+45	wozu	wozu	Q	1	O
+46	?	?	O	1	O
+47	)	)	O	1	O
+48	,	,	O	1	O
+49	Kühlschrank	Kühlschrank	N	1	O
+50	.	.	O	1	O
 
-1	Bad	Bad	R	1	
-2	mit	mit	P	1	
-3	alten	alt	G	1	
-4	Kacheln	Kachel	N	1	
-5	und	und	C	1	
-6	älteren	alt	G	1	
-7	Armaturen	Armatur	N	1	
-8	,	,	O	1	
-9	Wanne	Wanne	N	1	
-10	mit	mit	P	1	
-11	Duschvorhang	Duschvorhang	N	1	
-12	,	,	O	1	
-13	ca.	ca.	A	1	
-14	70	70	O	1	
-15	cm	cm	N	1	
-16	Flachbildfernseher	Flachbildfernseher	O	1	
-17	mit	mit	P	1	
-18	einigen	einige	Q	1	
-19	internationalen	international	G	1	
-20	Programmen	Programm	N	1	
-21	,	,	O	1	
-22	deutschxprachig	deutschxprachig	O	1	
-23	nur	nur	A	1	
-24	RTL	RTL	R	1	
-25	.	.	O	1	
+1	Bad	Bad	R	1	O
+2	mit	mit	P	1	O
+3	alten	alt	G	1	O
+4	Kacheln	Kachel	N	1	O
+5	und	und	C	1	O
+6	älteren	alt	G	1	O
+7	Armaturen	Armatur	N	1	O
+8	,	,	O	1	O
+9	Wanne	Wanne	N	1	O
+10	mit	mit	P	1	O
+11	Duschvorhang	Duschvorhang	N	1	O
+12	,	,	O	1	O
+13	ca.	ca.	A	1	O
+14	70	70	O	1	O
+15	cm	cm	N	1	O
+16	Flachbildfernseher	Flachbildfernseher	O	1	O
+17	mit	mit	P	1	O
+18	einigen	einige	Q	1	O
+19	internationalen	international	G	1	O
+20	Programmen	Programm	N	1	O
+21	,	,	O	1	O
+22	deutschxprachig	deutschxprachig	O	1	O
+23	nur	nur	A	1	O
+24	RTL	RTL	R	1	O
+25	.	.	O	1	O
 
-1	Frühstück	Frühstück	N	1	
-2	in	in	P	1	
-3	riesigem	riesig	G	1	
-4	Festsaal	Festsaal	N	1	
-5	mit	mit	P	1	
-6	Glitzerdecke	Glitzerdecke	O	1	
-7	und	und	C	1	
-8	Beleichtungstechnik	Beleichtungstechnik	O	1	
-9	,	,	O	1	
-10	viele	viele	Q	1	
-11	Gäste	Gast	N	1	
-12	gleichzeitig	gleichzeitig	G	1	
-13	,	,	O	1	
-14	gutes	gut	G	1	
-15	,	,	O	1	
-16	reichliches	reichlich	G	1	
-17	Essen.	essen.	N	1	
-18	aufmerksames	aufmerksam	G	1	
-19	Personal	Personal	N	1	
-20	.	.	O	1	
+1	Frühstück	Frühstück	N	1	O
+2	in	in	P	1	O
+3	riesigem	riesig	G	1	O
+4	Festsaal	Festsaal	N	1	O
+5	mit	mit	P	1	O
+6	Glitzerdecke	Glitzerdecke	O	1	O
+7	und	und	C	1	O
+8	Beleichtungstechnik	Beleichtungstechnik	O	1	O
+9	,	,	O	1	O
+10	viele	viele	Q	1	O
+11	Gäste	Gast	N	1	O
+12	gleichzeitig	gleichzeitig	G	1	O
+13	,	,	O	1	O
+14	gutes	gut	G	1	O
+15	,	,	O	1	O
+16	reichliches	reichlich	G	1	O
+17	Essen.	essen.	N	1	O
+18	aufmerksames	aufmerksam	G	1	O
+19	Personal	Personal	N	1	O
+20	.	.	O	1	O
 

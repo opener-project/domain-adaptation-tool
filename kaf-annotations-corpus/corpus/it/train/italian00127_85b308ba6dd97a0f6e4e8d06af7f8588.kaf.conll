@@ -1,185 +1,189 @@
-1	Hotel	hotel	N	1	
-2	per	per	P	1	
-3	2	2	N	1	
-4	/	/	O	1	
-5	3	3	G	1	
-6	giorni	giorno	N	1	
-7	max	max	R	1	
-8	!	!	O	1	
+1	Hotel	hotel	N	1	O
+2	per	per	P	1	O
+3	2	2	N	1	O
+4	/	/	O	1	O
+5	3	3	G	1	O
+6	giorni	giorno	N	1	O
+7	max	max	R	1	O
+8	!	!	O	1	O
 
-1	Ottimo	ottimo	G	1	
-2	rapporto	rapporto	N	1	
-3	qualità	qualita'	N	1	
-4	/	/	O	1	
-5	prezza	prezza	N	1	
+1	Ottimo	ottimo	G	1	O
+2	rapporto	rapporto	N	1	O
+3	qualità	qualita'	N	1	O
+4	/	/	O	1	O
+5	prezza	prezza	N	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	,	,	O	1	
-4	vicinissima	vicinissima	G	1	
-5	alla	alla	P	1	
-6	Stazione_Centrale	stazione_centrale	R	1	ne=POI
-7	,	,	O	1	
-8	al	al	P	1	
-9	centro	centro	N	1	
-10	,	,	O	1	
-11	al	al	P	1	
-12	quartiere_a_luci_rosse	quartiere_a_luce_rosso	R	1	ne=POI
-13	,	,	O	1	
-14	la	lo	D	1	
-15	simpatia	simpatia	N	1	
-16	,	,	O	1	
-17	gentilezza	gentilezza	N	1	
-18	e	e	Q	1	
-19	disponibilità	disponibilita'	N	1	
-20	del	del	P	1	
-21	personale	personale	N	1	
-22	e	e	Q	1	
-23	la	lo	D	1	
-24	vista	vedere	V	1	
-25	dalla	dalla	P	1	
-26	camera	camera	N	1	
-27	,	,	O	1	
-28	direttamente	direttamente	A	1	
-29	sul	sul	P	1	
-30	canale	canale	N	1	
-31	...	...	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	,	,	O	1	O
+4	vicinissima	vicinissima	G	1	O
+5	alla	alla	P	1	O
+6	Stazione	stazione	N	1	I-POI
+7	Centrale	centrale	N	1	I-POI
+8	,	,	O	1	O
+9	al	al	P	1	O
+10	centro	centro	N	1	O
+11	,	,	O	1	O
+12	al	al	P	1	O
+13	quartiere	quartiere	N	1	I-POI
+14	a	a	P	1	I-POI
+15	luci	luce	N	1	I-POI
+16	rosse	rosso	G	1	I-POI
+17	,	,	O	1	O
+18	la	lo	D	1	O
+19	simpatia	simpatia	N	1	O
+20	,	,	O	1	O
+21	gentilezza	gentilezza	N	1	O
+22	e	e	Q	1	O
+23	disponibilità	disponibilita'	N	1	O
+24	del	del	P	1	O
+25	personale	personale	N	1	O
+26	e	e	Q	1	O
+27	la	lo	D	1	O
+28	vista	vedere	V	1	O
+29	dalla	dalla	P	1	O
+30	camera	camera	N	1	O
+31	,	,	O	1	O
+32	direttamente	direttamente	A	1	O
+33	sul	sul	P	1	O
+34	canale	canale	N	1	O
+35	...	...	O	1	O
 
-1	Fantastica	fantastico	G	1	
-2	.	.	O	1	
+1	Fantastica	fantastico	G	1	O
+2	.	.	O	1	O
 
-1	Consiglierei	consigliare	V	1	
-2	questo	questo	G	1	
-3	hotel	hotel	N	1	
-4	a	a	P	1	
-5	chi	chi	Q	1	
-6	vuol	vuol	V	1	
-7	spendere	spendere	V	1	
-8	poco	poco	A	1	
-9	,	,	O	1	
-10	a	a	P	1	
-11	chi	chi	Q	1	
-12	deve	dovere	V	1	
-13	soggiornare	soggiornare	V	1	
-14	per	per	P	1	
-15	non	non	A	1	
-16	più	piu'	R	1	
-17	di	di	P	1	
-18	2	2	N	1	
-19	/	/	O	1	
-20	3	3	G	1	
-21	notti	notte	N	1	
-22	e	e	Q	1	
-23	a	a	P	1	
-24	chi	chi	Q	1	
-25	vuole	volere	V	1	
-26	avere	avere	V	1	
-27	un	uno	D	1	
-28	hotel	hotel	N	1	
-29	vicinissimo	vicinissimo	G	1	
-30	al	al	P	1	
-31	centro	centro	N	1	
-32	ed	ed	Q	1	
-33	alle	alle	P	1	
-34	fermate	fermata	N	1	
-35	di	di	P	1	
-36	bus	bus	N	1	
-37	,	,	O	1	
-38	tram	tram	N	1	
-39	e	e	Q	1	
-40	metro	metro	N	1	
-41	.	.	O	1	
+1	Consiglierei	consigliare	V	1	O
+2	questo	questo	G	1	O
+3	hotel	hotel	N	1	O
+4	a	a	P	1	O
+5	chi	chi	Q	1	O
+6	vuol	vuol	V	1	O
+7	spendere	spendere	V	1	O
+8	poco	poco	A	1	O
+9	,	,	O	1	O
+10	a	a	P	1	O
+11	chi	chi	Q	1	O
+12	deve	dovere	V	1	O
+13	soggiornare	soggiornare	V	1	O
+14	per	per	P	1	O
+15	non	non	A	1	O
+16	più	piu'	R	1	O
+17	di	di	P	1	O
+18	2	2	N	1	O
+19	/	/	O	1	O
+20	3	3	G	1	O
+21	notti	notte	N	1	O
+22	e	e	Q	1	O
+23	a	a	P	1	O
+24	chi	chi	Q	1	O
+25	vuole	volere	V	1	O
+26	avere	avere	V	1	O
+27	un	uno	D	1	O
+28	hotel	hotel	N	1	O
+29	vicinissimo	vicinissimo	G	1	O
+30	al	al	P	1	O
+31	centro	centro	N	1	O
+32	ed	ed	Q	1	O
+33	alle	alle	P	1	O
+34	fermate	fermata	N	1	O
+35	di	di	P	1	O
+36	bus	bus	N	1	O
+37	,	,	O	1	O
+38	tram	tram	N	1	O
+39	e	e	Q	1	O
+40	metro	metro	N	1	O
+41	.	.	O	1	O
 
-1	PS	ps	R	1	
-2	:	:	O	1	
-3	l'	lo	D	1	
-4	hotel	hotel	N	1	
-5	è	è	G	1	
-6	situato	situare	V	1	
-7	in	in	P	1	
-8	un	uno	D	1	
-9	pub	pub	N	1	
-10	,	,	O	1	
-11	ovvero	ovvero	Q	1	
-12	per	per	P	1	
-13	accedere	accedere	V	1	
-14	all'	all'	P	1	
-15	hotel	hotel	N	1	
-16	dovete	dovere	V	1	
-17	passare	passare	V	1	
-18	all'	all'	P	1	
-19	interno	interno	N	1	
-20	di	di	P	1	
-21	questo	questo	G	1	
-22	pub	pub	N	1	
-23	!	!	O	1	
-24	:	:	O	1	
-25	D	d	N	1	
-26	State	essere	V	1	
-27	tranquilli	tranquillo	G	1	
-28	,	,	O	1	
-29	non	non	A	1	
-30	c'	c'	A	1	
-31	è	è	G	1	
-32	tanto	tanto	G	1	
-33	rumore	rumore	N	1	
-34	,	,	O	1	
-35	si	si	Q	1	
-36	dorme	dormire	V	1	
-37	tranquilli	tranquillo	G	1	
-38	!	!	O	1	
-39	;	;	O	1	
-40	)	)	O	1	
+1	PS	ps	R	1	O
+2	:	:	O	1	O
+3	l'	lo	D	1	O
+4	hotel	hotel	N	1	O
+5	è	è	G	1	O
+6	situato	situare	V	1	O
+7	in	in	P	1	O
+8	un	uno	D	1	O
+9	pub	pub	N	1	O
+10	,	,	O	1	O
+11	ovvero	ovvero	Q	1	O
+12	per	per	P	1	O
+13	accedere	accedere	V	1	O
+14	all'	all'	P	1	O
+15	hotel	hotel	N	1	O
+16	dovete	dovere	V	1	O
+17	passare	passare	V	1	O
+18	all'	all'	P	1	O
+19	interno	interno	N	1	O
+20	di	di	P	1	O
+21	questo	questo	G	1	O
+22	pub	pub	N	1	O
+23	!	!	O	1	O
+24	:	:	O	1	O
+25	D	d	N	1	O
+26	State	essere	V	1	O
+27	tranquilli	tranquillo	G	1	O
+28	,	,	O	1	O
+29	non	non	A	1	O
+30	c'	c'	A	1	O
+31	è	è	G	1	O
+32	tanto	tanto	G	1	O
+33	rumore	rumore	N	1	O
+34	,	,	O	1	O
+35	si	si	Q	1	O
+36	dorme	dormire	V	1	O
+37	tranquilli	tranquillo	G	1	O
+38	!	!	O	1	O
+39	;	;	O	1	O
+40	)	)	O	1	O
 
-1	La	lo	D	1	
-2	camera	camera	N	1	
-3	dà	dare	V	1	
-4	un	uno	D	1	
-5	senso	senso	N	1	
-6	di	di	P	1	
-7	sporco	sporco	N	1	
-8	,	,	O	1	
-9	pur	pur	Q	1	
-10	non	non	A	1	
-11	essendola	essendola	V	1	
-12	del	del	P	1	
-13	tutto	tutto	Q	1	
-14	in	in	P	1	
-15	realtà	realta'	N	1	
-16	,	,	O	1	
-17	la	lo	D	1	
-18	colazione	colazione	N	1	
-19	è	è	R	1	
-20	a	a	P	1	
-21	scelta	scelta	N	1	
-22	tra	tra	P	1	
-23	qualche	qualche	G	1	
-24	fetta	fetta	N	1	
-25	di	di	P	1	
-26	pane	pane	N	1	
-27	con	con	P	1	
-28	burro	burro	N	1	
-29	e	e	Q	1	
-30	marmellata	marmellata	N	1	
-31	o	o	Q	1	
-32	uova	uovo	N	1	
-33	con	con	P	1	
-34	2	2	G	1	
-35	fettine	fettine	N	1	
-36	di	di	P	1	
-37	bacon	bacon	N	1	
-38	...	...	O	1	
+1	La	lo	D	1	O
+2	camera	camera	N	1	O
+3	dà	dare	V	1	O
+4	un	uno	D	1	O
+5	senso	senso	N	1	O
+6	di	di	P	1	O
+7	sporco	sporco	N	1	O
+8	,	,	O	1	O
+9	pur	pur	Q	1	O
+10	non	non	A	1	O
+11	essendola	essendola	V	1	O
+12	del	del	P	1	O
+13	tutto	tutto	Q	1	O
+14	in	in	P	1	O
+15	realtà	realta'	N	1	O
+16	,	,	O	1	O
+17	la	lo	D	1	O
+18	colazione	colazione	N	1	O
+19	è	è	R	1	O
+20	a	a	P	1	O
+21	scelta	scelta	N	1	O
+22	tra	tra	P	1	O
+23	qualche	qualche	G	1	O
+24	fetta	fetta	N	1	O
+25	di	di	P	1	O
+26	pane	pane	N	1	O
+27	con	con	P	1	O
+28	burro	burro	N	1	O
+29	e	e	Q	1	O
+30	marmellata	marmellata	N	1	O
+31	o	o	Q	1	O
+32	uova	uovo	N	1	O
+33	con	con	P	1	O
+34	2	2	G	1	O
+35	fettine	fettine	N	1	O
+36	di	di	P	1	O
+37	bacon	bacon	N	1	O
+38	...	...	O	1	O
 
-1	Latte	latte	G	1	
-2	e	e	Q	1	
-3	caffè	caffe'	N	1	
-4	...	...	O	1	
+1	Latte	latte	G	1	O
+2	e	e	Q	1	O
+3	caffè	caffe'	N	1	O
+4	...	...	O	1	O
 
-1	Mi	mi	Q	1	
-2	aspettavo	aspettare	V	1	
-3	qualcosa	qualcosa	Q	1	
-4	in	in	P	1	
-5	+	+	O	1	
-6	..	..	O	1	
-7	.	.	O	1	
+1	Mi	mi	Q	1	O
+2	aspettavo	aspettare	V	1	O
+3	qualcosa	qualcosa	Q	1	O
+4	in	in	P	1	O
+5	+	+	O	1	O
+6	..	..	O	1	O
+7	.	.	O	1	O
 

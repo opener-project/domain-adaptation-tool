@@ -1,118 +1,119 @@
-1	Bestimmt	bestimmen	V	1	
-2	bald	bald	A	1	
-3	wieder	wieder	A	1	
-4	!	!	O	1	
+1	Bestimmt	bestimmen	V	1	O
+2	bald	bald	A	1	O
+3	wieder	wieder	A	1	O
+4	!	!	O	1	O
 
-1	Wir	wir	Q	1	
-2	haben	haben	V	1	
-3	eine	eine	D	1	
-4	tolle	toll	G	1	
-5	Zeit	Zeit	N	1	
-6	dort	dort	A	1	
-7	verbracht	verbringen	V	1	
-8	und	und	C	1	
-9	kommen	kommen	V	1	
-10	gerne	gerne	A	1	
-11	wieder	wieder	A	1	
-12	!	!	O	1	
+1	Wir	wir	Q	1	O
+2	haben	haben	V	1	O
+3	eine	eine	D	1	O
+4	tolle	toll	G	1	O
+5	Zeit	Zeit	N	1	O
+6	dort	dort	A	1	O
+7	verbracht	verbringen	V	1	O
+8	und	und	C	1	O
+9	kommen	kommen	V	1	O
+10	gerne	gerne	A	1	O
+11	wieder	wieder	A	1	O
+12	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Essen	Essen	N	1	
-3	auf	auf	P	1	
-4	der	die	D	1	
-5	schönen	schön	G	1	
-6	Terrasse	Terrasse	N	1	
-7	mit	mit	P	1	
-8	einmaligem	einmalig	G	1	
-9	Ausblick	Ausblick	N	1	
-10	war	sein	V	1	
-11	ein	eine	D	1	
-12	Genuss	Genuss	N	1	
-13	.	.	O	1	
-14	.	.	O	1	
+1	Das	die	D	1	O
+2	Essen	Essen	N	1	O
+3	auf	auf	P	1	O
+4	der	die	D	1	O
+5	schönen	schön	G	1	O
+6	Terrasse	Terrasse	N	1	O
+7	mit	mit	P	1	O
+8	einmaligem	einmalig	G	1	O
+9	Ausblick	Ausblick	N	1	O
+10	war	sein	V	1	O
+11	ein	eine	D	1	O
+12	Genuss	Genuss	N	1	O
+13	.	.	O	1	O
+14	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Lage	Lage	N	1	
-3	gut	gut	G	1	
-4	.	.	O	1	
+1	Die	die	D	1	O
+2	Lage	Lage	N	1	O
+3	gut	gut	G	1	O
+4	.	.	O	1	O
 
-1	Lucca	Lucca	R	1	ne=Location
-2	,	,	O	1	
-3	Pisa	Pisa	R	1	ne=Location
-4	,	,	O	1	
-5	Florenz	Florenz	R	1	ne=Location
-6	,	,	O	1	
-7	Vinci	Vinci	R	1	ne=Location
-8	waren	sein	V	1	
-9	mit	mit	P	1	
-10	dem	die	D	1	
-11	Auto	Auto	N	1	
-12	oder	oder	C	1	
-13	Zug	Zug	N	1	
-14	gut	gut	G	1	
-15	zu	zu	O	1	
-16	erreichen	erreichen	V	1	
-17	.	.	O	1	
+1	Lucca	Lucca	R	1	I-Location
+2	,	,	O	1	O
+3	Pisa	Pisa	R	1	I-Location
+4	,	,	O	1	O
+5	Florenz	Florenz	R	1	I-Location
+6	,	,	O	1	O
+7	Vinci	Vinci	R	1	I-Location
+8	waren	sein	V	1	O
+9	mit	mit	P	1	O
+10	dem	die	D	1	O
+11	Auto	Auto	N	1	O
+12	oder	oder	C	1	O
+13	Zug	Zug	N	1	O
+14	gut	gut	G	1	O
+15	zu	zu	O	1	O
+16	erreichen	erreichen	V	1	O
+17	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	die	die	D	1	
-3	kleinen	klein	G	1	
-4	Orte	Ort	N	1	
-5	Montopoli	Montopoli	R	1	ne=Location
-6	und	und	C	1	
-7	San_Miniato	San_Miniato	R	1	ne=Location
-8	in	in	P	1	
-9	der	die	D	1	
-10	Nähe	Nähe	N	1	
-11	lohnen	lohnen	V	1	
-12	.	.	O	1	
+1	Auch	auch	A	1	O
+2	die	die	D	1	O
+3	kleinen	klein	G	1	O
+4	Orte	Ort	N	1	O
+5	Montopoli	Montopoli	R	1	I-Location
+6	und	und	C	1	O
+7	San	San	R	1	I-Location
+8	Miniato	Miniato	O	1	I-Location
+9	in	in	P	1	O
+10	der	die	D	1	O
+11	Nähe	Nähe	N	1	O
+12	lohnen	lohnen	V	1	O
+13	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Besitzer	Besitzer	N	1	
-3	überzeugen	überzeugen	V	1	
-4	mit	mit	P	1	
-5	Freundlichkeit	Freundlichkeit	N	1	
-6	,	,	O	1	
-7	Kompetenz	Kompetenz	N	1	
-8	und	und	C	1	
-9	Engagement	Engagement	N	1	
-10	.	.	O	1	
+1	Die	die	D	1	O
+2	Besitzer	Besitzer	N	1	O
+3	überzeugen	überzeugen	V	1	O
+4	mit	mit	P	1	O
+5	Freundlichkeit	Freundlichkeit	N	1	O
+6	,	,	O	1	O
+7	Kompetenz	Kompetenz	N	1	O
+8	und	und	C	1	O
+9	Engagement	Engagement	N	1	O
+10	.	.	O	1	O
 
-1	Wenn	wenn	C	1	
-2	man	man	Q	1	
-3	nur	nur	A	1	
-4	wenig	wenige	Q	1	
-5	vorhat	vorhat	V	1	
-6	,	,	O	1	
-7	kann	können	V	1	
-8	man	man	Q	1	
-9	gut	gut	G	1	
-10	einige	einige	Q	1	
-11	Zeit	Zeit	N	1	
-12	am	an	P	1	
-13	Pool	Pool	N	1	
-14	verbringen	verbringen	V	1	
-15	.	.	O	1	
+1	Wenn	wenn	C	1	O
+2	man	man	Q	1	O
+3	nur	nur	A	1	O
+4	wenig	wenige	Q	1	O
+5	vorhat	vorhat	V	1	O
+6	,	,	O	1	O
+7	kann	können	V	1	O
+8	man	man	Q	1	O
+9	gut	gut	G	1	O
+10	einige	einige	Q	1	O
+11	Zeit	Zeit	N	1	O
+12	am	an	P	1	O
+13	Pool	Pool	N	1	O
+14	verbringen	verbringen	V	1	O
+15	.	.	O	1	O
 
-1	Bahnen	Bahn|Bahnen	N	1	
-2	kann	können	V	1	
-3	man	man	Q	1	
-4	allerdings	allerdings	A	1	
-5	nicht	nicht	O	1	
-6	ziehen	ziehen	V	1	
-7	.	.	O	1	
+1	Bahnen	Bahn|Bahnen	N	1	O
+2	kann	können	V	1	O
+3	man	man	Q	1	O
+4	allerdings	allerdings	A	1	O
+5	nicht	nicht	O	1	O
+6	ziehen	ziehen	V	1	O
+7	.	.	O	1	O
 
-1	Joggen	Joggen	N	1	
-2	ist	sein	V	1	
-3	aber	aber	A	1	
-4	möglich	möglich	G	1	
-5	.	.	O	1	
+1	Joggen	Joggen	N	1	O
+2	ist	sein	V	1	O
+3	aber	aber	A	1	O
+4	möglich	möglich	G	1	O
+5	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	bekommt	bekommen	V	1	
-3	auch	auch	A	1	
-4	gute	gut	G	1	
-5	Strecken	Strecke	N	1	
-6	genannt	nennen	V	1	
-7	.	.	O	1	
+1	Man	man	Q	1	O
+2	bekommt	bekommen	V	1	O
+3	auch	auch	A	1	O
+4	gute	gut	G	1	O
+5	Strecken	Strecke	N	1	O
+6	genannt	nennen	V	1	O
+7	.	.	O	1	O
 

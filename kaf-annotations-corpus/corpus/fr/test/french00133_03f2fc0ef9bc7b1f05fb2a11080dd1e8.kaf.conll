@@ -1,52 +1,52 @@
-1	Europark	Europark	R	1	ne=Attraction
+1	Europark	Europark	R	1	I-Attraction
 
-1	très	très	G	1	
-2	beau	beau	G	1	
-3	Park	Park	N	1	
-4	,	,	O	1	
-5	mais	mais	C	1	
-6	trop	trop	G	1	
-7	cher	cher	G	1	
-8	,	,	O	1	
-9	même	même	G	1	
-10	les	le	D	1	
-11	journée	journée	N	1	
-12	demi	demi	G	1	
-13	tarif	tarif	G	1	
-14	revienne	revenir	V	1	
-15	cher	cher	G	1	
-16	,	,	O	1	
-17	personne	personne	P	1	
-18	pour	pour	P	1	
-19	placer	placer	V	1	
-20	sur	sur	P	1	
-21	les	le	D	1	
-22	parking	parking	N	1	
-23	,	,	O	1	
-24	surtout	surtout	G	1	
-25	a	avoir	V	1	
-26	la	le	D	1	
-27	sortie	sortie	N	1	
-28	pour	pour	P	1	
-29	faire	faire	V	1	
-30	la	le	D	1	
-31	circulation	circulation	N	1	
-32	et	et	C	1	
-33	route	route	N	1	
-34	pour	pour	P	1	
-35	aaler	aaler	V	1	
-36	tres	tres	D	1	
-37	degrader	degrader	V	1	
-38	et	et	C	1	
-39	dangereuse	dangereux	G	1	
-40	,	,	O	1	
-41	on	on	Q	1	
-42	passe	passer	V	1	
-43	difficilement	difficilement	G	1	
-44	a	avoir	V	1	
-45	deux	deux	D	1	
-46	vehicule	vehicule	V	1	
-47	sur	sur	P	1	
-48	certain	certain	G	1	
-49	passage	passage	N	1	
+1	très	très	G	1	O
+2	beau	beau	G	1	O
+3	Park	Park	N	1	O
+4	,	,	O	1	O
+5	mais	mais	C	1	O
+6	trop	trop	G	1	O
+7	cher	cher	G	1	O
+8	,	,	O	1	O
+9	même	même	G	1	O
+10	les	le	D	1	O
+11	journée	journée	N	1	O
+12	demi	demi	G	1	O
+13	tarif	tarif	G	1	O
+14	revienne	revenir	V	1	O
+15	cher	cher	G	1	O
+16	,	,	O	1	O
+17	personne	personne	P	1	O
+18	pour	pour	P	1	O
+19	placer	placer	V	1	O
+20	sur	sur	P	1	O
+21	les	le	D	1	O
+22	parking	parking	N	1	O
+23	,	,	O	1	O
+24	surtout	surtout	G	1	O
+25	a	avoir	V	1	O
+26	la	le	D	1	O
+27	sortie	sortie	N	1	O
+28	pour	pour	P	1	O
+29	faire	faire	V	1	O
+30	la	le	D	1	O
+31	circulation	circulation	N	1	O
+32	et	et	C	1	O
+33	route	route	N	1	O
+34	pour	pour	P	1	O
+35	aaler	aaler	V	1	O
+36	tres	tres	D	1	O
+37	degrader	degrader	V	1	O
+38	et	et	C	1	O
+39	dangereuse	dangereux	G	1	O
+40	,	,	O	1	O
+41	on	on	Q	1	O
+42	passe	passer	V	1	O
+43	difficilement	difficilement	G	1	O
+44	a	avoir	V	1	O
+45	deux	deux	D	1	O
+46	vehicule	vehicule	V	1	O
+47	sur	sur	P	1	O
+48	certain	certain	G	1	O
+49	passage	passage	N	1	O
 

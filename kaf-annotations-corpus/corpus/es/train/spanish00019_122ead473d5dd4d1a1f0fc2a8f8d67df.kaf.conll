@@ -1,69 +1,69 @@
-1	Correcto	Correcto	R	1	
-2	del	del	D	1	
-3	todo	todo	N	1	
-4	,	,	O	1	
-5	genial	genial	G	1	
-6	si	si	N	1	
-7	viajas	viajas	P	1	
-8	a	a	D	1	
-9	ver	ver	A	1	
-10	el	el	N	1	
-11	barça	barça	N	1	
+1	Correcto	Correcto	R	1	O
+2	del	del	D	1	O
+3	todo	todo	N	1	O
+4	,	,	O	1	O
+5	genial	genial	G	1	O
+6	si	si	N	1	O
+7	viajas	viajas	P	1	O
+8	a	a	D	1	O
+9	ver	ver	A	1	O
+10	el	el	N	1	O
+11	barça	barça	N	1	O
 
-1	Muy	muy	G	1	
-2	correcto	correcto	N	1	
-3	en	en	P	1	
-4	todos	todos	N	1	
-5	los	los	N	1	
-6	aspectos	aspectos	N	1	
-7	,	,	O	1	
-8	muy	muy	G	1	
-9	limpio	limpio	N	1	
-10	,	,	O	1	
-11	tiene	tiene	N	1	
-12	detalles	detalles	N	1	
-13	que	que	V	1	
-14	agradan	agradan	N	1	
-15	,	,	O	1	
-16	como	como	N	1	
-17	el	el	N	1	
-18	mini	mini	O	1	
-19	·	·	V	1	
-20	bar	bar	N	1	
-21	gratuito	gratuito	N	1	
-22	(	(	O	1	
-23	bebidas	bebidas	O	1	
-24	no	no	A	1	
-25	alcoholicas	alcoholicas	A	1	
-26	)	)	O	1	
-27	y	y	G	1	
-28	el	el	N	1	
-29	calienta	calienta	N	1	
-30	liquidos	liquidos	N	1	
-31	de	de	O	1	
-32	la	la	O	1	
-33	habitacion	habitacion	N	1	
-34	para	para	N	1	
-35	que	que	N	1	
-36	te	te	N	1	
-37	puedas	puedas	N	1	
-38	hacer	hacer	V	1	
-39	cafe	cafe	N	1	
-40	o	o	A	1	
-41	infusiones.Reponen	infusiones.Reponen	R	1	
-42	a	a	D	1	
-43	diario	diario	N	1	
-44	.	.	O	1	
+1	Muy	muy	G	1	O
+2	correcto	correcto	N	1	O
+3	en	en	P	1	O
+4	todos	todos	N	1	O
+5	los	los	N	1	O
+6	aspectos	aspectos	N	1	O
+7	,	,	O	1	O
+8	muy	muy	G	1	O
+9	limpio	limpio	N	1	O
+10	,	,	O	1	O
+11	tiene	tiene	N	1	O
+12	detalles	detalles	N	1	O
+13	que	que	V	1	O
+14	agradan	agradan	N	1	O
+15	,	,	O	1	O
+16	como	como	N	1	O
+17	el	el	N	1	O
+18	mini	mini	O	1	O
+19	·	·	V	1	O
+20	bar	bar	N	1	O
+21	gratuito	gratuito	N	1	O
+22	(	(	O	1	O
+23	bebidas	bebidas	O	1	O
+24	no	no	A	1	O
+25	alcoholicas	alcoholicas	A	1	O
+26	)	)	O	1	O
+27	y	y	G	1	O
+28	el	el	N	1	O
+29	calienta	calienta	N	1	O
+30	liquidos	liquidos	N	1	O
+31	de	de	O	1	O
+32	la	la	O	1	O
+33	habitacion	habitacion	N	1	O
+34	para	para	N	1	O
+35	que	que	N	1	O
+36	te	te	N	1	O
+37	puedas	puedas	N	1	O
+38	hacer	hacer	V	1	O
+39	cafe	cafe	N	1	O
+40	o	o	A	1	O
+41	infusiones.Reponen	infusiones.Reponen	R	1	O
+42	a	a	D	1	O
+43	diario	diario	N	1	O
+44	.	.	O	1	O
 
-1	Clientela	Clientela	R	1	
-2	tranquila	tranquila	N	1	
-3	y	y	G	1	
-4	educada	educada	N	1	
-5	en	en	P	1	
-6	general	general	G	1	
-7	.	.	O	1	
+1	Clientela	Clientela	R	1	O
+2	tranquila	tranquila	N	1	O
+3	y	y	G	1	O
+4	educada	educada	N	1	O
+5	en	en	P	1	O
+6	general	general	G	1	O
+7	.	.	O	1	O
 
-1	Pocos	Pocos	R	1	
-2	niños	niños	N	1	
-3	.	.	O	1	
+1	Pocos	Pocos	R	1	O
+2	niños	niños	N	1	O
+3	.	.	O	1	O
 

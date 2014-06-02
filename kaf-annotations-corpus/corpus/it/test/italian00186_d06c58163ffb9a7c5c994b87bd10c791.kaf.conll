@@ -1,132 +1,134 @@
-1	Un'	uno	D	1	
-2	oasi	oasi	N	1	
-3	nel	nel	P	1	
-4	cuore	cuora	N	1	
-5	della	della	P	1	
-6	Toscana	toscana	R	1	ne=Location
+1	Un'	uno	D	1	O
+2	oasi	oasi	N	1	O
+3	nel	nel	P	1	O
+4	cuore	cuora	N	1	O
+5	della	della	P	1	O
+6	Toscana	toscana	R	1	I-Location
 
-1	L'	lo	D	1	
-2	albergo	albergo	N	1	
-3	offre	offrire	V	1	
-4	un	uno	D	1	
-5	servizio	servizio	N	1	
-6	di	di	P	1	
-7	B	b	N	1	
-8	&	&amp;	O	1	
-9	B	b	N	1	
-10	e	e	Q	1	
-11	si	si	Q	1	
-12	struttura	strutturare	V	1	
-13	nell'	nell'	P	1	
-14	edificio	edificio	N	1	
-15	principale	principale	G	1	
-16	e	e	Q	1	
-17	in	in	P	1	
-18	una	uno	D	1	
-19	depandance	depandance	N	1	
-20	che	che	Q	1	
-21	si	si	Q	1	
-22	affaccia	affacciare	V	1	
-23	direttamente	direttamente	A	1	
-24	sulla	sulla	P	1	
-25	piscina	piscina	N	1	
-26	.	.	O	1	
+1	L'	lo	D	1	O
+2	albergo	albergo	N	1	O
+3	offre	offrire	V	1	O
+4	un	uno	D	1	O
+5	servizio	servizio	N	1	O
+6	di	di	P	1	O
+7	B	b	N	1	O
+8	&	&amp;	O	1	O
+9	B	b	N	1	O
+10	e	e	Q	1	O
+11	si	si	Q	1	O
+12	struttura	strutturare	V	1	O
+13	nell'	nell'	P	1	O
+14	edificio	edificio	N	1	O
+15	principale	principale	G	1	O
+16	e	e	Q	1	O
+17	in	in	P	1	O
+18	una	uno	D	1	O
+19	depandance	depandance	N	1	O
+20	che	che	Q	1	O
+21	si	si	Q	1	O
+22	affaccia	affacciare	V	1	O
+23	direttamente	direttamente	A	1	O
+24	sulla	sulla	P	1	O
+25	piscina	piscina	N	1	O
+26	.	.	O	1	O
 
-1	Parcheggio	parcheggio	N	1	
-2	a	a	P	1	
-3	disposizione	disposizione	N	1	
-4	.	.	O	1	
+1	Parcheggio	parcheggio	N	1	O
+2	a	a	P	1	O
+3	disposizione	disposizione	N	1	O
+4	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	camere	camera	N	1	
-3	sono	essere	V	1	
-4	davvero	davvero	A	1	
-5	ampie	ampio	G	1	
-6	e	e	Q	1	
-7	pulite	pulire	V	1	
-8	,	,	O	1	
-9	i	lo	D	1	
-10	titolari	titolare	N	1	
-11	discreti	discreto	G	1	
-12	ma	ma	Q	1	
-13	molto	molto	A	1	
-14	cordiali	cordiale	G	1	
-15	e	e	Q	1	
-16	disponibili	disponibile	G	1	
-17	.	.	O	1	
+1	Le	lo	D	1	O
+2	camere	camera	N	1	O
+3	sono	essere	V	1	O
+4	davvero	davvero	A	1	O
+5	ampie	ampio	G	1	O
+6	e	e	Q	1	O
+7	pulite	pulire	V	1	O
+8	,	,	O	1	O
+9	i	lo	D	1	O
+10	titolari	titolare	N	1	O
+11	discreti	discreto	G	1	O
+12	ma	ma	Q	1	O
+13	molto	molto	A	1	O
+14	cordiali	cordiale	G	1	O
+15	e	e	Q	1	O
+16	disponibili	disponibile	G	1	O
+17	.	.	O	1	O
 
-1	A	a	P	1	
-2	nostro	nostro	G	1	
-3	avviso	avviso	N	1	
-4	,	,	O	1	
-5	vista	vedere	V	1	
-6	la	lo	D	1	
-7	qualità	qualità	Q	1	
-8	della	della	P	1	
-9	struttura	struttura	N	1	
-10	,	,	O	1	
-11	le	lo	D	1	
-12	tre	tre	G	1	
-13	stelle	stella	N	1	
-14	sono	essere	V	1	
-15	quasi	quasi	A	1	
-16	riduttive	riduttivo	G	1	
-17	,	,	O	1	
-18	soprattutto	soprattutto	A	1	
-19	perchè	perchè	V	1	
-20	nei	nei	P	1	
-21	giorni	giorno	N	1	
-22	successivi	successivi	V	1	
-23	ci	ci	Q	1	
-24	siamo	essere	V	1	
-25	trasferiti	trasferire	V	1	
-26	a	a	P	1	
-27	Marina_di_Massa	marina_di_massa	R	1	ne=Location
-28	in	in	P	1	
-29	un	uno	D	1	
-30	tre	tre	G	1	
-31	stelle	stella	N	1	
-32	che	che	Q	1	
-33	paragonato	paragonare	V	1	
-34	alle	alle	P	1	
-35	Volpaie	volpaie	R	1	ne=Hotel
-36	sembrava	sembrare	V	1	
-37	una	uno	D	1	
-38	pensione	pensione	N	1	
-39	ad	ad	P	1	
-40	una	uno	D	1	
-41	stella	stella	N	1	
-42	...	...	O	1	
+1	A	a	P	1	O
+2	nostro	nostro	G	1	O
+3	avviso	avviso	N	1	O
+4	,	,	O	1	O
+5	vista	vedere	V	1	O
+6	la	lo	D	1	O
+7	qualità	qualità	Q	1	O
+8	della	della	P	1	O
+9	struttura	struttura	N	1	O
+10	,	,	O	1	O
+11	le	lo	D	1	O
+12	tre	tre	G	1	O
+13	stelle	stella	N	1	O
+14	sono	essere	V	1	O
+15	quasi	quasi	A	1	O
+16	riduttive	riduttivo	G	1	O
+17	,	,	O	1	O
+18	soprattutto	soprattutto	A	1	O
+19	perchè	perchè	V	1	O
+20	nei	nei	P	1	O
+21	giorni	giorno	N	1	O
+22	successivi	successivi	V	1	O
+23	ci	ci	Q	1	O
+24	siamo	essere	V	1	O
+25	trasferiti	trasferire	V	1	O
+26	a	a	P	1	O
+27	Marina	marina	R	1	I-Location
+28	di	di	P	1	I-Location
+29	Massa	massa	R	1	I-Location
+30	in	in	P	1	O
+31	un	uno	D	1	O
+32	tre	tre	G	1	O
+33	stelle	stella	N	1	O
+34	che	che	Q	1	O
+35	paragonato	paragonare	V	1	O
+36	alle	alle	P	1	O
+37	Volpaie	volpaie	R	1	I-Hotel
+38	sembrava	sembrare	V	1	O
+39	una	uno	D	1	O
+40	pensione	pensione	N	1	O
+41	ad	ad	P	1	O
+42	una	uno	D	1	O
+43	stella	stella	N	1	O
+44	...	...	O	1	O
 
-1	Connessione	connessione	N	1	
-2	internet	internet	R	1	
-3	a	a	P	1	
-4	pagamento	pagamento	N	1	
-5	,	,	O	1	
-6	ma	ma	Q	1	
-7	al	al	P	1	
-8	momento	momento	N	1	
-9	di	di	P	1	
-10	saldare	saldare	V	1	
-11	la	lo	D	1	
-12	vacanza	vacanza	N	1	
-13	ci	ci	Q	1	
-14	è	è	R	1	
-15	stata	essere	V	1	
-16	regalata	regalare	V	1	
-17	.	.	O	1	
+1	Connessione	connessione	N	1	O
+2	internet	internet	R	1	O
+3	a	a	P	1	O
+4	pagamento	pagamento	N	1	O
+5	,	,	O	1	O
+6	ma	ma	Q	1	O
+7	al	al	P	1	O
+8	momento	momento	N	1	O
+9	di	di	P	1	O
+10	saldare	saldare	V	1	O
+11	la	lo	D	1	O
+12	vacanza	vacanza	N	1	O
+13	ci	ci	Q	1	O
+14	è	è	R	1	O
+15	stata	essere	V	1	O
+16	regalata	regalare	V	1	O
+17	.	.	O	1	O
 
-1	I	lo	D	1	
-2	clienti	cliente	N	1	
-3	sono	essere	V	1	
-4	quasi	quasi	Q	1	
-5	tutti	tutto	G	1	
-6	stranieri	straniero	N	1	
-7	,	,	O	1	
-8	in	in	P	1	
-9	particolare	particolare	N	1	
-10	olandesi	olandese	G	1	
-11	e	e	Q	1	
-12	francesi	francese	G	1	
-13	.	.	O	1	
+1	I	lo	D	1	O
+2	clienti	cliente	N	1	O
+3	sono	essere	V	1	O
+4	quasi	quasi	Q	1	O
+5	tutti	tutto	G	1	O
+6	stranieri	straniero	N	1	O
+7	,	,	O	1	O
+8	in	in	P	1	O
+9	particolare	particolare	N	1	O
+10	olandesi	olandese	G	1	O
+11	e	e	Q	1	O
+12	francesi	francese	G	1	O
+13	.	.	O	1	O
 

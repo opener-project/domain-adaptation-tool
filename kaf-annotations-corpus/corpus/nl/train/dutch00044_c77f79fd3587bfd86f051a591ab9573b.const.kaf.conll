@@ -1,137 +1,138 @@
-1	6	@card@	O	1	
-2	.	.	O	1	
+1	6	@card@	O	1	O
+2	.	.	O	1	O
 
-1	0	@card@	O	1	
+1	0	@card@	O	1	O
 
-1	Fiets	fiets	N	1	
-2	en	en	C	1	
-3	wandel	wandel	N	1	
-4	weekend	weekend	N	1	
-5	(	(	O	1	
-6	3_dagen	@card@_dag	R	1	ne=Time
-7	)	)	O	1	
-8	We	We	O	1	
-9	hebben	hebben	V	1	
-10	4	@card@	O	1	
-11	keer	keer	N	1	
-12	25	@card@	O	1	
-13	.	.	O	1	
+1	Fiets	fiets	N	1	O
+2	en	en	C	1	O
+3	wandel	wandel	N	1	O
+4	weekend	weekend	N	1	O
+5	(	(	O	1	O
+6	3	@card@	O	1	I-Time
+7	dagen	dag	N	1	I-Time
+8	)	)	O	1	O
+9	We	We	O	1	O
+10	hebben	hebben	V	1	O
+11	4	@card@	O	1	O
+12	keer	keer	N	1	O
+13	25	@card@	O	1	O
+14	.	.	O	1	O
 
-1	00	@card@	O	1	
-2	euro	euro	N	1	
-3	betaald	betalen	V	1	
-4	voor	voor	P	1	
-5	4	@card@	O	1	
-6	vouches	vouches	O	1	
-7	t.b.v.	T.	N	1	
-8	t.b.v.	b.	O	1	
-9	t.b.v.	v.	O	1	
-10	uiteraard	uiteraard	A	1	
-11	vier	vier	O	1	
-12	3	@card@	O	1	
-13	·	·	O	1	
-14	gangen	gang	N	1	
-15	diners	diner	N	1	
-16	.	.	O	1	
+1	00	@card@	O	1	O
+2	euro	euro	N	1	O
+3	betaald	betalen	V	1	O
+4	voor	voor	P	1	O
+5	4	@card@	O	1	O
+6	vouches	vouches	O	1	O
+7	t.b.v.	T.	N	1	O
+8	t.b.v.	b.	O	1	O
+9	t.b.v.	v.	O	1	O
+10	uiteraard	uiteraard	A	1	O
+11	vier	vier	O	1	O
+12	3	@card@	O	1	O
+13	·	·	O	1	O
+14	gangen	gang	N	1	O
+15	diners	diner	N	1	O
+16	.	.	O	1	O
 
-1	Niemand	niemand	Q	1	
-2	van	van	P	1	
-3	ons	ons	Q	1	
-4	uit	uit	P	1	
-5	de	de	D	1	
-6	aangeboden	aanbieden	V	1	
-7	kaart	kaart	N	1	
-8	een	een	D	1	
-9	gewenst	wensen	V	1	
-10	diner	diner	N	1	
-11	kiezen	kiezen	V	1	
-12	.	.	O	1	
+1	Niemand	niemand	Q	1	O
+2	van	van	P	1	O
+3	ons	ons	Q	1	O
+4	uit	uit	P	1	O
+5	de	de	D	1	O
+6	aangeboden	aanbieden	V	1	O
+7	kaart	kaart	N	1	O
+8	een	een	D	1	O
+9	gewenst	wensen	V	1	O
+10	diner	diner	N	1	O
+11	kiezen	kiezen	V	1	O
+12	.	.	O	1	O
 
-1	We	we	Q	1	
-2	bestelden	bestellen	V	1	
-3	niet	niet	A	1	
-4	spontaan	spontaan	G	1	
-5	iets	iets	A	1	
-6	anders	anders	G	1	
-7	van	van	P	1	
-8	de	de	D	1	
-9	kaart	kaart	N	1	
-10	en	en	C	1	
-11	moesten	moeten	V	1	
-12	allen	alle	Q	1	
-13	bijbetalen	bijbetalen	V	1	
-14	terwijl	terwijl	C	1	
-15	we	we	Q	1	
-16	waarde	waarde	N	1	
-17	van	van	P	1	
-18	de	de	D	1	
-19	vouchers	vouchers	O	1	
-20	bij	bij	P	1	
-21	lange	lang	G	1	
-22	na	na	A	1	
-23	niet	niet	A	1	
-24	hadden	hebben	V	1	
-25	opgemaakt	opmaken	V	1	
-26	.	.	O	1	
+1	We	we	Q	1	O
+2	bestelden	bestellen	V	1	O
+3	niet	niet	A	1	O
+4	spontaan	spontaan	G	1	O
+5	iets	iets	A	1	O
+6	anders	anders	G	1	O
+7	van	van	P	1	O
+8	de	de	D	1	O
+9	kaart	kaart	N	1	O
+10	en	en	C	1	O
+11	moesten	moeten	V	1	O
+12	allen	alle	Q	1	O
+13	bijbetalen	bijbetalen	V	1	O
+14	terwijl	terwijl	C	1	O
+15	we	we	Q	1	O
+16	waarde	waarde	N	1	O
+17	van	van	P	1	O
+18	de	de	D	1	O
+19	vouchers	vouchers	O	1	O
+20	bij	bij	P	1	O
+21	lange	lang	G	1	O
+22	na	na	A	1	O
+23	niet	niet	A	1	O
+24	hadden	hebben	V	1	O
+25	opgemaakt	opmaken	V	1	O
+26	.	.	O	1	O
 
-1	Een	een	D	1	
-2	voucher	voucher	O	1	
-3	is	zijn	V	1	
-4	een	een	D	1	
-5	wettig	wettig	G	1	
-6	betaalmiddel	betaalmiddel	N	1	
-7	dat	dat	Q	1	
-8	vooraf	vooraf	A	1	
-9	is	zijn	V	1	
-10	betaald	betalen	V	1	
-11	.	.	O	1	
+1	Een	een	D	1	O
+2	voucher	voucher	O	1	O
+3	is	zijn	V	1	O
+4	een	een	D	1	O
+5	wettig	wettig	G	1	O
+6	betaalmiddel	betaalmiddel	N	1	O
+7	dat	dat	Q	1	O
+8	vooraf	vooraf	A	1	O
+9	is	zijn	V	1	O
+10	betaald	betalen	V	1	O
+11	.	.	O	1	O
 
-1	We	we	Q	1	
-2	zagen	zagen	V	1	
-3	een	een	D	1	
-4	makkelijk	makkelijk	G	1	
-5	gemaakte	gemaakt	G	1	
-6	opmerking	opmerking	N	1	
-7	dat	dat	C	1	
-8	het	het	D	1	
-9	zwembad	zwembad	N	1	
-10	in	in	P	1	
-11	de	de	D	1	
-12	zomer	zomer	N	1	
-13	van	van	P	1	
-14	2013	@card@	O	1	
-15	gesloten	sluiten	V	1	
-16	was	wezen|zijn	V	1	
-17	en	en	C	1	
-18	een	een	D	1	
-19	biljart	biljart	N	1	
-20	zonder	zonder	P	1	
-21	ballen	bal	N	1	
-22	en	en	C	1	
-23	zonder	zonder	P	1	
-24	biljartstokken	biljartstokken	O	1	
-25	.	.	O	1	
+1	We	we	Q	1	O
+2	zagen	zagen	V	1	O
+3	een	een	D	1	O
+4	makkelijk	makkelijk	G	1	O
+5	gemaakte	gemaakt	G	1	O
+6	opmerking	opmerking	N	1	O
+7	dat	dat	C	1	O
+8	het	het	D	1	O
+9	zwembad	zwembad	N	1	O
+10	in	in	P	1	O
+11	de	de	D	1	O
+12	zomer	zomer	N	1	O
+13	van	van	P	1	O
+14	2013	@card@	O	1	O
+15	gesloten	sluiten	V	1	O
+16	was	wezen|zijn	V	1	O
+17	en	en	C	1	O
+18	een	een	D	1	O
+19	biljart	biljart	N	1	O
+20	zonder	zonder	P	1	O
+21	ballen	bal	N	1	O
+22	en	en	C	1	O
+23	zonder	zonder	P	1	O
+24	biljartstokken	biljartstokken	O	1	O
+25	.	.	O	1	O
 
-1	Overigens	overigens	A	1	
-2	was	wezen|zijn	V	1	
-3	de	de	D	1	
-4	kamer	kamer	N	1	
-5	netjes	net|netjes	G	1	
-6	behoudens	behoudens	P	1	
-7	een	een	D	1	
-8	los	los	G	1	
-9	hangende	hangende	P	1	
-10	plint	plint	N	1	
-11	.	.	O	1	
+1	Overigens	overigens	A	1	O
+2	was	wezen|zijn	V	1	O
+3	de	de	D	1	O
+4	kamer	kamer	N	1	O
+5	netjes	net|netjes	G	1	O
+6	behoudens	behoudens	P	1	O
+7	een	een	D	1	O
+8	los	los	G	1	O
+9	hangende	hangende	P	1	O
+10	plint	plint	N	1	O
+11	.	.	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	overigens	overigens	A	1	
-4	niet	niet	A	1	
-5	meer	meer	A	1	
-6	in	in	P	1	
-7	het	het	D	1	
-8	hotel	hotel	N	1	
-9	geêten	geêten	O	1	
-10	.	.	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	overigens	overigens	A	1	O
+4	niet	niet	A	1	O
+5	meer	meer	A	1	O
+6	in	in	P	1	O
+7	het	het	D	1	O
+8	hotel	hotel	N	1	O
+9	geêten	geêten	O	1	O
+10	.	.	O	1	O
 

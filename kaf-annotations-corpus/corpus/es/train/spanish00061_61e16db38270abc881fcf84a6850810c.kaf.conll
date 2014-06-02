@@ -1,72 +1,72 @@
-1	Hotel	Hotel	R	1	
-2	perfecto	perfecto	P	1	
+1	Hotel	Hotel	R	1	O
+2	perfecto	perfecto	P	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	es	es	N	1	
-4	estupendo	estupendo	N	1	
-5	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	es	es	N	1	O
+4	estupendo	estupendo	N	1	O
+5	.	.	O	1	O
 
-1	Está	Está	R	1	
-2	perfectamente	perfectamente	O	1	
-3	ubicado	ubicado	O	1	
-4	en	en	O	1	
-5	el	el	O	1	
-6	centro	centro	O	1	
-7	de	de	O	1	
-8	Madrid	Madrid	R	1	
-9	.	.	O	1	
+1	Está	Está	R	1	O
+2	perfectamente	perfectamente	O	1	O
+3	ubicado	ubicado	O	1	O
+4	en	en	O	1	O
+5	el	el	O	1	O
+6	centro	centro	O	1	O
+7	de	de	O	1	O
+8	Madrid	Madrid	R	1	O
+9	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	es	es	N	1	
-4	muy	muy	G	1	
-5	agradable	agradable	G	1	
-6	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	es	es	N	1	O
+4	muy	muy	G	1	O
+5	agradable	agradable	G	1	O
+6	.	.	O	1	O
 
-1	La	La	R	1	
-2	habitación	habitación	N	1	
-3	que	que	N	1	
-4	nos	nos	N	1	
-5	dieron	dieron	V	1	
-6	es	es	V	1	
-7	amplísima	amplísima	N	1	
-8	,	,	O	1	
-9	disponía	disponía	O	1	
-10	de	de	O	1	
-11	un	un	G	1	
-12	pequeño	pequeño	N	1	
-13	saloncito	saloncito	N	1	
-14	,	,	O	1	
-15	tenía	tenía	N	1	
-16	unas	unas	N	1	
-17	excelentes	excelentes	V	1	
-18	vistas	vista	N	1	
-19	a	a	O	1	
-20	la	la	O	1	
-21	gran	gran	O	1	
-22	vía	vía	O	1	
-23	y	y	G	1	
-24	está	está	N	1	
-25	perfectamente	perfectamente	V	1	
-26	insonorizado	insonorizado	A	1	
-27	.	.	O	1	
+1	La	La	R	1	O
+2	habitación	habitación	N	1	O
+3	que	que	N	1	O
+4	nos	nos	N	1	O
+5	dieron	dieron	V	1	O
+6	es	es	V	1	O
+7	amplísima	amplísima	N	1	O
+8	,	,	O	1	O
+9	disponía	disponía	O	1	O
+10	de	de	O	1	O
+11	un	un	G	1	O
+12	pequeño	pequeño	N	1	O
+13	saloncito	saloncito	N	1	O
+14	,	,	O	1	O
+15	tenía	tenía	N	1	O
+16	unas	unas	N	1	O
+17	excelentes	excelentes	V	1	O
+18	vistas	vista	N	1	O
+19	a	a	O	1	O
+20	la	la	O	1	O
+21	gran	gran	O	1	O
+22	vía	vía	O	1	O
+23	y	y	G	1	O
+24	está	está	N	1	O
+25	perfectamente	perfectamente	V	1	O
+26	insonorizado	insonorizado	A	1	O
+27	.	.	O	1	O
 
-1	El	El	R	1	
-2	único	único	R	1	
-3	inconveniente	inconveniente	G	1	
-4	es	es	N	1	
-5	que	que	V	1	
-6	no	no	D	1	
-7	tiene	tiene	N	1	
-8	parking	parking	N	1	
-9	,	,	O	1	
-10	pero	pero	O	1	
-11	los	los	O	1	
-12	hay	hay	O	1	
-13	muy	muy	O	1	
-14	cercanos	cercanos	N	1	
-15	al	al	G	1	
-16	hotel	hotel	N	1	
-17	.	.	O	1	
+1	El	El	R	1	O
+2	único	único	R	1	O
+3	inconveniente	inconveniente	G	1	O
+4	es	es	N	1	O
+5	que	que	V	1	O
+6	no	no	D	1	O
+7	tiene	tiene	N	1	O
+8	parking	parking	N	1	O
+9	,	,	O	1	O
+10	pero	pero	O	1	O
+11	los	los	O	1	O
+12	hay	hay	O	1	O
+13	muy	muy	O	1	O
+14	cercanos	cercanos	N	1	O
+15	al	al	G	1	O
+16	hotel	hotel	N	1	O
+17	.	.	O	1	O
 

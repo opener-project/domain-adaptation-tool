@@ -1,150 +1,165 @@
-1	Excelente	Excelente	R	1	
-2	estadía	estadía	N	1	
-3	,	,	O	1	
-4	un	un	G	1	
-5	gran	gran	N	1	
-6	complejo	complejo	N	1	
-7	.	.	O	1	
+1	Excelente	Excelente	R	1	O
+2	estadía	estadía	N	1	O
+3	,	,	O	1	O
+4	un	un	G	1	O
+5	gran	gran	N	1	O
+6	complejo	complejo	N	1	O
+7	.	.	O	1	O
 
-1	Inicialmente	Inicialmente	R	1	
-2	me	me	Q	1	
-3	iba	iba	V	1	
-4	a	a	D	1	
-5	alojar	alojar	A	1	
-6	en	en	P	1	
-7	este	este	G	1	
-8	sector	sector	N	1	
-9	del	del	N	1	
-10	Palladium	Palladium	R	1	ne=Hotel
-11	,	,	O	1	
-12	pero	pero	O	1	
-13	me	me	Q	1	
-14	trasladaron	trasladaron	G	1	
-15	al	al	G	1	
-16	sector	sector	N	1	
-17	del	del	N	1	
-18	Gran_Palladium_Bavaro	Gran_Palladium_Bavaro	R	1	ne=Hotel
-19	,	,	O	1	
-20	por	por	N	1	
-21	lo	lo	O	1	
-22	cual	cual	G	1	
-23	mis	mi	N	1	
-24	comentarios	comentarios	N	1	
-25	son	son	N	1	
-26	en	en	P	1	
-27	relacion	relacion	N	1	
-28	a	a	D	1	
-29	él	él	N	1	
-30	,	,	O	1	
-31	tuve	tuve	V	1	
-32	la	la	D	1	
-33	posibilidad	posibilidad	N	1	
-34	de	de	P	1	
-35	conocer	conocer	N	1	
-36	las	las	N	1	
-37	habitaciones	habitaciones	N	1	
-38	del	del	G	1	
-39	sector	sector	N	1	
-40	del	del	N	1	
-41	Gran_Palladium_Pta_Cana	Gran_Palladium_Pta_Cana	R	1	ne=Hotel
-42	,	,	O	1	
-43	si	si	G	1	
-44	bien	bien	N	1	
-45	son	son	N	1	
-46	bonitas	bonitas	N	1	
-47	,	,	O	1	
-48	prefiero	prefiero	G	1	
-49	las	las	N	1	
-50	habitaciones	habitaciones	N	1	
-51	mucho	mucho	G	1	
-52	más	más	N	1	
-53	amplias	amplias	P	1	
-54	y	y	G	1	
-55	nuevas	nuevas	N	1	
-56	del	del	V	1	
-57	Gran_Palladium_Bavaro	Gran_Palladium_Bavaro	R	1	ne=Hotel
-58	,	,	O	1	
-59	éste	éste	N	1	
-60	es	es	N	1	
-61	un	un	G	1	
-62	excelente	excelente	N	1	
-63	complejo	complejo	N	1	
-64	,	,	O	1	
-65	no	no	D	1	
-66	confien	confien	N	1	
-67	en	en	O	1	
-68	las	las	O	1	
-69	malas	malas	O	1	
-70	opiniones	opiniones	O	1	
-71	que	que	O	1	
-72	leí	leí	O	1	
-73	en	en	O	1	
-74	el	el	O	1	
-75	trip	trip	N	1	
-76	advisor	advisor	N	1	
-77	,	,	O	1	
-78	casi	casi	N	1	
-79	desisto	desisto	V	1	
-80	por	por	N	1	
-81	eso	eso	N	1	
-82	.	.	O	1	
+1	Inicialmente	Inicialmente	R	1	O
+2	me	me	Q	1	O
+3	iba	iba	V	1	O
+4	a	a	D	1	O
+5	alojar	alojar	A	1	O
+6	en	en	P	1	O
+7	este	este	G	1	O
+8	sector	sector	N	1	O
+9	del	del	N	1	O
+10	Palladium	Palladium	R	1	I-Hotel
+11	,	,	O	1	O
+12	pero	pero	O	1	O
+13	me	me	Q	1	O
+14	trasladaron	trasladaron	G	1	O
+15	al	al	G	1	O
+16	sector	sector	N	1	O
+17	del	del	N	1	O
+18	Gran	Gran	R	1	I-Hotel
+19	Palladium	Palladium	R	1	I-Hotel
+20	Bavaro	Bavaro	R	1	I-Hotel
+21	,	,	O	1	O
+22	por	por	N	1	O
+23	lo	lo	O	1	O
+24	cual	cual	G	1	O
+25	mis	mi	N	1	O
+26	comentarios	comentarios	N	1	O
+27	son	son	N	1	O
+28	en	en	P	1	O
+29	relacion	relacion	N	1	O
+30	a	a	D	1	O
+31	él	él	N	1	O
+32	,	,	O	1	O
+33	tuve	tuve	V	1	O
+34	la	la	D	1	O
+35	posibilidad	posibilidad	N	1	O
+36	de	de	P	1	O
+37	conocer	conocer	N	1	O
+38	las	las	N	1	O
+39	habitaciones	habitaciones	N	1	O
+40	del	del	G	1	O
+41	sector	sector	N	1	O
+42	del	del	N	1	O
+43	Gran	Gran	R	1	I-Hotel
+44	Palladium	Palladium	R	1	I-Hotel
+45	Pta	Pta	R	1	I-Hotel
+46	Cana	Cana	R	1	I-Hotel
+47	,	,	O	1	O
+48	si	si	G	1	O
+49	bien	bien	N	1	O
+50	son	son	N	1	O
+51	bonitas	bonitas	N	1	O
+52	,	,	O	1	O
+53	prefiero	prefiero	G	1	O
+54	las	las	N	1	O
+55	habitaciones	habitaciones	N	1	O
+56	mucho	mucho	G	1	O
+57	más	más	N	1	O
+58	amplias	amplias	P	1	O
+59	y	y	G	1	O
+60	nuevas	nuevas	N	1	O
+61	del	del	V	1	O
+62	Gran	Gran	R	1	I-Hotel
+63	Palladium	Palladium	R	1	I-Hotel
+64	Bavaro	Bavaro	R	1	I-Hotel
+65	,	,	O	1	O
+66	éste	éste	N	1	O
+67	es	es	N	1	O
+68	un	un	G	1	O
+69	excelente	excelente	N	1	O
+70	complejo	complejo	N	1	O
+71	,	,	O	1	O
+72	no	no	D	1	O
+73	confien	confien	N	1	O
+74	en	en	O	1	O
+75	las	las	O	1	O
+76	malas	malas	O	1	O
+77	opiniones	opiniones	O	1	O
+78	que	que	O	1	O
+79	leí	leí	O	1	O
+80	en	en	O	1	O
+81	el	el	O	1	O
+82	trip	trip	N	1	O
+83	advisor	advisor	N	1	O
+84	,	,	O	1	O
+85	casi	casi	N	1	O
+86	desisto	desisto	V	1	O
+87	por	por	N	1	O
+88	eso	eso	N	1	O
+89	.	.	O	1	O
 
-1	El	El	R	1	
-2	complejo	complejo	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	grande	grande	N	1	
-6	pero	pero	O	1	
-7	bien	bien	O	1	
-8	organizado	organizado	O	1	
-9	.	.	O	1	
+1	El	El	R	1	O
+2	complejo	complejo	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	grande	grande	N	1	O
+6	pero	pero	O	1	O
+7	bien	bien	O	1	O
+8	organizado	organizado	O	1	O
+9	.	.	O	1	O
 
-1	He	he	Q	1	
-2	estado	estado	V	1	
-3	en	en	P	1	
-4	5	5	O	1	
-5	diferentes	diferentes	N	1	
-6	hoteles	hoteles	N	1	
-7	en	en	P	1	
-8	Punta_Cana	Punta_Cana	R	1	ne=Location
-9	y	y	G	1	
-10	este	este	N	1	
-11	lo	lo	N	1	
-12	recomiendo	recomiendo	N	1	
-13	al	al	G	1	
-14	100_%	100_%	R	1	ne=Percent
-15	.	.	O	1	
+1	He	he	Q	1	O
+2	estado	estado	V	1	O
+3	en	en	P	1	O
+4	5	5	O	1	O
+5	diferentes	diferentes	N	1	O
+6	hoteles	hoteles	N	1	O
+7	en	en	P	1	O
+8	Punta	Punta	R	1	I-Location
+9	Cana	Cana	R	1	I-Location
+10	y	y	G	1	O
+11	este	este	N	1	O
+12	lo	lo	N	1	O
+13	recomiendo	recomiendo	N	1	O
+14	al	al	G	1	O
+15	100	100	O	1	I-Percent
+16	%	%	N	1	I-Percent
+17	.	.	O	1	O
 
-1	La	La	R	1	
-2	mejor	mejor	G	1	
-3	atención	atención	N	1	
-4	del	del	D	1	
-5	personal	personal	N	1	
-6	,	,	O	1	
-7	rodeado	rodeado	O	1	
-8	de	de	O	1	
-9	hermosos	hermosos	O	1	
-10	jardines	jardines	N	1	
-11	y	y	G	1	
-12	gran	gran	N	1	
-13	variedad	variedad	O	1	
-14	de	de	O	1	
-15	comidas	comidas	O	1	
-16	y	y	G	1	
-17	restaurantes	restaurantes	N	1	
-18	.	.	O	1	
+1	La	La	R	1	O
+2	mejor	mejor	G	1	O
+3	atención	atención	N	1	O
+4	del	del	D	1	O
+5	personal	personal	N	1	O
+6	,	,	O	1	O
+7	rodeado	rodeado	O	1	O
+8	de	de	O	1	O
+9	hermosos	hermosos	O	1	O
+10	jardines	jardines	N	1	O
+11	y	y	G	1	O
+12	gran	gran	N	1	O
+13	variedad	variedad	O	1	O
+14	de	de	O	1	O
+15	comidas	comidas	O	1	O
+16	y	y	G	1	O
+17	restaurantes	restaurantes	N	1	O
+18	.	.	O	1	O
 
-1	La	La	R	1	
-2	Playa	Playa	R	1	
-3	excelente	excelente	V	1	
-4	,	,	O	1	
-5	a	a	D	1	
-6	mi	mi	O	1	
-7	juicio	juicio	N	1	
-8	mejor	mejor	G	1	
-9	que	que	N	1	
-10	la_playa_de_Arena_Gorda	la_playa_de_Arena_Gorda	R	1	ne=Location
-11	y	y	G	1	
-12	Cabeza_de_Toro	Cabeza_de_Toro	R	1	ne=Location
-13	.	.	O	1	
+1	La	La	R	1	O
+2	Playa	Playa	R	1	O
+3	excelente	excelente	V	1	O
+4	,	,	O	1	O
+5	a	a	D	1	O
+6	mi	mi	O	1	O
+7	juicio	juicio	N	1	O
+8	mejor	mejor	G	1	O
+9	que	que	N	1	O
+10	la	la	O	1	I-Location
+11	playa	playa	O	1	I-Location
+12	de	de	O	1	I-Location
+13	Arena	Arena	R	1	I-Location
+14	Gorda	Gorda	R	1	I-Location
+15	y	y	G	1	O
+16	Cabeza	Cabeza	R	1	I-Location
+17	de	de	P	1	I-Location
+18	Toro	Toro	R	1	I-Location
+19	.	.	O	1	O
 

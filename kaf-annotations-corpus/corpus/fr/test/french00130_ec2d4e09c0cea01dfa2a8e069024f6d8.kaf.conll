@@ -1,103 +1,103 @@
-1	Très	Très	G	1	
-2	bel	beau	G	1	
-3	hôtel	hôtel	N	1	
-4	proche	proche	G	1	
-5	des	des	P	1	
-6	commerces	commerce	N	1	
-7	etc	etc	G	1	
-8	...	...	O	1	
+1	Très	Très	G	1	O
+2	bel	beau	G	1	O
+3	hôtel	hôtel	N	1	O
+4	proche	proche	G	1	O
+5	des	des	P	1	O
+6	commerces	commerce	N	1	O
+7	etc	etc	G	1	O
+8	...	...	O	1	O
 
-1	Insonorisation	insonorisation	N	1	
-2	des	un	D	1	
-3	chambres	chambre	N	1	
-4	·	·	P	1	
-5	qualité	qualité	N	1	
-6	du	du	D	1	
-7	petit	petit	G	1	
-8	·	·	N	1	
-9	déjeûner	déjeûner	G	1	
-10	·	·	P	1	
-11	proximité	proximité	N	1	
-12	du	du	D	1	
-13	centre	centre	N	1	
-14	ville	ville	N	1	
-15	·	·	P	1	
-16	propreté	propreté	N	1	
-17	globale	global	G	1	
+1	Insonorisation	insonorisation	N	1	O
+2	des	un	D	1	O
+3	chambres	chambre	N	1	O
+4	·	·	P	1	O
+5	qualité	qualité	N	1	O
+6	du	du	D	1	O
+7	petit	petit	G	1	O
+8	·	·	N	1	O
+9	déjeûner	déjeûner	G	1	O
+10	·	·	P	1	O
+11	proximité	proximité	N	1	O
+12	du	du	D	1	O
+13	centre	centre	N	1	O
+14	ville	ville	N	1	O
+15	·	·	P	1	O
+16	propreté	propreté	N	1	O
+17	globale	global	G	1	O
 
-1	Manque	manque	N	1	
-2	de	de	P	1	
-3	stationnement	stationnement	N	1	
-4	VL	VL	N	1	
-5	·	·	N	1	
-6	joints	joints	P	1	
-7	carrelage	carrelage	N	1	
-8	salle	salle	N	1	
-9	de	de	P	1	
-10	bain	bain	N	1	
-11	moisis	moisir	V	1	
-12	par	par	P	1	
-13	endroits	endroit	N	1	
-14	ainsi	ainsi	G	1	
-15	que	que	C	1	
-16	rideau	rideau	N	1	
-17	de	de	P	1	
-18	douche	douche	N	1	
-19	(	(	O	1	
-20	ch	ch	N	1	
-21	601	601	G	1	
-22	)	)	O	1	
-23	·	·	D	1	
-24	nombreuses	nombreux	G	1	
-25	chaînes	chaîne	N	1	
-26	TV	TV	N	1	
-27	non	non	G	1	
-28	captées	capter	V	1	
+1	Manque	manque	N	1	O
+2	de	de	P	1	O
+3	stationnement	stationnement	N	1	O
+4	VL	VL	N	1	O
+5	·	·	N	1	O
+6	joints	joints	P	1	O
+7	carrelage	carrelage	N	1	O
+8	salle	salle	N	1	O
+9	de	de	P	1	O
+10	bain	bain	N	1	O
+11	moisis	moisir	V	1	O
+12	par	par	P	1	O
+13	endroits	endroit	N	1	O
+14	ainsi	ainsi	G	1	O
+15	que	que	C	1	O
+16	rideau	rideau	N	1	O
+17	de	de	P	1	O
+18	douche	douche	N	1	O
+19	(	(	O	1	O
+20	ch	ch	N	1	O
+21	601	601	G	1	O
+22	)	)	O	1	O
+23	·	·	D	1	O
+24	nombreuses	nombreux	G	1	O
+25	chaînes	chaîne	N	1	O
+26	TV	TV	N	1	O
+27	non	non	G	1	O
+28	captées	capter	V	1	O
 
-1	Le	le	D	1	
-2	point	point	N	1	
-3	noir	noir	G	1	
-4	de	de	P	1	
-5	ce	ce	D	1	
-6	séjour	séjour	N	1	
-7	se	se	Q	1	
-8	situe	situer	V	1	
-9	autour	autour	G	1	
-10	du	du	D	1	
-11	manque	manque	N	1	
-12	de	de	P	1	
-13	stationnment	stationnment	N	1	
-14	(	(	O	1	
-15	gratuit	gratuit	N	1	
-16	)	)	O	1	
-17	à	à	P	1	
-18	proximité	proximité	N	1	
-19	de	de	P	1	
-20	l'	le	D	1	
-21	hôtel	hôtel	N	1	
-22	.	.	O	1	
+1	Le	le	D	1	O
+2	point	point	N	1	O
+3	noir	noir	G	1	O
+4	de	de	P	1	O
+5	ce	ce	D	1	O
+6	séjour	séjour	N	1	O
+7	se	se	Q	1	O
+8	situe	situer	V	1	O
+9	autour	autour	G	1	O
+10	du	du	D	1	O
+11	manque	manque	N	1	O
+12	de	de	P	1	O
+13	stationnment	stationnment	N	1	O
+14	(	(	O	1	O
+15	gratuit	gratuit	N	1	O
+16	)	)	O	1	O
+17	à	à	P	1	O
+18	proximité	proximité	N	1	O
+19	de	de	P	1	O
+20	l'	le	D	1	O
+21	hôtel	hôtel	N	1	O
+22	.	.	O	1	O
 
-1	Le	le	D	1	
-2	reste	reste	N	1	
-3	des	des	P	1	
-4	insatisafactions	insatisafactions	N	1	
-5	tourne	tourne	N	1	
-6	autour	autour	G	1	
-7	de	de	P	1	
-8	détails	détail	N	1	
-9	facilement	facilement	G	1	
-10	corrigeables	corrigeables	G	1	
-11	.	.	O	1	
+1	Le	le	D	1	O
+2	reste	reste	N	1	O
+3	des	des	P	1	O
+4	insatisafactions	insatisafactions	N	1	O
+5	tourne	tourne	N	1	O
+6	autour	autour	G	1	O
+7	de	de	P	1	O
+8	détails	détail	N	1	O
+9	facilement	facilement	G	1	O
+10	corrigeables	corrigeables	G	1	O
+11	.	.	O	1	O
 
-1	Un	un	D	1	
-2	bon	bon	G	1	
-3	séjour	séjour	N	1	
-4	tout	tout	G	1	
-5	de	de	P	1	
-6	même	même	G	1	
-7	,	,	O	1	
-8	sans	sans]	P	1	
-9	aucun	aucun	D	1	
-10	accroc	accroc	N	1	
-11	.	.	O	1	
+1	Un	un	D	1	O
+2	bon	bon	G	1	O
+3	séjour	séjour	N	1	O
+4	tout	tout	G	1	O
+5	de	de	P	1	O
+6	même	même	G	1	O
+7	,	,	O	1	O
+8	sans	sans]	P	1	O
+9	aucun	aucun	D	1	O
+10	accroc	accroc	N	1	O
+11	.	.	O	1	O
 

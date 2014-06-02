@@ -1,154 +1,155 @@
-1	Geen	geen	D	1	
-2	5	@card@	O	1	
-3	sterren	ster	N	1	
-4	waardig	waardig	G	1	
+1	Geen	geen	D	1	O
+2	5	@card@	O	1	O
+3	sterren	ster	N	1	O
+4	waardig	waardig	G	1	O
 
-1	Weinig	weinig	O	1	
-2	variatie	variatie	N	1	
-3	in	in	P	1	
-4	het	het	D	1	
-5	eten	eten	N	1	
-6	.	.	O	1	
+1	Weinig	weinig	O	1	O
+2	variatie	variatie	N	1	O
+3	in	in	P	1	O
+4	het	het	D	1	O
+5	eten	eten	N	1	O
+6	.	.	O	1	O
 
-1	Elke	elk	D	1	
-2	dag	dag	N	1	
-3	rijst	rijst	N	1	
-4	(	(	O	1	
-5	witte	wit	G	1	
-6	of	of	C	1	
-7	gele	geel	G	1	
-8	of	of	C	1	
-9	bruine	bruin	G	1	
-10	)	)	O	1	
-11	;	;	O	1	
-12	friet	friet	N	1	
-13	;	;	O	1	
-14	rundvlees	rundvlees	N	1	
-15	;	;	O	1	
-16	gekookte	koken	V	1	
-17	aardappelen	aardappel	N	1	
-18	en	en	C	1	
-19	dezelfede	dezelfede	O	1	
-20	soep	soep	N	1	
-21	.	.	O	1	
+1	Elke	elk	D	1	O
+2	dag	dag	N	1	O
+3	rijst	rijst	N	1	O
+4	(	(	O	1	O
+5	witte	wit	G	1	O
+6	of	of	C	1	O
+7	gele	geel	G	1	O
+8	of	of	C	1	O
+9	bruine	bruin	G	1	O
+10	)	)	O	1	O
+11	;	;	O	1	O
+12	friet	friet	N	1	O
+13	;	;	O	1	O
+14	rundvlees	rundvlees	N	1	O
+15	;	;	O	1	O
+16	gekookte	koken	V	1	O
+17	aardappelen	aardappel	N	1	O
+18	en	en	C	1	O
+19	dezelfede	dezelfede	O	1	O
+20	soep	soep	N	1	O
+21	.	.	O	1	O
 
-1	Als	als	C	1	
-2	je	je	Q	1	
-3	dit	dit	Q	1	
-4	niet	niet	A	1	
-5	lust	lust	N	1	
-6	heb	hebben	V	1	
-7	je	je	Q	1	
-8	een	een	D	1	
-9	probleem	probleem	N	1	
-10	.	.	O	1	
+1	Als	als	C	1	O
+2	je	je	Q	1	O
+3	dit	dit	Q	1	O
+4	niet	niet	A	1	O
+5	lust	lust	N	1	O
+6	heb	hebben	V	1	O
+7	je	je	Q	1	O
+8	een	een	D	1	O
+9	probleem	probleem	N	1	O
+10	.	.	O	1	O
 
-1	Niet	niet	A	1	
-2	alles	alles	Q	1	
-3	is	zijn	V	1	
-4	even	even	G	1	
-5	proper	proper	G	1	
-6	.	.	O	1	
+1	Niet	niet	A	1	O
+2	alles	alles	Q	1	O
+3	is	zijn	V	1	O
+4	even	even	G	1	O
+5	proper	proper	G	1	O
+6	.	.	O	1	O
 
-1	Of	of	C	1	
-2	het	het	Q	1	
-3	daar	daar	A	1	
-4	van	van	P	1	
-5	komt	komen	V	1	
-6	weet	weten	V	1	
-7	ik	ik	Q	1	
-8	niet	niet	A	1	
-9	,	,	O	1	
-10	maar	maar	C	1	
-11	het	het	D	1	
-12	hele	heel	G	1	
-13	gezin	gezin	N	1	
-14	had	hebben	V	1	
-15	diaree	diaree	O	1	
-16	.	.	O	1	
+1	Of	of	C	1	O
+2	het	het	Q	1	O
+3	daar	daar	A	1	O
+4	van	van	P	1	O
+5	komt	komen	V	1	O
+6	weet	weten	V	1	O
+7	ik	ik	Q	1	O
+8	niet	niet	A	1	O
+9	,	,	O	1	O
+10	maar	maar	C	1	O
+11	het	het	D	1	O
+12	hele	heel	G	1	O
+13	gezin	gezin	N	1	O
+14	had	hebben	V	1	O
+15	diaree	diaree	O	1	O
+16	.	.	O	1	O
 
-1	Veel	veel	O	1	
-2	Russen	Rus	N	1	
-3	in	in	P	1	
-4	het	het	D	1	
-5	hotel	hotel	N	1	
-6	,	,	O	1	
-7	maar	maar	C	1	
-8	geen	geen	D	1	
-9	last	last	N	1	
-10	van	van	P	1	
-11	ze	ze	Q	1	
-12	ondervonden	ondervinden	V	1	
-13	.	.	O	1	
+1	Veel	veel	O	1	O
+2	Russen	Rus	N	1	O
+3	in	in	P	1	O
+4	het	het	D	1	O
+5	hotel	hotel	N	1	O
+6	,	,	O	1	O
+7	maar	maar	C	1	O
+8	geen	geen	D	1	O
+9	last	last	N	1	O
+10	van	van	P	1	O
+11	ze	ze	Q	1	O
+12	ondervonden	ondervinden	V	1	O
+13	.	.	O	1	O
 
-1	Zwembaden	zwembad	N	1	
-2	zijn	zijn	V	1	
-3	fijn	fijn	G	1	
-4	,	,	O	1	
-5	maar	maar	C	1	
-6	ook	ook	A	1	
-7	hier	hier	A	1	
-8	zie	zien	V	1	
-9	je	je	Q	1	
-10	gebreken	gebrek	N	1	
-11	die	die	Q	1	
-12	een	een	D	1	
-13	5	@card@	O	1	
-14	sterren	ster	N	1	
-15	hotel	hotel	N	1	
-16	niet	niet	A	1	
-17	zou	zullen	V	1	
-18	mogen	mogen	V	1	
-19	hebben	hebben	V	1	
-20	.	.	O	1	
+1	Zwembaden	zwembad	N	1	O
+2	zijn	zijn	V	1	O
+3	fijn	fijn	G	1	O
+4	,	,	O	1	O
+5	maar	maar	C	1	O
+6	ook	ook	A	1	O
+7	hier	hier	A	1	O
+8	zie	zien	V	1	O
+9	je	je	Q	1	O
+10	gebreken	gebrek	N	1	O
+11	die	die	Q	1	O
+12	een	een	D	1	O
+13	5	@card@	O	1	O
+14	sterren	ster	N	1	O
+15	hotel	hotel	N	1	O
+16	niet	niet	A	1	O
+17	zou	zullen	V	1	O
+18	mogen	mogen	V	1	O
+19	hebben	hebben	V	1	O
+20	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	zijn	zijn	V	1	
-3	te	te	O	1	
-4	weinig	weinig	O	1	
-5	zwembanden	zwembanden	O	1	
-6	om	om	C	1	
-7	van	van	P	1	
-8	de	de	D	1	
-9	glijbanen	glijbaan	N	1	
-10	af	af	A	1	
-11	te	te	O	1	
-12	gaan	gaan	V	1	
-13	.	.	O	1	
+1	Er	er	Q	1	O
+2	zijn	zijn	V	1	O
+3	te	te	O	1	O
+4	weinig	weinig	O	1	O
+5	zwembanden	zwembanden	O	1	O
+6	om	om	C	1	O
+7	van	van	P	1	O
+8	de	de	D	1	O
+9	glijbanen	glijbaan	N	1	O
+10	af	af	A	1	O
+11	te	te	O	1	O
+12	gaan	gaan	V	1	O
+13	.	.	O	1	O
 
-1	Vele	veel	O	1	
-2	banden	band	N	1	
-3	zijn	zijn	V	1	
-4	ook	ook	A	1	
-5	lek	lek	G	1	
-6	en	en	C	1	
-7	wel	wel	A	1	
-8	30	@card@	O	1	
-9	keer	keer	N	1	
-10	gerepareerd	repareren	V	1	
-11	.	.	O	1	
+1	Vele	veel	O	1	O
+2	banden	band	N	1	O
+3	zijn	zijn	V	1	O
+4	ook	ook	A	1	O
+5	lek	lek	G	1	O
+6	en	en	C	1	O
+7	wel	wel	A	1	O
+8	30	@card@	O	1	O
+9	keer	keer	N	1	O
+10	gerepareerd	repareren	V	1	O
+11	.	.	O	1	O
 
-1	Het	het	D	1	
-2	zuster	zuster	N	1	
-3	hotel	hotel	N	1	
-4	Titanic_Palace	Titanic_Palace	R	1	ne=Hotel
-5	is	zijn	V	1	
-6	mooier	mooi	G	1	
-7	maar	maar	C	1	
-8	het	het	D	1	
-9	eten	eten	N	1	
-10	is	zijn	V	1	
-11	hetzelfde	hetzelfde	D	1	
-12	.	.	O	1	
+1	Het	het	D	1	O
+2	zuster	zuster	N	1	O
+3	hotel	hotel	N	1	O
+4	Titanic	Titanic	O	1	I-Hotel
+5	Palace	Palace	O	1	I-Hotel
+6	is	zijn	V	1	O
+7	mooier	mooi	G	1	O
+8	maar	maar	C	1	O
+9	het	het	D	1	O
+10	eten	eten	N	1	O
+11	is	zijn	V	1	O
+12	hetzelfde	hetzelfde	D	1	O
+13	.	.	O	1	O
 
-1	De	de	D	1	
-2	a	a	O	1	
-3	·	·	O	1	
-4	la	la	N	1	
-5	·	·	O	1	
-6	carte	carte	O	1	
-7	retaurants	retaurants	O	1	
-8	zijn	zijn	V	1	
-9	beter	beter|goed	G	1	
-10	.	.	O	1	
+1	De	de	D	1	O
+2	a	a	O	1	O
+3	·	·	O	1	O
+4	la	la	N	1	O
+5	·	·	O	1	O
+6	carte	carte	O	1	O
+7	retaurants	retaurants	O	1	O
+8	zijn	zijn	V	1	O
+9	beter	beter|goed	G	1	O
+10	.	.	O	1	O
 

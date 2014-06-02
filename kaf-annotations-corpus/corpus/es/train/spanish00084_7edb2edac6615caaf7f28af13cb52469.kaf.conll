@@ -1,116 +1,116 @@
-1	Confortable	confortable	G	1	
-2	hotel	hotel	N	1	
-3	en	en	P	1	
-4	Barcelona	Barcelona	R	1	
+1	Confortable	confortable	G	1	O
+2	hotel	hotel	N	1	O
+3	en	en	P	1	O
+4	Barcelona	Barcelona	R	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	se	se	O	1	
-4	encuentra	encuentra	O	1	
-5	retirado	retirado	O	1	
-6	del	del	O	1	
-7	centro	centro	O	1	
-8	,	,	O	1	
-9	aunque	aunque	G	1	
-10	muy	muy	G	1	
-11	bien	bien	G	1	
-12	comunicado	comunicado	G	1	
-13	por	por	N	1	
-14	el	el	N	1	
-15	metro	metro	N	1	
-16	con	con	A	1	
-17	el	el	G	1	
-18	que	que	G	1	
-19	tan	tan	G	1	
-20	sólo	sólo	N	1	
-21	en	en	P	1	
-22	unos	unos	N	1	
-23	minutos	minutos	N	1	
-24	estás	estás	N	1	
-25	allí	allí	V	1	
-26	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	se	se	O	1	O
+4	encuentra	encuentra	O	1	O
+5	retirado	retirado	O	1	O
+6	del	del	O	1	O
+7	centro	centro	O	1	O
+8	,	,	O	1	O
+9	aunque	aunque	G	1	O
+10	muy	muy	G	1	O
+11	bien	bien	G	1	O
+12	comunicado	comunicado	G	1	O
+13	por	por	N	1	O
+14	el	el	N	1	O
+15	metro	metro	N	1	O
+16	con	con	A	1	O
+17	el	el	G	1	O
+18	que	que	G	1	O
+19	tan	tan	G	1	O
+20	sólo	sólo	N	1	O
+21	en	en	P	1	O
+22	unos	unos	N	1	O
+23	minutos	minutos	N	1	O
+24	estás	estás	N	1	O
+25	allí	allí	V	1	O
+26	.	.	O	1	O
 
-1	El	El	R	1	
-2	ambiente	ambiente	R	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	agradable	agradable	G	1	
-6	y	y	G	1	
-7	la	la	N	1	
-8	habitación	habitación	N	1	
-9	muy	muy	G	1	
-10	cómoda	cómoda	N	1	
-11	,	,	O	1	
-12	con	con	O	1	
-13	gran	gran	G	1	
-14	calidad	calidad	N	1	
-15	en	en	P	1	
-16	el	el	N	1	
-17	sueño	sueño	N	1	
-18	y	y	G	1	
-19	detalles	detalles	N	1	
-20	como	como	V	1	
-21	cafetera	cafetera	N	1	
-22	eléctrica	eléctrica	N	1	
-23	y	y	G	1	
-24	minibar	minibar	N	1	
-25	gratis	gratis	N	1	
-26	(	(	O	1	
-27	agua	agua	O	1	
-28	,	,	O	1	
-29	pepsi	pepsi	N	1	
-30	,	,	O	1	
-31	zumos	zumos	N	1	
-32	)	)	O	1	
-33	;	;	O	1	
-34	también	también	O	1	
-35	contaba	contaba	O	1	
-36	con	con	O	1	
-37	conexión	conexión	O	1	
-38	wifi	wifi	O	1	
-39	gratuita	gratuita	O	1	
-40	en	en	O	1	
-41	la	la	O	1	
-42	habitación	habitación	O	1	
-43	.	.	O	1	
+1	El	El	R	1	O
+2	ambiente	ambiente	R	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	agradable	agradable	G	1	O
+6	y	y	G	1	O
+7	la	la	N	1	O
+8	habitación	habitación	N	1	O
+9	muy	muy	G	1	O
+10	cómoda	cómoda	N	1	O
+11	,	,	O	1	O
+12	con	con	O	1	O
+13	gran	gran	G	1	O
+14	calidad	calidad	N	1	O
+15	en	en	P	1	O
+16	el	el	N	1	O
+17	sueño	sueño	N	1	O
+18	y	y	G	1	O
+19	detalles	detalles	N	1	O
+20	como	como	V	1	O
+21	cafetera	cafetera	N	1	O
+22	eléctrica	eléctrica	N	1	O
+23	y	y	G	1	O
+24	minibar	minibar	N	1	O
+25	gratis	gratis	N	1	O
+26	(	(	O	1	O
+27	agua	agua	O	1	O
+28	,	,	O	1	O
+29	pepsi	pepsi	N	1	O
+30	,	,	O	1	O
+31	zumos	zumos	N	1	O
+32	)	)	O	1	O
+33	;	;	O	1	O
+34	también	también	O	1	O
+35	contaba	contaba	O	1	O
+36	con	con	O	1	O
+37	conexión	conexión	O	1	O
+38	wifi	wifi	O	1	O
+39	gratuita	gratuita	O	1	O
+40	en	en	O	1	O
+41	la	la	O	1	O
+42	habitación	habitación	O	1	O
+43	.	.	O	1	O
 
-1	La	La	R	1	
-2	zona	zona	R	1	
-3	es	es	V	1	
-4	demasiado	demasiado	N	1	
-5	tranquila	tranquila	N	1	
-6	,	,	O	1	
-7	no	no	D	1	
-8	encontramos	encontramos	O	1	
-9	sitios	sitios	O	1	
-10	de	de	O	1	
-11	ocio	ocio	O	1	
-12	cercanos.	cercanos.	O	1	
-13	hay	hay	O	1	
-14	que	que	O	1	
-15	destacar	destacar	O	1	
-16	su	su	O	1	
-17	cercanía	cercanía	O	1	
-18	al	al	G	1	
-19	Camp	Camp	R	1	
-20	Nou	Nou	R	1	
-21	,	,	O	1	
-22	al	al	G	1	
-23	que	que	N	1	
-24	puedes	puedes	V	1	
-25	ir	ir	Q	1	
-26	andando	andando	N	1	
-27	,	,	O	1	
-28	lo	lo	G	1	
-29	que	que	N	1	
-30	lo	lo	O	1	
-31	hace	hace	N	1	
-32	ideal	ideal	G	1	
-33	para	para	N	1	
-34	viajes	viajes	N	1	
-35	relacionados	relacionados	V	1	
-36	con	con	G	1	
-37	el	el	N	1	
-38	fútbol	fútbol	N	1	
-39	.	.	O	1	
+1	La	La	R	1	O
+2	zona	zona	R	1	O
+3	es	es	V	1	O
+4	demasiado	demasiado	N	1	O
+5	tranquila	tranquila	N	1	O
+6	,	,	O	1	O
+7	no	no	D	1	O
+8	encontramos	encontramos	O	1	O
+9	sitios	sitios	O	1	O
+10	de	de	O	1	O
+11	ocio	ocio	O	1	O
+12	cercanos.	cercanos.	O	1	O
+13	hay	hay	O	1	O
+14	que	que	O	1	O
+15	destacar	destacar	O	1	O
+16	su	su	O	1	O
+17	cercanía	cercanía	O	1	O
+18	al	al	G	1	O
+19	Camp	Camp	R	1	O
+20	Nou	Nou	R	1	O
+21	,	,	O	1	O
+22	al	al	G	1	O
+23	que	que	N	1	O
+24	puedes	puedes	V	1	O
+25	ir	ir	Q	1	O
+26	andando	andando	N	1	O
+27	,	,	O	1	O
+28	lo	lo	G	1	O
+29	que	que	N	1	O
+30	lo	lo	O	1	O
+31	hace	hace	N	1	O
+32	ideal	ideal	G	1	O
+33	para	para	N	1	O
+34	viajes	viajes	N	1	O
+35	relacionados	relacionados	V	1	O
+36	con	con	G	1	O
+37	el	el	N	1	O
+38	fútbol	fútbol	N	1	O
+39	.	.	O	1	O
 

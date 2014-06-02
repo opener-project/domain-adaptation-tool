@@ -1,109 +1,109 @@
-1	We	we	Q	1	
-2	keep	keep	V	1	
-3	coming	come	V	1	
-4	back	back	A	1	
+1	We	we	Q	1	O
+2	keep	keep	V	1	O
+3	coming	come	V	1	O
+4	back	back	A	1	O
 
-1	What	what	Q	1	
-2	can	can	O	1	
-3	I	i	Q	1	
-4	say	say	V	1	
-5	we	we	Q	1	
-6	have	have	V	1	
-7	been	be	V	1	
-8	to	to	P	1	
-9	this	this	D	1	
-10	hotel	hotel	N	1	
-11	for	for	P	1	
-12	the	the	D	1	
-13	last	last	G	1	
-14	4years	4years	N	1	
-15	,	,	O	1	
-16	the	the	D	1	
-17	hotel	hotel	N	1	
-18	itself	itself	Q	1	
-19	is	be	V	1	
-20	dated	date	V	1	
-21	but	but	C	1	
-22	the	the	D	1	
-23	staff	staff	N	1	
-24	are	be	V	1	
-25	all	all	A	1	
-26	great	great	G	1	
-27	food	food	N	1	
-28	is	be	V	1	
-29	good	good	G	1	
-30	how	how	O	1	
-31	ever	ever	A	1	
-32	I	i	Q	1	
-33	'm	'm	V	1	
-34	vegetarian	vegetarian	N	1	
-35	and	and	C	1	
-36	for	for	P	1	
-37	1	1	O	1	
-38	night	night	N	1	
-39	a	a	D	1	
-40	week	week	N	1	
-41	which	which	O	1	
-42	is	be	V	1	
-43	fish	fish	G	1	
-44	night	night	N	1	
-45	I	i	Q	1	
-46	don	don	V	1	
-47	't	't	A	1	
-48	eat	eat	G	1	
-49	,	,	O	1	
-50	we	we	Q	1	
-51	have	have	V	1	
-52	several	several	G	1	
-53	friends	friend	N	1	
-54	come	come	V	1	
-55	to	to	P	1	
-56	the	the	D	1	
-57	hotel	hotel	N	1	
-58	with	with	P	1	
-59	us	us	Q	1	
-60	with	with	P	1	
-61	kids	kid	N	1	
-62	between	between	P	1	
-63	the	the	D	1	
-64	ages	age	N	1	
-65	of	of	P	1	
-66	2	2	O	1	
-67	and	and	C	1	
-68	18	18	O	1	
-69	and	and	C	1	
-70	have	have	V	1	
-71	all	all	D	1	
-72	lived	live	V	1	
-73	it	it	Q	1	
-74	,	,	O	1	
-75	the	the	D	1	
-76	entertainment	entertainment	N	1	
-77	do	do	V	1	
-78	a	a	D	1	
-79	fantastic	fantastic	G	1	
-80	job	job	N	1	
-81	and	and	C	1	
-82	work	work	V	1	
-83	really	really	A	1	
-84	hard	hard	G	1	
-85	and	and	C	1	
-86	make	make	V	1	
-87	the	the	D	1	
-88	hotel	hotel	N	1	
-89	a	a	D	1	
-90	fun	fun	N	1	
-91	place	place	N	1	
-92	to	to	P	1	
-93	be	be	V	1	
-94	,	,	O	1	
-95	I	i	Q	1	
-96	guess	guess	V	1	
-97	this	this	D	1	
-98	is	be	V	1	
-99	way	way	A	1	
-100	we	we	Q	1	
-101	keep	keep	V	1	
-102	coming	come	V	1	
-103	back	back	A	1	
+1	What	what	Q	1	O
+2	can	can	O	1	O
+3	I	i	Q	1	O
+4	say	say	V	1	O
+5	we	we	Q	1	O
+6	have	have	V	1	O
+7	been	be	V	1	O
+8	to	to	P	1	O
+9	this	this	D	1	O
+10	hotel	hotel	N	1	O
+11	for	for	P	1	O
+12	the	the	D	1	O
+13	last	last	G	1	O
+14	4years	4years	N	1	O
+15	,	,	O	1	O
+16	the	the	D	1	O
+17	hotel	hotel	N	1	O
+18	itself	itself	Q	1	O
+19	is	be	V	1	O
+20	dated	date	V	1	O
+21	but	but	C	1	O
+22	the	the	D	1	O
+23	staff	staff	N	1	O
+24	are	be	V	1	O
+25	all	all	A	1	O
+26	great	great	G	1	O
+27	food	food	N	1	O
+28	is	be	V	1	O
+29	good	good	G	1	O
+30	how	how	O	1	O
+31	ever	ever	A	1	O
+32	I	i	Q	1	O
+33	'm	'm	V	1	O
+34	vegetarian	vegetarian	N	1	O
+35	and	and	C	1	O
+36	for	for	P	1	O
+37	1	1	O	1	O
+38	night	night	N	1	O
+39	a	a	D	1	O
+40	week	week	N	1	O
+41	which	which	O	1	O
+42	is	be	V	1	O
+43	fish	fish	G	1	O
+44	night	night	N	1	O
+45	I	i	Q	1	O
+46	don	don	V	1	O
+47	't	't	A	1	O
+48	eat	eat	G	1	O
+49	,	,	O	1	O
+50	we	we	Q	1	O
+51	have	have	V	1	O
+52	several	several	G	1	O
+53	friends	friend	N	1	O
+54	come	come	V	1	O
+55	to	to	P	1	O
+56	the	the	D	1	O
+57	hotel	hotel	N	1	O
+58	with	with	P	1	O
+59	us	us	Q	1	O
+60	with	with	P	1	O
+61	kids	kid	N	1	O
+62	between	between	P	1	O
+63	the	the	D	1	O
+64	ages	age	N	1	O
+65	of	of	P	1	O
+66	2	2	O	1	O
+67	and	and	C	1	O
+68	18	18	O	1	O
+69	and	and	C	1	O
+70	have	have	V	1	O
+71	all	all	D	1	O
+72	lived	live	V	1	O
+73	it	it	Q	1	O
+74	,	,	O	1	O
+75	the	the	D	1	O
+76	entertainment	entertainment	N	1	O
+77	do	do	V	1	O
+78	a	a	D	1	O
+79	fantastic	fantastic	G	1	O
+80	job	job	N	1	O
+81	and	and	C	1	O
+82	work	work	V	1	O
+83	really	really	A	1	O
+84	hard	hard	G	1	O
+85	and	and	C	1	O
+86	make	make	V	1	O
+87	the	the	D	1	O
+88	hotel	hotel	N	1	O
+89	a	a	D	1	O
+90	fun	fun	N	1	O
+91	place	place	N	1	O
+92	to	to	P	1	O
+93	be	be	V	1	O
+94	,	,	O	1	O
+95	I	i	Q	1	O
+96	guess	guess	V	1	O
+97	this	this	D	1	O
+98	is	be	V	1	O
+99	way	way	A	1	O
+100	we	we	Q	1	O
+101	keep	keep	V	1	O
+102	coming	come	V	1	O
+103	back	back	A	1	O
 

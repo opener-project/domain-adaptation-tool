@@ -1,187 +1,188 @@
-1	Pisa	Pisa	R	1	
-2	gibt	geben	V	1	
-3	'	'	O	1	
-4	s	s	N	1	
-5	auch	auch	A	1	
-6	besser	gut	G	1	
+1	Pisa	Pisa	R	1	O
+2	gibt	geben	V	1	O
+3	'	'	O	1	O
+4	s	s	N	1	O
+5	auch	auch	A	1	O
+6	besser	gut	G	1	O
 
-1	Wir	wir	Q	1	
-2	haben	haben	V	1	
-3	das	die	D	1	
-4	Hotel	Hotel	N	1	
-5	für	für	P	1	
-6	1	1	O	1	
-7	Nacht	Nacht	N	1	
-8	ausgesucht	aussuchen	V	1	
-9	,	,	O	1	
-10	weil	weil	C	1	
-11	wir	wir	Q	1	
-12	am	an	P	1	
-13	Ende	Ende	N	1	
-14	einer	eine	D	1	
-15	Toskana	Toskana	R	1	ne=Location
-16	·	·	O	1	
-17	Reise	Reise	N	1	
-18	am	an	P	1	
-19	nächsten	nah	G	1	
-20	Morgen	Morgen	N	1	
-21	um	um	P	1	
-22	6	6	O	1	
-23	Uhr	Uhr	N	1	
-24	am	an	P	1	
-25	Flughafen_Pisa	Flughafen_Pisa	R	1	ne=POI
-26	sein	sein	V	1	
-27	mussten	müssen	V	1	
-28	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	haben	haben	V	1	O
+3	das	die	D	1	O
+4	Hotel	Hotel	N	1	O
+5	für	für	P	1	O
+6	1	1	O	1	O
+7	Nacht	Nacht	N	1	O
+8	ausgesucht	aussuchen	V	1	O
+9	,	,	O	1	O
+10	weil	weil	C	1	O
+11	wir	wir	Q	1	O
+12	am	an	P	1	O
+13	Ende	Ende	N	1	O
+14	einer	eine	D	1	O
+15	Toskana	Toskana	R	1	I-Location
+16	·	·	O	1	O
+17	Reise	Reise	N	1	O
+18	am	an	P	1	O
+19	nächsten	nah	G	1	O
+20	Morgen	Morgen	N	1	O
+21	um	um	P	1	O
+22	6	6	O	1	O
+23	Uhr	Uhr	N	1	O
+24	am	an	P	1	O
+25	Flughafen	Flughafen	N	1	I-POI
+26	Pisa	Pisa	R	1	I-POI
+27	sein	sein	V	1	O
+28	mussten	müssen	V	1	O
+29	.	.	O	1	O
 
-1	Insofern	insofern	A	1	
-2	:	:	O	1	
-3	Trotz	trotz	P	1	
-4	cool	cool	G	1	
-5	·	·	O	1	
-6	moderner	modern	G	1	
-7	Lobby	Lobby	N	1	
-8	gerade	gerade	A	1	
-9	noch	noch	A	1	
-10	halbwegs	halbwegs	A	1	
-11	ok	ok	O	1	
-12	.	.	O	1	
+1	Insofern	insofern	A	1	O
+2	:	:	O	1	O
+3	Trotz	trotz	P	1	O
+4	cool	cool	G	1	O
+5	·	·	O	1	O
+6	moderner	modern	G	1	O
+7	Lobby	Lobby	N	1	O
+8	gerade	gerade	A	1	O
+9	noch	noch	A	1	O
+10	halbwegs	halbwegs	A	1	O
+11	ok	ok	O	1	O
+12	.	.	O	1	O
 
-1	Jedoch	jedoch	A	1	
-2	:	:	O	1	
-3	Zimmer	Zimmer	N	1	
-4	und	und	C	1	
-5	Badezimmer	Badezimmer	N	1	
-6	sind	sein	V	1	
-7	EXTREM	extrem	G	1	
-8	klein	klein	G	1	
-9	,	,	O	1	
-10	die	die	D	1	
-11	Abnutzungserscheinungen	Abnutzungserscheinung	N	1	
-12	auffällig	auffällig	G	1	
-13	:	:	O	1	
-14	brüchiger	brüchig	G	1	
-15	Schlauch	Schlauch	N	1	
-16	der	die	D	1	
-17	Dusche	Dusche	N	1	
-18	(	(	O	1	
-19	die	die	D	1	
-20	ohnehin	ohnehin	A	1	
-21	nur	nur	A	1	
-22	höchstens	höchstens	A	1	
-23	Camping	Camping	N	1	
-24	·	·	O	1	
-25	Ausmaße	Ausmaß	N	1	
-26	hat	haben	V	1	
-27	·	·	O	1	
-28	Badezimmer	Badezimmer	N	1	
-29	ohne	ohne	P	1	
-30	jede	jede	Q	1	
-31	Ablagemöglichkeit	Ablagemöglichkeit	O	1	
-32	)	)	O	1	
-33	,	,	O	1	
-34	Spuren	Spur|Spuren	N	1	
-35	erschlagener	erschlagen	G	1	
-36	Mücken	Mücke	N	1	
-37	an	an	P	1	
-38	den	die	D	1	
-39	Wänden	Wand	N	1	
-40	,	,	O	1	
-41	vergraute	vergraute	O	1	
-42	Gardinen	Gardine	N	1	
-43	,	,	O	1	
-44	die	die	Q	1	
-45	längst	längst	A	1	
-46	von	von	P	1	
-47	ihren	ihr	Q	1	
-48	einsamen	einsam	G	1	
-49	Führungsstangen	Führungsstangen	O	1	
-50	verlassen	verlassen	V	1	
-51	worden	werden	V	1	
-52	sind	sein	V	1	
-53	,	,	O	1	
-54	fleckiger	fleckig	G	1	
-55	Teppichboden	Teppichboden	N	1	
-56	,	,	O	1	
-57	Flatscreen	Flatscreen	O	1	
-58	·	·	O	1	
-59	TV	TV	R	1	
-60	nach	nach	P	1	
-61	links	links	A	1	
-62	geneigt	geneigt	G	1	
-63	auf	auf	P	1	
-64	schiefem	schief	G	1	
-65	Untersatz	Untersatz	N	1	
-66	·	·	O	1	
-67	wir	wir	Q	1	
-68	haben	haben	V	1	
-69	'	'	O	1	
-70	s	s	N	1	
-71	als	als	C	1	
-72	typisch	typisch	G	1	
-73	für	für	P	1	
-74	Pisa	Pisa	R	1	ne=Location
-75	interpretiert	interpretieren	V	1	
-76	....	....	O	1	
+1	Jedoch	jedoch	A	1	O
+2	:	:	O	1	O
+3	Zimmer	Zimmer	N	1	O
+4	und	und	C	1	O
+5	Badezimmer	Badezimmer	N	1	O
+6	sind	sein	V	1	O
+7	EXTREM	extrem	G	1	O
+8	klein	klein	G	1	O
+9	,	,	O	1	O
+10	die	die	D	1	O
+11	Abnutzungserscheinungen	Abnutzungserscheinung	N	1	O
+12	auffällig	auffällig	G	1	O
+13	:	:	O	1	O
+14	brüchiger	brüchig	G	1	O
+15	Schlauch	Schlauch	N	1	O
+16	der	die	D	1	O
+17	Dusche	Dusche	N	1	O
+18	(	(	O	1	O
+19	die	die	D	1	O
+20	ohnehin	ohnehin	A	1	O
+21	nur	nur	A	1	O
+22	höchstens	höchstens	A	1	O
+23	Camping	Camping	N	1	O
+24	·	·	O	1	O
+25	Ausmaße	Ausmaß	N	1	O
+26	hat	haben	V	1	O
+27	·	·	O	1	O
+28	Badezimmer	Badezimmer	N	1	O
+29	ohne	ohne	P	1	O
+30	jede	jede	Q	1	O
+31	Ablagemöglichkeit	Ablagemöglichkeit	O	1	O
+32	)	)	O	1	O
+33	,	,	O	1	O
+34	Spuren	Spur|Spuren	N	1	O
+35	erschlagener	erschlagen	G	1	O
+36	Mücken	Mücke	N	1	O
+37	an	an	P	1	O
+38	den	die	D	1	O
+39	Wänden	Wand	N	1	O
+40	,	,	O	1	O
+41	vergraute	vergraute	O	1	O
+42	Gardinen	Gardine	N	1	O
+43	,	,	O	1	O
+44	die	die	Q	1	O
+45	längst	längst	A	1	O
+46	von	von	P	1	O
+47	ihren	ihr	Q	1	O
+48	einsamen	einsam	G	1	O
+49	Führungsstangen	Führungsstangen	O	1	O
+50	verlassen	verlassen	V	1	O
+51	worden	werden	V	1	O
+52	sind	sein	V	1	O
+53	,	,	O	1	O
+54	fleckiger	fleckig	G	1	O
+55	Teppichboden	Teppichboden	N	1	O
+56	,	,	O	1	O
+57	Flatscreen	Flatscreen	O	1	O
+58	·	·	O	1	O
+59	TV	TV	R	1	O
+60	nach	nach	P	1	O
+61	links	links	A	1	O
+62	geneigt	geneigt	G	1	O
+63	auf	auf	P	1	O
+64	schiefem	schief	G	1	O
+65	Untersatz	Untersatz	N	1	O
+66	·	·	O	1	O
+67	wir	wir	Q	1	O
+68	haben	haben	V	1	O
+69	'	'	O	1	O
+70	s	s	N	1	O
+71	als	als	C	1	O
+72	typisch	typisch	G	1	O
+73	für	für	P	1	O
+74	Pisa	Pisa	R	1	I-Location
+75	interpretiert	interpretieren	V	1	O
+76	....	....	O	1	O
 
-1	Und	und	C	1	
-2	der	die	D	1	
-3	junge	jung	G	1	
-4	Herr	Herr	N	1	
-5	am	an	P	1	
-6	Empfang	Empfang	N	1	
-7	schien	scheinen	V	1	
-8	im	in	P	1	
-9	Besonderen	Besondere	N	1	
-10	am	an	P	1	
-11	Klima	Klima	N	1	
-12	,	,	O	1	
-13	und	und	C	1	
-14	im	in	P	1	
-15	Allgemeinen	Allgemeine	N	1	
-16	an	an	P	1	
-17	der	die	D	1	
-18	Welt	Welt	N	1	
-19	an	an	P	1	
-20	sich	sich	Q	1	
-21	zu	zu	O	1	
-22	leiden	leiden	V	1	
-23	...	...	O	1	
+1	Und	und	C	1	O
+2	der	die	D	1	O
+3	junge	jung	G	1	O
+4	Herr	Herr	N	1	O
+5	am	an	P	1	O
+6	Empfang	Empfang	N	1	O
+7	schien	scheinen	V	1	O
+8	im	in	P	1	O
+9	Besonderen	Besondere	N	1	O
+10	am	an	P	1	O
+11	Klima	Klima	N	1	O
+12	,	,	O	1	O
+13	und	und	C	1	O
+14	im	in	P	1	O
+15	Allgemeinen	Allgemeine	N	1	O
+16	an	an	P	1	O
+17	der	die	D	1	O
+18	Welt	Welt	N	1	O
+19	an	an	P	1	O
+20	sich	sich	Q	1	O
+21	zu	zu	O	1	O
+22	leiden	leiden	V	1	O
+23	...	...	O	1	O
 
-1	Vorteile	Vorteil	N	1	
-2	:	:	O	1	
-3	keine	keine	Q	1	
-4	100	100	O	1	
-5	m	m	N	1	
-6	vom	von	P	1	
-7	Bahnhof	Bahnhof	N	1	
-8	entfernt	entfernen	V	1	
-9	,	,	O	1	
-10	sehr	sehr	A	1	
-11	ruhige	ruhig	G	1	
-12	Lage	Lage	N	1	
-13	,	,	O	1	
-14	ein	eine	D	1	
-15	paar	paar	Q	1	
-16	nette	nett	G	1	
-17	Restaurants	Restaurant	N	1	
-18	in	in	P	1	
-19	der	die	D	1	
-20	Nähe	Nähe	N	1	
-21	.	.	O	1	
+1	Vorteile	Vorteil	N	1	O
+2	:	:	O	1	O
+3	keine	keine	Q	1	O
+4	100	100	O	1	O
+5	m	m	N	1	O
+6	vom	von	P	1	O
+7	Bahnhof	Bahnhof	N	1	O
+8	entfernt	entfernen	V	1	O
+9	,	,	O	1	O
+10	sehr	sehr	A	1	O
+11	ruhige	ruhig	G	1	O
+12	Lage	Lage	N	1	O
+13	,	,	O	1	O
+14	ein	eine	D	1	O
+15	paar	paar	Q	1	O
+16	nette	nett	G	1	O
+17	Restaurants	Restaurant	N	1	O
+18	in	in	P	1	O
+19	der	die	D	1	O
+20	Nähe	Nähe	N	1	O
+21	.	.	O	1	O
 
-1	Fazit	Fazit	N	1	
-2	:	:	O	1	
-3	für	für	P	1	
-4	eine	eine	D	1	
-5	Nacht	Nacht	N	1	
-6	gerade	gerade	A	1	
-7	noch	noch	A	1	
-8	ok	ok	O	1	
-9	,	,	O	1	
-10	aber	aber	C	1	
-11	eigentlich	eigentlich	A	1	
-12	zu	zu	O	1	
-13	teuer	teuer	G	1	
-14	.	.	O	1	
+1	Fazit	Fazit	N	1	O
+2	:	:	O	1	O
+3	für	für	P	1	O
+4	eine	eine	D	1	O
+5	Nacht	Nacht	N	1	O
+6	gerade	gerade	A	1	O
+7	noch	noch	A	1	O
+8	ok	ok	O	1	O
+9	,	,	O	1	O
+10	aber	aber	C	1	O
+11	eigentlich	eigentlich	A	1	O
+12	zu	zu	O	1	O
+13	teuer	teuer	G	1	O
+14	.	.	O	1	O
 

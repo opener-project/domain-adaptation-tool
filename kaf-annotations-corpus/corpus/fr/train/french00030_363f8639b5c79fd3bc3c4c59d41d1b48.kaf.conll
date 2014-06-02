@@ -1,110 +1,110 @@
-1	Camping	camping	N	1	
-2	familial	familial	G	1	
+1	Camping	camping	N	1	O
+2	familial	familial	G	1	O
 
-1	Camping	camping	N	1	
-2	très	très	G	1	
-3	bien	bien	G	1	
-4	pour	pour	P	1	
-5	un	un	D	1	
-6	séjour	séjour	N	1	
-7	en	en	P	1	
-8	famille	famille	N	1	
-9	,	,	O	1	
-10	bien	bien	G	1	
-11	qu'	qu'	C	1	
-12	il	il	Q	1	
-13	soit	être	V	1	
-14	trop	trop	G	1	
-15	éloigné	éloigner	V	1	
-16	de	de	P	1	
-17	la	le	D	1	
-18	plage	plage	N	1	
-19	et	et	C	1	
-20	du	du	D	1	
-21	centre	centre	N	1	
-22	ville	ville	N	1	
-23	.	.	O	1	
+1	Camping	camping	N	1	O
+2	très	très	G	1	O
+3	bien	bien	G	1	O
+4	pour	pour	P	1	O
+5	un	un	D	1	O
+6	séjour	séjour	N	1	O
+7	en	en	P	1	O
+8	famille	famille	N	1	O
+9	,	,	O	1	O
+10	bien	bien	G	1	O
+11	qu'	qu'	C	1	O
+12	il	il	Q	1	O
+13	soit	être	V	1	O
+14	trop	trop	G	1	O
+15	éloigné	éloigner	V	1	O
+16	de	de	P	1	O
+17	la	le	D	1	O
+18	plage	plage	N	1	O
+19	et	et	C	1	O
+20	du	du	D	1	O
+21	centre	centre	N	1	O
+22	ville	ville	N	1	O
+23	.	.	O	1	O
 
-1	Animation	animation	N	1	
-2	très	très	G	1	
-3	sympathique	sympathique	G	1	
-4	et	et	C	1	
-5	adapté	adapter	V	1	
-6	à	à	P	1	
-7	tous	tout	G	1	
-8	les	le	D	1	
-9	publics	public	N	1	
-10	.	.	O	1	
+1	Animation	animation	N	1	O
+2	très	très	G	1	O
+3	sympathique	sympathique	G	1	O
+4	et	et	C	1	O
+5	adapté	adapter	V	1	O
+6	à	à	P	1	O
+7	tous	tout	G	1	O
+8	les	le	D	1	O
+9	publics	public	N	1	O
+10	.	.	O	1	O
 
-1	Grâce	grâce	N	1	
-2	à	à	P	1	
-3	l'	le	D	1	
-4	équipe	équipe	N	1	
-5	qui	qui	P	1	
-6	entretient	entretenir	V	1	
-7	les	le	D	1	
-8	sanitaires	sanitaire	N	1	
-9	leur	son	D	1	
-10	état	état	N	1	
-11	de	de	P	1	
-12	propreté	propreté	N	1	
-13	est	être	V	1	
-14	très	très	G	1	
-15	convenable	convenable	G	1	
-16	.	.	O	1	
+1	Grâce	grâce	N	1	O
+2	à	à	P	1	O
+3	l'	le	D	1	O
+4	équipe	équipe	N	1	O
+5	qui	qui	P	1	O
+6	entretient	entretenir	V	1	O
+7	les	le	D	1	O
+8	sanitaires	sanitaire	N	1	O
+9	leur	son	D	1	O
+10	état	état	N	1	O
+11	de	de	P	1	O
+12	propreté	propreté	N	1	O
+13	est	être	V	1	O
+14	très	très	G	1	O
+15	convenable	convenable	G	1	O
+16	.	.	O	1	O
 
-1	Malheureusement	Malheureusement	G	1	
-2	pour	pour	P	1	
-3	les	le	D	1	
-4	familles	famille	N	1	
-5	ayant	avoir	V	1	
-6	un	un	D	1	
-7	bébé	bébé	N	1	
-8	,	,	O	1	
-9	les	le	D	1	
-10	espaces	espace	N	1	
-11	réservés	réserver	V	1	
-12	à	à	P	1	
-13	ces	ce	D	1	
-14	derniers	dernier	G	1	
-15	sont	être	V	1	
-16	vétustes	vétuste	G	1	
-17	et	et	C	1	
-18	inadaptés	inadapté	G	1	
-19	(	(	O	1	
-20	pas	pas	G	1	
-21	de	de	P	1	
-22	porte	porte	N	1	
-23	,	,	O	1	
-24	eau	eau	N	1	
-25	froide	froid	G	1	
-26	,	,	O	1	
-27	plan	plan	N	1	
-28	à	à	P	1	
-29	langer	langer	V	1	
-30	inadapté	inadapté	N	1	
-31	...	...	O	1	
-32	)	)	O	1	
-33	.	.	O	1	
+1	Malheureusement	Malheureusement	G	1	O
+2	pour	pour	P	1	O
+3	les	le	D	1	O
+4	familles	famille	N	1	O
+5	ayant	avoir	V	1	O
+6	un	un	D	1	O
+7	bébé	bébé	N	1	O
+8	,	,	O	1	O
+9	les	le	D	1	O
+10	espaces	espace	N	1	O
+11	réservés	réserver	V	1	O
+12	à	à	P	1	O
+13	ces	ce	D	1	O
+14	derniers	dernier	G	1	O
+15	sont	être	V	1	O
+16	vétustes	vétuste	G	1	O
+17	et	et	C	1	O
+18	inadaptés	inadapté	G	1	O
+19	(	(	O	1	O
+20	pas	pas	G	1	O
+21	de	de	P	1	O
+22	porte	porte	N	1	O
+23	,	,	O	1	O
+24	eau	eau	N	1	O
+25	froide	froid	G	1	O
+26	,	,	O	1	O
+27	plan	plan	N	1	O
+28	à	à	P	1	O
+29	langer	langer	V	1	O
+30	inadapté	inadapté	N	1	O
+31	...	...	O	1	O
+32	)	)	O	1	O
+33	.	.	O	1	O
 
-1	Parfois	Parfois	G	1	
-2	les	le	D	1	
-3	nuits	nuit	N	1	
-4	sont	être	V	1	
-5	un	un	D	1	
-6	peu	peu	G	1	
-7	bruyantes	bruyant	G	1	
-8	(	(	O	1	
-9	ambiance	ambiance	N	1	
-10	camping	camping	O	1	
-11	!	!	O	1	
-12	!	!	O	1	
-13	)	)	O	1	
-14	,	,	O	1	
-15	les	le	D	1	
-16	matins	matin	N	1	
-17	sont	être	V	1	
-18	très	très	G	1	
-19	calmes	calme	G	1	
-20	.	.	O	1	
+1	Parfois	Parfois	G	1	O
+2	les	le	D	1	O
+3	nuits	nuit	N	1	O
+4	sont	être	V	1	O
+5	un	un	D	1	O
+6	peu	peu	G	1	O
+7	bruyantes	bruyant	G	1	O
+8	(	(	O	1	O
+9	ambiance	ambiance	N	1	O
+10	camping	camping	O	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
+13	)	)	O	1	O
+14	,	,	O	1	O
+15	les	le	D	1	O
+16	matins	matin	N	1	O
+17	sont	être	V	1	O
+18	très	très	G	1	O
+19	calmes	calme	G	1	O
+20	.	.	O	1	O
 

@@ -1,61 +1,61 @@
-1	Excelente	Excelente	R	1	
-2	,	,	O	1	
-3	el	el	N	1	
-4	hotel	hotel	N	1	
-5	y	y	G	1	
-6	el	el	N	1	
-7	trato	trato	N	1	
-8	es	es	V	1	
-9	muy	muy	G	1	
-10	bueno	bueno	N	1	
+1	Excelente	Excelente	R	1	O
+2	,	,	O	1	O
+3	el	el	N	1	O
+4	hotel	hotel	N	1	O
+5	y	y	G	1	O
+6	el	el	N	1	O
+7	trato	trato	N	1	O
+8	es	es	V	1	O
+9	muy	muy	G	1	O
+10	bueno	bueno	N	1	O
 
-1	Nos	Nos	R	1	
-2	encontramos	encontramos	V	1	
-3	agusto	agusto	P	1	
-4	en	en	P	1	
-5	el	el	N	1	
-6	Hotel	hotel	N	1	
-7	y	y	A	1	
-8	el	el	G	1	
-9	trato	trato	N	1	
-10	hacia	hacia	N	1	
-11	nosotros	nosotros	N	1	
-12	es	es	V	1	
-13	de	de	P	1	
-14	agradecer	agradecer	N	1	
-15	.	.	O	1	
+1	Nos	Nos	R	1	O
+2	encontramos	encontramos	V	1	O
+3	agusto	agusto	P	1	O
+4	en	en	P	1	O
+5	el	el	N	1	O
+6	Hotel	hotel	N	1	O
+7	y	y	A	1	O
+8	el	el	G	1	O
+9	trato	trato	N	1	O
+10	hacia	hacia	N	1	O
+11	nosotros	nosotros	N	1	O
+12	es	es	V	1	O
+13	de	de	P	1	O
+14	agradecer	agradecer	N	1	O
+15	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	es	es	N	1	
-4	muy	muy	G	1	
-5	amable	amable	G	1	
-6	y	y	G	1	
-7	atento	atento	P	1	
-8	con	con	G	1	
-9	los	los	N	1	
-10	clientes	clientes	N	1	
-11	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	es	es	N	1	O
+4	muy	muy	G	1	O
+5	amable	amable	G	1	O
+6	y	y	G	1	O
+7	atento	atento	P	1	O
+8	con	con	G	1	O
+9	los	los	N	1	O
+10	clientes	clientes	N	1	O
+11	.	.	O	1	O
 
-1	Sobre	Sobre	R	1	
-2	todo	todo	N	1	
-3	educado	educado	N	1	
-4	.	.	O	1	
+1	Sobre	Sobre	R	1	O
+2	todo	todo	N	1	O
+3	educado	educado	N	1	O
+4	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	se	se	N	1	
-4	lo	lo	N	1	
-5	recomendamos	recomendamos	V	1	
-6	a	a	D	1	
-7	todas	todas	N	1	
-8	las	las	V	1	
-9	personas	persona	N	1	
-10	que	que	V	1	
-11	les	les	O	1	
-12	gusta	gusta	O	1	
-13	estar	estar	O	1	
-14	bien	bien	O	1	
-15	atendidas	atendidas	O	1	
-16	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	se	se	N	1	O
+4	lo	lo	N	1	O
+5	recomendamos	recomendamos	V	1	O
+6	a	a	D	1	O
+7	todas	todas	N	1	O
+8	las	las	V	1	O
+9	personas	persona	N	1	O
+10	que	que	V	1	O
+11	les	les	O	1	O
+12	gusta	gusta	O	1	O
+13	estar	estar	O	1	O
+14	bien	bien	O	1	O
+15	atendidas	atendidas	O	1	O
+16	.	.	O	1	O
 

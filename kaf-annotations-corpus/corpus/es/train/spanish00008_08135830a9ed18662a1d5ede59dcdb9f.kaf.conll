@@ -1,136 +1,141 @@
-1	Ubicación	Ubicación	R	1	
-2	,	,	O	1	
-3	ubicación	ubicación	N	1	
-4	,	,	O	1	
-5	ubicación	ubicación	G	1	
+1	Ubicación	Ubicación	R	1	O
+2	,	,	O	1	O
+3	ubicación	ubicación	N	1	O
+4	,	,	O	1	O
+5	ubicación	ubicación	G	1	O
 
-1	Gran	Gran	R	1	
-2	valía	valía	O	1	
-3	de	de	O	1	
-4	este	este	O	1	
-5	hotel	hotel	N	1	
-6	es	es	N	1	
-7	sin	sin	V	1	
-8	duda	duda	N	1	
-9	su	su	N	1	
-10	ubicación	ubicación	N	1	
-11	,	,	O	1	
-12	al	al	G	1	
-13	lado	lado	N	1	
-14	de	de	P	1	
-15	la	la	D	1	
-16	Plaza_Dam	Plaza_Dam	R	1	ne=Location
-17	,	,	O	1	
-18	de	de	O	1	
-19	la_casa_de_Ana_Frank	la_casa_de_Ana_Frank	R	1	ne=Attraction
-20	,	,	O	1	
-21	10min	10min	O	1	
-22	caminando	caminando	O	1	
-23	de	de	P	1	
-24	la	la	G	1	
-25	estación	estación	N	1	
-26	central	central	N	1	
-27	.	.	O	1	
+1	Gran	Gran	R	1	O
+2	valía	valía	O	1	O
+3	de	de	O	1	O
+4	este	este	O	1	O
+5	hotel	hotel	N	1	O
+6	es	es	N	1	O
+7	sin	sin	V	1	O
+8	duda	duda	N	1	O
+9	su	su	N	1	O
+10	ubicación	ubicación	N	1	O
+11	,	,	O	1	O
+12	al	al	G	1	O
+13	lado	lado	N	1	O
+14	de	de	P	1	O
+15	la	la	D	1	O
+16	Plaza	Plaza	R	1	I-Location
+17	Dam	Dam	R	1	I-Location
+18	,	,	O	1	O
+19	de	de	O	1	O
+20	la	la	O	1	I-Attraction
+21	casa	casa	O	1	I-Attraction
+22	de	de	O	1	I-Attraction
+23	Ana	Ana	R	1	I-Attraction
+24	Frank	Frank	R	1	I-Attraction
+25	,	,	O	1	O
+26	10min	10min	O	1	O
+27	caminando	caminando	O	1	O
+28	de	de	P	1	O
+29	la	la	G	1	O
+30	estación	estación	N	1	O
+31	central	central	N	1	O
+32	.	.	O	1	O
 
-1	La	La	R	1	
-2	habitación	habitación	N	1	
-3	limpia	limpia	N	1	
-4	,	,	O	1	
-5	dimensiones	dimensiones	V	1	
-6	justas	justas	A	1	
-7	para	para	G	1	
-8	tres	tres	N	1	
-9	personas	persona	N	1	
-10	.	.	O	1	
+1	La	La	R	1	O
+2	habitación	habitación	N	1	O
+3	limpia	limpia	N	1	O
+4	,	,	O	1	O
+5	dimensiones	dimensiones	V	1	O
+6	justas	justas	A	1	O
+7	para	para	G	1	O
+8	tres	tres	N	1	O
+9	personas	persona	N	1	O
+10	.	.	O	1	O
 
-1	El	El	R	1	
-2	bano	bano	N	1	
-3	reducido	reducido	N	1	
-4	,	,	O	1	
-5	lo	lo	G	1	
-6	justo	justo	G	1	
-7	para	para	N	1	
-8	ducharse	ducharse	N	1	
-9	.	.	O	1	
+1	El	El	R	1	O
+2	bano	bano	N	1	O
+3	reducido	reducido	N	1	O
+4	,	,	O	1	O
+5	lo	lo	G	1	O
+6	justo	justo	G	1	O
+7	para	para	N	1	O
+8	ducharse	ducharse	N	1	O
+9	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	escaleras	escaleras	O	1	
-3	de	de	O	1	
-4	la	la	O	1	
-5	recepción	recepción	N	1	
-6	son	son	N	1	
-7	imposibles	imposibles	V	1	
-8	para	para	N	1	
-9	personas	persona	N	1	
-10	mayores	mayores	N	1	
-11	o	o	A	1	
-12	con	con	A	1	
-13	movilidad	movilidad	G	1	
-14	reducida	reducida	N	1	
-15	,	,	O	1	
-16	digamos	digamos	N	1	
-17	que	que	V	1	
-18	son	son	N	1	
-19	las	las	N	1	
-20	típicas	típicas	V	1	
-21	escaleras	escaleras	N	1	
-22	de	de	P	1	
-23	Holanda	Holanda	R	1	ne=Location
-24	:	:	O	1	
-25	estrechas	estrechas	V	1	
-26	e	e	V	1	
-27	inclinadas	inclinadas	N	1	
-28	.	.	O	1	
+1	Las	Las	R	1	O
+2	escaleras	escaleras	O	1	O
+3	de	de	O	1	O
+4	la	la	O	1	O
+5	recepción	recepción	N	1	O
+6	son	son	N	1	O
+7	imposibles	imposibles	V	1	O
+8	para	para	N	1	O
+9	personas	persona	N	1	O
+10	mayores	mayores	N	1	O
+11	o	o	A	1	O
+12	con	con	A	1	O
+13	movilidad	movilidad	G	1	O
+14	reducida	reducida	N	1	O
+15	,	,	O	1	O
+16	digamos	digamos	N	1	O
+17	que	que	V	1	O
+18	son	son	N	1	O
+19	las	las	N	1	O
+20	típicas	típicas	V	1	O
+21	escaleras	escaleras	N	1	O
+22	de	de	P	1	O
+23	Holanda	Holanda	R	1	I-Location
+24	:	:	O	1	O
+25	estrechas	estrechas	V	1	O
+26	e	e	V	1	O
+27	inclinadas	inclinadas	N	1	O
+28	.	.	O	1	O
 
-1	Por	Por	R	1	
-2	el	el	N	1	
-3	precio	precio	N	1	
-4	de	de	O	1	
-5	la	la	O	1	
-6	habitación	habitación	O	1	
-7	es	es	O	1	
-8	justo	justo	O	1	
-9	el	el	O	1	
-10	servicio	servicio	O	1	
-11	recibido	recibido	O	1	
-12	,	,	O	1	
-13	ya	you	Q	1	
-14	que	que	V	1	
-15	el	el	N	1	
-16	hospedaje	hospedaje	N	1	
-17	en	en	P	1	
-18	Amsterdam	Amsterdam	R	1	ne=Location
-19	es	es	N	1	
-20	en	en	P	1	
-21	general	general	G	1	
-22	bastante	bastante	N	1	
-23	caro	caro	N	1	
-24	en	en	P	1	
-25	comparación	comparación	V	1	
-26	a	a	D	1	
-27	otras	otras	N	1	
-28	ciudades	ciudades	N	1	
-29	europeas	europeas	N	1	
-30	.	.	O	1	
+1	Por	Por	R	1	O
+2	el	el	N	1	O
+3	precio	precio	N	1	O
+4	de	de	O	1	O
+5	la	la	O	1	O
+6	habitación	habitación	O	1	O
+7	es	es	O	1	O
+8	justo	justo	O	1	O
+9	el	el	O	1	O
+10	servicio	servicio	O	1	O
+11	recibido	recibido	O	1	O
+12	,	,	O	1	O
+13	ya	you	Q	1	O
+14	que	que	V	1	O
+15	el	el	N	1	O
+16	hospedaje	hospedaje	N	1	O
+17	en	en	P	1	O
+18	Amsterdam	Amsterdam	R	1	I-Location
+19	es	es	N	1	O
+20	en	en	P	1	O
+21	general	general	G	1	O
+22	bastante	bastante	N	1	O
+23	caro	caro	N	1	O
+24	en	en	P	1	O
+25	comparación	comparación	V	1	O
+26	a	a	D	1	O
+27	otras	otras	N	1	O
+28	ciudades	ciudades	N	1	O
+29	europeas	europeas	N	1	O
+30	.	.	O	1	O
 
-1	Totalmente	Totalmente	R	1	
-2	recomendado	recomendado	N	1	
-3	para	para	N	1	
-4	un	un	G	1	
-5	viaje	viaje	N	1	
-6	de	de	P	1	
-7	fin	fin	O	1	
-8	de	de	O	1	
-9	semana	semana	O	1	
-10	con	con	O	1	
-11	pareja	pareja	O	1	
-12	o	o	O	1	
-13	amigos	amigos	O	1	
-14	,	,	O	1	
-15	sin	sin	N	1	
-16	llevar	llevar	N	1	
-17	maletas	maletas	N	1	
-18	de	de	P	1	
-19	23Kg	23Kg	R	1	
-20	.	.	O	1	
+1	Totalmente	Totalmente	R	1	O
+2	recomendado	recomendado	N	1	O
+3	para	para	N	1	O
+4	un	un	G	1	O
+5	viaje	viaje	N	1	O
+6	de	de	P	1	O
+7	fin	fin	O	1	O
+8	de	de	O	1	O
+9	semana	semana	O	1	O
+10	con	con	O	1	O
+11	pareja	pareja	O	1	O
+12	o	o	O	1	O
+13	amigos	amigos	O	1	O
+14	,	,	O	1	O
+15	sin	sin	N	1	O
+16	llevar	llevar	N	1	O
+17	maletas	maletas	N	1	O
+18	de	de	P	1	O
+19	23Kg	23Kg	R	1	O
+20	.	.	O	1	O
 

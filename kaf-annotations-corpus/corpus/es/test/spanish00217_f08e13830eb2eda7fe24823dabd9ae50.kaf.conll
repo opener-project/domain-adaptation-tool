@@ -1,71 +1,71 @@
-1	Bueno	Bueno	R	1	
+1	Bueno	Bueno	R	1	O
 
-1	quede	quede	V	1	
-2	impresinado	impresinado	A	1	
-3	por	por	G	1	
-4	este	este	N	1	
-5	hotel	hotel	N	1	
-6	,	,	O	1	
-7	las	las	O	1	
-8	habitaciones	habitaciones	N	1	
-9	tienen	tienen	V	1	
-10	excelente	excelente	G	1	
-11	confor	confor	N	1	
-12	,	,	O	1	
-13	buen	buen	N	1	
-14	aire	aire	N	1	
-15	,	,	O	1	
-16	me	me	Q	1	
-17	senti	senti	V	1	
-18	como	como	N	1	
-19	en	en	P	1	
-20	mi	mi	N	1	
-21	casa	casa	N	1	
-22	,	,	O	1	
-23	porque	porque	N	1	
-24	no	no	D	1	
-25	te	te	N	1	
-26	ponen	ponen	A	1	
-27	brasaletes	brasaletes	V	1	
-28	,	,	O	1	
-29	como	como	N	1	
-30	lo	lo	O	1	
-31	hacen	hacen	G	1	
-32	otros	otros	N	1	
-33	hoteles	hoteles	N	1	
-34	,	,	O	1	
-35	hay	hay	V	1	
-36	diversos	diversos	N	1	
-37	restaurantes	restaurantes	V	1	
-38	,	,	O	1	
-39	la	la	D	1	
-40	piscina	piscina	N	1	
-41	grande	grande	N	1	
-42	y	y	G	1	
-43	muy	muy	G	1	
-44	segura	segura	N	1	
-45	,	,	O	1	
-46	me	me	Q	1	
-47	gusto	gusto	V	1	
-48	el	el	N	1	
-49	trato	trato	N	1	
-50	,	,	O	1	
-51	deso	deso	O	1	
-52	felicitar	felicitar	O	1	
-53	a	a	D	1	
-54	los	los	N	1	
-55	hombres	hombres	N	1	
-56	y	y	G	1	
-57	mujeres	mujeres	N	1	
-58	que	que	V	1	
-59	trabajan	trabajan	N	1	
-60	en	en	P	1	
-61	ese	ese	G	1	
-62	hotel	hotel	N	1	
-63	,	,	O	1	
-64	hacen	hacen	N	1	
-65	un	un	G	1	
-66	buen	buen	N	1	
-67	trabajo	trabajo	N	1	
-68	,	,	O	1	
+1	quede	quede	V	1	O
+2	impresinado	impresinado	A	1	O
+3	por	por	G	1	O
+4	este	este	N	1	O
+5	hotel	hotel	N	1	O
+6	,	,	O	1	O
+7	las	las	O	1	O
+8	habitaciones	habitaciones	N	1	O
+9	tienen	tienen	V	1	O
+10	excelente	excelente	G	1	O
+11	confor	confor	N	1	O
+12	,	,	O	1	O
+13	buen	buen	N	1	O
+14	aire	aire	N	1	O
+15	,	,	O	1	O
+16	me	me	Q	1	O
+17	senti	senti	V	1	O
+18	como	como	N	1	O
+19	en	en	P	1	O
+20	mi	mi	N	1	O
+21	casa	casa	N	1	O
+22	,	,	O	1	O
+23	porque	porque	N	1	O
+24	no	no	D	1	O
+25	te	te	N	1	O
+26	ponen	ponen	A	1	O
+27	brasaletes	brasaletes	V	1	O
+28	,	,	O	1	O
+29	como	como	N	1	O
+30	lo	lo	O	1	O
+31	hacen	hacen	G	1	O
+32	otros	otros	N	1	O
+33	hoteles	hoteles	N	1	O
+34	,	,	O	1	O
+35	hay	hay	V	1	O
+36	diversos	diversos	N	1	O
+37	restaurantes	restaurantes	V	1	O
+38	,	,	O	1	O
+39	la	la	D	1	O
+40	piscina	piscina	N	1	O
+41	grande	grande	N	1	O
+42	y	y	G	1	O
+43	muy	muy	G	1	O
+44	segura	segura	N	1	O
+45	,	,	O	1	O
+46	me	me	Q	1	O
+47	gusto	gusto	V	1	O
+48	el	el	N	1	O
+49	trato	trato	N	1	O
+50	,	,	O	1	O
+51	deso	deso	O	1	O
+52	felicitar	felicitar	O	1	O
+53	a	a	D	1	O
+54	los	los	N	1	O
+55	hombres	hombres	N	1	O
+56	y	y	G	1	O
+57	mujeres	mujeres	N	1	O
+58	que	que	V	1	O
+59	trabajan	trabajan	N	1	O
+60	en	en	P	1	O
+61	ese	ese	G	1	O
+62	hotel	hotel	N	1	O
+63	,	,	O	1	O
+64	hacen	hacen	N	1	O
+65	un	un	G	1	O
+66	buen	buen	N	1	O
+67	trabajo	trabajo	N	1	O
+68	,	,	O	1	O
 

@@ -1,122 +1,123 @@
-1	Bonito	Bonito	R	1	
-2	,	,	O	1	
-3	atencion	atencion	O	1	
-4	de	de	O	1	
-5	lujo	lujo	O	1	
-6	y	y	G	1	
-7	desayunos	desayunos	N	1	
-8	deliciosos	deliciosos	V	1	
-9	!	!	O	1	
+1	Bonito	Bonito	R	1	O
+2	,	,	O	1	O
+3	atencion	atencion	O	1	O
+4	de	de	O	1	O
+5	lujo	lujo	O	1	O
+6	y	y	G	1	O
+7	desayunos	desayunos	N	1	O
+8	deliciosos	deliciosos	V	1	O
+9	!	!	O	1	O
 
-1	He	he	Q	1	
-2	tenido	tenido	O	1	
-3	la	la	O	1	
-4	oportunidad	oportunidad	O	1	
-5	de	de	O	1	
-6	ir	ir	O	1	
-7	a	a	D	1	
-8	este	este	N	1	
-9	hotel	hotel	N	1	
-10	en	en	P	1	
-11	varias	varias	N	1	
-12	ocasiones	ocasiones	N	1	
-13	,	,	O	1	
-14	y	y	A	1	
-15	es	es	V	1	
-16	desde	desde	G	1	
-17	luego	luego	N	1	
-18	el	el	N	1	
-19	unico	unico	G	1	
-20	hotel	hotel	N	1	
-21	de	de	P	1	
-22	Sevilla	Sevilla	R	1	ne=Hotel
-23	que	que	N	1	
-24	considero	considero	N	1	
-25	.	.	O	1	
+1	He	he	Q	1	O
+2	tenido	tenido	O	1	O
+3	la	la	O	1	O
+4	oportunidad	oportunidad	O	1	O
+5	de	de	O	1	O
+6	ir	ir	O	1	O
+7	a	a	D	1	O
+8	este	este	N	1	O
+9	hotel	hotel	N	1	O
+10	en	en	P	1	O
+11	varias	varias	N	1	O
+12	ocasiones	ocasiones	N	1	O
+13	,	,	O	1	O
+14	y	y	A	1	O
+15	es	es	V	1	O
+16	desde	desde	G	1	O
+17	luego	luego	N	1	O
+18	el	el	N	1	O
+19	unico	unico	G	1	O
+20	hotel	hotel	N	1	O
+21	de	de	P	1	O
+22	Sevilla	Sevilla	R	1	I-Hotel
+23	que	que	N	1	O
+24	considero	considero	N	1	O
+25	.	.	O	1	O
 
-1	Se	Se	R	1	
-2	encuentra	encuentra	O	1	
-3	justo	justo	O	1	
-4	al	al	G	1	
-5	lado	lado	N	1	
-6	de	de	O	1	
-7	la	la	O	1	
-8	estacion	estacion	O	1	
-9	de	de	O	1	
-10	trenes	trenes	N	1	
-11	,	,	O	1	
-12	y	y	G	1	
-13	en	en	P	1	
-14	frente	frente	G	1	
-15	de	de	P	1	
-16	un	un	G	1	
-17	estupendo	estupendo	N	1	
-18	centro	centro	N	1	
-19	comercial	comercial	G	1	
-20	,	,	O	1	
-21	para	para	G	1	
-22	ir	ir	Q	1	
-23	al	al	G	1	
-24	cine	cine	N	1	
-25	en	en	P	1	
-26	momentos	momentos	O	1	
-27	de	de	O	1	
-28	relax	relax	O	1	
-29	despues	despues	O	1	
-30	de	de	O	1	
-31	haber	haber	O	1	
-32	hecho	hecho	O	1	
-33	turismo	turismo	O	1	
-34	por	por	O	1	
-35	la	la	O	1	
-36	preciosa	preciosa	O	1	
-37	ciudad	ciudad	O	1	
-38	.	.	O	1	
+1	Se	Se	R	1	O
+2	encuentra	encuentra	O	1	O
+3	justo	justo	O	1	O
+4	al	al	G	1	O
+5	lado	lado	N	1	O
+6	de	de	O	1	O
+7	la	la	O	1	O
+8	estacion	estacion	O	1	O
+9	de	de	O	1	O
+10	trenes	trenes	N	1	O
+11	,	,	O	1	O
+12	y	y	G	1	O
+13	en	en	P	1	O
+14	frente	frente	G	1	O
+15	de	de	P	1	O
+16	un	un	G	1	O
+17	estupendo	estupendo	N	1	O
+18	centro	centro	N	1	O
+19	comercial	comercial	G	1	O
+20	,	,	O	1	O
+21	para	para	G	1	O
+22	ir	ir	Q	1	O
+23	al	al	G	1	O
+24	cine	cine	N	1	O
+25	en	en	P	1	O
+26	momentos	momentos	O	1	O
+27	de	de	O	1	O
+28	relax	relax	O	1	O
+29	despues	despues	O	1	O
+30	de	de	O	1	O
+31	haber	haber	O	1	O
+32	hecho	hecho	O	1	O
+33	turismo	turismo	O	1	O
+34	por	por	O	1	O
+35	la	la	O	1	O
+36	preciosa	preciosa	O	1	O
+37	ciudad	ciudad	O	1	O
+38	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	es	es	V	1	
-4	una	una	G	1	
-5	autentica	autentica	N	1	
-6	preciosidad	preciosidad	N	1	
-7	,	,	O	1	
-8	comfort	comfort	N	1	
-9	y	y	G	1	
-10	atencion	atencion	N	1	
-11	al	al	G	1	
-12	100_%	100_%	R	1	ne=Percent
-13	y	y	G	1	
-14	su	su	N	1	
-15	precio	precio	N	1	
-16	se	se	N	1	
-17	adecua	adecua	N	1	
-18	a	a	D	1	
-19	lo	lo	G	1	
-20	que	que	G	1	
-21	ofrecen	ofrecen	N	1	
-22	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	es	es	V	1	O
+4	una	una	G	1	O
+5	autentica	autentica	N	1	O
+6	preciosidad	preciosidad	N	1	O
+7	,	,	O	1	O
+8	comfort	comfort	N	1	O
+9	y	y	G	1	O
+10	atencion	atencion	N	1	O
+11	al	al	G	1	O
+12	100	100	O	1	I-Percent
+13	%	%	N	1	I-Percent
+14	y	y	G	1	O
+15	su	su	N	1	O
+16	precio	precio	N	1	O
+17	se	se	N	1	O
+18	adecua	adecua	N	1	O
+19	a	a	D	1	O
+20	lo	lo	G	1	O
+21	que	que	G	1	O
+22	ofrecen	ofrecen	N	1	O
+23	.	.	O	1	O
 
-1	Como	Como	R	1	
-2	detalle	detalle	N	1	
-3	mio	mio	N	1	
-4	personal	personal	G	1	
-5	,	,	O	1	
-6	me	me	Q	1	
-7	enloquecen	enloquecen	G	1	
-8	los	los	N	1	
-9	desayunos	desayunos	N	1	
-10	del	del	G	1	
-11	hotel	hotel	N	1	
-12	,	,	O	1	
-13	hacen	hacen	N	1	
-14	los	los	N	1	
-15	croissants	croissant	N	1	
-16	mas	mama	N	1	
-17	tiernos	tiernos	N	1	
-18	y	y	G	1	
-19	ricos	ricos	N	1	
-20	que	que	V	1	
-21	he	he	Q	1	
-22	probado	probado	A	1	
-23	.	.	O	1	
+1	Como	Como	R	1	O
+2	detalle	detalle	N	1	O
+3	mio	mio	N	1	O
+4	personal	personal	G	1	O
+5	,	,	O	1	O
+6	me	me	Q	1	O
+7	enloquecen	enloquecen	G	1	O
+8	los	los	N	1	O
+9	desayunos	desayunos	N	1	O
+10	del	del	G	1	O
+11	hotel	hotel	N	1	O
+12	,	,	O	1	O
+13	hacen	hacen	N	1	O
+14	los	los	N	1	O
+15	croissants	croissant	N	1	O
+16	mas	mama	N	1	O
+17	tiernos	tiernos	N	1	O
+18	y	y	G	1	O
+19	ricos	ricos	N	1	O
+20	que	que	V	1	O
+21	he	he	Q	1	O
+22	probado	probado	A	1	O
+23	.	.	O	1	O
 

@@ -1,108 +1,117 @@
-1	Volveré	Volveré	R	1	
-2	de	de	O	1	
-3	nuevo	nuevo	O	1	
-4	cuando	cuando	O	1	
-5	vaya	vaya	O	1	
-6	a	a	D	1	
-7	Sevilla	Sevilla	R	1	ne=Location
+1	Volveré	Volveré	R	1	O
+2	de	de	O	1	O
+3	nuevo	nuevo	O	1	O
+4	cuando	cuando	O	1	O
+5	vaya	vaya	O	1	O
+6	a	a	D	1	O
+7	Sevilla	Sevilla	R	1	I-Location
 
-1	Hotel	Hotel	R	1	
-2	cercano	cercano	N	1	
-3	a	a	D	1	
-4	la_estación_del_AVE	la_estación_del_AVE	R	1	ne=POI
-5	,	,	O	1	
-6	en	en	V	1	
-7	media	medium	N	1	
-8	hora	hora	N	1	
-9	andando	andando	C	1	
-10	estás	estás	N	1	
-11	en	en	P	1	
-12	el_Parque_de_Maria_Luisa	el_Parque_de_Maria_Luisa	R	1	ne=Attraction
-13	/	/	R	1	
-14	Plaza_de_España	Plaza_de_España	R	1	ne=Location
-15	o	o	A	1	
-16	la	la	D	1	
-17	Catedral	Catedral	R	1	
-18	.	.	O	1	
+1	Hotel	Hotel	R	1	O
+2	cercano	cercano	N	1	O
+3	a	a	D	1	O
+4	la	la	D	1	I-POI
+5	estación	estación	N	1	I-POI
+6	del	del	O	1	I-POI
+7	AVE	AVE	O	1	I-POI
+8	,	,	O	1	O
+9	en	en	V	1	O
+10	media	medium	N	1	O
+11	hora	hora	N	1	O
+12	andando	andando	C	1	O
+13	estás	estás	N	1	O
+14	en	en	P	1	O
+15	el	el	N	1	I-Attraction
+16	Parque	Parque	R	1	I-Attraction
+17	de	de	P	1	I-Attraction
+18	Maria	Maria	R	1	I-Attraction
+19	Luisa	Luisa	R	1	I-Attraction
+20	/	/	R	1	O
+21	Plaza	Plaza	R	1	I-Location
+22	de	de	P	1	I-Location
+23	España	España	R	1	I-Location
+24	o	o	A	1	O
+25	la	la	D	1	O
+26	Catedral	Catedral	R	1	O
+27	.	.	O	1	O
 
-1	Tiene	Tiene	R	1	
-2	piscina	piscina	N	1	
-3	exterior	exterior	N	1	
-4	y	y	G	1	
-5	solarium	solarium	N	1	
-6	,	,	O	1	
-7	debido	debido	N	1	
-8	al	al	G	1	
-9	buen	buen	N	1	
-10	tiempo	tiempo	N	1	
-11	que	que	G	1	
-12	hizo	hizo	N	1	
-13	en	en	P	1	
-14	octubre	octubre	R	1	ne=Date
-15	pude	pude	N	1	
-16	disfrutar	disfrutar	N	1	
-17	de	de	P	1	
-18	un	un	G	1	
-19	baño	baño	N	1	
-20	y	y	G	1	
-21	de	de	O	1	
-22	los	los	O	1	
-23	rayos	rayos	O	1	
-24	del	del	O	1	
-25	sol	sol	N	1	
-26	.	.	O	1	
+1	Tiene	Tiene	R	1	O
+2	piscina	piscina	N	1	O
+3	exterior	exterior	N	1	O
+4	y	y	G	1	O
+5	solarium	solarium	N	1	O
+6	,	,	O	1	O
+7	debido	debido	N	1	O
+8	al	al	G	1	O
+9	buen	buen	N	1	O
+10	tiempo	tiempo	N	1	O
+11	que	que	G	1	O
+12	hizo	hizo	N	1	O
+13	en	en	P	1	O
+14	octubre	octubre	R	1	I-Date
+15	pude	pude	N	1	O
+16	disfrutar	disfrutar	N	1	O
+17	de	de	P	1	O
+18	un	un	G	1	O
+19	baño	baño	N	1	O
+20	y	y	G	1	O
+21	de	de	O	1	O
+22	los	los	O	1	O
+23	rayos	rayos	O	1	O
+24	del	del	O	1	O
+25	sol	sol	N	1	O
+26	.	.	O	1	O
 
-1	En	En	R	1	
-2	el	el	N	1	
-3	interior	interior	G	1	
-4	tiene	tiene	N	1	
-5	un	un	G	1	
-6	jacuzzi	jacuzzi	N	1	
-7	y	y	G	1	
-8	una	una	G	1	
-9	sauna	sauna	N	1	
-10	que	que	N	1	
-11	también	también	G	1	
-12	pude	pude	N	1	
-13	disfrutar	disfrutar	N	1	
-14	,	,	O	1	
-15	la	la	D	1	
-16	zona	zona	N	1	
-17	es	es	V	1	
-18	pequeña	pequeña	N	1	
-19	pero	pero	P	1	
-20	no	no	D	1	
-21	parecía	parecía	N	1	
-22	que	que	V	1	
-23	fuese	fuese	G	1	
-24	mucha	mucha	G	1	
-25	gente	gente	G	1	
-26	por	por	G	1	
-27	lo	lo	G	1	
-28	que	que	G	1	
-29	la	la	G	1	
-30	mayor	mayor	N	1	
-31	parte	parte	N	1	
-32	del	del	O	1	
-33	tiempo	tiempo	O	1	
-34	estuve	estuve	O	1	
-35	sólo	sólo	O	1	
-36	.	.	O	1	
+1	En	En	R	1	O
+2	el	el	N	1	O
+3	interior	interior	G	1	O
+4	tiene	tiene	N	1	O
+5	un	un	G	1	O
+6	jacuzzi	jacuzzi	N	1	O
+7	y	y	G	1	O
+8	una	una	G	1	O
+9	sauna	sauna	N	1	O
+10	que	que	N	1	O
+11	también	también	G	1	O
+12	pude	pude	N	1	O
+13	disfrutar	disfrutar	N	1	O
+14	,	,	O	1	O
+15	la	la	D	1	O
+16	zona	zona	N	1	O
+17	es	es	V	1	O
+18	pequeña	pequeña	N	1	O
+19	pero	pero	P	1	O
+20	no	no	D	1	O
+21	parecía	parecía	N	1	O
+22	que	que	V	1	O
+23	fuese	fuese	G	1	O
+24	mucha	mucha	G	1	O
+25	gente	gente	G	1	O
+26	por	por	G	1	O
+27	lo	lo	G	1	O
+28	que	que	G	1	O
+29	la	la	G	1	O
+30	mayor	mayor	N	1	O
+31	parte	parte	N	1	O
+32	del	del	O	1	O
+33	tiempo	tiempo	O	1	O
+34	estuve	estuve	O	1	O
+35	sólo	sólo	O	1	O
+36	.	.	O	1	O
 
-1	Tiene	Tiene	R	1	
-2	gimnasio	gimnasio	N	1	
-3	pero	pero	N	1	
-4	no	no	D	1	
-5	lo	lo	N	1	
-6	utilicé	utilicé	N	1	
-7	.	.	O	1	
+1	Tiene	Tiene	R	1	O
+2	gimnasio	gimnasio	N	1	O
+3	pero	pero	N	1	O
+4	no	no	D	1	O
+5	lo	lo	N	1	O
+6	utilicé	utilicé	N	1	O
+7	.	.	O	1	O
 
-1	Personal	personal	G	1	
-2	muy	muy	N	1	
-3	agradable	agradable	G	1	
-4	,	,	O	1	
-5	y	y	G	1	
-6	buen	buen	N	1	
-7	desayuno	desayuno	N	1	
-8	.	.	O	1	
+1	Personal	personal	G	1	O
+2	muy	muy	N	1	O
+3	agradable	agradable	G	1	O
+4	,	,	O	1	O
+5	y	y	G	1	O
+6	buen	buen	N	1	O
+7	desayuno	desayuno	N	1	O
+8	.	.	O	1	O
 

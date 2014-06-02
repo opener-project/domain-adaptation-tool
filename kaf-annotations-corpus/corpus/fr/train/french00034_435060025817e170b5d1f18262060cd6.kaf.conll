@@ -1,136 +1,143 @@
-1	Plus	Plus	G	1	
-2	jamais	jamais	G	1	
+1	Plus	Plus	G	1	O
+2	jamais	jamais	G	1	O
 
-1	camping_l'_estanquet	camping_le_estanquet	R	1	ne=Hotel
-2	2011	2011	R	1	ne=Date
-3	!	!	O	1	
-4	!	!	O	1	
-5	!	!	O	1	
-6	!	!	O	1	
-7	!	!	O	1	
-8	!	!	O	1	
-9	!	!	O	1	
-10	!	!	O	1	
-11	!	!	O	1	
-12	!	!	O	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
-16	!	!	O	1	
-17	!	!	O	1	
-18	!	!	O	1	
-19	!	!	O	1	
+1	camping	camping	V	1	I-Hotel
+2	l'	le	D	1	I-Hotel
+3	estanquet	estanquet	N	1	I-Hotel
+4	2011	2011	R	1	B-Date
+5	!	!	O	1	O
+6	!	!	O	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
+16	!	!	O	1	O
+17	!	!	O	1	O
+18	!	!	O	1	O
+19	!	!	O	1	O
+20	!	!	O	1	O
+21	!	!	O	1	O
 
-1	rien	rien	P	1	
-2	à	à	P	1	
-3	faire	faire	V	1	
-4	dans	dans	P	1	
-5	ce	ce	D	1	
-6	camping	camping	N	1	
-7	qui	qui	P	1	
-8	pourtant	pourtant	G	1	
-9	propose	proposer	V	1	
-10	4	4	D	1	
-11	etoiles	etoiles	N	1	
-12	!	!	O	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
-16	!	!	O	1	
-17	!	!	O	1	
-18	!	!	O	1	
+1	rien	rien	P	1	O
+2	à	à	P	1	O
+3	faire	faire	V	1	O
+4	dans	dans	P	1	O
+5	ce	ce	D	1	O
+6	camping	camping	N	1	O
+7	qui	qui	P	1	O
+8	pourtant	pourtant	G	1	O
+9	propose	proposer	V	1	O
+10	4	4	D	1	O
+11	etoiles	etoiles	N	1	O
+12	!	!	O	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
+16	!	!	O	1	O
+17	!	!	O	1	O
+18	!	!	O	1	O
 
-1	emplacement	emplacement	V	1	
-2	mal	mal	G	1	
-3	conçu	concevoir	V	1	
-4	pour	pour	P	1	
-5	les	le	D	1	
-6	vehicules	vehicules	N	1	
-7	en	en	P	1	
-8	location	location	N	1	
-9	kiwi	kiwi	G	1	
-10	!	!	O	1	
-11	!	!	O	1	
-12	!	!	O	1	
+1	emplacement	emplacement	V	1	O
+2	mal	mal	G	1	O
+3	conçu	concevoir	V	1	O
+4	pour	pour	P	1	O
+5	les	le	D	1	O
+6	vehicules	vehicules	N	1	O
+7	en	en	P	1	O
+8	location	location	N	1	O
+9	kiwi	kiwi	G	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
 
-1	toute	tout	G	1	
-2	un	un	D	1	
-3	coté	coté	N	1	
-4	de	de	P	1	
-5	ma	son	D	1	
-6	voiture	voiture	N	1	
-7	à	à	P	1	
-8	refaire	refaire	V	1	
-9	pour	pour	P	1	
-10	pouvoir	pouvoir	V	1	
-11	entrer	entrer	V	1	
-12	dans	dans	P	1	
-13	2	2	D	1	
-14	m	m	N	1	
-15	de	de	P	1	
-16	large	large	N	1	
-17	!	!	O	1	
-18	!	!	O	1	
-19	!	!	O	1	
+1	toute	tout	G	1	O
+2	un	un	D	1	O
+3	coté	coté	N	1	O
+4	de	de	P	1	O
+5	ma	son	D	1	O
+6	voiture	voiture	N	1	O
+7	à	à	P	1	O
+8	refaire	refaire	V	1	O
+9	pour	pour	P	1	O
+10	pouvoir	pouvoir	V	1	O
+11	entrer	entrer	V	1	O
+12	dans	dans	P	1	O
+13	2	2	D	1	O
+14	m	m	N	1	O
+15	de	de	P	1	O
+16	large	large	N	1	O
+17	!	!	O	1	O
+18	!	!	O	1	O
+19	!	!	O	1	O
 
-1	aucunes	aucun	G	1	
-2	activité	activité	N	1	
-3	à	à	P	1	
-4	proposer	proposer	V	1	
-5	pour	pour	P	1	
-6	des	un	D	1	
-7	adultes	adulte	N	1	
-8	,	,	O	1	
-9	trés	trés	D	1	
-10	mauvais	mauvais	G	1	
-11	accueil	accueil	N	1	
-12	,	,	O	1	
-13	sanitaire	sanitaire	N	1	
-14	à	à	P	1	
-15	revoir	revoir	V	1	
-16	(	(	O	1	
-17	fermer	fermer	V	1	
-18	les	le	D	1	
-19	yeux	oeil	N	1	
-20	le	le	D	1	
-21	pour	pour	P	1	
-22	y	y	Q	1	
-23	entrer	entrer	V	1	
-24	!	!	O	1	
-25	!	!	O	1	
-26	!	!	O	1	
-27	)	)	O	1	
-28	camping	camping	O	1	
-29	à	à	P	1	
-30	l'	le	D	1	
-31	abandon	abandon	N	1	
-32	!	!	O	1	
-33	!	!	O	1	
-34	!	!	O	1	
+1	aucunes	aucun	G	1	O
+2	activité	activité	N	1	O
+3	à	à	P	1	O
+4	proposer	proposer	V	1	O
+5	pour	pour	P	1	O
+6	des	un	D	1	O
+7	adultes	adulte	N	1	O
+8	,	,	O	1	O
+9	trés	trés	D	1	O
+10	mauvais	mauvais	G	1	O
+11	accueil	accueil	N	1	O
+12	,	,	O	1	O
+13	sanitaire	sanitaire	N	1	O
+14	à	à	P	1	O
+15	revoir	revoir	V	1	O
+16	(	(	O	1	O
+17	fermer	fermer	V	1	O
+18	les	le	D	1	O
+19	yeux	oeil	N	1	O
+20	le	le	D	1	O
+21	pour	pour	P	1	O
+22	y	y	Q	1	O
+23	entrer	entrer	V	1	O
+24	!	!	O	1	O
+25	!	!	O	1	O
+26	!	!	O	1	O
+27	)	)	O	1	O
+28	camping	camping	O	1	O
+29	à	à	P	1	O
+30	l'	le	D	1	O
+31	abandon	abandon	N	1	O
+32	!	!	O	1	O
+33	!	!	O	1	O
+34	!	!	O	1	O
 
-1	le	le	D	1	
-2	seul	seul	G	1	
-3	point	point	N	1	
-4	positif	positif	G	1	
-5	le	le	D	1	
-6	club	club	N	1	
-7	enfant	enfant	V	1	
-8	!	!	O	1	
-9	!	!	O	1	
-10	!	!	O	1	
+1	le	le	D	1	O
+2	seul	seul	G	1	O
+3	point	point	N	1	O
+4	positif	positif	G	1	O
+5	le	le	D	1	O
+6	club	club	N	1	O
+7	enfant	enfant	V	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
 
-1	vacances	vacance	N	1	
-2	dans	dans	P	1	
-3	ce	ce	D	1	
-4	camping	camping	N	1	
-5	du_9_au_23_juillet_2011	du_9_au_23_juillet_2011	R	1	ne=Time
-6	!	!	O	1	
-7	!	!	O	1	
-8	!	!	O	1	
+1	vacances	vacance	N	1	O
+2	dans	dans	P	1	O
+3	ce	ce	D	1	O
+4	camping	camping	N	1	O
+5	du	du	P	1	I-Time
+6	9	9	D	1	I-Time
+7	au	au	N	1	I-Time
+8	23	23	G	1	I-Time
+9	juillet	juillet	N	1	I-Time
+10	2011	2011	G	1	I-Time
+11	!	!	O	1	O
+12	!	!	O	1	O
+13	!	!	O	1	O
 
-1	plus	plus	G	1	
-2	jamais	jamais	G	1	
-3	!	!	O	1	
-4	!	!	O	1	
-5	!	!	O	1	
+1	plus	plus	G	1	O
+2	jamais	jamais	G	1	O
+3	!	!	O	1	O
+4	!	!	O	1	O
+5	!	!	O	1	O
 

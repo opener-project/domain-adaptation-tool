@@ -1,52 +1,52 @@
-1	Best	good	G	1	
-2	hotel	hotel	N	1	
-3	we	we	Q	1	
-4	have	have	V	1	
-5	been	be	V	1	
-6	to	to	P	1	
-7	!	!	O	1	
+1	Best	good	G	1	O
+2	hotel	hotel	N	1	O
+3	we	we	Q	1	O
+4	have	have	V	1	O
+5	been	be	V	1	O
+6	to	to	P	1	O
+7	!	!	O	1	O
 
-1	This	this	D	1	
-2	hotel	hotel	N	1	
-3	has	have	V	1	
-4	everything	everything	N	1	
-5	!	!	O	1	
+1	This	this	D	1	O
+2	hotel	hotel	N	1	O
+3	has	have	V	1	O
+4	everything	everything	N	1	O
+5	!	!	O	1	O
 
-1	Everything	Everything	R	1	
-2	is	be	V	1	
-3	very	very	A	1	
-4	clean	clean	G	1	
-5	and	and	C	1	
-6	well	well	A	1	
-7	looked	look	V	1	
-8	after	after	A	1	
-9	,	,	O	1	
-10	Staff	staff	N	1	
-11	are	be	V	1	
-12	very	very	A	1	
-13	friendly	friendly	G	1	
-14	and	and	C	1	
-15	helpfull	helpfull	G	1	
-16	,	,	O	1	
-17	lots	lot	N	1	
-18	do	do	V	1	
-19	do	do	V	1	
-20	,	,	O	1	
-21	all	all	D	1	
-22	in	in	P	1	
-23	all	all	D	1	
-24	its	its	Q	1	
-25	an	a	D	1	
-26	excellent	excellent	G	1	
-27	place	place	N	1	
-28	to	to	P	1	
-29	stay	stay	V	1	
-30	,	,	O	1	
-31	we	we	Q	1	
-32	will	will	O	1	
-33	be	be	V	1	
-34	going	go	V	1	
-35	back	back	A	1	
-36	soon	soon	A	1	
-37	!	!	O	1	
+1	Everything	Everything	R	1	O
+2	is	be	V	1	O
+3	very	very	A	1	O
+4	clean	clean	G	1	O
+5	and	and	C	1	O
+6	well	well	A	1	O
+7	looked	look	V	1	O
+8	after	after	A	1	O
+9	,	,	O	1	O
+10	Staff	staff	N	1	O
+11	are	be	V	1	O
+12	very	very	A	1	O
+13	friendly	friendly	G	1	O
+14	and	and	C	1	O
+15	helpfull	helpfull	G	1	O
+16	,	,	O	1	O
+17	lots	lot	N	1	O
+18	do	do	V	1	O
+19	do	do	V	1	O
+20	,	,	O	1	O
+21	all	all	D	1	O
+22	in	in	P	1	O
+23	all	all	D	1	O
+24	its	its	Q	1	O
+25	an	a	D	1	O
+26	excellent	excellent	G	1	O
+27	place	place	N	1	O
+28	to	to	P	1	O
+29	stay	stay	V	1	O
+30	,	,	O	1	O
+31	we	we	Q	1	O
+32	will	will	O	1	O
+33	be	be	V	1	O
+34	going	go	V	1	O
+35	back	back	A	1	O
+36	soon	soon	A	1	O
+37	!	!	O	1	O
 

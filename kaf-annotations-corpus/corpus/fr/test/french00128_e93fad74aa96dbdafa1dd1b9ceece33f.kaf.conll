@@ -1,75 +1,82 @@
-1	Titanic_Beach_Spa_&_Aqua_Park_Hurghada	Titanic_Beach_Spa_&amp;amp;_Aqua_Park_Hurghada	R	1	ne=Hotel
+1	Titanic	Titanic	N	1	I-Hotel
+2	Beach	Beach	N	1	I-Hotel
+3	Spa	Spa	N	1	I-Hotel
+4	&	&amp;amp;	N	1	I-Hotel
+5	Aqua	Aqua	N	1	I-Hotel
+6	Park	Park	N	1	I-Hotel
+7	Hurghada	Hurghada	N	1	I-Hotel
 
-1	moi	moi	P	1	
-2	qui	qui	P	1	
-3	et	et	C	1	
-4	tres	tres	G	1	
-5	difficile	difficile	G	1	
-6	sure	sure	P	1	
-7	touts	touts	G	1	
-8	,	,	O	1	
-9	je	je	Q	1	
-10	puis	puis	C	1	
-11	vous	lui	Q	1	
-12	dire	dire	V	1	
-13	que	que	C	1	
-14	se	se	Q	1	
-15	fut	être	V	1	
-16	une	un	D	1	
-17	surprise	surprise	N	1	
-18	totale	total	G	1	
-19	,	,	O	1	
-20	cette	ce	D	1	
-21	a	avoir	V	1	
-22	dire	dire	V	1	
-23	un	un	D	1	
-24	enchantement	enchantement	N	1	
-25	,	,	O	1	
+1	moi	moi	P	1	O
+2	qui	qui	P	1	O
+3	et	et	C	1	O
+4	tres	tres	G	1	O
+5	difficile	difficile	G	1	O
+6	sure	sure	P	1	O
+7	touts	touts	G	1	O
+8	,	,	O	1	O
+9	je	je	Q	1	O
+10	puis	puis	C	1	O
+11	vous	lui	Q	1	O
+12	dire	dire	V	1	O
+13	que	que	C	1	O
+14	se	se	Q	1	O
+15	fut	être	V	1	O
+16	une	un	D	1	O
+17	surprise	surprise	N	1	O
+18	totale	total	G	1	O
+19	,	,	O	1	O
+20	cette	ce	D	1	O
+21	a	avoir	V	1	O
+22	dire	dire	V	1	O
+23	un	un	D	1	O
+24	enchantement	enchantement	N	1	O
+25	,	,	O	1	O
 
-1	oui	oui	G	1	
-2	,	,	O	1	
-3	le	le	D	1	
-4	top	top	N	1	
-5	des	des	P	1	
-6	top	top	N	1	
-7	.	.	O	1	
+1	oui	oui	G	1	O
+2	,	,	O	1	O
+3	le	le	D	1	O
+4	top	top	N	1	O
+5	des	des	P	1	O
+6	top	top	N	1	O
+7	.	.	O	1	O
 
-1	ille	ille	P	1	
-2	faut	faillir	V	1	
-3	i	i	V	1	
-4	aller	aller	V	1	
-5	et	et	C	1	
-6	vous	lui	Q	1	
-7	verais	verais	N	1	
-8	,	,	O	1	
+1	ille	ille	P	1	O
+2	faut	faillir	V	1	O
+3	i	i	V	1	O
+4	aller	aller	V	1	O
+5	et	et	C	1	O
+6	vous	lui	Q	1	O
+7	verais	verais	N	1	O
+8	,	,	O	1	O
 
-1	jai	jai	N	1	
-2	ete	ete	G	1	
-3	surprise	surprendre	V	1	
-4	par	par	P	1	
-5	le	le	D	1	
-6	touts	tout	N	1	
-7	,	,	O	1	
-8	le	le	D	1	
-9	personnel	personnel	N	1	
-10	,	,	O	1	
-11	le	le	D	1	
-12	manger	manger	N	1	
-13	,	,	O	1	
-14	les	le	D	1	
-15	animation	animation	N	1	
-16	,	,	O	1	
-17	le	le	D	1	
-18	manger	manger	N	1	
-19	,	,	O	1	
-20	touts	touts	G	1	
-21	,	,	O	1	
+1	jai	jai	N	1	O
+2	ete	ete	G	1	O
+3	surprise	surprendre	V	1	O
+4	par	par	P	1	O
+5	le	le	D	1	O
+6	touts	tout	N	1	O
+7	,	,	O	1	O
+8	le	le	D	1	O
+9	personnel	personnel	N	1	O
+10	,	,	O	1	O
+11	le	le	D	1	O
+12	manger	manger	N	1	O
+13	,	,	O	1	O
+14	les	le	D	1	O
+15	animation	animation	N	1	O
+16	,	,	O	1	O
+17	le	le	D	1	O
+18	manger	manger	N	1	O
+19	,	,	O	1	O
+20	touts	touts	G	1	O
+21	,	,	O	1	O
 
-1	MERCI	merci	N	1	
-2	HOTEL_TITANIC	HOTEL_TITANIC	R	1	ne=Hotel
-3	,	,	O	1	
-4	MERCI	merci	N	1	
-5	BEAUCOUP	BEAUCOUP	N	1	
-6	POUR	pour	N	1	
-7	TOUTS	tout	N	1	
+1	MERCI	merci	N	1	O
+2	HOTEL	HOTEL	N	1	I-Hotel
+3	TITANIC	TITANIC	N	1	I-Hotel
+4	,	,	O	1	O
+5	MERCI	merci	N	1	O
+6	BEAUCOUP	BEAUCOUP	N	1	O
+7	POUR	pour	N	1	O
+8	TOUTS	tout	N	1	O
 

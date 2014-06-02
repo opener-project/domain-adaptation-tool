@@ -1,137 +1,141 @@
-1	Good	good	G	1	
-2	quality	quality	N	1	
-3	for	for	P	1	
-4	price	price	N	1	
+1	Good	good	G	1	O
+2	quality	quality	N	1	O
+3	for	for	P	1	O
+4	price	price	N	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	has	have	V	1	
-4	a	a	D	1	
-5	good	good	G	1	
-6	position	position	N	1	
-7	close	close	N	1	
-8	to	to	P	1	
-9	the	the	D	1	
-10	city	city	N	1	
-11	center	center	N	1	
-12	and	and	C	1	
-13	the	the	D	1	
-14	train	train	N	1	
-15	station	station	N	1	
-16	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	has	have	V	1	O
+4	a	a	D	1	O
+5	good	good	G	1	O
+6	position	position	N	1	O
+7	close	close	N	1	O
+8	to	to	P	1	O
+9	the	the	D	1	O
+10	city	city	N	1	O
+11	center	center	N	1	O
+12	and	and	C	1	O
+13	the	the	D	1	O
+14	train	train	N	1	O
+15	station	station	N	1	O
+16	.	.	O	1	O
 
-1	Quite	quite	A	1	
-2	some	some	D	1	
-3	restaurants	restaurant	N	1	
-4	are	be	V	1	
-5	in	in	P	1	
-6	the	the	D	1	
-7	surrondings	surrondings	N	1	
-8	,	,	O	1	
-9	with	with	P	1	
-10	a	a	D	1	
-11	good	good	G	1	
-12	choice	choice	N	1	
-13	of	of	P	1	
-14	food	food	N	1	
-15	.	.	O	1	
+1	Quite	quite	A	1	O
+2	some	some	D	1	O
+3	restaurants	restaurant	N	1	O
+4	are	be	V	1	O
+5	in	in	P	1	O
+6	the	the	D	1	O
+7	surrondings	surrondings	N	1	O
+8	,	,	O	1	O
+9	with	with	P	1	O
+10	a	a	D	1	O
+11	good	good	G	1	O
+12	choice	choice	N	1	O
+13	of	of	P	1	O
+14	food	food	N	1	O
+15	.	.	O	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	doesn	doesn	N	1	
-4	't	't	A	1	
-5	have	have	V	1	
-6	an	a	D	1	
-7	internal	internal	G	1	
-8	restaurant	restaurant	N	1	
-9	,	,	O	1	
-10	however	however	A	1	
-11	there	there	O	1	
-12	are	be	V	1	
-13	two	two	O	1	
-14	options	option	N	1	
-15	:	:	O	1	
-16	a	a	D	1	
-17	small	small	G	1	
-18	restaurant	restaurant	N	1	
-19	just	just	A	1	
-20	next	next	G	1	
-21	to	to	P	1	
-22	it	it	Q	1	
-23	,	,	O	1	
-24	or	or	C	1	
-25	the_Hallmark_hotel_restaurant	the_Hallmark_hotel_restaurant	R	1	ne=Restaurant
-26	,	,	O	1	
-27	just	just	A	1	
-28	across	across	P	1	
-29	the	the	D	1	
-30	street	street	N	1	
-31	(	(	O	1	
-32	discount	discount	G	1	
-33	applied	apply	V	1	
-34	to	to	P	1	
-35	customers	customer	N	1	
-36	of	of	P	1	
-37	the	the	D	1	
-38	Hallmark_Inn	Hallmark_Inn	R	1	ne=Hotel
-39	)	)	O	1	
-40	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	doesn	doesn	N	1	O
+4	't	't	A	1	O
+5	have	have	V	1	O
+6	an	a	D	1	O
+7	internal	internal	G	1	O
+8	restaurant	restaurant	N	1	O
+9	,	,	O	1	O
+10	however	however	A	1	O
+11	there	there	O	1	O
+12	are	be	V	1	O
+13	two	two	O	1	O
+14	options	option	N	1	O
+15	:	:	O	1	O
+16	a	a	D	1	O
+17	small	small	G	1	O
+18	restaurant	restaurant	N	1	O
+19	just	just	A	1	O
+20	next	next	G	1	O
+21	to	to	P	1	O
+22	it	it	Q	1	O
+23	,	,	O	1	O
+24	or	or	C	1	O
+25	the	the	D	1	I-Restaurant
+26	Hallmark	Hallmark	R	1	I-Restaurant
+27	hotel	hotel	N	1	I-Restaurant
+28	restaurant	restaurant	N	1	I-Restaurant
+29	,	,	O	1	O
+30	just	just	A	1	O
+31	across	across	P	1	O
+32	the	the	D	1	O
+33	street	street	N	1	O
+34	(	(	O	1	O
+35	discount	discount	G	1	O
+36	applied	apply	V	1	O
+37	to	to	P	1	O
+38	customers	customer	N	1	O
+39	of	of	P	1	O
+40	the	the	D	1	O
+41	Hallmark	Hallmark	R	1	I-Hotel
+42	Inn	Inn	R	1	I-Hotel
+43	)	)	O	1	O
+44	.	.	O	1	O
 
-1	Noticeable	Noticeable	R	1	
-2	the	the	D	1	
-3	free	free	G	1	
-4	parking	parking	N	1	
-5	for	for	P	1	
-6	all	all	D	1	
-7	hotel	hotel	N	1	
-8	and	and	C	1	
-9	inn	inn	G	1	
-10	customers	customer	N	1	
-11	.	.	O	1	
+1	Noticeable	Noticeable	R	1	O
+2	the	the	D	1	O
+3	free	free	G	1	O
+4	parking	parking	N	1	O
+5	for	for	P	1	O
+6	all	all	D	1	O
+7	hotel	hotel	N	1	O
+8	and	and	C	1	O
+9	inn	inn	G	1	O
+10	customers	customer	N	1	O
+11	.	.	O	1	O
 
-1	Quality	quality	N	1	
-2	of	of	P	1	
-3	the	the	D	1	
-4	hotel	hotel	N	1	
-5	inside	inside	P	1	
-6	is	be	V	1	
-7	good	good	G	1	
-8	,	,	O	1	
-9	rooms	room	N	1	
-10	are	be	V	1	
-11	simple	simple	G	1	
-12	but	but	C	1	
-13	clean	clean	G	1	
-14	and	and	C	1	
-15	furnished	furnished	G	1	
-16	decently	decently	A	1	
-17	well	well	A	1	
-18	.	.	O	1	
+1	Quality	quality	N	1	O
+2	of	of	P	1	O
+3	the	the	D	1	O
+4	hotel	hotel	N	1	O
+5	inside	inside	P	1	O
+6	is	be	V	1	O
+7	good	good	G	1	O
+8	,	,	O	1	O
+9	rooms	room	N	1	O
+10	are	be	V	1	O
+11	simple	simple	G	1	O
+12	but	but	C	1	O
+13	clean	clean	G	1	O
+14	and	and	C	1	O
+15	furnished	furnished	G	1	O
+16	decently	decently	A	1	O
+17	well	well	A	1	O
+18	.	.	O	1	O
 
-1	Being	be	V	1	
-2	a	a	D	1	
-3	budget	budget	N	1	
-4	hotel	hotel	N	1	
-5	,	,	O	1	
-6	the	the	D	1	
-7	ration	ration	N	1	
-8	between	between	P	1	
-9	costs	cost	N	1	
-10	and	and	C	1	
-11	quality	quality	N	1	
-12	is	be	V	1	
-13	fairly	fairly	A	1	
-14	good	good	G	1	
-15	and	and	C	1	
-16	there	there	O	1	
-17	's	have	V	1	
-18	also	also	A	1	
-19	free	free	G	1	
-20	internet	internet	N	1	
-21	connection	connection	N	1	
-22	(	(	O	1	
-23	WiFi	WiFi	R	1	
-24	only	only	A	1	
-25	)	)	O	1	
-26	.	.	O	1	
+1	Being	be	V	1	O
+2	a	a	D	1	O
+3	budget	budget	N	1	O
+4	hotel	hotel	N	1	O
+5	,	,	O	1	O
+6	the	the	D	1	O
+7	ration	ration	N	1	O
+8	between	between	P	1	O
+9	costs	cost	N	1	O
+10	and	and	C	1	O
+11	quality	quality	N	1	O
+12	is	be	V	1	O
+13	fairly	fairly	A	1	O
+14	good	good	G	1	O
+15	and	and	C	1	O
+16	there	there	O	1	O
+17	's	have	V	1	O
+18	also	also	A	1	O
+19	free	free	G	1	O
+20	internet	internet	N	1	O
+21	connection	connection	N	1	O
+22	(	(	O	1	O
+23	WiFi	WiFi	R	1	O
+24	only	only	A	1	O
+25	)	)	O	1	O
+26	.	.	O	1	O
 

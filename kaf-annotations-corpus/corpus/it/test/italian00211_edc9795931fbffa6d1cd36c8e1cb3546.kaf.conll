@@ -1,49 +1,52 @@
-1	Perfetto	perfetto	N	1	
-2	per	per	P	1	
-3	lavoro	lavoro	N	1	
+1	Perfetto	perfetto	N	1	O
+2	per	per	P	1	O
+3	lavoro	lavoro	N	1	O
 
-1	Da	da	P	1	
-2	tempo	tempo	N	1	
-3	soggiorno	soggiorno	N	1	
-4	spesso	spesso	A	1	
-5	a	a	P	1	
-6	dubai	dubai	R	1	ne=Location
-7	per	per	P	1	
-8	lavoro	lavoro	N	1	
-9	,	,	O	1	
-10	ed	ed	Q	1	
-11	ho	avere	V	1	
-12	provato	provare	V	1	
-13	diversi	diverso	G	1	
-14	hotel.	hotel.	N	1	
-15	four_points_by_sheraton	four_points_by_sheraton	R	1	ne=Hotel
-16	downtown	downtown	A	1	
-17	mi	mi	Q	1	
-18	sembra	sembrare	V	1	
-19	tra	tra	P	1	
-20	i	lo	D	1	
-21	più	piu'	R	1	
-22	conveniente	convenire	V	1	
-23	in	in	P	1	
-24	termini	termine	N	1	
-25	di	di	P	1	
-26	rapporto	rapporto	N	1	
-27	qualità	qualità	G	1	
-28	prezzo	prezzo	N	1	
-29	,	,	O	1	
-30	anche	anche	Q	1	
-31	rispetto	rispetto	N	1	
-32	ai	ai	P	1	
-33	servizi	servizio	N	1	
-34	richiesti	richiesto	G	1	
-35	come	come	A	1	
-36	lavanderia	lavanderia	N	1	
-37	,	,	O	1	
-38	servizio	servizio	N	1	
-39	in	in	P	1	
-40	camera	camera	N	1	
-41	,	,	O	1	
-42	ristoranti	ristorante	N	1	
-43	della	della	P	1	
-44	struttura	struttura	N	1	
+1	Da	da	P	1	O
+2	tempo	tempo	N	1	O
+3	soggiorno	soggiorno	N	1	O
+4	spesso	spesso	A	1	O
+5	a	a	P	1	O
+6	dubai	dubai	R	1	I-Location
+7	per	per	P	1	O
+8	lavoro	lavoro	N	1	O
+9	,	,	O	1	O
+10	ed	ed	Q	1	O
+11	ho	avere	V	1	O
+12	provato	provare	V	1	O
+13	diversi	diverso	G	1	O
+14	hotel.	hotel.	N	1	O
+15	four	four	R	1	I-Hotel
+16	points	points	R	1	I-Hotel
+17	by	by	R	1	I-Hotel
+18	sheraton	sheraton	N	1	I-Hotel
+19	downtown	downtown	A	1	O
+20	mi	mi	Q	1	O
+21	sembra	sembrare	V	1	O
+22	tra	tra	P	1	O
+23	i	lo	D	1	O
+24	più	piu'	R	1	O
+25	conveniente	convenire	V	1	O
+26	in	in	P	1	O
+27	termini	termine	N	1	O
+28	di	di	P	1	O
+29	rapporto	rapporto	N	1	O
+30	qualità	qualità	G	1	O
+31	prezzo	prezzo	N	1	O
+32	,	,	O	1	O
+33	anche	anche	Q	1	O
+34	rispetto	rispetto	N	1	O
+35	ai	ai	P	1	O
+36	servizi	servizio	N	1	O
+37	richiesti	richiesto	G	1	O
+38	come	come	A	1	O
+39	lavanderia	lavanderia	N	1	O
+40	,	,	O	1	O
+41	servizio	servizio	N	1	O
+42	in	in	P	1	O
+43	camera	camera	N	1	O
+44	,	,	O	1	O
+45	ristoranti	ristorante	N	1	O
+46	della	della	P	1	O
+47	struttura	struttura	N	1	O
 

@@ -1,114 +1,114 @@
-1	Totalmemte	Totalmemte	R	1	
-2	recomendable	recomendable	G	1	
-3	aunque	aunque	N	1	
-4	no	no	D	1	
-5	sea	sea	N	1	
-6	centrico	centrico	N	1	
+1	Totalmemte	Totalmemte	R	1	O
+2	recomendable	recomendable	G	1	O
+3	aunque	aunque	N	1	O
+4	no	no	D	1	O
+5	sea	sea	N	1	O
+6	centrico	centrico	N	1	O
 
-1	E	E	A	1	
-2	hotel	hotel	N	1	
-3	tiene	tiene	N	1	
-4	unas	unas	G	1	
-5	instalaciones	instalaciones	N	1	
-6	muy	muy	G	1	
-7	modernas	modernas	N	1	
-8	incluida	incluida	V	1	
-9	piscina	piscina	N	1	
-10	en	en	P	1	
-11	el	el	N	1	
-12	último	último	N	1	
-13	piso	piso	N	1	
-14	,	,	O	1	
-15	de	de	P	1	
-16	nueva	nueva	N	1	
-17	construccion	construccion	N	1	
-18	,	,	O	1	
-19	está	está	N	1	
-20	bien	bien	O	1	
-21	cuidado	cuidado	N	1	
-22	y	y	G	1	
-23	muy	muy	G	1	
-24	limpio	limpio	N	1	
-25	.	.	O	1	
+1	E	E	A	1	O
+2	hotel	hotel	N	1	O
+3	tiene	tiene	N	1	O
+4	unas	unas	G	1	O
+5	instalaciones	instalaciones	N	1	O
+6	muy	muy	G	1	O
+7	modernas	modernas	N	1	O
+8	incluida	incluida	V	1	O
+9	piscina	piscina	N	1	O
+10	en	en	P	1	O
+11	el	el	N	1	O
+12	último	último	N	1	O
+13	piso	piso	N	1	O
+14	,	,	O	1	O
+15	de	de	P	1	O
+16	nueva	nueva	N	1	O
+17	construccion	construccion	N	1	O
+18	,	,	O	1	O
+19	está	está	N	1	O
+20	bien	bien	O	1	O
+21	cuidado	cuidado	N	1	O
+22	y	y	G	1	O
+23	muy	muy	G	1	O
+24	limpio	limpio	N	1	O
+25	.	.	O	1	O
 
-1	A	a	D	1	
-2	un	un	G	1	
-3	par	par	G	1	
-4	de	de	O	1	
-5	minutos	minutos	O	1	
-6	andando	andando	O	1	
-7	(	(	O	1	
-8	al	al	G	1	
-9	lado	lado	N	1	
-10	de	de	P	1	
-11	la	la	D	1	
-12	estación	estación	N	1	
-13	de	de	P	1	
-14	autobuses	autobuses	N	1	
-15	)	)	O	1	
-16	hay	hay	V	1	
-17	un	un	G	1	
-18	Lidl	Lidl	R	1	ne=Attraction
-19	por	por	N	1	
-20	si	si	N	1	
-21	necesita	necesita	G	1	
-22	comprar	comprar	N	1	
-23	algo	algo	A	1	
-24	de	de	O	1	
-25	última	última	O	1	
-26	hora	hora	N	1	
-27	.	.	O	1	
+1	A	a	D	1	O
+2	un	un	G	1	O
+3	par	par	G	1	O
+4	de	de	O	1	O
+5	minutos	minutos	O	1	O
+6	andando	andando	O	1	O
+7	(	(	O	1	O
+8	al	al	G	1	O
+9	lado	lado	N	1	O
+10	de	de	P	1	O
+11	la	la	D	1	O
+12	estación	estación	N	1	O
+13	de	de	P	1	O
+14	autobuses	autobuses	N	1	O
+15	)	)	O	1	O
+16	hay	hay	V	1	O
+17	un	un	G	1	O
+18	Lidl	Lidl	R	1	I-Attraction
+19	por	por	N	1	O
+20	si	si	N	1	O
+21	necesita	necesita	G	1	O
+22	comprar	comprar	N	1	O
+23	algo	algo	A	1	O
+24	de	de	O	1	O
+25	última	última	O	1	O
+26	hora	hora	N	1	O
+27	.	.	O	1	O
 
-1	El	El	R	1	
-2	tranvia	tranvia	N	1	
-3	está	está	N	1	
-4	delante	delante	G	1	
-5	mismo	mismo	N	1	
-6	del	del	N	1	
-7	hotel	hotel	N	1	
-8	y	y	G	1	
-9	la	la	N	1	
-10	estación	estación	N	1	
-11	de	de	P	1	
-12	tren	tren	N	1	
-13	a	a	D	1	
-14	cinco	cinco	N	1	
-15	minutos	minutos	O	1	
-16	andando	andando	O	1	
-17	(	(	O	1	
-18	Hackerbrücke	Hackerbrücke	R	1	ne=POI
-19	)	)	O	1	
+1	El	El	R	1	O
+2	tranvia	tranvia	N	1	O
+3	está	está	N	1	O
+4	delante	delante	G	1	O
+5	mismo	mismo	N	1	O
+6	del	del	N	1	O
+7	hotel	hotel	N	1	O
+8	y	y	G	1	O
+9	la	la	N	1	O
+10	estación	estación	N	1	O
+11	de	de	P	1	O
+12	tren	tren	N	1	O
+13	a	a	D	1	O
+14	cinco	cinco	N	1	O
+15	minutos	minutos	O	1	O
+16	andando	andando	O	1	O
+17	(	(	O	1	O
+18	Hackerbrücke	Hackerbrücke	R	1	I-POI
+19	)	)	O	1	O
 
-1	Muchos	muchos	N	1	
-2	del	del	D	1	
-3	personal	personal	G	1	
-4	de	de	O	1	
-5	recepción	recepción	O	1	
-6	como	como	O	1	
-7	el	el	O	1	
-8	del	del	O	1	
-9	restaurante	restaurante	O	1	
-10	hablan	hablan	O	1	
-11	español	español	O	1	
-12	,	,	O	1	
-13	son	son	N	1	
-14	muy	muy	O	1	
-15	amables	amables	N	1	
-16	y	y	G	1	
-17	siempre	siempre	N	1	
-18	dispuestos	dispuestos	N	1	
-19	a	a	D	1	
-20	ayudarte	ayudarte	N	1	
-21	a	a	D	1	
-22	la	la	N	1	
-23	hora	hora	N	1	
-24	de	de	P	1	
-25	dar	dar	N	1	
-26	consejos	consejos	N	1	
-27	sobre	sobre	V	1	
-28	la	la	D	1	
-29	estancia	estancia	N	1	
-30	en	en	P	1	
-31	Munich	Munich	R	1	ne=Location
-32	.	.	O	1	
+1	Muchos	muchos	N	1	O
+2	del	del	D	1	O
+3	personal	personal	G	1	O
+4	de	de	O	1	O
+5	recepción	recepción	O	1	O
+6	como	como	O	1	O
+7	el	el	O	1	O
+8	del	del	O	1	O
+9	restaurante	restaurante	O	1	O
+10	hablan	hablan	O	1	O
+11	español	español	O	1	O
+12	,	,	O	1	O
+13	son	son	N	1	O
+14	muy	muy	O	1	O
+15	amables	amables	N	1	O
+16	y	y	G	1	O
+17	siempre	siempre	N	1	O
+18	dispuestos	dispuestos	N	1	O
+19	a	a	D	1	O
+20	ayudarte	ayudarte	N	1	O
+21	a	a	D	1	O
+22	la	la	N	1	O
+23	hora	hora	N	1	O
+24	de	de	P	1	O
+25	dar	dar	N	1	O
+26	consejos	consejos	N	1	O
+27	sobre	sobre	V	1	O
+28	la	la	D	1	O
+29	estancia	estancia	N	1	O
+30	en	en	P	1	O
+31	Munich	Munich	R	1	I-Location
+32	.	.	O	1	O
 

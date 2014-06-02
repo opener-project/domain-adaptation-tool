@@ -1,166 +1,167 @@
-1	Surement	Surement	G	1	
-2	pas	pas	G	1	
-3	le	le	D	1	
-4	meilleur	meilleur	G	1	
-5	hôtel	hôtel	N	1	
-6	du	du	D	1	
-7	groupe	groupe	N	1	
-8	Accor	Accor	N	1	
+1	Surement	Surement	G	1	O
+2	pas	pas	G	1	O
+3	le	le	D	1	O
+4	meilleur	meilleur	G	1	O
+5	hôtel	hôtel	N	1	O
+6	du	du	D	1	O
+7	groupe	groupe	N	1	O
+8	Accor	Accor	N	1	O
 
-1	A	A	P	1	
-2	quelques	quelque	D	1	
-3	encablures	encablure	N	1	
-4	(	(	O	1	
-5	50	50	D	1	
-6	metres	metres	N	1	
-7	)	)	O	1	
-8	du	du	P	1	
-9	thantip_villa	thantip_villa	R	1	ne=Hotel
-10	précédemment	précédemment	G	1	
-11	décris	décrire	V	1	
-12	et	et	C	1	
-13	150	150	D	1	
-14	metres	metres	N	1	
-15	du	du	P	1	
-16	bord	bord	N	1	
-17	de	de	P	1	
-18	mer	mer	N	1	
+1	A	A	P	1	O
+2	quelques	quelque	D	1	O
+3	encablures	encablure	N	1	O
+4	(	(	O	1	O
+5	50	50	D	1	O
+6	metres	metres	N	1	O
+7	)	)	O	1	O
+8	du	du	P	1	O
+9	thantip	thantip	G	1	I-Hotel
+10	villa	villa	N	1	I-Hotel
+11	précédemment	précédemment	G	1	O
+12	décris	décrire	V	1	O
+13	et	et	C	1	O
+14	150	150	D	1	O
+15	metres	metres	N	1	O
+16	du	du	P	1	O
+17	bord	bord	N	1	O
+18	de	de	P	1	O
+19	mer	mer	N	1	O
 
-1	retiré	retirer	V	1	
-2	loin	loin	G	1	
-3	du	du	D	1	
-4	bruit	bruit	N	1	
-5	du	du	D	1	
-6	centre	centre	N	1	
-7	ville	ville	N	1	
-8	le	le	D	1	
-9	prix	prix	N	1	
-10	tres	tres	G	1	
-11	correct	correct	G	1	
-12	voici	voici	V	1	
-13	les	le	D	1	
-14	seuls	seul	G	1	
-15	avantages	avantage	N	1	
-16	de	de	P	1	
-17	cet	ce	D	1	
-18	hotel	hotel	N	1	
+1	retiré	retirer	V	1	O
+2	loin	loin	G	1	O
+3	du	du	D	1	O
+4	bruit	bruit	N	1	O
+5	du	du	D	1	O
+6	centre	centre	N	1	O
+7	ville	ville	N	1	O
+8	le	le	D	1	O
+9	prix	prix	N	1	O
+10	tres	tres	G	1	O
+11	correct	correct	G	1	O
+12	voici	voici	V	1	O
+13	les	le	D	1	O
+14	seuls	seul	G	1	O
+15	avantages	avantage	N	1	O
+16	de	de	P	1	O
+17	cet	ce	D	1	O
+18	hotel	hotel	N	1	O
 
-1	passons	passons	P	1	
-2	au	au	P	1	
-3	point	point	N	1	
-4	noir	noir	G	1	
-5	(	(	O	1	
-6	le	le	D	1	
-7	bruit	bruit	N	1	
-8	dans	dans	P	1	
-9	les	le	D	1	
-10	couloirs	couloir	N	1	
-11	(	(	O	1	
-12	claquement	claquement	G	1	
-13	de	de	P	1	
-14	portes	porte	N	1	
-15	quasi	quasi	G	1	
-16	permanant	permanant	V	1	
-17	discours	discours	N	1	
-18	toutes	tout	G	1	
-19	la	le	D	1	
-20	nuit	nuit	N	1	
-21	de	de	P	1	
-22	personne	personne	P	1	
-23	qui	qui	P	1	
-24	rentrent	rentrer	V	1	
-25	avec	avec	P	1	
-26	des	un	D	1	
-27	thai	thai	P	1	
+1	passons	passons	P	1	O
+2	au	au	P	1	O
+3	point	point	N	1	O
+4	noir	noir	G	1	O
+5	(	(	O	1	O
+6	le	le	D	1	O
+7	bruit	bruit	N	1	O
+8	dans	dans	P	1	O
+9	les	le	D	1	O
+10	couloirs	couloir	N	1	O
+11	(	(	O	1	O
+12	claquement	claquement	G	1	O
+13	de	de	P	1	O
+14	portes	porte	N	1	O
+15	quasi	quasi	G	1	O
+16	permanant	permanant	V	1	O
+17	discours	discours	N	1	O
+18	toutes	tout	G	1	O
+19	la	le	D	1	O
+20	nuit	nuit	N	1	O
+21	de	de	P	1	O
+22	personne	personne	P	1	O
+23	qui	qui	P	1	O
+24	rentrent	rentrer	V	1	O
+25	avec	avec	P	1	O
+26	des	un	D	1	O
+27	thai	thai	P	1	O
 
-1	j	j	N	1	
-2	avais	avais	P	1	
-3	reservé	reservé	N	1	
-4	5	5	G	1	
-5	nuits	nuits	P	1	
-6	deux	deux	D	1	
-7	jours	jour	N	1	
-8	aprés	aprés	G	1	
-9	je	je	Q	1	
-10	quittais	quitter	V	1	
-11	l	l	G	1	
-12	hotel	hotel	G	1	
-13	)	)	O	1	
+1	j	j	N	1	O
+2	avais	avais	P	1	O
+3	reservé	reservé	N	1	O
+4	5	5	G	1	O
+5	nuits	nuits	P	1	O
+6	deux	deux	D	1	O
+7	jours	jour	N	1	O
+8	aprés	aprés	G	1	O
+9	je	je	Q	1	O
+10	quittais	quitter	V	1	O
+11	l	l	G	1	O
+12	hotel	hotel	G	1	O
+13	)	)	O	1	O
 
-1	petit	petit	G	1	
-2	dejeuner	dejeuner	N	1	
-3	moyen	moyen	G	1	
-4	pas	pas	G	1	
-5	de	de	P	1	
-6	quoi	quoi	P	1	
-7	se	se	Q	1	
-8	rouler	rouler	V	1	
-9	par	par	P	1	
-10	terre	terre	N	1	
+1	petit	petit	G	1	O
+2	dejeuner	dejeuner	N	1	O
+3	moyen	moyen	G	1	O
+4	pas	pas	G	1	O
+5	de	de	P	1	O
+6	quoi	quoi	P	1	O
+7	se	se	Q	1	O
+8	rouler	rouler	V	1	O
+9	par	par	P	1	O
+10	terre	terre	N	1	O
 
-1	chambres	chambre	N	1	
-2	reduite	reduite	V	1	
-3	et	et	C	1	
-4	tres	tres	G	1	
-5	mal	mal	G	1	
-6	amenagé	amenagé	V	1	
-7	obligé	obliger	V	1	
-8	d	d	N	1	
-9	empiler	empiler	V	1	
-10	les	le	D	1	
-11	bagages	bagage	N	1	
+1	chambres	chambre	N	1	O
+2	reduite	reduite	V	1	O
+3	et	et	C	1	O
+4	tres	tres	G	1	O
+5	mal	mal	G	1	O
+6	amenagé	amenagé	V	1	O
+7	obligé	obliger	V	1	O
+8	d	d	N	1	O
+9	empiler	empiler	V	1	O
+10	les	le	D	1	O
+11	bagages	bagage	N	1	O
 
-1	wifi	wifi	G	1	
-2	payant	payer	V	1	
-3	en	en	P	1	
-4	2011	2011	R	1	ne=Date
+1	wifi	wifi	G	1	O
+2	payant	payer	V	1	O
+3	en	en	P	1	O
+4	2011	2011	R	1	I-Date
 
-1	clientelle	clientelle	G	1	
-2	style	style	N	1	
-3	tour	tour	N	1	
-4	operator	operator	V	1	
-5	budget	budget	N	1	
-6	reduit	reduit	N	1	
-7	a	avoir	V	1	
-8	mediter	mediter	V	1	
+1	clientelle	clientelle	G	1	O
+2	style	style	N	1	O
+3	tour	tour	N	1	O
+4	operator	operator	V	1	O
+5	budget	budget	N	1	O
+6	reduit	reduit	N	1	O
+7	a	avoir	V	1	O
+8	mediter	mediter	V	1	O
 
-1	piscine	piscine	N	1	
-2	petite	petit	G	1	
-3	pour	pour	P	1	
-4	le	le	D	1	
-5	nombres	nombre	N	1	
-6	de	de	P	1	
-7	chambres	chambre	N	1	
+1	piscine	piscine	N	1	O
+2	petite	petit	G	1	O
+3	pour	pour	P	1	O
+4	le	le	D	1	O
+5	nombres	nombre	N	1	O
+6	de	de	P	1	O
+7	chambres	chambre	N	1	O
 
-1	restaurant	restaurer	V	1	
-2	(	(	O	1	
-3	pas	pas	G	1	
-4	utilisé	utiliser	V	1	
-5	)	)	O	1	
+1	restaurant	restaurer	V	1	O
+2	(	(	O	1	O
+3	pas	pas	G	1	O
+4	utilisé	utiliser	V	1	O
+5	)	)	O	1	O
 
-1	accueil	accueil	N	1	
-2	a	avoir	V	1	
-3	revoir	revoir	V	1	
-4	j	j	N	1	
-5	espere	espere	V	1	
-6	que	que	C	1	
-7	cela	cela	P	1	
-8	a	avoir	V	1	
-9	changé	changer	V	1	
-10	depuis	depuis	P	1	
+1	accueil	accueil	N	1	O
+2	a	avoir	V	1	O
+3	revoir	revoir	V	1	O
+4	j	j	N	1	O
+5	espere	espere	V	1	O
+6	que	que	C	1	O
+7	cela	cela	P	1	O
+8	a	avoir	V	1	O
+9	changé	changer	V	1	O
+10	depuis	depuis	P	1	O
 
-1	propreté	propreté	N	1	
-2	laisse	laisser	V	1	
-3	a	avoir	V	1	
-4	desirer	desirer	P	1	
+1	propreté	propreté	N	1	O
+2	laisse	laisser	V	1	O
+3	a	avoir	V	1	O
+4	desirer	desirer	P	1	O
 
-1	un	un	D	1	
-2	ibis	ibis	N	1	
-3	qui	qui	P	1	
-4	nest	nest	V	1	
-5	pas	pas	G	1	
-6	un	un	D	1	
-7	ibis	ibis	N	1	
-8	mauvais	mauvais	G	1	
-9	choix	choix	N	1	
+1	un	un	D	1	O
+2	ibis	ibis	N	1	O
+3	qui	qui	P	1	O
+4	nest	nest	V	1	O
+5	pas	pas	G	1	O
+6	un	un	D	1	O
+7	ibis	ibis	N	1	O
+8	mauvais	mauvais	G	1	O
+9	choix	choix	N	1	O
 

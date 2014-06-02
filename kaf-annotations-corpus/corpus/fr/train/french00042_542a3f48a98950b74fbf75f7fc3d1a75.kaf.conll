@@ -1,47 +1,48 @@
-1	Hôtel_Carlton	hôtel_Carlton	R	1	ne=Hotel
+1	Hôtel	hôtel	N	1	I-Hotel
+2	Carlton	Carlton	N	1	I-Hotel
 
-1	Cet	ce	D	1	
-2	hôtel	hôtel	N	1	
-3	siteué	siteué	G	1	
-4	dans	dans	P	1	
-5	le	le	D	1	
-6	sud	sud	N	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	France	France	R	1	ne=Location
-10	plus	plus	G	1	
-11	précisément	précisément	G	1	
-12	à	à	P	1	
-13	canne	canne	R	1	ne=Location
-14	est	être	V	1	
-15	un	un	D	1	
-16	hôtel	hôtel	N	1	
-17	5etoile	5etoile	G	1	
-18	magnifique	magnifique	N	1	
-19	et	et	C	1	
-20	les	le	D	1	
-21	gens	gens	N	1	
-22	sont	être	V	1	
-23	très	très	G	1	
-24	serviables	serviable	G	1	
-25	et	et	C	1	
-26	polis	poli	G	1	
-27	les	le	D	1	
-28	plat	plat	N	1	
-29	sont	être	V	1	
-30	très	très	G	1	
-31	travaillé	travailler	V	1	
-32	et	et	C	1	
-33	les	le	D	1	
-34	suite	suite	N	1	
-35	comporte	comporter	V	1	
-36	un	un	D	1	
-37	sauna	sauna	N	1	
-38	un	un	D	1	
-39	salon	salon	N	1	
-40	pour	pour	P	1	
-41	recevoir	recevoir	V	1	
-42	des	un	D	1	
-43	invités	invité	N	1	
-44	.	.	O	1	
+1	Cet	ce	D	1	O
+2	hôtel	hôtel	N	1	O
+3	siteué	siteué	G	1	O
+4	dans	dans	P	1	O
+5	le	le	D	1	O
+6	sud	sud	N	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	France	France	R	1	I-Location
+10	plus	plus	G	1	O
+11	précisément	précisément	G	1	O
+12	à	à	P	1	O
+13	canne	canne	R	1	I-Location
+14	est	être	V	1	O
+15	un	un	D	1	O
+16	hôtel	hôtel	N	1	O
+17	5etoile	5etoile	G	1	O
+18	magnifique	magnifique	N	1	O
+19	et	et	C	1	O
+20	les	le	D	1	O
+21	gens	gens	N	1	O
+22	sont	être	V	1	O
+23	très	très	G	1	O
+24	serviables	serviable	G	1	O
+25	et	et	C	1	O
+26	polis	poli	G	1	O
+27	les	le	D	1	O
+28	plat	plat	N	1	O
+29	sont	être	V	1	O
+30	très	très	G	1	O
+31	travaillé	travailler	V	1	O
+32	et	et	C	1	O
+33	les	le	D	1	O
+34	suite	suite	N	1	O
+35	comporte	comporter	V	1	O
+36	un	un	D	1	O
+37	sauna	sauna	N	1	O
+38	un	un	D	1	O
+39	salon	salon	N	1	O
+40	pour	pour	P	1	O
+41	recevoir	recevoir	V	1	O
+42	des	un	D	1	O
+43	invités	invité	N	1	O
+44	.	.	O	1	O
 

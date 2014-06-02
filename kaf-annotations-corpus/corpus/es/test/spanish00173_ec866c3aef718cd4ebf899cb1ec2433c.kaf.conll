@@ -1,64 +1,64 @@
-1	SPA	SPA	R	1	
+1	SPA	SPA	R	1	O
 
-1	El	El	R	1	
-2	Spa	Spa	R	1	
-3	está	está	N	1	
-4	bastante	bastante	N	1	
-5	bien	bien	N	1	
-6	.	.	O	1	
+1	El	El	R	1	O
+2	Spa	Spa	R	1	O
+3	está	está	N	1	O
+4	bastante	bastante	N	1	O
+5	bien	bien	N	1	O
+6	.	.	O	1	O
 
-1	Aunque	Aunque	R	1	
-2	mis	mis	V	1	
-3	expectativas	expectativas	P	1	
-4	eran	eran	G	1	
-5	mayores	mayores	N	1	
-6	,	,	O	1	
-7	para	para	G	1	
-8	nada	nada	N	1	
-9	me	me	Q	1	
-10	defraudó	defraudó	V	1	
-11	,	,	O	1	
-12	el	el	G	1	
-13	personal	personal	G	1	
-14	muy	muy	G	1	
-15	amable	amable	G	1	
-16	y	y	G	1	
-17	en	en	P	1	
-18	cuanto	cuanto	D	1	
-19	a	a	D	1	
-20	las	las	G	1	
-21	instalaciones	instalaciones	N	1	
-22	,	,	O	1	
-23	estaban	estaban	N	1	
-24	todas	todas	N	1	
-25	en	en	P	1	
-26	buen	buen	G	1	
-27	estado	estado	N	1	
-28	.	.	O	1	
+1	Aunque	Aunque	R	1	O
+2	mis	mis	V	1	O
+3	expectativas	expectativas	P	1	O
+4	eran	eran	G	1	O
+5	mayores	mayores	N	1	O
+6	,	,	O	1	O
+7	para	para	G	1	O
+8	nada	nada	N	1	O
+9	me	me	Q	1	O
+10	defraudó	defraudó	V	1	O
+11	,	,	O	1	O
+12	el	el	G	1	O
+13	personal	personal	G	1	O
+14	muy	muy	G	1	O
+15	amable	amable	G	1	O
+16	y	y	G	1	O
+17	en	en	P	1	O
+18	cuanto	cuanto	D	1	O
+19	a	a	D	1	O
+20	las	las	G	1	O
+21	instalaciones	instalaciones	N	1	O
+22	,	,	O	1	O
+23	estaban	estaban	N	1	O
+24	todas	todas	N	1	O
+25	en	en	P	1	O
+26	buen	buen	G	1	O
+27	estado	estado	N	1	O
+28	.	.	O	1	O
 
-1	La	La	R	1	
-2	verdad	verdad	N	1	
-3	que	que	N	1	
-4	en	en	P	1	
-5	relación	relación	G	1	
-6	precio	precio	G	1	
-7	esta	esta	N	1	
-8	bien	bien	N	1	
-9	al	al	G	1	
-10	menos	menos	N	1	
-11	para	para	G	1	
-12	probarlo	probarlo	N	1	
-13	y	y	G	1	
-14	además	además	N	1	
-15	en	en	P	1	
-16	plena	plena	N	1	
-17	Gran	Gran	R	1	
-18	Vía	Vía	R	1	
-19	de	de	P	1	
-20	Madrid	Madrid	R	1	
-21	,	,	O	1	
-22	todo	todo	N	1	
-23	un	un	G	1	
-24	lujo	lujo	N	1	
-25	.	.	O	1	
+1	La	La	R	1	O
+2	verdad	verdad	N	1	O
+3	que	que	N	1	O
+4	en	en	P	1	O
+5	relación	relación	G	1	O
+6	precio	precio	G	1	O
+7	esta	esta	N	1	O
+8	bien	bien	N	1	O
+9	al	al	G	1	O
+10	menos	menos	N	1	O
+11	para	para	G	1	O
+12	probarlo	probarlo	N	1	O
+13	y	y	G	1	O
+14	además	además	N	1	O
+15	en	en	P	1	O
+16	plena	plena	N	1	O
+17	Gran	Gran	R	1	O
+18	Vía	Vía	R	1	O
+19	de	de	P	1	O
+20	Madrid	Madrid	R	1	O
+21	,	,	O	1	O
+22	todo	todo	N	1	O
+23	un	un	G	1	O
+24	lujo	lujo	N	1	O
+25	.	.	O	1	O
 

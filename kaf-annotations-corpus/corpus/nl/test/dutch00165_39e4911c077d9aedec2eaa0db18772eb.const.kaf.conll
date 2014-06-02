@@ -1,170 +1,171 @@
-1	Is	zijn	V	1	
-2	dit	dit	Q	1	
-3	gerenoveerd	renoveren	V	1	
-4	?	?	O	1	
+1	Is	zijn	V	1	O
+2	dit	dit	Q	1	O
+3	gerenoveerd	renoveren	V	1	O
+4	?	?	O	1	O
 
-1	zie	zien	V	1	
-2	foto	foto	N	1	
-3	'	'	O	1	
-4	s	s	N	1	
+1	zie	zien	V	1	O
+2	foto	foto	N	1	O
+3	'	'	O	1	O
+4	s	s	N	1	O
 
-1	17_sept	@card@_sept	R	1	ne=Date
-2	·	·	O	1	
-3	1okt	1okt	R	1	ne=Date
-4	.	.	O	1	
+1	17	@card@	O	1	I-Date
+2	sept	sept	O	1	I-Date
+3	·	·	O	1	O
+4	1okt	1okt	R	1	I-Date
+5	.	.	O	1	O
 
-1	Beroemste	Beroemste	O	1	
-2	nl.	nl.	A	1	
-3	touroperater	touroperater	O	1	
-4	verhuurt	verhuren	V	1	
-5	zulke	zulk	D	1	
-6	kamers.	kamer	N	1	
-7	kamers.	.	O	1	
-8	zie	zien	V	1	
-9	:	:	O	1	
-10	foto	foto	N	1	
-11	'	'	O	1	
-12	s.	s.	O	1	
+1	Beroemste	Beroemste	O	1	O
+2	nl.	nl.	A	1	O
+3	touroperater	touroperater	O	1	O
+4	verhuurt	verhuren	V	1	O
+5	zulke	zulk	D	1	O
+6	kamers.	kamer	N	1	O
+7	kamers.	.	O	1	O
+8	zie	zien	V	1	O
+9	:	:	O	1	O
+10	foto	foto	N	1	O
+11	'	'	O	1	O
+12	s.	s.	O	1	O
 
-1	Ligging	ligging	N	1	
-2	te	te	O	1	
-3	ver	ver	G	1	
-4	van	van	P	1	
-5	het	het	D	1	
-6	centrum	centrum	N	1	
-7	.	.	O	1	
+1	Ligging	ligging	N	1	O
+2	te	te	O	1	O
+3	ver	ver	G	1	O
+4	van	van	P	1	O
+5	het	het	D	1	O
+6	centrum	centrum	N	1	O
+7	.	.	O	1	O
 
-1	3	@card@	O	1	
-2	keer	keer	N	1	
-3	heeft	hebben	V	1	
-4	de	de	D	1	
-5	dolmus	dolmus	O	1	
-6	ons	ons	Q	1	
-7	op	op	P	1	
-8	een	een	D	1	
-9	verkeerde	verkeerd	G	1	
-10	(	(	O	1	
-11	opzet	opzet	N	1	
-12	?	?	O	1	
-13	)	)	O	1	
-14	plek	plek	N	1	
-15	afgezet	afzetten	V	1	
-16	.	.	O	1	
+1	3	@card@	O	1	O
+2	keer	keer	N	1	O
+3	heeft	hebben	V	1	O
+4	de	de	D	1	O
+5	dolmus	dolmus	O	1	O
+6	ons	ons	Q	1	O
+7	op	op	P	1	O
+8	een	een	D	1	O
+9	verkeerde	verkeerd	G	1	O
+10	(	(	O	1	O
+11	opzet	opzet	N	1	O
+12	?	?	O	1	O
+13	)	)	O	1	O
+14	plek	plek	N	1	O
+15	afgezet	afzetten	V	1	O
+16	.	.	O	1	O
 
-1	Kwaliteit	kwaliteit	N	1	
-2	;	;	O	1	
-3	slecht	slecht	G	1	
-4	,	,	O	1	
-5	op	op	P	1	
-6	het	het	D	1	
-7	eten	eten	N	1	
-8	zaten	zitten	V	1	
-9	vliegen	vliegen	V	1	
-10	,	,	O	1	
-11	ramen	ramen	V	1	
-12	stonden	stonde	N	1	
-13	wagenwijd	wagenwijd	A	1	
-14	open	openen	V	1	
-15	,	,	O	1	
-16	katten	katten	V	1	
-17	in	in	P	1	
-18	het	het	D	1	
-19	restaurant	restaurant	N	1	
-20	,	,	O	1	
-21	die	die	Q	1	
-22	worden	worden	V	1	
-23	gevoerd	voeren	V	1	
-24	door	door	P	1	
-25	z.g.n	z.	O	1	
-26	z.g.n	g.	O	1	
-27	z.g.n	n	N	1	
-28	dierenliefhebbers.	dierenliefhebber	N	1	
-29	dierenliefhebbers.	.	O	1	
-30	daarnaast	daarnaast	Q	1	
-31	moest	moeten	V	1	
-32	je	je	Q	1	
-33	eten	eten	V	1	
-34	van	van	P	1	
-35	smerige	smerig	G	1	
-36	en	en	C	1	
-37	echt	echt	G	1	
-38	vieze	vies	G	1	
-39	tafelkleden	tafelkleed	N	1	
-40	.	.	O	1	
+1	Kwaliteit	kwaliteit	N	1	O
+2	;	;	O	1	O
+3	slecht	slecht	G	1	O
+4	,	,	O	1	O
+5	op	op	P	1	O
+6	het	het	D	1	O
+7	eten	eten	N	1	O
+8	zaten	zitten	V	1	O
+9	vliegen	vliegen	V	1	O
+10	,	,	O	1	O
+11	ramen	ramen	V	1	O
+12	stonden	stonde	N	1	O
+13	wagenwijd	wagenwijd	A	1	O
+14	open	openen	V	1	O
+15	,	,	O	1	O
+16	katten	katten	V	1	O
+17	in	in	P	1	O
+18	het	het	D	1	O
+19	restaurant	restaurant	N	1	O
+20	,	,	O	1	O
+21	die	die	Q	1	O
+22	worden	worden	V	1	O
+23	gevoerd	voeren	V	1	O
+24	door	door	P	1	O
+25	z.g.n	z.	O	1	O
+26	z.g.n	g.	O	1	O
+27	z.g.n	n	N	1	O
+28	dierenliefhebbers.	dierenliefhebber	N	1	O
+29	dierenliefhebbers.	.	O	1	O
+30	daarnaast	daarnaast	Q	1	O
+31	moest	moeten	V	1	O
+32	je	je	Q	1	O
+33	eten	eten	V	1	O
+34	van	van	P	1	O
+35	smerige	smerig	G	1	O
+36	en	en	C	1	O
+37	echt	echt	G	1	O
+38	vieze	vies	G	1	O
+39	tafelkleden	tafelkleed	N	1	O
+40	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	smerige	smerig	G	1	
-3	kleding	kleding	N	1	
-4	personeel	personeel	N	1	
-5	.	.	O	1	
+1	Ook	ook	A	1	O
+2	smerige	smerig	G	1	O
+3	kleding	kleding	N	1	O
+4	personeel	personeel	N	1	O
+5	.	.	O	1	O
 
-1	drank	drank	N	1	
-2	:	:	O	1	
-3	geen	geen	D	1	
-4	brandy	brandy	N	1	
-5	,	,	O	1	
-6	whiskey	whiskey	N	1	
-7	of	of	C	1	
-8	rum	rum	N	1	
-9	.	.	O	1	
+1	drank	drank	N	1	O
+2	:	:	O	1	O
+3	geen	geen	D	1	O
+4	brandy	brandy	N	1	O
+5	,	,	O	1	O
+6	whiskey	whiskey	N	1	O
+7	of	of	C	1	O
+8	rum	rum	N	1	O
+9	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	moest	moeten	V	1	
-3	het	het	Q	1	
-4	maar	maar	A	1	
-5	doen	doen	V	1	
-6	met	met	P	1	
-7	gin	gin	N	1	
-8	en	en	C	1	
-9	wodka	wodka	N	1	
-10	of	of	C	1	
-11	bier	bier	N	1	
-12	.	.	O	1	
+1	Je	je	Q	1	O
+2	moest	moeten	V	1	O
+3	het	het	Q	1	O
+4	maar	maar	A	1	O
+5	doen	doen	V	1	O
+6	met	met	P	1	O
+7	gin	gin	N	1	O
+8	en	en	C	1	O
+9	wodka	wodka	N	1	O
+10	of	of	C	1	O
+11	bier	bier	N	1	O
+12	.	.	O	1	O
 
-1	En	en	C	1	
-2	dat	dat	Q	1	
-3	zijn	zijn	V	1	
-4	nu	nu	A	1	
-5	net	net	A	1	
-6	de	de	D	1	
-7	dingen	ding	N	1	
-8	die	die	Q	1	
-9	wij	wij	Q	1	
-10	niet	niet	A	1	
-11	lekker	lek|lekker	G	1	
-12	vinden	vinden	V	1	
-13	.	.	O	1	
+1	En	en	C	1	O
+2	dat	dat	Q	1	O
+3	zijn	zijn	V	1	O
+4	nu	nu	A	1	O
+5	net	net	A	1	O
+6	de	de	D	1	O
+7	dingen	ding	N	1	O
+8	die	die	Q	1	O
+9	wij	wij	Q	1	O
+10	niet	niet	A	1	O
+11	lekker	lek|lekker	G	1	O
+12	vinden	vinden	V	1	O
+13	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	waren	wezen|zijn	V	1	
-3	niet	niet	A	1	
-4	van	van	P	1	
-5	plan	plan	N	1	
-6	te	te	O	1	
-7	gaan	gaan	V	1	
-8	betalen	betalen	V	1	
-9	voor	voor	P	1	
-10	iets	iets	A	1	
-11	dat	dat	C	1	
-12	toch	toch	A	1	
-13	all	all	O	1	
-14	incl.	incl	O	1	
-15	incl.	.	O	1	
-16	hoort	horen	V	1	
-17	te	te	O	1	
-18	zijn	zijn	V	1	
-19	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	niet	niet	A	1	O
+4	van	van	P	1	O
+5	plan	plan	N	1	O
+6	te	te	O	1	O
+7	gaan	gaan	V	1	O
+8	betalen	betalen	V	1	O
+9	voor	voor	P	1	O
+10	iets	iets	A	1	O
+11	dat	dat	C	1	O
+12	toch	toch	A	1	O
+13	all	all	O	1	O
+14	incl.	incl	O	1	O
+15	incl.	.	O	1	O
+16	hoort	horen	V	1	O
+17	te	te	O	1	O
+18	zijn	zijn	V	1	O
+19	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	zoeken	zoeken	V	1	
-3	wel	wel	A	1	
-4	een	een	D	1	
-5	ander	ander	G	1	
-6	resort	resort	O	1	
-7	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	zoeken	zoeken	V	1	O
+3	wel	wel	A	1	O
+4	een	een	D	1	O
+5	ander	ander	G	1	O
+6	resort	resort	O	1	O
+7	.	.	O	1	O
 
-1	Nooit	nooit	A	1	
-2	meer	meer	A	1	
-3	hierheen	hierheen	Q	1	
-4	.	.	O	1	
+1	Nooit	nooit	A	1	O
+2	meer	meer	A	1	O
+3	hierheen	hierheen	Q	1	O
+4	.	.	O	1	O
 

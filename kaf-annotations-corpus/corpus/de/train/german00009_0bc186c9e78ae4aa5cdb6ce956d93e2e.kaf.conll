@@ -1,171 +1,172 @@
-1	Nettes	nett	G	1	
-2	kleines	klein	G	1	
-3	Hotel	Hotel	N	1	
-4	in	in	P	1	
-5	der	die	D	1	
-6	nähe	nähen	V	1	
-7	der	die	D	1	
-8	ChampsElysees	ChampsElysees	R	1	ne=Attraction
+1	Nettes	nett	G	1	O
+2	kleines	klein	G	1	O
+3	Hotel	Hotel	N	1	O
+4	in	in	P	1	O
+5	der	die	D	1	O
+6	nähe	nähen	V	1	O
+7	der	die	D	1	O
+8	ChampsElysees	ChampsElysees	R	1	I-Attraction
 
-1	Ein	eine	D	1	
-2	schönes	schön	G	1	
-3	kleines	klein	G	1	
-4	Hotel	Hotel	N	1	
-5	im	in	P	1	
-6	Zentrum	Zentrum	N	1	
-7	von	von	P	1	
-8	Paris	Paris	R	1	ne=Location
-9	.	.	O	1	
+1	Ein	eine	D	1	O
+2	schönes	schön	G	1	O
+3	kleines	klein	G	1	O
+4	Hotel	Hotel	N	1	O
+5	im	in	P	1	O
+6	Zentrum	Zentrum	N	1	O
+7	von	von	P	1	O
+8	Paris	Paris	R	1	I-Location
+9	.	.	O	1	O
 
-1	Wenn	wenn	C	1	
-2	man	man	Q	1	
-3	keinen	keine	Q	1	
-4	Spezialpreis	Spezialpreis	N	1	
-5	bekommt	bekommen	V	1	
-6	,	,	O	1	
-7	ist	sein	V	1	
-8	es	es	Q	1	
-9	wirklich	wirklich	G	1	
-10	teuer	teuer	G	1	
-11	.	.	O	1	
+1	Wenn	wenn	C	1	O
+2	man	man	Q	1	O
+3	keinen	keine	Q	1	O
+4	Spezialpreis	Spezialpreis	N	1	O
+5	bekommt	bekommen	V	1	O
+6	,	,	O	1	O
+7	ist	sein	V	1	O
+8	es	es	Q	1	O
+9	wirklich	wirklich	G	1	O
+10	teuer	teuer	G	1	O
+11	.	.	O	1	O
 
-1	Einzelzimmer	Einzelzimmer	N	1	
-2	über	über	P	1	
-3	200_€	200_€	R	1	ne=Money
-4	,	,	O	1	
-5	wenn	wenn	C	1	
-6	ich	ich	Q	1	
-7	das	die	Q	1	
-8	richtig	richtig	G	1	
-9	in	in	P	1	
-10	Erinnerung	Erinnerung	N	1	
-11	habe	haben	V	1	
-12	.	.	O	1	
+1	Einzelzimmer	Einzelzimmer	N	1	O
+2	über	über	P	1	O
+3	200	200	O	1	I-Money
+4	€	€	O	1	I-Money
+5	,	,	O	1	O
+6	wenn	wenn	C	1	O
+7	ich	ich	Q	1	O
+8	das	die	Q	1	O
+9	richtig	richtig	G	1	O
+10	in	in	P	1	O
+11	Erinnerung	Erinnerung	N	1	O
+12	habe	haben	V	1	O
+13	.	.	O	1	O
 
-1	Aber	aber	C	1	
-2	das	die	Q	1	
-3	ist	sein	V	1	
-4	halt	halt	A	1	
-5	Paris	Paris	R	1	ne=Location
-6	.	.	O	1	
+1	Aber	aber	C	1	O
+2	das	die	Q	1	O
+3	ist	sein	V	1	O
+4	halt	halt	A	1	O
+5	Paris	Paris	R	1	I-Location
+6	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	die	die	D	1	
-4	ich	ich	Q	1	
-5	hatte	haben	V	1	
-6	,	,	O	1	
-7	waren	sein	V	1	
-8	in	in	P	1	
-9	gutem	gut	G	1	
-10	Zustand	Zustand	N	1	
-11	.	.	O	1	
+1	Die	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	die	die	D	1	O
+4	ich	ich	Q	1	O
+5	hatte	haben	V	1	O
+6	,	,	O	1	O
+7	waren	sein	V	1	O
+8	in	in	P	1	O
+9	gutem	gut	G	1	O
+10	Zustand	Zustand	N	1	O
+11	.	.	O	1	O
 
-1	Lediglich	lediglich	A	1	
-2	die	die	D	1	
-3	Befestigung	Befestigung	N	1	
-4	von	von	P	1	
-5	Handtuchhaltern	Handtuchhaltern	O	1	
-6	etc.	etc.	A	1	
-7	ließ	lassen	V	1	
-8	etwas	etwas	A	1	
-9	zu	zu	P	1	
-10	Wünschen	Wunsch	N	1	
-11	übrig	übrig	G	1	
-12	.	.	O	1	
-13	:	:	O	1	
-14	·	·	O	1	
-15	)	)	O	1	
-16	Das	die	D	1	
-17	Zimmer	Zimmer	N	1	
-18	eines	eine	D	1	
-19	Kollegen	Kollege	N	1	
-20	hatte	haben	V	1	
-21	einen	eine	D	1	
-22	Teppich	Teppich	N	1	
-23	,	,	O	1	
-24	der	die	Q	1	
-25	schon	schon	A	1	
-26	ein	eine	D	1	
-27	wenig	wenige	Q	1	
-28	mitgenommen	mitgenommen	G	1	
-29	aus	aus	V	1	
-30	sah	sehen	V	1	
-31	.	.	O	1	
+1	Lediglich	lediglich	A	1	O
+2	die	die	D	1	O
+3	Befestigung	Befestigung	N	1	O
+4	von	von	P	1	O
+5	Handtuchhaltern	Handtuchhaltern	O	1	O
+6	etc.	etc.	A	1	O
+7	ließ	lassen	V	1	O
+8	etwas	etwas	A	1	O
+9	zu	zu	P	1	O
+10	Wünschen	Wunsch	N	1	O
+11	übrig	übrig	G	1	O
+12	.	.	O	1	O
+13	:	:	O	1	O
+14	·	·	O	1	O
+15	)	)	O	1	O
+16	Das	die	D	1	O
+17	Zimmer	Zimmer	N	1	O
+18	eines	eine	D	1	O
+19	Kollegen	Kollege	N	1	O
+20	hatte	haben	V	1	O
+21	einen	eine	D	1	O
+22	Teppich	Teppich	N	1	O
+23	,	,	O	1	O
+24	der	die	Q	1	O
+25	schon	schon	A	1	O
+26	ein	eine	D	1	O
+27	wenig	wenige	Q	1	O
+28	mitgenommen	mitgenommen	G	1	O
+29	aus	aus	V	1	O
+30	sah	sehen	V	1	O
+31	.	.	O	1	O
 
-1	Riesig	riesig	G	1	
-2	sind	sein	V	1	
-3	die	die	D	1	
-4	Zimmer	Zimmer	N	1	
-5	nicht	nicht	O	1	
-6	,	,	O	1	
-7	das	die	Q	1	
-8	ist	sein	V	1	
-9	aber	aber	A	1	
-10	in	in	P	1	
-11	Paris	Paris	R	1	
-12	wohl	wohl	A	1	
-13	allgemein	allgemein	G	1	
-14	so	so	A	1	
-15	.	.	O	1	
+1	Riesig	riesig	G	1	O
+2	sind	sein	V	1	O
+3	die	die	D	1	O
+4	Zimmer	Zimmer	N	1	O
+5	nicht	nicht	O	1	O
+6	,	,	O	1	O
+7	das	die	Q	1	O
+8	ist	sein	V	1	O
+9	aber	aber	A	1	O
+10	in	in	P	1	O
+11	Paris	Paris	R	1	O
+12	wohl	wohl	A	1	O
+13	allgemein	allgemein	G	1	O
+14	so	so	A	1	O
+15	.	.	O	1	O
 
-1	Zu	zu	P	1	
-2	unserer	unser	Q	1	
-3	Reisezeit	Reisezeit	N	1	
-4	war	sein	V	1	
-5	es	es	Q	1	
-6	sehr	sehr	A	1	
-7	warm	warm	G	1	
-8	,	,	O	1	
-9	und	und	C	1	
-10	die	die	D	1	
-11	Klimaanlage	Klimaanlage	N	1	
-12	hat	haben	V	1	
-13	es	es	Q	1	
-14	nicht	nicht	O	1	
-15	geschafft	schaffen	V	1	
-16	,	,	O	1	
-17	das	die	D	1	
-18	Zimmer	Zimmer	N	1	
-19	auf	auf	P	1	
-20	eine	eine	D	1	
-21	angenehme	angenehm	G	1	
-22	Temperatur	Temperatur	N	1	
-23	zu	zu	O	1	
-24	bringen	bringen	V	1	
-25	.	.	O	1	
+1	Zu	zu	P	1	O
+2	unserer	unser	Q	1	O
+3	Reisezeit	Reisezeit	N	1	O
+4	war	sein	V	1	O
+5	es	es	Q	1	O
+6	sehr	sehr	A	1	O
+7	warm	warm	G	1	O
+8	,	,	O	1	O
+9	und	und	C	1	O
+10	die	die	D	1	O
+11	Klimaanlage	Klimaanlage	N	1	O
+12	hat	haben	V	1	O
+13	es	es	Q	1	O
+14	nicht	nicht	O	1	O
+15	geschafft	schaffen	V	1	O
+16	,	,	O	1	O
+17	das	die	D	1	O
+18	Zimmer	Zimmer	N	1	O
+19	auf	auf	P	1	O
+20	eine	eine	D	1	O
+21	angenehme	angenehm	G	1	O
+22	Temperatur	Temperatur	N	1	O
+23	zu	zu	O	1	O
+24	bringen	bringen	V	1	O
+25	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Frühstücksauswahl	Frühstücksauswahl	O	1	
-3	ist	sein	V	1	
-4	OK	OK	N	1	
-5	.	.	O	1	
+1	Die	die	D	1	O
+2	Frühstücksauswahl	Frühstücksauswahl	O	1	O
+3	ist	sein	V	1	O
+4	OK	OK	N	1	O
+5	.	.	O	1	O
 
-1	Wenngleich	wenngleich	C	1	
-2	die	die	D	1	
-3	Brötchen	Brötchen	N	1	
-4	manchmal	manchmal	A	1	
-5	ordentlich	ordentlich	G	1	
-6	Biss	Biss	N	1	
-7	haben	haben	V	1	
-8	.	.	O	1	
+1	Wenngleich	wenngleich	C	1	O
+2	die	die	D	1	O
+3	Brötchen	Brötchen	N	1	O
+4	manchmal	manchmal	A	1	O
+5	ordentlich	ordentlich	G	1	O
+6	Biss	Biss	N	1	O
+7	haben	haben	V	1	O
+8	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Dame	Dame	N	1	
-3	im	in	P	1	
-4	Frühstücksraum	Frühstücksraum	N	1	
-5	ist	sein	V	1	
-6	,	,	O	1	
-7	ähm	ähm	O	1	
-8	,	,	O	1	
-9	gewöhnungsbedürftig	gewöhnungsbedürftig	G	1	
-10	.	.	O	1	
+1	Die	die	D	1	O
+2	Dame	Dame	N	1	O
+3	im	in	P	1	O
+4	Frühstücksraum	Frühstücksraum	N	1	O
+5	ist	sein	V	1	O
+6	,	,	O	1	O
+7	ähm	ähm	O	1	O
+8	,	,	O	1	O
+9	gewöhnungsbedürftig	gewöhnungsbedürftig	G	1	O
+10	.	.	O	1	O
 
-1	Wiederkommen	Wiederkommen	N	1	
-2	?	?	O	1	
+1	Wiederkommen	Wiederkommen	N	1	O
+2	?	?	O	1	O
 
-1	Ja	ja	O	1	
-2	warum	warum	Q	1	
-3	nicht	nicht	O	1	
-4	.	.	O	1	
+1	Ja	ja	O	1	O
+2	warum	warum	Q	1	O
+3	nicht	nicht	O	1	O
+4	.	.	O	1	O
 

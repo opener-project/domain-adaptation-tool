@@ -1,141 +1,150 @@
-1	De	De	R	1	
-2	playa	playa	N	1	
-3	en	en	O	1	
-4	fin	fin	O	1	
-5	de	de	O	1	
-6	año	año	O	1	
-7	.	.	O	1	
+1	De	De	R	1	O
+2	playa	playa	N	1	O
+3	en	en	O	1	O
+4	fin	fin	O	1	O
+5	de	de	O	1	O
+6	año	año	O	1	O
+7	.	.	O	1	O
 
-1	Hemos	Hemos	R	1	
-2	estado	estado	N	1	
-3	varias	varias	V	1	
-4	veces	veces	N	1	
-5	en	en	P	1	
-6	las_Islas_Canarias	las_Islas_Canarias	R	1	ne=Location
-7	,	,	O	1	
-8	en	en	O	1	
-9	esta	esta	O	1	
-10	ocasión	ocasión	O	1	
-11	escogimos	escogimos	O	1	
-12	pasar	pasar	O	1	
-13	el	el	O	1	
-14	Fin	Fin	R	1	
-15	de	de	P	1	
-16	Año	Año	R	1	
-17	en	en	P	1	
-18	un	un	G	1	
-19	hotel	hotel	N	1	
-20	de	de	P	1	
-21	Playa	Playa	R	1	
-22	.	.	O	1	
+1	Hemos	Hemos	R	1	O
+2	estado	estado	N	1	O
+3	varias	varias	V	1	O
+4	veces	veces	N	1	O
+5	en	en	P	1	O
+6	las	las	G	1	I-Location
+7	Islas	Islas	R	1	I-Location
+8	Canarias	Canarias	R	1	I-Location
+9	,	,	O	1	O
+10	en	en	O	1	O
+11	esta	esta	O	1	O
+12	ocasión	ocasión	O	1	O
+13	escogimos	escogimos	O	1	O
+14	pasar	pasar	O	1	O
+15	el	el	O	1	O
+16	Fin	Fin	R	1	O
+17	de	de	P	1	O
+18	Año	Año	R	1	O
+19	en	en	P	1	O
+20	un	un	G	1	O
+21	hotel	hotel	N	1	O
+22	de	de	P	1	O
+23	Playa	Playa	R	1	O
+24	.	.	O	1	O
 
-1	Tras	Tras	R	1	
-2	informarmos	informarmos	N	1	
-3	,	,	O	1	
-4	vía	vía	O	1	
-5	Internet	Internet	R	1	
-6	de	de	O	1	
-7	las	las	O	1	
-8	distintas	distintas	O	1	
-9	opciones	opciones	O	1	
-10	de	de	O	1	
-11	playa	playa	O	1	
-12	,	,	O	1	
-13	nos	nos	N	1	
-14	decidimos	decidimos	V	1	
-15	por	por	G	1	
-16	el	el	N	1	
-17	Hotel_Dream_Gran_Tacande	hotel_Dream_Gran_Tacande	R	1	ne=Hotel
-18	en	en	P	1	
-19	Costa_Adeje	Costa_Adeje	R	1	ne=Location
-20	.	.	O	1	
+1	Tras	Tras	R	1	O
+2	informarmos	informarmos	N	1	O
+3	,	,	O	1	O
+4	vía	vía	O	1	O
+5	Internet	Internet	R	1	O
+6	de	de	O	1	O
+7	las	las	O	1	O
+8	distintas	distintas	O	1	O
+9	opciones	opciones	O	1	O
+10	de	de	O	1	O
+11	playa	playa	O	1	O
+12	,	,	O	1	O
+13	nos	nos	N	1	O
+14	decidimos	decidimos	V	1	O
+15	por	por	G	1	O
+16	el	el	N	1	O
+17	Hotel	hotel	N	1	I-Hotel
+18	Dream	Dream	R	1	I-Hotel
+19	Gran	Gran	R	1	I-Hotel
+20	Tacande	Tacande	R	1	I-Hotel
+21	en	en	P	1	O
+22	Costa	Costa	R	1	I-Location
+23	Adeje	Adeje	R	1	I-Location
+24	.	.	O	1	O
 
-1	La	La	R	1	
-2	verdad	verdad	A	1	
-3	que	que	G	1	
-4	han	han	P	1	
-5	sido	sido	G	1	
-6	unas	unas	G	1	
-7	vacaciones	vacaciones	N	1	
-8	inolvidables	inolvidables	V	1	
-9	de	de	P	1	
-10	playa	playa	N	1	
-11	.	.	O	1	
+1	La	La	R	1	O
+2	verdad	verdad	A	1	O
+3	que	que	G	1	O
+4	han	han	P	1	O
+5	sido	sido	G	1	O
+6	unas	unas	G	1	O
+7	vacaciones	vacaciones	N	1	O
+8	inolvidables	inolvidables	V	1	O
+9	de	de	P	1	O
+10	playa	playa	N	1	O
+11	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	magníficamente	magníficamente	N	1	
-4	situado	situado	N	1	
-5	,	,	O	1	
-6	al	al	G	1	
-7	lado	lado	N	1	
-8	de	de	O	1	
-9	las_Playas_del_Duque	las_playas_del_duque	R	1	ne=Location
-10	y	y	G	1	
-11	cerca	cerca	N	1	
-12	de	de	P	1	
-13	centros	centros	N	1	
-14	comerciales	comerciales	N	1	
-15	,	,	O	1	
-16	paseo	paseo	N	1	
-17	marítimo	marítimo	N	1	
-18	,	,	O	1	
-19	aparte	aparte	O	1	
-20	de	de	O	1	
-21	estar	estar	O	1	
-22	muy	muy	G	1	
-23	bien	bien	N	1	
-24	,	,	O	1	
-25	escogimos	escogimos	O	1	
-26	una	una	G	1	
-27	habitación	habitación	N	1	
-28	con	con	N	1	
-29	vistas	vista	N	1	
-30	al	al	G	1	
-31	mar	mar	N	1	
-32	,	,	O	1	
-33	orientación	orientación	G	1	
-34	Sur	Sur	R	1	
-35	,	,	O	1	
-36	con	con	A	1	
-37	lo	lo	V	1	
-38	que	que	G	1	
-39	todo	todo	N	1	
-40	el	el	N	1	
-41	día	día	N	1	
-42	tuvimos	tuvimos	N	1	
-43	sol	sol	N	1	
-44	,	,	O	1	
-45	el	el	N	1	
-46	personal	personal	G	1	
-47	muy	muy	N	1	
-48	amable	amable	G	1	
-49	y	y	G	1	
-50	atento	atento	P	1	
-51	en	en	O	1	
-52	todos	todos	O	1	
-53	los	los	O	1	
-54	sentidos	sentidos	O	1	
-55	y	y	G	1	
-56	,	,	O	1	
-57	en	en	P	1	
-58	todos	todos	N	1	
-59	los	los	N	1	
-60	departamentos	departamentos	N	1	
-61	,	,	O	1	
-62	especialmente	especialmente	O	1	
-63	amables	amables	N	1	
-64	Omar	Omar	R	1	ne=Person
-65	en	en	P	1	
-66	restaurante	restaurante	N	1	
-67	buffet	buffet	N	1	
-68	y	y	G	1	
-69	Fernando	Fernando	R	1	ne=Person
-70	en	en	P	1	
-71	atención	atención	G	1	
-72	terraza	terraza	N	1	
-73	para	para	N	1	
-74	las	las	V	1	
-75	cenas	cenas	N	1	
-76	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	magníficamente	magníficamente	N	1	O
+4	situado	situado	N	1	O
+5	,	,	O	1	O
+6	al	al	G	1	O
+7	lado	lado	N	1	O
+8	de	de	O	1	O
+9	las	las	O	1	I-Location
+10	Playas	playas	O	1	I-Location
+11	del	del	O	1	I-Location
+12	Duque	duque	O	1	I-Location
+13	y	y	G	1	O
+14	cerca	cerca	N	1	O
+15	de	de	P	1	O
+16	centros	centros	N	1	O
+17	comerciales	comerciales	N	1	O
+18	,	,	O	1	O
+19	paseo	paseo	N	1	O
+20	marítimo	marítimo	N	1	O
+21	,	,	O	1	O
+22	aparte	aparte	O	1	O
+23	de	de	O	1	O
+24	estar	estar	O	1	O
+25	muy	muy	G	1	O
+26	bien	bien	N	1	O
+27	,	,	O	1	O
+28	escogimos	escogimos	O	1	O
+29	una	una	G	1	O
+30	habitación	habitación	N	1	O
+31	con	con	N	1	O
+32	vistas	vista	N	1	O
+33	al	al	G	1	O
+34	mar	mar	N	1	O
+35	,	,	O	1	O
+36	orientación	orientación	G	1	O
+37	Sur	Sur	R	1	O
+38	,	,	O	1	O
+39	con	con	A	1	O
+40	lo	lo	V	1	O
+41	que	que	G	1	O
+42	todo	todo	N	1	O
+43	el	el	N	1	O
+44	día	día	N	1	O
+45	tuvimos	tuvimos	N	1	O
+46	sol	sol	N	1	O
+47	,	,	O	1	O
+48	el	el	N	1	O
+49	personal	personal	G	1	O
+50	muy	muy	N	1	O
+51	amable	amable	G	1	O
+52	y	y	G	1	O
+53	atento	atento	P	1	O
+54	en	en	O	1	O
+55	todos	todos	O	1	O
+56	los	los	O	1	O
+57	sentidos	sentidos	O	1	O
+58	y	y	G	1	O
+59	,	,	O	1	O
+60	en	en	P	1	O
+61	todos	todos	N	1	O
+62	los	los	N	1	O
+63	departamentos	departamentos	N	1	O
+64	,	,	O	1	O
+65	especialmente	especialmente	O	1	O
+66	amables	amables	N	1	O
+67	Omar	Omar	R	1	I-Person
+68	en	en	P	1	O
+69	restaurante	restaurante	N	1	O
+70	buffet	buffet	N	1	O
+71	y	y	G	1	O
+72	Fernando	Fernando	R	1	I-Person
+73	en	en	P	1	O
+74	atención	atención	G	1	O
+75	terraza	terraza	N	1	O
+76	para	para	N	1	O
+77	las	las	V	1	O
+78	cenas	cenas	N	1	O
+79	.	.	O	1	O
 

@@ -1,48 +1,48 @@
-1	Tres	Tres	D	1	
-2	cher	cher	G	1	
+1	Tres	Tres	D	1	O
+2	cher	cher	G	1	O
 
-1	Personne	Personne	P	1	
-2	de	de	P	1	
-3	l'	le	D	1	
-4	accueil	accueil	N	1	
-5	méprisante	méprisant	G	1	
-6	et	et	C	1	
-7	mal	mal	G	1	
-8	·	·	V	1	
-9	aimable	aimable	G	1	
-10	.	.	O	1	
+1	Personne	Personne	P	1	O
+2	de	de	P	1	O
+3	l'	le	D	1	O
+4	accueil	accueil	N	1	O
+5	méprisante	méprisant	G	1	O
+6	et	et	C	1	O
+7	mal	mal	G	1	O
+8	·	·	V	1	O
+9	aimable	aimable	G	1	O
+10	.	.	O	1	O
 
-1	Spectacle	spectacle	N	1	
-2	certes	certes	G	1	
-3	magnifique	magnifique	G	1	
-4	mais	mais	C	1	
-5	ne	ne	G	1	
-6	dure	durer	V	1	
-7	qu'	qu'	G	1	
-8	une	un	D	1	
-9	petite	petit	G	1	
-10	demi	demi	N	1	
-11	·	·	G	1	
-12	heure	heure	N	1	
-13	,	,	O	1	
-14	pour	pour	P	1	
-15	50	50	D	1	
-16	€	€	N	1	
-17	pour	pour	P	1	
-18	5	5	D	1	
-19	,	,	N	1	
-20	cela	cela	P	1	
-21	fait	faire	V	1	
-22	un	un	D	1	
-23	peu	peu	G	1	
-24	cher	cher	G	1	
-25	...	...	O	1	
+1	Spectacle	spectacle	N	1	O
+2	certes	certes	G	1	O
+3	magnifique	magnifique	G	1	O
+4	mais	mais	C	1	O
+5	ne	ne	G	1	O
+6	dure	durer	V	1	O
+7	qu'	qu'	G	1	O
+8	une	un	D	1	O
+9	petite	petit	G	1	O
+10	demi	demi	N	1	O
+11	·	·	G	1	O
+12	heure	heure	N	1	O
+13	,	,	O	1	O
+14	pour	pour	P	1	O
+15	50	50	D	1	O
+16	€	€	N	1	O
+17	pour	pour	P	1	O
+18	5	5	D	1	O
+19	,	,	N	1	O
+20	cela	cela	P	1	O
+21	fait	faire	V	1	O
+22	un	un	D	1	O
+23	peu	peu	G	1	O
+24	cher	cher	G	1	O
+25	...	...	O	1	O
 
-1	Je	Je	Q	1	
-2	ne	ne	G	1	
-3	recommanderai	recommander	V	1	
-4	pas	pas	G	1	
-5	ce	ce	D	1	
-6	lieu	lieu	N	1	
-7	.	.	O	1	
+1	Je	Je	Q	1	O
+2	ne	ne	G	1	O
+3	recommanderai	recommander	V	1	O
+4	pas	pas	G	1	O
+5	ce	ce	D	1	O
+6	lieu	lieu	N	1	O
+7	.	.	O	1	O
 

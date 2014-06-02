@@ -1,134 +1,134 @@
-1	Top	top	N	1	
-2	vakantie	vakantie	N	1	
+1	Top	top	N	1	O
+2	vakantie	vakantie	N	1	O
 
-1	Het	het	Q	1	
-2	was	wezen|zijn	V	1	
-3	een	een	D	1	
-4	zeer	zeer	G	1	
-5	leuke	leuk	G	1	
-6	en	en	C	1	
-7	geslaagde	slagen	V	1	
-8	vakantie	vakantie	N	1	
-9	.	.	O	1	
+1	Het	het	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	een	een	D	1	O
+4	zeer	zeer	G	1	O
+5	leuke	leuk	G	1	O
+6	en	en	C	1	O
+7	geslaagde	slagen	V	1	O
+8	vakantie	vakantie	N	1	O
+9	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	wordt	worden	V	1	
-3	op	op	P	1	
-4	handen	hand	N	1	
-5	gedragen	dragen|gedragen	V	1	
-6	door	door	P	1	
-7	het	het	D	1	
-8	personeel	personeel	N	1	
-9	.	.	O	1	
+1	Je	je	Q	1	O
+2	wordt	worden	V	1	O
+3	op	op	P	1	O
+4	handen	hand	N	1	O
+5	gedragen	dragen|gedragen	V	1	O
+6	door	door	P	1	O
+7	het	het	D	1	O
+8	personeel	personeel	N	1	O
+9	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	waren	wezen|zijn	V	1	
-4	goed	goed	N	1	
-5	,	,	O	1	
-6	maar	maar	C	1	
-7	al	al	A	1	
-8	wel	wel	A	1	
-9	ouder	ouder	N	1	
-10	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	waren	wezen|zijn	V	1	O
+4	goed	goed	N	1	O
+5	,	,	O	1	O
+6	maar	maar	C	1	O
+7	al	al	A	1	O
+8	wel	wel	A	1	O
+9	ouder	ouder	N	1	O
+10	.	.	O	1	O
 
-1	Zodra	zodra	C	1	
-2	er	er	Q	1	
-3	dan	dan	A	1	
-4	ook	ook	A	1	
-5	iets	iets	A	1	
-6	kapot	kapot	G	1	
-7	was	wezen|zijn	V	1	
-8	,	,	O	1	
-9	kon	kunnen	V	1	
-10	je	je	Q	1	
-11	dit	dit	D	1	
-12	doorgeven	doorgeven	N	1	
-13	en	en	C	1	
-14	werd	worden	V	1	
-15	er	er	Q	1	
-16	meteen	meteen	A	1	
-17	gezorgd	zorgen	V	1	
-18	voor	voor	P	1	
-19	vervanging	vervanging	N	1	
-20	of	of	C	1	
-21	reparatie	reparatie	N	1	
-22	.	.	O	1	
+1	Zodra	zodra	C	1	O
+2	er	er	Q	1	O
+3	dan	dan	A	1	O
+4	ook	ook	A	1	O
+5	iets	iets	A	1	O
+6	kapot	kapot	G	1	O
+7	was	wezen|zijn	V	1	O
+8	,	,	O	1	O
+9	kon	kunnen	V	1	O
+10	je	je	Q	1	O
+11	dit	dit	D	1	O
+12	doorgeven	doorgeven	N	1	O
+13	en	en	C	1	O
+14	werd	worden	V	1	O
+15	er	er	Q	1	O
+16	meteen	meteen	A	1	O
+17	gezorgd	zorgen	V	1	O
+18	voor	voor	P	1	O
+19	vervanging	vervanging	N	1	O
+20	of	of	C	1	O
+21	reparatie	reparatie	N	1	O
+22	.	.	O	1	O
 
-1	De	de	D	1	
-2	animatie	animatie	N	1	
-3	was	wezen|zijn	V	1	
-4	top	toppen	V	1	
-5	!	!	O	1	
+1	De	de	D	1	O
+2	animatie	animatie	N	1	O
+3	was	wezen|zijn	V	1	O
+4	top	toppen	V	1	O
+5	!	!	O	1	O
 
-1	Gezellig	gezellig	G	1	
-2	team	team	N	1	
-3	,	,	O	1	
-4	wat	wat	Q	1	
-5	je	je	Q	1	
-6	goed	goed	N	1	
-7	probeerde	proberen	V	1	
-8	aan	aan	A	1	
-9	te	te	O	1	
-10	sporen	sporen	V	1	
-11	om	om	C	1	
-12	lekker	lekker	A	1	
-13	mee	mee	A	1	
-14	te	te	O	1	
-15	doen	doen	V	1	
-16	en	en	C	1	
-17	een	een	D	1	
-18	leuke	leuk	G	1	
-19	vakantie	vakantie	N	1	
-20	te	te	O	1	
-21	hebben	hebben	V	1	
-22	.	.	O	1	
+1	Gezellig	gezellig	G	1	O
+2	team	team	N	1	O
+3	,	,	O	1	O
+4	wat	wat	Q	1	O
+5	je	je	Q	1	O
+6	goed	goed	N	1	O
+7	probeerde	proberen	V	1	O
+8	aan	aan	A	1	O
+9	te	te	O	1	O
+10	sporen	sporen	V	1	O
+11	om	om	C	1	O
+12	lekker	lekker	A	1	O
+13	mee	mee	A	1	O
+14	te	te	O	1	O
+15	doen	doen	V	1	O
+16	en	en	C	1	O
+17	een	een	D	1	O
+18	leuke	leuk	G	1	O
+19	vakantie	vakantie	N	1	O
+20	te	te	O	1	O
+21	hebben	hebben	V	1	O
+22	.	.	O	1	O
 
-1	De	de	D	1	
-2	shows	show	N	1	
-3	die	die	Q	1	
-4	'	'	O	1	
-5	s	s	N	1	
-6	avonds	avond	N	1	
-7	werden	worden	V	1	
-8	gegeven	geven	V	1	
-9	,	,	O	1	
-10	waren	wezen|zijn	V	1	
-11	dan	dan	A	1	
-12	ook	ook	A	1	
-13	erg	erg	G	1	
-14	leuk	leuk	G	1	
-15	en	en	C	1	
-16	gevarieëerd	gevarieëerd	O	1	
-17	zelfs	zelfs	A	1	
-18	na	na	P	1	
-19	twee	twee	O	1	
-20	weken	week	N	1	
-21	geen	geen	D	1	
-22	zelfde	zelfde	G	1	
-23	shows	show	N	1	
-24	gezien	zien	V	1	
-25	.	.	O	1	
+1	De	de	D	1	O
+2	shows	show	N	1	O
+3	die	die	Q	1	O
+4	'	'	O	1	O
+5	s	s	N	1	O
+6	avonds	avond	N	1	O
+7	werden	worden	V	1	O
+8	gegeven	geven	V	1	O
+9	,	,	O	1	O
+10	waren	wezen|zijn	V	1	O
+11	dan	dan	A	1	O
+12	ook	ook	A	1	O
+13	erg	erg	G	1	O
+14	leuk	leuk	G	1	O
+15	en	en	C	1	O
+16	gevarieëerd	gevarieëerd	O	1	O
+17	zelfs	zelfs	A	1	O
+18	na	na	P	1	O
+19	twee	twee	O	1	O
+20	weken	week	N	1	O
+21	geen	geen	D	1	O
+22	zelfde	zelfde	G	1	O
+23	shows	show	N	1	O
+24	gezien	zien	V	1	O
+25	.	.	O	1	O
 
-1	Kimo	Kimo	R	1	ne=Person
-2	,	,	O	1	
-3	Alaa	Alaa	R	1	ne=Person
-4	,	,	O	1	
-5	Irakli	Irakli	R	1	ne=Person
-6	en	en	C	1	
-7	natuurlijk	natuurlijk	G	1	
-8	de	de	D	1	
-9	rest	rest	N	1	
-10	van	van	P	1	
-11	het	het	D	1	
-12	team	team	N	1	
-13	&	&	O	1	
-14	personeel	personeel	N	1	
-15	bedankt	bedanken	V	1	
-16	voor	voor	P	1	
-17	een	een	D	1	
-18	geweldige	geweldig	G	1	
-19	twee	twee	O	1	
-20	weken	week	N	1	
-21	!	!	O	1	
+1	Kimo	Kimo	R	1	I-Person
+2	,	,	O	1	O
+3	Alaa	Alaa	R	1	I-Person
+4	,	,	O	1	O
+5	Irakli	Irakli	R	1	I-Person
+6	en	en	C	1	O
+7	natuurlijk	natuurlijk	G	1	O
+8	de	de	D	1	O
+9	rest	rest	N	1	O
+10	van	van	P	1	O
+11	het	het	D	1	O
+12	team	team	N	1	O
+13	&	&	O	1	O
+14	personeel	personeel	N	1	O
+15	bedankt	bedanken	V	1	O
+16	voor	voor	P	1	O
+17	een	een	D	1	O
+18	geweldige	geweldig	G	1	O
+19	twee	twee	O	1	O
+20	weken	week	N	1	O
+21	!	!	O	1	O
 

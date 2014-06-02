@@ -1,42 +1,42 @@
-1	Moyen	moyen	N	1	
+1	Moyen	moyen	N	1	O
 
-1	cher	cher	G	1	
-2	pour	pour	P	1	
-3	voir	voir	V	1	
-4	si	si	C	1	
-5	peux	peux	P	1	
-6	d	d	N	1	
-7	animaux.ns	animaux.ns	P	1	
-8	avons	avoir	V	1	
-9	payer	payer	V	1	
-10	52	52	D	1	
-11	euros	euro	N	1	
-12	pour	pour	P	1	
-13	2	2	D	1	
-14	adultes	adulte	N	1	
-15	et	et	C	1	
-16	2	2	D	1	
-17	enfants.ns	enfants.ns	N	1	
-18	avons	avoir	V	1	
-19	fait	faire	V	1	
-20	le	le	D	1	
-21	tour	tour	N	1	
-22	en	en	P	1	
-23	1h15	1h15	N	1	
-24	en	en	P	1	
-25	prenant	prendre	V	1	
-26	vraiment	vraiment	G	1	
-27	notre	son	D	1	
-28	temps.ns	temps.ns	N	1	
-29	ns	ns	G	1	
-30	sommes	sommer	V	1	
-31	meme	meme	O	1	
-32	pas	pas	G	1	
-33	attardre	attardre	N	1	
-34	a	avoir	V	1	
-35	lespace	lespace	D	1	
-36	vente	vente	N	1	
-37	budget	budget	N	1	
-38	serrer	serrer	V	1	
-39	!	!	O	1	
+1	cher	cher	G	1	O
+2	pour	pour	P	1	O
+3	voir	voir	V	1	O
+4	si	si	C	1	O
+5	peux	peux	P	1	O
+6	d	d	N	1	O
+7	animaux.ns	animaux.ns	P	1	O
+8	avons	avoir	V	1	O
+9	payer	payer	V	1	O
+10	52	52	D	1	O
+11	euros	euro	N	1	O
+12	pour	pour	P	1	O
+13	2	2	D	1	O
+14	adultes	adulte	N	1	O
+15	et	et	C	1	O
+16	2	2	D	1	O
+17	enfants.ns	enfants.ns	N	1	O
+18	avons	avoir	V	1	O
+19	fait	faire	V	1	O
+20	le	le	D	1	O
+21	tour	tour	N	1	O
+22	en	en	P	1	O
+23	1h15	1h15	N	1	O
+24	en	en	P	1	O
+25	prenant	prendre	V	1	O
+26	vraiment	vraiment	G	1	O
+27	notre	son	D	1	O
+28	temps.ns	temps.ns	N	1	O
+29	ns	ns	G	1	O
+30	sommes	sommer	V	1	O
+31	meme	meme	O	1	O
+32	pas	pas	G	1	O
+33	attardre	attardre	N	1	O
+34	a	avoir	V	1	O
+35	lespace	lespace	D	1	O
+36	vente	vente	N	1	O
+37	budget	budget	N	1	O
+38	serrer	serrer	V	1	O
+39	!	!	O	1	O
 

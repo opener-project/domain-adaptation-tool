@@ -1,131 +1,132 @@
-1	Goed	goed	G	1	
-2	hotel	hotel	N	1	
-3	met	met	P	1	
-4	te	te	O	1	
-5	veel	veel	O	1	
-6	Russen	Rus	N	1	
+1	Goed	goed	G	1	O
+2	hotel	hotel	N	1	O
+3	met	met	P	1	O
+4	te	te	O	1	O
+5	veel	veel	O	1	O
+6	Russen	Rus	N	1	O
 
-1	Het	het	D	1	
-2	Hotel	hotel	N	1	
-3	is	zijn	V	1	
-4	perfect	perfect	G	1	
-5	niks	niks	Q	1	
-6	op	op	A	1	
-7	aan	aan	A	1	
-8	te	te	O	1	
-9	merken	merken	V	1	
-10	,	,	O	1	
-11	alleen	alleen	A	1	
-12	héél	héél	O	1	
-13	vervelend	vervelen	V	1	
-14	dat	dat	C	1	
-15	ongeveer	ongeveer	A	1	
-16	80	@card@	O	1	
-17	%	%	O	1	
-18	van	van	P	1	
-19	de	de	D	1	
-20	gasten	gast|gasten	N	1	
-21	Russen	Rus	N	1	
-22	zijn	zijn	V	1	
-23	.	.	O	1	
+1	Het	het	D	1	O
+2	Hotel	hotel	N	1	O
+3	is	zijn	V	1	O
+4	perfect	perfect	G	1	O
+5	niks	niks	Q	1	O
+6	op	op	A	1	O
+7	aan	aan	A	1	O
+8	te	te	O	1	O
+9	merken	merken	V	1	O
+10	,	,	O	1	O
+11	alleen	alleen	A	1	O
+12	héél	héél	O	1	O
+13	vervelend	vervelen	V	1	O
+14	dat	dat	C	1	O
+15	ongeveer	ongeveer	A	1	O
+16	80	@card@	O	1	O
+17	%	%	O	1	O
+18	van	van	P	1	O
+19	de	de	D	1	O
+20	gasten	gast|gasten	N	1	O
+21	Russen	Rus	N	1	O
+22	zijn	zijn	V	1	O
+23	.	.	O	1	O
 
-1	Veel	veel	A	1	
-2	van	van	P	1	
-3	deze	deze	D	1	
-4	mensen	mens	N	1	
-5	hebben	hebben	V	1	
-6	en	en	C	1	
-7	kennen	kennen	V	1	
-8	geen	geen	D	1	
-9	normen	norm	N	1	
-10	,	,	O	1	
-11	waarden	waard|waarde	N	1	
-12	of	of	C	1	
-13	respect	respect	N	1	
-14	,	,	O	1	
-15	dit	dit	Q	1	
-16	lijdt	lijden	V	1	
-17	tot	tot	P	1	
-18	ergenis	ergenis	O	1	
-19	bij	bij	P	1	
-20	zowel	zowel	C	1	
-21	gasten	gast|gasten	N	1	
-22	als	als	C	1	
-23	medewerkers	medewerker	N	1	
-24	van	van	P	1	
-25	het	het	D	1	
-26	hotel	hotel	N	1	
-27	.	.	O	1	
+1	Veel	veel	A	1	O
+2	van	van	P	1	O
+3	deze	deze	D	1	O
+4	mensen	mens	N	1	O
+5	hebben	hebben	V	1	O
+6	en	en	C	1	O
+7	kennen	kennen	V	1	O
+8	geen	geen	D	1	O
+9	normen	norm	N	1	O
+10	,	,	O	1	O
+11	waarden	waard|waarde	N	1	O
+12	of	of	C	1	O
+13	respect	respect	N	1	O
+14	,	,	O	1	O
+15	dit	dit	Q	1	O
+16	lijdt	lijden	V	1	O
+17	tot	tot	P	1	O
+18	ergenis	ergenis	O	1	O
+19	bij	bij	P	1	O
+20	zowel	zowel	C	1	O
+21	gasten	gast|gasten	N	1	O
+22	als	als	C	1	O
+23	medewerkers	medewerker	N	1	O
+24	van	van	P	1	O
+25	het	het	D	1	O
+26	hotel	hotel	N	1	O
+27	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	het	het	D	1	
-3	reserveren	reserveren	N	1	
-4	van	van	P	1	
-5	handdoeken	handdoek	N	1	
-6	is	zijn	V	1	
-7	problematisch	problematisch	G	1	
-8	,	,	O	1	
-9	wil	willen	V	1	
-10	je	je	Q	1	
-11	een	een	D	1	
-12	ligbed	ligbed	O	1	
-13	tussen	tussen	P	1	
-14	het	het	D	1	
-15	complex	complex	N	1	
-16	hebben	hebben	V	1	
-17	zul	zul	O	1	
-18	je	je	Q	1	
-19	vroeg	vragen	V	1	
-20	uit	uit	P	1	
-21	de	de	D	1	
-22	veren	veer	N	1	
-23	moeten	moeten	V	1	
-24	"	"	O	1	
-25	07:15_uur	@card@_uur	R	1	ne=Time
-26	"	"	O	1	
-27	,	,	O	1	
-28	bij	bij	P	1	
-29	het	het	D	1	
-30	aquapark	aquapark	O	1	
-31	en	en	C	1	
-32	aan	aan	P	1	
-33	zee	zee	N	1	
-34	kun	kun	O	1	
-35	je	je	Q	1	
-36	later	laat|later	G	1	
-37	ook	ook	A	1	
-38	ligbedden	ligbedden	O	1	
-39	tot	tot	P	1	
-40	je	je	Q	1	
-41	beschikking	beschikking	N	1	
-42	krijgen	krijgen	V	1	
-43	.	.	O	1	
+1	Ook	ook	A	1	O
+2	het	het	D	1	O
+3	reserveren	reserveren	N	1	O
+4	van	van	P	1	O
+5	handdoeken	handdoek	N	1	O
+6	is	zijn	V	1	O
+7	problematisch	problematisch	G	1	O
+8	,	,	O	1	O
+9	wil	willen	V	1	O
+10	je	je	Q	1	O
+11	een	een	D	1	O
+12	ligbed	ligbed	O	1	O
+13	tussen	tussen	P	1	O
+14	het	het	D	1	O
+15	complex	complex	N	1	O
+16	hebben	hebben	V	1	O
+17	zul	zul	O	1	O
+18	je	je	Q	1	O
+19	vroeg	vragen	V	1	O
+20	uit	uit	P	1	O
+21	de	de	D	1	O
+22	veren	veer	N	1	O
+23	moeten	moeten	V	1	O
+24	"	"	O	1	O
+25	07:15	@card@	O	1	I-Time
+26	uur	uur	N	1	I-Time
+27	"	"	O	1	O
+28	,	,	O	1	O
+29	bij	bij	P	1	O
+30	het	het	D	1	O
+31	aquapark	aquapark	O	1	O
+32	en	en	C	1	O
+33	aan	aan	P	1	O
+34	zee	zee	N	1	O
+35	kun	kun	O	1	O
+36	je	je	Q	1	O
+37	later	laat|later	G	1	O
+38	ook	ook	A	1	O
+39	ligbedden	ligbedden	O	1	O
+40	tot	tot	P	1	O
+41	je	je	Q	1	O
+42	beschikking	beschikking	N	1	O
+43	krijgen	krijgen	V	1	O
+44	.	.	O	1	O
 
-1	Hotel	hotel	N	1	
-2	is	zijn	V	1	
-3	aan	aan	A	1	
-4	te	te	O	1	
-5	bevelen	bevelen	V	1	
-6	maar	maar	C	1	
-7	dan	dan	A	1	
-8	moet	moeten	V	1	
-9	je	je	Q	1	
-10	de	de	D	1	
-11	Russen	Rus	N	1	
-12	voor	voor	P	1	
-13	lief	lief	G	1	
-14	nemen	nemen	N	1	
-15	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	is	zijn	V	1	O
+3	aan	aan	A	1	O
+4	te	te	O	1	O
+5	bevelen	bevelen	V	1	O
+6	maar	maar	C	1	O
+7	dan	dan	A	1	O
+8	moet	moeten	V	1	O
+9	je	je	Q	1	O
+10	de	de	D	1	O
+11	Russen	Rus	N	1	O
+12	voor	voor	P	1	O
+13	lief	lief	G	1	O
+14	nemen	nemen	N	1	O
+15	.	.	O	1	O
 
-1	Weinig	weinig	O	1	
-2	Nederlanders	Nederlander	N	1	
-3	,	,	O	1	
-4	voor	voor	P	1	
-5	kinderen	kind	N	1	
-6	kan	kunnen	V	1	
-7	dit	dit	Q	1	
-8	een	een	D	1	
-9	minpunt	minpunt	N	1	
-10	zijn	zijn	V	1	
-11	.	.	O	1	
+1	Weinig	weinig	O	1	O
+2	Nederlanders	Nederlander	N	1	O
+3	,	,	O	1	O
+4	voor	voor	P	1	O
+5	kinderen	kind	N	1	O
+6	kan	kunnen	V	1	O
+7	dit	dit	Q	1	O
+8	een	een	D	1	O
+9	minpunt	minpunt	N	1	O
+10	zijn	zijn	V	1	O
+11	.	.	O	1	O
 

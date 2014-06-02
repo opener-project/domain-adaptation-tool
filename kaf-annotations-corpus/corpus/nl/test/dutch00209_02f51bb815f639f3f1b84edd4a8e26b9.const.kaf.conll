@@ -1,114 +1,115 @@
-1	Zonnige	zonnig	G	1	
-2	relax	relaxen	V	1	
-3	vakantie	vakantie	N	1	
+1	Zonnige	zonnig	G	1	O
+2	relax	relaxen	V	1	O
+3	vakantie	vakantie	N	1	O
 
-1	Wij	wij	Q	1	
-2	hebben	hebben	V	1	
-3	deze	deze	D	1	
-4	vakantie	vakantie	N	1	
-5	geboekt	boeken	V	1	
-6	ipv	ipv	O	1	
-7	van	van	P	1	
-8	onze	ons	D	1	
-9	wintersport	wintersport	N	1	
-10	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hebben	hebben	V	1	O
+3	deze	deze	D	1	O
+4	vakantie	vakantie	N	1	O
+5	geboekt	boeken	V	1	O
+6	ipv	ipv	O	1	O
+7	van	van	P	1	O
+8	onze	ons	D	1	O
+9	wintersport	wintersport	N	1	O
+10	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	wilden	willen	V	1	
-3	wel	wel	A	1	
-4	eens	eens	A	1	
-5	naar	naar	P	1	
-6	de	de	D	1	
-7	zon	zon	N	1	
-8	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	wilden	willen	V	1	O
+3	wel	wel	A	1	O
+4	eens	eens	A	1	O
+5	naar	naar	P	1	O
+6	de	de	D	1	O
+7	zon	zon	N	1	O
+8	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	voldeed	voldoen	V	1	
-3	goed	goed	A	1	
-4	aan	aan	P	1	
-5	onze	ons	D	1	
-6	verwachr	verwachr	O	1	
-7	\	\	O	1	
-8	ting	ting	O	1	
-9	.	.	O	1	
+1	Het	het	Q	1	O
+2	voldeed	voldoen	V	1	O
+3	goed	goed	A	1	O
+4	aan	aan	P	1	O
+5	onze	ons	D	1	O
+6	verwachr	verwachr	O	1	O
+7	\	\	O	1	O
+8	ting	ting	O	1	O
+9	.	.	O	1	O
 
-1	Enorm	enorm	G	1	
-2	groot	groot	G	1	
-3	park	park	N	1	
-4	met	met	P	1	
-5	veel	veel	O	1	
-6	faciliteiten	faciliteit	N	1	
-7	.	.	O	1	
+1	Enorm	enorm	G	1	O
+2	groot	groot	G	1	O
+3	park	park	N	1	O
+4	met	met	P	1	O
+5	veel	veel	O	1	O
+6	faciliteiten	faciliteit	N	1	O
+7	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	is	zijn	V	1	
-3	van	van	P	1	
-4	alles	alles	Q	1	
-5	te	te	O	1	
-6	doen	doen	V	1	
-7	.	.	O	1	
+1	Er	er	Q	1	O
+2	is	zijn	V	1	O
+3	van	van	P	1	O
+4	alles	alles	Q	1	O
+5	te	te	O	1	O
+6	doen	doen	V	1	O
+7	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	de	de	D	1	
-3	ligging	ligging	N	1	
-4	is	zijn	V	1	
-5	prima	prima	G	1	
-6	,	,	O	1	
-7	direct	direct	G	1	
-8	aan	aan	P	1	
-9	het	het	D	1	
-10	strand	strand	N	1	
-11	.	.	O	1	
+1	Ook	ook	A	1	O
+2	de	de	D	1	O
+3	ligging	ligging	N	1	O
+4	is	zijn	V	1	O
+5	prima	prima	G	1	O
+6	,	,	O	1	O
+7	direct	direct	G	1	O
+8	aan	aan	P	1	O
+9	het	het	D	1	O
+10	strand	strand	N	1	O
+11	.	.	O	1	O
 
-1	Daarnaast	daarnaast	Q	1	
-2	ligt	liggen	V	1	
-3	ook	ook	A	1	
-4	Titanic_Palace	Titanic_Palace	R	1	ne=Hotel
-5	waarvan	waarvan	Q	1	
-6	je	je	Q	1	
-7	ook	ook	A	1	
-8	alle	alle	D	1	
-9	faciliteiten	faciliteit	N	1	
-10	mag	mogen	V	1	
-11	gebruiken	gebruiken	V	1	
-12	.	.	O	1	
+1	Daarnaast	daarnaast	Q	1	O
+2	ligt	liggen	V	1	O
+3	ook	ook	A	1	O
+4	Titanic	Titanic	O	1	I-Hotel
+5	Palace	Palace	O	1	I-Hotel
+6	waarvan	waarvan	Q	1	O
+7	je	je	Q	1	O
+8	ook	ook	A	1	O
+9	alle	alle	D	1	O
+10	faciliteiten	faciliteit	N	1	O
+11	mag	mogen	V	1	O
+12	gebruiken	gebruiken	V	1	O
+13	.	.	O	1	O
 
-1	Alleen	alleen	A	1	
-2	hadden	hebben	V	1	
-3	wij	wij	Q	1	
-4	ons	ons	Q	1	
-5	vergist	vergissen	V	1	
-6	in	in	P	1	
-7	de	de	D	1	
-8	temperatuur	temperatuur	N	1	
-9	van	van	P	1	
-10	het	het	D	1	
-11	water	water	N	1	
-12	dat	dat	Q	1	
-13	is	zijn	V	1	
-14	wat	wat	Q	1	
-15	koud	koud	G	1	
-16	maar	maar	C	1	
-17	dat	dat	Q	1	
-18	heeft	hebben	V	1	
-19	alles	alles	Q	1	
-20	te	te	O	1	
-21	maken	maken	V	1	
-22	met	met	P	1	
-23	de	de	D	1	
-24	tijd	tijd	N	1	
-25	van	van	P	1	
-26	het	het	D	1	
-27	jaar	jaar	N	1	
-28	.	.	O	1	
+1	Alleen	alleen	A	1	O
+2	hadden	hebben	V	1	O
+3	wij	wij	Q	1	O
+4	ons	ons	Q	1	O
+5	vergist	vergissen	V	1	O
+6	in	in	P	1	O
+7	de	de	D	1	O
+8	temperatuur	temperatuur	N	1	O
+9	van	van	P	1	O
+10	het	het	D	1	O
+11	water	water	N	1	O
+12	dat	dat	Q	1	O
+13	is	zijn	V	1	O
+14	wat	wat	Q	1	O
+15	koud	koud	G	1	O
+16	maar	maar	C	1	O
+17	dat	dat	Q	1	O
+18	heeft	hebben	V	1	O
+19	alles	alles	Q	1	O
+20	te	te	O	1	O
+21	maken	maken	V	1	O
+22	met	met	P	1	O
+23	de	de	D	1	O
+24	tijd	tijd	N	1	O
+25	van	van	P	1	O
+26	het	het	D	1	O
+27	jaar	jaar	N	1	O
+28	.	.	O	1	O
 
-1	Kortom	kortom	A	1	
-2	voor	voor	P	1	
-3	ons	ons	Q	1	
-4	een	een	D	1	
-5	fijne	fijn	G	1	
-6	vakantie	vakantie	N	1	
-7	voor	voor	P	1	
-8	tussendoor	tussendoor	A	1	
-9	.	.	O	1	
+1	Kortom	kortom	A	1	O
+2	voor	voor	P	1	O
+3	ons	ons	Q	1	O
+4	een	een	D	1	O
+5	fijne	fijn	G	1	O
+6	vakantie	vakantie	N	1	O
+7	voor	voor	P	1	O
+8	tussendoor	tussendoor	A	1	O
+9	.	.	O	1	O
 

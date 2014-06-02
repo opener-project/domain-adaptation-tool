@@ -1,114 +1,115 @@
-1	Allinclusive	Allinclusive	O	1	
-2	im	in	P	1	
-3	Schnee	Schnee	N	1	
+1	Allinclusive	Allinclusive	O	1	O
+2	im	in	P	1	O
+3	Schnee	Schnee	N	1	O
 
-1	Im	in	P	1	
-2	Großen	Große	N	1	
-3	und	und	C	1	
-4	Ganzen	Ganze	N	1	
-5	hat	haben	V	1	
-6	es	es	Q	1	
-7	uns	wir	Q	1	
-8	gefallen	fallen|gefallen	V	1	
-9	.	.	O	1	
+1	Im	in	P	1	O
+2	Großen	Große	N	1	O
+3	und	und	C	1	O
+4	Ganzen	Ganze	N	1	O
+5	hat	haben	V	1	O
+6	es	es	Q	1	O
+7	uns	wir	Q	1	O
+8	gefallen	fallen|gefallen	V	1	O
+9	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	ein	eine	D	1	
-4	All	alle	Q	1	
-5	inclusive	inclusive	O	1	
-6	Wochenendtrip	Wochenendtrip	N	1	
-7	gebucht	buchen	V	1	
-8	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	ein	eine	D	1	O
+4	All	alle	Q	1	O
+5	inclusive	inclusive	O	1	O
+6	Wochenendtrip	Wochenendtrip	N	1	O
+7	gebucht	buchen	V	1	O
+8	.	.	O	1	O
 
-1	Den	die	D	1	
-2	Männern	Mann	N	1	
-3	hat	haben	V	1	
-4	das	die	D	1	
-5	Skifahren	Skifahren	N	1	
-6	Spaß	Spaß	N	1	
-7	gemacht	machen	V	1	
-8	·	·	O	1	
-9	Eintritt	Eintritt	N	1	
-10	und	und	C	1	
-11	Ausrüstung	Ausrüstung	N	1	
-12	waren	sein	V	1	
-13	ebenfalls	ebenfalls	A	1	
-14	im	in	P	1	
-15	Reisepreis	Reisepreis	N	1	
-16	beinhaltet	beinhalten	V	1	
-17	.	.	O	1	
+1	Den	die	D	1	O
+2	Männern	Mann	N	1	O
+3	hat	haben	V	1	O
+4	das	die	D	1	O
+5	Skifahren	Skifahren	N	1	O
+6	Spaß	Spaß	N	1	O
+7	gemacht	machen	V	1	O
+8	·	·	O	1	O
+9	Eintritt	Eintritt	N	1	O
+10	und	und	C	1	O
+11	Ausrüstung	Ausrüstung	N	1	O
+12	waren	sein	V	1	O
+13	ebenfalls	ebenfalls	A	1	O
+14	im	in	P	1	O
+15	Reisepreis	Reisepreis	N	1	O
+16	beinhaltet	beinhalten	V	1	O
+17	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Frauen	Frau	N	1	
-3	kamen	kommen	V	1	
-4	leider	leider	A	1	
-5	nicht	nicht	O	1	
-6	in	in	P	1	
-7	die	die	D	1	
-8	Skistiefel	Skistiefel	N	1	
-9	und	und	C	1	
-10	Rodeln	Rodel|Rodeln	N	1	
-11	per	per	P	1	
-12	Reifen	Reifen	N	1	
-13	war	sein	V	1	
-14	zum	zu	P	1	
-15	einen	eine	Q	1	
-16	an	an	P	1	
-17	diesem	dies	Q	1	
-18	Tag	Tag	N	1	
-19	nicht	nicht	O	1	
-20	möglich	möglich	G	1	
-21	und	und	C	1	
-22	zum	zu	P	1	
-23	anderen	andere	Q	1	
-24	hätte	haben	V	1	
-25	dieser	dies	Q	1	
-26	Spaß	Spaß	N	1	
-27	10,00_€	@card@_€	R	1	ne=Money
-28	pro	pro	P	1	
-29	Stunde	Stunde	N	1	
-30	gekostet	kosten	V	1	
-31	.	.	O	1	
+1	Die	die	D	1	O
+2	Frauen	Frau	N	1	O
+3	kamen	kommen	V	1	O
+4	leider	leider	A	1	O
+5	nicht	nicht	O	1	O
+6	in	in	P	1	O
+7	die	die	D	1	O
+8	Skistiefel	Skistiefel	N	1	O
+9	und	und	C	1	O
+10	Rodeln	Rodel|Rodeln	N	1	O
+11	per	per	P	1	O
+12	Reifen	Reifen	N	1	O
+13	war	sein	V	1	O
+14	zum	zu	P	1	O
+15	einen	eine	Q	1	O
+16	an	an	P	1	O
+17	diesem	dies	Q	1	O
+18	Tag	Tag	N	1	O
+19	nicht	nicht	O	1	O
+20	möglich	möglich	G	1	O
+21	und	und	C	1	O
+22	zum	zu	P	1	O
+23	anderen	andere	Q	1	O
+24	hätte	haben	V	1	O
+25	dieser	dies	Q	1	O
+26	Spaß	Spaß	N	1	O
+27	10,00	@card@	O	1	I-Money
+28	€	€	O	1	I-Money
+29	pro	pro	P	1	O
+30	Stunde	Stunde	N	1	O
+31	gekostet	kosten	V	1	O
+32	.	.	O	1	O
 
-1	Somit	somit	A	1	
-2	verbliebt	verbliebt	O	1	
-3	der	die	D	1	
-4	Spaß	Spaß	N	1	
-5	im	in	P	1	
-6	Schnee	Schnee	N	1	
-7	für	für	P	1	
-8	die	die	D	1	
-9	Frauen	Frau	N	1	
-10	·	·	O	1	
-11	schade	schade	G	1	
-12	!	!	O	1	
+1	Somit	somit	A	1	O
+2	verbliebt	verbliebt	O	1	O
+3	der	die	D	1	O
+4	Spaß	Spaß	N	1	O
+5	im	in	P	1	O
+6	Schnee	Schnee	N	1	O
+7	für	für	P	1	O
+8	die	die	D	1	O
+9	Frauen	Frau	N	1	O
+10	·	·	O	1	O
+11	schade	schade	G	1	O
+12	!	!	O	1	O
 
-1	Da	da	A	1	
-2	könnte	können	V	1	
-3	man	man	Q	1	
-4	echt	echt	G	1	
-5	noch	noch	A	1	
-6	was	was	Q	1	
-7	machen	machen	V	1	
-8	.	.	O	1	
+1	Da	da	A	1	O
+2	könnte	können	V	1	O
+3	man	man	Q	1	O
+4	echt	echt	G	1	O
+5	noch	noch	A	1	O
+6	was	was	Q	1	O
+7	machen	machen	V	1	O
+8	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	die	die	D	1	
-3	Ausstattung	Ausstattung	N	1	
-4	der	die	D	1	
-5	Zimmer	Zimmer	N	1	
-6	·	·	O	1	
-7	naja	naja	O	1	
-8	,	,	O	1	
-9	eher	eher	A	1	
-10	etwas	etwas	A	1	
-11	zum	zu	P	1	
-12	renovieren	renovieren	V	1	
-13	und	und	C	1	
-14	neu	neu	G	1	
-15	einrichten	einrichten	V	1	
-16	!	!	O	1	
-17	!	!	O	1	
-18	!	!	O	1	
+1	Auch	auch	A	1	O
+2	die	die	D	1	O
+3	Ausstattung	Ausstattung	N	1	O
+4	der	die	D	1	O
+5	Zimmer	Zimmer	N	1	O
+6	·	·	O	1	O
+7	naja	naja	O	1	O
+8	,	,	O	1	O
+9	eher	eher	A	1	O
+10	etwas	etwas	A	1	O
+11	zum	zu	P	1	O
+12	renovieren	renovieren	V	1	O
+13	und	und	C	1	O
+14	neu	neu	G	1	O
+15	einrichten	einrichten	V	1	O
+16	!	!	O	1	O
+17	!	!	O	1	O
+18	!	!	O	1	O
 

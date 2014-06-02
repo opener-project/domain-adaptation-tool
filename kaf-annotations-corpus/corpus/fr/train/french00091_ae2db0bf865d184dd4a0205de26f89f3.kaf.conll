@@ -1,119 +1,119 @@
-1	Déception	déception	N	1	
+1	Déception	déception	N	1	O
 
-1	Ne	Ne	G	1	
-2	mérite	mériter	V	1	
-3	pas	pas	G	1	
-4	4	4	D	1	
-5	étoiles.Absence	étoiles.Absence	N	1	
-6	d'	d'	P	1	
-7	accueil	accueil	N	1	
-8	,	,	O	1	
-9	le	le	D	1	
-10	personnel	personnel	N	1	
-11	du	du	P	1	
-12	camping	camping	N	1	
-13	brille	brille	G	1	
-14	par	par	P	1	
-15	son	son	D	1	
-16	incompétence	incompétence	N	1	
-17	et	et	C	1	
-18	son	son	D	1	
-19	indélicatesse	indélicatesse	N	1	
-20	envers	envers]	P	1	
-21	nos	son	D	1	
-22	enfants	enfant	N	1	
-23	.Sanitaires	.Sanitaires	P	1	
-24	déplorables	déplorables	N	1	
-25	,	,	O	1	
-26	eau	eau	N	1	
-27	brulante.Le	brulante.Le	G	1	
-28	tobbogan	tobbogan	N	1	
-29	de	de	P	1	
-30	la	le	D	1	
-31	piscine	piscine	N	1	
-32	n'	n'	G	1	
-33	est	être	V	1	
-34	pas	pas	G	1	
-35	aux	aux	P	1	
-36	normes.Pas	normes.Pas	G	1	
-37	de	de	P	1	
-38	douche	douche	N	1	
-39	visible	visible	G	1	
-40	à	à	P	1	
-41	l'	le	D	1	
-42	entrée	entrée	N	1	
-43	de	de	P	1	
-44	la	le	D	1	
-45	piscine.Après	piscine.Après	P	1	
-46	minuit	minuit	N	1	
-47	interdiction	interdiction	N	1	
-48	d'	d'	P	1	
-49	être	être	V	1	
-50	sur	sur	P	1	
-51	sa	son	D	1	
-52	terrasse	terrasse	N	1	
-53	!	!	O	1	
-54	!	!	O	1	
-55	!	!	O	1	
-56	!	!	O	1	
+1	Ne	Ne	G	1	O
+2	mérite	mériter	V	1	O
+3	pas	pas	G	1	O
+4	4	4	D	1	O
+5	étoiles.Absence	étoiles.Absence	N	1	O
+6	d'	d'	P	1	O
+7	accueil	accueil	N	1	O
+8	,	,	O	1	O
+9	le	le	D	1	O
+10	personnel	personnel	N	1	O
+11	du	du	P	1	O
+12	camping	camping	N	1	O
+13	brille	brille	G	1	O
+14	par	par	P	1	O
+15	son	son	D	1	O
+16	incompétence	incompétence	N	1	O
+17	et	et	C	1	O
+18	son	son	D	1	O
+19	indélicatesse	indélicatesse	N	1	O
+20	envers	envers]	P	1	O
+21	nos	son	D	1	O
+22	enfants	enfant	N	1	O
+23	.Sanitaires	.Sanitaires	P	1	O
+24	déplorables	déplorables	N	1	O
+25	,	,	O	1	O
+26	eau	eau	N	1	O
+27	brulante.Le	brulante.Le	G	1	O
+28	tobbogan	tobbogan	N	1	O
+29	de	de	P	1	O
+30	la	le	D	1	O
+31	piscine	piscine	N	1	O
+32	n'	n'	G	1	O
+33	est	être	V	1	O
+34	pas	pas	G	1	O
+35	aux	aux	P	1	O
+36	normes.Pas	normes.Pas	G	1	O
+37	de	de	P	1	O
+38	douche	douche	N	1	O
+39	visible	visible	G	1	O
+40	à	à	P	1	O
+41	l'	le	D	1	O
+42	entrée	entrée	N	1	O
+43	de	de	P	1	O
+44	la	le	D	1	O
+45	piscine.Après	piscine.Après	P	1	O
+46	minuit	minuit	N	1	O
+47	interdiction	interdiction	N	1	O
+48	d'	d'	P	1	O
+49	être	être	V	1	O
+50	sur	sur	P	1	O
+51	sa	son	D	1	O
+52	terrasse	terrasse	N	1	O
+53	!	!	O	1	O
+54	!	!	O	1	O
+55	!	!	O	1	O
+56	!	!	O	1	O
 
-1	Et	Et	C	1	
-2	on	on	Q	1	
-3	se	se	Q	1	
-4	fait	faire	V	1	
-5	presque	presque	G	1	
-6	engueuler	engueuler	V	1	
-7	quand	quand	G	1	
-8	ça	ça	P	1	
-9	arrive.Nous	arrive.Nous	N	1	
-10	sommes	sommer	V	1	
-11	une	un	D	1	
-12	pompe	pompe	N	1	
-13	à	à	P	1	
-14	fric	fric	N	1	
-15	pour	pour	P	1	
-16	payer	payer	V	1	
-17	les	le	D	1	
-18	vacances	vacance	N	1	
-19	de	de	P	1	
-20	cas	cas	N	1	
-21	qui	qui	P	1	
-22	n'	n'	G	1	
-23	ont	avoir	V	1	
-24	rien	rien	P	1	
-25	à	à	P	1	
-26	faire	faire	V	1	
-27	là.Camping	là.Camping	N	1	
-28	vacaf	vacaf	N	1	
-29	...	...	O	1	
+1	Et	Et	C	1	O
+2	on	on	Q	1	O
+3	se	se	Q	1	O
+4	fait	faire	V	1	O
+5	presque	presque	G	1	O
+6	engueuler	engueuler	V	1	O
+7	quand	quand	G	1	O
+8	ça	ça	P	1	O
+9	arrive.Nous	arrive.Nous	N	1	O
+10	sommes	sommer	V	1	O
+11	une	un	D	1	O
+12	pompe	pompe	N	1	O
+13	à	à	P	1	O
+14	fric	fric	N	1	O
+15	pour	pour	P	1	O
+16	payer	payer	V	1	O
+17	les	le	D	1	O
+18	vacances	vacance	N	1	O
+19	de	de	P	1	O
+20	cas	cas	N	1	O
+21	qui	qui	P	1	O
+22	n'	n'	G	1	O
+23	ont	avoir	V	1	O
+24	rien	rien	P	1	O
+25	à	à	P	1	O
+26	faire	faire	V	1	O
+27	là.Camping	là.Camping	N	1	O
+28	vacaf	vacaf	N	1	O
+29	...	...	O	1	O
 
-1	Le	le	D	1	
-2	seul	seul	G	1	
-3	point	point	N	1	
-4	positif	positif	G	1	
-5	de	de	P	1	
-6	ce	ce	D	1	
-7	simili	simili	N	1	
-8	camping	camping	O	1	
-9	4	4	D	1	
-10	*	*	N	1	
-11	est	être	V	1	
-12	l'	le	D	1	
-13	animation	animation	N	1	
-14	proposée	proposer	V	1	
-15	2j	2j	P	1	
-16	/	/	O	1	
-17	semaine	semaine	N	1	
-18	par	par	P	1	
-19	une	un	D	1	
-20	sté	sté	N	1	
-21	extérieure	extérieur	G	1	
-22	.On	.On	P	1	
-23	se	se	Q	1	
-24	demande	demander	V	1	
-25	même	même	G	1	
-26	pourquoi	pourquoi	C	1	
-27	ils	ils	Q	1	
-28	viennent	venir	V	1	
-29	.	.	O	1	
+1	Le	le	D	1	O
+2	seul	seul	G	1	O
+3	point	point	N	1	O
+4	positif	positif	G	1	O
+5	de	de	P	1	O
+6	ce	ce	D	1	O
+7	simili	simili	N	1	O
+8	camping	camping	O	1	O
+9	4	4	D	1	O
+10	*	*	N	1	O
+11	est	être	V	1	O
+12	l'	le	D	1	O
+13	animation	animation	N	1	O
+14	proposée	proposer	V	1	O
+15	2j	2j	P	1	O
+16	/	/	O	1	O
+17	semaine	semaine	N	1	O
+18	par	par	P	1	O
+19	une	un	D	1	O
+20	sté	sté	N	1	O
+21	extérieure	extérieur	G	1	O
+22	.On	.On	P	1	O
+23	se	se	Q	1	O
+24	demande	demander	V	1	O
+25	même	même	G	1	O
+26	pourquoi	pourquoi	C	1	O
+27	ils	ils	Q	1	O
+28	viennent	venir	V	1	O
+29	.	.	O	1	O
 

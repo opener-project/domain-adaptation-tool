@@ -1,161 +1,164 @@
-1	Mooi	mooi	G	1	
-2	hotel	hotel	N	1	
-3	voor	voor	P	1	
-4	een	een	D	1	
-5	gezin	gezin	N	1	
-6	met	met	P	1	
-7	kinderen	kind	N	1	
+1	Mooi	mooi	G	1	O
+2	hotel	hotel	N	1	O
+3	voor	voor	P	1	O
+4	een	een	D	1	O
+5	gezin	gezin	N	1	O
+6	met	met	P	1	O
+7	kinderen	kind	N	1	O
 
-1	Goed	goed	G	1	
-2	hotel	hotel	N	1	
+1	Goed	goed	G	1	O
+2	hotel	hotel	N	1	O
 
-1	Vond	vinden	V	1	
-2	alleen	alleen	A	1	
-3	dat	dat	C	1	
-4	de	de	D	1	
-5	kamer	kamer	N	1	
-6	achterstallig	achterstallig	G	1	
-7	onderhoud	onderhoud	N	1	
-8	had	hebben	V	1	
+1	Vond	vinden	V	1	O
+2	alleen	alleen	A	1	O
+3	dat	dat	C	1	O
+4	de	de	D	1	O
+5	kamer	kamer	N	1	O
+6	achterstallig	achterstallig	G	1	O
+7	onderhoud	onderhoud	N	1	O
+8	had	hebben	V	1	O
 
-1	Bij	bij	P	1	
-2	de	de	D	1	
-3	receptie	receptie	N	1	
-4	zijn	zijn	V	1	
-5	ze	ze	Q	1	
-6	niet	niet	A	1	
-7	behulpzaam	behulpzaam	G	1	
-8	,	,	O	1	
-9	Maar	Maar	O	1	
-10	dat	dat	Q	1	
-11	waren	wezen|zijn	V	1	
-12	ook	ook	A	1	
-13	alle	alle	D	1	
-14	min	min	G	1	
-15	punten	punt	N	1	
+1	Bij	bij	P	1	O
+2	de	de	D	1	O
+3	receptie	receptie	N	1	O
+4	zijn	zijn	V	1	O
+5	ze	ze	Q	1	O
+6	niet	niet	A	1	O
+7	behulpzaam	behulpzaam	G	1	O
+8	,	,	O	1	O
+9	Maar	Maar	O	1	O
+10	dat	dat	Q	1	O
+11	waren	wezen|zijn	V	1	O
+12	ook	ook	A	1	O
+13	alle	alle	D	1	O
+14	min	min	G	1	O
+15	punten	punt	N	1	O
 
-1	Verder	ver|verder	G	1	
-2	mooi	mooi	G	1	
-3	koraalrif	koraalrif	N	1	
-4	voor	voor	P	1	
-5	de	de	D	1	
-6	deur	deur	N	1	
-7	,	,	O	1	
-8	Goed	goed	N	1	
-9	eten	eten	V	1	
-10	je	je	Q	1	
-11	kan	kunnen	V	1	
-12	uit	uit	A	1	
-13	4	@card@	O	1	
-14	buffet	buffet	N	1	
-15	restaurants	restaurant	N	1	
-16	kiezen	kiezen	V	1	
-17	en	en	C	1	
-18	6	@card@	O	1	
-19	alla	alla	O	1	
-20	cart	cart	O	1	
-21	restaurants	restaurant	N	1	
+1	Verder	ver|verder	G	1	O
+2	mooi	mooi	G	1	O
+3	koraalrif	koraalrif	N	1	O
+4	voor	voor	P	1	O
+5	de	de	D	1	O
+6	deur	deur	N	1	O
+7	,	,	O	1	O
+8	Goed	goed	N	1	O
+9	eten	eten	V	1	O
+10	je	je	Q	1	O
+11	kan	kunnen	V	1	O
+12	uit	uit	A	1	O
+13	4	@card@	O	1	O
+14	buffet	buffet	N	1	O
+15	restaurants	restaurant	N	1	O
+16	kiezen	kiezen	V	1	O
+17	en	en	C	1	O
+18	6	@card@	O	1	O
+19	alla	alla	O	1	O
+20	cart	cart	O	1	O
+21	restaurants	restaurant	N	1	O
 
-1	mooie	mooi	G	1	
-2	zwembaden	zwembad	N	1	
-3	en	en	C	1	
-4	een	een	D	1	
-5	geweldig	geweldig	G	1	
-6	aqua	aqua	O	1	
-7	park	park	N	1	
+1	mooie	mooi	G	1	O
+2	zwembaden	zwembad	N	1	O
+3	en	en	C	1	O
+4	een	een	D	1	O
+5	geweldig	geweldig	G	1	O
+6	aqua	aqua	O	1	O
+7	park	park	N	1	O
 
-1	geen	geen	D	1	
-2	handoekje	handoekje	O	1	
-3	leggen	leggen	V	1	
-4	nodig	nodig	G	1	
-5	er	er	Q	1	
-6	zijn	zijn	V	1	
-7	genoeg	genoeg	A	1	
-8	stoelen	stoelen	V	1	
-9	rond	rond	P	1	
-10	het	het	D	1	
-11	enorme	enorm	G	1	
-12	zwembad	zwembad	N	1	
-13	ook	ook	A	1	
-14	op	op	P	1	
-15	veel	veel	O	1	
-16	verschillende	verschillend	G	1	
-17	plekken	plek	N	1	
-18	punten	punt	N	1	
-19	waar	waar	Q	1	
-20	je	je	Q	1	
-21	kan	kunnen	V	1	
-22	eten	eten	V	1	
-23	en	en	C	1	
-24	drinken	drinken	V	1	
+1	geen	geen	D	1	O
+2	handoekje	handoekje	O	1	O
+3	leggen	leggen	V	1	O
+4	nodig	nodig	G	1	O
+5	er	er	Q	1	O
+6	zijn	zijn	V	1	O
+7	genoeg	genoeg	A	1	O
+8	stoelen	stoelen	V	1	O
+9	rond	rond	P	1	O
+10	het	het	D	1	O
+11	enorme	enorm	G	1	O
+12	zwembad	zwembad	N	1	O
+13	ook	ook	A	1	O
+14	op	op	P	1	O
+15	veel	veel	O	1	O
+16	verschillende	verschillend	G	1	O
+17	plekken	plek	N	1	O
+18	punten	punt	N	1	O
+19	waar	waar	Q	1	O
+20	je	je	Q	1	O
+21	kan	kunnen	V	1	O
+22	eten	eten	V	1	O
+23	en	en	C	1	O
+24	drinken	drinken	V	1	O
 
-1	TIP	tip	N	1	
-2	!	!	O	1	
-3	!	!	O	1	
+1	TIP	tip	N	1	O
+2	!	!	O	1	O
+3	!	!	O	1	O
 
-1	bij	bij	A	1	
-2	de_chinees	de_chinezen	R	1	ne=Restaurant
-3	lunchen	lunchen	V	1	
-4	is	zijn	V	1	
-5	perfect	perfect	G	1	
-6	je	je	Q	1	
-7	kan	kunnen	V	1	
-8	er	er	Q	1	
-9	uit	uit	P	1	
-10	een	een	D	1	
-11	paar	paar	G	1	
-12	menu	menu	N	1	
-13	'	'	O	1	
-14	s	s	N	1	
-15	kiezen	kiezen	V	1	
-16	en	en	C	1	
-17	je	je	Q	1	
-18	wordt	worden	V	1	
-19	enorm	enorm	G	1	
-20	vriendelijk	vriendelijk	G	1	
-21	en	en	C	1	
-22	snel	snel	G	1	
-23	geholpen	helpen	V	1	
+1	bij	bij	A	1	O
+2	de	de	D	1	I-Restaurant
+3	chinees	chinezen	V	1	I-Restaurant
+4	lunchen	lunchen	V	1	O
+5	is	zijn	V	1	O
+6	perfect	perfect	G	1	O
+7	je	je	Q	1	O
+8	kan	kunnen	V	1	O
+9	er	er	Q	1	O
+10	uit	uit	P	1	O
+11	een	een	D	1	O
+12	paar	paar	G	1	O
+13	menu	menu	N	1	O
+14	'	'	O	1	O
+15	s	s	N	1	O
+16	kiezen	kiezen	V	1	O
+17	en	en	C	1	O
+18	je	je	Q	1	O
+19	wordt	worden	V	1	O
+20	enorm	enorm	G	1	O
+21	vriendelijk	vriendelijk	G	1	O
+22	en	en	C	1	O
+23	snel	snel	G	1	O
+24	geholpen	helpen	V	1	O
 
-1	Wij	wij	Q	1	
-2	hebben	hebben	V	1	
-3	een	een	D	1	
-4	heel	heel	G	1	
-5	goed	goed	N	1	
-6	gevoel	gevoelen	V	1	
-7	overgehouden	overhouden	V	1	
-8	aan	aan	P	1	
-9	2_weken	@card@_week	R	1	ne=Date
-10	titanic_beach	titanic_beach	R	1	ne=Hotel
-11	,	,	O	1	
-12	vonden	vinden	V	1	
-13	het	het	D	1	
-14	ook	ook	A	1	
-15	jammer	jammer	G	1	
-16	om	om	C	1	
-17	te	te	O	1	
-18	moeten	moeten	V	1	
-19	gaan	gaan	V	1	
+1	Wij	wij	Q	1	O
+2	hebben	hebben	V	1	O
+3	een	een	D	1	O
+4	heel	heel	G	1	O
+5	goed	goed	N	1	O
+6	gevoel	gevoelen	V	1	O
+7	overgehouden	overhouden	V	1	O
+8	aan	aan	P	1	O
+9	2	@card@	O	1	I-Date
+10	weken	week	N	1	I-Date
+11	titanic	titanic	O	1	B-Hotel
+12	beach	beach	O	1	I-Hotel
+13	,	,	O	1	O
+14	vonden	vinden	V	1	O
+15	het	het	D	1	O
+16	ook	ook	A	1	O
+17	jammer	jammer	G	1	O
+18	om	om	C	1	O
+19	te	te	O	1	O
+20	moeten	moeten	V	1	O
+21	gaan	gaan	V	1	O
 
-1	Wij	wij	Q	1	
-2	waren	wezen|zijn	V	1	
-3	er	er	Q	1	
-4	met	met	P	1	
-5	3	@card@	O	1	
-6	kinderen	kind	N	1	
-7	van	van	P	1	
-8	8,12	@card@	O	1	
-9	en	en	C	1	
-10	14	@card@	O	1	
-11	jaar	jaar	N	1	
+1	Wij	wij	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	er	er	Q	1	O
+4	met	met	P	1	O
+5	3	@card@	O	1	O
+6	kinderen	kind	N	1	O
+7	van	van	P	1	O
+8	8,12	@card@	O	1	O
+9	en	en	C	1	O
+10	14	@card@	O	1	O
+11	jaar	jaar	N	1	O
 
-1	Er	er	Q	1	
-2	waren	wezen|zijn	V	1	
-3	ook	ook	A	1	
-4	opvallend	opvallend	G	1	
-5	veel	veel	A	1	
-6	andere	ander	G	1	
-7	nederlandse	Nederlands	G	1	
-8	gezinnen	gezin	N	1	
-9	aanwezig	aanwezig	G	1	
+1	Er	er	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	ook	ook	A	1	O
+4	opvallend	opvallend	G	1	O
+5	veel	veel	A	1	O
+6	andere	ander	G	1	O
+7	nederlandse	Nederlands	G	1	O
+8	gezinnen	gezin	N	1	O
+9	aanwezig	aanwezig	G	1	O
 

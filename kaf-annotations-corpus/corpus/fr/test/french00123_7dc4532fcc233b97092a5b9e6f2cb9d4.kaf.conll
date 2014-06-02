@@ -1,71 +1,73 @@
-1	Une	un	D	1	
-2	merveille	merveille	N	1	
-3	pour	pour	P	1	
-4	les	le	D	1	
-5	yeux	oeil	N	1	
-6	!	!	O	1	
+1	Une	un	D	1	O
+2	merveille	merveille	N	1	O
+3	pour	pour	P	1	O
+4	les	le	D	1	O
+5	yeux	oeil	N	1	O
+6	!	!	O	1	O
 
-1	Au	Au	P	1	
-2	Grand_Aquarium	grand_aquarium	R	1	ne=Attraction
-3	de	de	P	1	
-4	St_Malo	St_Malo	R	1	ne=Location
-5	,	,	O	1	
-6	les	le	D	1	
-7	poissons	poisson	N	1	
-8	et	et	C	1	
-9	les	le	D	1	
-10	pieuvres	pieuvre	N	1	
-11	ont	avoir	V	1	
-12	leur	son	D	1	
-13	place	place	N	1	
-14	bien	bien	G	1	
-15	à	à	P	1	
-16	eux	eux	P	1	
-17	!	!	O	1	
+1	Au	Au	P	1	O
+2	Grand	grand	G	1	I-Attraction
+3	Aquarium	aquarium	N	1	I-Attraction
+4	de	de	P	1	O
+5	St	St	N	1	I-Location
+6	Malo	Malo	N	1	I-Location
+7	,	,	O	1	O
+8	les	le	D	1	O
+9	poissons	poisson	N	1	O
+10	et	et	C	1	O
+11	les	le	D	1	O
+12	pieuvres	pieuvre	N	1	O
+13	ont	avoir	V	1	O
+14	leur	son	D	1	O
+15	place	place	N	1	O
+16	bien	bien	G	1	O
+17	à	à	P	1	O
+18	eux	eux	P	1	O
+19	!	!	O	1	O
 
-1	Du	Du	P	1	
-2	minuscule	minuscule	G	1	
-3	poisson	poisson	N	1	
-4	fluorescent	fluorescent	V	1	
-5	au	au	P	1	
-6	gros	gros	G	1	
-7	mérou	mérou	N	1	
-8	,	,	O	1	
-9	de	de	P	1	
-10	la	le	D	1	
-11	paisible	paisible	N	1	
-12	tortue	tortue	V	1	
-13	aux	aux	P	1	
-14	requins	requins	D	1	
-15	féroces	féroces	N	1	
-16	,	,	O	1	
-17	en	en	P	1	
-18	passant	passer	V	1	
-19	par	par	P	1	
-20	les	le	D	1	
-21	murènes	murène	N	1	
-22	violettes	violet	G	1	
-23	et	et	C	1	
-24	les	le	D	1	
-25	raies	raie	N	1	
-26	que	que	P	1	
-27	l	l	O	1	
-28	on	on	Q	1	
-29	peut	pouvoir	V	1	
-30	caresser	caresser	V	1	
-31	,	,	O	1	
-32	c	c	G	1	
-33	est	être	V	1	
-34	un	un	D	1	
-35	lieu	lieu	N	1	
-36	unique	unique	G	1	
-37	où	où	P	1	
-38	vous	lui	Q	1	
-39	puiserez	puiserez	C	1	
-40	de	un	D	1	
-41	nombreux	nombreux	G	1	
-42	souvenirs	souvenir	N	1	
-43	!	!	O	1	
-44	!	!	O	1	
-45	!	!	O	1	
+1	Du	Du	P	1	O
+2	minuscule	minuscule	G	1	O
+3	poisson	poisson	N	1	O
+4	fluorescent	fluorescent	V	1	O
+5	au	au	P	1	O
+6	gros	gros	G	1	O
+7	mérou	mérou	N	1	O
+8	,	,	O	1	O
+9	de	de	P	1	O
+10	la	le	D	1	O
+11	paisible	paisible	N	1	O
+12	tortue	tortue	V	1	O
+13	aux	aux	P	1	O
+14	requins	requins	D	1	O
+15	féroces	féroces	N	1	O
+16	,	,	O	1	O
+17	en	en	P	1	O
+18	passant	passer	V	1	O
+19	par	par	P	1	O
+20	les	le	D	1	O
+21	murènes	murène	N	1	O
+22	violettes	violet	G	1	O
+23	et	et	C	1	O
+24	les	le	D	1	O
+25	raies	raie	N	1	O
+26	que	que	P	1	O
+27	l	l	O	1	O
+28	on	on	Q	1	O
+29	peut	pouvoir	V	1	O
+30	caresser	caresser	V	1	O
+31	,	,	O	1	O
+32	c	c	G	1	O
+33	est	être	V	1	O
+34	un	un	D	1	O
+35	lieu	lieu	N	1	O
+36	unique	unique	G	1	O
+37	où	où	P	1	O
+38	vous	lui	Q	1	O
+39	puiserez	puiserez	C	1	O
+40	de	un	D	1	O
+41	nombreux	nombreux	G	1	O
+42	souvenirs	souvenir	N	1	O
+43	!	!	O	1	O
+44	!	!	O	1	O
+45	!	!	O	1	O
 

@@ -1,116 +1,116 @@
-1	Super	Super	N	1	
-2	Hotel	Hotel	N	1	
-3	mit	mit	P	1	
-4	toller	toll	G	1	
-5	Animation	Animation	N	1	
+1	Super	Super	N	1	O
+2	Hotel	Hotel	N	1	O
+3	mit	mit	P	1	O
+4	toller	toll	G	1	O
+5	Animation	Animation	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	einfach	einfach	G	1	
-5	nur	nur	A	1	
-6	Klasse	Klasse	N	1	
-7	!	!	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	einfach	einfach	G	1	O
+5	nur	nur	A	1	O
+6	Klasse	Klasse	N	1	O
+7	!	!	O	1	O
 
-1	Auch	auch	A	1	
-2	mein	mein	Q	1	
-3	7er	7er	N	1	
-4	Urlaub	Urlaub	R	1	
-5	in	in	P	1	
-6	dem	die	D	1	
-7	Hotel	Hotel	N	1	
-8	war	sein	V	1	
-9	wieder	wieder	A	1	
-10	einmal	einmal	A	1	
-11	super	super	G	1	
-12	!	!	O	1	
+1	Auch	auch	A	1	O
+2	mein	mein	Q	1	O
+3	7er	7er	N	1	O
+4	Urlaub	Urlaub	R	1	O
+5	in	in	P	1	O
+6	dem	die	D	1	O
+7	Hotel	Hotel	N	1	O
+8	war	sein	V	1	O
+9	wieder	wieder	A	1	O
+10	einmal	einmal	A	1	O
+11	super	super	G	1	O
+12	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	befindet	befinden	V	1	
-4	sich	sich	Q	1	
-5	in	in	P	1	
-6	einem	eine	D	1	
-7	einwandfreien	einwandfrei	G	1	
-8	Zustand	Zustand	N	1	
-9	und	und	C	1	
-10	das	die	D	1	
-11	Personal	Personal	N	1	
-12	ist	sein	V	1	
-13	stets	stets	A	1	
-14	freundlich	freundlich	G	1	
-15	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	befindet	befinden	V	1	O
+4	sich	sich	Q	1	O
+5	in	in	P	1	O
+6	einem	eine	D	1	O
+7	einwandfreien	einwandfrei	G	1	O
+8	Zustand	Zustand	N	1	O
+9	und	und	C	1	O
+10	das	die	D	1	O
+11	Personal	Personal	N	1	O
+12	ist	sein	V	1	O
+13	stets	stets	A	1	O
+14	freundlich	freundlich	G	1	O
+15	.	.	O	1	O
 
-1	Die	die	D	1	
-2	All	alle	Q	1	
-3	Inclusive	Inclusive	O	1	
-4	Leistung	Leistung	N	1	
-5	lässt	lassen	V	1	
-6	keine	keine	Q	1	
-7	Wünsche	Wunsch	N	1	
-8	offen	offen	G	1	
-9	,	,	O	1	
-10	man	man	Q	1	
-11	kann	können	V	1	
-12	fast	fast	A	1	
-13	durchgängig	durchgängig	O	1	
-14	Essen	essen	V	1	
-15	.	.	O	1	
+1	Die	die	D	1	O
+2	All	alle	Q	1	O
+3	Inclusive	Inclusive	O	1	O
+4	Leistung	Leistung	N	1	O
+5	lässt	lassen	V	1	O
+6	keine	keine	Q	1	O
+7	Wünsche	Wunsch	N	1	O
+8	offen	offen	G	1	O
+9	,	,	O	1	O
+10	man	man	Q	1	O
+11	kann	können	V	1	O
+12	fast	fast	A	1	O
+13	durchgängig	durchgängig	O	1	O
+14	Essen	essen	V	1	O
+15	.	.	O	1	O
 
-1	Gästestrucktur	Gästestrucktur	O	1	
-2	ist	sein	V	1	
-3	bunt	bunt	G	1	
-4	gemischt	mischen	V	1	
-5	!	!	O	1	
+1	Gästestrucktur	Gästestrucktur	O	1	O
+2	ist	sein	V	1	O
+3	bunt	bunt	G	1	O
+4	gemischt	mischen	V	1	O
+5	!	!	O	1	O
 
-1	Verschiedenste	verschieden	G	1	
-2	Altersruppen	Altersruppen	O	1	
-3	und	und	C	1	
-4	Nationalitäten	Nationalität	N	1	
-5	!	!	O	1	
+1	Verschiedenste	verschieden	G	1	O
+2	Altersruppen	Altersruppen	O	1	O
+3	und	und	C	1	O
+4	Nationalitäten	Nationalität	N	1	O
+5	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Animationsteam	Animationsteam	O	1	
-3	sorgt	sorgen	V	1	
-4	stets	stets	A	1	
-5	für	für	P	1	
-6	Stimmung	Stimmung	N	1	
-7	sowohl	sowohl	C	1	
-8	am	an	P	1	
-9	Strand	Strand	N	1	
-10	wie	wie	C	1	
-11	auch	auch	A	1	
-12	durch	durch	P	1	
-13	abwechselnde	abwechselnd	G	1	
-14	Abendshows	Abendshows	O	1	
-15	!	!	O	1	
+1	Das	die	D	1	O
+2	Animationsteam	Animationsteam	O	1	O
+3	sorgt	sorgen	V	1	O
+4	stets	stets	A	1	O
+5	für	für	P	1	O
+6	Stimmung	Stimmung	N	1	O
+7	sowohl	sowohl	C	1	O
+8	am	an	P	1	O
+9	Strand	Strand	N	1	O
+10	wie	wie	C	1	O
+11	auch	auch	A	1	O
+12	durch	durch	P	1	O
+13	abwechselnde	abwechselnd	G	1	O
+14	Abendshows	Abendshows	O	1	O
+15	!	!	O	1	O
 
-1	Danke	danke	O	1	
-2	nochmal	nochmal	A	1	
-3	an	an	P	1	
-4	Momo	Momo	R	1	
-5	,	,	O	1	
-6	Chiko	Chiko	O	1	
-7	,	,	O	1	
-8	Koko	Koko	O	1	
-9	,	,	O	1	
-10	DJ	DJ	O	1	
-11	Abdo	Abdo	R	1	
-12	für	für	P	1	
-13	die	die	D	1	
-14	gute	gut	G	1	
-15	Stimmung	Stimmung	N	1	
-16	:	:	O	1	
-17	·	·	O	1	
-18	)	)	O	1	
-19	Einfach	einfach	A	1	
-20	ein	eine	D	1	
-21	tolles	toll	G	1	
-22	Animationsteam	Animationsteam	O	1	
-23	!	!	O	1	
-24	!	!	O	1	
-25	!	!	O	1	
-26	!	!	O	1	
-27	!	!	O	1	
-28	!	!	O	1	
+1	Danke	danke	O	1	O
+2	nochmal	nochmal	A	1	O
+3	an	an	P	1	O
+4	Momo	Momo	R	1	O
+5	,	,	O	1	O
+6	Chiko	Chiko	O	1	O
+7	,	,	O	1	O
+8	Koko	Koko	O	1	O
+9	,	,	O	1	O
+10	DJ	DJ	O	1	O
+11	Abdo	Abdo	R	1	O
+12	für	für	P	1	O
+13	die	die	D	1	O
+14	gute	gut	G	1	O
+15	Stimmung	Stimmung	N	1	O
+16	:	:	O	1	O
+17	·	·	O	1	O
+18	)	)	O	1	O
+19	Einfach	einfach	A	1	O
+20	ein	eine	D	1	O
+21	tolles	toll	G	1	O
+22	Animationsteam	Animationsteam	O	1	O
+23	!	!	O	1	O
+24	!	!	O	1	O
+25	!	!	O	1	O
+26	!	!	O	1	O
+27	!	!	O	1	O
+28	!	!	O	1	O
 

@@ -1,107 +1,110 @@
-1	Hôtel_Mövenpick	hôtel_Mövenpick	R	1	ne=Hotel
-2	île_Maurice	île_Maurice	R	1	ne=Location
-3	,	,	O	1	
-4	bel_ombre	beau_ombre	R	1	ne=Location
+1	Hôtel	hôtel	N	1	I-Hotel
+2	Mövenpick	Mövenpick	N	1	I-Hotel
+3	île	île	N	1	B-Location
+4	Maurice	Maurice	N	1	I-Location
+5	,	,	O	1	O
+6	bel	beau	G	1	I-Location
+7	ombre	ombre	N	1	I-Location
 
-1	Hotel	Hotel	G	1	
-2	d'	d'	P	1	
-3	un	un	D	1	
-4	bon	bon	G	1	
-5	standing	standing	N	1	
-6	dommage	dommage	V	1	
-7	que	que	C	1	
-8	le	le	D	1	
-9	personnel	personnel	N	1	
-10	ne	ne	G	1	
-11	soit	être	V	1	
-12	pas	pas	G	1	
-13	a	avoir	V	1	
-14	la	le	D	1	
-15	hauteur	hauteur	N	1	
-16	(	(	O	1	
-17	tres	tres	D	1	
-18	grande	grand	G	1	
-19	difficulte	difficulte	N	1	
-20	pour	pour	P	1	
-21	traiter	traiter	V	1	
-22	les	le	D	1	
-23	reclamations	reclamations	N	1	
-24	)	)	O	1	
-25	,	,	O	1	
-26	tout	tout	G	1	
-27	le	le	D	1	
-28	monde	monde	N	1	
-29	vous	lui	Q	1	
-30	dit	dire	V	1	
-31	oui	oui	G	1	
-32	oui	oui	G	1	
-33	mais	mais	C	1	
-34	rien	rien	G	1	
-35	n'	n'	G	1	
-36	est	être	V	1	
-37	fait.	fait.	V	1	
-38	de	de	P	1	
-39	plus	plus	G	1	
-40	attention	attention	N	1	
-41	a	avoir	V	1	
-42	votre	son	D	1	
-43	arrivee	arrivee	N	1	
-44	l'	le	D	1	
-45	hotel	hotel	P	1	
-46	vous	lui	Q	1	
-47	demande	demander	V	1	
-48	50	50	D	1	
-49	dollards	dollards	N	1	
-50	par	par	P	1	
-51	nuit	nuit	N	1	
-52	de	de	P	1	
-53	caution	caution	N	1	
-54	(	(	O	1	
-55	si	si	C	1	
-56	vous	lui	Q	1	
-57	y	y	Q	1	
-58	restez	rester	V	1	
-59	30	30	D	1	
-60	jours	jour	N	1	
-61	1500	1500	D	1	
-62	dollards	dollards	N	1	
-63	)	)	O	1	
-64	cet	ce	D	1	
-65	argent	argent	N	1	
-66	est	être	V	1	
-67	bloque	bloque	G	1	
-68	jusqu'	jusque	P	1	
-69	a	avoir	V	1	
-70	la	le	D	1	
-71	fin	fin	N	1	
-72	de	de	P	1	
-73	votre	son	D	1	
-74	sejour.	sejour.	V	1	
-75	toutes	tout	G	1	
-76	les	le	D	1	
-77	services	service	N	1	
-78	sont	être	V	1	
-79	payants	payants	V	1	
-80	(	(	O	1	
-81	sauna	sauna	N	1	
-82	massage	massage	N	1	
-83	)	)	O	1	
-84	.	.	O	1	
+1	Hotel	Hotel	G	1	O
+2	d'	d'	P	1	O
+3	un	un	D	1	O
+4	bon	bon	G	1	O
+5	standing	standing	N	1	O
+6	dommage	dommage	V	1	O
+7	que	que	C	1	O
+8	le	le	D	1	O
+9	personnel	personnel	N	1	O
+10	ne	ne	G	1	O
+11	soit	être	V	1	O
+12	pas	pas	G	1	O
+13	a	avoir	V	1	O
+14	la	le	D	1	O
+15	hauteur	hauteur	N	1	O
+16	(	(	O	1	O
+17	tres	tres	D	1	O
+18	grande	grand	G	1	O
+19	difficulte	difficulte	N	1	O
+20	pour	pour	P	1	O
+21	traiter	traiter	V	1	O
+22	les	le	D	1	O
+23	reclamations	reclamations	N	1	O
+24	)	)	O	1	O
+25	,	,	O	1	O
+26	tout	tout	G	1	O
+27	le	le	D	1	O
+28	monde	monde	N	1	O
+29	vous	lui	Q	1	O
+30	dit	dire	V	1	O
+31	oui	oui	G	1	O
+32	oui	oui	G	1	O
+33	mais	mais	C	1	O
+34	rien	rien	G	1	O
+35	n'	n'	G	1	O
+36	est	être	V	1	O
+37	fait.	fait.	V	1	O
+38	de	de	P	1	O
+39	plus	plus	G	1	O
+40	attention	attention	N	1	O
+41	a	avoir	V	1	O
+42	votre	son	D	1	O
+43	arrivee	arrivee	N	1	O
+44	l'	le	D	1	O
+45	hotel	hotel	P	1	O
+46	vous	lui	Q	1	O
+47	demande	demander	V	1	O
+48	50	50	D	1	O
+49	dollards	dollards	N	1	O
+50	par	par	P	1	O
+51	nuit	nuit	N	1	O
+52	de	de	P	1	O
+53	caution	caution	N	1	O
+54	(	(	O	1	O
+55	si	si	C	1	O
+56	vous	lui	Q	1	O
+57	y	y	Q	1	O
+58	restez	rester	V	1	O
+59	30	30	D	1	O
+60	jours	jour	N	1	O
+61	1500	1500	D	1	O
+62	dollards	dollards	N	1	O
+63	)	)	O	1	O
+64	cet	ce	D	1	O
+65	argent	argent	N	1	O
+66	est	être	V	1	O
+67	bloque	bloque	G	1	O
+68	jusqu'	jusque	P	1	O
+69	a	avoir	V	1	O
+70	la	le	D	1	O
+71	fin	fin	N	1	O
+72	de	de	P	1	O
+73	votre	son	D	1	O
+74	sejour.	sejour.	V	1	O
+75	toutes	tout	G	1	O
+76	les	le	D	1	O
+77	services	service	N	1	O
+78	sont	être	V	1	O
+79	payants	payants	V	1	O
+80	(	(	O	1	O
+81	sauna	sauna	N	1	O
+82	massage	massage	N	1	O
+83	)	)	O	1	O
+84	.	.	O	1	O
 
-1	chambre	chambre	N	1	
-2	grande	grand	G	1	
-3	et	et	C	1	
-4	belle	beau	G	1	
-5	salle	salle	N	1	
-6	de	de	P	1	
-7	bain	bain	N	1	
-8	avec	avec	P	1	
-9	grande	grand	G	1	
-10	baignoire	baignoire	N	1	
-11	pour	pour	P	1	
-12	3	3	D	1	
-13	personnes.	personnes.	N	1	
-14	cadre	cadre	P	1	
-15	excellent	excellent	G	1	
-16	.	.	O	1	
+1	chambre	chambre	N	1	O
+2	grande	grand	G	1	O
+3	et	et	C	1	O
+4	belle	beau	G	1	O
+5	salle	salle	N	1	O
+6	de	de	P	1	O
+7	bain	bain	N	1	O
+8	avec	avec	P	1	O
+9	grande	grand	G	1	O
+10	baignoire	baignoire	N	1	O
+11	pour	pour	P	1	O
+12	3	3	D	1	O
+13	personnes.	personnes.	N	1	O
+14	cadre	cadre	P	1	O
+15	excellent	excellent	G	1	O
+16	.	.	O	1	O
 

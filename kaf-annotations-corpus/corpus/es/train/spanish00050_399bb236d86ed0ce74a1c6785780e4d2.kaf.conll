@@ -1,139 +1,141 @@
-1	Sorprendente	Sorprendente	R	1	
-2	elección	elección	N	1	
+1	Sorprendente	Sorprendente	R	1	O
+2	elección	elección	N	1	O
 
-1	Hotel	Hotel	R	1	
-2	sencillo	sencillo	N	1	
-3	sin	sin	N	1	
-4	grandes	grandes	N	1	
-5	prensiones	prensiones	V	1	
-6	pero	pero	A	1	
-7	que	que	G	1	
-8	sorprende	sorprende	N	1	
-9	a	a	D	1	
-10	pesar	pesar	G	1	
-11	de	de	O	1	
-12	sus	sus	O	1	
-13	dos	dos	O	1	
-14	estrellas	estrellas	O	1	
-15	;	;	O	1	
-16	trato	trato	N	1	
-17	amable	amable	G	1	
-18	y	y	G	1	
-19	eficaz	eficaz	N	1	
-20	(	(	O	1	
-21	tuve	tuve	V	1	
-22	que	que	G	1	
-23	prolongar	prolongar	N	1	
-24	la	la	D	1	
-25	estancia	estancia	N	1	
-26	y	y	A	1	
-27	me	me	Q	1	
-28	dieron	dieron	O	1	
-29	toda	toda	V	1	
-30	clase	clase	G	1	
-31	de	de	P	1	
-32	facilidades	facilidades	N	1	
-33	manteniendo	manteniendo	V	1	
-34	incluso	incluso	P	1	
-35	la	la	D	1	
-36	oferta	oferta	O	1	
-37	de	de	O	1	
-38	la	la	O	1	
-39	reserva	reserva	O	1	
-40	inicial	inicial	N	1	
-41	)	)	O	1	
-42	no	no	D	1	
-43	dispone	dispone	N	1	
-44	de	de	P	1	
-45	cafeteria	cafeteria	N	1	
-46	pero	pero	P	1	
-47	tiene	tiene	G	1	
-48	una	una	G	1	
-49	estupenda	estupenda	N	1	
-50	maquina	maquina	O	1	
-51	de	de	O	1	
-52	cafe	cafe	N	1	
-53	a	a	D	1	
-54	1_euro	1_euro	R	1	ne=Money
-55	y	y	G	1	
-56	agua	agua	N	1	
-57	fria	fria	N	1	
-58	gratuita	gratuita	N	1	
-59	que	que	V	1	
-60	con	con	G	1	
-61	el	el	N	1	
-62	calor	calor	N	1	
-63	que	que	G	1	
-64	hizo	hizo	N	1	
-65	esos	esos	N	1	
-66	días	días	V	1	
-67	era	era	N	1	
-68	muy	muy	G	1	
-69	de	de	O	1	
-70	agradecer	agradecer	O	1	
+1	Hotel	Hotel	R	1	O
+2	sencillo	sencillo	N	1	O
+3	sin	sin	N	1	O
+4	grandes	grandes	N	1	O
+5	prensiones	prensiones	V	1	O
+6	pero	pero	A	1	O
+7	que	que	G	1	O
+8	sorprende	sorprende	N	1	O
+9	a	a	D	1	O
+10	pesar	pesar	G	1	O
+11	de	de	O	1	O
+12	sus	sus	O	1	O
+13	dos	dos	O	1	O
+14	estrellas	estrellas	O	1	O
+15	;	;	O	1	O
+16	trato	trato	N	1	O
+17	amable	amable	G	1	O
+18	y	y	G	1	O
+19	eficaz	eficaz	N	1	O
+20	(	(	O	1	O
+21	tuve	tuve	V	1	O
+22	que	que	G	1	O
+23	prolongar	prolongar	N	1	O
+24	la	la	D	1	O
+25	estancia	estancia	N	1	O
+26	y	y	A	1	O
+27	me	me	Q	1	O
+28	dieron	dieron	O	1	O
+29	toda	toda	V	1	O
+30	clase	clase	G	1	O
+31	de	de	P	1	O
+32	facilidades	facilidades	N	1	O
+33	manteniendo	manteniendo	V	1	O
+34	incluso	incluso	P	1	O
+35	la	la	D	1	O
+36	oferta	oferta	O	1	O
+37	de	de	O	1	O
+38	la	la	O	1	O
+39	reserva	reserva	O	1	O
+40	inicial	inicial	N	1	O
+41	)	)	O	1	O
+42	no	no	D	1	O
+43	dispone	dispone	N	1	O
+44	de	de	P	1	O
+45	cafeteria	cafeteria	N	1	O
+46	pero	pero	P	1	O
+47	tiene	tiene	G	1	O
+48	una	una	G	1	O
+49	estupenda	estupenda	N	1	O
+50	maquina	maquina	O	1	O
+51	de	de	O	1	O
+52	cafe	cafe	N	1	O
+53	a	a	D	1	O
+54	1	1	O	1	I-Money
+55	euro	euro	N	1	I-Money
+56	y	y	G	1	O
+57	agua	agua	N	1	O
+58	fria	fria	N	1	O
+59	gratuita	gratuita	N	1	O
+60	que	que	V	1	O
+61	con	con	G	1	O
+62	el	el	N	1	O
+63	calor	calor	N	1	O
+64	que	que	G	1	O
+65	hizo	hizo	N	1	O
+66	esos	esos	N	1	O
+67	días	días	V	1	O
+68	era	era	N	1	O
+69	muy	muy	G	1	O
+70	de	de	O	1	O
+71	agradecer	agradecer	O	1	O
 
-1	Habitación	Habitación	R	1	
-2	sencilla	sencilla	N	1	
-3	pero	pero	O	1	
-4	muy	muy	O	1	
-5	lipia	lipia	O	1	
-6	con	con	O	1	
-7	baño	baño	O	1	
-8	suficiente	suficiente	O	1	
-9	con	con	O	1	
-10	amenities	amenity	N	1	
+1	Habitación	Habitación	R	1	O
+2	sencilla	sencilla	N	1	O
+3	pero	pero	O	1	O
+4	muy	muy	O	1	O
+5	lipia	lipia	O	1	O
+6	con	con	O	1	O
+7	baño	baño	O	1	O
+8	suficiente	suficiente	O	1	O
+9	con	con	O	1	O
+10	amenities	amenity	N	1	O
 
-1	Unico	Unico	R	1	
-2	punto	punto	P	1	
-3	negativo	negativo	G	1	
-4	el	el	N	1	
-5	ruido	ruido	N	1	
-6	que	que	N	1	
-7	las	las	V	1	
-8	ventanas	ventanas	N	1	
-9	de	de	O	1	
-10	madera	madera	O	1	
-11	tan	tan	O	1	
-12	típicas	típicas	O	1	
-13	de	de	O	1	
-14	la	la	O	1	
-15	zona	zona	O	1	
-16	no	no	O	1	
-17	consiguen	consiguen	O	1	
-18	aislar	aislar	O	1	
-19	totalmente	totalmente	O	1	
+1	Unico	Unico	R	1	O
+2	punto	punto	P	1	O
+3	negativo	negativo	G	1	O
+4	el	el	N	1	O
+5	ruido	ruido	N	1	O
+6	que	que	N	1	O
+7	las	las	V	1	O
+8	ventanas	ventanas	N	1	O
+9	de	de	O	1	O
+10	madera	madera	O	1	O
+11	tan	tan	O	1	O
+12	típicas	típicas	O	1	O
+13	de	de	O	1	O
+14	la	la	O	1	O
+15	zona	zona	O	1	O
+16	no	no	O	1	O
+17	consiguen	consiguen	O	1	O
+18	aislar	aislar	O	1	O
+19	totalmente	totalmente	O	1	O
 
-1	Algo	Algo	R	1	
-2	a	a	D	1	
-3	tener	tener	N	1	
-4	en	en	P	1	
-5	cuenta	cuenta	N	1	
-6	es	es	V	1	
-7	que	que	G	1	
-8	disponen	disponen	G	1	
-9	de	de	P	1	
-10	un	un	G	1	
-11	parking	parking	N	1	
-12	vigilado	vigilado	V	1	
-13	a	a	D	1	
-14	la	la	N	1	
-15	vuelta	vuelta	O	1	
-16	de	de	O	1	
-17	la	la	O	1	
-18	esquina	esquina	O	1	
-19	del	del	O	1	
-20	hotel	hotel	N	1	
-21	por	por	N	1	
-22	24_euros	24_euro	R	1	ne=Money
-23	al	al	G	1	
-24	dia	dia	N	1	
+1	Algo	Algo	R	1	O
+2	a	a	D	1	O
+3	tener	tener	N	1	O
+4	en	en	P	1	O
+5	cuenta	cuenta	N	1	O
+6	es	es	V	1	O
+7	que	que	G	1	O
+8	disponen	disponen	G	1	O
+9	de	de	P	1	O
+10	un	un	G	1	O
+11	parking	parking	N	1	O
+12	vigilado	vigilado	V	1	O
+13	a	a	D	1	O
+14	la	la	N	1	O
+15	vuelta	vuelta	O	1	O
+16	de	de	O	1	O
+17	la	la	O	1	O
+18	esquina	esquina	O	1	O
+19	del	del	O	1	O
+20	hotel	hotel	N	1	O
+21	por	por	N	1	O
+22	24	24	O	1	I-Money
+23	euros	euro	N	1	I-Money
+24	al	al	G	1	O
+25	dia	dia	N	1	O
 
-1	Totalmente	Totalmente	R	1	
-2	recomendable	recomendable	G	1	
-3	por	por	C	1	
-4	su	su	G	1	
-5	precio	precio	N	1	
-6	y	y	G	1	
-7	situación	situación	N	1	
-8	estratégica	estratégica	N	1	
+1	Totalmente	Totalmente	R	1	O
+2	recomendable	recomendable	G	1	O
+3	por	por	C	1	O
+4	su	su	G	1	O
+5	precio	precio	N	1	O
+6	y	y	G	1	O
+7	situación	situación	N	1	O
+8	estratégica	estratégica	N	1	O
 

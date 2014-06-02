@@ -1,123 +1,123 @@
-1	Goede	goed	G	1	
-2	uitvalsbasis	uitvalsbasis	N	1	
-3	om	om	C	1	
-4	Valencia	Valencia	R	1	ne=Location
-5	te	te	O	1	
-6	ontdekken	ontdekken	V	1	
+1	Goede	goed	G	1	O
+2	uitvalsbasis	uitvalsbasis	N	1	O
+3	om	om	C	1	O
+4	Valencia	Valencia	R	1	I-Location
+5	te	te	O	1	O
+6	ontdekken	ontdekken	V	1	O
 
-1	Hotel	hotel	N	1	
-2	is	zijn	V	1	
-3	alles	alles	Q	1	
-4	bij	bij	P	1	
-5	elkaar	elkaar	Q	1	
-6	prima	prima	G	1	
-7	,	,	O	1	
-8	erg	erg	G	1	
-9	modern	modern	G	1	
-10	ingericht	inrichten	V	1	
-11	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	is	zijn	V	1	O
+3	alles	alles	Q	1	O
+4	bij	bij	P	1	O
+5	elkaar	elkaar	Q	1	O
+6	prima	prima	G	1	O
+7	,	,	O	1	O
+8	erg	erg	G	1	O
+9	modern	modern	G	1	O
+10	ingericht	inrichten	V	1	O
+11	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	zijn	zijn	V	1	
-4	groot	groot	G	1	
-5	met	met	P	1	
-6	balkon	balkon	N	1	
-7	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	zijn	zijn	V	1	O
+4	groot	groot	G	1	O
+5	met	met	P	1	O
+6	balkon	balkon	N	1	O
+7	.	.	O	1	O
 
-1	Men	men	Q	1	
-2	is	zijn	V	1	
-3	binnen	binnen	P	1	
-4	een	een	D	1	
-5	paar	paar	G	1	
-6	minuten	minuut	N	1	
-7	met	met	P	1	
-8	de	de	D	1	
-9	taxi	taxi	N	1	
-10	zo	zo	A	1	
-11	in	in	P	1	
-12	het	het	D	1	
-13	winkel	winkel	N	1	
-14	en	en	C	1	
-15	cafe	cafe	O	1	
-16	gebied	gebied	N	1	
-17	,	,	O	1	
-18	en	en	C	1	
-19	ook	ook	A	1	
-20	naar	naar	P	1	
-21	het	het	D	1	
-22	strand	strand	N	1	
-23	kost	kost	N	1	
-24	maar	maar	C	1	
-25	een	een	D	1	
-26	minuut	minuut	N	1	
-27	of	of	C	1	
-28	10	@card@	O	1	
-29	.	.	O	1	
+1	Men	men	Q	1	O
+2	is	zijn	V	1	O
+3	binnen	binnen	P	1	O
+4	een	een	D	1	O
+5	paar	paar	G	1	O
+6	minuten	minuut	N	1	O
+7	met	met	P	1	O
+8	de	de	D	1	O
+9	taxi	taxi	N	1	O
+10	zo	zo	A	1	O
+11	in	in	P	1	O
+12	het	het	D	1	O
+13	winkel	winkel	N	1	O
+14	en	en	C	1	O
+15	cafe	cafe	O	1	O
+16	gebied	gebied	N	1	O
+17	,	,	O	1	O
+18	en	en	C	1	O
+19	ook	ook	A	1	O
+20	naar	naar	P	1	O
+21	het	het	D	1	O
+22	strand	strand	N	1	O
+23	kost	kost	N	1	O
+24	maar	maar	C	1	O
+25	een	een	D	1	O
+26	minuut	minuut	N	1	O
+27	of	of	C	1	O
+28	10	@card@	O	1	O
+29	.	.	O	1	O
 
-1	Zwembad	zwembad	N	1	
-2	is	zijn	V	1	
-3	aanwezig	aanwezig	G	1	
-4	,	,	O	1	
-5	wat	wat	Q	1	
-6	ook	ook	A	1	
-7	prima	prima	G	1	
-8	is	zijn	V	1	
-9	.	.	O	1	
+1	Zwembad	zwembad	N	1	O
+2	is	zijn	V	1	O
+3	aanwezig	aanwezig	G	1	O
+4	,	,	O	1	O
+5	wat	wat	Q	1	O
+6	ook	ook	A	1	O
+7	prima	prima	G	1	O
+8	is	zijn	V	1	O
+9	.	.	O	1	O
 
-1	Ontbijt	ontbijt	N	1	
-2	is	zijn	V	1	
-3	goed	goed	G	1	
-4	,	,	O	1	
-5	alles	alles	Q	1	
-6	wat	wat	Q	1	
-7	men	men	Q	1	
-8	maar	maar	C	1	
-9	wensen	wens	N	1	
-10	kan	kunnen	V	1	
-11	.	.	O	1	
+1	Ontbijt	ontbijt	N	1	O
+2	is	zijn	V	1	O
+3	goed	goed	G	1	O
+4	,	,	O	1	O
+5	alles	alles	Q	1	O
+6	wat	wat	Q	1	O
+7	men	men	Q	1	O
+8	maar	maar	C	1	O
+9	wensen	wens	N	1	O
+10	kan	kunnen	V	1	O
+11	.	.	O	1	O
 
-1	Taalkennis	taalkennis	N	1	
-2	van	van	P	1	
-3	het	het	D	1	
-4	personeel	personeel	N	1	
-5	(	(	O	1	
-6	en	en	C	1	
-7	van	van	P	1	
-8	de	de	D	1	
-9	rest	rest	N	1	
-10	van	van	P	1	
-11	de	de	D	1	
-12	mensen	mens	N	1	
-13	in	in	P	1	
-14	Valencia	Valencia	R	1	ne=Location
-15	)	)	O	1	
-16	is	zijn	V	1	
-17	voornamelijk	voornamelijk	A	1	
-18	alleen	alleen	A	1	
-19	Spaans	Spaans	G	1	
-20	.	.	O	1	
+1	Taalkennis	taalkennis	N	1	O
+2	van	van	P	1	O
+3	het	het	D	1	O
+4	personeel	personeel	N	1	O
+5	(	(	O	1	O
+6	en	en	C	1	O
+7	van	van	P	1	O
+8	de	de	D	1	O
+9	rest	rest	N	1	O
+10	van	van	P	1	O
+11	de	de	D	1	O
+12	mensen	mens	N	1	O
+13	in	in	P	1	O
+14	Valencia	Valencia	R	1	I-Location
+15	)	)	O	1	O
+16	is	zijn	V	1	O
+17	voornamelijk	voornamelijk	A	1	O
+18	alleen	alleen	A	1	O
+19	Spaans	Spaans	G	1	O
+20	.	.	O	1	O
 
-1	Bij	bij	P	1	
-2	de	de	D	1	
-3	receptie	receptie	N	1	
-4	spreken	spreken	V	1	
-5	ze	ze	Q	1	
-6	een	een	D	1	
-7	paar	paar	G	1	
-8	woordjes	woordje	N	1	
-9	Engels	Engels	G	1	
-10	.	.	O	1	
+1	Bij	bij	P	1	O
+2	de	de	D	1	O
+3	receptie	receptie	N	1	O
+4	spreken	spreken	V	1	O
+5	ze	ze	Q	1	O
+6	een	een	D	1	O
+7	paar	paar	G	1	O
+8	woordjes	woordje	N	1	O
+9	Engels	Engels	G	1	O
+10	.	.	O	1	O
 
-1	Al	al	A	1	
-2	met	met	P	1	
-3	al	al	A	1	
-4	,	,	O	1	
-5	goede	goed	G	1	
-6	prijsklasse	prijsklasse	N	1	
-7	,	,	O	1	
-8	zeer	zeer	G	1	
-9	net	net	G	1	
-10	hotel	hotel	N	1	
-11	.	.	O	1	
+1	Al	al	A	1	O
+2	met	met	P	1	O
+3	al	al	A	1	O
+4	,	,	O	1	O
+5	goede	goed	G	1	O
+6	prijsklasse	prijsklasse	N	1	O
+7	,	,	O	1	O
+8	zeer	zeer	G	1	O
+9	net	net	G	1	O
+10	hotel	hotel	N	1	O
+11	.	.	O	1	O
 

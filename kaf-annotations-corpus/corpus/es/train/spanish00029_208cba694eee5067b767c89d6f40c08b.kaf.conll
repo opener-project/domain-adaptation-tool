@@ -1,141 +1,144 @@
-1	Este	Este	R	1	
-2	hotel	hotel	N	1	
-3	era	era	O	1	
-4	la	la	O	1	
-5	gran	gran	O	1	
-6	desilusión	desilusión	O	1	
-7	de	de	O	1	
-8	nuestro	nuestro	O	1	
-9	viaje	viaje	O	1	
+1	Este	Este	R	1	O
+2	hotel	hotel	N	1	O
+3	era	era	O	1	O
+4	la	la	O	1	O
+5	gran	gran	O	1	O
+6	desilusión	desilusión	O	1	O
+7	de	de	O	1	O
+8	nuestro	nuestro	O	1	O
+9	viaje	viaje	O	1	O
 
-1	Viajamos	Viajamos	R	1	
-2	en	en	P	1	
-3	el_mes_de_mayo	el_mes_de_mayo	R	1	ne=Date
-4	con	con	A	1	
-5	una	una	G	1	
-6	temperatura	temperatura	N	1	
-7	nocturna	nocturna	O	1	
-8	entre	entre	G	1	
-9	2	2	O	1	
-10	y	y	G	1	
-11	7	7	O	1	
-12	grados	grados	N	1	
-13	y	y	G	1	
-14	aun	aun	N	1	
-15	siendo	siendo	N	1	
-16	por	por	C	1	
-17	dos	dos	N	1	
-18	días	días	N	1	
-19	los	los	N	1	
-20	unicos	unicos	N	1	
-21	clientes	clientes	N	1	
-22	del	del	G	1	
-23	hotel	hotel	N	1	
-24	se	se	N	1	
-25	nos	nos	N	1	
-26	negó	negó	V	1	
-27	poner	poner	N	1	
-28	la	la	N	1	
-29	calefacción	calefacción	N	1	
-30	.	.	O	1	
+1	Viajamos	Viajamos	R	1	O
+2	en	en	P	1	O
+3	el	el	R	1	I-Date
+4	mes	mes	V	1	I-Date
+5	de	de	P	1	I-Date
+6	mayo	mayo	N	1	I-Date
+7	con	con	A	1	O
+8	una	una	G	1	O
+9	temperatura	temperatura	N	1	O
+10	nocturna	nocturna	O	1	O
+11	entre	entre	G	1	O
+12	2	2	O	1	O
+13	y	y	G	1	O
+14	7	7	O	1	O
+15	grados	grados	N	1	O
+16	y	y	G	1	O
+17	aun	aun	N	1	O
+18	siendo	siendo	N	1	O
+19	por	por	C	1	O
+20	dos	dos	N	1	O
+21	días	días	N	1	O
+22	los	los	N	1	O
+23	unicos	unicos	N	1	O
+24	clientes	clientes	N	1	O
+25	del	del	G	1	O
+26	hotel	hotel	N	1	O
+27	se	se	N	1	O
+28	nos	nos	N	1	O
+29	negó	negó	V	1	O
+30	poner	poner	N	1	O
+31	la	la	N	1	O
+32	calefacción	calefacción	N	1	O
+33	.	.	O	1	O
 
-1	Pasamos	Pasamos	R	1	
-2	un	un	G	1	
-3	frío	frío	N	1	
-4	enorme	enorme	N	1	
-5	.	.	O	1	
+1	Pasamos	Pasamos	R	1	O
+2	un	un	G	1	O
+3	frío	frío	N	1	O
+4	enorme	enorme	N	1	O
+5	.	.	O	1	O
 
-1	;	;	O	1	
-2	(	(	O	1	
+1	;	;	O	1	O
+2	(	(	O	1	O
 
-1	Habíamos	Habíamos	R	1	
-2	alquilado	alquilado	A	1	
-3	una	una	G	1	
-4	suite	suite	N	1	
-5	pensando	pensando	N	1	
-6	pasarlo	pasarlo	N	1	
-7	bién	bién	G	1	
-8	por	por	O	1	
-9	la	la	O	1	
-10	noche	noche	O	1	
-11	en	en	O	1	
-12	el	el	O	1	
-13	saloncito	saloncito	O	1	
-14	por	por	O	1	
-15	lo	lo	O	1	
-16	menos	menos	O	1	
-17	,	,	O	1	
-18	porque	porque	G	1	
-19	el	el	N	1	
-20	hotel	hotel	N	1	
-21	era	era	N	1	
-22	más	más	N	1	
-23	una	una	G	1	
-24	pension	pension	N	1	
-25	que	que	N	1	
-26	un	un	G	1	
-27	hotel	hotel	N	1	
-28	.	.	O	1	
+1	Habíamos	Habíamos	R	1	O
+2	alquilado	alquilado	A	1	O
+3	una	una	G	1	O
+4	suite	suite	N	1	O
+5	pensando	pensando	N	1	O
+6	pasarlo	pasarlo	N	1	O
+7	bién	bién	G	1	O
+8	por	por	O	1	O
+9	la	la	O	1	O
+10	noche	noche	O	1	O
+11	en	en	O	1	O
+12	el	el	O	1	O
+13	saloncito	saloncito	O	1	O
+14	por	por	O	1	O
+15	lo	lo	O	1	O
+16	menos	menos	O	1	O
+17	,	,	O	1	O
+18	porque	porque	G	1	O
+19	el	el	N	1	O
+20	hotel	hotel	N	1	O
+21	era	era	N	1	O
+22	más	más	N	1	O
+23	una	una	G	1	O
+24	pension	pension	N	1	O
+25	que	que	N	1	O
+26	un	un	G	1	O
+27	hotel	hotel	N	1	O
+28	.	.	O	1	O
 
-1	No	no	D	1	
-2	había	había	N	1	
-3	ni	ni	N	1	
-4	un	un	G	1	
-5	salon	salon	N	1	
-6	estar	estar	N	1	
-7	para	para	N	1	
-8	los	los	N	1	
-9	clientes	clientes	V	1	
-10	,	,	O	1	
-11	ni	ni	G	1	
-12	tampoco	tampoco	N	1	
-13	restaurantes	restaurantes	V	1	
-14	o	o	A	1	
-15	bares	bares	N	1	
-16	en	en	P	1	
-17	los	los	N	1	
-18	alrededores	alrededores	N	1	
-19	.	.	O	1	
+1	No	no	D	1	O
+2	había	había	N	1	O
+3	ni	ni	N	1	O
+4	un	un	G	1	O
+5	salon	salon	N	1	O
+6	estar	estar	N	1	O
+7	para	para	N	1	O
+8	los	los	N	1	O
+9	clientes	clientes	V	1	O
+10	,	,	O	1	O
+11	ni	ni	G	1	O
+12	tampoco	tampoco	N	1	O
+13	restaurantes	restaurantes	V	1	O
+14	o	o	A	1	O
+15	bares	bares	N	1	O
+16	en	en	P	1	O
+17	los	los	N	1	O
+18	alrededores	alrededores	N	1	O
+19	.	.	O	1	O
 
-1	Queríamos	Queríamos	R	1	
-2	ver	ver	A	1	
-3	la	la	D	1	
-4	final	final	G	1	
-5	de	de	O	1	
-6	"	"	O	1	
-7	Let	let	O	1	
-8	'	'	O	1	
-9	s	s	V	1	
-10	dance	dance	N	1	
-11	"	"	N	1	
-12	en	en	P	1	
-13	la	la	D	1	
-14	tele	tele	N	1	
-15	,	,	O	1	
-16	pero	pero	O	1	
-17	esta	esta	O	1	
-18	parecía	parecía	O	1	
-19	tener	tener	O	1	
-20	más	más	O	1	
-21	años	años	O	1	
-22	que	que	O	1	
-23	el	el	O	1	
-24	hotel	hotel	N	1	
-25	y	y	G	1	
-26	era	era	N	1	
-27	diminuta	diminuta	N	1	
-28	y	y	G	1	
-29	se	se	N	1	
-30	veía	veía	N	1	
-31	fatal	fatal	N	1	
-32	.	.	O	1	
+1	Queríamos	Queríamos	R	1	O
+2	ver	ver	A	1	O
+3	la	la	D	1	O
+4	final	final	G	1	O
+5	de	de	O	1	O
+6	"	"	O	1	O
+7	Let	let	O	1	O
+8	'	'	O	1	O
+9	s	s	V	1	O
+10	dance	dance	N	1	O
+11	"	"	N	1	O
+12	en	en	P	1	O
+13	la	la	D	1	O
+14	tele	tele	N	1	O
+15	,	,	O	1	O
+16	pero	pero	O	1	O
+17	esta	esta	O	1	O
+18	parecía	parecía	O	1	O
+19	tener	tener	O	1	O
+20	más	más	O	1	O
+21	años	años	O	1	O
+22	que	que	O	1	O
+23	el	el	O	1	O
+24	hotel	hotel	N	1	O
+25	y	y	G	1	O
+26	era	era	N	1	O
+27	diminuta	diminuta	N	1	O
+28	y	y	G	1	O
+29	se	se	N	1	O
+30	veía	veía	N	1	O
+31	fatal	fatal	N	1	O
+32	.	.	O	1	O
 
-1	Menos	menos	N	1	
-2	mal	mal	G	1	
-3	que	que	N	1	
-4	teníamos	teníamos	N	1	
-5	libros	libros	V	1	
-6	para	para	G	1	
-7	leer	leer	N	1	
-8	.	.	O	1	
+1	Menos	menos	N	1	O
+2	mal	mal	G	1	O
+3	que	que	N	1	O
+4	teníamos	teníamos	N	1	O
+5	libros	libros	V	1	O
+6	para	para	G	1	O
+7	leer	leer	N	1	O
+8	.	.	O	1	O
 

@@ -1,57 +1,57 @@
-1	Plus	Plus	G	1	
-2	jamais	jamais	G	1	
+1	Plus	Plus	G	1	O
+2	jamais	jamais	G	1	O
 
-1	les	le	D	1	
-2	manèges	manège	N	1	
-3	sont	être	V	1	
-4	vieux	vieux	G	1	
-5	pas	pas	G	1	
-6	entretenus	entretenus	P	1	
-7	le	le	D	1	
-8	parc	parc	N	1	
-9	est	être	V	1	
-10	sale	sale	G	1	
-11	hormis	hormis	P	1	
-12	1	1	D	1	
-13	manège	manège	N	1	
-14	rien	rien	P	1	
-15	ne	ne	G	1	
-16	retient	retenir	V	1	
-17	l'	le	D	1	
-18	attention	attention	N	1	
-19	le	le	D	1	
-20	parc	parc	N	1	
-21	acquatique	acquatique	G	1	
-22	est	être	V	1	
-23	bondé	bonder	V	1	
-24	de	de	P	1	
-25	monde	monde	N	1	
-26	il	il	Q	1	
-27	y	y	Q	1	
-28	a	avoir	V	1	
-29	peu	peu	G	1	
-30	de	de	P	1	
-31	tobogans	tobogans	N	1	
-32	et	et	C	1	
-33	ils	ils	Q	1	
-34	sont	être	V	1	
-35	inaccessibles	inaccessible	G	1	
-36	n'	n'	G	1	
-37	hésitez	hésiter	V	1	
-38	pas	pas	G	1	
-39	à	à	P	1	
-40	faire	faire	V	1	
-41	2	2	D	1	
-42	km	kilomètre	N	1	
-43	en	en	P	1	
-44	plus	plus	G	1	
-45	pour	pour	P	1	
-46	aller	aller	V	1	
-47	à	à	P	1	
-48	gardaland	gardaland	R	1	ne=Attraction
-49	(	(	O	1	
-50	pas	pas	G	1	
-51	sea	sea	G	1	
-52	life	life	N	1	
-53	)	)	O	1	
+1	les	le	D	1	O
+2	manèges	manège	N	1	O
+3	sont	être	V	1	O
+4	vieux	vieux	G	1	O
+5	pas	pas	G	1	O
+6	entretenus	entretenus	P	1	O
+7	le	le	D	1	O
+8	parc	parc	N	1	O
+9	est	être	V	1	O
+10	sale	sale	G	1	O
+11	hormis	hormis	P	1	O
+12	1	1	D	1	O
+13	manège	manège	N	1	O
+14	rien	rien	P	1	O
+15	ne	ne	G	1	O
+16	retient	retenir	V	1	O
+17	l'	le	D	1	O
+18	attention	attention	N	1	O
+19	le	le	D	1	O
+20	parc	parc	N	1	O
+21	acquatique	acquatique	G	1	O
+22	est	être	V	1	O
+23	bondé	bonder	V	1	O
+24	de	de	P	1	O
+25	monde	monde	N	1	O
+26	il	il	Q	1	O
+27	y	y	Q	1	O
+28	a	avoir	V	1	O
+29	peu	peu	G	1	O
+30	de	de	P	1	O
+31	tobogans	tobogans	N	1	O
+32	et	et	C	1	O
+33	ils	ils	Q	1	O
+34	sont	être	V	1	O
+35	inaccessibles	inaccessible	G	1	O
+36	n'	n'	G	1	O
+37	hésitez	hésiter	V	1	O
+38	pas	pas	G	1	O
+39	à	à	P	1	O
+40	faire	faire	V	1	O
+41	2	2	D	1	O
+42	km	kilomètre	N	1	O
+43	en	en	P	1	O
+44	plus	plus	G	1	O
+45	pour	pour	P	1	O
+46	aller	aller	V	1	O
+47	à	à	P	1	O
+48	gardaland	gardaland	R	1	I-Attraction
+49	(	(	O	1	O
+50	pas	pas	G	1	O
+51	sea	sea	G	1	O
+52	life	life	N	1	O
+53	)	)	O	1	O
 

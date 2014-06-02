@@ -1,128 +1,128 @@
-1	Design	design	N	1	
-2	,	,	O	1	
-3	confortable	confortable	G	1	
-4	et	et	C	1	
-5	bien	bien	G	1	
-6	situé	situer	V	1	
+1	Design	design	N	1	O
+2	,	,	O	1	O
+3	confortable	confortable	G	1	O
+4	et	et	C	1	O
+5	bien	bien	G	1	O
+6	situé	situer	V	1	O
 
-1	Hôtel	hôtel	N	1	
-2	en	en	P	1	
-3	plein	plein	G	1	
-4	centre	centre	N	1	
-5	mais	mais	C	1	
-6	en	en	P	1	
-7	dehors	dehors	G	1	
-8	des	un	D	1	
-9	artères	artère	N	1	
-10	commerçantes	commerçant	G	1	
-11	,	,	O	1	
-12	plus	plus	G	1	
-13	bruyantes	bruyant	G	1	
-14	.	.	O	1	
+1	Hôtel	hôtel	N	1	O
+2	en	en	P	1	O
+3	plein	plein	G	1	O
+4	centre	centre	N	1	O
+5	mais	mais	C	1	O
+6	en	en	P	1	O
+7	dehors	dehors	G	1	O
+8	des	un	D	1	O
+9	artères	artère	N	1	O
+10	commerçantes	commerçant	G	1	O
+11	,	,	O	1	O
+12	plus	plus	G	1	O
+13	bruyantes	bruyant	G	1	O
+14	.	.	O	1	O
 
-1	Accueil	accueil	N	1	
-2	poli	polir	V	1	
-3	sans	sans]	P	1	
-4	plus	plus	G	1	
-5	.	.	O	1	
+1	Accueil	accueil	N	1	O
+2	poli	polir	V	1	O
+3	sans	sans]	P	1	O
+4	plus	plus	G	1	O
+5	.	.	O	1	O
 
-1	Chambres	chambre	N	1	
-2	propres	propre	G	1	
-3	et	et	C	1	
-4	douillettes	douillet	G	1	
-5	avec	avec	P	1	
-6	douche	douche	N	1	
-7	à	à	P	1	
-8	jets	jet	N	1	
-9	et	et	C	1	
-10	baignoire	baignoire	N	1	
-11	,	,	O	1	
-12	bien	bien	G	1	
-13	insonorisées	insonoriser	G	1	
-14	et	et	C	1	
-15	oreillers	oreillers	G	1	
-16	ultra	ultra	G	1	
-17	·	·	N	1	
-18	confortables	confortable	G	1	
-19	.	.	O	1	
+1	Chambres	chambre	N	1	O
+2	propres	propre	G	1	O
+3	et	et	C	1	O
+4	douillettes	douillet	G	1	O
+5	avec	avec	P	1	O
+6	douche	douche	N	1	O
+7	à	à	P	1	O
+8	jets	jet	N	1	O
+9	et	et	C	1	O
+10	baignoire	baignoire	N	1	O
+11	,	,	O	1	O
+12	bien	bien	G	1	O
+13	insonorisées	insonoriser	G	1	O
+14	et	et	C	1	O
+15	oreillers	oreillers	G	1	O
+16	ultra	ultra	G	1	O
+17	·	·	N	1	O
+18	confortables	confortable	G	1	O
+19	.	.	O	1	O
 
-1	Petit	petit	G	1	
-2	·	·	G	1	
-3	déjeuner	déjeuner	P	1	
-4	gargantuesque	gargantuesque	N	1	
-5	:	:	O	1	
-6	levez	levez	D	1	
-7	·	·	N	1	
-8	vous	lui	Q	1	
-9	plus	plus	G	1	
-10	tôt	tôt	G	1	
-11	pour	pour	P	1	
-12	bien	bien	G	1	
-13	en	en	P	1	
-14	profiter	profiter	V	1	
-15	.	.	O	1	
+1	Petit	petit	G	1	O
+2	·	·	G	1	O
+3	déjeuner	déjeuner	P	1	O
+4	gargantuesque	gargantuesque	N	1	O
+5	:	:	O	1	O
+6	levez	levez	D	1	O
+7	·	·	N	1	O
+8	vous	lui	Q	1	O
+9	plus	plus	G	1	O
+10	tôt	tôt	G	1	O
+11	pour	pour	P	1	O
+12	bien	bien	G	1	O
+13	en	en	P	1	O
+14	profiter	profiter	V	1	O
+15	.	.	O	1	O
 
-1	Bar	bar	N	1	
-2	à	à	P	1	
-3	champagne	champagne	N	1	
-4	.	.	O	1	
+1	Bar	bar	N	1	O
+2	à	à	P	1	O
+3	champagne	champagne	N	1	O
+4	.	.	O	1	O
 
-1	Mini	mini	N	1	
-2	·	·	V	1	
-3	bar	bar	N	1	
-4	gratuit	gratuit	G	1	
-5	mais	mais	C	1	
-6	uniquement	uniquement	G	1	
-7	softs	soft	G	1	
-8	et	et	C	1	
-9	bière	bière	G	1	
-10	.	.	O	1	
+1	Mini	mini	N	1	O
+2	·	·	V	1	O
+3	bar	bar	N	1	O
+4	gratuit	gratuit	G	1	O
+5	mais	mais	C	1	O
+6	uniquement	uniquement	G	1	O
+7	softs	soft	G	1	O
+8	et	et	C	1	O
+9	bière	bière	G	1	O
+10	.	.	O	1	O
 
-1	Quelques	quelque	D	1	
-2	points	point	N	1	
-3	faibles	faible	G	1	
-4	:	:	O	1	
-5	pour	pour	P	1	
-6	un	un	D	1	
-7	hôtel	hôtel	N	1	
-8	de	de	P	1	
-9	ce	ce	Q	1	
-10	standing	standing	O	1	
-11	,	,	O	1	
-12	pourrait	pouvoir	V	1	
-13	être	être	V	1	
-14	un	un	D	1	
-15	peu	peu	G	1	
-16	rafraîchi	rafraîchir	V	1	
-17	dans	dans	P	1	
-18	les	le	D	1	
-19	couloirs	couloir	N	1	
-20	,	,	O	1	
-21	devrait	devoir	V	1	
-22	fournir	fournir	V	1	
-23	plus	plus	G	1	
-24	de	de	P	1	
-25	gel	gel	N	1	
-26	douche	douche	G	1	
-27	et	et	C	1	
-28	devrait	devoir	V	1	
-29	donner	donner	V	1	
-30	un	un	D	1	
-31	accès	accès	N	1	
-32	plus	plus	G	1	
-33	facile	facile	G	1	
-34	aux	aux	P	1	
-35	pc	pc	N	1	
-36	du	du	P	1	
-37	business	business	N	1	
-38	center	center	N	1	
-39	(	(	O	1	
-40	notamment	notamment	G	1	
-41	pour	pour	P	1	
-42	le	le	D	1	
-43	online	online	N	1	
-44	check	check	G	1	
-45	·	·	N	1	
-46	in	in	O	1	
-47	)	)	O	1	
+1	Quelques	quelque	D	1	O
+2	points	point	N	1	O
+3	faibles	faible	G	1	O
+4	:	:	O	1	O
+5	pour	pour	P	1	O
+6	un	un	D	1	O
+7	hôtel	hôtel	N	1	O
+8	de	de	P	1	O
+9	ce	ce	Q	1	O
+10	standing	standing	O	1	O
+11	,	,	O	1	O
+12	pourrait	pouvoir	V	1	O
+13	être	être	V	1	O
+14	un	un	D	1	O
+15	peu	peu	G	1	O
+16	rafraîchi	rafraîchir	V	1	O
+17	dans	dans	P	1	O
+18	les	le	D	1	O
+19	couloirs	couloir	N	1	O
+20	,	,	O	1	O
+21	devrait	devoir	V	1	O
+22	fournir	fournir	V	1	O
+23	plus	plus	G	1	O
+24	de	de	P	1	O
+25	gel	gel	N	1	O
+26	douche	douche	G	1	O
+27	et	et	C	1	O
+28	devrait	devoir	V	1	O
+29	donner	donner	V	1	O
+30	un	un	D	1	O
+31	accès	accès	N	1	O
+32	plus	plus	G	1	O
+33	facile	facile	G	1	O
+34	aux	aux	P	1	O
+35	pc	pc	N	1	O
+36	du	du	P	1	O
+37	business	business	N	1	O
+38	center	center	N	1	O
+39	(	(	O	1	O
+40	notamment	notamment	G	1	O
+41	pour	pour	P	1	O
+42	le	le	D	1	O
+43	online	online	N	1	O
+44	check	check	G	1	O
+45	·	·	N	1	O
+46	in	in	O	1	O
+47	)	)	O	1	O
 

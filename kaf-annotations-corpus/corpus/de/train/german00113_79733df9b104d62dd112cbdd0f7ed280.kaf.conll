@@ -1,167 +1,167 @@
-1	Wunderschöner	wunderschön	G	1	
-2	Urlaub	Urlaub	N	1	
+1	Wunderschöner	wunderschön	G	1	O
+2	Urlaub	Urlaub	N	1	O
 
-1	Die	die	D	1	
-2	gesamte	gesamt	G	1	
-3	Hotelanlage	Hotelanlage	N	1	
-4	ist	sein	V	1	
-5	sehr	sehr	A	1	
-6	groß	groß	G	1	
-7	,	,	O	1	
-8	aber	aber	C	1	
-9	so	so	A	1	
-10	weitläufig	weitläufig	G	1	
-11	gebaut	bauen	V	1	
-12	,	,	O	1	
-13	dass	dass	C	1	
-14	dies	dies	Q	1	
-15	nicht	nicht	O	1	
-16	wirklich	wirklich	G	1	
-17	störend	störend	G	1	
-18	ist	sein	V	1	
-19	.	.	O	1	
+1	Die	die	D	1	O
+2	gesamte	gesamt	G	1	O
+3	Hotelanlage	Hotelanlage	N	1	O
+4	ist	sein	V	1	O
+5	sehr	sehr	A	1	O
+6	groß	groß	G	1	O
+7	,	,	O	1	O
+8	aber	aber	C	1	O
+9	so	so	A	1	O
+10	weitläufig	weitläufig	G	1	O
+11	gebaut	bauen	V	1	O
+12	,	,	O	1	O
+13	dass	dass	C	1	O
+14	dies	dies	Q	1	O
+15	nicht	nicht	O	1	O
+16	wirklich	wirklich	G	1	O
+17	störend	störend	G	1	O
+18	ist	sein	V	1	O
+19	.	.	O	1	O
 
-1	Natürlich	natürlich	A	1	
-2	handelt	handeln	V	1	
-3	es	es	Q	1	
-4	sich	sich	Q	1	
-5	um	um	P	1	
-6	ein	eine	D	1	
-7	Clubhotel	Clubhotel	N	1	
-8	,	,	O	1	
-9	so	so	A	1	
-10	dass	dass	C	1	
-11	man	man	Q	1	
-12	immer	immer	A	1	
-13	Leute	Leute	N	1	
-14	um	um	P	1	
-15	sich	sich	Q	1	
-16	herum	herum	V	1	
-17	hat	haben	V	1	
-18	.	.	O	1	
+1	Natürlich	natürlich	A	1	O
+2	handelt	handeln	V	1	O
+3	es	es	Q	1	O
+4	sich	sich	Q	1	O
+5	um	um	P	1	O
+6	ein	eine	D	1	O
+7	Clubhotel	Clubhotel	N	1	O
+8	,	,	O	1	O
+9	so	so	A	1	O
+10	dass	dass	C	1	O
+11	man	man	Q	1	O
+12	immer	immer	A	1	O
+13	Leute	Leute	N	1	O
+14	um	um	P	1	O
+15	sich	sich	Q	1	O
+16	herum	herum	V	1	O
+17	hat	haben	V	1	O
+18	.	.	O	1	O
 
-1	Wer	wer	Q	1	
-2	das	die	Q	1	
-3	generell	generell	G	1	
-4	nicht	nicht	O	1	
-5	mag	mögen	V	1	
-6	,	,	O	1	
-7	sucht	suchen	V	1	
-8	sich	sich	Q	1	
-9	für	für	P	1	
-10	seinen	sein	Q	1	
-11	Urlaub	Urlaub	N	1	
-12	auch	auch	A	1	
-13	andere	andere	Q	1	
-14	Hotels	Hotel	N	1	
-15	/	/	O	1	
-16	Ferienhäuser	Ferienhaus	N	1	
-17	o.ä.	oderä.	P	1	
-18	aus	aus	V	1	
-19	.	.	O	1	
+1	Wer	wer	Q	1	O
+2	das	die	Q	1	O
+3	generell	generell	G	1	O
+4	nicht	nicht	O	1	O
+5	mag	mögen	V	1	O
+6	,	,	O	1	O
+7	sucht	suchen	V	1	O
+8	sich	sich	Q	1	O
+9	für	für	P	1	O
+10	seinen	sein	Q	1	O
+11	Urlaub	Urlaub	N	1	O
+12	auch	auch	A	1	O
+13	andere	andere	Q	1	O
+14	Hotels	Hotel	N	1	O
+15	/	/	O	1	O
+16	Ferienhäuser	Ferienhaus	N	1	O
+17	o.ä.	oderä.	P	1	O
+18	aus	aus	V	1	O
+19	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	postitiv	postitiv	O	1	
-3	ist	sein	V	1	
-4	uns	wir	Q	1	
-5	die	die	D	1	
-6	Sauberkeit	Sauberkeit	N	1	
-7	in	in	P	1	
-8	der	die	D	1	
-9	Anlage	Anlage	N	1	
-10	aufgefallen	auffallen	V	1	
-11	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	postitiv	postitiv	O	1	O
+3	ist	sein	V	1	O
+4	uns	wir	Q	1	O
+5	die	die	D	1	O
+6	Sauberkeit	Sauberkeit	N	1	O
+7	in	in	P	1	O
+8	der	die	D	1	O
+9	Anlage	Anlage	N	1	O
+10	aufgefallen	auffallen	V	1	O
+11	.	.	O	1	O
 
-1	Ständig	ständig	G	1	
-2	hat	haben	V	1	
-3	man	man	Q	1	
-4	Angestellte	Angestellte	N	1	
-5	herumwuseln	herumwuseln	O	1	
-6	sehen	sehen	V	1	
-7	,	,	O	1	
-8	die	die	Q	1	
-9	irgedwo	irgedwo	O	1	
-10	aufgeräumt	aufräumen	V	1	
-11	/	/	O	1	
-12	gekehrt	kehren	V	1	
-13	/	/	O	1	
-14	gewischt	wischen	V	1	
-15	usw.	usw.	A	1	
-16	haben	haben	V	1	
-17	.	.	O	1	
+1	Ständig	ständig	G	1	O
+2	hat	haben	V	1	O
+3	man	man	Q	1	O
+4	Angestellte	Angestellte	N	1	O
+5	herumwuseln	herumwuseln	O	1	O
+6	sehen	sehen	V	1	O
+7	,	,	O	1	O
+8	die	die	Q	1	O
+9	irgedwo	irgedwo	O	1	O
+10	aufgeräumt	aufräumen	V	1	O
+11	/	/	O	1	O
+12	gekehrt	kehren	V	1	O
+13	/	/	O	1	O
+14	gewischt	wischen	V	1	O
+15	usw.	usw.	A	1	O
+16	haben	haben	V	1	O
+17	.	.	O	1	O
 
-1	Maler	Maler	N	1	
-2	waren	sein	V	1	
-3	unterwegs	unterwegs	A	1	
-4	und	und	C	1	
-5	haben	haben	V	1	
-6	kleinere	klein	G	1	
-7	Gebrauchsspuren	Gebrauchsspur	N	1	
-8	an	an	P	1	
-9	den	die	D	1	
-10	Gebäuden	Gebäude	N	1	
-11	behoben	beheben	V	1	
-12	.	.	O	1	
+1	Maler	Maler	N	1	O
+2	waren	sein	V	1	O
+3	unterwegs	unterwegs	A	1	O
+4	und	und	C	1	O
+5	haben	haben	V	1	O
+6	kleinere	klein	G	1	O
+7	Gebrauchsspuren	Gebrauchsspur	N	1	O
+8	an	an	P	1	O
+9	den	die	D	1	O
+10	Gebäuden	Gebäude	N	1	O
+11	behoben	beheben	V	1	O
+12	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	waren	sein	V	1	
-3	im	in	P	1	
-4	(	(	O	1	
-5	Winter	Winter	N	1	
-6	·	·	O	1	
-7	)	)	O	1	
-8	Ferienmonat	Ferienmonat	N	1	
-9	der	die	D	1	
-10	Brasilianer	Brasilianer	N	1	
-11	vor	vor	P	1	
-12	Ort	Ort	N	1	
-13	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	waren	sein	V	1	O
+3	im	in	P	1	O
+4	(	(	O	1	O
+5	Winter	Winter	N	1	O
+6	·	·	O	1	O
+7	)	)	O	1	O
+8	Ferienmonat	Ferienmonat	N	1	O
+9	der	die	D	1	O
+10	Brasilianer	Brasilianer	N	1	O
+11	vor	vor	P	1	O
+12	Ort	Ort	N	1	O
+13	.	.	O	1	O
 
-1	Entsprechend	entsprechend	G	1	
-2	war	sein	V	1	
-3	das	die	D	1	
-4	Publikum	Publikum	N	1	
-5	:	:	O	1	
-6	Hauptsichlich	Hauptsichlich	O	1	
-7	um	um	P	1	
-8	30	30	O	1	
-9	·	·	O	1	
-10	50	50	O	1	
-11	Jahre	Jahr	N	1	
-12	mit	mit	P	1	
-13	Kindern	Kind	N	1	
-14	in	in	P	1	
-15	jedem	jede	Q	1	
-16	Alter	Alter	N	1	
-17	.	.	O	1	
+1	Entsprechend	entsprechend	G	1	O
+2	war	sein	V	1	O
+3	das	die	D	1	O
+4	Publikum	Publikum	N	1	O
+5	:	:	O	1	O
+6	Hauptsichlich	Hauptsichlich	O	1	O
+7	um	um	P	1	O
+8	30	30	O	1	O
+9	·	·	O	1	O
+10	50	50	O	1	O
+11	Jahre	Jahr	N	1	O
+12	mit	mit	P	1	O
+13	Kindern	Kind	N	1	O
+14	in	in	P	1	O
+15	jedem	jede	Q	1	O
+16	Alter	Alter	N	1	O
+17	.	.	O	1	O
 
-1	Bis	bis	C	1	
-2	auf	auf	P	1	
-3	uns	wir	Q	1	
-4	waren	sein	V	1	
-5	nur	nur	A	1	
-6	noch	noch	A	1	
-7	zwei	zwei	O	1	
-8	andere	andere	Q	1	
-9	deutsche	deutsch	G	1	
-10	Familien	Familie	N	1	
-11	da	da	V	1	
-12	,	,	O	1	
-13	alle	alle	Q	1	
-14	anderen	andere	Q	1	
-15	waren	sein	V	1	
-16	zum	zu	P	1	
-17	Großteil	Großteil	N	1	
-18	Brasilianer	Brasilianer	N	1	
-19	.	.	O	1	
+1	Bis	bis	C	1	O
+2	auf	auf	P	1	O
+3	uns	wir	Q	1	O
+4	waren	sein	V	1	O
+5	nur	nur	A	1	O
+6	noch	noch	A	1	O
+7	zwei	zwei	O	1	O
+8	andere	andere	Q	1	O
+9	deutsche	deutsch	G	1	O
+10	Familien	Familie	N	1	O
+11	da	da	V	1	O
+12	,	,	O	1	O
+13	alle	alle	Q	1	O
+14	anderen	andere	Q	1	O
+15	waren	sein	V	1	O
+16	zum	zu	P	1	O
+17	Großteil	Großteil	N	1	O
+18	Brasilianer	Brasilianer	N	1	O
+19	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	gab	geben	V	1	
-3	auch	auch	A	1	
-4	eine	eine	D	1	
-5	handvoll	handvoll	G	1	
-6	Argentinier	Argentinier	N	1	
-7	und	und	C	1	
-8	Portugiesen	Portugiese	N	1	
-9	.	.	O	1	
+1	Es	es	Q	1	O
+2	gab	geben	V	1	O
+3	auch	auch	A	1	O
+4	eine	eine	D	1	O
+5	handvoll	handvoll	G	1	O
+6	Argentinier	Argentinier	N	1	O
+7	und	und	C	1	O
+8	Portugiesen	Portugiese	N	1	O
+9	.	.	O	1	O
 

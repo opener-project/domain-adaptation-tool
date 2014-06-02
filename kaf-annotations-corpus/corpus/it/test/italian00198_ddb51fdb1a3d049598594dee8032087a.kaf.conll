@@ -1,56 +1,56 @@
-1	Non	non	A	1	
-2	all'	all'	P	1	
-3	altezza	altezza	N	1	
+1	Non	non	A	1	O
+2	all'	all'	P	1	O
+3	altezza	altezza	N	1	O
 
-1	Hotel	hotel	N	1	
-2	non	non	A	1	
-3	all'	all'	P	1	
-4	altezza	altezza	N	1	
-5	delle	delle	P	1	
-6	aspettative	aspettativa	N	1	
-7	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	non	non	A	1	O
+3	all'	all'	P	1	O
+4	altezza	altezza	N	1	O
+5	delle	delle	P	1	O
+6	aspettative	aspettativa	N	1	O
+7	.	.	O	1	O
 
-1	Pulizia	pulizia	N	1	
-2	non	non	A	1	
-3	impeccabile	impeccabile	G	1	
-4	.	.	O	1	
+1	Pulizia	pulizia	N	1	O
+2	non	non	A	1	O
+3	impeccabile	impeccabile	G	1	O
+4	.	.	O	1	O
 
-1	Biancheria	biancheria	N	1	
-2	da	da	P	1	
-3	letto	letto	N	1	
-4	strappata	strappare	V	1	
-5	.	.	O	1	
+1	Biancheria	biancheria	N	1	O
+2	da	da	P	1	O
+3	letto	letto	N	1	O
+4	strappata	strappare	V	1	O
+5	.	.	O	1	O
 
-1	Wi	wi	R	1	
-2	·	·	R	1	
-3	fi	fi	V	1	
-4	non	non	A	1	
-5	funzionante	funzionare	V	1	
-6	.	.	O	1	
+1	Wi	wi	R	1	O
+2	·	·	R	1	O
+3	fi	fi	V	1	O
+4	non	non	A	1	O
+5	funzionante	funzionare	V	1	O
+6	.	.	O	1	O
 
-1	Rapporto	rapporto	N	1	
-2	qualità	qualita'	N	1	
-3	/	/	O	1	
-4	prezzo	prezzare	V	1	
-5	basso	basso	G	1	
-6	.	.	O	1	
+1	Rapporto	rapporto	N	1	O
+2	qualità	qualita'	N	1	O
+3	/	/	O	1	O
+4	prezzo	prezzare	V	1	O
+5	basso	basso	G	1	O
+6	.	.	O	1	O
 
-1	Colazione	colazione	N	1	
-2	esclusa	escludere	V	1	
-3	e	e	Q	1	
-4	troppo	troppo	A	1	
-5	costosa	costoso	G	1	
-6	.	.	O	1	
+1	Colazione	colazione	N	1	O
+2	esclusa	escludere	V	1	O
+3	e	e	Q	1	O
+4	troppo	troppo	A	1	O
+5	costosa	costoso	G	1	O
+6	.	.	O	1	O
 
-1	Nota	noto	G	1	
-2	positiva	positivo	G	1	
-3	:	:	O	1	
-4	la	lo	D	1	
-5	navetta	navetta	N	1	
-6	che	che	Q	1	
-7	porta	porgere	V	1	
-8	direttamente	direttamente	A	1	
-9	alla	alla	P	1	
-10	stazione	stazione	N	1	
-11	.	.	O	1	
+1	Nota	noto	G	1	O
+2	positiva	positivo	G	1	O
+3	:	:	O	1	O
+4	la	lo	D	1	O
+5	navetta	navetta	N	1	O
+6	che	che	Q	1	O
+7	porta	porgere	V	1	O
+8	direttamente	direttamente	A	1	O
+9	alla	alla	P	1	O
+10	stazione	stazione	N	1	O
+11	.	.	O	1	O
 

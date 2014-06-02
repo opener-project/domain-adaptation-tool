@@ -1,121 +1,121 @@
-1	Hotel	hotel	N	1	
-2	full	full	G	1	
-3	of	of	P	1	
-4	Russians	russians	R	1	
-5	and	and	C	1	
-6	children	child	N	1	
+1	Hotel	hotel	N	1	O
+2	full	full	G	1	O
+3	of	of	P	1	O
+4	Russians	russians	R	1	O
+5	and	and	C	1	O
+6	children	child	N	1	O
 
-1	Hotel	hotel	N	1	
-2	was	be	V	1	
-3	full	full	G	1	
-4	of	of	P	1	
-5	badly	badly	A	1	
-6	behaved	behaved	G	1	
-7	children	child	N	1	
-8	who	who	Q	1	
-9	rushed	rush	V	1	
-10	in	in	A	1	
-11	front	front	G	1	
-12	of	of	P	1	
-13	you	you	Q	1	
-14	almost	almost	A	1	
-15	knocking	knock	V	1	
-16	you	you	Q	1	
-17	over	over	O	1	
-18	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	was	be	V	1	O
+3	full	full	G	1	O
+4	of	of	P	1	O
+5	badly	badly	A	1	O
+6	behaved	behaved	G	1	O
+7	children	child	N	1	O
+8	who	who	Q	1	O
+9	rushed	rush	V	1	O
+10	in	in	A	1	O
+11	front	front	G	1	O
+12	of	of	P	1	O
+13	you	you	Q	1	O
+14	almost	almost	A	1	O
+15	knocking	knock	V	1	O
+16	you	you	Q	1	O
+17	over	over	O	1	O
+18	.	.	O	1	O
 
-1	The	the	D	1	
-2	Russian	russian	G	1	
-3	parents	parent	N	1	
-4	had	have	V	1	
-5	no	no	D	1	
-6	control	control	N	1	
-7	over	over	P	1	
-8	them	them	Q	1	
-9	at	at	P	1	
-10	any	any	D	1	
-11	time	time	N	1	
-12	.	.	O	1	
+1	The	the	D	1	O
+2	Russian	russian	G	1	O
+3	parents	parent	N	1	O
+4	had	have	V	1	O
+5	no	no	D	1	O
+6	control	control	N	1	O
+7	over	over	P	1	O
+8	them	them	Q	1	O
+9	at	at	P	1	O
+10	any	any	D	1	O
+11	time	time	N	1	O
+12	.	.	O	1	O
 
-1	The	the	D	1	
-2	food	food	N	1	
-3	was	be	V	1	
-4	very	very	A	1	
-5	basic	basic	G	1	
-6	,	,	O	1	
-7	but	but	C	1	
-8	edible	edible	G	1	
-9	with	with	P	1	
-10	good	good	G	1	
-11	bread	bread	N	1	
-12	,	,	O	1	
-13	soup	soup	N	1	
-14	and	and	C	1	
-15	desserts	dessert	N	1	
-16	.	.	O	1	
+1	The	the	D	1	O
+2	food	food	N	1	O
+3	was	be	V	1	O
+4	very	very	A	1	O
+5	basic	basic	G	1	O
+6	,	,	O	1	O
+7	but	but	C	1	O
+8	edible	edible	G	1	O
+9	with	with	P	1	O
+10	good	good	G	1	O
+11	bread	bread	N	1	O
+12	,	,	O	1	O
+13	soup	soup	N	1	O
+14	and	and	C	1	O
+15	desserts	dessert	N	1	O
+16	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	was	be	V	1	
-3	very	very	A	1	
-4	clean	clean	G	1	
-5	and	and	C	1	
-6	large	large	G	1	
-7	with	with	P	1	
-8	english	english	G	1	
-9	speaking	speaking	N	1	
-10	room	room	N	1	
-11	boy	boy	N	1	
-12	who	who	Q	1	
-13	was	be	V	1	
-14	very	very	A	1	
-15	polite	polite	G	1	
-16	and	and	C	1	
-17	helpfull	helpfull	G	1	
-18	.	.	O	1	
+1	Room	Room	R	1	O
+2	was	be	V	1	O
+3	very	very	A	1	O
+4	clean	clean	G	1	O
+5	and	and	C	1	O
+6	large	large	G	1	O
+7	with	with	P	1	O
+8	english	english	G	1	O
+9	speaking	speaking	N	1	O
+10	room	room	N	1	O
+11	boy	boy	N	1	O
+12	who	who	Q	1	O
+13	was	be	V	1	O
+14	very	very	A	1	O
+15	polite	polite	G	1	O
+16	and	and	C	1	O
+17	helpfull	helpfull	G	1	O
+18	.	.	O	1	O
 
-1	The	the	D	1	
-2	bar	bar	N	1	
-3	staff	staff	N	1	
-4	looked	look	V	1	
-5	tired	tired	G	1	
-6	and	and	C	1	
-7	overworked	overworked	G	1	
-8	but	but	C	1	
-9	did	do	V	1	
-10	make	make	V	1	
-11	an	a	D	1	
-12	effort	effort	N	1	
-13	to	to	P	1	
-14	smile	smile	V	1	
-15	and	and	C	1	
-16	make	make	V	1	
-17	nice	nice	G	1	
-18	comments	comment	N	1	
-19	to	to	P	1	
-20	you	you	Q	1	
-21	once	once	P	1	
-22	they	they	Q	1	
-23	knew	know	V	1	
-24	you	you	Q	1	
-25	were	be	V	1	
-26	English	English	R	1	
-27	.	.	O	1	
+1	The	the	D	1	O
+2	bar	bar	N	1	O
+3	staff	staff	N	1	O
+4	looked	look	V	1	O
+5	tired	tired	G	1	O
+6	and	and	C	1	O
+7	overworked	overworked	G	1	O
+8	but	but	C	1	O
+9	did	do	V	1	O
+10	make	make	V	1	O
+11	an	a	D	1	O
+12	effort	effort	N	1	O
+13	to	to	P	1	O
+14	smile	smile	V	1	O
+15	and	and	C	1	O
+16	make	make	V	1	O
+17	nice	nice	G	1	O
+18	comments	comment	N	1	O
+19	to	to	P	1	O
+20	you	you	Q	1	O
+21	once	once	P	1	O
+22	they	they	Q	1	O
+23	knew	know	V	1	O
+24	you	you	Q	1	O
+25	were	be	V	1	O
+26	English	English	R	1	O
+27	.	.	O	1	O
 
-1	Not	not	A	1	
-2	suitable	suitable	G	1	
-3	for	for	P	1	
-4	couples	couple	N	1	
-5	without	without	P	1	
-6	children	child	N	1	
-7	as	as	P	1	
-8	evening	evening	N	1	
-9	entertainment	entertainment	N	1	
-10	was	be	V	1	
-11	almost	almost	A	1	
-12	nill	nill	G	1	
-13	and	and	C	1	
-14	geared	gear	V	1	
-15	for	for	P	1	
-16	families	family	N	1	
-17	.	.	O	1	
+1	Not	not	A	1	O
+2	suitable	suitable	G	1	O
+3	for	for	P	1	O
+4	couples	couple	N	1	O
+5	without	without	P	1	O
+6	children	child	N	1	O
+7	as	as	P	1	O
+8	evening	evening	N	1	O
+9	entertainment	entertainment	N	1	O
+10	was	be	V	1	O
+11	almost	almost	A	1	O
+12	nill	nill	G	1	O
+13	and	and	C	1	O
+14	geared	gear	V	1	O
+15	for	for	P	1	O
+16	families	family	N	1	O
+17	.	.	O	1	O
 

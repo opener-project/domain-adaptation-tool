@@ -1,79 +1,79 @@
-1	Buen	Buen	R	1	
-2	ambiente	ambiente	V	1	
-3	y	y	G	1	
-4	servicio	servicio	N	1	
+1	Buen	Buen	R	1	O
+2	ambiente	ambiente	V	1	O
+3	y	y	G	1	O
+4	servicio	servicio	N	1	O
 
-1	Por	Por	R	1	
-2	motivos	motivos	O	1	
-3	de	de	O	1	
-4	trabajo	trabajo	N	1	
-5	,	,	O	1	
-6	me	me	Q	1	
-7	hospedo	hospedo	V	1	
-8	en	en	G	1	
-9	este	este	N	1	
-10	hotel	hotel	N	1	
-11	asiduamente	asiduamente	A	1	
-12	.	.	O	1	
+1	Por	Por	R	1	O
+2	motivos	motivos	O	1	O
+3	de	de	O	1	O
+4	trabajo	trabajo	N	1	O
+5	,	,	O	1	O
+6	me	me	Q	1	O
+7	hospedo	hospedo	V	1	O
+8	en	en	G	1	O
+9	este	este	N	1	O
+10	hotel	hotel	N	1	O
+11	asiduamente	asiduamente	A	1	O
+12	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	P	1	
-3	personal	personal	G	1	
-4	es	es	N	1	
-5	muy	muy	G	1	
-6	bueno	bueno	N	1	
-7	y	y	G	1	
-8	el	el	N	1	
-9	hotel	hotel	N	1	
-10	goza	goza	O	1	
-11	de	de	O	1	
-12	habitaciones	habitaciones	N	1	
-13	amplias	amplias	P	1	
-14	y	y	G	1	
-15	confortables	confortables	N	1	
-16	.	.	O	1	
+1	El	El	R	1	O
+2	trato	trato	P	1	O
+3	personal	personal	G	1	O
+4	es	es	N	1	O
+5	muy	muy	G	1	O
+6	bueno	bueno	N	1	O
+7	y	y	G	1	O
+8	el	el	N	1	O
+9	hotel	hotel	N	1	O
+10	goza	goza	O	1	O
+11	de	de	O	1	O
+12	habitaciones	habitaciones	N	1	O
+13	amplias	amplias	P	1	O
+14	y	y	G	1	O
+15	confortables	confortables	N	1	O
+16	.	.	O	1	O
 
-1	El	El	R	1	
-2	precio	precio	N	1	
-3	en	en	O	1	
-4	relacion	relacion	O	1	
-5	con	con	O	1	
-6	la	la	O	1	
-7	calidad	calidad	O	1	
-8	ofrecida	ofrecida	O	1	
-9	es	es	O	1	
-10	bueno	bueno	O	1	
-11	,	,	O	1	
-12	y	y	A	1	
-13	ademas	ademas	V	1	
-14	cuenta	cuenta	G	1	
-15	con	con	N	1	
-16	un	un	G	1	
-17	Spa	Spa	R	1	
-18	y	y	G	1	
-19	piscina	piscina	N	1	
-20	en	en	O	1	
-21	la	la	O	1	
-22	azotea.	azotea.	O	1	
-23	la	la	O	1	
-24	parte	parte	O	1	
-25	mas	mas	O	1	
-26	negativa	negativa	O	1	
-27	es	es	O	1	
-28	la	la	O	1	
-29	calida	calida	O	1	
-30	del	del	O	1	
-31	desayuno	desayuno	O	1	
-32	,	,	O	1	
-33	pero	pero	O	1	
-34	en	en	O	1	
-35	terminos	terminos	O	1	
-36	globales	globales	O	1	
-37	el	el	O	1	
-38	hotel	hotel	N	1	
-39	cubre	cubre	N	1	
-40	las	las	V	1	
-41	expectativas	expectativas	N	1	
-42	esperadas	esperadas	N	1	
-43	.	.	O	1	
+1	El	El	R	1	O
+2	precio	precio	N	1	O
+3	en	en	O	1	O
+4	relacion	relacion	O	1	O
+5	con	con	O	1	O
+6	la	la	O	1	O
+7	calidad	calidad	O	1	O
+8	ofrecida	ofrecida	O	1	O
+9	es	es	O	1	O
+10	bueno	bueno	O	1	O
+11	,	,	O	1	O
+12	y	y	A	1	O
+13	ademas	ademas	V	1	O
+14	cuenta	cuenta	G	1	O
+15	con	con	N	1	O
+16	un	un	G	1	O
+17	Spa	Spa	R	1	O
+18	y	y	G	1	O
+19	piscina	piscina	N	1	O
+20	en	en	O	1	O
+21	la	la	O	1	O
+22	azotea.	azotea.	O	1	O
+23	la	la	O	1	O
+24	parte	parte	O	1	O
+25	mas	mas	O	1	O
+26	negativa	negativa	O	1	O
+27	es	es	O	1	O
+28	la	la	O	1	O
+29	calida	calida	O	1	O
+30	del	del	O	1	O
+31	desayuno	desayuno	O	1	O
+32	,	,	O	1	O
+33	pero	pero	O	1	O
+34	en	en	O	1	O
+35	terminos	terminos	O	1	O
+36	globales	globales	O	1	O
+37	el	el	O	1	O
+38	hotel	hotel	N	1	O
+39	cubre	cubre	N	1	O
+40	las	las	V	1	O
+41	expectativas	expectativas	N	1	O
+42	esperadas	esperadas	N	1	O
+43	.	.	O	1	O
 

@@ -1,177 +1,178 @@
-1	Je	Je	Q	1	
-2	ne	ne	G	1	
-3	le	le	Q	1	
-4	recommanderasi	recommanderasi	V	1	
-5	pas	pas	G	1	
-6	!	!	O	1	
+1	Je	Je	Q	1	O
+2	ne	ne	G	1	O
+3	le	le	Q	1	O
+4	recommanderasi	recommanderasi	V	1	O
+5	pas	pas	G	1	O
+6	!	!	O	1	O
 
-1	Nous	lui	Q	1	
-2	avions	avoir	V	1	
-3	réservé	réserver	V	1	
-4	une	un	D	1	
-5	chambre	chambre	N	1	
-6	avec	avec	P	1	
-7	balcon	balcon	N	1	
-8	(	(	O	1	
-9	il'	il'	Q	1	
-10	ya	ya	V	1	
-11	q	q	D	1	
-12	ún	ún	V	1	
-13	seul	seul	G	1	
-14	dans	dans	P	1	
-15	la	le	D	1	
-16	maison	maison	N	1	
-17	)	)	O	1	
-18	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avions	avoir	V	1	O
+3	réservé	réserver	V	1	O
+4	une	un	D	1	O
+5	chambre	chambre	N	1	O
+6	avec	avec	P	1	O
+7	balcon	balcon	N	1	O
+8	(	(	O	1	O
+9	il'	il'	Q	1	O
+10	ya	ya	V	1	O
+11	q	q	D	1	O
+12	ún	ún	V	1	O
+13	seul	seul	G	1	O
+14	dans	dans	P	1	O
+15	la	le	D	1	O
+16	maison	maison	N	1	O
+17	)	)	O	1	O
+18	.	.	O	1	O
 
-1	Après	Après	P	1	
-2	attendaint	attendaint	N	1	
-3	plus	plus	G	1	
-4	d'	d'	P	1	
-5	une	un	D	1	
-6	heure	heure	N	1	
-7	devant	devant	P	1	
-8	la	le	D	1	
-9	porte	porte	N	1	
-10	nous	lui	Q	1	
-11	avons	avoir	V	1	
-12	finalement	finalement	G	1	
-13	eu	avoir	V	1	
-14	notre	son	D	1	
-15	clé	clé	N	1	
-16	....	....	O	1	
-17	à	à	P	1	
-18	l'	le	D	1	
-19	étage	étage	N	1	
-20	1	1	G	1	
-21	/	/	O	1	
-22	2	2	O	1	
-23	,	,	O	1	
-24	avec	avec	P	1	
-25	seulement	seulement	G	1	
-26	une	un	D	1	
-27	petite	petit	G	1	
-28	fenêtre	fenêtre	N	1	
-29	recouverte	recouvrir	G	1	
-30	d'	d'	P	1	
-31	une	un	D	1	
-32	grille	grille	N	1	
-33	qui	qui	P	1	
-34	ne	ne	G	1	
-35	peut	pouvoir	V	1	
-36	s	s	G	1	
-37	´	´	Q	1	
-38	être	être	V	1	
-39	ouvert	ouvrir	V	1	
-40	.	.	O	1	
+1	Après	Après	P	1	O
+2	attendaint	attendaint	N	1	O
+3	plus	plus	G	1	O
+4	d'	d'	P	1	O
+5	une	un	D	1	O
+6	heure	heure	N	1	O
+7	devant	devant	P	1	O
+8	la	le	D	1	O
+9	porte	porte	N	1	O
+10	nous	lui	Q	1	O
+11	avons	avoir	V	1	O
+12	finalement	finalement	G	1	O
+13	eu	avoir	V	1	O
+14	notre	son	D	1	O
+15	clé	clé	N	1	O
+16	....	....	O	1	O
+17	à	à	P	1	O
+18	l'	le	D	1	O
+19	étage	étage	N	1	O
+20	1	1	G	1	O
+21	/	/	O	1	O
+22	2	2	O	1	O
+23	,	,	O	1	O
+24	avec	avec	P	1	O
+25	seulement	seulement	G	1	O
+26	une	un	D	1	O
+27	petite	petit	G	1	O
+28	fenêtre	fenêtre	N	1	O
+29	recouverte	recouvrir	G	1	O
+30	d'	d'	P	1	O
+31	une	un	D	1	O
+32	grille	grille	N	1	O
+33	qui	qui	P	1	O
+34	ne	ne	G	1	O
+35	peut	pouvoir	V	1	O
+36	s	s	G	1	O
+37	´	´	Q	1	O
+38	être	être	V	1	O
+39	ouvert	ouvrir	V	1	O
+40	.	.	O	1	O
 
-1	Si	Si	C	1	
-2	elle	lui	Q	1	
-3	avait	avoir	V	1	
-4	commencé	commencer	V	1	
-5	à	à	P	1	
-6	brûler	brûler	V	1	
-7	,	,	O	1	
-8	nous	lui	Q	1	
-9	avions	avoir	V	1	
-10	été	être	V	1	
-11	coincé	coincer	V	1	
-12	dans	dans	P	1	
-13	cette	ce	D	1	
-14	cellule	cellule	N	1	
-15	de	de	P	1	
-16	prison	prison	N	1	
-17	!	!	O	1	
+1	Si	Si	C	1	O
+2	elle	lui	Q	1	O
+3	avait	avoir	V	1	O
+4	commencé	commencer	V	1	O
+5	à	à	P	1	O
+6	brûler	brûler	V	1	O
+7	,	,	O	1	O
+8	nous	lui	Q	1	O
+9	avions	avoir	V	1	O
+10	été	être	V	1	O
+11	coincé	coincer	V	1	O
+12	dans	dans	P	1	O
+13	cette	ce	D	1	O
+14	cellule	cellule	N	1	O
+15	de	de	P	1	O
+16	prison	prison	N	1	O
+17	!	!	O	1	O
 
-1	La	le	D	1	
-2	nuit	nuit	N	1	
-3	suivante	suivant	G	1	
-4	,	,	O	1	
-5	après	après	P	1	
-6	plusieurs	plusieurs	D	1	
-7	appels	appel	N	1	
-8	téléphoniques	téléphonique	G	1	
-9	,	,	O	1	
-10	nous	lui	Q	1	
-11	avons	avoir	V	1	
-12	eu	avoir	V	1	
-13	une	un	D	1	
-14	autre	autre	G	1	
-15	pièce	pièce	N	1	
-16	....	....	G	1	
-17	sans	sans]	P	1	
-18	douche	douche	N	1	
-19	fonctionnement	fonctionnement	N	1	
-20	.	.	O	1	
+1	La	le	D	1	O
+2	nuit	nuit	N	1	O
+3	suivante	suivant	G	1	O
+4	,	,	O	1	O
+5	après	après	P	1	O
+6	plusieurs	plusieurs	D	1	O
+7	appels	appel	N	1	O
+8	téléphoniques	téléphonique	G	1	O
+9	,	,	O	1	O
+10	nous	lui	Q	1	O
+11	avons	avoir	V	1	O
+12	eu	avoir	V	1	O
+13	une	un	D	1	O
+14	autre	autre	G	1	O
+15	pièce	pièce	N	1	O
+16	....	....	G	1	O
+17	sans	sans]	P	1	O
+18	douche	douche	N	1	O
+19	fonctionnement	fonctionnement	N	1	O
+20	.	.	O	1	O
 
-1	La	le	D	1	
-2	nuit	nuit	N	1	
-3	dernière	dernier	G	1	
-4	nous	lui	Q	1	
-5	avons	avoir	V	1	
-6	enfin	enfin	G	1	
-7	eu	avoir	V	1	
-8	la	le	D	1	
-9	chambre	chambre	N	1	
-10	que	que	P	1	
-11	nous	lui	Q	1	
-12	avons	avoir	V	1	
-13	réservé	réserver	V	1	
-14	au	au	P	1	
-15	debut	debut	D	1	
-16	.	.	O	1	
+1	La	le	D	1	O
+2	nuit	nuit	N	1	O
+3	dernière	dernier	G	1	O
+4	nous	lui	Q	1	O
+5	avons	avoir	V	1	O
+6	enfin	enfin	G	1	O
+7	eu	avoir	V	1	O
+8	la	le	D	1	O
+9	chambre	chambre	N	1	O
+10	que	que	P	1	O
+11	nous	lui	Q	1	O
+12	avons	avoir	V	1	O
+13	réservé	réserver	V	1	O
+14	au	au	P	1	O
+15	debut	debut	D	1	O
+16	.	.	O	1	O
 
-1	Petit	petit	G	1	
-2	mais	mais	C	1	
-3	avec	avec	P	1	
-4	le	le	D	1	
-5	balcon	balcon	N	1	
-6	qui	qui	P	1	
-7	est	être	V	1	
-8	une	un	D	1	
-9	condition	condition	N	1	
-10	pour	pour	P	1	
-11	rester	rester	V	1	
-12	dans	dans	P	1	
-13	cet	ce	D	1	
-14	hôtel	hôtel	N	1	
-15	pendant	pendant	P	1	
-16	l'	le	D	1	
-17	été	été	R	1	ne=Date
-18	.	.	O	1	
+1	Petit	petit	G	1	O
+2	mais	mais	C	1	O
+3	avec	avec	P	1	O
+4	le	le	D	1	O
+5	balcon	balcon	N	1	O
+6	qui	qui	P	1	O
+7	est	être	V	1	O
+8	une	un	D	1	O
+9	condition	condition	N	1	O
+10	pour	pour	P	1	O
+11	rester	rester	V	1	O
+12	dans	dans	P	1	O
+13	cet	ce	D	1	O
+14	hôtel	hôtel	N	1	O
+15	pendant	pendant	P	1	O
+16	l'	le	D	1	O
+17	été	été	R	1	I-Date
+18	.	.	O	1	O
 
-1	Score	score	N	1	
-2	final	final	G	1	
-3	:	:	O	1	
-4	très	très	G	1	
-5	bien	bien	G	1	
-6	situé	situer	V	1	
-7	(	(	O	1	
-8	attention	attention	N	1	
-9	aux	aux	P	1	
-10	pickpockets	pickpocket	N	1	
-11	quand	quand	G	1	
-12	même	même	G	1	
-13	)	)	O	1	
-14	,	,	O	1	
-15	mais	mais	C	1	
-16	avecne	avecne	P	1	
-17	pas	pas	G	1	
-18	de	de	P	1	
-19	sevice	sevice	N	1	
-20	.	.	O	1	
+1	Score	score	N	1	O
+2	final	final	G	1	O
+3	:	:	O	1	O
+4	très	très	G	1	O
+5	bien	bien	G	1	O
+6	situé	situer	V	1	O
+7	(	(	O	1	O
+8	attention	attention	N	1	O
+9	aux	aux	P	1	O
+10	pickpockets	pickpocket	N	1	O
+11	quand	quand	G	1	O
+12	même	même	G	1	O
+13	)	)	O	1	O
+14	,	,	O	1	O
+15	mais	mais	C	1	O
+16	avecne	avecne	P	1	O
+17	pas	pas	G	1	O
+18	de	de	P	1	O
+19	sevice	sevice	N	1	O
+20	.	.	O	1	O
 
-1	Aucun	aucun	D	1	
-2	endroit	endroit	N	1	
-3	que	que	C	1	
-4	je	je	Q	1	
-5	recommanderais	recommander	V	1	
-6	à	à	P	1	
-7	même	même	G	1	
-8	mon	son	D	1	
-9	ennemi	ennemi	N	1	
-10	!	!	O	1	
+1	Aucun	aucun	D	1	O
+2	endroit	endroit	N	1	O
+3	que	que	C	1	O
+4	je	je	Q	1	O
+5	recommanderais	recommander	V	1	O
+6	à	à	P	1	O
+7	même	même	G	1	O
+8	mon	son	D	1	O
+9	ennemi	ennemi	N	1	O
+10	!	!	O	1	O
 
-1	/	/	C	1	
-2	Mme_K	Mme_K	R	1	ne=Person
+1	/	/	C	1	O
+2	Mme	Mme	N	1	I-Person
+3	K	K	N	1	I-Person
 

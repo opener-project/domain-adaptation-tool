@@ -1,159 +1,165 @@
-1	Hilton_Berlin	Hilton_Berlin	R	1	ne=Hotel
-2	..	..	O	1	
-3	.	.	O	1	
-4	tolles	toll	G	1	
-5	Stadthotel	Stadthotel	N	1	
+1	Hilton	Hilton	O	1	I-Hotel
+2	Berlin	Berlin	R	1	I-Hotel
+3	..	..	O	1	O
+4	.	.	O	1	O
+5	tolles	toll	G	1	O
+6	Stadthotel	Stadthotel	N	1	O
 
-1	Spontan	spontan	G	1	
-2	gebucht	buchen	V	1	
-3	für	für	P	1	
-4	das_letzte_Wochenende_im_Juni	die_letzt_Wochenende_in_Juni	R	1	ne=Date
-5	muss	müssen	V	1	
-6	ich	ich	Q	1	
-7	sagen	sagen	V	1	
-8	,	,	O	1	
-9	dass	dass	C	1	
-10	ab	ab	P	1	
-11	dem	die	D	1	
-12	Zeitpunkt	Zeitpunkt	N	1	
-13	des	die	D	1	
-14	Ankommens	Ankommen	N	1	
-15	das	die	D	1	
-16	Hilton_Berlin	Hilton_Berlin	R	1	ne=Hotel
-17	uns	wir	Q	1	
-18	rundum	rundum	A	1	
-19	zufriedenstellte	zufriedenstellen	V	1	
-20	.	.	O	1	
+1	Spontan	spontan	G	1	O
+2	gebucht	buchen	V	1	O
+3	für	für	P	1	O
+4	das	die	D	1	I-Date
+5	letzte	letzt	G	1	I-Date
+6	Wochenende	Wochenende	N	1	I-Date
+7	im	in	P	1	I-Date
+8	Juni	Juni	N	1	I-Date
+9	muss	müssen	V	1	O
+10	ich	ich	Q	1	O
+11	sagen	sagen	V	1	O
+12	,	,	O	1	O
+13	dass	dass	C	1	O
+14	ab	ab	P	1	O
+15	dem	die	D	1	O
+16	Zeitpunkt	Zeitpunkt	N	1	O
+17	des	die	D	1	O
+18	Ankommens	Ankommen	N	1	O
+19	das	die	D	1	O
+20	Hilton	Hilton	O	1	I-Hotel
+21	Berlin	Berlin	R	1	I-Hotel
+22	uns	wir	Q	1	O
+23	rundum	rundum	A	1	O
+24	zufriedenstellte	zufriedenstellen	V	1	O
+25	.	.	O	1	O
 
-1	Valet	Valet	O	1	
-2	·	·	O	1	
-3	Parkservice	Parkservice	N	1	
-4	,	,	O	1	
-5	sehr	sehr	A	1	
-6	netter	nett	G	1	
-7	und	und	C	1	
-8	zuvorkommender	zuvorkommend	G	1	
-9	Checkin	Checkin	O	1	
-10	und	und	C	1	
-11	dank	dank	P	1	
-12	HH	HH	R	1	
-13	·	·	O	1	
-14	Gold	Gold	N	1	
-15	auch	auch	A	1	
-16	gleich	gleich	G	1	
-17	noch	noch	A	1	
-18	ein	eine	D	1	
-19	Zimmerupgrade	Zimmerupgrade	O	1	
-20	ließen	lassen	V	1	
-21	das	die	D	1	
-22	Wochenende	Wochenende	N	1	
-23	zu	zu	P	1	
-24	einem	eine	D	1	
-25	sehr	sehr	A	1	
-26	entspannten	entspannt	G	1	
-27	Städtetrip	Städtetrip	O	1	
-28	gedeihen	gedeihen	V	1	
-29	.	.	O	1	
+1	Valet	Valet	O	1	O
+2	·	·	O	1	O
+3	Parkservice	Parkservice	N	1	O
+4	,	,	O	1	O
+5	sehr	sehr	A	1	O
+6	netter	nett	G	1	O
+7	und	und	C	1	O
+8	zuvorkommender	zuvorkommend	G	1	O
+9	Checkin	Checkin	O	1	O
+10	und	und	C	1	O
+11	dank	dank	P	1	O
+12	HH	HH	R	1	O
+13	·	·	O	1	O
+14	Gold	Gold	N	1	O
+15	auch	auch	A	1	O
+16	gleich	gleich	G	1	O
+17	noch	noch	A	1	O
+18	ein	eine	D	1	O
+19	Zimmerupgrade	Zimmerupgrade	O	1	O
+20	ließen	lassen	V	1	O
+21	das	die	D	1	O
+22	Wochenende	Wochenende	N	1	O
+23	zu	zu	P	1	O
+24	einem	eine	D	1	O
+25	sehr	sehr	A	1	O
+26	entspannten	entspannt	G	1	O
+27	Städtetrip	Städtetrip	O	1	O
+28	gedeihen	gedeihen	V	1	O
+29	.	.	O	1	O
 
-1	In	in	P	1	
-2	der	die	D	1	
-3	Executive	Executive	O	1	
-4	·	·	O	1	
-5	Lounge	Lounge	O	1	
-6	gab	geben	V	1	
-7	es	es	Q	1	
-8	von	von	P	1	
-9	morgens	morgens	A	1	
-10	bis	bis	P	1	
-11	abends	abends	A	1	
-12	Softdrinks	Softdrink	N	1	
-13	sowie	sowie	C	1	
-14	warme	warm	G	1	
-15	Getränke	Getränk	N	1	
-16	,	,	O	1	
-17	am	an	P	1	
-18	frühen	früh	G	1	
-19	Abend	Abend	N	1	
-20	dann	dann	A	1	
-21	kaltes	kalt	G	1	
-22	und	und	C	1	
-23	warmes	warm	G	1	
-24	Buffet	Buffet	N	1	
-25	sowie	sowie	C	1	
-26	auch	auch	A	1	
-27	alkoholische	alkoholisch	G	1	
-28	Getränke	Getränk	N	1	
-29	.	.	O	1	
+1	In	in	P	1	O
+2	der	die	D	1	O
+3	Executive	Executive	O	1	O
+4	·	·	O	1	O
+5	Lounge	Lounge	O	1	O
+6	gab	geben	V	1	O
+7	es	es	Q	1	O
+8	von	von	P	1	O
+9	morgens	morgens	A	1	O
+10	bis	bis	P	1	O
+11	abends	abends	A	1	O
+12	Softdrinks	Softdrink	N	1	O
+13	sowie	sowie	C	1	O
+14	warme	warm	G	1	O
+15	Getränke	Getränk	N	1	O
+16	,	,	O	1	O
+17	am	an	P	1	O
+18	frühen	früh	G	1	O
+19	Abend	Abend	N	1	O
+20	dann	dann	A	1	O
+21	kaltes	kalt	G	1	O
+22	und	und	C	1	O
+23	warmes	warm	G	1	O
+24	Buffet	Buffet	N	1	O
+25	sowie	sowie	C	1	O
+26	auch	auch	A	1	O
+27	alkoholische	alkoholisch	G	1	O
+28	Getränke	Getränk	N	1	O
+29	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	hatte	haben	V	1	
-4	eine	eine	D	1	
-5	angenehme	angenehm	G	1	
-6	Größe	Größe	N	1	
-7	und	und	C	1	
-8	der	die	D	1	
-9	Ausblick	Ausblick	N	1	
-10	direkt	direkt	G	1	
-11	auf	auf	P	1	
-12	den	die	D	1	
-13	Gendarmen	Gendarm	N	1	
-14	·	·	O	1	
-15	Markt	Markt	N	1	
-16	war	sein	V	1	
-17	gerade	gerade	A	1	
-18	am	an	P	1	
-19	Abend	Abend	N	1	
-20	durch	durch	P	1	
-21	die	die	D	1	
-22	vielen	viele	Q	1	
-23	Lichter	Licht	N	1	
-24	einmalig	einmalig	G	1	
-25	.	.	O	1	
+1	Das	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	hatte	haben	V	1	O
+4	eine	eine	D	1	O
+5	angenehme	angenehm	G	1	O
+6	Größe	Größe	N	1	O
+7	und	und	C	1	O
+8	der	die	D	1	O
+9	Ausblick	Ausblick	N	1	O
+10	direkt	direkt	G	1	O
+11	auf	auf	P	1	O
+12	den	die	D	1	O
+13	Gendarmen	Gendarm	N	1	O
+14	·	·	O	1	O
+15	Markt	Markt	N	1	O
+16	war	sein	V	1	O
+17	gerade	gerade	A	1	O
+18	am	an	P	1	O
+19	Abend	Abend	N	1	O
+20	durch	durch	P	1	O
+21	die	die	D	1	O
+22	vielen	viele	Q	1	O
+23	Lichter	Licht	N	1	O
+24	einmalig	einmalig	G	1	O
+25	.	.	O	1	O
 
-1	Eine	eine	D	1	
-2	U	U	N	1	
-3	·	·	O	1	
-4	Bahn	Bahn	N	1	
-5	·	·	O	1	
-6	Station	Station	N	1	
-7	war	sein	V	1	
-8	direkt	direkt	G	1	
-9	vor	vor	P	1	
-10	dem	die	D	1	
-11	Hotel	Hotel	N	1	
-12	,	,	O	1	
-13	Sightseeing	Sightseeing	O	1	
-14	·	·	O	1	
-15	Busse	Bus	N	1	
-16	fahren	fahren	V	1	
-17	gegenüber	gegenüber	P	1	
-18	dem	die	D	1	
-19	Hotel	Hotel	N	1	
-20	ab	ab	V	1	
-21	und	und	C	1	
-22	ermöglichen	ermöglichen	V	1	
-23	so	so	A	1	
-24	auch	auch	A	1	
-25	den	die	D	1	
-26	direkten	direkt	G	1	
-27	Einstieg	Einstieg	N	1	
-28	in	in	P	1	
-29	die	die	D	1	
-30	Stadt	Stadt	N	1	
-31	und	und	C	1	
-32	deren	die	Q	1	
-33	Sehenswürdigkeiten	Sehenswürdigkeit	N	1	
-34	.	.	O	1	
+1	Eine	eine	D	1	O
+2	U	U	N	1	O
+3	·	·	O	1	O
+4	Bahn	Bahn	N	1	O
+5	·	·	O	1	O
+6	Station	Station	N	1	O
+7	war	sein	V	1	O
+8	direkt	direkt	G	1	O
+9	vor	vor	P	1	O
+10	dem	die	D	1	O
+11	Hotel	Hotel	N	1	O
+12	,	,	O	1	O
+13	Sightseeing	Sightseeing	O	1	O
+14	·	·	O	1	O
+15	Busse	Bus	N	1	O
+16	fahren	fahren	V	1	O
+17	gegenüber	gegenüber	P	1	O
+18	dem	die	D	1	O
+19	Hotel	Hotel	N	1	O
+20	ab	ab	V	1	O
+21	und	und	C	1	O
+22	ermöglichen	ermöglichen	V	1	O
+23	so	so	A	1	O
+24	auch	auch	A	1	O
+25	den	die	D	1	O
+26	direkten	direkt	G	1	O
+27	Einstieg	Einstieg	N	1	O
+28	in	in	P	1	O
+29	die	die	D	1	O
+30	Stadt	Stadt	N	1	O
+31	und	und	C	1	O
+32	deren	die	Q	1	O
+33	Sehenswürdigkeiten	Sehenswürdigkeit	N	1	O
+34	.	.	O	1	O
 
-1	Mein	mein	Q	1	
-2	Fazit	Fazit	N	1	
-3	daher	daher	Q	1	
-4	:	:	O	1	
-5	Gerne	gerne	A	1	
-6	jederzeit	jederzeit	A	1	
-7	wieder	wieder	A	1	
-8	!	!	O	1	
-9	!	!	O	1	
-10	!	!	O	1	
+1	Mein	mein	Q	1	O
+2	Fazit	Fazit	N	1	O
+3	daher	daher	Q	1	O
+4	:	:	O	1	O
+5	Gerne	gerne	A	1	O
+6	jederzeit	jederzeit	A	1	O
+7	wieder	wieder	A	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
 

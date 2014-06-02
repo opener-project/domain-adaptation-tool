@@ -1,102 +1,102 @@
-1	Echt	echt	A	1	
-2	een	een	D	1	
-3	plek	plek	N	1	
-4	om	om	C	1	
-5	bij	bij	A	1	
-6	te	te	O	1	
-7	komen	komen	V	1	
+1	Echt	echt	A	1	O
+2	een	een	D	1	O
+3	plek	plek	N	1	O
+4	om	om	C	1	O
+5	bij	bij	A	1	O
+6	te	te	O	1	O
+7	komen	komen	V	1	O
 
-1	Wij	wij	Q	1	
-2	hebben	hebben	V	1	
-3	deze	deze	D	1	
-4	vakantie	vakantie	N	1	
-5	genomen	nemen	V	1	
-6	om	om	C	1	
-7	even	even	G	1	
-8	goed	goed	N	1	
-9	bij	bij	A	1	
-10	te	te	O	1	
-11	komen	komen	V	1	
-12	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hebben	hebben	V	1	O
+3	deze	deze	D	1	O
+4	vakantie	vakantie	N	1	O
+5	genomen	nemen	V	1	O
+6	om	om	C	1	O
+7	even	even	G	1	O
+8	goed	goed	N	1	O
+9	bij	bij	A	1	O
+10	te	te	O	1	O
+11	komen	komen	V	1	O
+12	.	.	O	1	O
 
-1	Dat	dat	Q	1	
-2	is	zijn	V	1	
-3	zeker	zeker	G	1	
-4	ook	ook	A	1	
-5	gelukt	gelukken|lukken	V	1	
-6	.	.	O	1	
+1	Dat	dat	Q	1	O
+2	is	zijn	V	1	O
+3	zeker	zeker	G	1	O
+4	ook	ook	A	1	O
+5	gelukt	gelukken|lukken	V	1	O
+6	.	.	O	1	O
 
-1	Wat	wat	Q	1	
-2	ons	ons	Q	1	
-3	het	het	Q	1	
-4	meeste	meest	G	1	
-5	opviel	opvallen	V	1	
-6	was	wezen|zijn	V	1	
-7	de	de	D	1	
-8	vriendelijkheid	vriendelijkheid	N	1	
-9	van	van	P	1	
-10	het	het	D	1	
-11	personeel	personeel	N	1	
-12	.	.	O	1	
+1	Wat	wat	Q	1	O
+2	ons	ons	Q	1	O
+3	het	het	Q	1	O
+4	meeste	meest	G	1	O
+5	opviel	opvallen	V	1	O
+6	was	wezen|zijn	V	1	O
+7	de	de	D	1	O
+8	vriendelijkheid	vriendelijkheid	N	1	O
+9	van	van	P	1	O
+10	het	het	D	1	O
+11	personeel	personeel	N	1	O
+12	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	werd	worden	V	1	
-3	vriendelijk	vriendelijk	G	1	
-4	en	en	C	1	
-5	gastvrij	gastvrij	G	1	
-6	geholpen	helpen	V	1	
-7	door	door	P	1	
-8	iedereen	iedereen	Q	1	
-9	.	.	O	1	
+1	Je	je	Q	1	O
+2	werd	worden	V	1	O
+3	vriendelijk	vriendelijk	G	1	O
+4	en	en	C	1	O
+5	gastvrij	gastvrij	G	1	O
+6	geholpen	helpen	V	1	O
+7	door	door	P	1	O
+8	iedereen	iedereen	Q	1	O
+9	.	.	O	1	O
 
-1	De	de	D	1	
-2	recreatie	recreatie	N	1	
-3	bij	bij	P	1	
-4	het	het	D	1	
-5	zwembad	zwembad	N	1	
-6	vonden	vinden	V	1	
-7	wij	wij	Q	1	
-8	ook	ook	A	1	
-9	erg	erg	A	1	
-10	leuk	leuk	G	1	
-11	.	.	O	1	
+1	De	de	D	1	O
+2	recreatie	recreatie	N	1	O
+3	bij	bij	P	1	O
+4	het	het	D	1	O
+5	zwembad	zwembad	N	1	O
+6	vonden	vinden	V	1	O
+7	wij	wij	Q	1	O
+8	ook	ook	A	1	O
+9	erg	erg	A	1	O
+10	leuk	leuk	G	1	O
+11	.	.	O	1	O
 
-1	Wel	wel	A	1	
-2	was	wezen|zijn	V	1	
-3	er	er	Q	1	
-4	ook	ook	A	1	
-5	de	de	D	1	
-6	mogelijkheid	mogelijkheid	N	1	
-7	om	om	C	1	
-8	aan	aan	A	1	
-9	te	te	O	1	
-10	geven	geven	V	1	
-11	dat	dat	C	1	
-12	je	je	Q	1	
-13	daar	daar	A	1	
-14	geen	geen	D	1	
-15	behoefte	behoefte	N	1	
-16	aan	aan	A	1	
-17	had	hebben	V	1	
-18	en	en	C	1	
-19	het	het	Q	1	
-20	was	wezen|zijn	V	1	
-21	ook	ook	A	1	
-22	mogelijk	mogelijk	G	1	
-23	om	om	C	1	
-24	op	op	P	1	
-25	bepaalde	bepaald	G	1	
-26	plekken	plek	N	1	
-27	helemaal	helemaal	A	1	
-28	niet	niet	A	1	
-29	gestoord	storen	V	1	
-30	te	te	O	1	
-31	worden	worden	V	1	
-32	(	(	O	1	
-33	zelfs	zelfs	A	1	
-34	een	een	D	1	
-35	kindvrije	kindvrije	O	1	
-36	zone	zone	N	1	
-37	)	)	O	1	
-38	.	.	O	1	
+1	Wel	wel	A	1	O
+2	was	wezen|zijn	V	1	O
+3	er	er	Q	1	O
+4	ook	ook	A	1	O
+5	de	de	D	1	O
+6	mogelijkheid	mogelijkheid	N	1	O
+7	om	om	C	1	O
+8	aan	aan	A	1	O
+9	te	te	O	1	O
+10	geven	geven	V	1	O
+11	dat	dat	C	1	O
+12	je	je	Q	1	O
+13	daar	daar	A	1	O
+14	geen	geen	D	1	O
+15	behoefte	behoefte	N	1	O
+16	aan	aan	A	1	O
+17	had	hebben	V	1	O
+18	en	en	C	1	O
+19	het	het	Q	1	O
+20	was	wezen|zijn	V	1	O
+21	ook	ook	A	1	O
+22	mogelijk	mogelijk	G	1	O
+23	om	om	C	1	O
+24	op	op	P	1	O
+25	bepaalde	bepaald	G	1	O
+26	plekken	plek	N	1	O
+27	helemaal	helemaal	A	1	O
+28	niet	niet	A	1	O
+29	gestoord	storen	V	1	O
+30	te	te	O	1	O
+31	worden	worden	V	1	O
+32	(	(	O	1	O
+33	zelfs	zelfs	A	1	O
+34	een	een	D	1	O
+35	kindvrije	kindvrije	O	1	O
+36	zone	zone	N	1	O
+37	)	)	O	1	O
+38	.	.	O	1	O
 

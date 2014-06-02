@@ -1,33 +1,33 @@
-1	Très	Très	G	1	
-2	bien	bien	G	1	
-3	penser	penser	V	1	
+1	Très	Très	G	1	O
+2	bien	bien	G	1	O
+3	penser	penser	V	1	O
 
-1	Très	Très	G	1	
-2	sympa	sympa	G	1	
-3	mais	mais	C	1	
-4	je	je	Q	1	
-5	conseil	conseil	N	1	
-6	au	au	P	1	
-7	personne	personne	N	1	
-8	de	de	P	1	
-9	partir	partir	V	1	
-10	le	le	D	1	
-11	matin	matin	N	1	
-12	,	,	O	1	
-13	car	car	C	1	
-14	l'	le	D	1	
-15	après	après	P	1	
-16	midi	midi	N	1	
-17	il	il	Q	1	
-18	fait	faire	V	1	
-19	tellement	tellement	G	1	
-20	chaud	chaud	G	1	
-21	que	que	C	1	
-22	les	le	D	1	
-23	animaux	animal	N	1	
-24	ne	ne	G	1	
-25	sont	être	V	1	
-26	pas	pas	G	1	
-27	aussi	aussi	G	1	
-28	actif	actif	G	1	
+1	Très	Très	G	1	O
+2	sympa	sympa	G	1	O
+3	mais	mais	C	1	O
+4	je	je	Q	1	O
+5	conseil	conseil	N	1	O
+6	au	au	P	1	O
+7	personne	personne	N	1	O
+8	de	de	P	1	O
+9	partir	partir	V	1	O
+10	le	le	D	1	O
+11	matin	matin	N	1	O
+12	,	,	O	1	O
+13	car	car	C	1	O
+14	l'	le	D	1	O
+15	après	après	P	1	O
+16	midi	midi	N	1	O
+17	il	il	Q	1	O
+18	fait	faire	V	1	O
+19	tellement	tellement	G	1	O
+20	chaud	chaud	G	1	O
+21	que	que	C	1	O
+22	les	le	D	1	O
+23	animaux	animal	N	1	O
+24	ne	ne	G	1	O
+25	sont	être	V	1	O
+26	pas	pas	G	1	O
+27	aussi	aussi	G	1	O
+28	actif	actif	G	1	O
 

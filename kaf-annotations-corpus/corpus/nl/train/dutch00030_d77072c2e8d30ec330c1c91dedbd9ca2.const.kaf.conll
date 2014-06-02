@@ -1,42 +1,42 @@
-1	Prima	prima	G	1	
-2	hotel	hotel	N	1	
+1	Prima	prima	G	1	O
+2	hotel	hotel	N	1	O
 
-1	Aangezien	aangezien	C	1	
-2	ik	ik	Q	1	
-3	hier	hier	A	1	
-4	zakelijk	zakelijk	G	1	
-5	verbleef	verblijven	V	1	
-6	kan	kunnen	V	1	
-7	ik	ik	Q	1	
-8	alleen	alleen	A	1	
-9	maar	maar	A	1	
-10	aangeven	aangeven	V	1	
-11	dat	dat	C	1	
-12	dit	dit	Q	1	
-13	een	een	D	1	
-14	mooi	mooi	G	1	
-15	luxe	luxe	G	1	
-16	hotel	hotel	N	1	
-17	is	zijn	V	1	
-18	.	.	O	1	
+1	Aangezien	aangezien	C	1	O
+2	ik	ik	Q	1	O
+3	hier	hier	A	1	O
+4	zakelijk	zakelijk	G	1	O
+5	verbleef	verblijven	V	1	O
+6	kan	kunnen	V	1	O
+7	ik	ik	Q	1	O
+8	alleen	alleen	A	1	O
+9	maar	maar	A	1	O
+10	aangeven	aangeven	V	1	O
+11	dat	dat	C	1	O
+12	dit	dit	Q	1	O
+13	een	een	D	1	O
+14	mooi	mooi	G	1	O
+15	luxe	luxe	G	1	O
+16	hotel	hotel	N	1	O
+17	is	zijn	V	1	O
+18	.	.	O	1	O
 
-1	Men	men	Q	1	
-2	was	wezen|zijn	V	1	
-3	zeer	zeer	G	1	
-4	hulpvaardig	hulpvaardig	G	1	
-5	,	,	O	1	
-6	attend	attend	O	1	
-7	.	.	O	1	
+1	Men	men	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	zeer	zeer	G	1	O
+4	hulpvaardig	hulpvaardig	G	1	O
+5	,	,	O	1	O
+6	attend	attend	O	1	O
+7	.	.	O	1	O
 
-1	Het	het	D	1	
-2	uitzicht	uitzicht	N	1	
-3	is	zijn	V	1	
-4	ontzettend	ontzettend	A	1	
-5	mooi	mooi	A	1	
-6	op	op	P	1	
-7	de	de	D	1	
-8	binnenhaven	binnenhaven	N	1	
-9	van	van	P	1	
-10	Hamburg	Hamburg	R	1	ne=Location
-11	.	.	O	1	
+1	Het	het	D	1	O
+2	uitzicht	uitzicht	N	1	O
+3	is	zijn	V	1	O
+4	ontzettend	ontzettend	A	1	O
+5	mooi	mooi	A	1	O
+6	op	op	P	1	O
+7	de	de	D	1	O
+8	binnenhaven	binnenhaven	N	1	O
+9	van	van	P	1	O
+10	Hamburg	Hamburg	R	1	I-Location
+11	.	.	O	1	O
 

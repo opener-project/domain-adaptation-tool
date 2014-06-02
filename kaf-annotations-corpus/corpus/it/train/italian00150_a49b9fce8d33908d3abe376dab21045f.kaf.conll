@@ -1,153 +1,153 @@
-1	Buono	buono	V	1	
-2	ma	ma	Q	1	
-3	non	non	A	1	
-4	eccezionale	eccezionale	G	1	
+1	Buono	buono	V	1	O
+2	ma	ma	Q	1	O
+3	non	non	A	1	O
+4	eccezionale	eccezionale	G	1	O
 
-1	Sono	essere	V	1	
-2	stato	essere	V	1	
-3	in	in	P	1	
-4	questo	questo	G	1	
-5	hotel	hotel	N	1	
-6	per	per	P	1	
-7	4	4	G	1	
-8	notti	notte	N	1	
-9	per	per	P	1	
-10	lavoro	lavoro	N	1	
-11	dopo	dopo	A	1	
-12	averlo	averlo	V	1	
-13	scelto	scegliere	V	1	
-14	anche	anche	Q	1	
-15	in	in	P	1	
-16	base	base	N	1	
-17	alle	alle	P	1	
-18	recensioni	recensione	N	1	
-19	viste	vedere	V	1	
-20	qui	qui	A	1	
-21	.	.	O	1	
+1	Sono	essere	V	1	O
+2	stato	essere	V	1	O
+3	in	in	P	1	O
+4	questo	questo	G	1	O
+5	hotel	hotel	N	1	O
+6	per	per	P	1	O
+7	4	4	G	1	O
+8	notti	notte	N	1	O
+9	per	per	P	1	O
+10	lavoro	lavoro	N	1	O
+11	dopo	dopo	A	1	O
+12	averlo	averlo	V	1	O
+13	scelto	scegliere	V	1	O
+14	anche	anche	Q	1	O
+15	in	in	P	1	O
+16	base	base	N	1	O
+17	alle	alle	P	1	O
+18	recensioni	recensione	N	1	O
+19	viste	vedere	V	1	O
+20	qui	qui	A	1	O
+21	.	.	O	1	O
 
-1	In	in	P	1	
-2	generale	generale	N	1	
-3	è	essere	V	1	
-4	un	uno	D	1	
-5	buon	buon	G	1	
-6	hotel	hotel	N	1	
-7	(	(	O	1	
-8	4	4	G	1	
-9	stelle	stella	N	1	
-10	superior	superior	R	1	
-11	)	)	O	1	
-12	,	,	O	1	
-13	camere	camera	N	1	
-14	molto	molto	A	1	
-15	grandi	grande	G	1	
-16	così	così	R	1	
-17	come	come	Q	1	
-18	il	lo	D	1	
-19	bagno	bagno	N	1	
-20	.	.	O	1	
+1	In	in	P	1	O
+2	generale	generale	N	1	O
+3	è	essere	V	1	O
+4	un	uno	D	1	O
+5	buon	buon	G	1	O
+6	hotel	hotel	N	1	O
+7	(	(	O	1	O
+8	4	4	G	1	O
+9	stelle	stella	N	1	O
+10	superior	superior	R	1	O
+11	)	)	O	1	O
+12	,	,	O	1	O
+13	camere	camera	N	1	O
+14	molto	molto	A	1	O
+15	grandi	grande	G	1	O
+16	così	così	R	1	O
+17	come	come	Q	1	O
+18	il	lo	D	1	O
+19	bagno	bagno	N	1	O
+20	.	.	O	1	O
 
-1	La	lo	D	1	
-2	pulizia	pulizia	N	1	
-3	non	non	A	1	
-4	perfetta	perfetto	G	1	
-5	,	,	O	1	
-6	sicuramente	sicuramente	A	1	
-7	migliorabile	migliorabile	G	1	
-8	.	.	O	1	
+1	La	lo	D	1	O
+2	pulizia	pulizia	N	1	O
+3	non	non	A	1	O
+4	perfetta	perfetto	G	1	O
+5	,	,	O	1	O
+6	sicuramente	sicuramente	A	1	O
+7	migliorabile	migliorabile	G	1	O
+8	.	.	O	1	O
 
-1	Forse	forse	A	1	
-2	sono	essere	V	1	
-3	stato	stato	N	1	
-4	un	uno	D	1	
-5	po'	po'	A	1	
-6	sfortunato	sfortunato	V	1	
-7	ma	ma	Q	1	
-8	la	lo	D	1	
-9	prima	primo	G	1	
-10	notte	notte	N	1	
-11	il	lo	D	1	
-12	bagno	bagno	N	1	
-13	si	si	Q	1	
-14	è	essere	V	1	
-15	allagato	allagato	N	1	
-16	per	per	P	1	
-17	una	uno	D	1	
-18	perdita	perdita	N	1	
-19	dal	dal	P	1	
-20	piano	piano	G	1	
-21	superiore	superiora	N	1	
-22	e	e	Q	1	
-23	ho	avere	V	1	
-24	dovuto	dovere	V	1	
-25	cambiare	cambiare	V	1	
-26	camera	camera	N	1	
-27	all	all	P	1	
-28	'	'	Q	1	
-29	1	1	N	1	
-30	.	.	O	1	
+1	Forse	forse	A	1	O
+2	sono	essere	V	1	O
+3	stato	stato	N	1	O
+4	un	uno	D	1	O
+5	po'	po'	A	1	O
+6	sfortunato	sfortunato	V	1	O
+7	ma	ma	Q	1	O
+8	la	lo	D	1	O
+9	prima	primo	G	1	O
+10	notte	notte	N	1	O
+11	il	lo	D	1	O
+12	bagno	bagno	N	1	O
+13	si	si	Q	1	O
+14	è	essere	V	1	O
+15	allagato	allagato	N	1	O
+16	per	per	P	1	O
+17	una	uno	D	1	O
+18	perdita	perdita	N	1	O
+19	dal	dal	P	1	O
+20	piano	piano	G	1	O
+21	superiore	superiora	N	1	O
+22	e	e	Q	1	O
+23	ho	avere	V	1	O
+24	dovuto	dovere	V	1	O
+25	cambiare	cambiare	V	1	O
+26	camera	camera	N	1	O
+27	all	all	P	1	O
+28	'	'	Q	1	O
+29	1	1	N	1	O
+30	.	.	O	1	O
 
-1	30	30	N	1	
-2	di	di	P	1	
-3	notte	notte	N	1	
-4	,	,	O	1	
-5	una	uno	D	1	
-6	seconda	secondo	G	1	
-7	notte	notte	N	1	
-8	all'	all'	P	1	
-9	arrivo	arrivo	N	1	
-10	in	in	P	1	
-11	camera	camera	N	1	
-12	la	lo	D	1	
-13	card	card	N	1	
-14	magnetica	magnetico	G	1	
-15	non	non	A	1	
-16	funzionava	funzionare	V	1	
-17	più	piu'	N	1	
-18	e	e	Q	1	
-19	ho	avere	V	1	
-20	dovuto	dovere	V	1	
-21	farla	farla	V	1	
-22	riabilitare	riabilitare	V	1	
-23	e	e	Q	1	
-24	contemporaneamente	contemporaneamente	A	1	
-25	non	non	A	1	
-26	era	essere	V	1	
-27	più	piu'	G	1	
-28	disponibile	disponibile	G	1	
-29	il	lo	D	1	
-30	wi	wi	N	1	
-31	·	·	R	1	
-32	fi	fi	V	1	
-33	per	per	P	1	
-34	internet	internet	R	1	
-35	.	.	O	1	
+1	30	30	N	1	O
+2	di	di	P	1	O
+3	notte	notte	N	1	O
+4	,	,	O	1	O
+5	una	uno	D	1	O
+6	seconda	secondo	G	1	O
+7	notte	notte	N	1	O
+8	all'	all'	P	1	O
+9	arrivo	arrivo	N	1	O
+10	in	in	P	1	O
+11	camera	camera	N	1	O
+12	la	lo	D	1	O
+13	card	card	N	1	O
+14	magnetica	magnetico	G	1	O
+15	non	non	A	1	O
+16	funzionava	funzionare	V	1	O
+17	più	piu'	N	1	O
+18	e	e	Q	1	O
+19	ho	avere	V	1	O
+20	dovuto	dovere	V	1	O
+21	farla	farla	V	1	O
+22	riabilitare	riabilitare	V	1	O
+23	e	e	Q	1	O
+24	contemporaneamente	contemporaneamente	A	1	O
+25	non	non	A	1	O
+26	era	essere	V	1	O
+27	più	piu'	G	1	O
+28	disponibile	disponibile	G	1	O
+29	il	lo	D	1	O
+30	wi	wi	N	1	O
+31	·	·	R	1	O
+32	fi	fi	V	1	O
+33	per	per	P	1	O
+34	internet	internet	R	1	O
+35	.	.	O	1	O
 
-1	Insomma	insomma	A	1	
-2	,	,	O	1	
-3	piccoli	piccolo	G	1	
-4	disagi	disagio	N	1	
-5	che	che	Q	1	
-6	in	in	P	1	
-7	un	uno	D	1	
-8	hotel	hotel	N	1	
-9	a	a	P	1	
-10	4	4	G	1	
-11	stelle	stella	N	1	
-12	non	non	A	1	
-13	ti	ti	Q	1	
-14	aspetti	aspettare	V	1	
-15	.	.	O	1	
+1	Insomma	insomma	A	1	O
+2	,	,	O	1	O
+3	piccoli	piccolo	G	1	O
+4	disagi	disagio	N	1	O
+5	che	che	Q	1	O
+6	in	in	P	1	O
+7	un	uno	D	1	O
+8	hotel	hotel	N	1	O
+9	a	a	P	1	O
+10	4	4	G	1	O
+11	stelle	stella	N	1	O
+12	non	non	A	1	O
+13	ti	ti	Q	1	O
+14	aspetti	aspettare	V	1	O
+15	.	.	O	1	O
 
-1	Per	per	P	1	
-2	il	lo	D	1	
-3	resto	resto	N	1	
-4	,	,	O	1	
-5	buon	buon	G	1	
-6	servizio	servizio	N	1	
-7	,	,	O	1	
-8	ottima	ottimo	G	1	
-9	e	e	Q	1	
-10	abbondante	abbondare	V	1	
-11	colazione	colazione	N	1	
-12	.	.	O	1	
+1	Per	per	P	1	O
+2	il	lo	D	1	O
+3	resto	resto	N	1	O
+4	,	,	O	1	O
+5	buon	buon	G	1	O
+6	servizio	servizio	N	1	O
+7	,	,	O	1	O
+8	ottima	ottimo	G	1	O
+9	e	e	Q	1	O
+10	abbondante	abbondare	V	1	O
+11	colazione	colazione	N	1	O
+12	.	.	O	1	O
 

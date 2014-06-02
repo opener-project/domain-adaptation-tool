@@ -1,86 +1,91 @@
-1	Une	un	D	1	
-2	vrai	vrai	G	1	
-3	arnaque	arnaque	N	1	
+1	Une	un	D	1	O
+2	vrai	vrai	G	1	O
+3	arnaque	arnaque	N	1	O
 
-1	camping_les_vignes_lit_et_mixe	camping_le_vigne_lit_et_mixe	R	1	ne=Hotel
-2	,	,	O	1	
-3	de	de	P	1	
-4	retour	retour	V	1	
-5	des	un	D	1	
-6	vacances	vacance	N	1	
-7	de	de	P	1	
-8	pâques	pâque	R	1	ne=Date
-9	nous	lui	Q	1	
-10	avons	avoir	V	1	
-11	eu	avoir	V	1	
-12	que	que	C	1	
-13	des	un	D	1	
-14	soucis	souci	N	1	
-15	et	et	C	1	
-16	c'	c'	Q	1	
-17	était	être	V	1	
-18	pareil	pareil	G	1	
-19	pour	pour	P	1	
-20	tout	tout	G	1	
-21	les	le	D	1	
-22	résidents	résident	N	1	
-23	,	,	O	1	
+1	camping	camping	N	1	I-Hotel
+2	les	le	D	1	I-Hotel
+3	vignes	vigne	N	1	I-Hotel
+4	lit	lit	N	1	I-Hotel
+5	et	et	C	1	I-Hotel
+6	mixe	mixe	G	1	I-Hotel
+7	,	,	O	1	O
+8	de	de	P	1	O
+9	retour	retour	V	1	O
+10	des	un	D	1	O
+11	vacances	vacance	N	1	O
+12	de	de	P	1	O
+13	pâques	pâque	R	1	I-Date
+14	nous	lui	Q	1	O
+15	avons	avoir	V	1	O
+16	eu	avoir	V	1	O
+17	que	que	C	1	O
+18	des	un	D	1	O
+19	soucis	souci	N	1	O
+20	et	et	C	1	O
+21	c'	c'	Q	1	O
+22	était	être	V	1	O
+23	pareil	pareil	G	1	O
+24	pour	pour	P	1	O
+25	tout	tout	G	1	O
+26	les	le	D	1	O
+27	résidents	résident	N	1	O
+28	,	,	O	1	O
 
-1	piscine	piscine	N	1	
-2	couverte	couvert	G	1	
-3	et	et	C	1	
-4	chauffée	chauffer	G	1	
-5	en	en	P	1	
-6	panne	panne	N	1	
-7	et	et	C	1	
-8	il	il	Q	1	
-9	a	avoir	V	1	
-10	fallu	falloir	V	1	
-11	que	que	C	1	
-12	le	le	D	1	
-13	mari	mari	N	1	
-14	de	de	P	1	
-15	la	le	D	1	
-16	gérante	gérant	N	1	
-17	revienne	revenir	V	1	
-18	de	de	P	1	
-19	ses	son	D	1	
-20	2	2	D	1	
-21	jours	jour	N	1	
-22	de	de	P	1	
-23	repos	repos	N	1	
-24	pour	pour	P	1	
-25	bien	bien	G	1	
-26	vouloir	vouloir	V	1	
-27	résoudre	résoudre	V	1	
-28	le	le	D	1	
-29	problème	problème	N	1	
-30	,	,	O	1	
-31	le	le	D	1	
-32	wifi	wifi	N	1	
-33	et	et	C	1	
-34	la	le	D	1	
-35	machine	machine	N	1	
-36	a	avoir	V	1	
-37	laver	laver	V	1	
-38	étaient	étayer	V	1	
-39	en	en	P	1	
-40	panne	panne	N	1	
-41	aussi	aussi	G	1	
+1	piscine	piscine	N	1	O
+2	couverte	couvert	G	1	O
+3	et	et	C	1	O
+4	chauffée	chauffer	G	1	O
+5	en	en	P	1	O
+6	panne	panne	N	1	O
+7	et	et	C	1	O
+8	il	il	Q	1	O
+9	a	avoir	V	1	O
+10	fallu	falloir	V	1	O
+11	que	que	C	1	O
+12	le	le	D	1	O
+13	mari	mari	N	1	O
+14	de	de	P	1	O
+15	la	le	D	1	O
+16	gérante	gérant	N	1	O
+17	revienne	revenir	V	1	O
+18	de	de	P	1	O
+19	ses	son	D	1	O
+20	2	2	D	1	O
+21	jours	jour	N	1	O
+22	de	de	P	1	O
+23	repos	repos	N	1	O
+24	pour	pour	P	1	O
+25	bien	bien	G	1	O
+26	vouloir	vouloir	V	1	O
+27	résoudre	résoudre	V	1	O
+28	le	le	D	1	O
+29	problème	problème	N	1	O
+30	,	,	O	1	O
+31	le	le	D	1	O
+32	wifi	wifi	N	1	O
+33	et	et	C	1	O
+34	la	le	D	1	O
+35	machine	machine	N	1	O
+36	a	avoir	V	1	O
+37	laver	laver	V	1	O
+38	étaient	étayer	V	1	O
+39	en	en	P	1	O
+40	panne	panne	N	1	O
+41	aussi	aussi	G	1	O
 
-1	accueil	accueil	N	1	
-2	désagreable	désagreable	G	1	
-3	des	des	P	1	
-4	gérants	gérant	N	1	
-5	,	,	O	1	
-6	une	un	D	1	
-7	semaine	semaine	N	1	
-8	de	de	P	1	
-9	mauvais	mauvais	G	1	
-10	tps	tps	N	1	
-11	sans	sans]	P	1	
-12	piscine	piscine	N	1	
-13	non	non	G	1	
-14	merci	merci	G	1	
-15	ATTENTION	attention	N	1	
+1	accueil	accueil	N	1	O
+2	désagreable	désagreable	G	1	O
+3	des	des	P	1	O
+4	gérants	gérant	N	1	O
+5	,	,	O	1	O
+6	une	un	D	1	O
+7	semaine	semaine	N	1	O
+8	de	de	P	1	O
+9	mauvais	mauvais	G	1	O
+10	tps	tps	N	1	O
+11	sans	sans]	P	1	O
+12	piscine	piscine	N	1	O
+13	non	non	G	1	O
+14	merci	merci	G	1	O
+15	ATTENTION	attention	N	1	O
 

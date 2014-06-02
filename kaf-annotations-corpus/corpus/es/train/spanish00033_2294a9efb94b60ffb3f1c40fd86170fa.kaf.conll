@@ -1,151 +1,157 @@
-1	Nos	Nos	R	1	
-2	estafaron	estafaron	N	1	
-3	con	con	O	1	
-4	la	la	O	1	
-5	oferta	oferta	O	1	
+1	Nos	Nos	R	1	O
+2	estafaron	estafaron	N	1	O
+3	con	con	O	1	O
+4	la	la	O	1	O
+5	oferta	oferta	O	1	O
 
-1	Nosotros	Nosotros	R	1	
-2	contratamos	contratamos	V	1	
-3	un	un	G	1	
-4	pack	pack	N	1	
-5	por	por	O	1	
-6	la	la	O	1	
-7	luna	luna	O	1	
-8	de	de	O	1	
-9	miel	miel	O	1	
-10	y	y	G	1	
-11	nada	nada	O	1	
-12	de	de	O	1	
-13	lo	lo	O	1	
-14	que	que	O	1	
-15	contratamos	contratamos	O	1	
-16	nos	nos	O	1	
-17	lo	lo	O	1	
-18	respetaron	respetaron	O	1	
-19	,	,	O	1	
-20	ni	ni	G	1	
-21	cesta	cesta	N	1	
-22	de	de	P	1	
-23	frutas	frutas	N	1	
-24	al	al	G	1	
-25	llegar	llegar	N	1	
-26	,	,	O	1	
-27	ni	ni	G	1	
-28	internet	internet	N	1	
-29	en	en	P	1	
-30	el	el	N	1	
-31	pack	pack	N	1	
-32	que	que	G	1	
-33	decia	decia	N	1	
-34	que	que	N	1	
-35	si	si	N	1	
-36	,	,	O	1	
-37	la	la	O	1	
-38	habitacion	habitacion	O	1	
-39	nada	nada	O	1	
-40	que	que	O	1	
-41	ver	ver	A	1	
-42	con	con	A	1	
-43	lo	lo	G	1	
-44	que	que	N	1	
-45	nos	nos	N	1	
-46	ofertaron	ofertaron	V	1	
-47	,	,	O	1	
-48	es	es	N	1	
-49	decir	decir	V	1	
-50	pagamos	pagamos	N	1	
-51	280_euros	280_euro	R	1	ne=Money
-52	mas	mas	V	1	
-53	por	por	G	1	
-54	tener	tener	N	1	
-55	la	la	D	1	
-56	pulserita	pulserita	N	1	
-57	roja	roja	N	1	
-58	en	en	P	1	
-59	vez	vez	O	1	
-60	de	de	O	1	
-61	azul	azul	O	1	
-62	pero	pero	O	1	
-63	nada	nada	O	1	
-64	de	de	O	1	
-65	lo	lo	O	1	
-66	prometido	prometido	O	1	
-67	despues	despues	O	1	
-68	ademas	ademas	O	1	
-69	,	,	O	1	
-70	hicimos	hicimos	V	1	
-71	mogollon	mogollon	N	1	
-72	de	de	P	1	
-73	reclamaciones	reclamaciones	N	1	
-74	y	y	G	1	
-75	ni	ni	N	1	
-76	caso	caso	V	1	
-77	hasta	hasta	G	1	
-78	el	el	N	1	
-79	dia	dia	N	1	
-80	de	de	P	1	
-81	hoy	hoy	N	1	
-82	,	,	O	1	
-83	la	la	D	1	
-84	operadora	operadora	N	1	
-85	que	que	N	1	
-86	trabajaba	trabajaba	N	1	
-87	con	con	A	1	
-88	el	el	G	1	
-89	hotel	hotel	N	1	
-90	fatal	fatal	G	1	
-91	y	y	G	1	
-92	la	la	N	1	
-93	atención	atención	N	1	
-94	horrible.Uno	horrible.Uno	R	1	
-95	de	de	P	1	
-96	los	los	N	1	
-97	dias	dias	N	1	
-98	tuvieron	tuvieron	V	1	
-99	que	que	G	1	
-100	limpiar	limpiar	G	1	
-101	la	la	N	1	
-102	piscina	piscina	N	1	
-103	de	de	P	1	
-104	lo	lo	G	1	
-105	sucia	sucia	N	1	
-106	que	que	N	1	
-107	estaba	estaba	N	1	
-108	,	,	O	1	
-109	los	los	N	1	
-110	residentes	residentes	V	1	
-111	alli	alli	G	1	
-112	se	se	N	1	
-113	bañaban	bañaban	N	1	
-114	vestidos	vestidos	N	1	
-115	,	,	O	1	
-116	etc	etc	O	1	
-117	,	,	O	1	
-118	etc	etc	O	1	
-119	......	......	O	1	
+1	Nosotros	Nosotros	R	1	O
+2	contratamos	contratamos	V	1	O
+3	un	un	G	1	O
+4	pack	pack	N	1	O
+5	por	por	O	1	O
+6	la	la	O	1	O
+7	luna	luna	O	1	O
+8	de	de	O	1	O
+9	miel	miel	O	1	O
+10	y	y	G	1	O
+11	nada	nada	O	1	O
+12	de	de	O	1	O
+13	lo	lo	O	1	O
+14	que	que	O	1	O
+15	contratamos	contratamos	O	1	O
+16	nos	nos	O	1	O
+17	lo	lo	O	1	O
+18	respetaron	respetaron	O	1	O
+19	,	,	O	1	O
+20	ni	ni	G	1	O
+21	cesta	cesta	N	1	O
+22	de	de	P	1	O
+23	frutas	frutas	N	1	O
+24	al	al	G	1	O
+25	llegar	llegar	N	1	O
+26	,	,	O	1	O
+27	ni	ni	G	1	O
+28	internet	internet	N	1	O
+29	en	en	P	1	O
+30	el	el	N	1	O
+31	pack	pack	N	1	O
+32	que	que	G	1	O
+33	decia	decia	N	1	O
+34	que	que	N	1	O
+35	si	si	N	1	O
+36	,	,	O	1	O
+37	la	la	O	1	O
+38	habitacion	habitacion	O	1	O
+39	nada	nada	O	1	O
+40	que	que	O	1	O
+41	ver	ver	A	1	O
+42	con	con	A	1	O
+43	lo	lo	G	1	O
+44	que	que	N	1	O
+45	nos	nos	N	1	O
+46	ofertaron	ofertaron	V	1	O
+47	,	,	O	1	O
+48	es	es	N	1	O
+49	decir	decir	V	1	O
+50	pagamos	pagamos	N	1	O
+51	280	280	O	1	I-Money
+52	euros	euro	N	1	I-Money
+53	mas	mas	V	1	O
+54	por	por	G	1	O
+55	tener	tener	N	1	O
+56	la	la	D	1	O
+57	pulserita	pulserita	N	1	O
+58	roja	roja	N	1	O
+59	en	en	P	1	O
+60	vez	vez	O	1	O
+61	de	de	O	1	O
+62	azul	azul	O	1	O
+63	pero	pero	O	1	O
+64	nada	nada	O	1	O
+65	de	de	O	1	O
+66	lo	lo	O	1	O
+67	prometido	prometido	O	1	O
+68	despues	despues	O	1	O
+69	ademas	ademas	O	1	O
+70	,	,	O	1	O
+71	hicimos	hicimos	V	1	O
+72	mogollon	mogollon	N	1	O
+73	de	de	P	1	O
+74	reclamaciones	reclamaciones	N	1	O
+75	y	y	G	1	O
+76	ni	ni	N	1	O
+77	caso	caso	V	1	O
+78	hasta	hasta	G	1	O
+79	el	el	N	1	O
+80	dia	dia	N	1	O
+81	de	de	P	1	O
+82	hoy	hoy	N	1	O
+83	,	,	O	1	O
+84	la	la	D	1	O
+85	operadora	operadora	N	1	O
+86	que	que	N	1	O
+87	trabajaba	trabajaba	N	1	O
+88	con	con	A	1	O
+89	el	el	G	1	O
+90	hotel	hotel	N	1	O
+91	fatal	fatal	G	1	O
+92	y	y	G	1	O
+93	la	la	N	1	O
+94	atención	atención	N	1	O
+95	horrible.Uno	horrible.Uno	R	1	O
+96	de	de	P	1	O
+97	los	los	N	1	O
+98	dias	dias	N	1	O
+99	tuvieron	tuvieron	V	1	O
+100	que	que	G	1	O
+101	limpiar	limpiar	G	1	O
+102	la	la	N	1	O
+103	piscina	piscina	N	1	O
+104	de	de	P	1	O
+105	lo	lo	G	1	O
+106	sucia	sucia	N	1	O
+107	que	que	N	1	O
+108	estaba	estaba	N	1	O
+109	,	,	O	1	O
+110	los	los	N	1	O
+111	residentes	residentes	V	1	O
+112	alli	alli	G	1	O
+113	se	se	N	1	O
+114	bañaban	bañaban	N	1	O
+115	vestidos	vestidos	N	1	O
+116	,	,	O	1	O
+117	etc	etc	O	1	O
+118	,	,	O	1	O
+119	etc	etc	O	1	O
+120	......	......	O	1	O
 
-1	Nada	Nada	R	1	
-2	que	que	N	1	
-3	ver	ver	A	1	
-4	con	con	G	1	
-5	el	el	N	1	
-6	bahia	bahia	N	1	
-7	principe	principe	N	1	
-8	de_costa_adeje_en_tenerife_que	de_costa_adeje_en_tenerife_que	R	1	ne=Hotel
-9	nos	nos	N	1	
-10	encanto	encanto	R	1	ne=Location
-11	el	el	N	1	
-12	año	año	N	1	
-13	anterior	anterior	A	1	
-14	.	.	O	1	
+1	Nada	Nada	R	1	O
+2	que	que	N	1	O
+3	ver	ver	A	1	O
+4	con	con	G	1	O
+5	el	el	N	1	O
+6	bahia	bahia	N	1	O
+7	principe	principe	N	1	O
+8	de	de	P	1	I-Hotel
+9	costa	costa	G	1	I-Hotel
+10	adeje	adeje	G	1	I-Hotel
+11	en	en	P	1	I-Hotel
+12	tenerife	tenerife	G	1	I-Hotel
+13	que	que	G	1	I-Hotel
+14	nos	nos	N	1	O
+15	encanto	encanto	R	1	I-Location
+16	el	el	N	1	O
+17	año	año	N	1	O
+18	anterior	anterior	A	1	O
+19	.	.	O	1	O
 
-1	Yo	Yo	R	1	
-2	no	no	D	1	
-3	volvere	volvere	N	1	
-4	a	a	D	1	
-5	esta	esta	N	1	
-6	cadena	cadena	N	1	
-7	de	de	P	1	
-8	hoteles	hoteles	N	1	
-9	.	.	O	1	
+1	Yo	Yo	R	1	O
+2	no	no	D	1	O
+3	volvere	volvere	N	1	O
+4	a	a	D	1	O
+5	esta	esta	N	1	O
+6	cadena	cadena	N	1	O
+7	de	de	P	1	O
+8	hoteles	hoteles	N	1	O
+9	.	.	O	1	O
 

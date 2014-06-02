@@ -1,50 +1,50 @@
-1	Muy	Muy	R	1	
-2	bien	bien	N	1	
-3	ubicado	ubicado	N	1	
-4	en	en	P	1	
-5	Madrid	Madrid	R	1	
+1	Muy	Muy	R	1	O
+2	bien	bien	N	1	O
+3	ubicado	ubicado	N	1	O
+4	en	en	P	1	O
+5	Madrid	Madrid	R	1	O
 
-1	habitacion	habitacion	N	1	
-2	espectacular	espectacular	G	1	
-3	,	,	O	1	
-4	enorme	enorme	G	1	
-5	de	de	P	1	
-6	grande	grande	G	1	
-7	y	y	G	1	
-8	ademas	ademas	N	1	
-9	no	no	D	1	
-10	le	le	O	1	
-11	faltaba	faltaba	O	1	
-12	ningun	ningun	O	1	
-13	detalle	detalle	N	1	
-14	,	,	O	1	
-15	tenia	tenia	N	1	
-16	cafetera	cafetera	N	1	
-17	,	,	O	1	
-18	tabla	tabla	N	1	
-19	de	de	P	1	
-20	planchar	planchar	N	1	
-21	,	,	O	1	
-22	claro	claro	N	1	
-23	esta	esta	N	1	
-24	y	y	G	1	
-25	una	una	G	1	
-26	plancha	plancha	N	1	
-27	,	,	O	1	
-28	cafetera	cafetera	N	1	
-29	de	de	P	1	
-30	capsulas	capsulas	N	1	
-31	,	,	O	1	
-32	mini	mini	G	1	
-33	bar	bar	N	1	
-34	gratuito	gratuito	N	1	
-35	.La	.La	R	1	
-36	piscina	piscina	N	1	
-37	con	con	A	1	
-38	yacuzzi	yacuzzi	G	1	
-39	incluido.Genial	incluido.Genial	R	1	
-40	os	os	N	1	
-41	lo	lo	V	1	
-42	recomiendo	recomiendo	N	1	
-43	.	.	O	1	
+1	habitacion	habitacion	N	1	O
+2	espectacular	espectacular	G	1	O
+3	,	,	O	1	O
+4	enorme	enorme	G	1	O
+5	de	de	P	1	O
+6	grande	grande	G	1	O
+7	y	y	G	1	O
+8	ademas	ademas	N	1	O
+9	no	no	D	1	O
+10	le	le	O	1	O
+11	faltaba	faltaba	O	1	O
+12	ningun	ningun	O	1	O
+13	detalle	detalle	N	1	O
+14	,	,	O	1	O
+15	tenia	tenia	N	1	O
+16	cafetera	cafetera	N	1	O
+17	,	,	O	1	O
+18	tabla	tabla	N	1	O
+19	de	de	P	1	O
+20	planchar	planchar	N	1	O
+21	,	,	O	1	O
+22	claro	claro	N	1	O
+23	esta	esta	N	1	O
+24	y	y	G	1	O
+25	una	una	G	1	O
+26	plancha	plancha	N	1	O
+27	,	,	O	1	O
+28	cafetera	cafetera	N	1	O
+29	de	de	P	1	O
+30	capsulas	capsulas	N	1	O
+31	,	,	O	1	O
+32	mini	mini	G	1	O
+33	bar	bar	N	1	O
+34	gratuito	gratuito	N	1	O
+35	.La	.La	R	1	O
+36	piscina	piscina	N	1	O
+37	con	con	A	1	O
+38	yacuzzi	yacuzzi	G	1	O
+39	incluido.Genial	incluido.Genial	R	1	O
+40	os	os	N	1	O
+41	lo	lo	V	1	O
+42	recomiendo	recomiendo	N	1	O
+43	.	.	O	1	O
 

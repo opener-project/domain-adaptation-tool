@@ -1,127 +1,127 @@
-1	Absolutely	absolutely	A	1	
-2	horrible	horrible	G	1	
-3	accommodation	accommodation	N	1	
-4	for	for	P	1	
-5	the	the	D	1	
-6	money	money	N	1	
+1	Absolutely	absolutely	A	1	O
+2	horrible	horrible	G	1	O
+3	accommodation	accommodation	N	1	O
+4	for	for	P	1	O
+5	the	the	D	1	O
+6	money	money	N	1	O
 
-1	Tiny	Tiny	R	1	
-2	room	room	N	1	
-3	,	,	O	1	
-4	no	no	D	1	
-5	place	place	N	1	
-6	to	to	P	1	
-7	put	put	V	1	
-8	luggage	luggage	N	1	
-9	.	.	O	1	
+1	Tiny	Tiny	R	1	O
+2	room	room	N	1	O
+3	,	,	O	1	O
+4	no	no	D	1	O
+5	place	place	N	1	O
+6	to	to	P	1	O
+7	put	put	V	1	O
+8	luggage	luggage	N	1	O
+9	.	.	O	1	O
 
-1	Dark	dark	G	1	
-2	,	,	O	1	
-3	crazily	crazily	A	1	
-4	designed	design	V	1	
-5	bathroom	bathroom	N	1	
-6	with	with	P	1	
-7	no	no	D	1	
-8	electrical	electrical	G	1	
-9	outlet	outlet	N	1	
-10	,	,	O	1	
-11	no	no	D	1	
-12	soap	soap	N	1	
-13	dish	dish	N	1	
-14	in	in	P	1	
-15	shower	shower	N	1	
-16	(	(	O	1	
-17	no	no	D	1	
-18	bathtub	bathtub	N	1	
-19	)	)	O	1	
-20	,	,	O	1	
-21	minuscule	minuscule	G	1	
-22	shelf	shelf	N	1	
-23	for	for	P	1	
-24	personal	personal	G	1	
-25	amenities	amenity	N	1	
-26	.	.	O	1	
+1	Dark	dark	G	1	O
+2	,	,	O	1	O
+3	crazily	crazily	A	1	O
+4	designed	design	V	1	O
+5	bathroom	bathroom	N	1	O
+6	with	with	P	1	O
+7	no	no	D	1	O
+8	electrical	electrical	G	1	O
+9	outlet	outlet	N	1	O
+10	,	,	O	1	O
+11	no	no	D	1	O
+12	soap	soap	N	1	O
+13	dish	dish	N	1	O
+14	in	in	P	1	O
+15	shower	shower	N	1	O
+16	(	(	O	1	O
+17	no	no	D	1	O
+18	bathtub	bathtub	N	1	O
+19	)	)	O	1	O
+20	,	,	O	1	O
+21	minuscule	minuscule	G	1	O
+22	shelf	shelf	N	1	O
+23	for	for	P	1	O
+24	personal	personal	G	1	O
+25	amenities	amenity	N	1	O
+26	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	was	be	V	1	
-3	fully	fully	A	1	
-4	visible	visible	G	1	
-5	from	from	P	1	
-6	the	the	D	1	
-7	outside	outside	N	1	
-8	,	,	O	1	
-9	and	and	C	1	
-10	cleaning	clean	V	1	
-11	staff	staff	N	1	
-12	left	leave	V	1	
-13	curtains	curtain	N	1	
-14	open	open	V	1	
-15	daily	daily	A	1	
-16	,	,	O	1	
-17	allowing	allow	V	1	
-18	anyone	anyone	N	1	
-19	to	to	P	1	
-20	see	see	V	1	
-21	your	your	Q	1	
-22	belongings	belonging	N	1	
-23	.	.	O	1	
+1	Room	Room	R	1	O
+2	was	be	V	1	O
+3	fully	fully	A	1	O
+4	visible	visible	G	1	O
+5	from	from	P	1	O
+6	the	the	D	1	O
+7	outside	outside	N	1	O
+8	,	,	O	1	O
+9	and	and	C	1	O
+10	cleaning	clean	V	1	O
+11	staff	staff	N	1	O
+12	left	leave	V	1	O
+13	curtains	curtain	N	1	O
+14	open	open	V	1	O
+15	daily	daily	A	1	O
+16	,	,	O	1	O
+17	allowing	allow	V	1	O
+18	anyone	anyone	N	1	O
+19	to	to	P	1	O
+20	see	see	V	1	O
+21	your	your	Q	1	O
+22	belongings	belonging	N	1	O
+23	.	.	O	1	O
 
-1	Meager	Meager	R	1	
-2	,	,	O	1	
-3	horrible	horrible	G	1	
-4	breakfast	breakfast	N	1	
-5	,	,	O	1	
-6	on	on	P	1	
-7	a	a	D	1	
-8	frigid	frigid	G	1	
-9	outdoor	outdoor	G	1	
-10	terrace	terrace	N	1	
-11	(	(	O	1	
-12	in	in	P	1	
-13	February	February	R	1	ne=Date
-14	)	)	O	1	
-15	,	,	O	1	
-16	with	with	P	1	
-17	no	no	D	1	
-18	indoor	indoor	N	1	
-19	option	option	N	1	
-20	whatsoever	whatsoever	A	1	
-21	.	.	O	1	
+1	Meager	Meager	R	1	O
+2	,	,	O	1	O
+3	horrible	horrible	G	1	O
+4	breakfast	breakfast	N	1	O
+5	,	,	O	1	O
+6	on	on	P	1	O
+7	a	a	D	1	O
+8	frigid	frigid	G	1	O
+9	outdoor	outdoor	G	1	O
+10	terrace	terrace	N	1	O
+11	(	(	O	1	O
+12	in	in	P	1	O
+13	February	February	R	1	I-Date
+14	)	)	O	1	O
+15	,	,	O	1	O
+16	with	with	P	1	O
+17	no	no	D	1	O
+18	indoor	indoor	N	1	O
+19	option	option	N	1	O
+20	whatsoever	whatsoever	A	1	O
+21	.	.	O	1	O
 
-1	Entrance	Entrance	R	1	
-2	to	to	P	1	
-3	rooms	room	N	1	
-4	only	only	A	1	
-5	by	by	P	1	
-6	passing	pass	V	1	
-7	through	through	G	1	
-8	bar	bar	N	1	
-9	area	area	N	1	
-10	.	.	O	1	
+1	Entrance	Entrance	R	1	O
+2	to	to	P	1	O
+3	rooms	room	N	1	O
+4	only	only	A	1	O
+5	by	by	P	1	O
+6	passing	pass	V	1	O
+7	through	through	G	1	O
+8	bar	bar	N	1	O
+9	area	area	N	1	O
+10	.	.	O	1	O
 
-1	Totally	totally	A	1	
-2	overpriced	overpriced	G	1	
-3	,	,	O	1	
-4	lousy	lousy	G	1	
-5	service	service	N	1	
-6	,	,	O	1	
-7	bad	bad	G	1	
-8	location	location	N	1	
-9	(	(	O	1	
-10	noise	noise	A	1	
-11	from	from	P	1	
-12	houses	house	N	1	
-13	close	close	G	1	
-14	·	·	N	1	
-15	by	by	P	1	
-16	)	)	O	1	
-17	.	.	O	1	
+1	Totally	totally	A	1	O
+2	overpriced	overpriced	G	1	O
+3	,	,	O	1	O
+4	lousy	lousy	G	1	O
+5	service	service	N	1	O
+6	,	,	O	1	O
+7	bad	bad	G	1	O
+8	location	location	N	1	O
+9	(	(	O	1	O
+10	noise	noise	A	1	O
+11	from	from	P	1	O
+12	houses	house	N	1	O
+13	close	close	G	1	O
+14	·	·	N	1	O
+15	by	by	P	1	O
+16	)	)	O	1	O
+17	.	.	O	1	O
 
-1	To	to	P	1	
-2	be	be	V	1	
-3	avoided	avoid	V	1	
-4	at	at	P	1	
-5	all	all	D	1	
-6	costs	cost	N	1	
-7	.	.	O	1	
+1	To	to	P	1	O
+2	be	be	V	1	O
+3	avoided	avoid	V	1	O
+4	at	at	P	1	O
+5	all	all	D	1	O
+6	costs	cost	N	1	O
+7	.	.	O	1	O
 

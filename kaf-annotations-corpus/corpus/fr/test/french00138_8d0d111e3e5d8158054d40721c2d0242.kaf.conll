@@ -1,125 +1,126 @@
-1	Bien	Bien	G	1	
+1	Bien	Bien	G	1	O
 
-1	Bel	bel	N	1	
-2	hotel	hotel	G	1	
-3	.	.	O	1	
+1	Bel	bel	N	1	O
+2	hotel	hotel	G	1	O
+3	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	personnel	personnel	N	1	
-4	souriant	souriant	G	1	
-5	et	et	C	1	
-6	aimable	aimable	G	1	
-7	et	et	C	1	
-8	service	service	N	1	
-9	impeccable	impeccable	G	1	
-10	toujours	toujours	G	1	
-11	à	à	P	1	
-12	l'	le	D	1	
-13	écoute	écoute	N	1	
-14	des	des	P	1	
-15	clients	client	N	1	
-16	.	.	O	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	personnel	personnel	N	1	O
+4	souriant	souriant	G	1	O
+5	et	et	C	1	O
+6	aimable	aimable	G	1	O
+7	et	et	C	1	O
+8	service	service	N	1	O
+9	impeccable	impeccable	G	1	O
+10	toujours	toujours	G	1	O
+11	à	à	P	1	O
+12	l'	le	D	1	O
+13	écoute	écoute	N	1	O
+14	des	des	P	1	O
+15	clients	client	N	1	O
+16	.	.	O	1	O
 
-1	Hotel	Hotel	N	1	
-2	vieillissant	vieillir	V	1	
-3	qui	qui	P	1	
-4	sera	être	V	1	
-5	entièrement	entièrement	G	1	
-6	rénové	rénover	V	1	
-7	en	en	P	1	
-8	Juillet_2014	juillet_2014	R	1	ne=Date
-9	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	vieillissant	vieillir	V	1	O
+3	qui	qui	P	1	O
+4	sera	être	V	1	O
+5	entièrement	entièrement	G	1	O
+6	rénové	rénover	V	1	O
+7	en	en	P	1	O
+8	Juillet	juillet	N	1	I-Date
+9	2014	2014	G	1	I-Date
+10	.	.	O	1	O
 
-1	Nouvelle	nouveau	G	1	
-2	piscine	piscine	N	1	
-3	à	à	P	1	
-4	débordement	débordement	N	1	
-5	mis	mettre	V	1	
-6	en	en	P	1	
-7	service	service	N	1	
-8	en	en	P	1	
-9	Octobre	octobre	R	1	ne=Date
-10	.	.	O	1	
+1	Nouvelle	nouveau	G	1	O
+2	piscine	piscine	N	1	O
+3	à	à	P	1	O
+4	débordement	débordement	N	1	O
+5	mis	mettre	V	1	O
+6	en	en	P	1	O
+7	service	service	N	1	O
+8	en	en	P	1	O
+9	Octobre	octobre	R	1	I-Date
+10	.	.	O	1	O
 
-1	Repas	repas	N	1	
-2	variés	varier	G	1	
-3	mais	mais	C	1	
-4	pas	pas	G	1	
-5	assez	assez	G	1	
-6	chauds	chaud	G	1	
-7	,	,	O	1	
-8	dommage	dommage	N	1	
-9	.	.	O	1	
+1	Repas	repas	N	1	O
+2	variés	varier	G	1	O
+3	mais	mais	C	1	O
+4	pas	pas	G	1	O
+5	assez	assez	G	1	O
+6	chauds	chaud	G	1	O
+7	,	,	O	1	O
+8	dommage	dommage	N	1	O
+9	.	.	O	1	O
 
-1	Tables	table	N	1	
-2	au	au	P	1	
-3	restaurant	restaurer	V	1	
-4	non	non	G	1	
-5	"	&quot;	O	1	
-6	reservables	reservables	G	1	
-7	"	&quot;	O	1	
-8	d'	d'	P	1	
-9	après	après	P	1	
-10	le	le	D	1	
-11	staff	staff	N	1	
-12	,	,	O	1	
-13	mais	mais	C	1	
-14	la	le	D	1	
-15	meilleure	meilleur	G	1	
-16	table	table	N	1	
-17	fut	être	V	1	
-18	réservée	réserver	V	1	
-19	pendant	pendant	P	1	
-20	2	2	D	1	
-21	semaines	semaine	N	1	
-22	matin	matin	G	1	
-23	et	et	C	1	
-24	soir	soir	N	1	
-25	par	par	P	1	
-26	le	le	D	1	
-27	même	même	G	1	
-28	couple	couple	N	1	
-29	...	...	O	1	
-30	Boissons	boisson	N	1	
-31	et	et	C	1	
-32	cocktails	cocktail	N	1	
-33	chers	cher	G	1	
-34	.	.	O	1	
+1	Tables	table	N	1	O
+2	au	au	P	1	O
+3	restaurant	restaurer	V	1	O
+4	non	non	G	1	O
+5	"	&quot;	O	1	O
+6	reservables	reservables	G	1	O
+7	"	&quot;	O	1	O
+8	d'	d'	P	1	O
+9	après	après	P	1	O
+10	le	le	D	1	O
+11	staff	staff	N	1	O
+12	,	,	O	1	O
+13	mais	mais	C	1	O
+14	la	le	D	1	O
+15	meilleure	meilleur	G	1	O
+16	table	table	N	1	O
+17	fut	être	V	1	O
+18	réservée	réserver	V	1	O
+19	pendant	pendant	P	1	O
+20	2	2	D	1	O
+21	semaines	semaine	N	1	O
+22	matin	matin	G	1	O
+23	et	et	C	1	O
+24	soir	soir	N	1	O
+25	par	par	P	1	O
+26	le	le	D	1	O
+27	même	même	G	1	O
+28	couple	couple	N	1	O
+29	...	...	O	1	O
+30	Boissons	boisson	N	1	O
+31	et	et	C	1	O
+32	cocktails	cocktail	N	1	O
+33	chers	cher	G	1	O
+34	.	.	O	1	O
 
-1	Belle	beau	N	1	
-2	plage	plage	V	1	
-3	avec	avec	P	1	
-4	coraux	coraux	N	1	
-5	;	;	O	1	
-6	transats	transats	D	1	
-7	très	très	G	1	
-8	nombreux	nombreux	G	1	
-9	,	,	O	1	
-10	ski	ski	N	1	
-11	nautique	nautique	G	1	
-12	,	,	O	1	
-13	sortie	sortie	N	1	
-14	dauphins	dauphins	G	1	
-15	,	,	O	1	
-16	bateau	bateau	N	1	
-17	à	à	P	1	
-18	fonds	fond	N	1	
-19	de	de	P	1	
-20	verre	verre	N	1	
-21	etc	etc	G	1	
-22	,	,	O	1	
-23	inclus.Très	inclus.Très	G	1	
-24	bon	bon	G	1	
-25	séjour	séjour	N	1	
-26	,	,	O	1	
-27	mais	mais	C	1	
-28	rapport	rapport	V	1	
-29	qualité	qualité	N	1	
-30	/	/	P	1	
-31	prix	prix	N	1	
-32	meilleur	meilleur	G	1	
-33	au	au	P	1	
-34	Mexique	Mexique	R	1	ne=Location
-35	.	.	O	1	
+1	Belle	beau	N	1	O
+2	plage	plage	V	1	O
+3	avec	avec	P	1	O
+4	coraux	coraux	N	1	O
+5	;	;	O	1	O
+6	transats	transats	D	1	O
+7	très	très	G	1	O
+8	nombreux	nombreux	G	1	O
+9	,	,	O	1	O
+10	ski	ski	N	1	O
+11	nautique	nautique	G	1	O
+12	,	,	O	1	O
+13	sortie	sortie	N	1	O
+14	dauphins	dauphins	G	1	O
+15	,	,	O	1	O
+16	bateau	bateau	N	1	O
+17	à	à	P	1	O
+18	fonds	fond	N	1	O
+19	de	de	P	1	O
+20	verre	verre	N	1	O
+21	etc	etc	G	1	O
+22	,	,	O	1	O
+23	inclus.Très	inclus.Très	G	1	O
+24	bon	bon	G	1	O
+25	séjour	séjour	N	1	O
+26	,	,	O	1	O
+27	mais	mais	C	1	O
+28	rapport	rapport	V	1	O
+29	qualité	qualité	N	1	O
+30	/	/	P	1	O
+31	prix	prix	N	1	O
+32	meilleur	meilleur	G	1	O
+33	au	au	P	1	O
+34	Mexique	Mexique	R	1	I-Location
+35	.	.	O	1	O
 

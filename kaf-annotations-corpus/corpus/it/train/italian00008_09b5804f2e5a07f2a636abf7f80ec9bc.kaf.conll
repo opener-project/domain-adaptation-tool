@@ -1,79 +1,79 @@
-1	Se	se	Q	1	
-2	volete	volere	V	1	
-3	riposare	riposare	V	1	
-4	scegliete	scegliete	N	1	
-5	altrove	altrove	A	1	
+1	Se	se	Q	1	O
+2	volete	volere	V	1	O
+3	riposare	riposare	V	1	O
+4	scegliete	scegliete	N	1	O
+5	altrove	altrove	A	1	O
 
-1	non	non	A	1	
-2	si	si	Q	1	
-3	dorme.	dorme.	V	1	
-4	manca	mancare	V	1	
-5	aria	aria	N	1	
-6	condizionata	condizionare	V	1	
-7	con	con	P	1	
-8	le	lo	D	1	
-9	finestre	finestra	N	1	
-10	aperte	aprire	V	1	
-11	devi	dovere	V	1	
-12	aver	aver	V	1	
-13	pazienza	pazienza	N	1	
-14	che	che	Q	1	
-15	tutti	tutti	Q	1	
-16	vadano	andare	V	1	
-17	a	a	P	1	
-18	dormire	dormire	V	1	
-19	e	e	Q	1	
-20	per	per	P	1	
-21	essere	essera	N	1	
-22	un	uno	D	1	
-23	paesino	paesino	N	1	
-24	di	di	P	1	
-25	campagna	campagna	N	1	
-26	si	si	Q	1	
-27	va	va	V	1	
-28	a	a	P	1	
-29	dormire	dormire	V	1	
-30	tardi	tardi	A	1	
-31	......	......	O	1	
-32	la	lo	D	1	
-33	piazza	piazzare	V	1	
-34	sotto	sotto	P	1	
-35	casa	casa	N	1	
-36	ha	avere	V	1	
-37	un	uno	D	1	
-38	rimbombo	rimbombo	N	1	
-39	tale	tale	G	1	
-40	che	che	Q	1	
-41	in	in	P	1	
-42	camera	camera	N	1	
-43	senti	sentire	V	1	
-44	tutto	tutto	A	1	
-45	,	,	O	1	
-46	e	e	Q	1	
-47	il	lo	D	1	
-48	rispetto	rispetto	N	1	
-49	per	per	P	1	
-50	chi	chi	Q	1	
-51	è	è	N	1	
-52	in	in	P	1	
-53	vacanza	vacanza	N	1	
-54	e	e	Q	1	
-55	vuole	volere	V	1	
-56	riposare	riposare	V	1	
-57	....	....	A	1	
-58	beh	beh	R	1	
-59	è	essere	V	1	
-60	un	uno	D	1	
-61	altra	altro	G	1	
-62	cosa	cosa	N	1	
-63	.....	.....	O	1	
-64	qualità	qualità	G	1	
-65	prezzo	prezzo	N	1	
-66	scarsa	scarso	G	1	
-67	si	si	Q	1	
-68	può	può	R	1	
-69	trovare	trovare	V	1	
-70	di	di	P	1	
-71	meglio	meglio	N	1	
-72	.	.	O	1	
+1	non	non	A	1	O
+2	si	si	Q	1	O
+3	dorme.	dorme.	V	1	O
+4	manca	mancare	V	1	O
+5	aria	aria	N	1	O
+6	condizionata	condizionare	V	1	O
+7	con	con	P	1	O
+8	le	lo	D	1	O
+9	finestre	finestra	N	1	O
+10	aperte	aprire	V	1	O
+11	devi	dovere	V	1	O
+12	aver	aver	V	1	O
+13	pazienza	pazienza	N	1	O
+14	che	che	Q	1	O
+15	tutti	tutti	Q	1	O
+16	vadano	andare	V	1	O
+17	a	a	P	1	O
+18	dormire	dormire	V	1	O
+19	e	e	Q	1	O
+20	per	per	P	1	O
+21	essere	essera	N	1	O
+22	un	uno	D	1	O
+23	paesino	paesino	N	1	O
+24	di	di	P	1	O
+25	campagna	campagna	N	1	O
+26	si	si	Q	1	O
+27	va	va	V	1	O
+28	a	a	P	1	O
+29	dormire	dormire	V	1	O
+30	tardi	tardi	A	1	O
+31	......	......	O	1	O
+32	la	lo	D	1	O
+33	piazza	piazzare	V	1	O
+34	sotto	sotto	P	1	O
+35	casa	casa	N	1	O
+36	ha	avere	V	1	O
+37	un	uno	D	1	O
+38	rimbombo	rimbombo	N	1	O
+39	tale	tale	G	1	O
+40	che	che	Q	1	O
+41	in	in	P	1	O
+42	camera	camera	N	1	O
+43	senti	sentire	V	1	O
+44	tutto	tutto	A	1	O
+45	,	,	O	1	O
+46	e	e	Q	1	O
+47	il	lo	D	1	O
+48	rispetto	rispetto	N	1	O
+49	per	per	P	1	O
+50	chi	chi	Q	1	O
+51	è	è	N	1	O
+52	in	in	P	1	O
+53	vacanza	vacanza	N	1	O
+54	e	e	Q	1	O
+55	vuole	volere	V	1	O
+56	riposare	riposare	V	1	O
+57	....	....	A	1	O
+58	beh	beh	R	1	O
+59	è	essere	V	1	O
+60	un	uno	D	1	O
+61	altra	altro	G	1	O
+62	cosa	cosa	N	1	O
+63	.....	.....	O	1	O
+64	qualità	qualità	G	1	O
+65	prezzo	prezzo	N	1	O
+66	scarsa	scarso	G	1	O
+67	si	si	Q	1	O
+68	può	può	R	1	O
+69	trovare	trovare	V	1	O
+70	di	di	P	1	O
+71	meglio	meglio	N	1	O
+72	.	.	O	1	O
 

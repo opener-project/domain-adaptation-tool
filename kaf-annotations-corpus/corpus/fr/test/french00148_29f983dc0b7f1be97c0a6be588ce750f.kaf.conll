@@ -1,52 +1,52 @@
-1	Très	Très	G	1	
-2	beau	beau	G	1	
-3	site	site	N	1	
-4	genre	genre	N	1	
-5	AQUALAND	AQUALAND	R	1	ne=Attraction
+1	Très	Très	G	1	O
+2	beau	beau	G	1	O
+3	site	site	N	1	O
+4	genre	genre	N	1	O
+5	AQUALAND	AQUALAND	R	1	I-Attraction
 
-1	Très	Très	G	1	
-2	beau	beau	G	1	
-3	site	site	N	1	
-4	avec	avec	P	1	
-5	palmiers	palmier	N	1	
-6	,	,	O	1	
-7	pelouses	pelouse	N	1	
-8	,	,	O	1	
-9	eaux	eau	N	1	
-10	cristalines	cristalines	G	1	
-11	,	,	O	1	
-12	jeux	jeux	P	1	
-13	pas	pas	G	1	
-14	trop	trop	G	1	
-15	difficiles	difficile	G	1	
-16	ni	ni	C	1	
-17	impressionnants	impressionnant	G	1	
-18	,	,	O	1	
-19	au	au	O	1	
-20	pied	pied	N	1	
-21	des	un	D	1	
-22	montagnes	montagne	N	1	
-23	.	.	O	1	
+1	Très	Très	G	1	O
+2	beau	beau	G	1	O
+3	site	site	N	1	O
+4	avec	avec	P	1	O
+5	palmiers	palmier	N	1	O
+6	,	,	O	1	O
+7	pelouses	pelouse	N	1	O
+8	,	,	O	1	O
+9	eaux	eau	N	1	O
+10	cristalines	cristalines	G	1	O
+11	,	,	O	1	O
+12	jeux	jeux	P	1	O
+13	pas	pas	G	1	O
+14	trop	trop	G	1	O
+15	difficiles	difficile	G	1	O
+16	ni	ni	C	1	O
+17	impressionnants	impressionnant	G	1	O
+18	,	,	O	1	O
+19	au	au	O	1	O
+20	pied	pied	N	1	O
+21	des	un	D	1	O
+22	montagnes	montagne	N	1	O
+23	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	bien	bien	G	1	
-3	entretenu	entretenir	V	1	
-4	.	.	O	1	
+1	Très	Très	G	1	O
+2	bien	bien	G	1	O
+3	entretenu	entretenir	V	1	O
+4	.	.	O	1	O
 
-1	Pb	problème	N	1	
-2	:	:	O	1	
-3	pic	pic	N	1	
-4	·	·	N	1	
-5	nic	nic	N	1	
-6	interdit	interdire	V	1	
-7	,	,	O	1	
-8	il	il	Q	1	
-9	faut	faillir	V	1	
-10	allez	aller	V	1	
-11	manger	manger	V	1	
-12	dehors	dehors	G	1	
-13	sur	sur	P	1	
-14	le	le	D	1	
-15	parking	parking	N	1	
-16	!	!	O	1	
+1	Pb	problème	N	1	O
+2	:	:	O	1	O
+3	pic	pic	N	1	O
+4	·	·	N	1	O
+5	nic	nic	N	1	O
+6	interdit	interdire	V	1	O
+7	,	,	O	1	O
+8	il	il	Q	1	O
+9	faut	faillir	V	1	O
+10	allez	aller	V	1	O
+11	manger	manger	V	1	O
+12	dehors	dehors	G	1	O
+13	sur	sur	P	1	O
+14	le	le	D	1	O
+15	parking	parking	N	1	O
+16	!	!	O	1	O
 

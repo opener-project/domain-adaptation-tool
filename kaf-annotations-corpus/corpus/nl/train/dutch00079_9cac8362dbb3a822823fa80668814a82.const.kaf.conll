@@ -1,189 +1,189 @@
-1	Amontillado	Amontillado	R	1	ne=Hotel
-2	:	:	O	1	
-3	Als	als	C	1	
-4	je	je	Q	1	
-5	van	van	P	1	
-6	een	een	D	1	
-7	verrassing	verrassing	N	1	
-8	houdt	houden	V	1	
-9	...	...	O	1	
+1	Amontillado	Amontillado	R	1	I-Hotel
+2	:	:	O	1	O
+3	Als	als	C	1	O
+4	je	je	Q	1	O
+5	van	van	P	1	O
+6	een	een	D	1	O
+7	verrassing	verrassing	N	1	O
+8	houdt	houden	V	1	O
+9	...	...	O	1	O
 
-1	Mooi	mooi	G	1	
-2	resort	resort	O	1	
-3	,	,	O	1	
-4	dan	dan	A	1	
-5	is	zijn	V	1	
-6	alles	alles	Q	1	
-7	gezegd	zeggen	V	1	
-8	.	.	O	1	
+1	Mooi	mooi	G	1	O
+2	resort	resort	O	1	O
+3	,	,	O	1	O
+4	dan	dan	A	1	O
+5	is	zijn	V	1	O
+6	alles	alles	Q	1	O
+7	gezegd	zeggen	V	1	O
+8	.	.	O	1	O
 
-1	Gaat	gaan	V	1	
-2	boos	boos	G	1	
-3	,	,	O	1	
-4	teleurgesteld	teleurstellen	V	1	
-5	met	met	P	1	
-6	een	een	D	1	
-7	bittere	bitter	G	1	
-8	nasmaak	nasmaak	N	1	
-9	weg	weg	A	1	
-10	.	.	O	1	
+1	Gaat	gaan	V	1	O
+2	boos	boos	G	1	O
+3	,	,	O	1	O
+4	teleurgesteld	teleurstellen	V	1	O
+5	met	met	P	1	O
+6	een	een	D	1	O
+7	bittere	bitter	G	1	O
+8	nasmaak	nasmaak	N	1	O
+9	weg	weg	A	1	O
+10	.	.	O	1	O
 
-1	Gegarandeerd	gegarandeerd	A	1	
-2	,	,	O	1	
-3	tenzij	tenzij	C	1	
-4	je	je	Q	1	
-5	zoetsappige	zoetsappig	G	1	
-6	verhaaltjes	verhaal	N	1	
-7	eigenaar	eigenaar	N	1	
-8	slikt	slikken	V	1	
-9	want	want	C	1	
-10	Peter	peter	R	1	ne=Person
-11	legt	leggen	V	1	
-12	alles	alles	Q	1	
-13	uit	uit	A	1	
-14	.	.	O	1	
+1	Gegarandeerd	gegarandeerd	A	1	O
+2	,	,	O	1	O
+3	tenzij	tenzij	C	1	O
+4	je	je	Q	1	O
+5	zoetsappige	zoetsappig	G	1	O
+6	verhaaltjes	verhaal	N	1	O
+7	eigenaar	eigenaar	N	1	O
+8	slikt	slikken	V	1	O
+9	want	want	C	1	O
+10	Peter	peter	R	1	I-Person
+11	legt	leggen	V	1	O
+12	alles	alles	Q	1	O
+13	uit	uit	A	1	O
+14	.	.	O	1	O
 
-1	Gaat	gaan	V	1	
-2	voorbij	voorbij	A	1	
-3	aan	aan	P	1	
-4	klantverwondering	klantverwondering	O	1	
-5	nodig	nodig	G	1	
-6	om	om	P	1	
-7	jouw	jouw	D	1	
-8	vakantie	vakantie	N	1	
-9	te	te	O	1	
-10	laten	laten	V	1	
-11	slagen	slagen	V	1	
-12	.	.	O	1	
+1	Gaat	gaan	V	1	O
+2	voorbij	voorbij	A	1	O
+3	aan	aan	P	1	O
+4	klantverwondering	klantverwondering	O	1	O
+5	nodig	nodig	G	1	O
+6	om	om	P	1	O
+7	jouw	jouw	D	1	O
+8	vakantie	vakantie	N	1	O
+9	te	te	O	1	O
+10	laten	laten	V	1	O
+11	slagen	slagen	V	1	O
+12	.	.	O	1	O
 
-1	Misplaatste	misplaatst	G	1	
-2	grappen	grap	N	1	
-3	over	over	P	1	
-4	jong	jong	G	1	
-5	vrouwelijk	vrouwelijk	G	1	
-6	personeel	personeel	N	1	
-7	achter	achter	A	1	
-8	bar	bar	G	1	
-9	,	,	O	1	
-10	rotte	rot	G	1	
-11	eieren	ei	N	1	
-12	stinkende	stinkend	G	1	
-13	cottages	cottages	O	1	
-14	,	,	O	1	
-15	Defecte	defect	G	1	
-16	aircos	aircos	O	1	
-17	,	,	O	1	
-18	Weinig	Weinig	O	1	
-19	of	of	C	1	
-20	geen	geen	D	1	
-21	vies	vies	G	1	
-22	bruin	bruin	G	1	
-23	water	water	N	1	
-24	uit	uit	P	1	
-25	kraan	kraan	N	1	
-26	/	/	O	1	
-27	douche	douche	N	1	
-28	,	,	O	1	
-29	Bijbetalen	Bijbetalen	O	1	
-30	voor	voor	P	1	
-31	extra	extra	G	1	
-32	koffie	koffie	N	1	
-33	plakje	plakje	O	1	
-34	kaas	kaas	N	1	
-35	/	/	O	1	
-36	worst	worst	N	1	
-37	bij	bij	P	1	
-38	ontbijt	ontbijt	N	1	
-39	,	,	O	1	
-40	Bijbetalen	Bijbetalen	O	1	
-41	voor	voor	P	1	
-42	door	door	P	1	
-43	barpersoneel	barpersoneel	O	1	
-44	aangeboden	aanbieden	V	1	
-45	pindas	pindas	O	1	
-46	,	,	O	1	
-47	Bijbetalen	bijbetalen	N	1	
-48	voor	voor	P	1	
-49	als	als	C	1	
-50	je	je	Q	1	
-51	meer	meer	A	1	
-52	dan	dan	C	1	
-53	een	een	D	1	
-54	halve	half	G	1	
-55	liter	liter	N	1	
-56	water	water	N	1	
-57	wenst	wensen	V	1	
-58	per	per	P	1	
-59	dag	dag	N	1	
-60	,	,	O	1	
-61	Ondanks	Ondanks	O	1	
-62	betaald	betalen	V	1	
-63	duikpakket	duikpakket	O	1	
-64	waar	waar	Q	1	
-65	alles	alles	Q	1	
-66	behalve	behalve	C	1	
-67	nitrox	nitrox	O	1	
-68	en	en	C	1	
-69	marineparkfees	marineparkfees	O	1	
-70	inzat	inzitten	V	1	
-71	,	,	O	1	
-72	extra	extra	G	1	
-73	onaangekondigde	onaangekondigd	G	1	
-74	toeslag	toeslag	N	1	
-75	,	,	O	1	
-76	Klanten	klant	N	1	
-77	duiken	duiken	V	1	
-78	nitrox	nitrox	O	1	
-79	,	,	O	1	
-80	staff	staff	O	1	
-81	duikt	duiken	V	1	
-82	lucht	luchten	V	1	
-83	omdat	omdat	C	1	
-84	ze	ze	Q	1	
-85	dat	dat	C	1	
-86	anders	anders	A	1	
-87	zelf	zelf	Q	1	
-88	moeten	moeten	V	1	
-89	betalen	betalen	V	1	
-90	,	,	O	1	
-91	Klanten	klant	N	1	
-92	krijgen	krijgen	V	1	
-93	water	water	N	1	
-94	en	en	C	1	
-95	vruchten	vrucht	N	1	
-96	aan	aan	P	1	
-97	boord	boord	N	1	
-98	,	,	O	1	
-99	staff	staff	O	1	
-100	mag	mogen	V	1	
-101	niks	niks	Q	1	
-102	van	van	P	1	
-103	pakken	pak	N	1	
-104	,	,	O	1	
-105	Eigenaar	eigenaar	N	1	
-106	kon	kunnen	V	1	
-107	het	het	Q	1	
-108	niet	niet	A	1	
-109	laten	laten	V	1	
-110	het	het	D	1	
-111	tweede	twee	O	1	
-112	resort	resort	O	1	
-113	dat	dat	C	1	
-114	we	we	Q	1	
-115	zouden	zullen	V	1	
-116	bezoeken	bezoek	N	1	
-117	te	te	O	1	
-118	bellen	bellen	V	1	
-119	met	met	P	1	
-120	de	de	D	1	
-121	mededeling	mededeling	N	1	
-122	dat	dat	C	1	
-123	er	er	Q	1	
-124	een	een	D	1	
-125	moeilijke	moeilijk	G	1	
-126	groep	groep	N	1	
-127	aan	aan	A	1	
-128	zou	zullen	V	1	
-129	komen	komen	V	1	
-130	.	.	O	1	
+1	Misplaatste	misplaatst	G	1	O
+2	grappen	grap	N	1	O
+3	over	over	P	1	O
+4	jong	jong	G	1	O
+5	vrouwelijk	vrouwelijk	G	1	O
+6	personeel	personeel	N	1	O
+7	achter	achter	A	1	O
+8	bar	bar	G	1	O
+9	,	,	O	1	O
+10	rotte	rot	G	1	O
+11	eieren	ei	N	1	O
+12	stinkende	stinkend	G	1	O
+13	cottages	cottages	O	1	O
+14	,	,	O	1	O
+15	Defecte	defect	G	1	O
+16	aircos	aircos	O	1	O
+17	,	,	O	1	O
+18	Weinig	Weinig	O	1	O
+19	of	of	C	1	O
+20	geen	geen	D	1	O
+21	vies	vies	G	1	O
+22	bruin	bruin	G	1	O
+23	water	water	N	1	O
+24	uit	uit	P	1	O
+25	kraan	kraan	N	1	O
+26	/	/	O	1	O
+27	douche	douche	N	1	O
+28	,	,	O	1	O
+29	Bijbetalen	Bijbetalen	O	1	O
+30	voor	voor	P	1	O
+31	extra	extra	G	1	O
+32	koffie	koffie	N	1	O
+33	plakje	plakje	O	1	O
+34	kaas	kaas	N	1	O
+35	/	/	O	1	O
+36	worst	worst	N	1	O
+37	bij	bij	P	1	O
+38	ontbijt	ontbijt	N	1	O
+39	,	,	O	1	O
+40	Bijbetalen	Bijbetalen	O	1	O
+41	voor	voor	P	1	O
+42	door	door	P	1	O
+43	barpersoneel	barpersoneel	O	1	O
+44	aangeboden	aanbieden	V	1	O
+45	pindas	pindas	O	1	O
+46	,	,	O	1	O
+47	Bijbetalen	bijbetalen	N	1	O
+48	voor	voor	P	1	O
+49	als	als	C	1	O
+50	je	je	Q	1	O
+51	meer	meer	A	1	O
+52	dan	dan	C	1	O
+53	een	een	D	1	O
+54	halve	half	G	1	O
+55	liter	liter	N	1	O
+56	water	water	N	1	O
+57	wenst	wensen	V	1	O
+58	per	per	P	1	O
+59	dag	dag	N	1	O
+60	,	,	O	1	O
+61	Ondanks	Ondanks	O	1	O
+62	betaald	betalen	V	1	O
+63	duikpakket	duikpakket	O	1	O
+64	waar	waar	Q	1	O
+65	alles	alles	Q	1	O
+66	behalve	behalve	C	1	O
+67	nitrox	nitrox	O	1	O
+68	en	en	C	1	O
+69	marineparkfees	marineparkfees	O	1	O
+70	inzat	inzitten	V	1	O
+71	,	,	O	1	O
+72	extra	extra	G	1	O
+73	onaangekondigde	onaangekondigd	G	1	O
+74	toeslag	toeslag	N	1	O
+75	,	,	O	1	O
+76	Klanten	klant	N	1	O
+77	duiken	duiken	V	1	O
+78	nitrox	nitrox	O	1	O
+79	,	,	O	1	O
+80	staff	staff	O	1	O
+81	duikt	duiken	V	1	O
+82	lucht	luchten	V	1	O
+83	omdat	omdat	C	1	O
+84	ze	ze	Q	1	O
+85	dat	dat	C	1	O
+86	anders	anders	A	1	O
+87	zelf	zelf	Q	1	O
+88	moeten	moeten	V	1	O
+89	betalen	betalen	V	1	O
+90	,	,	O	1	O
+91	Klanten	klant	N	1	O
+92	krijgen	krijgen	V	1	O
+93	water	water	N	1	O
+94	en	en	C	1	O
+95	vruchten	vrucht	N	1	O
+96	aan	aan	P	1	O
+97	boord	boord	N	1	O
+98	,	,	O	1	O
+99	staff	staff	O	1	O
+100	mag	mogen	V	1	O
+101	niks	niks	Q	1	O
+102	van	van	P	1	O
+103	pakken	pak	N	1	O
+104	,	,	O	1	O
+105	Eigenaar	eigenaar	N	1	O
+106	kon	kunnen	V	1	O
+107	het	het	Q	1	O
+108	niet	niet	A	1	O
+109	laten	laten	V	1	O
+110	het	het	D	1	O
+111	tweede	twee	O	1	O
+112	resort	resort	O	1	O
+113	dat	dat	C	1	O
+114	we	we	Q	1	O
+115	zouden	zullen	V	1	O
+116	bezoeken	bezoek	N	1	O
+117	te	te	O	1	O
+118	bellen	bellen	V	1	O
+119	met	met	P	1	O
+120	de	de	D	1	O
+121	mededeling	mededeling	N	1	O
+122	dat	dat	C	1	O
+123	er	er	Q	1	O
+124	een	een	D	1	O
+125	moeilijke	moeilijk	G	1	O
+126	groep	groep	N	1	O
+127	aan	aan	A	1	O
+128	zou	zullen	V	1	O
+129	komen	komen	V	1	O
+130	.	.	O	1	O
 

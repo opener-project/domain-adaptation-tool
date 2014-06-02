@@ -1,59 +1,59 @@
-1	Dieses	dies	Q	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	kein	keine	Q	1	
-5	Club	Club	N	1	
+1	Dieses	dies	Q	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	kein	keine	Q	1	O
+5	Club	Club	N	1	O
 
-1	DiesesHotel	DiesesHotel	O	1	
-2	war	sein	V	1	
-3	früher	früher	A	1	
-4	mal	mal	A	1	
-5	ein	eine	D	1	
-6	Club	Club	N	1	
-7	mit	mit	P	1	
-8	TOP	TOP	R	1	
-9	Annimation	Annimation	O	1	
-10	,	,	O	1	
-11	die	die	D	1	
-12	Anlage	Anlage	N	1	
-13	ist	sein	V	1	
-14	immer	immer	A	1	
-15	noch	noch	A	1	
-16	sehr	sehr	A	1	
-17	schön	schön	G	1	
-18	,	,	O	1	
-19	die	die	D	1	
-20	Sauberkeit	Sauberkeit	N	1	
-21	lässt	lassen	V	1	
-22	zu	zu	V	1	
-23	wünschen	wünschen	V	1	
-24	übrig	übrig	G	1	
-25	.	.	O	1	
+1	DiesesHotel	DiesesHotel	O	1	O
+2	war	sein	V	1	O
+3	früher	früher	A	1	O
+4	mal	mal	A	1	O
+5	ein	eine	D	1	O
+6	Club	Club	N	1	O
+7	mit	mit	P	1	O
+8	TOP	TOP	R	1	O
+9	Annimation	Annimation	O	1	O
+10	,	,	O	1	O
+11	die	die	D	1	O
+12	Anlage	Anlage	N	1	O
+13	ist	sein	V	1	O
+14	immer	immer	A	1	O
+15	noch	noch	A	1	O
+16	sehr	sehr	A	1	O
+17	schön	schön	G	1	O
+18	,	,	O	1	O
+19	die	die	D	1	O
+20	Sauberkeit	Sauberkeit	N	1	O
+21	lässt	lassen	V	1	O
+22	zu	zu	V	1	O
+23	wünschen	wünschen	V	1	O
+24	übrig	übrig	G	1	O
+25	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	hatten	haben	V	1	
-3	Halbpension	Halbpension	N	1	
-4	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	hatten	haben	V	1	O
+3	Halbpension	Halbpension	N	1	O
+4	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Gästestruktur	Gästestruktur	N	1	
-3	bestand	bestehen	V	1	
-4	aus	aus	P	1	
-5	einer	eine	D	1	
-6	Firmenveranstaltung	Firmenveranstaltung	O	1	
-7	eine	eine	D	1	
-8	Woche	Woche	N	1	
-9	danach	danach	Q	1	
-10	Schweizer	Schweizer	N	1	
-11	und	und	C	1	
-12	Italiener	Italiener	N	1	
-13	wenig	wenige	Q	1	
-14	Deutsche	Deutsche	N	1	
-15	.	.	O	1	
+1	Die	die	D	1	O
+2	Gästestruktur	Gästestruktur	N	1	O
+3	bestand	bestehen	V	1	O
+4	aus	aus	P	1	O
+5	einer	eine	D	1	O
+6	Firmenveranstaltung	Firmenveranstaltung	O	1	O
+7	eine	eine	D	1	O
+8	Woche	Woche	N	1	O
+9	danach	danach	Q	1	O
+10	Schweizer	Schweizer	N	1	O
+11	und	und	C	1	O
+12	Italiener	Italiener	N	1	O
+13	wenig	wenige	Q	1	O
+14	Deutsche	Deutsche	N	1	O
+15	.	.	O	1	O
 
-1	Altersdurchschnitt	Altersdurchschnitt	N	1	
-2	gemischt	gemischt	G	1	
-3	mehr	mehr	Q	1	
-4	ältere	alt	G	1	
-5	.	.	O	1	
+1	Altersdurchschnitt	Altersdurchschnitt	N	1	O
+2	gemischt	gemischt	G	1	O
+3	mehr	mehr	Q	1	O
+4	ältere	alt	G	1	O
+5	.	.	O	1	O
 

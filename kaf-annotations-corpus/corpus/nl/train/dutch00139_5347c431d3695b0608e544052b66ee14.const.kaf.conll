@@ -1,148 +1,148 @@
-1	Prima	prima	G	1	
-2	appartement	appartement	N	1	
-3	·	·	O	1	
-4	onaardige	onaardig	G	1	
-5	eigenaar	eigenaar	N	1	
+1	Prima	prima	G	1	O
+2	appartement	appartement	N	1	O
+3	·	·	O	1	O
+4	onaardige	onaardig	G	1	O
+5	eigenaar	eigenaar	N	1	O
 
-1	Appartementen	appartement	N	1	
-2	zijn	zijn	V	1	
-3	gedateerd	dateren	V	1	
-4	maar	maar	C	1	
-5	prima	prima	G	1	
-6	.	.	O	1	
+1	Appartementen	appartement	N	1	O
+2	zijn	zijn	V	1	O
+3	gedateerd	dateren	V	1	O
+4	maar	maar	C	1	O
+5	prima	prima	G	1	O
+6	.	.	O	1	O
 
-1	Handdoekenwissel	Handdoekenwissel	O	1	
-2	is	zijn	V	1	
-3	slechts	slechts	A	1	
-4	een	een	D	1	
-5	maal	maal	N	1	
-6	per	per	P	1	
-7	week	week	N	1	
-8	in	in	P	1	
-9	plaats	plaats	N	1	
-10	van	van	P	1	
-11	twee	twee	O	1	
-12	en	en	C	1	
-13	schoonmaak	schoonmaak	N	1	
-14	stelt	stellen	V	1	
-15	weinig	weinig	O	1	
-16	voor	voor	P	1	
-17	.	.	O	1	
+1	Handdoekenwissel	Handdoekenwissel	O	1	O
+2	is	zijn	V	1	O
+3	slechts	slechts	A	1	O
+4	een	een	D	1	O
+5	maal	maal	N	1	O
+6	per	per	P	1	O
+7	week	week	N	1	O
+8	in	in	P	1	O
+9	plaats	plaats	N	1	O
+10	van	van	P	1	O
+11	twee	twee	O	1	O
+12	en	en	C	1	O
+13	schoonmaak	schoonmaak	N	1	O
+14	stelt	stellen	V	1	O
+15	weinig	weinig	O	1	O
+16	voor	voor	P	1	O
+17	.	.	O	1	O
 
-1	In	in	P	1	
-2	t	t	N	1	
-3	complex	complex	N	1	
-4	zitten	zitten	V	1	
-5	veel	veel	A	1	
-6	gasten	gast|gasten	N	1	
-7	die	die	Q	1	
-8	dagelijks	dagelijks	G	1	
-9	eten	eten	V	1	
-10	bij	bij	P	1	
-11	George	George	O	1	
-12	en	en	C	1	
-13	dus	dus	A	1	
-14	bij	bij	P	1	
-15	hem	hem	Q	1	
-16	in	in	P	1	
-17	goede	goed	G	1	
-18	aarde	aarde	N	1	
-19	vallen	vallen	V	1	
-20	.	.	O	1	
+1	In	in	P	1	O
+2	t	t	N	1	O
+3	complex	complex	N	1	O
+4	zitten	zitten	V	1	O
+5	veel	veel	A	1	O
+6	gasten	gast|gasten	N	1	O
+7	die	die	Q	1	O
+8	dagelijks	dagelijks	G	1	O
+9	eten	eten	V	1	O
+10	bij	bij	P	1	O
+11	George	George	O	1	O
+12	en	en	C	1	O
+13	dus	dus	A	1	O
+14	bij	bij	P	1	O
+15	hem	hem	Q	1	O
+16	in	in	P	1	O
+17	goede	goed	G	1	O
+18	aarde	aarde	N	1	O
+19	vallen	vallen	V	1	O
+20	.	.	O	1	O
 
-1	Als	als	C	1	
-2	je	je	Q	1	
-3	dat	dat	Q	1	
-4	zoals	zoals	C	1	
-5	wij	wij	Q	1	
-6	niet	niet	A	1	
-7	doet	doen	V	1	
-8	dan	dan	C	1	
-9	is	zijn	V	1	
-10	hij	hij	Q	1	
-11	onaardig	onaardig	G	1	
-12	en	en	C	1	
-13	chagerijnig	chagerijnig	O	1	
-14	en	en	C	1	
-15	zeurt	zeuren	V	1	
-16	hij	hij	Q	1	
-17	over	over	P	1	
-18	de	de	D	1	
-19	kleinste	klein	G	1	
-20	dingen	ding	N	1	
-21	!	!	O	1	
+1	Als	als	C	1	O
+2	je	je	Q	1	O
+3	dat	dat	Q	1	O
+4	zoals	zoals	C	1	O
+5	wij	wij	Q	1	O
+6	niet	niet	A	1	O
+7	doet	doen	V	1	O
+8	dan	dan	C	1	O
+9	is	zijn	V	1	O
+10	hij	hij	Q	1	O
+11	onaardig	onaardig	G	1	O
+12	en	en	C	1	O
+13	chagerijnig	chagerijnig	O	1	O
+14	en	en	C	1	O
+15	zeurt	zeuren	V	1	O
+16	hij	hij	Q	1	O
+17	over	over	P	1	O
+18	de	de	D	1	O
+19	kleinste	klein	G	1	O
+20	dingen	ding	N	1	O
+21	!	!	O	1	O
 
-1	Kapotte	kapot	G	1	
-2	spullen	spul|spullen	N	1	
-3	worden	worden	V	1	
-4	niet	niet	A	1	
-5	gemaakt	maken	V	1	
-6	en	en	C	1	
-7	openstaande	openstaand	G	1	
-8	rekeningen	rekening	N	1	
-9	brengt	brengen	V	1	
-10	hij	hij	Q	1	
-11	dubbel	dubbel	G	1	
-12	in	in	P	1	
-13	rekening	rekening	N	1	
-14	.	.	O	1	
+1	Kapotte	kapot	G	1	O
+2	spullen	spul|spullen	N	1	O
+3	worden	worden	V	1	O
+4	niet	niet	A	1	O
+5	gemaakt	maken	V	1	O
+6	en	en	C	1	O
+7	openstaande	openstaand	G	1	O
+8	rekeningen	rekening	N	1	O
+9	brengt	brengen	V	1	O
+10	hij	hij	Q	1	O
+11	dubbel	dubbel	G	1	O
+12	in	in	P	1	O
+13	rekening	rekening	N	1	O
+14	.	.	O	1	O
 
-1	Het	het	D	1	
-2	Nederlandse	Nederlands	G	1	
-3	meisje	meisje	N	1	
-4	die	die	Q	1	
-5	bij	bij	P	1	
-6	de	de	D	1	
-7	familie	familie	N	1	
-8	hoort	horen	V	1	
-9	kan	kunnen	V	1	
-10	ook	ook	A	1	
-11	nog	nog	A	1	
-12	veel	veel	O	1	
-13	leren	leer	N	1	
-14	over	over	P	1	
-15	klantvriendelijkheid	klantvriendelijkheid	O	1	
-16	en	en	C	1	
-17	zeurt	zeuren	V	1	
-18	achter	achter	P	1	
-19	de	de	D	1	
-20	rug	rug	N	1	
-21	om	om	C	1	
-22	van	van	P	1	
-23	vaste	vast	G	1	
-24	gasten	gast|gasten	N	1	
-25	over	over	P	1	
-26	hen	hen	Q	1	
-27	.	.	O	1	
+1	Het	het	D	1	O
+2	Nederlandse	Nederlands	G	1	O
+3	meisje	meisje	N	1	O
+4	die	die	Q	1	O
+5	bij	bij	P	1	O
+6	de	de	D	1	O
+7	familie	familie	N	1	O
+8	hoort	horen	V	1	O
+9	kan	kunnen	V	1	O
+10	ook	ook	A	1	O
+11	nog	nog	A	1	O
+12	veel	veel	O	1	O
+13	leren	leer	N	1	O
+14	over	over	P	1	O
+15	klantvriendelijkheid	klantvriendelijkheid	O	1	O
+16	en	en	C	1	O
+17	zeurt	zeuren	V	1	O
+18	achter	achter	P	1	O
+19	de	de	D	1	O
+20	rug	rug	N	1	O
+21	om	om	C	1	O
+22	van	van	P	1	O
+23	vaste	vast	G	1	O
+24	gasten	gast|gasten	N	1	O
+25	over	over	P	1	O
+26	hen	hen	Q	1	O
+27	.	.	O	1	O
 
-1	Kortom	kortom	A	1	
-2	:	:	O	1	
-3	Corfu	Corfu	R	1	ne=Location
-4	is	zijn	V	1	
-5	zeker	zeker	G	1	
-6	n	n	N	1	
-7	aanrader	aanrader	N	1	
-8	als	als	C	1	
-9	je	je	Q	1	
-10	n	n	N	1	
-11	auto	auto	N	1	
-12	huurt	huren	V	1	
-13	en	en	C	1	
-14	er	er	Q	1	
-15	lekker	lekker	A	1	
-16	op	op	A	1	
-17	uit	uit	A	1	
-18	trekt	trekken	V	1	
-19	maar	maar	C	1	
-20	Matraki	Matraki	R	1	ne=Location
-21	voor	voor	P	1	
-22	ons	ons	Q	1	
-23	nooit	nooit	A	1	
-24	meer	meer	A	1	
-25	met	met	P	1	
-26	dank	dank	N	1	
-27	aan	aan	P	1	
-28	George	George	O	1	
-29	!	!	O	1	
-30	!	!	O	1	
+1	Kortom	kortom	A	1	O
+2	:	:	O	1	O
+3	Corfu	Corfu	R	1	I-Location
+4	is	zijn	V	1	O
+5	zeker	zeker	G	1	O
+6	n	n	N	1	O
+7	aanrader	aanrader	N	1	O
+8	als	als	C	1	O
+9	je	je	Q	1	O
+10	n	n	N	1	O
+11	auto	auto	N	1	O
+12	huurt	huren	V	1	O
+13	en	en	C	1	O
+14	er	er	Q	1	O
+15	lekker	lekker	A	1	O
+16	op	op	A	1	O
+17	uit	uit	A	1	O
+18	trekt	trekken	V	1	O
+19	maar	maar	C	1	O
+20	Matraki	Matraki	R	1	I-Location
+21	voor	voor	P	1	O
+22	ons	ons	Q	1	O
+23	nooit	nooit	A	1	O
+24	meer	meer	A	1	O
+25	met	met	P	1	O
+26	dank	dank	N	1	O
+27	aan	aan	P	1	O
+28	George	George	O	1	O
+29	!	!	O	1	O
+30	!	!	O	1	O
 

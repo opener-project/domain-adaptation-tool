@@ -1,101 +1,101 @@
-1	Finde	Finde	R	1	
-2	bien	bien	N	1	
-3	aprovechado	aprovechado	N	1	
+1	Finde	Finde	R	1	O
+2	bien	bien	N	1	O
+3	aprovechado	aprovechado	N	1	O
 
-1	Situación	Situación	R	1	
-2	excelente	excelente	V	1	
-3	,	,	O	1	
-4	Si	Si	R	1	
-5	eres	eres	V	1	
-6	de	de	P	1	
-7	caminar	caminar	N	1	
-8	recorres	recorres	N	1	
-9	todo	todo	P	1	
-10	el	el	N	1	
-11	centro	centro	N	1	
-12	comercial	comercial	G	1	
-13	,	,	O	1	
-14	cultural	cultural	G	1	
-15	y	y	G	1	
-16	gastronómico	gastronómico	N	1	
-17	en	en	P	1	
-18	un	un	G	1	
-19	radio	radio	N	1	
-20	de	de	P	1	
-21	4	4	O	1	
-22	a	a	D	1	
-23	5	5	O	1	
-24	km	km	N	1	
-25	.	.	O	1	
+1	Situación	Situación	R	1	O
+2	excelente	excelente	V	1	O
+3	,	,	O	1	O
+4	Si	Si	R	1	O
+5	eres	eres	V	1	O
+6	de	de	P	1	O
+7	caminar	caminar	N	1	O
+8	recorres	recorres	N	1	O
+9	todo	todo	P	1	O
+10	el	el	N	1	O
+11	centro	centro	N	1	O
+12	comercial	comercial	G	1	O
+13	,	,	O	1	O
+14	cultural	cultural	G	1	O
+15	y	y	G	1	O
+16	gastronómico	gastronómico	N	1	O
+17	en	en	P	1	O
+18	un	un	G	1	O
+19	radio	radio	N	1	O
+20	de	de	P	1	O
+21	4	4	O	1	O
+22	a	a	D	1	O
+23	5	5	O	1	O
+24	km	km	N	1	O
+25	.	.	O	1	O
 
-1	Si	Si	R	1	
-2	lo	lo	A	1	
-3	prefieres	prefieres	N	1	
-4	puedes	puedes	V	1	
-5	utilizar	utilizar	G	1	
-6	el	el	N	1	
-7	Bus	bus	N	1	
-8	Turístico	Turístico	R	1	
-9	con	con	A	1	
-10	una	una	G	1	
-11	parada	parada	N	1	
-12	a	a	D	1	
-13	uno	uno	G	1	
-14	ciento	ciento	N	1	
-15	cincuenta	cincuenta	N	1	
-16	metros	metro	N	1	
-17	.	.	O	1	
+1	Si	Si	R	1	O
+2	lo	lo	A	1	O
+3	prefieres	prefieres	N	1	O
+4	puedes	puedes	V	1	O
+5	utilizar	utilizar	G	1	O
+6	el	el	N	1	O
+7	Bus	bus	N	1	O
+8	Turístico	Turístico	R	1	O
+9	con	con	A	1	O
+10	una	una	G	1	O
+11	parada	parada	N	1	O
+12	a	a	D	1	O
+13	uno	uno	G	1	O
+14	ciento	ciento	N	1	O
+15	cincuenta	cincuenta	N	1	O
+16	metros	metro	N	1	O
+17	.	.	O	1	O
 
-1	Al	Al	R	1	
-2	final	final	G	1	
-3	te	te	N	1	
-4	metes	mete	V	1	
-5	en	en	P	1	
-6	el	el	N	1	
-7	Spa	Spa	R	1	
-8	aunque	aunque	G	1	
-9	pequeño	pequeño	N	1	
-10	y	y	G	1	
-11	sales	sale	N	1	
-12	como	como	N	1	
-13	nuevo	nuevo	N	1	
-14	.	.	O	1	
+1	Al	Al	R	1	O
+2	final	final	G	1	O
+3	te	te	N	1	O
+4	metes	mete	V	1	O
+5	en	en	P	1	O
+6	el	el	N	1	O
+7	Spa	Spa	R	1	O
+8	aunque	aunque	G	1	O
+9	pequeño	pequeño	N	1	O
+10	y	y	G	1	O
+11	sales	sale	N	1	O
+12	como	como	N	1	O
+13	nuevo	nuevo	N	1	O
+14	.	.	O	1	O
 
-1	No	no	D	1	
-2	tiene	tiene	N	1	
-3	parking	parking	N	1	
-4	pero	pero	P	1	
-5	a	a	D	1	
-6	las	las	G	1	
-7	espaldas	espaldas	N	1	
-8	hay	hay	V	1	
-9	uno	uno	G	1	
-10	público	público	N	1	
-11	con	con	A	1	
-12	descuento	descuento	P	1	
-13	del	del	G	1	
-14	20	20	O	1	
-15	%	%	N	1	
-16	por	por	N	1	
-17	ser	ser	N	1	
-18	cliente	cliente	N	1	
-19	del	del	G	1	
-20	hotel	hotel	N	1	
-21	,	,	O	1	
-22	aunque	aunque	N	1	
-23	sale	sale	N	1	
-24	algo	algo	P	1	
-25	caro	caro	N	1	
-26	"	"	N	1	
-27	50,40	50,40	O	1	
-28	€	€	N	1	
-29	por	por	N	1	
-30	un	un	G	1	
-31	día	día	N	1	
-32	veintitrés	veintitrés	N	1	
-33	horas	horas	N	1	
-34	y	y	G	1	
-35	cuatro	cuatro	N	1	
-36	minutos	minutos	N	1	
-37	"	"	V	1	
+1	No	no	D	1	O
+2	tiene	tiene	N	1	O
+3	parking	parking	N	1	O
+4	pero	pero	P	1	O
+5	a	a	D	1	O
+6	las	las	G	1	O
+7	espaldas	espaldas	N	1	O
+8	hay	hay	V	1	O
+9	uno	uno	G	1	O
+10	público	público	N	1	O
+11	con	con	A	1	O
+12	descuento	descuento	P	1	O
+13	del	del	G	1	O
+14	20	20	O	1	O
+15	%	%	N	1	O
+16	por	por	N	1	O
+17	ser	ser	N	1	O
+18	cliente	cliente	N	1	O
+19	del	del	G	1	O
+20	hotel	hotel	N	1	O
+21	,	,	O	1	O
+22	aunque	aunque	N	1	O
+23	sale	sale	N	1	O
+24	algo	algo	P	1	O
+25	caro	caro	N	1	O
+26	"	"	N	1	O
+27	50,40	50,40	O	1	O
+28	€	€	N	1	O
+29	por	por	N	1	O
+30	un	un	G	1	O
+31	día	día	N	1	O
+32	veintitrés	veintitrés	N	1	O
+33	horas	horas	N	1	O
+34	y	y	G	1	O
+35	cuatro	cuatro	N	1	O
+36	minutos	minutos	N	1	O
+37	"	"	V	1	O
 

@@ -1,57 +1,57 @@
-1	Senza	senza	P	1	
-2	infamia	infamia	N	1	
-3	e	e	Q	1	
-4	senza	senza	P	1	
-5	lode	lode	N	1	
+1	Senza	senza	P	1	O
+2	infamia	infamia	N	1	O
+3	e	e	Q	1	O
+4	senza	senza	P	1	O
+5	lode	lode	N	1	O
 
-1	Questo	questo	G	1	
-2	hotel	hotel	N	1	
-3	non	non	A	1	
-4	ha	avere	V	1	
-5	nulla	nulla	N	1	
-6	di	di	P	1	
-7	particolare	particolare	N	1	
-8	che	che	Q	1	
-9	meriti	meritare	V	1	
-10	di	di	P	1	
-11	essere	essera	N	1	
-12	ricordato	ricordare	V	1	
-13	.	.	O	1	
+1	Questo	questo	G	1	O
+2	hotel	hotel	N	1	O
+3	non	non	A	1	O
+4	ha	avere	V	1	O
+5	nulla	nulla	N	1	O
+6	di	di	P	1	O
+7	particolare	particolare	N	1	O
+8	che	che	Q	1	O
+9	meriti	meritare	V	1	O
+10	di	di	P	1	O
+11	essere	essera	N	1	O
+12	ricordato	ricordare	V	1	O
+13	.	.	O	1	O
 
-1	Unico	unico	G	1	
-2	ricordo	ricordo	N	1	
-3	:	:	O	1	
-4	un	uno	D	1	
-5	giro	giro	N	1	
-6	attraverso	attraverso	P	1	
-7	i	lo	D	1	
-8	ballatoi	ballatoio	N	1	
-9	dei	dei	P	1	
-10	piani	piano	G	1	
-11	superiori	superiore	N	1	
-12	,	,	O	1	
-13	causa	causa	N	1	
-14	lavori	lavoro	N	1	
-15	all'	all'	P	1	
-16	ascensore	ascensore	N	1	
-17	principale	principale	G	1	
-18	.	.	O	1	
+1	Unico	unico	G	1	O
+2	ricordo	ricordo	N	1	O
+3	:	:	O	1	O
+4	un	uno	D	1	O
+5	giro	giro	N	1	O
+6	attraverso	attraverso	P	1	O
+7	i	lo	D	1	O
+8	ballatoi	ballatoio	N	1	O
+9	dei	dei	P	1	O
+10	piani	piano	G	1	O
+11	superiori	superiore	N	1	O
+12	,	,	O	1	O
+13	causa	causa	N	1	O
+14	lavori	lavoro	N	1	O
+15	all'	all'	P	1	O
+16	ascensore	ascensore	N	1	O
+17	principale	principale	G	1	O
+18	.	.	O	1	O
 
-1	Unico	unico	G	1	
-2	OTTIMO	ottimo	N	1	
-3	:	:	O	1	
-4	la	lo	D	1	
-5	vicinanza	vicinanza	N	1	
-6	con	con	P	1	
-7	il	lo	D	1	
-8	ristorante	ristorante	N	1	
-9	all'	all'	P	1	
-10	angolo	angolo	A	1	
-11	dove	dove	Q	1	
-12	ho	avere	V	1	
-13	consumato	consumare	V	1	
-14	una	uno	D	1	
-15	cena	cena	N	1	
-16	eccellente	eccellere	V	1	
-17	.	.	O	1	
+1	Unico	unico	G	1	O
+2	OTTIMO	ottimo	N	1	O
+3	:	:	O	1	O
+4	la	lo	D	1	O
+5	vicinanza	vicinanza	N	1	O
+6	con	con	P	1	O
+7	il	lo	D	1	O
+8	ristorante	ristorante	N	1	O
+9	all'	all'	P	1	O
+10	angolo	angolo	A	1	O
+11	dove	dove	Q	1	O
+12	ho	avere	V	1	O
+13	consumato	consumare	V	1	O
+14	una	uno	D	1	O
+15	cena	cena	N	1	O
+16	eccellente	eccellere	V	1	O
+17	.	.	O	1	O
 

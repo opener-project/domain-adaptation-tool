@@ -1,57 +1,57 @@
-1	Hermosas	Hermosas	R	1	
-2	vacaciones	vacaciones	N	1	
-3	!	!	O	1	
+1	Hermosas	Hermosas	R	1	O
+2	vacaciones	vacaciones	N	1	O
+3	!	!	O	1	O
 
-1	la	la	D	1	
-2	verdad	verdad	G	1	
-3	pasamos	pasamos	N	1	
-4	unos	unos	N	1	
-5	dias	dias	N	1	
-6	divinos	divinos	N	1	
-7	,	,	O	1	
-8	el	el	N	1	
-9	hotel	hotel	N	1	
-10	es	es	V	1	
-11	genial	genial	G	1	
-12	,	,	O	1	
-13	los	los	N	1	
-14	chicos	chicos	N	1	
-15	la	la	D	1	
-16	pasaron	pasaron	N	1	
-17	babaro	babaro	N	1	
-18	y	y	G	1	
-19	mi	mi	N	1	
-20	marido	marido	V	1	
-21	feliz	feliz	N	1	
-22	con	con	A	1	
-23	el	el	N	1	
-24	gimnasio	gimnasio	N	1	
-25	y	y	G	1	
-26	el	el	N	1	
-27	spa	spa	N	1	
-28	,	,	O	1	
-29	y	y	G	1	
-30	yo	yo	N	1	
-31	con	con	A	1	
-32	un	un	G	1	
-33	libro	libro	N	1	
-34	en	en	P	1	
-35	la	la	D	1	
-36	playa	playa	N	1	
-37	,	,	O	1	
-38	en	en	P	1	
-39	este	este	N	1	
-40	hotel	hotel	N	1	
-41	espacio	espacio	N	1	
-42	y	y	G	1	
-43	actividades	actividades	N	1	
-44	para	para	N	1	
-45	todos	todos	N	1	
-46	lo	lo	V	1	
-47	super	super	G	1	
-48	recomiendo	recomiendo	N	1	
-49	para	para	N	1	
-50	ir	ir	Q	1	
-51	en	en	O	1	
-52	familia	familia	O	1	
+1	la	la	D	1	O
+2	verdad	verdad	G	1	O
+3	pasamos	pasamos	N	1	O
+4	unos	unos	N	1	O
+5	dias	dias	N	1	O
+6	divinos	divinos	N	1	O
+7	,	,	O	1	O
+8	el	el	N	1	O
+9	hotel	hotel	N	1	O
+10	es	es	V	1	O
+11	genial	genial	G	1	O
+12	,	,	O	1	O
+13	los	los	N	1	O
+14	chicos	chicos	N	1	O
+15	la	la	D	1	O
+16	pasaron	pasaron	N	1	O
+17	babaro	babaro	N	1	O
+18	y	y	G	1	O
+19	mi	mi	N	1	O
+20	marido	marido	V	1	O
+21	feliz	feliz	N	1	O
+22	con	con	A	1	O
+23	el	el	N	1	O
+24	gimnasio	gimnasio	N	1	O
+25	y	y	G	1	O
+26	el	el	N	1	O
+27	spa	spa	N	1	O
+28	,	,	O	1	O
+29	y	y	G	1	O
+30	yo	yo	N	1	O
+31	con	con	A	1	O
+32	un	un	G	1	O
+33	libro	libro	N	1	O
+34	en	en	P	1	O
+35	la	la	D	1	O
+36	playa	playa	N	1	O
+37	,	,	O	1	O
+38	en	en	P	1	O
+39	este	este	N	1	O
+40	hotel	hotel	N	1	O
+41	espacio	espacio	N	1	O
+42	y	y	G	1	O
+43	actividades	actividades	N	1	O
+44	para	para	N	1	O
+45	todos	todos	N	1	O
+46	lo	lo	V	1	O
+47	super	super	G	1	O
+48	recomiendo	recomiendo	N	1	O
+49	para	para	N	1	O
+50	ir	ir	Q	1	O
+51	en	en	O	1	O
+52	familia	familia	O	1	O
 

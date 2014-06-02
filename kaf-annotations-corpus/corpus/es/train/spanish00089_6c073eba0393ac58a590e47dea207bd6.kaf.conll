@@ -1,81 +1,81 @@
-1	Bir	Bir	R	1	
-2	daha	daha	N	1	
-3	asla	asla	N	1	
-4	gitmem	gitmem	N	1	
+1	Bir	Bir	R	1	O
+2	daha	daha	N	1	O
+3	asla	asla	N	1	O
+4	gitmem	gitmem	N	1	O
 
-1	Gecen	Gecen	R	1	
-2	yil	yil	N	1	
-3	Paloma	Paloma	R	1	
-4	otel	otel	O	1	
-5	zincirine	zincirine	V	1	
-6	dahil	dahil	G	1	
-7	olan	olan	G	1	
-8	bu	bu	N	1	
-9	otel	otel	N	1	
-10	malesef	malesef	G	1	
-11	bu	bu	N	1	
-12	yil	yil	N	1	
-13	sahibine	sahibine	G	1	
-14	devroldu	devroldu	N	1	
-15	ve	ve	V	1	
-16	beraberinde	beraberinde	G	1	
-17	bir	bir	N	1	
-18	suru	suru	N	1	
-19	problemi	problemi	N	1	
-20	getirdi	getirdi	V	1	
-21	En	en	G	1	
-22	onemlisi	onemlisi	N	1	
-23	oteldeki	oteldeki	V	1	
-24	bariz	bariz	N	1	
-25	yonetim	yonetim	G	1	
-26	eksikligi	eksikligi	N	1	
-27	Musteri	Musteri	R	1	
-28	iliskilerinin	iliskilerinin	N	1	
-29	cozemedigi	cozemedigi	O	1	
-30	yada	yada	V	1	
-31	basindan	basindan	G	1	
-32	savmak	savmak	N	1	
-33	istedigi	istedigi	V	1	
-34	bir	bir	N	1	
-35	konu	konu	N	1	
-36	icin	icin	N	1	
-37	Genel	Genel	R	1	
-38	Mudur	Mudur	R	1	
-39	(	(	O	1	
-40	Erhan	Erhan	R	1	
-41	Beyle	Beyle	R	1	
-42	)	)	O	1	
-43	ile	ile	G	1	
-44	gorusmek	gorusmek	N	1	
-45	istedik	istedik	N	1	
-46	,	,	O	1	
-47	5	5	O	1	
-48	dakika	dakika	N	1	
-49	bizi	bizi	G	1	
-50	dinlemedi	dinlemedi	N	1	
-51	bile	bile	N	1	
-52	,	,	O	1	
-53	Musteri	Musteri	R	1	
-54	iliskileri	iliskileri	V	1	
-55	mudiresinin	mudiresinin	G	1	
-56	cevabi	cevabi	N	1	
-57	Erhan	Erhan	R	1	
-58	Bey	Bey	R	1	
-59	konuya	konuya	N	1	
-60	dahil	dahil	N	1	
-61	olmak	olmak	V	1	
-62	istemiyor	istemiyor	N	1	
-63	oldu.Cok	oldu.cok	G	1	
-64	yazik	yazik	N	1	
-65	.	.	O	1	
+1	Gecen	Gecen	R	1	O
+2	yil	yil	N	1	O
+3	Paloma	Paloma	R	1	O
+4	otel	otel	O	1	O
+5	zincirine	zincirine	V	1	O
+6	dahil	dahil	G	1	O
+7	olan	olan	G	1	O
+8	bu	bu	N	1	O
+9	otel	otel	N	1	O
+10	malesef	malesef	G	1	O
+11	bu	bu	N	1	O
+12	yil	yil	N	1	O
+13	sahibine	sahibine	G	1	O
+14	devroldu	devroldu	N	1	O
+15	ve	ve	V	1	O
+16	beraberinde	beraberinde	G	1	O
+17	bir	bir	N	1	O
+18	suru	suru	N	1	O
+19	problemi	problemi	N	1	O
+20	getirdi	getirdi	V	1	O
+21	En	en	G	1	O
+22	onemlisi	onemlisi	N	1	O
+23	oteldeki	oteldeki	V	1	O
+24	bariz	bariz	N	1	O
+25	yonetim	yonetim	G	1	O
+26	eksikligi	eksikligi	N	1	O
+27	Musteri	Musteri	R	1	O
+28	iliskilerinin	iliskilerinin	N	1	O
+29	cozemedigi	cozemedigi	O	1	O
+30	yada	yada	V	1	O
+31	basindan	basindan	G	1	O
+32	savmak	savmak	N	1	O
+33	istedigi	istedigi	V	1	O
+34	bir	bir	N	1	O
+35	konu	konu	N	1	O
+36	icin	icin	N	1	O
+37	Genel	Genel	R	1	O
+38	Mudur	Mudur	R	1	O
+39	(	(	O	1	O
+40	Erhan	Erhan	R	1	O
+41	Beyle	Beyle	R	1	O
+42	)	)	O	1	O
+43	ile	ile	G	1	O
+44	gorusmek	gorusmek	N	1	O
+45	istedik	istedik	N	1	O
+46	,	,	O	1	O
+47	5	5	O	1	O
+48	dakika	dakika	N	1	O
+49	bizi	bizi	G	1	O
+50	dinlemedi	dinlemedi	N	1	O
+51	bile	bile	N	1	O
+52	,	,	O	1	O
+53	Musteri	Musteri	R	1	O
+54	iliskileri	iliskileri	V	1	O
+55	mudiresinin	mudiresinin	G	1	O
+56	cevabi	cevabi	N	1	O
+57	Erhan	Erhan	R	1	O
+58	Bey	Bey	R	1	O
+59	konuya	konuya	N	1	O
+60	dahil	dahil	N	1	O
+61	olmak	olmak	V	1	O
+62	istemiyor	istemiyor	N	1	O
+63	oldu.Cok	oldu.cok	G	1	O
+64	yazik	yazik	N	1	O
+65	.	.	O	1	O
 
-1	Gorgugum	Gorgugum	R	1	
-2	en	en	O	1	
-3	kotu	kotu	O	1	
-4	yemekler	yemekler	O	1	
-5	buradaydi.Peyzaj	buradaydi.peyzaj	O	1	
-6	ve	ve	O	1	
-7	konum	konum	O	1	
-8	cok	cok	O	1	
-9	iyi	iyi	O	1	
+1	Gorgugum	Gorgugum	R	1	O
+2	en	en	O	1	O
+3	kotu	kotu	O	1	O
+4	yemekler	yemekler	O	1	O
+5	buradaydi.Peyzaj	buradaydi.peyzaj	O	1	O
+6	ve	ve	O	1	O
+7	konum	konum	O	1	O
+8	cok	cok	O	1	O
+9	iyi	iyi	O	1	O
 

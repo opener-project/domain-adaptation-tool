@@ -1,56 +1,56 @@
-1	Très	Très	G	1	
-2	bel	beau	G	1	
-3	hôtel	hôtel	N	1	
+1	Très	Très	G	1	O
+2	bel	beau	G	1	O
+3	hôtel	hôtel	N	1	O
 
-1	très	très	G	1	
-2	belle	beau	G	1	
-3	hôtel	hôtel	N	1	
-4	,	,	O	1	
-5	sérieux	sérieux	N	1	
-6	et	et	C	1	
-7	propre	propre	G	1	
-8	.	.	O	1	
+1	très	très	G	1	O
+2	belle	beau	G	1	O
+3	hôtel	hôtel	N	1	O
+4	,	,	O	1	O
+5	sérieux	sérieux	N	1	O
+6	et	et	C	1	O
+7	propre	propre	G	1	O
+8	.	.	O	1	O
 
-1	Je	Je	Q	1	
-2	trouve	trouver	V	1	
-3	que	que	C	1	
-4	rien	rien	P	1	
-5	n'	n'	G	1	
-6	est	est	Q	1	
-7	a	avoir	V	1	
-8	changer	changer	V	1	
-9	.	.	O	1	
+1	Je	Je	Q	1	O
+2	trouve	trouver	V	1	O
+3	que	que	C	1	O
+4	rien	rien	P	1	O
+5	n'	n'	G	1	O
+6	est	est	Q	1	O
+7	a	avoir	V	1	O
+8	changer	changer	V	1	O
+9	.	.	O	1	O
 
-1	Les	le	D	1	
-2	service	service	N	1	
-3	sont	être	V	1	
-4	magnifique	magnifique	N	1	
-5	.	.	O	1	
+1	Les	le	D	1	O
+2	service	service	N	1	O
+3	sont	être	V	1	O
+4	magnifique	magnifique	N	1	O
+5	.	.	O	1	O
 
-1	Je	Je	Q	1	
-2	revient	revenir	V	1	
-3	au	au	P	1	
-4	plus	plus	G	1	
-5	vite	vite	G	1	
-6	car	car	C	1	
-7	j'	j'	Q	1	
-8	ai	avoir	V	1	
-9	bien	bien	G	1	
-10	aimer	aimer	V	1	
-11	cette	ce	D	1	
-12	hôtel	hôtel	N	1	
-13	et	et	C	1	
-14	ce	ce	Q	1	
-15	service	service	N	1	
-16	.	.	O	1	
+1	Je	Je	Q	1	O
+2	revient	revenir	V	1	O
+3	au	au	P	1	O
+4	plus	plus	G	1	O
+5	vite	vite	G	1	O
+6	car	car	C	1	O
+7	j'	j'	Q	1	O
+8	ai	avoir	V	1	O
+9	bien	bien	G	1	O
+10	aimer	aimer	V	1	O
+11	cette	ce	D	1	O
+12	hôtel	hôtel	N	1	O
+13	et	et	C	1	O
+14	ce	ce	Q	1	O
+15	service	service	N	1	O
+16	.	.	O	1	O
 
-1	Un	un	D	1	
-2	grand	grand	G	1	
-3	bravo	bravo	N	1	
-4	et	et	C	1	
-5	un	un	D	1	
-6	gros	gros	G	1	
-7	merci	merci	N	1	
-8	a	avoir	V	1	
-9	tous	tous	P	1	
+1	Un	un	D	1	O
+2	grand	grand	G	1	O
+3	bravo	bravo	N	1	O
+4	et	et	C	1	O
+5	un	un	D	1	O
+6	gros	gros	G	1	O
+7	merci	merci	N	1	O
+8	a	avoir	V	1	O
+9	tous	tous	P	1	O
 

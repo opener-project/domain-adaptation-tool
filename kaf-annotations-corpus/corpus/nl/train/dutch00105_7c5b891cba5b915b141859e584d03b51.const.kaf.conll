@@ -1,148 +1,148 @@
-1	Verrassing	verrassing	N	1	
-2	in	in	P	1	
-3	Brielle	Brielle	R	1	ne=Location
+1	Verrassing	verrassing	N	1	O
+2	in	in	P	1	O
+3	Brielle	Brielle	R	1	I-Location
 
-1	tweede	twee	O	1	
-2	keer	keer	N	1	
-3	voor	voor	P	1	
-4	mij	mij	Q	1	
-5	dat	dat	C	1	
-6	ik	ik	Q	1	
-7	in	in	P	1	
-8	een	een	D	1	
-9	fletcher	fletcher	O	1	
-10	hotel	hotel	N	1	
-11	verblijf	verblijf	N	1	
-12	en	en	C	1	
-13	ik	ik	Q	1	
-14	ben	zijn	V	1	
-15	weer	weer	A	1	
-16	zeer	zeer	G	1	
-17	verbaasd	verbazen	V	1	
-18	wat	wat	Q	1	
-19	een	een	D	1	
-20	leuk	leuk	G	1	
-21	,	,	O	1	
-22	schattig	schattig	G	1	
-23	karaktervol	karaktervol	O	1	
-24	hoteletje	hoteletje	O	1	
-25	die	die	Q	1	
-26	je	je	Q	1	
-27	steeds	steeds	A	1	
-28	minder	min	G	1	
-29	kan	kunnen	V	1	
-30	terugvinden	terugvinden	V	1	
-31	in	in	P	1	
-32	Nederland	Nederland	R	1	ne=Location
-33	.	.	O	1	
+1	tweede	twee	O	1	O
+2	keer	keer	N	1	O
+3	voor	voor	P	1	O
+4	mij	mij	Q	1	O
+5	dat	dat	C	1	O
+6	ik	ik	Q	1	O
+7	in	in	P	1	O
+8	een	een	D	1	O
+9	fletcher	fletcher	O	1	O
+10	hotel	hotel	N	1	O
+11	verblijf	verblijf	N	1	O
+12	en	en	C	1	O
+13	ik	ik	Q	1	O
+14	ben	zijn	V	1	O
+15	weer	weer	A	1	O
+16	zeer	zeer	G	1	O
+17	verbaasd	verbazen	V	1	O
+18	wat	wat	Q	1	O
+19	een	een	D	1	O
+20	leuk	leuk	G	1	O
+21	,	,	O	1	O
+22	schattig	schattig	G	1	O
+23	karaktervol	karaktervol	O	1	O
+24	hoteletje	hoteletje	O	1	O
+25	die	die	Q	1	O
+26	je	je	Q	1	O
+27	steeds	steeds	A	1	O
+28	minder	min	G	1	O
+29	kan	kunnen	V	1	O
+30	terugvinden	terugvinden	V	1	O
+31	in	in	P	1	O
+32	Nederland	Nederland	R	1	I-Location
+33	.	.	O	1	O
 
-1	Zeer	zeer	G	1	
-2	leuke	leuk	G	1	
-3	ligging	ligging	N	1	
-4	midden	midden	A	1	
-5	in	in	P	1	
-6	het	het	D	1	
-7	centrum	centrum	N	1	
-8	met	met	P	1	
-9	veel	veel	O	1	
-10	barretjes	barretjes	O	1	
-11	vlak	vlak	N	1	
-12	bij	bij	P	1	
-13	.	.	O	1	
+1	Zeer	zeer	G	1	O
+2	leuke	leuk	G	1	O
+3	ligging	ligging	N	1	O
+4	midden	midden	A	1	O
+5	in	in	P	1	O
+6	het	het	D	1	O
+7	centrum	centrum	N	1	O
+8	met	met	P	1	O
+9	veel	veel	O	1	O
+10	barretjes	barretjes	O	1	O
+11	vlak	vlak	N	1	O
+12	bij	bij	P	1	O
+13	.	.	O	1	O
 
-1	Maar	maar	A	1	
-2	vergeet	vergeten	V	1	
-3	die	die	Q	1	
-4	van	van	P	1	
-5	het	het	D	1	
-6	hotel	hotel	N	1	
-7	ook	ook	A	1	
-8	niet	niet	A	1	
-9	zeer	zeer	G	1	
-10	de	de	D	1	
-11	moeite	moeite	N	1	
-12	waard.	waard	G	1	
-13	waard.	.	O	1	
-14	zeker	zeker	G	1	
-15	door	door	P	1	
-16	de	de	D	1	
-17	vriendelijk	vriendelijk	G	1	
-18	van	van	P	1	
-19	het	het	D	1	
-20	zeer	zeer	G	1	
-21	vakbekwame	vakbekwaam	G	1	
-22	personeel	personeel	N	1	
-23	.	.	O	1	
+1	Maar	maar	A	1	O
+2	vergeet	vergeten	V	1	O
+3	die	die	Q	1	O
+4	van	van	P	1	O
+5	het	het	D	1	O
+6	hotel	hotel	N	1	O
+7	ook	ook	A	1	O
+8	niet	niet	A	1	O
+9	zeer	zeer	G	1	O
+10	de	de	D	1	O
+11	moeite	moeite	N	1	O
+12	waard.	waard	G	1	O
+13	waard.	.	O	1	O
+14	zeker	zeker	G	1	O
+15	door	door	P	1	O
+16	de	de	D	1	O
+17	vriendelijk	vriendelijk	G	1	O
+18	van	van	P	1	O
+19	het	het	D	1	O
+20	zeer	zeer	G	1	O
+21	vakbekwame	vakbekwaam	G	1	O
+22	personeel	personeel	N	1	O
+23	.	.	O	1	O
 
-1	mischien	mischien	O	1	
-2	inrichting	inrichting	N	1	
-3	iets	iets	A	1	
-4	oudbolligs	oudbolligs	O	1	
-5	maar	maar	C	1	
-6	hoort	horen	V	1	
-7	eigenlijk	eigenlijk	G	1	
-8	wel	wel	A	1	
-9	bij	bij	P	1	
-10	dit	dit	D	1	
-11	stadje.	stad	N	1	
-12	stadje.	.	O	1	
-13	maakt	maken	V	1	
-14	alles	alles	Q	1	
-15	compleet	compleet	G	1	
-16	.	.	O	1	
+1	mischien	mischien	O	1	O
+2	inrichting	inrichting	N	1	O
+3	iets	iets	A	1	O
+4	oudbolligs	oudbolligs	O	1	O
+5	maar	maar	C	1	O
+6	hoort	horen	V	1	O
+7	eigenlijk	eigenlijk	G	1	O
+8	wel	wel	A	1	O
+9	bij	bij	P	1	O
+10	dit	dit	D	1	O
+11	stadje.	stad	N	1	O
+12	stadje.	.	O	1	O
+13	maakt	maken	V	1	O
+14	alles	alles	Q	1	O
+15	compleet	compleet	G	1	O
+16	.	.	O	1	O
 
-1	kamers	kamer	N	1	
-2	zijn	zijn	V	1	
-3	ruim	ruim	G	1	
-4	zeer	zeer	G	1	
-5	schoon	schoon	G	1	
-6	en	en	C	1	
-7	weinig	weinig	O	1	
-8	op	op	P	1	
-9	aan	aan	A	1	
-10	te	te	O	1	
-11	merken.	merken	V	1	
-12	merken.	.	O	1	
-13	ontbijt	ontbijt	N	1	
-14	zeer	zeer	G	1	
-15	uitgebreid	uitbreiden	V	1	
-16	en	en	C	1	
-17	kwaliteit	kwaliteit	N	1	
-18	vasn	vasn	O	1	
-19	het	het	D	1	
-20	restaurant	restaurant	N	1	
-21	best	best	A	1	
-22	wel	wel	A	1	
-23	op	op	P	1	
-24	een	een	D	1	
-25	beter	beter|goed	G	1	
-26	niveau	niveau	N	1	
-27	te	te	O	1	
-28	noemen	noemen	V	1	
+1	kamers	kamer	N	1	O
+2	zijn	zijn	V	1	O
+3	ruim	ruim	G	1	O
+4	zeer	zeer	G	1	O
+5	schoon	schoon	G	1	O
+6	en	en	C	1	O
+7	weinig	weinig	O	1	O
+8	op	op	P	1	O
+9	aan	aan	A	1	O
+10	te	te	O	1	O
+11	merken.	merken	V	1	O
+12	merken.	.	O	1	O
+13	ontbijt	ontbijt	N	1	O
+14	zeer	zeer	G	1	O
+15	uitgebreid	uitbreiden	V	1	O
+16	en	en	C	1	O
+17	kwaliteit	kwaliteit	N	1	O
+18	vasn	vasn	O	1	O
+19	het	het	D	1	O
+20	restaurant	restaurant	N	1	O
+21	best	best	A	1	O
+22	wel	wel	A	1	O
+23	op	op	P	1	O
+24	een	een	D	1	O
+25	beter	beter|goed	G	1	O
+26	niveau	niveau	N	1	O
+27	te	te	O	1	O
+28	noemen	noemen	V	1	O
 
-1	echt	echt	A	1	
-2	de	de	D	1	
-3	moeite	moeite	N	1	
-4	waard	waard	G	1	
-5	voor	voor	P	1	
-6	zijn	zijn	D	1	
-7	geld.	geld	N	1	
-8	geld.	.	O	1	
-9	jammer	jammeren	V	1	
-10	dat	dat	C	1	
-11	het	het	D	1	
-12	te	te	O	1	
-13	dicht	dicht	G	1	
-14	bij	bij	P	1	
-15	mijn	mijn	D	1	
-16	huis	huis	N	1	
-17	vandaan	vandaan	A	1	
-18	ligt	liggen	V	1	
-19	anders	anders	G	1	
-20	had	hebben	V	1	
-21	ik	ik	Q	1	
-22	er	er	Q	1	
-23	zeker	zeker	G	1	
-24	vaker	vaker	O	1	
-25	gekomen	komen	V	1	
+1	echt	echt	A	1	O
+2	de	de	D	1	O
+3	moeite	moeite	N	1	O
+4	waard	waard	G	1	O
+5	voor	voor	P	1	O
+6	zijn	zijn	D	1	O
+7	geld.	geld	N	1	O
+8	geld.	.	O	1	O
+9	jammer	jammeren	V	1	O
+10	dat	dat	C	1	O
+11	het	het	D	1	O
+12	te	te	O	1	O
+13	dicht	dicht	G	1	O
+14	bij	bij	P	1	O
+15	mijn	mijn	D	1	O
+16	huis	huis	N	1	O
+17	vandaan	vandaan	A	1	O
+18	ligt	liggen	V	1	O
+19	anders	anders	G	1	O
+20	had	hebben	V	1	O
+21	ik	ik	Q	1	O
+22	er	er	Q	1	O
+23	zeker	zeker	G	1	O
+24	vaker	vaker	O	1	O
+25	gekomen	komen	V	1	O
 

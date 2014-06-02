@@ -1,145 +1,147 @@
-1	Catastrophe	catastrophe	N	1	
-2	:	:	O	1	
-3	animation	animation	N	1	
-4	,	,	O	1	
-5	nourriture	nourriture	N	1	
-6	,	,	O	1	
-7	accueil	accueil	N	1	
+1	Catastrophe	catastrophe	N	1	O
+2	:	:	O	1	O
+3	animation	animation	N	1	O
+4	,	,	O	1	O
+5	nourriture	nourriture	N	1	O
+6	,	,	O	1	O
+7	accueil	accueil	N	1	O
 
-1	nous	nous	P	1	
-2	souhaitions	souhaitions	N	1	
-3	un	un	D	1	
-4	5	5	G	1	
-5	etoiles	etoiles	P	1	
-6	pour	pour	P	1	
-7	avoir	avoir	V	1	
-8	la	le	D	1	
-9	qualité	qualité	N	1	
-10	d'	d'	P	1	
-11	un	un	D	1	
-12	4	4	G	1	
-13	etoiles	etoiles	N	1	
-14	,	,	O	1	
+1	nous	nous	P	1	O
+2	souhaitions	souhaitions	N	1	O
+3	un	un	D	1	O
+4	5	5	G	1	O
+5	etoiles	etoiles	P	1	O
+6	pour	pour	P	1	O
+7	avoir	avoir	V	1	O
+8	la	le	D	1	O
+9	qualité	qualité	N	1	O
+10	d'	d'	P	1	O
+11	un	un	D	1	O
+12	4	4	G	1	O
+13	etoiles	etoiles	N	1	O
+14	,	,	O	1	O
 
-1	nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	une	un	D	1	
-4	chambre	chambre	N	1	
-5	avec	avec	P	1	
-6	pleins	plein	G	1	
-7	de	de	P	1	
-8	moustiques	moustique	N	1	
-9	,	,	O	1	
-10	des	un	D	1	
-11	vers	ver	N	1	
-12	sur	sur	P	1	
-13	le	le	D	1	
-14	sol	sol	N	1	
-15	,	,	O	1	
-16	des	des	P	1	
-17	bouts	bout	N	1	
-18	de	de	P	1	
-19	verres	verre	N	1	
-20	dans	dans	P	1	
-21	la	le	D	1	
-22	chambre	chambre	N	1	
-23	(	(	O	1	
-24	pas	pas	G	1	
-25	pratique	pratique	N	1	
-26	pieds	pieds	O	1	
-27	nus	nu	G	1	
-28	quand	quand	C	1	
-29	on	on	Q	1	
-30	sort	sortir	V	1	
-31	de	de	P	1	
-32	la	le	D	1	
-33	plage	plage	N	1	
-34	)	)	O	1	
-35	,	,	O	1	
-36	lors	lors	G	1	
-37	des	un	D	1	
-38	changements	changement	N	1	
-39	de	de	P	1	
-40	serviettes	serviette	N	1	
-41	nous	lui	Q	1	
-42	avons	avoir	V	1	
-43	eu	avoir	V	1	
-44	une	un	D	1	
-45	serviette	serviette	N	1	
-46	aves	aves	P	1	
-47	des	un	D	1	
-48	traces	trace	N	1	
-49	d'	d'	P	1	
-50	excréments	excrément	N	1	
-51	,	,	O	1	
-52	Un	un	D	1	
-53	lavabo	lavabo	N	1	
-54	bouché	boucher	V	1	
-55	,	,	O	1	
-56	et	et	C	1	
-57	tout	tout	P	1	
-58	cela	cela	P	1	
-59	juste	juste	G	1	
-60	sur	sur	P	1	
-61	une	un	D	1	
-62	semaine	semaine	N	1	
+1	nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	une	un	D	1	O
+4	chambre	chambre	N	1	O
+5	avec	avec	P	1	O
+6	pleins	plein	G	1	O
+7	de	de	P	1	O
+8	moustiques	moustique	N	1	O
+9	,	,	O	1	O
+10	des	un	D	1	O
+11	vers	ver	N	1	O
+12	sur	sur	P	1	O
+13	le	le	D	1	O
+14	sol	sol	N	1	O
+15	,	,	O	1	O
+16	des	des	P	1	O
+17	bouts	bout	N	1	O
+18	de	de	P	1	O
+19	verres	verre	N	1	O
+20	dans	dans	P	1	O
+21	la	le	D	1	O
+22	chambre	chambre	N	1	O
+23	(	(	O	1	O
+24	pas	pas	G	1	O
+25	pratique	pratique	N	1	O
+26	pieds	pieds	O	1	O
+27	nus	nu	G	1	O
+28	quand	quand	C	1	O
+29	on	on	Q	1	O
+30	sort	sortir	V	1	O
+31	de	de	P	1	O
+32	la	le	D	1	O
+33	plage	plage	N	1	O
+34	)	)	O	1	O
+35	,	,	O	1	O
+36	lors	lors	G	1	O
+37	des	un	D	1	O
+38	changements	changement	N	1	O
+39	de	de	P	1	O
+40	serviettes	serviette	N	1	O
+41	nous	lui	Q	1	O
+42	avons	avoir	V	1	O
+43	eu	avoir	V	1	O
+44	une	un	D	1	O
+45	serviette	serviette	N	1	O
+46	aves	aves	P	1	O
+47	des	un	D	1	O
+48	traces	trace	N	1	O
+49	d'	d'	P	1	O
+50	excréments	excrément	N	1	O
+51	,	,	O	1	O
+52	Un	un	D	1	O
+53	lavabo	lavabo	N	1	O
+54	bouché	boucher	V	1	O
+55	,	,	O	1	O
+56	et	et	C	1	O
+57	tout	tout	P	1	O
+58	cela	cela	P	1	O
+59	juste	juste	G	1	O
+60	sur	sur	P	1	O
+61	une	un	D	1	O
+62	semaine	semaine	N	1	O
 
-1	le	le	D	1	
-2	all	all	N	1	
-3	inclusive	inclusif	G	1	
-4	:	:	O	1	
-5	permets	permets	N	1	
-6	un	un	D	1	
-7	tres	tres	N	1	
-8	bon	bon	G	1	
-9	petit	petit	G	1	
-10	dejeuner	dejeuner	N	1	
-11	,	,	O	1	
-12	un	un	D	1	
-13	dejeuner	dejeuner	N	1	
-14	passable	passable	G	1	
-15	et	et	C	1	
-16	les	le	D	1	
-17	reservations	reservations	N	1	
-18	de	de	P	1	
-19	restaurant	restaurer	V	1	
-20	le	le	D	1	
-21	japonais	japonais	N	1	
-22	est	être	V	1	
-23	sympa	sympa	G	1	
-24	mais	mais	C	1	
-25	le_garden_grill	le_garden_grill	R	1	ne=Restaurant
-26	a	avoir	V	1	
-27	eviter	eviter	V	1	
-28	la	le	D	1	
-29	viande	viande	N	1	
-30	n'	n'	G	1	
-31	est	être	V	1	
-32	pas	pas	G	1	
-33	toujours	toujours	G	1	
-34	griller	griller	V	1	
-35	et	et	C	1	
-36	baigne	baigner	V	1	
-37	dans	dans	P	1	
-38	des	un	D	1	
-39	sauces	sauce	N	1	
-40	...	...	O	1	
+1	le	le	D	1	O
+2	all	all	N	1	O
+3	inclusive	inclusif	G	1	O
+4	:	:	O	1	O
+5	permets	permets	N	1	O
+6	un	un	D	1	O
+7	tres	tres	N	1	O
+8	bon	bon	G	1	O
+9	petit	petit	G	1	O
+10	dejeuner	dejeuner	N	1	O
+11	,	,	O	1	O
+12	un	un	D	1	O
+13	dejeuner	dejeuner	N	1	O
+14	passable	passable	G	1	O
+15	et	et	C	1	O
+16	les	le	D	1	O
+17	reservations	reservations	N	1	O
+18	de	de	P	1	O
+19	restaurant	restaurer	V	1	O
+20	le	le	D	1	O
+21	japonais	japonais	N	1	O
+22	est	être	V	1	O
+23	sympa	sympa	G	1	O
+24	mais	mais	C	1	O
+25	le	le	D	1	I-Restaurant
+26	garden	garden	N	1	I-Restaurant
+27	grill	grill	N	1	I-Restaurant
+28	a	avoir	V	1	O
+29	eviter	eviter	V	1	O
+30	la	le	D	1	O
+31	viande	viande	N	1	O
+32	n'	n'	G	1	O
+33	est	être	V	1	O
+34	pas	pas	G	1	O
+35	toujours	toujours	G	1	O
+36	griller	griller	V	1	O
+37	et	et	C	1	O
+38	baigne	baigner	V	1	O
+39	dans	dans	P	1	O
+40	des	un	D	1	O
+41	sauces	sauce	N	1	O
+42	...	...	O	1	O
 
-1	une	un	D	1	
-2	clientele	clientele	N	1	
-3	de	de	P	1	
-4	l'	le	D	1	
-5	hotel	hotel	N	1	
-6	assez	assez	G	1	
-7	agée	agée	V	1	
-8	a	avoir	V	1	
-9	eviter	eviter	V	1	
-10	si	si	C	1	
-11	vous	lui	Q	1	
-12	etes	etes	Q	1	
-13	un	un	D	1	
-14	couple	couple	N	1	
-15	dans	dans	P	1	
-16	la	le	D	1	
-17	vingtaine	vingtaine	N	1	
+1	une	un	D	1	O
+2	clientele	clientele	N	1	O
+3	de	de	P	1	O
+4	l'	le	D	1	O
+5	hotel	hotel	N	1	O
+6	assez	assez	G	1	O
+7	agée	agée	V	1	O
+8	a	avoir	V	1	O
+9	eviter	eviter	V	1	O
+10	si	si	C	1	O
+11	vous	lui	Q	1	O
+12	etes	etes	Q	1	O
+13	un	un	D	1	O
+14	couple	couple	N	1	O
+15	dans	dans	P	1	O
+16	la	le	D	1	O
+17	vingtaine	vingtaine	N	1	O
 

@@ -1,39 +1,39 @@
-1	Zoo	zoo	N	1	
-2	magnigifique	magnigifique	N	1	
+1	Zoo	zoo	N	1	O
+2	magnigifique	magnigifique	N	1	O
 
-1	BRAVO	bravo	N	1	
-2	pour	pour	P	1	
-3	la	le	D	1	
-4	propreté	propreté	N	1	
-5	du	du	P	1	
-6	zoo	zoo	N	1	
-7	,	,	O	1	
-8	et	et	C	1	
-9	le	le	D	1	
-10	sens	sens	N	1	
-11	de	de	P	1	
-12	visite	visite	N	1	
-13	.	.	O	1	
+1	BRAVO	bravo	N	1	O
+2	pour	pour	P	1	O
+3	la	le	D	1	O
+4	propreté	propreté	N	1	O
+5	du	du	P	1	O
+6	zoo	zoo	N	1	O
+7	,	,	O	1	O
+8	et	et	C	1	O
+9	le	le	D	1	O
+10	sens	sens	N	1	O
+11	de	de	P	1	O
+12	visite	visite	N	1	O
+13	.	.	O	1	O
 
-1	En	En	P	1	
-2	suivant	suivre	V	1	
-3	le	le	D	1	
-4	sens	sens	N	1	
-5	de	de	P	1	
-6	visite	visite	N	1	
-7	,	,	O	1	
-8	nous	lui	Q	1	
-9	voyons	voir	V	1	
-10	au	au	P	1	
-11	mieux	mieux	G	1	
-12	tous	tout	G	1	
-13	les	le	D	1	
-14	animaux	animal	N	1	
-15	de	de	P	1	
-16	différents	différent	G	1	
-17	côtés	côté	N	1	
-18	de	de	P	1	
-19	leur	son	D	1	
-20	enclos	enclos	N	1	
-21	.	.	O	1	
+1	En	En	P	1	O
+2	suivant	suivre	V	1	O
+3	le	le	D	1	O
+4	sens	sens	N	1	O
+5	de	de	P	1	O
+6	visite	visite	N	1	O
+7	,	,	O	1	O
+8	nous	lui	Q	1	O
+9	voyons	voir	V	1	O
+10	au	au	P	1	O
+11	mieux	mieux	G	1	O
+12	tous	tout	G	1	O
+13	les	le	D	1	O
+14	animaux	animal	N	1	O
+15	de	de	P	1	O
+16	différents	différent	G	1	O
+17	côtés	côté	N	1	O
+18	de	de	P	1	O
+19	leur	son	D	1	O
+20	enclos	enclos	N	1	O
+21	.	.	O	1	O
 

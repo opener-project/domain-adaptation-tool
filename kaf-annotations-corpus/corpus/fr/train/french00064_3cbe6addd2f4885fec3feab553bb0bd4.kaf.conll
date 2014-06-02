@@ -1,108 +1,108 @@
-1	Merci	merci	N	1	
-2	pour	pour	P	1	
-3	ces	ce	D	1	
-4	superbes	superbe	G	1	
-5	vacances	vacance	N	1	
+1	Merci	merci	N	1	O
+2	pour	pour	P	1	O
+3	ces	ce	D	1	O
+4	superbes	superbe	G	1	O
+5	vacances	vacance	N	1	O
 
-1	Je	Je	Q	1	
-2	trouve	trouver	V	1	
-3	l'	le	D	1	
-4	hôtel	hôtel	N	1	
-5	super	super	G	1	
-6	beau	beau	N	1	
-7	.	.	O	1	
+1	Je	Je	Q	1	O
+2	trouve	trouver	V	1	O
+3	l'	le	D	1	O
+4	hôtel	hôtel	N	1	O
+5	super	super	G	1	O
+6	beau	beau	N	1	O
+7	.	.	O	1	O
 
-1	La	le	D	1	
-2	piscine	piscine	N	1	
-3	magnifique	magnifique	G	1	
-4	et	et	C	1	
-5	les	le	D	1	
-6	chambres	chambre	N	1	
-7	très	très	G	1	
-8	jolie.Le	jolie.Le	G	1	
-9	personel	personel	N	1	
-10	sont	être	V	1	
-11	très	très	G	1	
-12	gentils	gentil	N	1	
-13	et	et	C	1	
-14	les	le	D	1	
-15	animateurs	animateur	N	1	
-16	francophone	francophone	G	1	
-17	sont	être	V	1	
-18	géniaux	génial	G	1	
-19	.	.	O	1	
+1	La	le	D	1	O
+2	piscine	piscine	N	1	O
+3	magnifique	magnifique	G	1	O
+4	et	et	C	1	O
+5	les	le	D	1	O
+6	chambres	chambre	N	1	O
+7	très	très	G	1	O
+8	jolie.Le	jolie.Le	G	1	O
+9	personel	personel	N	1	O
+10	sont	être	V	1	O
+11	très	très	G	1	O
+12	gentils	gentil	N	1	O
+13	et	et	C	1	O
+14	les	le	D	1	O
+15	animateurs	animateur	N	1	O
+16	francophone	francophone	G	1	O
+17	sont	être	V	1	O
+18	géniaux	génial	G	1	O
+19	.	.	O	1	O
 
-1	Par	Par	P	1	
-2	contre	contre	P	1	
-3	,	,	O	1	
-4	hôtel	hôtel	N	1	
-5	90	90	D	1	
-6	%	pourcent	N	1	
-7	Russe	russe	N	1	
-8	avec	avec	P	1	
-9	beaucoup	beaucoup	G	1	
-10	de	de	P	1	
-11	manque	manque	N	1	
-12	de	de	P	1	
-13	respect	respect	N	1	
-14	de	de	P	1	
-15	leurs	son	D	1	
-16	part.	part.	N	1	
-17	Les	le	D	1	
-18	animations	animation	N	1	
-19	en	en	P	1	
-20	soirée	soirée	N	1	
-21	finisse	finir	V	1	
-22	trop	trop	G	1	
-23	vite	vite	G	1	
-24	et	et	C	1	
-25	la	le	D	1	
-26	nourriture	nourriture	N	1	
-27	est	être	V	1	
-28	bonne	bon	G	1	
-29	mais	mais	C	1	
-30	sans	sans]	P	1	
-31	plus	plus	G	1	
-32	...	...	O	1	
+1	Par	Par	P	1	O
+2	contre	contre	P	1	O
+3	,	,	O	1	O
+4	hôtel	hôtel	N	1	O
+5	90	90	D	1	O
+6	%	pourcent	N	1	O
+7	Russe	russe	N	1	O
+8	avec	avec	P	1	O
+9	beaucoup	beaucoup	G	1	O
+10	de	de	P	1	O
+11	manque	manque	N	1	O
+12	de	de	P	1	O
+13	respect	respect	N	1	O
+14	de	de	P	1	O
+15	leurs	son	D	1	O
+16	part.	part.	N	1	O
+17	Les	le	D	1	O
+18	animations	animation	N	1	O
+19	en	en	P	1	O
+20	soirée	soirée	N	1	O
+21	finisse	finir	V	1	O
+22	trop	trop	G	1	O
+23	vite	vite	G	1	O
+24	et	et	C	1	O
+25	la	le	D	1	O
+26	nourriture	nourriture	N	1	O
+27	est	être	V	1	O
+28	bonne	bon	G	1	O
+29	mais	mais	C	1	O
+30	sans	sans]	P	1	O
+31	plus	plus	G	1	O
+32	...	...	O	1	O
 
-1	Il	Il	Q	1	
-2	n'	n'	G	1	
-3	y	y	Q	1	
-4	a	avoir	V	1	
-5	pas	pas	G	1	
-6	assez	assez	G	1	
-7	d'	d'	P	1	
-8	horloge	horloge	N	1	
-9	à	à	P	1	
-10	l'	le	D	1	
-11	extérieur	extérieur	N	1	
-12	et	et	C	1	
-13	les	le	D	1	
-14	chambres	chambre	N	1	
-15	ne	ne	G	1	
-16	sont	être	V	1	
-17	pas	pas	G	1	
-18	faite	faire	V	1	
-19	tous	tout	G	1	
-20	les	le	D	1	
-21	jours	jour	N	1	
-22	.	.	O	1	
+1	Il	Il	Q	1	O
+2	n'	n'	G	1	O
+3	y	y	Q	1	O
+4	a	avoir	V	1	O
+5	pas	pas	G	1	O
+6	assez	assez	G	1	O
+7	d'	d'	P	1	O
+8	horloge	horloge	N	1	O
+9	à	à	P	1	O
+10	l'	le	D	1	O
+11	extérieur	extérieur	N	1	O
+12	et	et	C	1	O
+13	les	le	D	1	O
+14	chambres	chambre	N	1	O
+15	ne	ne	G	1	O
+16	sont	être	V	1	O
+17	pas	pas	G	1	O
+18	faite	faire	V	1	O
+19	tous	tout	G	1	O
+20	les	le	D	1	O
+21	jours	jour	N	1	O
+22	.	.	O	1	O
 
-1	Mais	Mais	C	1	
-2	malgré	malgré	P	1	
-3	tout	tout	G	1	
-4	on	on	Q	1	
-5	a	avoir	V	1	
-6	passé	passer	V	1	
-7	de	de	P	1	
-8	superbe	superbe	N	1	
-9	vacance	vacance	N	1	
-10	et	et	C	1	
-11	en	en	P	1	
-12	j'	j'	Q	1	
-13	y	y	Q	1	
-14	reviendrai	revenir	V	1	
-15	avec	avec	P	1	
-16	plaisir	plaisir	N	1	
-17	.	.	O	1	
+1	Mais	Mais	C	1	O
+2	malgré	malgré	P	1	O
+3	tout	tout	G	1	O
+4	on	on	Q	1	O
+5	a	avoir	V	1	O
+6	passé	passer	V	1	O
+7	de	de	P	1	O
+8	superbe	superbe	N	1	O
+9	vacance	vacance	N	1	O
+10	et	et	C	1	O
+11	en	en	P	1	O
+12	j'	j'	Q	1	O
+13	y	y	Q	1	O
+14	reviendrai	revenir	V	1	O
+15	avec	avec	P	1	O
+16	plaisir	plaisir	N	1	O
+17	.	.	O	1	O
 

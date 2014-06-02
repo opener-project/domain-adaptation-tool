@@ -1,188 +1,190 @@
-1	NE	NE	N	1	
-2	VAUT	VAUT	N	1	
-3	PAS	PAS	G	1	
-4	LE	le	D	1	
-5	4	4	G	1	
-6	*	*	N	1	
+1	NE	NE	N	1	O
+2	VAUT	VAUT	N	1	O
+3	PAS	PAS	G	1	O
+4	LE	le	D	1	O
+5	4	4	G	1	O
+6	*	*	N	1	O
 
-1	Mobil	Mobil	N	1	
-2	·	·	V	1	
-3	home	home	N	1	
-4	trop	trop	G	1	
-5	rapproché	rapprocher	V	1	
-6	,	,	O	1	
-7	le	le	D	1	
-8	train	train	N	1	
-9	passe	passer	V	1	
-10	juste	juste	G	1	
-11	au	au	P	1	
-12	·	·	D	1	
-13	dessus	dessus	N	1	
-14	de	de	P	1	
-15	la	le	D	1	
-16	piscine	piscine	N	1	
-17	,	,	O	1	
-18	on	on	Q	1	
-19	l'	l'	Q	1	
-20	entend	entendre	V	1	
-21	la	le	D	1	
-22	nuit	nuit	N	1	
-23	,	,	O	1	
-24	on	on	Q	1	
-25	a	avoir	V	1	
-26	l'	le	D	1	
-27	impression	impression	N	1	
-28	d'	d'	P	1	
-29	être	être	V	1	
-30	entassé	entasser	V	1	
-31	,	,	O	1	
-32	mettre	mettre	V	1	
-33	un	un	D	1	
-34	maximum	maximum	N	1	
-35	de	de	P	1	
-36	personnes	personne	N	1	
-37	dans	dans	P	1	
-38	un	un	D	1	
-39	minimum	minimum	N	1	
-40	de	de	P	1	
-41	place	place	N	1	
-42	.	.	O	1	
+1	Mobil	Mobil	N	1	O
+2	·	·	V	1	O
+3	home	home	N	1	O
+4	trop	trop	G	1	O
+5	rapproché	rapprocher	V	1	O
+6	,	,	O	1	O
+7	le	le	D	1	O
+8	train	train	N	1	O
+9	passe	passer	V	1	O
+10	juste	juste	G	1	O
+11	au	au	P	1	O
+12	·	·	D	1	O
+13	dessus	dessus	N	1	O
+14	de	de	P	1	O
+15	la	le	D	1	O
+16	piscine	piscine	N	1	O
+17	,	,	O	1	O
+18	on	on	Q	1	O
+19	l'	l'	Q	1	O
+20	entend	entendre	V	1	O
+21	la	le	D	1	O
+22	nuit	nuit	N	1	O
+23	,	,	O	1	O
+24	on	on	Q	1	O
+25	a	avoir	V	1	O
+26	l'	le	D	1	O
+27	impression	impression	N	1	O
+28	d'	d'	P	1	O
+29	être	être	V	1	O
+30	entassé	entasser	V	1	O
+31	,	,	O	1	O
+32	mettre	mettre	V	1	O
+33	un	un	D	1	O
+34	maximum	maximum	N	1	O
+35	de	de	P	1	O
+36	personnes	personne	N	1	O
+37	dans	dans	P	1	O
+38	un	un	D	1	O
+39	minimum	minimum	N	1	O
+40	de	de	P	1	O
+41	place	place	N	1	O
+42	.	.	O	1	O
 
-1	Les	le	D	1	
-2	places	place	N	1	
-3	de	de	P	1	
-4	parking	parking	N	1	
-5	ne	ne	G	1	
-6	sont	être	V	1	
-7	pas	pas	G	1	
-8	forcément	forcément	G	1	
-9	près	près	P	1	
-10	des	un	D	1	
-11	mobil	mobil	N	1	
-12	·	·	P	1	
-13	home	home	N	1	
-14	,	,	O	1	
-15	elles	lui	Q	1	
-16	ne	ne	G	1	
-17	sont	être	V	1	
-18	pas	pas	G	1	
-19	assez	assez	G	1	
-20	grandes	grand	G	1	
-21	,	,	O	1	
-22	vraiement	vraiement	G	1	
-23	ce	ce	D	1	
-24	camping	camping	N	1	
-25	ne	ne	G	1	
-26	vaut	valoir	V	1	
-27	pas	pas	G	1	
-28	les	le	D	1	
-29	4	4	G	1	
-30	*	*	N	1	
-31	et	et	C	1	
-32	en	en	P	1	
-33	plus	plus	G	1	
-34	nombreux	nombreux	G	1	
-35	vols	vol	N	1	
-36	à	à	P	1	
-37	la	le	D	1	
-38	piscine	piscine	N	1	
-39	.	.	O	1	
+1	Les	le	D	1	O
+2	places	place	N	1	O
+3	de	de	P	1	O
+4	parking	parking	N	1	O
+5	ne	ne	G	1	O
+6	sont	être	V	1	O
+7	pas	pas	G	1	O
+8	forcément	forcément	G	1	O
+9	près	près	P	1	O
+10	des	un	D	1	O
+11	mobil	mobil	N	1	O
+12	·	·	P	1	O
+13	home	home	N	1	O
+14	,	,	O	1	O
+15	elles	lui	Q	1	O
+16	ne	ne	G	1	O
+17	sont	être	V	1	O
+18	pas	pas	G	1	O
+19	assez	assez	G	1	O
+20	grandes	grand	G	1	O
+21	,	,	O	1	O
+22	vraiement	vraiement	G	1	O
+23	ce	ce	D	1	O
+24	camping	camping	N	1	O
+25	ne	ne	G	1	O
+26	vaut	valoir	V	1	O
+27	pas	pas	G	1	O
+28	les	le	D	1	O
+29	4	4	G	1	O
+30	*	*	N	1	O
+31	et	et	C	1	O
+32	en	en	P	1	O
+33	plus	plus	G	1	O
+34	nombreux	nombreux	G	1	O
+35	vols	vol	N	1	O
+36	à	à	P	1	O
+37	la	le	D	1	O
+38	piscine	piscine	N	1	O
+39	.	.	O	1	O
 
-1	Le	le	D	1	
-2	1er	1er	G	1	
-3	jour	jour	N	1	
-4	mon	mon	G	1	
-5	mari	mari	N	1	
-6	s'	s'	Q	1	
-7	est	être	V	1	
-8	fait	faire	V	1	
-9	volé	voler___fly__1	V	1	
-10	son	son	D	1	
-11	short	short	N	1	
-12	et	et	C	1	
-13	sa	son	D	1	
-14	serviette	serviette	N	1	
-15	,	,	O	1	
-16	le	le	D	1	
-17	personnel	personnel	N	1	
-18	reste	rester	V	1	
-19	complètement	complètement	G	1	
-20	indifférent	indifférent	G	1	
-21	.	.	O	1	
+1	Le	le	D	1	O
+2	1er	1er	G	1	O
+3	jour	jour	N	1	O
+4	mon	mon	G	1	O
+5	mari	mari	N	1	O
+6	s'	s'	Q	1	O
+7	est	être	V	1	O
+8	fait	faire	V	1	O
+9	volé	voler___fly__1	V	1	O
+10	son	son	D	1	O
+11	short	short	N	1	O
+12	et	et	C	1	O
+13	sa	son	D	1	O
+14	serviette	serviette	N	1	O
+15	,	,	O	1	O
+16	le	le	D	1	O
+17	personnel	personnel	N	1	O
+18	reste	rester	V	1	O
+19	complètement	complètement	G	1	O
+20	indifférent	indifférent	G	1	O
+21	.	.	O	1	O
 
-1	La	le	D	1	
-2	plage	plage	N	1	
-3	de	de	P	1	
-4	la_ciotat	le_ciotat	R	1	ne=Location
-5	est	être	V	1	
-6	à	à	P	1	
-7	3	3	D	1	
-8	km	kilomètre	N	1	
-9	et	et	C	1	
-10	beaucoup	beaucoup	G	1	
-11	trop	trop	G	1	
-12	de	de	P	1	
-13	monde	monde	N	1	
-14	,	,	O	1	
-15	ne	ne	G	1	
-16	peut	pouvoir	V	1	
-17	pas	pas	G	1	
-18	s'	s'	Q	1	
-19	installer	installer	V	1	
-20	l'	le	D	1	
-21	après	après	N	1	
-22	·	·	G	1	
-23	midi	midi	N	1	
-24	.	.	O	1	
+1	La	le	D	1	O
+2	plage	plage	N	1	O
+3	de	de	P	1	O
+4	la	le	D	1	I-Location
+5	ciotat	ciotat	N	1	I-Location
+6	est	être	V	1	O
+7	à	à	P	1	O
+8	3	3	D	1	O
+9	km	kilomètre	N	1	O
+10	et	et	C	1	O
+11	beaucoup	beaucoup	G	1	O
+12	trop	trop	G	1	O
+13	de	de	P	1	O
+14	monde	monde	N	1	O
+15	,	,	O	1	O
+16	ne	ne	G	1	O
+17	peut	pouvoir	V	1	O
+18	pas	pas	G	1	O
+19	s'	s'	Q	1	O
+20	installer	installer	V	1	O
+21	l'	le	D	1	O
+22	après	après	N	1	O
+23	·	·	G	1	O
+24	midi	midi	N	1	O
+25	.	.	O	1	O
 
-1	En	En	P	1	
-2	plus	plus	G	1	
-3	tous	tout	G	1	
-4	les	le	D	1	
-5	parking	parking	N	1	
-6	de	de	P	1	
-7	la_Ciotat	le_Ciotat	R	1	ne=Location
-8	sont	être	V	1	
-9	payants	payants	V	1	
-10	.	.	O	1	
+1	En	En	P	1	O
+2	plus	plus	G	1	O
+3	tous	tout	G	1	O
+4	les	le	D	1	O
+5	parking	parking	N	1	O
+6	de	de	P	1	O
+7	la	le	D	1	I-Location
+8	Ciotat	Ciotat	N	1	I-Location
+9	sont	être	V	1	O
+10	payants	payants	V	1	O
+11	.	.	O	1	O
 
-1	Par	Par	P	1	
-2	contre	contre	P	1	
-3	les	le	D	1	
-4	sanitaires	sanitaire	N	1	
-5	sont	être	V	1	
-6	propres	propre	G	1	
-7	,	,	O	1	
-8	le	le	D	1	
-9	mobil	mobil	N	1	
-10	·	·	G	1	
-11	home	home	N	1	
-12	correspondait	correspondre	V	1	
-13	aux	aux	P	1	
-14	attentes	attente	N	1	
-15	,	,	O	1	
-16	les	le	D	1	
-17	allées	allée	N	1	
-18	du	du	P	1	
-19	camping	camping	N	1	
-20	sont	être	V	1	
-21	super	super	G	1	
-22	jolis	joli	N	1	
-23	avec	avec	P	1	
-24	les	le	D	1	
-25	lauriers	laurier	N	1	
-26	...	...	O	1	
-27	la	le	D	1	
-28	piscine	piscine	N	1	
-29	est	être	V	1	
-30	adaptée	adapter	V	1	
-31	aux	aux	P	1	
-32	enfants	enfant	N	1	
-33	,	,	O	1	
-34	ce	ce	Q	1	
-35	sont	être	V	1	
-36	les	le	D	1	
-37	seuls	seul	G	1	
-38	points	point	N	1	
-39	positifs	positif	G	1	
+1	Par	Par	P	1	O
+2	contre	contre	P	1	O
+3	les	le	D	1	O
+4	sanitaires	sanitaire	N	1	O
+5	sont	être	V	1	O
+6	propres	propre	G	1	O
+7	,	,	O	1	O
+8	le	le	D	1	O
+9	mobil	mobil	N	1	O
+10	·	·	G	1	O
+11	home	home	N	1	O
+12	correspondait	correspondre	V	1	O
+13	aux	aux	P	1	O
+14	attentes	attente	N	1	O
+15	,	,	O	1	O
+16	les	le	D	1	O
+17	allées	allée	N	1	O
+18	du	du	P	1	O
+19	camping	camping	N	1	O
+20	sont	être	V	1	O
+21	super	super	G	1	O
+22	jolis	joli	N	1	O
+23	avec	avec	P	1	O
+24	les	le	D	1	O
+25	lauriers	laurier	N	1	O
+26	...	...	O	1	O
+27	la	le	D	1	O
+28	piscine	piscine	N	1	O
+29	est	être	V	1	O
+30	adaptée	adapter	V	1	O
+31	aux	aux	P	1	O
+32	enfants	enfant	N	1	O
+33	,	,	O	1	O
+34	ce	ce	Q	1	O
+35	sont	être	V	1	O
+36	les	le	D	1	O
+37	seuls	seul	G	1	O
+38	points	point	N	1	O
+39	positifs	positif	G	1	O
 

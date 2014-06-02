@@ -1,47 +1,47 @@
-1	Recomiendo	Recomiendo	R	1	
-2	el	el	N	1	
-3	hotel	hotel	N	1	
-4	para	para	N	1	
-5	parejas	parejas	N	1	
+1	Recomiendo	Recomiendo	R	1	O
+2	el	el	N	1	O
+3	hotel	hotel	N	1	O
+4	para	para	N	1	O
+5	parejas	parejas	N	1	O
 
-1	Muy	Muy	R	1	
-2	buen	buen	G	1	
-3	hotel	hotel	N	1	
-4	cerca	cerca	N	1	
-5	de	de	P	1	
-6	la	la	D	1	
-7	playa	playa	N	1	
-8	,	,	O	1	
-9	lo	lo	G	1	
-10	recomiendo	recomiendo	N	1	
-11	para	para	N	1	
-12	ir	ir	Q	1	
-13	en	en	G	1	
-14	pareja	pareja	N	1	
-15	pero	pero	P	1	
-16	he	he	Q	1	
-17	visto	visto	O	1	
-18	zona	zona	V	1	
-19	infantil	infantil	P	1	
-20	por	por	G	1	
-21	lo	lo	G	1	
-22	tanto	tanto	G	1	
-23	se	se	N	1	
-24	puede	puede	N	1	
-25	dejar	dejar	N	1	
-26	los	los	N	1	
-27	niños	niños	N	1	
-28	ocupados	ocupados	N	1	
-29	,	,	O	1	
-30	las	las	V	1	
-31	habitaciones	habitaciones	N	1	
-32	no	no	D	1	
-33	son	son	N	1	
-34	baratas	baratas	A	1	
-35	pero	pero	O	1	
-36	vale	vale	O	1	
-37	la	la	O	1	
-38	pena	pena	O	1	
-39	pagarlo	pagarlo	N	1	
-40	.	.	O	1	
+1	Muy	Muy	R	1	O
+2	buen	buen	G	1	O
+3	hotel	hotel	N	1	O
+4	cerca	cerca	N	1	O
+5	de	de	P	1	O
+6	la	la	D	1	O
+7	playa	playa	N	1	O
+8	,	,	O	1	O
+9	lo	lo	G	1	O
+10	recomiendo	recomiendo	N	1	O
+11	para	para	N	1	O
+12	ir	ir	Q	1	O
+13	en	en	G	1	O
+14	pareja	pareja	N	1	O
+15	pero	pero	P	1	O
+16	he	he	Q	1	O
+17	visto	visto	O	1	O
+18	zona	zona	V	1	O
+19	infantil	infantil	P	1	O
+20	por	por	G	1	O
+21	lo	lo	G	1	O
+22	tanto	tanto	G	1	O
+23	se	se	N	1	O
+24	puede	puede	N	1	O
+25	dejar	dejar	N	1	O
+26	los	los	N	1	O
+27	niños	niños	N	1	O
+28	ocupados	ocupados	N	1	O
+29	,	,	O	1	O
+30	las	las	V	1	O
+31	habitaciones	habitaciones	N	1	O
+32	no	no	D	1	O
+33	son	son	N	1	O
+34	baratas	baratas	A	1	O
+35	pero	pero	O	1	O
+36	vale	vale	O	1	O
+37	la	la	O	1	O
+38	pena	pena	O	1	O
+39	pagarlo	pagarlo	N	1	O
+40	.	.	O	1	O
 

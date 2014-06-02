@@ -1,52 +1,52 @@
-1	Muy	Muy	R	1	
-2	buena	buena	N	1	
-3	relación	relación	N	1	
-4	calidad	calidad	G	1	
-5	·	·	N	1	
-6	precio	precio	N	1	
+1	Muy	Muy	R	1	O
+2	buena	buena	N	1	O
+3	relación	relación	N	1	O
+4	calidad	calidad	G	1	O
+5	·	·	N	1	O
+6	precio	precio	N	1	O
 
-1	Realmente	Realmente	R	1	
-2	el	el	N	1	
-3	hotel	hotel	N	1	
-4	esta	esta	N	1	
-5	muy	muy	G	1	
-6	bien	bien	N	1	
-7	ubicado	ubicado	N	1	
-8	,	,	O	1	
-9	el	el	G	1	
-10	lobby	lobby	N	1	
-11	del	del	N	1	
-12	Hotel	hotel	N	1	
-13	no	no	D	1	
-14	sorprente	sorprente	G	1	
-15	mucho	mucho	G	1	
-16	pero	pero	N	1	
-17	lo	lo	N	1	
-18	complementa	complementa	N	1	
-19	con	con	A	1	
-20	las	las	V	1	
-21	habitaciones	habitaciones	N	1	
-22	que	que	V	1	
-23	son	son	N	1	
-24	amplias	amplias	N	1	
-25	,	,	O	1	
-26	comodas	comodas	N	1	
-27	y	y	A	1	
-28	limpias	limpias	N	1	
-29	,	,	O	1	
-30	te	te	G	1	
-31	incluia	incluia	N	1	
-32	un	un	G	1	
-33	minibar	minibar	N	1	
-34	gratuito	gratuito	N	1	
-35	que	que	N	1	
-36	pocos	pocos	N	1	
-37	hoteles	hoteles	N	1	
-38	lo	lo	V	1	
-39	ofrecen	ofrecen	A	1	
-40	,	,	O	1	
-41	el	el	N	1	
-42	desayuno	desayuno	N	1	
-43	es	es	N	1	
-44	aceptable	aceptable	G	1	
+1	Realmente	Realmente	R	1	O
+2	el	el	N	1	O
+3	hotel	hotel	N	1	O
+4	esta	esta	N	1	O
+5	muy	muy	G	1	O
+6	bien	bien	N	1	O
+7	ubicado	ubicado	N	1	O
+8	,	,	O	1	O
+9	el	el	G	1	O
+10	lobby	lobby	N	1	O
+11	del	del	N	1	O
+12	Hotel	hotel	N	1	O
+13	no	no	D	1	O
+14	sorprente	sorprente	G	1	O
+15	mucho	mucho	G	1	O
+16	pero	pero	N	1	O
+17	lo	lo	N	1	O
+18	complementa	complementa	N	1	O
+19	con	con	A	1	O
+20	las	las	V	1	O
+21	habitaciones	habitaciones	N	1	O
+22	que	que	V	1	O
+23	son	son	N	1	O
+24	amplias	amplias	N	1	O
+25	,	,	O	1	O
+26	comodas	comodas	N	1	O
+27	y	y	A	1	O
+28	limpias	limpias	N	1	O
+29	,	,	O	1	O
+30	te	te	G	1	O
+31	incluia	incluia	N	1	O
+32	un	un	G	1	O
+33	minibar	minibar	N	1	O
+34	gratuito	gratuito	N	1	O
+35	que	que	N	1	O
+36	pocos	pocos	N	1	O
+37	hoteles	hoteles	N	1	O
+38	lo	lo	V	1	O
+39	ofrecen	ofrecen	A	1	O
+40	,	,	O	1	O
+41	el	el	N	1	O
+42	desayuno	desayuno	N	1	O
+43	es	es	N	1	O
+44	aceptable	aceptable	G	1	O
 

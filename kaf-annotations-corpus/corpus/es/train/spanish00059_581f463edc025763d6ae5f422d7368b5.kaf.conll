@@ -1,184 +1,184 @@
-1	Perfecto	Perfecto	R	1	
+1	Perfecto	Perfecto	R	1	O
 
-1	Estuvimos	estuvimos	N	1	
-2	dos	dos	N	1	
-3	amigas	amigas	P	1	
-4	que	que	G	1	
-5	fuimos	fuimos	N	1	
-6	a	a	D	1	
-7	pasar	pasar	N	1	
-8	un	un	G	1	
-9	fin	fin	N	1	
-10	de	de	P	1	
-11	semana	semana	N	1	
-12	a	a	D	1	
-13	Madrid	Madrid	R	1	
-14	.	.	O	1	
+1	Estuvimos	estuvimos	N	1	O
+2	dos	dos	N	1	O
+3	amigas	amigas	P	1	O
+4	que	que	G	1	O
+5	fuimos	fuimos	N	1	O
+6	a	a	D	1	O
+7	pasar	pasar	N	1	O
+8	un	un	G	1	O
+9	fin	fin	N	1	O
+10	de	de	P	1	O
+11	semana	semana	N	1	O
+12	a	a	D	1	O
+13	Madrid	Madrid	R	1	O
+14	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	elegimos	elegimos	N	1	
-3	por	por	G	1	
-4	su	su	N	1	
-5	situación	situación	N	1	
-6	,	,	O	1	
-7	aunque	aunque	G	1	
-8	la	la	N	1	
-9	verdad	verdad	N	1	
-10	,	,	O	1	
-11	había	había	O	1	
-12	que	que	G	1	
-13	andar	andar	N	1	
-14	unos	unos	N	1	
-15	15	15	O	1	
-16	minutos	minutos	N	1	
-17	hasta	hasta	V	1	
-18	la	la	D	1	
-19	parada	parada	O	1	
-20	de	de	O	1	
-21	metro	metro	O	1	
-22	más	más	O	1	
-23	cercana	cercana	O	1	
-24	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	elegimos	elegimos	N	1	O
+3	por	por	G	1	O
+4	su	su	N	1	O
+5	situación	situación	N	1	O
+6	,	,	O	1	O
+7	aunque	aunque	G	1	O
+8	la	la	N	1	O
+9	verdad	verdad	N	1	O
+10	,	,	O	1	O
+11	había	había	O	1	O
+12	que	que	G	1	O
+13	andar	andar	N	1	O
+14	unos	unos	N	1	O
+15	15	15	O	1	O
+16	minutos	minutos	N	1	O
+17	hasta	hasta	V	1	O
+18	la	la	D	1	O
+19	parada	parada	O	1	O
+20	de	de	O	1	O
+21	metro	metro	O	1	O
+22	más	más	O	1	O
+23	cercana	cercana	O	1	O
+24	.	.	O	1	O
 
-1	Pero	Pero	R	1	
-2	había	había	N	1	
-3	autobuses	autobuses	N	1	
-4	delante	delante	V	1	
-5	del	del	G	1	
-6	hotel	hotel	N	1	
-7	y	y	G	1	
-8	parada	parada	N	1	
-9	de	de	P	1	
-10	taxis	taxi	N	1	
-11	.	.	O	1	
+1	Pero	Pero	R	1	O
+2	había	había	N	1	O
+3	autobuses	autobuses	N	1	O
+4	delante	delante	V	1	O
+5	del	del	G	1	O
+6	hotel	hotel	N	1	O
+7	y	y	G	1	O
+8	parada	parada	N	1	O
+9	de	de	P	1	O
+10	taxis	taxi	N	1	O
+11	.	.	O	1	O
 
-1	Nosotras	Nosotras	R	1	
-2	nos	nos	N	1	
-3	movimos	movimos	N	1	
-4	con	con	G	1	
-5	taxi	taxi	N	1	
-6	,	,	O	1	
-7	el	el	N	1	
-8	más	más	N	1	
-9	caro	caro	N	1	
-10	hasta	hasta	O	1	
-11	la	la	O	1	
-12	puerta	puerta	O	1	
-13	del	del	O	1	
-14	sol	sol	O	1	
-15	no	no	D	1	
-16	llegó	llegó	N	1	
-17	a	a	D	1	
-18	10	10	O	1	
-19	euros	euro	N	1	
-20	.	.	O	1	
+1	Nosotras	Nosotras	R	1	O
+2	nos	nos	N	1	O
+3	movimos	movimos	N	1	O
+4	con	con	G	1	O
+5	taxi	taxi	N	1	O
+6	,	,	O	1	O
+7	el	el	N	1	O
+8	más	más	N	1	O
+9	caro	caro	N	1	O
+10	hasta	hasta	O	1	O
+11	la	la	O	1	O
+12	puerta	puerta	O	1	O
+13	del	del	O	1	O
+14	sol	sol	O	1	O
+15	no	no	D	1	O
+16	llegó	llegó	N	1	O
+17	a	a	D	1	O
+18	10	10	O	1	O
+19	euros	euro	N	1	O
+20	.	.	O	1	O
 
-1	Estuvimos	Estuvimos	R	1	
-2	en	en	O	1	
-3	régimen	régimen	O	1	
-4	de	de	O	1	
-5	solo	solo	O	1	
-6	alojamiento	alojamiento	O	1	
-7	,	,	O	1	
-8	por	por	N	1	
-9	salir	salir	O	1	
-10	de	de	P	1	
-11	fiesta	fiesta	G	1	
-12	e	e	G	1	
-13	ir	ir	N	1	
-14	al	al	G	1	
-15	parque	parque	N	1	
-16	de	de	P	1	
-17	atracciones	atracciones	N	1	
-18	,	,	O	1	
-19	pero	pero	O	1	
-20	el	el	O	1	
-21	último	último	O	1	
-22	día	día	O	1	
-23	desayunamos	desayunamos	O	1	
-24	en	en	O	1	
-25	el	el	O	1	
-26	hotel	hotel	N	1	
-27	.	.	O	1	
+1	Estuvimos	Estuvimos	R	1	O
+2	en	en	O	1	O
+3	régimen	régimen	O	1	O
+4	de	de	O	1	O
+5	solo	solo	O	1	O
+6	alojamiento	alojamiento	O	1	O
+7	,	,	O	1	O
+8	por	por	N	1	O
+9	salir	salir	O	1	O
+10	de	de	P	1	O
+11	fiesta	fiesta	G	1	O
+12	e	e	G	1	O
+13	ir	ir	N	1	O
+14	al	al	G	1	O
+15	parque	parque	N	1	O
+16	de	de	P	1	O
+17	atracciones	atracciones	N	1	O
+18	,	,	O	1	O
+19	pero	pero	O	1	O
+20	el	el	O	1	O
+21	último	último	O	1	O
+22	día	día	O	1	O
+23	desayunamos	desayunamos	O	1	O
+24	en	en	O	1	O
+25	el	el	O	1	O
+26	hotel	hotel	N	1	O
+27	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	N	1	
-3	,	,	O	1	
-4	como	como	N	1	
-5	definirlo	definirlo	N	1	
-6	,	,	O	1	
-7	ESPECTACULAR	ESPECTACULAR	R	1	
-8	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	N	1	O
+3	,	,	O	1	O
+4	como	como	N	1	O
+5	definirlo	definirlo	N	1	O
+6	,	,	O	1	O
+7	ESPECTACULAR	ESPECTACULAR	R	1	O
+8	.	.	O	1	O
 
-1	Pagamos	Pagamos	R	1	
-2	8	8	O	1	
-3	euros	euro	N	1	
-4	cada	cada	N	1	
-5	una	una	G	1	
-6	y	y	G	1	
-7	era	era	N	1	
-8	buffet	buffet	N	1	
-9	,	,	O	1	
-10	pero	pero	O	1	
-11	todo	todo	O	1	
-12	buenísimo	buenísimo	O	1	
-13	.	.	O	1	
+1	Pagamos	Pagamos	R	1	O
+2	8	8	O	1	O
+3	euros	euro	N	1	O
+4	cada	cada	N	1	O
+5	una	una	G	1	O
+6	y	y	G	1	O
+7	era	era	N	1	O
+8	buffet	buffet	N	1	O
+9	,	,	O	1	O
+10	pero	pero	O	1	O
+11	todo	todo	O	1	O
+12	buenísimo	buenísimo	O	1	O
+13	.	.	O	1	O
 
-1	Zumo	Zumo	R	1	
-2	natural	natural	G	1	
-3	recien	recien	N	1	
-4	exprimido	exprimido	N	1	
-5	,	,	O	1	
-6	revuelto	revuelto	N	1	
-7	,	,	O	1	
-8	bacon	bacon	N	1	
-9	,	,	O	1	
-10	etc	etc	O	1	
-11	...	...	O	1	
-12	todo	todo	N	1	
-13	riquísimo	riquísimo	N	1	
-14	.	.	O	1	
+1	Zumo	Zumo	R	1	O
+2	natural	natural	G	1	O
+3	recien	recien	N	1	O
+4	exprimido	exprimido	N	1	O
+5	,	,	O	1	O
+6	revuelto	revuelto	N	1	O
+7	,	,	O	1	O
+8	bacon	bacon	N	1	O
+9	,	,	O	1	O
+10	etc	etc	O	1	O
+11	...	...	O	1	O
+12	todo	todo	N	1	O
+13	riquísimo	riquísimo	N	1	O
+14	.	.	O	1	O
 
-1	Muchísima	Muchísima	R	1	
-2	variedad	variedad	N	1	
-3	en	en	O	1	
-4	la	la	O	1	
-5	bollería	bollería	O	1	
-6	.	.	O	1	
+1	Muchísima	Muchísima	R	1	O
+2	variedad	variedad	N	1	O
+3	en	en	O	1	O
+4	la	la	O	1	O
+5	bollería	bollería	O	1	O
+6	.	.	O	1	O
 
-1	Creo	Creo	R	1	
-2	que	que	V	1	
-3	de	de	O	1	
-4	todos	todos	O	1	
-5	los	los	O	1	
-6	hoteles	hoteles	O	1	
-7	en	en	O	1	
-8	los	los	O	1	
-9	que	que	O	1	
-10	he	he	Q	1	
-11	estado	estado	V	1	
-12	,	,	O	1	
-13	sin	sin	N	1	
-14	duda	duda	N	1	
-15	,	,	O	1	
-16	este	este	N	1	
-17	desayuno	desayuno	O	1	
-18	el	el	N	1	
-19	mejor	mejor	N	1	
-20	.	.	O	1	
+1	Creo	Creo	R	1	O
+2	que	que	V	1	O
+3	de	de	O	1	O
+4	todos	todos	O	1	O
+5	los	los	O	1	O
+6	hoteles	hoteles	O	1	O
+7	en	en	O	1	O
+8	los	los	O	1	O
+9	que	que	O	1	O
+10	he	he	Q	1	O
+11	estado	estado	V	1	O
+12	,	,	O	1	O
+13	sin	sin	N	1	O
+14	duda	duda	N	1	O
+15	,	,	O	1	O
+16	este	este	N	1	O
+17	desayuno	desayuno	O	1	O
+18	el	el	N	1	O
+19	mejor	mejor	N	1	O
+20	.	.	O	1	O
 
-1	Si	Si	R	1	
-2	vuelvo	vuelvo	V	1	
-3	a	a	D	1	
-4	coger	coger	N	1	
-5	un	un	G	1	
-6	hotel	hotel	N	1	
-7	en	en	P	1	
-8	Madrid	Madrid	R	1	
-9	,	,	O	1	
-10	seguro	seguro	N	1	
-11	que	que	N	1	
-12	será	será	N	1	
-13	este	este	N	1	
-14	.	.	O	1	
+1	Si	Si	R	1	O
+2	vuelvo	vuelvo	V	1	O
+3	a	a	D	1	O
+4	coger	coger	N	1	O
+5	un	un	G	1	O
+6	hotel	hotel	N	1	O
+7	en	en	P	1	O
+8	Madrid	Madrid	R	1	O
+9	,	,	O	1	O
+10	seguro	seguro	N	1	O
+11	que	que	N	1	O
+12	será	será	N	1	O
+13	este	este	N	1	O
+14	.	.	O	1	O
 

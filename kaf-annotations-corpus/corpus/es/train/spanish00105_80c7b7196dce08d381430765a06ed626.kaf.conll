@@ -1,48 +1,48 @@
-1	Buen	Buen	R	1	
-2	hotel	hotel	N	1	
-3	centrico	centrico	N	1	
+1	Buen	Buen	R	1	O
+2	hotel	hotel	N	1	O
+3	centrico	centrico	N	1	O
 
-1	el	el	N	1	
-2	hotel	hotel	N	1	
-3	esta	esta	N	1	
-4	muy	muy	G	1	
-5	bien.buena	bien.buena	N	1	
-6	relaccion	relaccion	N	1	
-7	calidad	calidad	G	1	
-8	precio.centrico.buen	precio.centrico.buen	G	1	
-9	desayuno	desayuno	N	1	
-10	y	y	G	1	
-11	buenas	buenas	N	1	
-12	habitaciones.disponen	habitaciones.disponen	V	1	
-13	de	de	P	1	
-14	servicio	servicio	N	1	
-15	de	de	P	1	
-16	transporte	transporte	G	1	
-17	al	al	G	1	
-18	aeropuerto.situado	aeropuerto.situado	N	1	
-19	junto	junto	P	1	
-20	a	a	D	1	
-21	plaza	plaza	N	1	
-22	cavour	cavour	N	1	
-23	,	,	O	1	
-24	zona	zona	O	1	
-25	desde	desde	O	1	
-26	la	la	O	1	
-27	que	que	O	1	
-28	se	se	O	1	
-29	cogen	cogen	O	1	
-30	numerosos	numerosos	O	1	
-31	bus	bus	O	1	
-32	urbanos.se	urbanos.se	O	1	
-33	puede	puede	O	1	
-34	ir	ir	O	1	
-35	andando	andando	O	1	
-36	a	a	D	1	
-37	cualquier	cualquier	N	1	
-38	punto	punto	P	1	
-39	monumental	monumental	G	1	
-40	de	de	O	1	
-41	la	la	O	1	
-42	ciudad	ciudad	N	1	
-43	.	.	O	1	
+1	el	el	N	1	O
+2	hotel	hotel	N	1	O
+3	esta	esta	N	1	O
+4	muy	muy	G	1	O
+5	bien.buena	bien.buena	N	1	O
+6	relaccion	relaccion	N	1	O
+7	calidad	calidad	G	1	O
+8	precio.centrico.buen	precio.centrico.buen	G	1	O
+9	desayuno	desayuno	N	1	O
+10	y	y	G	1	O
+11	buenas	buenas	N	1	O
+12	habitaciones.disponen	habitaciones.disponen	V	1	O
+13	de	de	P	1	O
+14	servicio	servicio	N	1	O
+15	de	de	P	1	O
+16	transporte	transporte	G	1	O
+17	al	al	G	1	O
+18	aeropuerto.situado	aeropuerto.situado	N	1	O
+19	junto	junto	P	1	O
+20	a	a	D	1	O
+21	plaza	plaza	N	1	O
+22	cavour	cavour	N	1	O
+23	,	,	O	1	O
+24	zona	zona	O	1	O
+25	desde	desde	O	1	O
+26	la	la	O	1	O
+27	que	que	O	1	O
+28	se	se	O	1	O
+29	cogen	cogen	O	1	O
+30	numerosos	numerosos	O	1	O
+31	bus	bus	O	1	O
+32	urbanos.se	urbanos.se	O	1	O
+33	puede	puede	O	1	O
+34	ir	ir	O	1	O
+35	andando	andando	O	1	O
+36	a	a	D	1	O
+37	cualquier	cualquier	N	1	O
+38	punto	punto	P	1	O
+39	monumental	monumental	G	1	O
+40	de	de	O	1	O
+41	la	la	O	1	O
+42	ciudad	ciudad	N	1	O
+43	.	.	O	1	O
 

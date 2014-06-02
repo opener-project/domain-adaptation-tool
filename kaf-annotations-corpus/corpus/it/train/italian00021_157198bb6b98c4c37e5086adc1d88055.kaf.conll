@@ -1,170 +1,173 @@
-1	Migliorato	migliorato	R	1	
-2	!	!	O	1	
+1	Migliorato	migliorato	R	1	O
+2	!	!	O	1	O
 
-1	Ero	essere	V	1	
-2	già	già	R	1	
-3	stato	essere	V	1	
-4	in	in	P	1	
-5	questo	questo	G	1	
-6	hotel	hotel	N	1	
-7	,	,	O	1	
-8	ubicato	ubicare	V	1	
-9	sulla	sulla	P	1	
-10	Rennweg_Strasse	rennweg_strasse	R	1	ne=Location
-11	,	,	O	1	
-12	tra	tra	P	1	
-13	altri	altri	Q	1	
-14	2	2	N	1	
-15	hotel	hotel	N	1	
-16	(	(	O	1	
-17	il	lo	D	1	
-18	Lindner_am_Belvedere	lindner_am_belvedere	R	1	ne=Hotel
-19	ed	ed	Q	1	
-20	il	lo	D	1	
-21	Savoyen	savoyen	R	1	ne=Hotel
-22	)	)	O	1	
-23	,	,	O	1	
-24	a	a	P	1	
-25	due	due	G	1	
-26	passi	passo	N	1	
-27	dal	dal	P	1	
-28	Belvedere	belvedere	R	1	ne=POI
-29	e	e	Q	1	
-30	dal	dal	P	1	
-31	centro	centro	N	1	
-32	città	citta'	N	1	
-33	.	.	O	1	
+1	Ero	essere	V	1	O
+2	già	già	R	1	O
+3	stato	essere	V	1	O
+4	in	in	P	1	O
+5	questo	questo	G	1	O
+6	hotel	hotel	N	1	O
+7	,	,	O	1	O
+8	ubicato	ubicare	V	1	O
+9	sulla	sulla	P	1	O
+10	Rennweg	rennweg	R	1	I-Location
+11	Strasse	strasse	R	1	I-Location
+12	,	,	O	1	O
+13	tra	tra	P	1	O
+14	altri	altri	Q	1	O
+15	2	2	N	1	O
+16	hotel	hotel	N	1	O
+17	(	(	O	1	O
+18	il	lo	D	1	O
+19	Lindner	lindner	R	1	I-Hotel
+20	am	am	R	1	I-Hotel
+21	Belvedere	belvedere	R	1	I-Hotel
+22	ed	ed	Q	1	O
+23	il	lo	D	1	O
+24	Savoyen	savoyen	R	1	I-Hotel
+25	)	)	O	1	O
+26	,	,	O	1	O
+27	a	a	P	1	O
+28	due	due	G	1	O
+29	passi	passo	N	1	O
+30	dal	dal	P	1	O
+31	Belvedere	belvedere	R	1	I-POI
+32	e	e	Q	1	O
+33	dal	dal	P	1	O
+34	centro	centro	N	1	O
+35	città	citta'	N	1	O
+36	.	.	O	1	O
 
-1	La	lo	D	1	
-2	stazione	stazione	N	1	
-3	treni	treno	N	1	
-4	/	/	O	1	
-5	metro	metro	N	1	
-6	di	di	P	1	
-7	Rennweg	rennweg	R	1	ne=Location
-8	si	si	Q	1	
-9	trova	trovare	V	1	
-10	a	a	P	1	
-11	100	100	G	1	
-12	mt	mt	N	1	
-13	di	di	P	1	
-14	distanza	distanza	N	1	
-15	,	,	O	1	
-16	la	lo	D	1	
-17	fermata	fermata	N	1	
-18	del	del	P	1	
-19	tram	tram	N	1	
-20	a	a	P	1	
-21	20	20	G	1	
-22	mt	mt	N	1	
-23	.	.	O	1	
+1	La	lo	D	1	O
+2	stazione	stazione	N	1	O
+3	treni	treno	N	1	O
+4	/	/	O	1	O
+5	metro	metro	N	1	O
+6	di	di	P	1	O
+7	Rennweg	rennweg	R	1	I-Location
+8	si	si	Q	1	O
+9	trova	trovare	V	1	O
+10	a	a	P	1	O
+11	100	100	G	1	O
+12	mt	mt	N	1	O
+13	di	di	P	1	O
+14	distanza	distanza	N	1	O
+15	,	,	O	1	O
+16	la	lo	D	1	O
+17	fermata	fermata	N	1	O
+18	del	del	P	1	O
+19	tram	tram	N	1	O
+20	a	a	P	1	O
+21	20	20	G	1	O
+22	mt	mt	N	1	O
+23	.	.	O	1	O
 
-1	La	lo	D	1	
-2	mia	mio	G	1	
-3	stanza	stanza	N	1	
-4	(	(	O	1	
-5	SINGOLA	singola	R	1	
-6	)	)	O	1	
-7	era	essere	V	1	
-8	molto	molto	A	1	
-9	grande	grande	G	1	
-10	e	e	Q	1	
-11	luminosa	luminoso	G	1	
-12	,	,	O	1	
-13	persino	persino	A	1	
-14	il	lo	D	1	
-15	bagno	bagno	N	1	
-16	era	essere	V	1	
-17	dotato	dotare	V	1	
-18	di	di	P	1	
-19	un'	uno	D	1	
-20	ampia	ampio	G	1	
-21	finestra	finestra	N	1	
-22	!	!	O	1	
-23	,	,	O	1	
-24	arredata	arredare	V	1	
-25	con	con	P	1	
-26	stile	stile	N	1	
-27	classico	classico	G	1	
-28	e	e	Q	1	
-29	sobrio	sobrio	G	1	
-30	,	,	O	1	
-31	la	lo	D	1	
-32	TV	tv	R	1	
-33	prende	prendere	V	1	
-34	anche	anche	Q	1	
-35	alcuni	alcuno	G	1	
-36	canali	canale	N	1	
-37	italiani	italiano	G	1	
-38	.	.	O	1	
+1	La	lo	D	1	O
+2	mia	mio	G	1	O
+3	stanza	stanza	N	1	O
+4	(	(	O	1	O
+5	SINGOLA	singola	R	1	O
+6	)	)	O	1	O
+7	era	essere	V	1	O
+8	molto	molto	A	1	O
+9	grande	grande	G	1	O
+10	e	e	Q	1	O
+11	luminosa	luminoso	G	1	O
+12	,	,	O	1	O
+13	persino	persino	A	1	O
+14	il	lo	D	1	O
+15	bagno	bagno	N	1	O
+16	era	essere	V	1	O
+17	dotato	dotare	V	1	O
+18	di	di	P	1	O
+19	un'	uno	D	1	O
+20	ampia	ampio	G	1	O
+21	finestra	finestra	N	1	O
+22	!	!	O	1	O
+23	,	,	O	1	O
+24	arredata	arredare	V	1	O
+25	con	con	P	1	O
+26	stile	stile	N	1	O
+27	classico	classico	G	1	O
+28	e	e	Q	1	O
+29	sobrio	sobrio	G	1	O
+30	,	,	O	1	O
+31	la	lo	D	1	O
+32	TV	tv	R	1	O
+33	prende	prendere	V	1	O
+34	anche	anche	Q	1	O
+35	alcuni	alcuno	G	1	O
+36	canali	canale	N	1	O
+37	italiani	italiano	G	1	O
+38	.	.	O	1	O
 
-1	Personale	personale	G	1	
-2	svelto	svelto	G	1	
-3	e	e	Q	1	
-4	disponibile	disponibile	G	1	
-5	,	,	O	1	
-6	check	check	N	1	
-7	·	·	R	1	
-8	out	out	G	1	
-9	durato	durare	V	1	
-10	pochi	poco	G	1	
-11	secondi	secondo	N	1	
-12	!	!	O	1	
+1	Personale	personale	G	1	O
+2	svelto	svelto	G	1	O
+3	e	e	Q	1	O
+4	disponibile	disponibile	G	1	O
+5	,	,	O	1	O
+6	check	check	N	1	O
+7	·	·	R	1	O
+8	out	out	G	1	O
+9	durato	durare	V	1	O
+10	pochi	poco	G	1	O
+11	secondi	secondo	N	1	O
+12	!	!	O	1	O
 
-1	La	lo	D	1	
-2	colazione	colazione	N	1	
-3	è	è	R	1	
-4	stata	essere	V	1	
-5	migliorata	migliorare	V	1	
-6	con	con	P	1	
-7	spremute	spremuta	N	1	
-8	·	·	R	1	
-9	frullati	frullato	G	1	
-10	freschi	fresco	N	1	
-11	e	e	Q	1	
-12	frutta	frutta	N	1	
-13	secca	secco	G	1	
-14	.	.	O	1	
+1	La	lo	D	1	O
+2	colazione	colazione	N	1	O
+3	è	è	R	1	O
+4	stata	essere	V	1	O
+5	migliorata	migliorare	V	1	O
+6	con	con	P	1	O
+7	spremute	spremuta	N	1	O
+8	·	·	R	1	O
+9	frullati	frullato	G	1	O
+10	freschi	fresco	N	1	O
+11	e	e	Q	1	O
+12	frutta	frutta	N	1	O
+13	secca	secco	G	1	O
+14	.	.	O	1	O
 
-1	Ottima	ottimo	G	1	
-2	la	lo	D	1	
-3	qualità	qualita'	N	1	
-4	del	del	P	1	
-5	cibo	cibo	N	1	
-6	offerto	offrire	V	1	
-7	.	.	O	1	
+1	Ottima	ottimo	G	1	O
+2	la	lo	D	1	O
+3	qualità	qualita'	N	1	O
+4	del	del	P	1	O
+5	cibo	cibo	N	1	O
+6	offerto	offrire	V	1	O
+7	.	.	O	1	O
 
-1	Al	al	P	1	
-2	piano	piano	N	1	
-3	interrato	interrare	V	1	
-4	c'	c'	A	1	
-5	è	è	R	1	
-6	un'	uno	D	1	
-7	ampia	ampio	G	1	
-8	zona	zona	N	1	
-9	fitness	fitness	N	1	
-10	/	/	O	1	
-11	relax	relax	N	1	
-12	ma	ma	Q	1	
-13	manca	mancare	V	1	
-14	il	lo	D	1	
-15	solarium	solarium	R	1	
-16	(	(	O	1	
-17	peccato	peccato	N	1	
-18	)	)	O	1	
-19	.	.	O	1	
+1	Al	al	P	1	O
+2	piano	piano	N	1	O
+3	interrato	interrare	V	1	O
+4	c'	c'	A	1	O
+5	è	è	R	1	O
+6	un'	uno	D	1	O
+7	ampia	ampio	G	1	O
+8	zona	zona	N	1	O
+9	fitness	fitness	N	1	O
+10	/	/	O	1	O
+11	relax	relax	N	1	O
+12	ma	ma	Q	1	O
+13	manca	mancare	V	1	O
+14	il	lo	D	1	O
+15	solarium	solarium	R	1	O
+16	(	(	O	1	O
+17	peccato	peccato	N	1	O
+18	)	)	O	1	O
+19	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	prezzo	prezzo	N	1	
-3	è	è	R	1	
-4	SEMPRE	sempre	A	1	
-5	inferiore	inferiore	N	1	
-6	a	a	P	1	
-7	quello	quello	Q	1	
-8	dei	dei	P	1	
-9	2	2	N	1	
-10	hotel	hotel	N	1	
-11	a	a	P	1	
-12	fianco	fianco	N	1	
-13	.	.	O	1	
+1	Il	lo	D	1	O
+2	prezzo	prezzo	N	1	O
+3	è	è	R	1	O
+4	SEMPRE	sempre	A	1	O
+5	inferiore	inferiore	N	1	O
+6	a	a	P	1	O
+7	quello	quello	Q	1	O
+8	dei	dei	P	1	O
+9	2	2	N	1	O
+10	hotel	hotel	N	1	O
+11	a	a	P	1	O
+12	fianco	fianco	N	1	O
+13	.	.	O	1	O
 

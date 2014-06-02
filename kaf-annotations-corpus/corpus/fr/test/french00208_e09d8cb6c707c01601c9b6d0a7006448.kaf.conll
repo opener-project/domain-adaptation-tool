@@ -1,166 +1,166 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	rapport	rapport	N	1	
-4	qualité	qualité	N	1	
-5	/	/	P	1	
-6	prix	prix	N	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	rapport	rapport	N	1	O
+4	qualité	qualité	N	1	O
+5	/	/	P	1	O
+6	prix	prix	N	1	O
 
-1	Un	un	D	1	
-2	hôtel	hôtel	N	1	
-3	idéalement	idéalement	G	1	
-4	situé	situer	V	1	
-5	à	à	P	1	
-6	1	1	D	1	
-7	km	kilomètre	N	1	
-8	de	de	P	1	
-9	l'	le	D	1	
-10	autoroute	autoroute	N	1	
-11	,	,	O	1	
-12	85	85	D	1	
-13	km	kilomètre	N	1	
-14	au	au	P	1	
-15	sud	sud	N	1	
-16	de	de	P	1	
-17	Florence	florence	R	1	ne=Location
-18	,	,	O	1	
-19	en	en	P	1	
-20	pleine	plein	G	1	
-21	campagne	campagne	N	1	
-22	Toscane	Toscane	R	1	ne=Location
-23	.	.	O	1	
+1	Un	un	D	1	O
+2	hôtel	hôtel	N	1	O
+3	idéalement	idéalement	G	1	O
+4	situé	situer	V	1	O
+5	à	à	P	1	O
+6	1	1	D	1	O
+7	km	kilomètre	N	1	O
+8	de	de	P	1	O
+9	l'	le	D	1	O
+10	autoroute	autoroute	N	1	O
+11	,	,	O	1	O
+12	85	85	D	1	O
+13	km	kilomètre	N	1	O
+14	au	au	P	1	O
+15	sud	sud	N	1	O
+16	de	de	P	1	O
+17	Florence	florence	R	1	I-Location
+18	,	,	O	1	O
+19	en	en	P	1	O
+20	pleine	plein	G	1	O
+21	campagne	campagne	N	1	O
+22	Toscane	Toscane	R	1	I-Location
+23	.	.	O	1	O
 
-1	Idéal	idéal	N	1	
-2	pour	pour	P	1	
-3	une	un	D	1	
-4	étape	étape	N	1	
-5	.	.	O	1	
+1	Idéal	idéal	N	1	O
+2	pour	pour	P	1	O
+3	une	un	D	1	O
+4	étape	étape	N	1	O
+5	.	.	O	1	O
 
-1	Calme	calme	N	1	
-2	et	et	C	1	
-3	plutôt	plutôt	G	1	
-4	luxueux	luxueux	G	1	
-5	pour	pour	P	1	
-6	le	le	D	1	
-7	prix	prix	N	1	
-8	.	.	O	1	
+1	Calme	calme	N	1	O
+2	et	et	C	1	O
+3	plutôt	plutôt	G	1	O
+4	luxueux	luxueux	G	1	O
+5	pour	pour	P	1	O
+6	le	le	D	1	O
+7	prix	prix	N	1	O
+8	.	.	O	1	O
 
-1	Les	le	D	1	
-2	chambres	chambre	N	1	
-3	sont	être	V	1	
-4	très	très	G	1	
-5	confortables	confortable	G	1	
-6	et	et	C	1	
-7	bien	bien	G	1	
-8	isolées	isoler	V	1	
-9	.	.	O	1	
+1	Les	le	D	1	O
+2	chambres	chambre	N	1	O
+3	sont	être	V	1	O
+4	très	très	G	1	O
+5	confortables	confortable	G	1	O
+6	et	et	C	1	O
+7	bien	bien	G	1	O
+8	isolées	isoler	V	1	O
+9	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	absolument	absolument	G	1	
-5	charmant	charmant	G	1	
-6	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	absolument	absolument	G	1	O
+5	charmant	charmant	G	1	O
+6	.	.	O	1	O
 
-1	Le	le	D	1	
-2	restaurant	restaurant	N	1	
-3	,	,	O	1	
-4	dans	dans	P	1	
-5	un	un	D	1	
-6	cadre	cadre	N	1	
-7	assez	assez	G	1	
-8	sobre	sobre	G	1	
-9	,	,	O	1	
-10	présente	présenter	V	1	
-11	aussi	aussi	G	1	
-12	un	un	D	1	
-13	bon	bon	G	1	
-14	rapport	rapport	N	1	
-15	qualité	qualité	N	1	
-16	/	/	P	1	
-17	prix	prix	N	1	
-18	et	et	C	1	
-19	permet	permettre	V	1	
-20	de	de	P	1	
-21	déguster	déguster	V	1	
-22	d'	d'	P	1	
-23	excellentes	excellent	G	1	
-24	spécialités	spécialité	N	1	
-25	dont	dont	P	1	
-26	certaines	certaines	P	1	
-27	typiquement	typiquement	G	1	
-28	toscanes	toscanes	G	1	
-29	.	.	O	1	
+1	Le	le	D	1	O
+2	restaurant	restaurant	N	1	O
+3	,	,	O	1	O
+4	dans	dans	P	1	O
+5	un	un	D	1	O
+6	cadre	cadre	N	1	O
+7	assez	assez	G	1	O
+8	sobre	sobre	G	1	O
+9	,	,	O	1	O
+10	présente	présenter	V	1	O
+11	aussi	aussi	G	1	O
+12	un	un	D	1	O
+13	bon	bon	G	1	O
+14	rapport	rapport	N	1	O
+15	qualité	qualité	N	1	O
+16	/	/	P	1	O
+17	prix	prix	N	1	O
+18	et	et	C	1	O
+19	permet	permettre	V	1	O
+20	de	de	P	1	O
+21	déguster	déguster	V	1	O
+22	d'	d'	P	1	O
+23	excellentes	excellent	G	1	O
+24	spécialités	spécialité	N	1	O
+25	dont	dont	P	1	O
+26	certaines	certaines	P	1	O
+27	typiquement	typiquement	G	1	O
+28	toscanes	toscanes	G	1	O
+29	.	.	O	1	O
 
-1	Cet	ce	D	1	
-2	établissement	établissement	N	1	
-3	est	être	V	1	
-4	une	un	D	1	
-5	étape	étape	N	1	
-6	très	très	G	1	
-7	fréquentée	fréquenter	V	1	
-8	par	par	P	1	
-9	les	le	D	1	
-10	chauffeurs	chauffeur	N	1	
-11	routiers	routier	G	1	
-12	et	et	C	1	
-13	cela	cela	P	1	
-14	n'	n'	G	1	
-15	en	en	Q	1	
-16	fait	faire	V	1	
-17	pas	pas	G	1	
-18	pour	pour	P	1	
-19	autant	autant	G	1	
-20	un	un	D	1	
-21	endroit	endroit	N	1	
-22	bruyant	bruyant	G	1	
-23	.	.	O	1	
+1	Cet	ce	D	1	O
+2	établissement	établissement	N	1	O
+3	est	être	V	1	O
+4	une	un	D	1	O
+5	étape	étape	N	1	O
+6	très	très	G	1	O
+7	fréquentée	fréquenter	V	1	O
+8	par	par	P	1	O
+9	les	le	D	1	O
+10	chauffeurs	chauffeur	N	1	O
+11	routiers	routier	G	1	O
+12	et	et	C	1	O
+13	cela	cela	P	1	O
+14	n'	n'	G	1	O
+15	en	en	Q	1	O
+16	fait	faire	V	1	O
+17	pas	pas	G	1	O
+18	pour	pour	P	1	O
+19	autant	autant	G	1	O
+20	un	un	D	1	O
+21	endroit	endroit	N	1	O
+22	bruyant	bruyant	G	1	O
+23	.	.	O	1	O
 
-1	Le	le	D	1	
-2	matin	matin	N	1	
-3	,	,	O	1	
-4	on	on	Q	1	
-5	s'	s'	Q	1	
-6	aperçoit	apercevoir	V	1	
-7	que	que	G	1	
-8	tous	tout	G	1	
-9	les	le	D	1	
-10	camions	camion	N	1	
-11	sont	être	V	1	
-12	partis	partir	V	1	
-13	sans	sans]	P	1	
-14	qu'	qu'	C	1	
-15	on	on	Q	1	
-16	ait	avoir	V	1	
-17	rien	rien	P	1	
-18	entendu	entendre	V	1	
-19	.	.	O	1	
+1	Le	le	D	1	O
+2	matin	matin	N	1	O
+3	,	,	O	1	O
+4	on	on	Q	1	O
+5	s'	s'	Q	1	O
+6	aperçoit	apercevoir	V	1	O
+7	que	que	G	1	O
+8	tous	tout	G	1	O
+9	les	le	D	1	O
+10	camions	camion	N	1	O
+11	sont	être	V	1	O
+12	partis	partir	V	1	O
+13	sans	sans]	P	1	O
+14	qu'	qu'	C	1	O
+15	on	on	Q	1	O
+16	ait	avoir	V	1	O
+17	rien	rien	P	1	O
+18	entendu	entendre	V	1	O
+19	.	.	O	1	O
 
-1	Les	le	D	1	
-2	chauffeurs	chauffeur	N	1	
-3	sont	être	V	1	
-4	sympathiques	sympathique	G	1	
-5	et	et	C	1	
-6	courtois	courtois	G	1	
-7	.	.	O	1	
+1	Les	le	D	1	O
+2	chauffeurs	chauffeur	N	1	O
+3	sont	être	V	1	O
+4	sympathiques	sympathique	G	1	O
+5	et	et	C	1	O
+6	courtois	courtois	G	1	O
+7	.	.	O	1	O
 
-1	C'	C'	Q	1	
-2	est	être	V	1	
-3	la	le	D	1	
-4	2e	2e	D	1	
-5	fois	foi	N	1	
-6	en	en	P	1	
-7	4	4	D	1	
-8	ans	an	N	1	
-9	que	que	C	1	
-10	nous	lui	Q	1	
-11	nous	lui	Q	1	
-12	y	y	Q	1	
-13	arrêtons	arrêter	V	1	
-14	et	et	C	1	
-15	nous	lui	Q	1	
-16	y	y	Q	1	
-17	retournerons	retourner	V	1	
-18	sans	sans]	P	1	
-19	hésiter	hésiter	V	1	
-20	.	.	O	1	
+1	C'	C'	Q	1	O
+2	est	être	V	1	O
+3	la	le	D	1	O
+4	2e	2e	D	1	O
+5	fois	foi	N	1	O
+6	en	en	P	1	O
+7	4	4	D	1	O
+8	ans	an	N	1	O
+9	que	que	C	1	O
+10	nous	lui	Q	1	O
+11	nous	lui	Q	1	O
+12	y	y	Q	1	O
+13	arrêtons	arrêter	V	1	O
+14	et	et	C	1	O
+15	nous	lui	Q	1	O
+16	y	y	Q	1	O
+17	retournerons	retourner	V	1	O
+18	sans	sans]	P	1	O
+19	hésiter	hésiter	V	1	O
+20	.	.	O	1	O
 

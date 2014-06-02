@@ -1,116 +1,116 @@
-1	Bueno	Bueno	R	1	
-2	hotel	hotel	N	1	
-3	de	de	P	1	
-4	ciudad	ciudad	G	1	
-5	en	en	P	1	
-6	general	general	G	1	
+1	Bueno	Bueno	R	1	O
+2	hotel	hotel	N	1	O
+3	de	de	P	1	O
+4	ciudad	ciudad	G	1	O
+5	en	en	P	1	O
+6	general	general	G	1	O
 
-1	En	En	R	1	
-2	general	general	G	1	
-3	es	es	N	1	
-4	un	un	G	1	
-5	buen	buen	N	1	
-6	hotel	hotel	N	1	
-7	,	,	O	1	
-8	amplio	amplio	N	1	
-9	,	,	O	1	
-10	habitaciones	habitaciones	V	1	
-11	muy	muy	G	1	
-12	cuidadas	cuidadas	N	1	
-13	,	,	O	1	
-14	limpio	limpio	N	1	
-15	,	,	O	1	
-16	aunque	aunque	V	1	
-17	no	no	D	1	
-18	todos	todos	N	1	
-19	los	los	N	1	
-20	dias	dias	N	1	
-21	cambiaban	cambiaban	O	1	
-22	las	las	V	1	
-23	sabanas	sabanas	N	1	
-24	,	,	O	1	
-25	el	el	N	1	
-26	buffet	buffet	N	1	
-27	de	de	P	1	
-28	desayuno	desayuno	N	1	
-29	,	,	O	1	
-30	a	a	D	1	
-31	mi	mi	N	1	
-32	gusto	gusto	N	1	
-33	,	,	O	1	
-34	era	era	N	1	
-35	escaso	escaso	O	1	
-36	y	y	G	1	
-37	un	un	G	1	
-38	horario	horario	N	1	
-39	bastante	bastante	N	1	
-40	tenpranero	tenpranero	N	1	
-41	.	.	O	1	
+1	En	En	R	1	O
+2	general	general	G	1	O
+3	es	es	N	1	O
+4	un	un	G	1	O
+5	buen	buen	N	1	O
+6	hotel	hotel	N	1	O
+7	,	,	O	1	O
+8	amplio	amplio	N	1	O
+9	,	,	O	1	O
+10	habitaciones	habitaciones	V	1	O
+11	muy	muy	G	1	O
+12	cuidadas	cuidadas	N	1	O
+13	,	,	O	1	O
+14	limpio	limpio	N	1	O
+15	,	,	O	1	O
+16	aunque	aunque	V	1	O
+17	no	no	D	1	O
+18	todos	todos	N	1	O
+19	los	los	N	1	O
+20	dias	dias	N	1	O
+21	cambiaban	cambiaban	O	1	O
+22	las	las	V	1	O
+23	sabanas	sabanas	N	1	O
+24	,	,	O	1	O
+25	el	el	N	1	O
+26	buffet	buffet	N	1	O
+27	de	de	P	1	O
+28	desayuno	desayuno	N	1	O
+29	,	,	O	1	O
+30	a	a	D	1	O
+31	mi	mi	N	1	O
+32	gusto	gusto	N	1	O
+33	,	,	O	1	O
+34	era	era	N	1	O
+35	escaso	escaso	O	1	O
+36	y	y	G	1	O
+37	un	un	G	1	O
+38	horario	horario	N	1	O
+39	bastante	bastante	N	1	O
+40	tenpranero	tenpranero	N	1	O
+41	.	.	O	1	O
 
-1	La	La	R	1	
-2	comida	comida	O	1	
-3	y	y	G	1	
-4	cena	cena	N	1	
-5	,	,	O	1	
-6	para	para	G	1	
-7	ser	ser	N	1	
-8	un	un	G	1	
-9	hotel	hotel	N	1	
-10	de	de	P	1	
-11	4	4	O	1	
-12	estrellas	estrellas	N	1	
-13	era	era	G	1	
-14	escasa	escasa	N	1	
-15	y	y	G	1	
-16	habia	habia	N	1	
-17	poco	poco	V	1	
-18	donde	donde	A	1	
-19	elegir	elegir	G	1	
-20	,	,	O	1	
-21	dos	dos	N	1	
-22	primeros	primeros	N	1	
-23	,	,	O	1	
-24	dos	dos	N	1	
-25	segundos	segundos	N	1	
-26	y	y	G	1	
-27	dos	dos	N	1	
-28	postres	postres	N	1	
-29	,	,	O	1	
-30	un	un	G	1	
-31	poco	poco	N	1	
-32	mas	mas	O	1	
-33	de	de	O	1	
-34	amplitud	amplitud	O	1	
-35	de	de	O	1	
-36	menu	menu	O	1	
-37	donde	donde	O	1	
-38	elegir	elegir	O	1	
-39	no	no	O	1	
-40	vendria	vendria	O	1	
-41	nada	nada	O	1	
-42	mal	mal	G	1	
-43	sinceramente	sinceramente	N	1	
-44	.	.	O	1	
+1	La	La	R	1	O
+2	comida	comida	O	1	O
+3	y	y	G	1	O
+4	cena	cena	N	1	O
+5	,	,	O	1	O
+6	para	para	G	1	O
+7	ser	ser	N	1	O
+8	un	un	G	1	O
+9	hotel	hotel	N	1	O
+10	de	de	P	1	O
+11	4	4	O	1	O
+12	estrellas	estrellas	N	1	O
+13	era	era	G	1	O
+14	escasa	escasa	N	1	O
+15	y	y	G	1	O
+16	habia	habia	N	1	O
+17	poco	poco	V	1	O
+18	donde	donde	A	1	O
+19	elegir	elegir	G	1	O
+20	,	,	O	1	O
+21	dos	dos	N	1	O
+22	primeros	primeros	N	1	O
+23	,	,	O	1	O
+24	dos	dos	N	1	O
+25	segundos	segundos	N	1	O
+26	y	y	G	1	O
+27	dos	dos	N	1	O
+28	postres	postres	N	1	O
+29	,	,	O	1	O
+30	un	un	G	1	O
+31	poco	poco	N	1	O
+32	mas	mas	O	1	O
+33	de	de	O	1	O
+34	amplitud	amplitud	O	1	O
+35	de	de	O	1	O
+36	menu	menu	O	1	O
+37	donde	donde	O	1	O
+38	elegir	elegir	O	1	O
+39	no	no	O	1	O
+40	vendria	vendria	O	1	O
+41	nada	nada	O	1	O
+42	mal	mal	G	1	O
+43	sinceramente	sinceramente	N	1	O
+44	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	muy	muy	N	1	
-4	bien	bien	N	1	
-5	,	,	O	1	
-6	tuvimos	tuvimos	V	1	
-7	una	una	G	1	
-8	gotera	gotera	N	1	
-9	en	en	O	1	
-10	la	la	O	1	
-11	habitacion	habitacion	O	1	
-12	y	y	G	1	
-13	nos	nos	N	1	
-14	cambiaron	cambiaron	V	1	
-15	a	a	D	1	
-16	una	una	G	1	
-17	habitacion	habitacion	N	1	
-18	superios	superios	N	1	
-19	sin	sin	N	1	
-20	problemas	problemas	N	1	
-21	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	muy	muy	N	1	O
+4	bien	bien	N	1	O
+5	,	,	O	1	O
+6	tuvimos	tuvimos	V	1	O
+7	una	una	G	1	O
+8	gotera	gotera	N	1	O
+9	en	en	O	1	O
+10	la	la	O	1	O
+11	habitacion	habitacion	O	1	O
+12	y	y	G	1	O
+13	nos	nos	N	1	O
+14	cambiaron	cambiaron	V	1	O
+15	a	a	D	1	O
+16	una	una	G	1	O
+17	habitacion	habitacion	N	1	O
+18	superios	superios	N	1	O
+19	sin	sin	N	1	O
+20	problemas	problemas	N	1	O
+21	.	.	O	1	O
 

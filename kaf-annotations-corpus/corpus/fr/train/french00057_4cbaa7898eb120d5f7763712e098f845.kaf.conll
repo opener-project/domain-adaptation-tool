@@ -1,39 +1,42 @@
-1	Bof	Bof	N	1	
+1	Bof	Bof	N	1	O
 
-1	En	En	P	1	
-2	juillet	juillet	R	1	ne=Date
-3	Aout	Aout	R	1	ne=Date
-4	rien	rien	P	1	
-5	à	à	P	1	
-6	voir	voir	V	1	
-7	car	car	C	1	
-8	en	en	P	1	
-9	dehors	dehors	O	1	
-10	des	un	D	1	
-11	périodes	période	N	1	
-12	de	de	P	1	
-13	migration	migration	N	1	
+1	En	En	P	1	O
+2	juillet	juillet	R	1	I-Date
+3	Aout	Aout	R	1	B-Date
+4	rien	rien	P	1	O
+5	à	à	P	1	O
+6	voir	voir	V	1	O
+7	car	car	C	1	O
+8	en	en	P	1	O
+9	dehors	dehors	O	1	O
+10	des	un	D	1	O
+11	périodes	période	N	1	O
+12	de	de	P	1	O
+13	migration	migration	N	1	O
 
-1	PRÉFÉRER	PRÉFÉRER	N	1	
-2	LE_JARDIN_DES_PAPILLONS	le_jardin_DES_papillon	R	1	ne=Attraction
-3	en	en	P	1	
-4	direction	direction	N	1	
-5	de	de	P	1	
-6	Cazeaux	Cazeaux	R	1	ne=Location
-7	(	(	O	1	
-8	note	note	N	1	
-9	8	8	O	1	
-10	/	/	P	1	
-11	10	10	P	1	
-12	)	)	O	1	
-13	vous	lui	Q	1	
-14	êtes	être	V	1	
-15	au	au	O	1	
-16	milieu	milieu	O	1	
-17	des	un	D	1	
-18	papillons	papillon	N	1	
-19	et	et	C	1	
-20	plantes	plante	N	1	
-21	étranges	étrange	G	1	
-22	.	.	O	1	
+1	PRÉFÉRER	PRÉFÉRER	N	1	O
+2	LE	le	D	1	I-Attraction
+3	JARDIN	jardin	N	1	I-Attraction
+4	DES	DES	P	1	I-Attraction
+5	PAPILLONS	papillon	N	1	I-Attraction
+6	en	en	P	1	O
+7	direction	direction	N	1	O
+8	de	de	P	1	O
+9	Cazeaux	Cazeaux	R	1	I-Location
+10	(	(	O	1	O
+11	note	note	N	1	O
+12	8	8	O	1	O
+13	/	/	P	1	O
+14	10	10	P	1	O
+15	)	)	O	1	O
+16	vous	lui	Q	1	O
+17	êtes	être	V	1	O
+18	au	au	O	1	O
+19	milieu	milieu	O	1	O
+20	des	un	D	1	O
+21	papillons	papillon	N	1	O
+22	et	et	C	1	O
+23	plantes	plante	N	1	O
+24	étranges	étrange	G	1	O
+25	.	.	O	1	O
 

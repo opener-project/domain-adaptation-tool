@@ -1,147 +1,147 @@
-1	Zeer	zeer	G	1	
-2	slecht	slecht	G	1	
-3	hotel	hotel	N	1	
+1	Zeer	zeer	G	1	O
+2	slecht	slecht	G	1	O
+3	hotel	hotel	N	1	O
 
-1	Dit	dit	Q	1	
-2	is	zijn	V	1	
-3	zo	zo	A	1	
-4	n	n	N	1	
-5	vies	vies	G	1	
-6	hotel.het	hotel	N	1	
-7	hotel.het	.	O	1	
-8	hotel.het	het	D	1	
-9	eten	eten	N	1	
-10	is	zijn	V	1	
-11	vies	vies	G	1	
-12	.maar	.	O	1	
-13	.maar	maar	C	1	
-14	de	de	D	1	
-15	kmrs	kmrs	O	1	
-16	klein	klein	G	1	
-17	en	en	C	1	
-18	vies	vies	G	1	
-19	.nog	.	O	1	
-20	.nog	nog	A	1	
-21	nooit	nooit	A	1	
-22	zo	zo	A	1	
-23	n	n	N	1	
-24	vies	vies	G	1	
-25	vuil	vuil	G	1	
-26	hotel	hotel	N	1	
-27	gezien.eerste	zien	V	1	
-28	gezien.eerste	.	O	1	
-29	gezien.eerste	een	O	1	
-30	5	@card@	O	1	
-31	dagen	dag	N	1	
-32	niet	niet	A	1	
-33	kunnen	kunnen	V	1	
-34	douche	douche	N	1	
-35	na	na	P	1	
-36	veel	veel	O	1	
-37	ruzie	ruzie	N	1	
-38	kreeg	krijgen	V	1	
-39	ik	ik	Q	1	
-40	n	n	N	1	
-41	andere	ander	G	1	
-42	kmr.naast	kmr	O	1	
-43	kmr.naast	.	O	1	
-44	kmr.naast	naast	P	1	
-45	afval	afval	N	1	
-46	stort	storten	V	1	
-47	van	van	P	1	
-48	het	het	D	1	
-49	hotel.was	hotel	N	1	
-50	hotel.was	.	O	1	
-51	hotel.was	wezen|zijn	V	1	
-52	niet	niet	A	1	
-53	veel	veel	A	1	
-54	beter	beter|goed	G	1	
-55	maar	maar	C	1	
-56	ik	ik	Q	1	
-57	kon	kunnen	V	1	
-58	douche	douche	N	1	
-59	.maar	.	O	1	
-60	.maar	maar	A	1	
-61	vol	vol	G	1	
-62	mee	mee	A	1	
-63	mieren.ontbijt	mieren	V	1	
-64	mieren.ontbijt	.	O	1	
-65	mieren.ontbijt	ontbijt	N	1	
-66	tussen	tussen	P	1	
-67	7	@card@	O	1	
-68	en	en	C	1	
-69	9	@card@	O	1	
-70	zo	zo	A	1	
-71	niet	niet	A	1	
-72	kreeg	krijgen	V	1	
-73	je	je	Q	1	
-74	niks.mits	niks	Q	1	
-75	niks.mits	.	O	1	
-76	niks.mits	mits	C	1	
-77	dat	dat	C	1	
-78	je	je	Q	1	
-79	geld	geld	N	1	
-80	gaf	geven	V	1	
-81	aan	aan	P	1	
-82	het	het	D	1	
-83	personeel.sigaretten	personeel	N	1	
-84	personeel.sigaretten	.	O	1	
-85	personeel.sigaretten	sigaret	N	1	
-86	pakt	pakt	N	1	
-87	het	het	D	1	
-88	personeel	personeel	N	1	
-89	gewoon	gewoon	G	1	
-90	van	van	P	1	
-91	tafel	tafel	N	1	
-92	af.geld	af	A	1	
-93	af.geld	.	O	1	
-94	af.geld	geld	N	1	
-95	en	en	C	1	
-96	sigaretten	sigaret	N	1	
-97	daar	daar	A	1	
-98	zijn	zijn	V	1	
-99	ze	ze	Q	1	
-100	gek	gek	G	1	
-101	op.direkteur	op	A	1	
-102	op.direkteur	.	O	1	
-103	op.direkteur	direkteur	O	1	
-104	n	n	N	1	
-105	arrogant	arrogant	G	1	
-106	mannetje.daar	man	N	1	
-107	mannetje.daar	.	O	1	
-108	mannetje.daar	daar	C	1	
-109	Krijg	krijg	N	1	
-110	je	je	Q	1	
-111	geen	geen	D	1	
-112	gelijk	gelijk	G	1	
-113	van.mits	van	P	1	
-114	van.mits	.	O	1	
-115	van.mits	mits	C	1	
-116	hy	hy	O	1	
-117	genoeg	genoeg	A	1	
-118	whisky	whisky	N	1	
-119	op	op	A	1	
-120	had.zuipen	hebben	V	1	
-121	had.zuipen	.	O	1	
-122	had.zuipen	zuipen	V	1	
-123	kon	kunnen	V	1	
-124	hy	hy	O	1	
-125	wel.al	wel	A	1	
-126	wel.al	.	O	1	
-127	wel.al	al	D	1	
-128	by	by	O	1	
-129	al	al	A	1	
-130	ga	gaan	V	1	
-131	hier	hier	A	1	
-132	niet	niet	A	1	
-133	na	na	A	1	
-134	toe	toe	A	1	
-135	smerig	smerig	G	1	
-136	hotel.je	hotel	N	1	
-137	hotel.je	.	O	1	
-138	hotel.je	je	Q	1	
-139	krijgt	krijgen	V	1	
-140	er	er	Q	1	
-141	spijt	spijten	V	1	
-142	van	van	P	1	
+1	Dit	dit	Q	1	O
+2	is	zijn	V	1	O
+3	zo	zo	A	1	O
+4	n	n	N	1	O
+5	vies	vies	G	1	O
+6	hotel.het	hotel	N	1	O
+7	hotel.het	.	O	1	O
+8	hotel.het	het	D	1	O
+9	eten	eten	N	1	O
+10	is	zijn	V	1	O
+11	vies	vies	G	1	O
+12	.maar	.	O	1	O
+13	.maar	maar	C	1	O
+14	de	de	D	1	O
+15	kmrs	kmrs	O	1	O
+16	klein	klein	G	1	O
+17	en	en	C	1	O
+18	vies	vies	G	1	O
+19	.nog	.	O	1	O
+20	.nog	nog	A	1	O
+21	nooit	nooit	A	1	O
+22	zo	zo	A	1	O
+23	n	n	N	1	O
+24	vies	vies	G	1	O
+25	vuil	vuil	G	1	O
+26	hotel	hotel	N	1	O
+27	gezien.eerste	zien	V	1	O
+28	gezien.eerste	.	O	1	O
+29	gezien.eerste	een	O	1	O
+30	5	@card@	O	1	O
+31	dagen	dag	N	1	O
+32	niet	niet	A	1	O
+33	kunnen	kunnen	V	1	O
+34	douche	douche	N	1	O
+35	na	na	P	1	O
+36	veel	veel	O	1	O
+37	ruzie	ruzie	N	1	O
+38	kreeg	krijgen	V	1	O
+39	ik	ik	Q	1	O
+40	n	n	N	1	O
+41	andere	ander	G	1	O
+42	kmr.naast	kmr	O	1	O
+43	kmr.naast	.	O	1	O
+44	kmr.naast	naast	P	1	O
+45	afval	afval	N	1	O
+46	stort	storten	V	1	O
+47	van	van	P	1	O
+48	het	het	D	1	O
+49	hotel.was	hotel	N	1	O
+50	hotel.was	.	O	1	O
+51	hotel.was	wezen|zijn	V	1	O
+52	niet	niet	A	1	O
+53	veel	veel	A	1	O
+54	beter	beter|goed	G	1	O
+55	maar	maar	C	1	O
+56	ik	ik	Q	1	O
+57	kon	kunnen	V	1	O
+58	douche	douche	N	1	O
+59	.maar	.	O	1	O
+60	.maar	maar	A	1	O
+61	vol	vol	G	1	O
+62	mee	mee	A	1	O
+63	mieren.ontbijt	mieren	V	1	O
+64	mieren.ontbijt	.	O	1	O
+65	mieren.ontbijt	ontbijt	N	1	O
+66	tussen	tussen	P	1	O
+67	7	@card@	O	1	O
+68	en	en	C	1	O
+69	9	@card@	O	1	O
+70	zo	zo	A	1	O
+71	niet	niet	A	1	O
+72	kreeg	krijgen	V	1	O
+73	je	je	Q	1	O
+74	niks.mits	niks	Q	1	O
+75	niks.mits	.	O	1	O
+76	niks.mits	mits	C	1	O
+77	dat	dat	C	1	O
+78	je	je	Q	1	O
+79	geld	geld	N	1	O
+80	gaf	geven	V	1	O
+81	aan	aan	P	1	O
+82	het	het	D	1	O
+83	personeel.sigaretten	personeel	N	1	O
+84	personeel.sigaretten	.	O	1	O
+85	personeel.sigaretten	sigaret	N	1	O
+86	pakt	pakt	N	1	O
+87	het	het	D	1	O
+88	personeel	personeel	N	1	O
+89	gewoon	gewoon	G	1	O
+90	van	van	P	1	O
+91	tafel	tafel	N	1	O
+92	af.geld	af	A	1	O
+93	af.geld	.	O	1	O
+94	af.geld	geld	N	1	O
+95	en	en	C	1	O
+96	sigaretten	sigaret	N	1	O
+97	daar	daar	A	1	O
+98	zijn	zijn	V	1	O
+99	ze	ze	Q	1	O
+100	gek	gek	G	1	O
+101	op.direkteur	op	A	1	O
+102	op.direkteur	.	O	1	O
+103	op.direkteur	direkteur	O	1	O
+104	n	n	N	1	O
+105	arrogant	arrogant	G	1	O
+106	mannetje.daar	man	N	1	O
+107	mannetje.daar	.	O	1	O
+108	mannetje.daar	daar	C	1	O
+109	Krijg	krijg	N	1	O
+110	je	je	Q	1	O
+111	geen	geen	D	1	O
+112	gelijk	gelijk	G	1	O
+113	van.mits	van	P	1	O
+114	van.mits	.	O	1	O
+115	van.mits	mits	C	1	O
+116	hy	hy	O	1	O
+117	genoeg	genoeg	A	1	O
+118	whisky	whisky	N	1	O
+119	op	op	A	1	O
+120	had.zuipen	hebben	V	1	O
+121	had.zuipen	.	O	1	O
+122	had.zuipen	zuipen	V	1	O
+123	kon	kunnen	V	1	O
+124	hy	hy	O	1	O
+125	wel.al	wel	A	1	O
+126	wel.al	.	O	1	O
+127	wel.al	al	D	1	O
+128	by	by	O	1	O
+129	al	al	A	1	O
+130	ga	gaan	V	1	O
+131	hier	hier	A	1	O
+132	niet	niet	A	1	O
+133	na	na	A	1	O
+134	toe	toe	A	1	O
+135	smerig	smerig	G	1	O
+136	hotel.je	hotel	N	1	O
+137	hotel.je	.	O	1	O
+138	hotel.je	je	Q	1	O
+139	krijgt	krijgen	V	1	O
+140	er	er	Q	1	O
+141	spijt	spijten	V	1	O
+142	van	van	P	1	O
 

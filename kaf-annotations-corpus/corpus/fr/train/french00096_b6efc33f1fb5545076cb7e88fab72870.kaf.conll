@@ -1,70 +1,74 @@
-1	Magnifique	Magnifique	N	1	
-2	hôtel_Titanic_Beach_and_Spa	hôtel_Titanic_Beach_and_Spa	R	1	ne=Hotel
+1	Magnifique	Magnifique	N	1	O
+2	hôtel	hôtel	N	1	I-Hotel
+3	Titanic	Titanic	N	1	I-Hotel
+4	Beach	Beach	N	1	I-Hotel
+5	and	and	N	1	I-Hotel
+6	Spa	Spa	N	1	I-Hotel
 
-1	hotel	hotel	G	1	
-2	tres	tres	G	1	
-3	acceuillant	acceuillant	G	1	
-4	,	,	O	1	
-5	personne	personne	P	1	
-6	tres	tres	G	1	
-7	sympatique	sympatique	G	1	
-8	serviable	serviable	N	1	
-9	,	,	O	1	
-10	tres	tres	D	1	
-11	belles	beau	G	1	
-12	chambre	chambre	N	1	
-13	.	.	O	1	
+1	hotel	hotel	G	1	O
+2	tres	tres	G	1	O
+3	acceuillant	acceuillant	G	1	O
+4	,	,	O	1	O
+5	personne	personne	P	1	O
+6	tres	tres	G	1	O
+7	sympatique	sympatique	G	1	O
+8	serviable	serviable	N	1	O
+9	,	,	O	1	O
+10	tres	tres	D	1	O
+11	belles	beau	G	1	O
+12	chambre	chambre	N	1	O
+13	.	.	O	1	O
 
-1	l	l	Q	1	
-2	aquaparc	aquaparc	G	1	
-3	est	être	V	1	
-4	tres	tres	D	1	
-5	amusant	amusant	G	1	
-6	,	,	O	1	
-7	il	il	Q	1	
-8	y	y	Q	1	
-9	a	avoir	V	1	
-10	de	de	P	1	
-11	bonne	bon	G	1	
-12	aniation	aniation	N	1	
-13	,	,	O	1	
-14	il	il	Q	1	
-15	y	y	Q	1	
-16	a	avoir	V	1	
-17	de	de	P	1	
-18	bonne	bon	G	1	
-19	promotion	promotion	N	1	
-20	gratuit.	gratuit.	G	1	
-21	et	et	C	1	
-22	surtout	surtout	G	1	
-23	de	de	P	1	
-24	bonnes	bon	G	1	
-25	activites	activites	N	1	
-26	divertissantes	divertissant	G	1	
-27	pour	pour	P	1	
-28	s	s	N	1	
-29	occuper	occuper	V	1	
-30	toute	tout	D	1	
-31	la	le	D	1	
-32	journee	journee	N	1	
-33	.	.	O	1	
+1	l	l	Q	1	O
+2	aquaparc	aquaparc	G	1	O
+3	est	être	V	1	O
+4	tres	tres	D	1	O
+5	amusant	amusant	G	1	O
+6	,	,	O	1	O
+7	il	il	Q	1	O
+8	y	y	Q	1	O
+9	a	avoir	V	1	O
+10	de	de	P	1	O
+11	bonne	bon	G	1	O
+12	aniation	aniation	N	1	O
+13	,	,	O	1	O
+14	il	il	Q	1	O
+15	y	y	Q	1	O
+16	a	avoir	V	1	O
+17	de	de	P	1	O
+18	bonne	bon	G	1	O
+19	promotion	promotion	N	1	O
+20	gratuit.	gratuit.	G	1	O
+21	et	et	C	1	O
+22	surtout	surtout	G	1	O
+23	de	de	P	1	O
+24	bonnes	bon	G	1	O
+25	activites	activites	N	1	O
+26	divertissantes	divertissant	G	1	O
+27	pour	pour	P	1	O
+28	s	s	N	1	O
+29	occuper	occuper	V	1	O
+30	toute	tout	D	1	O
+31	la	le	D	1	O
+32	journee	journee	N	1	O
+33	.	.	O	1	O
 
-1	nous	lui	Q	1	
-2	allons	aller	V	1	
-3	revenir	revenir	V	1	
-4	,	,	O	1	
-5	et	et	C	1	
-6	nous	lui	Q	1	
-7	allons	aller	V	1	
-8	faire	faire	V	1	
-9	de	de	P	1	
-10	la	le	D	1	
-11	publicitea	publicitea	N	1	
-12	notre	son	D	1	
-13	entourage	entourage	N	1	
-14	pour	pour	P	1	
-15	ce	ce	D	1	
-16	sejour	sejour	N	1	
-17	inoubliable	inoubliable	G	1	
-18	.	.	O	1	
+1	nous	lui	Q	1	O
+2	allons	aller	V	1	O
+3	revenir	revenir	V	1	O
+4	,	,	O	1	O
+5	et	et	C	1	O
+6	nous	lui	Q	1	O
+7	allons	aller	V	1	O
+8	faire	faire	V	1	O
+9	de	de	P	1	O
+10	la	le	D	1	O
+11	publicitea	publicitea	N	1	O
+12	notre	son	D	1	O
+13	entourage	entourage	N	1	O
+14	pour	pour	P	1	O
+15	ce	ce	D	1	O
+16	sejour	sejour	N	1	O
+17	inoubliable	inoubliable	G	1	O
+18	.	.	O	1	O
 

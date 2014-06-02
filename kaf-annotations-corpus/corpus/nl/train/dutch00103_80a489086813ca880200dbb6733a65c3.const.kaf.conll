@@ -1,118 +1,120 @@
-1	Perfecte	perfect	G	1	
-2	uitvalsbasis	uitvalsbasis	N	1	
-3	om	om	C	1	
-4	Versailles	Versailles	R	1	ne=Location
-5	te	te	O	1	
-6	ontdekken	ontdekken	V	1	
+1	Perfecte	perfect	G	1	O
+2	uitvalsbasis	uitvalsbasis	N	1	O
+3	om	om	C	1	O
+4	Versailles	Versailles	R	1	I-Location
+5	te	te	O	1	O
+6	ontdekken	ontdekken	V	1	O
 
-1	Dit	dit	D	1	
-2	hotel	hotel	N	1	
-3	geboekt	boeken	V	1	
-4	via	via	P	1	
-5	internet	internet	N	1	
-6	als	als	C	1	
-7	uitvalsbasis	uitvalsbasis	N	1	
-8	voor	voor	P	1	
-9	ons	ons	N	1	
-10	eerste	een	O	1	
-11	bezoek	bezoek	N	1	
-12	aan	aan	P	1	
-13	het	het	D	1	
-14	kasteel_Versailles	kasteel_Versailles	R	1	ne=Attraction
-15	en	en	C	1	
-16	stad_Versailles	stad_Versailles	R	1	ne=Location
-17	zelf	zelf	Q	1	
-18	.	.	O	1	
+1	Dit	dit	D	1	O
+2	hotel	hotel	N	1	O
+3	geboekt	boeken	V	1	O
+4	via	via	P	1	O
+5	internet	internet	N	1	O
+6	als	als	C	1	O
+7	uitvalsbasis	uitvalsbasis	N	1	O
+8	voor	voor	P	1	O
+9	ons	ons	N	1	O
+10	eerste	een	O	1	O
+11	bezoek	bezoek	N	1	O
+12	aan	aan	P	1	O
+13	het	het	D	1	O
+14	kasteel	kasteel	N	1	I-Attraction
+15	Versailles	Versailles	O	1	I-Attraction
+16	en	en	C	1	O
+17	stad	stad	N	1	I-Location
+18	Versailles	Versailles	O	1	I-Location
+19	zelf	zelf	Q	1	O
+20	.	.	O	1	O
 
-1	Hotel	hotel	N	1	
-2	is	zijn	V	1	
-3	direct	direct	G	1	
-4	bij	bij	P	1	
-5	het	het	D	1	
-6	kasteel	kasteel	N	1	
-7	gelegen	liggen	V	1	
-8	,	,	O	1	
-9	je	je	Q	1	
-10	loopt	lopen	V	1	
-11	de	de	D	1	
-12	straat	straat	N	1	
-13	uit	uit	A	1	
-14	en	en	C	1	
-15	bent	zijn	V	1	
-16	erzo	erzo	O	1	
-17	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	is	zijn	V	1	O
+3	direct	direct	G	1	O
+4	bij	bij	P	1	O
+5	het	het	D	1	O
+6	kasteel	kasteel	N	1	O
+7	gelegen	liggen	V	1	O
+8	,	,	O	1	O
+9	je	je	Q	1	O
+10	loopt	lopen	V	1	O
+11	de	de	D	1	O
+12	straat	straat	N	1	O
+13	uit	uit	A	1	O
+14	en	en	C	1	O
+15	bent	zijn	V	1	O
+16	erzo	erzo	O	1	O
+17	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	is	zijn	V	1	
-3	ook	ook	A	1	
-4	een	een	D	1	
-5	klein	klein	G	1	
-6	souvenirwinkeltje	souvenirwinkeltje	O	1	
-7	bij	bij	P	1	
-8	het	het	D	1	
-9	hotel	hotel	N	1	
-10	.	.	O	1	
+1	Er	er	Q	1	O
+2	is	zijn	V	1	O
+3	ook	ook	A	1	O
+4	een	een	D	1	O
+5	klein	klein	G	1	O
+6	souvenirwinkeltje	souvenirwinkeltje	O	1	O
+7	bij	bij	P	1	O
+8	het	het	D	1	O
+9	hotel	hotel	N	1	O
+10	.	.	O	1	O
 
-1	Check	check	N	1	
-2	·	·	O	1	
-3	in	in	A	1	
-4	was	wezen|zijn	V	1	
-5	soepel	soepel	G	1	
-6	,	,	O	1	
-7	front	front	N	1	
-8	desk	desk	N	1	
-9	was	wezen|zijn	V	1	
-10	attent	attent	G	1	
-11	om	om	C	1	
-12	een	een	D	1	
-13	extra	extra	G	1	
-14	bed	bed	N	1	
-15	(	(	O	1	
-16	gratis	gratis	G	1	
-17	)	)	O	1	
-18	te	te	O	1	
-19	plaatsen	plaatsen	V	1	
-20	voor	voor	P	1	
-21	derde	derde	N	1	
-22	gast	gast	N	1	
-23	.	.	O	1	
+1	Check	check	N	1	O
+2	·	·	O	1	O
+3	in	in	A	1	O
+4	was	wezen|zijn	V	1	O
+5	soepel	soepel	G	1	O
+6	,	,	O	1	O
+7	front	front	N	1	O
+8	desk	desk	N	1	O
+9	was	wezen|zijn	V	1	O
+10	attent	attent	G	1	O
+11	om	om	C	1	O
+12	een	een	D	1	O
+13	extra	extra	G	1	O
+14	bed	bed	N	1	O
+15	(	(	O	1	O
+16	gratis	gratis	G	1	O
+17	)	)	O	1	O
+18	te	te	O	1	O
+19	plaatsen	plaatsen	V	1	O
+20	voor	voor	P	1	O
+21	derde	derde	N	1	O
+22	gast	gast	N	1	O
+23	.	.	O	1	O
 
-1	Kamer	kamer	N	1	
-2	is	zijn	V	1	
-3	klein	klein	G	1	
-4	,	,	O	1	
-5	maar	maar	C	1	
-6	dat	dat	Q	1	
-7	is	zijn	V	1	
-8	standaard	standaard	N	1	
-9	in	in	P	1	
-10	Frankrijk	Frankrijk	R	1	ne=Location
-11	.	.	O	1	
+1	Kamer	kamer	N	1	O
+2	is	zijn	V	1	O
+3	klein	klein	G	1	O
+4	,	,	O	1	O
+5	maar	maar	C	1	O
+6	dat	dat	Q	1	O
+7	is	zijn	V	1	O
+8	standaard	standaard	N	1	O
+9	in	in	P	1	O
+10	Frankrijk	Frankrijk	R	1	I-Location
+11	.	.	O	1	O
 
-1	Traditioneel	traditioneel	G	1	
-2	ingericht	inrichten	V	1	
-3	.	.	O	1	
+1	Traditioneel	traditioneel	G	1	O
+2	ingericht	inrichten	V	1	O
+3	.	.	O	1	O
 
-1	Geen	geen	D	1	
-2	gebruik	gebruik	N	1	
-3	gemaakt	maken	V	1	
-4	van	van	P	1	
-5	hun	hun	D	1	
-6	faciliteiten	faciliteit	N	1	
-7	aangezien	aangezien	C	1	
-8	we	we	Q	1	
-9	tijd	tijd	N	1	
-10	besteden	besteden	V	1	
-11	aan	aan	P	1	
-12	het	het	D	1	
-13	kasteel	kasteel	N	1	
-14	en	en	C	1	
-15	in	in	P	1	
-16	de	de	D	1	
-17	stad	stad	N	1	
-18	uit	uit	P	1	
-19	eten	eten	N	1	
-20	zijn	zijn	V	1	
-21	geweest	wezen|zijn	V	1	
-22	.	.	O	1	
+1	Geen	geen	D	1	O
+2	gebruik	gebruik	N	1	O
+3	gemaakt	maken	V	1	O
+4	van	van	P	1	O
+5	hun	hun	D	1	O
+6	faciliteiten	faciliteit	N	1	O
+7	aangezien	aangezien	C	1	O
+8	we	we	Q	1	O
+9	tijd	tijd	N	1	O
+10	besteden	besteden	V	1	O
+11	aan	aan	P	1	O
+12	het	het	D	1	O
+13	kasteel	kasteel	N	1	O
+14	en	en	C	1	O
+15	in	in	P	1	O
+16	de	de	D	1	O
+17	stad	stad	N	1	O
+18	uit	uit	P	1	O
+19	eten	eten	N	1	O
+20	zijn	zijn	V	1	O
+21	geweest	wezen|zijn	V	1	O
+22	.	.	O	1	O
 

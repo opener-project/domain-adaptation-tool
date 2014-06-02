@@ -1,53 +1,53 @@
-1	Hotel	Hotel	R	1	
-2	muy	muy	G	1	
-3	céntrico	céntrico	N	1	
-4	y	y	A	1	
-5	recomendable	recomendable	G	1	
+1	Hotel	Hotel	R	1	O
+2	muy	muy	G	1	O
+3	céntrico	céntrico	N	1	O
+4	y	y	A	1	O
+5	recomendable	recomendable	G	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	esta	esta	N	1	
-4	muy	muy	G	1	
-5	centrico	centrico	N	1	
-6	,	,	O	1	
-7	puedes	puedes	V	1	
-8	ir	ir	Q	1	
-9	desde	desde	G	1	
-10	alli	alli	N	1	
-11	andando	andando	V	1	
-12	a	a	D	1	
-13	todos	todos	N	1	
-14	los	los	O	1	
-15	lugares	lugares	O	1	
-16	centricos	centricos	O	1	
-17	de	de	O	1	
-18	Madrid	Madrid	R	1	
-19	(	(	O	1	
-20	nosotros	nosotros	N	1	
-21	no	no	A	1	
-22	cogimos	cogimos	N	1	
-23	ningun	ningun	V	1	
-24	transporte	transporte	N	1	
-25	publico	publico	N	1	
-26	y	y	G	1	
-27	eso	eso	N	1	
-28	que	que	N	1	
-29	ibamos	ibamos	V	1	
-30	con	con	G	1	
-31	un	un	G	1	
-32	niño	niño	G	1	
-33	pequeño	pequeño	N	1	
-34	)	)	O	1	
-35	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	esta	esta	N	1	O
+4	muy	muy	G	1	O
+5	centrico	centrico	N	1	O
+6	,	,	O	1	O
+7	puedes	puedes	V	1	O
+8	ir	ir	Q	1	O
+9	desde	desde	G	1	O
+10	alli	alli	N	1	O
+11	andando	andando	V	1	O
+12	a	a	D	1	O
+13	todos	todos	N	1	O
+14	los	los	O	1	O
+15	lugares	lugares	O	1	O
+16	centricos	centricos	O	1	O
+17	de	de	O	1	O
+18	Madrid	Madrid	R	1	O
+19	(	(	O	1	O
+20	nosotros	nosotros	N	1	O
+21	no	no	A	1	O
+22	cogimos	cogimos	N	1	O
+23	ningun	ningun	V	1	O
+24	transporte	transporte	N	1	O
+25	publico	publico	N	1	O
+26	y	y	G	1	O
+27	eso	eso	N	1	O
+28	que	que	N	1	O
+29	ibamos	ibamos	V	1	O
+30	con	con	G	1	O
+31	un	un	G	1	O
+32	niño	niño	G	1	O
+33	pequeño	pequeño	N	1	O
+34	)	)	O	1	O
+35	.	.	O	1	O
 
-1	Recomendable	recomendable	G	1	
-2	para	para	N	1	
-3	visitar	visitar	N	1	
-4	el	el	N	1	
-5	centro	centro	N	1	
-6	o	o	P	1	
-7	ir	ir	Q	1	
-8	de	de	O	1	
-9	compras	compras	O	1	
-10	.	.	O	1	
+1	Recomendable	recomendable	G	1	O
+2	para	para	N	1	O
+3	visitar	visitar	N	1	O
+4	el	el	N	1	O
+5	centro	centro	N	1	O
+6	o	o	P	1	O
+7	ir	ir	Q	1	O
+8	de	de	O	1	O
+9	compras	compras	O	1	O
+10	.	.	O	1	O
 

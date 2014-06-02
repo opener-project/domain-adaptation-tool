@@ -1,45 +1,45 @@
-1	Hôtel	hôtel	N	1	
-2	à	à	P	1	
-3	recommander	recommander	V	1	
-4	.	.	O	1	
+1	Hôtel	hôtel	N	1	O
+2	à	à	P	1	O
+3	recommander	recommander	V	1	O
+4	.	.	O	1	O
 
-1	en	en	P	1	
-2	conclusion	conclusion	N	1	
-3	petit	petit	G	1	
-4	séjour	séjour	N	1	
-5	agréable	agréable	G	1	
-6	pour	pour	P	1	
-7	une	un	D	1	
-8	visite	visite	N	1	
-9	des	des	P	1	
-10	environs.chambres	environs.chambres	D	1	
-11	spacieuses.nécessaire	spacieuses.nécessaire	N	1	
-12	pour	pour	P	1	
-13	un	un	D	1	
-14	petit	petit	G	1	
-15	encas.sanitaires	encas.sanitaires	N	1	
-16	propres	propre	G	1	
-17	avec	avec	P	1	
-18	des	un	D	1	
-19	petits	petit	G	1	
-20	échantillons	échantillon	N	1	
-21	pour	pour	P	1	
-22	douches	douche	N	1	
-23	et	et	C	1	
-24	toilettes.petits	toilettes.petits	N	1	
-25	déjeuners	déjeuners	P	1	
-26	copieux	copieux	N	1	
-27	sous	sous	P	1	
-28	forme	forme	N	1	
-29	de	de	P	1	
-30	buffet.pour	buffet.pour	N	1	
-31	les	le	D	1	
-32	repas	repas	N	1	
-33	menus	menus	V	1	
-34	variés.personnel	variés.personnel	N	1	
-35	discret	discret	G	1	
-36	mais	mais	C	1	
-37	très	très	G	1	
-38	efficace	efficace	G	1	
-39	.	.	O	1	
+1	en	en	P	1	O
+2	conclusion	conclusion	N	1	O
+3	petit	petit	G	1	O
+4	séjour	séjour	N	1	O
+5	agréable	agréable	G	1	O
+6	pour	pour	P	1	O
+7	une	un	D	1	O
+8	visite	visite	N	1	O
+9	des	des	P	1	O
+10	environs.chambres	environs.chambres	D	1	O
+11	spacieuses.nécessaire	spacieuses.nécessaire	N	1	O
+12	pour	pour	P	1	O
+13	un	un	D	1	O
+14	petit	petit	G	1	O
+15	encas.sanitaires	encas.sanitaires	N	1	O
+16	propres	propre	G	1	O
+17	avec	avec	P	1	O
+18	des	un	D	1	O
+19	petits	petit	G	1	O
+20	échantillons	échantillon	N	1	O
+21	pour	pour	P	1	O
+22	douches	douche	N	1	O
+23	et	et	C	1	O
+24	toilettes.petits	toilettes.petits	N	1	O
+25	déjeuners	déjeuners	P	1	O
+26	copieux	copieux	N	1	O
+27	sous	sous	P	1	O
+28	forme	forme	N	1	O
+29	de	de	P	1	O
+30	buffet.pour	buffet.pour	N	1	O
+31	les	le	D	1	O
+32	repas	repas	N	1	O
+33	menus	menus	V	1	O
+34	variés.personnel	variés.personnel	N	1	O
+35	discret	discret	G	1	O
+36	mais	mais	C	1	O
+37	très	très	G	1	O
+38	efficace	efficace	G	1	O
+39	.	.	O	1	O
 

@@ -1,179 +1,180 @@
-1	Hotel	hotel	N	1	
-2	is	zijn	V	1	
-3	zijn	zijn	D	1	
-4	4	@card@	O	1	
-5	sterren	ster	N	1	
-6	absoluut	absoluut	G	1	
-7	niet	niet	A	1	
-8	waard	waard	G	1	
-9	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	is	zijn	V	1	O
+3	zijn	zijn	D	1	O
+4	4	@card@	O	1	O
+5	sterren	ster	N	1	O
+6	absoluut	absoluut	G	1	O
+7	niet	niet	A	1	O
+8	waard	waard	G	1	O
+9	.	.	O	1	O
 
-1	Hotel_Panther	hotel_Panther	R	1	ne=Hotel
-2	heeft	hebben	V	1	
-3	zijn	zijn	D	1	
-4	sterren	ster	N	1	
-5	verdiend	verdienen	V	1	
-6	wellicht	wellicht	A	1	
-7	door	door	P	1	
-8	de	de	D	1	
-9	ligging	ligging	N	1	
-10	.	.	O	1	
+1	Hotel	hotel	N	1	I-Hotel
+2	Panther	Panther	O	1	I-Hotel
+3	heeft	hebben	V	1	O
+4	zijn	zijn	D	1	O
+5	sterren	ster	N	1	O
+6	verdiend	verdienen	V	1	O
+7	wellicht	wellicht	A	1	O
+8	door	door	P	1	O
+9	de	de	D	1	O
+10	ligging	ligging	N	1	O
+11	.	.	O	1	O
 
-1	De	de	D	1	
-2	skiliften	skilift	N	1	
-3	liggen	liggen	V	1	
-4	op	op	P	1	
-5	nog	nog	A	1	
-6	geen	geen	D	1	
-7	2	@card@	O	1	
-8	minuten	minuut	N	1	
-9	lopen	lopen	V	1	
-10	.	.	O	1	
+1	De	de	D	1	O
+2	skiliften	skilift	N	1	O
+3	liggen	liggen	V	1	O
+4	op	op	P	1	O
+5	nog	nog	A	1	O
+6	geen	geen	D	1	O
+7	2	@card@	O	1	O
+8	minuten	minuut	N	1	O
+9	lopen	lopen	V	1	O
+10	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	ligt	liggen	V	1	
-4	midden	midden	A	1	
-5	in	in	P	1	
-6	het	het	D	1	
-7	centrum	centrum	N	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	ligt	liggen	V	1	O
+4	midden	midden	A	1	O
+5	in	in	P	1	O
+6	het	het	D	1	O
+7	centrum	centrum	N	1	O
 
-1	Er	er	Q	1	
-2	is	zijn	V	1	
-3	een	een	D	1	
-4	lift	lift	N	1	
-5	in	in	P	1	
-6	het	het	D	1	
-7	hotel	hotel	N	1	
-8	tot	tot	P	1	
-9	de	de	D	1	
-10	2e	2e	O	1	
-11	verdieping	verdieping	N	1	
-12	,	,	O	1	
-13	moet	moeten	V	1	
-14	je	je	Q	1	
-15	naar	naar	P	1	
-16	de	de	D	1	
-17	4e	4e	O	1	
-18	dan	dan	A	1	
-19	zal	zullen	V	1	
-20	je	je	Q	1	
-21	vanaf	vanaf	P	1	
-22	de	de	D	1	
-23	2e	2e	O	1	
-24	met	met	P	1	
-25	de	de	D	1	
-26	trap	trap	N	1	
-27	moeten	moeten	V	1	
-28	?	?	O	1	
-29	?	?	O	1	
-30	?	?	O	1	
-31	.	.	O	1	
+1	Er	er	Q	1	O
+2	is	zijn	V	1	O
+3	een	een	D	1	O
+4	lift	lift	N	1	O
+5	in	in	P	1	O
+6	het	het	D	1	O
+7	hotel	hotel	N	1	O
+8	tot	tot	P	1	O
+9	de	de	D	1	O
+10	2e	2e	O	1	O
+11	verdieping	verdieping	N	1	O
+12	,	,	O	1	O
+13	moet	moeten	V	1	O
+14	je	je	Q	1	O
+15	naar	naar	P	1	O
+16	de	de	D	1	O
+17	4e	4e	O	1	O
+18	dan	dan	A	1	O
+19	zal	zullen	V	1	O
+20	je	je	Q	1	O
+21	vanaf	vanaf	P	1	O
+22	de	de	D	1	O
+23	2e	2e	O	1	O
+24	met	met	P	1	O
+25	de	de	D	1	O
+26	trap	trap	N	1	O
+27	moeten	moeten	V	1	O
+28	?	?	O	1	O
+29	?	?	O	1	O
+30	?	?	O	1	O
+31	.	.	O	1	O
 
-1	Het	het	D	1	
-2	eten	eten	N	1	
-3	wordt	worden	V	1	
-4	veel	veel	A	1	
-5	te	te	O	1	
-6	snel	snel	G	1	
-7	opgediend	opdienen	V	1	
-8	.	.	O	1	
+1	Het	het	D	1	O
+2	eten	eten	N	1	O
+3	wordt	worden	V	1	O
+4	veel	veel	A	1	O
+5	te	te	O	1	O
+6	snel	snel	G	1	O
+7	opgediend	opdienen	V	1	O
+8	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	voelt	voelen	V	1	
-3	je	je	Q	1	
-4	in	in	P	1	
-5	een	een	D	1	
-6	kantine	kantine	N	1	
-7	van	van	P	1	
-8	je	je	Q	1	
-9	werk	werk	N	1	
-10	.	.	O	1	
+1	Je	je	Q	1	O
+2	voelt	voelen	V	1	O
+3	je	je	Q	1	O
+4	in	in	P	1	O
+5	een	een	D	1	O
+6	kantine	kantine	N	1	O
+7	van	van	P	1	O
+8	je	je	Q	1	O
+9	werk	werk	N	1	O
+10	.	.	O	1	O
 
-1	Het	het	D	1	
-2	eten	eten	N	1	
-3	is	zijn	V	1	
-4	slecht	slecht	G	1	
-5	.	.	O	1	
+1	Het	het	D	1	O
+2	eten	eten	N	1	O
+3	is	zijn	V	1	O
+4	slecht	slecht	G	1	O
+5	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	ligt	liggen	V	1	
-3	vanalles	vanalles	O	1	
-4	op	op	P	1	
-5	je	je	Q	1	
-6	bord	bord	N	1	
-7	gesmeten	smijten	V	1	
-8	.	.	O	1	
+1	Er	er	Q	1	O
+2	ligt	liggen	V	1	O
+3	vanalles	vanalles	O	1	O
+4	op	op	P	1	O
+5	je	je	Q	1	O
+6	bord	bord	N	1	O
+7	gesmeten	smijten	V	1	O
+8	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	zijn	zijn	V	1	
-4	veel	veel	A	1	
-5	te	te	O	1	
-6	klein	klein	G	1	
-7	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	zijn	zijn	V	1	O
+4	veel	veel	A	1	O
+5	te	te	O	1	O
+6	klein	klein	G	1	O
+7	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	hadden	hebben	V	1	
-3	een	een	D	1	
-4	kamer	kamer	N	1	
-5	geboekt	boeken	V	1	
-6	met	met	P	1	
-7	balkon	balkon	N	1	
-8	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hadden	hebben	V	1	O
+3	een	een	D	1	O
+4	kamer	kamer	N	1	O
+5	geboekt	boeken	V	1	O
+6	met	met	P	1	O
+7	balkon	balkon	N	1	O
+8	.	.	O	1	O
 
-1	De	de	D	1	
-2	skilift	skilift	N	1	
-3	stond	staan	V	1	
-4	vast	vast	A	1	
-5	achter	achter	P	1	
-6	ons	ons	D	1	
-7	balkon	balkon	N	1	
-8	.	.	O	1	
+1	De	de	D	1	O
+2	skilift	skilift	N	1	O
+3	stond	staan	V	1	O
+4	vast	vast	A	1	O
+5	achter	achter	P	1	O
+6	ons	ons	D	1	O
+7	balkon	balkon	N	1	O
+8	.	.	O	1	O
 
-1	Geen	geen	D	1	
-2	glasgordijn	glasgordijn	O	1	
-3	om	om	C	1	
-4	dicht	dicht	G	1	
-5	te	te	O	1	
-6	trekken	trekken	V	1	
-7	.	.	O	1	
+1	Geen	geen	D	1	O
+2	glasgordijn	glasgordijn	O	1	O
+3	om	om	C	1	O
+4	dicht	dicht	G	1	O
+5	te	te	O	1	O
+6	trekken	trekken	V	1	O
+7	.	.	O	1	O
 
-1	Iedereen	iedereen	Q	1	
-2	die	die	Q	1	
-3	kijkt	kijken	V	1	
-4	de	de	D	1	
-5	kamer	kamer	N	1	
-6	binnen	binnen	P	1	
-7	.	.	O	1	
+1	Iedereen	iedereen	Q	1	O
+2	die	die	Q	1	O
+3	kijkt	kijken	V	1	O
+4	de	de	D	1	O
+5	kamer	kamer	N	1	O
+6	binnen	binnen	P	1	O
+7	.	.	O	1	O
 
-1	Geen	geen	D	1	
-2	privacy	privacy	N	1	
+1	Geen	geen	D	1	O
+2	privacy	privacy	N	1	O
 
-1	Bij	bij	P	1	
-2	het	het	D	1	
-3	afrekenen	afrekenen	N	1	
-4	discussie	discussie	N	1	
-5	over	over	P	1	
-6	zaken	zaak|zaken	N	1	
-7	die	die	Q	1	
-8	op	op	P	1	
-9	de	de	D	1	
-10	rekening	rekening	N	1	
-11	staan	staan	V	1	
-12	maar	maar	C	1	
-13	die	die	Q	1	
-14	niet	niet	A	1	
-15	verbruikt	verbruiken	V	1	
-16	zijn	zijn	V	1	
-17	.	.	O	1	
+1	Bij	bij	P	1	O
+2	het	het	D	1	O
+3	afrekenen	afrekenen	N	1	O
+4	discussie	discussie	N	1	O
+5	over	over	P	1	O
+6	zaken	zaak|zaken	N	1	O
+7	die	die	Q	1	O
+8	op	op	P	1	O
+9	de	de	D	1	O
+10	rekening	rekening	N	1	O
+11	staan	staan	V	1	O
+12	maar	maar	C	1	O
+13	die	die	Q	1	O
+14	niet	niet	A	1	O
+15	verbruikt	verbruiken	V	1	O
+16	zijn	zijn	V	1	O
+17	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	gaan	gaan	V	1	
-3	er	er	Q	1	
-4	zeker	zeker	G	1	
-5	nooit	nooit	A	1	
-6	meer	meer	A	1	
-7	terug	terug	A	1	
-8	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	gaan	gaan	V	1	O
+3	er	er	Q	1	O
+4	zeker	zeker	G	1	O
+5	nooit	nooit	A	1	O
+6	meer	meer	A	1	O
+7	terug	terug	A	1	O
+8	.	.	O	1	O
 

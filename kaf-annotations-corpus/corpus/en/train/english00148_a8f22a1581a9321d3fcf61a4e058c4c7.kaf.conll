@@ -1,127 +1,127 @@
-1	Nothing	Nothing	R	1	
-2	Grand	Grand	R	1	
-3	,	,	O	1	
-4	except	except	P	1	
-5	the	the	D	1	
-6	name	name	N	1	
-7	of	of	P	1	
-8	the	the	D	1	
-9	hotel	hotel	N	1	
+1	Nothing	Nothing	R	1	O
+2	Grand	Grand	R	1	O
+3	,	,	O	1	O
+4	except	except	P	1	O
+5	the	the	D	1	O
+6	name	name	N	1	O
+7	of	of	P	1	O
+8	the	the	D	1	O
+9	hotel	hotel	N	1	O
 
-1	beautiful	beautiful	G	1	
-2	foyer	foyer	N	1	
-3	,	,	O	1	
-4	staff	staff	N	1	
-5	were	be	V	1	
-6	helpful	helpful	G	1	
-7	.	.	O	1	
+1	beautiful	beautiful	G	1	O
+2	foyer	foyer	N	1	O
+3	,	,	O	1	O
+4	staff	staff	N	1	O
+5	were	be	V	1	O
+6	helpful	helpful	G	1	O
+7	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	was	be	V	1	
-3	booked	book	V	1	
-4	using	use	V	1	
-5	Easytobook.com.	Easytobook.com.	R	1	
-6	We	we	Q	1	
-7	booked	book	V	1	
-8	a	a	D	1	
-9	standard	standard	G	1	
-10	organiser	organiser	N	1	
-11	room	room	N	1	
-12	.	.	O	1	
+1	Room	Room	R	1	O
+2	was	be	V	1	O
+3	booked	book	V	1	O
+4	using	use	V	1	O
+5	Easytobook.com.	Easytobook.com.	R	1	O
+6	We	we	Q	1	O
+7	booked	book	V	1	O
+8	a	a	D	1	O
+9	standard	standard	G	1	O
+10	organiser	organiser	N	1	O
+11	room	room	N	1	O
+12	.	.	O	1	O
 
-1	It	it	Q	1	
-2	was	be	V	1	
-3	bland	bland	G	1	
-4	,	,	O	1	
-5	dark	dark	G	1	
-6	and	and	C	1	
-7	a	a	D	1	
-8	little	little	G	1	
-9	shabby	shabby	N	1	
-10	.	.	O	1	
+1	It	it	Q	1	O
+2	was	be	V	1	O
+3	bland	bland	G	1	O
+4	,	,	O	1	O
+5	dark	dark	G	1	O
+6	and	and	C	1	O
+7	a	a	D	1	O
+8	little	little	G	1	O
+9	shabby	shabby	N	1	O
+10	.	.	O	1	O
 
-1	2nd	2nd	O	1	
-2	floor	floor	N	1	
-3	,	,	O	1	
-4	backing	back	V	1	
-5	on	on	A	1	
-6	to	to	P	1	
-7	a	a	D	1	
-8	delivery	delivery	N	1	
-9	alley	alley	N	1	
-10	and	and	C	1	
-11	bar	bar	N	1	
-12	.	.	O	1	
+1	2nd	2nd	O	1	O
+2	floor	floor	N	1	O
+3	,	,	O	1	O
+4	backing	back	V	1	O
+5	on	on	A	1	O
+6	to	to	P	1	O
+7	a	a	D	1	O
+8	delivery	delivery	N	1	O
+9	alley	alley	N	1	O
+10	and	and	C	1	O
+11	bar	bar	N	1	O
+12	.	.	O	1	O
 
-1	Noisy	Noisy	R	1	
-2	in	in	P	1	
-3	the	the	D	1	
-4	extreme	extreme	N	1	
-5	.	.	O	1	
+1	Noisy	Noisy	R	1	O
+2	in	in	P	1	O
+3	the	the	D	1	O
+4	extreme	extreme	N	1	O
+5	.	.	O	1	O
 
-1	(	(	O	1	
-2	we	we	Q	1	
-3	had	have	V	1	
-4	earplugs	earplug	N	1	
-5	and	and	C	1	
-6	used	use	V	1	
-7	them	them	Q	1	
-8	!	!	O	1	
+1	(	(	O	1	O
+2	we	we	Q	1	O
+3	had	have	V	1	O
+4	earplugs	earplug	N	1	O
+5	and	and	C	1	O
+6	used	use	V	1	O
+7	them	them	Q	1	O
+8	!	!	O	1	O
 
-1	)	)	O	1	
-2	Housekeeping	housekeeping	V	1	
-3	was	be	V	1	
-4	frequent	frequent	G	1	
-5	.	.	O	1	
+1	)	)	O	1	O
+2	Housekeeping	housekeeping	V	1	O
+3	was	be	V	1	O
+4	frequent	frequent	G	1	O
+5	.	.	O	1	O
 
-1	Clean	clean	G	1	
-2	enough	enough	N	1	
-3	,	,	O	1	
-4	plenty	plenty	N	1	
-5	of	of	P	1	
-6	hot	hot	G	1	
-7	water	water	N	1	
-8	.	.	O	1	
+1	Clean	clean	G	1	O
+2	enough	enough	N	1	O
+3	,	,	O	1	O
+4	plenty	plenty	N	1	O
+5	of	of	P	1	O
+6	hot	hot	G	1	O
+7	water	water	N	1	O
+8	.	.	O	1	O
 
-1	Though	though	P	1	
-2	the	the	D	1	
-3	toilet	toilet	N	1	
-4	smelt	smell	V	1	
-5	strongly	strongly	A	1	
-6	of	of	P	1	
-7	urine	urine	N	1	
-8	.	.	O	1	
+1	Though	though	P	1	O
+2	the	the	D	1	O
+3	toilet	toilet	N	1	O
+4	smelt	smell	V	1	O
+5	strongly	strongly	A	1	O
+6	of	of	P	1	O
+7	urine	urine	N	1	O
+8	.	.	O	1	O
 
-1	A	a	D	1	
-2	large	large	G	1	
-3	hotel	hotel	N	1	
-4	with	with	P	1	
-5	mostly	mostly	G	1	
-6	business	business	N	1	
-7	folk	folk	N	1	
-8	coming	come	V	1	
-9	and	and	C	1	
-10	going	go	V	1	
-11	.	.	O	1	
+1	A	a	D	1	O
+2	large	large	G	1	O
+3	hotel	hotel	N	1	O
+4	with	with	P	1	O
+5	mostly	mostly	G	1	O
+6	business	business	N	1	O
+7	folk	folk	N	1	O
+8	coming	come	V	1	O
+9	and	and	C	1	O
+10	going	go	V	1	O
+11	.	.	O	1	O
 
-1	We	we	Q	1	
-2	cannot	cannot	O	1	
-3	speak	speak	V	1	
-4	for	for	P	1	
-5	the	the	D	1	
-6	other	other	G	1	
-7	rooms	room	N	1	
-8	available	available	G	1	
-9	,	,	O	1	
-10	but	but	C	1	
-11	to	to	P	1	
-12	give	give	V	1	
-13	ours	ours	Q	1	
-14	a	a	D	1	
-15	5	5	O	1	
-16	star	star	N	1	
-17	tag	tag	N	1	
-18	was	be	V	1	
-19	ridiculous	ridiculous	G	1	
-20	.	.	O	1	
+1	We	we	Q	1	O
+2	cannot	cannot	O	1	O
+3	speak	speak	V	1	O
+4	for	for	P	1	O
+5	the	the	D	1	O
+6	other	other	G	1	O
+7	rooms	room	N	1	O
+8	available	available	G	1	O
+9	,	,	O	1	O
+10	but	but	C	1	O
+11	to	to	P	1	O
+12	give	give	V	1	O
+13	ours	ours	Q	1	O
+14	a	a	D	1	O
+15	5	5	O	1	O
+16	star	star	N	1	O
+17	tag	tag	N	1	O
+18	was	be	V	1	O
+19	ridiculous	ridiculous	G	1	O
+20	.	.	O	1	O
 

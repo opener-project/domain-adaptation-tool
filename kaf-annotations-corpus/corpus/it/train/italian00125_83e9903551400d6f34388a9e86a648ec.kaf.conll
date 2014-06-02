@@ -1,191 +1,193 @@
-1	Bella	bello	G	1	
-2	struttura	struttura	N	1	
-3	,	,	O	1	
-4	ma	ma	Q	1	
-5	gestione	gestione	N	1	
-6	da	da	P	1	
-7	rivedere	rivedere	V	1	
-8	...	...	O	1	
+1	Bella	bello	G	1	O
+2	struttura	struttura	N	1	O
+3	,	,	O	1	O
+4	ma	ma	Q	1	O
+5	gestione	gestione	N	1	O
+6	da	da	P	1	O
+7	rivedere	rivedere	V	1	O
+8	...	...	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	qui	qui	A	1	
-4	,	,	O	1	
-5	con	con	P	1	
-6	la	lo	D	1	
-7	nostra	nostro	G	1	
-8	cagnolotta	cagnolotta	N	1	
-9	,	,	O	1	
-10	e	e	Q	1	
-11	degli	degli	P	1	
-12	amici	amico	N	1	
-13	a	a	P	1	
-14	Maggio	maggio	N	1	
-15	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	qui	qui	A	1	O
+4	,	,	O	1	O
+5	con	con	P	1	O
+6	la	lo	D	1	O
+7	nostra	nostro	G	1	O
+8	cagnolotta	cagnolotta	N	1	O
+9	,	,	O	1	O
+10	e	e	Q	1	O
+11	degli	degli	P	1	O
+12	amici	amico	N	1	O
+13	a	a	P	1	O
+14	Maggio	maggio	N	1	O
+15	.	.	O	1	O
 
-1	Bella	bello	G	1	
-2	la	lo	D	1	
-3	struttura	strutturare	V	1	
-4	,	,	O	1	
-5	con	con	P	1	
-6	ettari	ettaro	N	1	
-7	di	di	P	1	
-8	terreno	terreno	N	1	
-9	disponibili	disponibile	G	1	
-10	per	per	P	1	
-11	varie	vario	G	1	
-12	attività	attivita'	N	1	
-13	,	,	O	1	
-14	come	come	A	1	
-15	passeggiate	passeggiare	V	1	
-16	a	a	P	1	
-17	cavallo	cavallo	N	1	
-18	,	,	O	1	
-19	oppure	oppure	Q	1	
-20	in	in	P	1	
-21	mountain	mountain	N	1	
-22	bike	bike	N	1	
-23	o	o	Q	1	
-24	del	del	P	1	
-25	trekking	trekking	N	1	
-26	;	;	O	1	
-27	insomma	insomma	A	1	
-28	l'	lo	D	1	
-29	ideale	ideale	N	1	
-30	per	per	P	1	
-31	week	week	N	1	
-32	·	·	G	1	
-33	end	end	N	1	
-34	relax	relax	N	1	
-35	a	a	P	1	
-36	contatto	contatto	N	1	
-37	con	con	P	1	
-38	la	lo	D	1	
-39	natura	natura	N	1	
-40	.	.	O	1	
+1	Bella	bello	G	1	O
+2	la	lo	D	1	O
+3	struttura	strutturare	V	1	O
+4	,	,	O	1	O
+5	con	con	P	1	O
+6	ettari	ettaro	N	1	O
+7	di	di	P	1	O
+8	terreno	terreno	N	1	O
+9	disponibili	disponibile	G	1	O
+10	per	per	P	1	O
+11	varie	vario	G	1	O
+12	attività	attivita'	N	1	O
+13	,	,	O	1	O
+14	come	come	A	1	O
+15	passeggiate	passeggiare	V	1	O
+16	a	a	P	1	O
+17	cavallo	cavallo	N	1	O
+18	,	,	O	1	O
+19	oppure	oppure	Q	1	O
+20	in	in	P	1	O
+21	mountain	mountain	N	1	O
+22	bike	bike	N	1	O
+23	o	o	Q	1	O
+24	del	del	P	1	O
+25	trekking	trekking	N	1	O
+26	;	;	O	1	O
+27	insomma	insomma	A	1	O
+28	l'	lo	D	1	O
+29	ideale	ideale	N	1	O
+30	per	per	P	1	O
+31	week	week	N	1	O
+32	·	·	G	1	O
+33	end	end	N	1	O
+34	relax	relax	N	1	O
+35	a	a	P	1	O
+36	contatto	contatto	N	1	O
+37	con	con	P	1	O
+38	la	lo	D	1	O
+39	natura	natura	N	1	O
+40	.	.	O	1	O
 
-1	Ottimo	ottimo	G	1	
-2	il	lo	D	1	
-3	ristorante	ristorante	N	1	
-4	.	.	O	1	
+1	Ottimo	ottimo	G	1	O
+2	il	lo	D	1	O
+3	ristorante	ristorante	N	1	O
+4	.	.	O	1	O
 
-1	Ottima	ottimo	G	1	
-2	base	base	N	1	
-3	di	di	P	1	
-4	appoggio	appoggio	N	1	
-5	per	per	P	1	
-6	gite	gita	N	1	
-7	nella	nella	P	1	
-8	Val_di_Chiana	val_di_chiana	R	1	ne=POI
-9	.	.	O	1	
+1	Ottima	ottimo	G	1	O
+2	base	base	N	1	O
+3	di	di	P	1	O
+4	appoggio	appoggio	N	1	O
+5	per	per	P	1	O
+6	gite	gita	N	1	O
+7	nella	nella	P	1	O
+8	Val	val	N	1	I-POI
+9	di	di	P	1	I-POI
+10	Chiana	chiana	R	1	I-POI
+11	.	.	O	1	O
 
-1	Non	non	A	1	
-2	ci	ci	A	1	
-3	sono	essere	V	1	
-4	aspetti	aspettare	V	1	
-5	negativi	negativi	V	1	
-6	?	?	O	1	
-7	?	?	O	1	
+1	Non	non	A	1	O
+2	ci	ci	A	1	O
+3	sono	essere	V	1	O
+4	aspetti	aspettare	V	1	O
+5	negativi	negativi	V	1	O
+6	?	?	O	1	O
+7	?	?	O	1	O
 
-1	Purtroppo	purtroppo	A	1	
-2	sì	si'	N	1	
-3	:	:	O	1	
-4	Qualità	qualita'	R	1	
-5	·	·	G	1	
-6	prezzo	prezzo	N	1	
-7	assolutamente	assolutamente	A	1	
-8	non	non	A	1	
-9	rispondente	rispondente	A	1	
-10	alle	alle	P	1	
-11	aspettative	aspettativa	N	1	
-12	.	.	O	1	
+1	Purtroppo	purtroppo	A	1	O
+2	sì	si'	N	1	O
+3	:	:	O	1	O
+4	Qualità	qualita'	R	1	O
+5	·	·	G	1	O
+6	prezzo	prezzo	N	1	O
+7	assolutamente	assolutamente	A	1	O
+8	non	non	A	1	O
+9	rispondente	rispondente	A	1	O
+10	alle	alle	P	1	O
+11	aspettative	aspettativa	N	1	O
+12	.	.	O	1	O
 
-1	Bagni	bagno	N	1	
-2	datati	datato	G	1	
-3	,	,	O	1	
-4	acqua	acqua	N	1	
-5	appena	appena	A	1	
-6	tiepida	tiepido	G	1	
-7	nella	nella	P	1	
-8	doccia	doccia	N	1	
-9	,	,	O	1	
-10	alla	alla	P	1	
-11	sera	sera	N	1	
-12	,	,	O	1	
-13	fredda	freddo	G	1	
-14	del	del	P	1	
-15	tutto	tutto	Q	1	
-16	al	al	P	1	
-17	mattino	mattino	N	1	
-18	.	.	O	1	
-19	.	.	O	1	
+1	Bagni	bagno	N	1	O
+2	datati	datato	G	1	O
+3	,	,	O	1	O
+4	acqua	acqua	N	1	O
+5	appena	appena	A	1	O
+6	tiepida	tiepido	G	1	O
+7	nella	nella	P	1	O
+8	doccia	doccia	N	1	O
+9	,	,	O	1	O
+10	alla	alla	P	1	O
+11	sera	sera	N	1	O
+12	,	,	O	1	O
+13	fredda	freddo	G	1	O
+14	del	del	P	1	O
+15	tutto	tutto	Q	1	O
+16	al	al	P	1	O
+17	mattino	mattino	N	1	O
+18	.	.	O	1	O
+19	.	.	O	1	O
 
-1	Camere	camera	N	1	
-2	freddine	freddine	G	1	
-3	..	..	O	1	
-4	Colazione	colazione	N	1	
-5	scarsissima	scarsissima	G	1	
-6	,	,	O	1	
-7	con	con	P	1	
-8	pochi	poco	G	1	
-9	prodotti	prodotto	N	1	
-10	confezionati	confezionare	V	1	
-11	..	..	O	1	
-12	Al	al	P	1	
-13	momento	momento	N	1	
-14	dell'	dell'	P	1	
-15	ordinazione	ordinazione	N	1	
-16	dei	dei	P	1	
-17	caffè	caffe'	N	1	
-18	ci	ci	Q	1	
-19	è	è	R	1	
-20	stato	essere	V	1	
-21	chiesto	chiedere	V	1	
-22	l'	lo	D	1	
-23	immediato	immediato	G	1	
-24	pagamento	pagamento	N	1	
-25	dei	dei	P	1	
-26	suddetti	suddetti	N	1	
-27	(	(	O	1	
-28	già	già	R	1	
-29	è	è	N	1	
-30	strano	strano	G	1	
-31	dover	dover	V	1	
-32	pagare	pagare	V	1	
-33	il	lo	D	1	
-34	caffè	caffe'	R	1	
-35	,	,	O	1	
-36	quando	quando	Q	1	
-37	la	lo	D	1	
-38	colazione	colazione	N	1	
-39	è	è	R	1	
-40	compresa	comprendere	V	1	
-41	nel	nel	P	1	
-42	soggiorno	soggiorno	N	1	
-43	,	,	O	1	
-44	ma	ma	Q	1	
-45	pagarlo	pagarlo	V	1	
-46	mentre	mentre	Q	1	
-47	ancora	ancora	A	1	
-48	si	si	Q	1	
-49	deve	dovere	V	1	
-50	finire	finire	V	1	
-51	la	lo	D	1	
-52	colazione	colazione	N	1	
-53	...	...	O	1	
-54	)	)	O	1	
-55	...	...	O	1	
+1	Camere	camera	N	1	O
+2	freddine	freddine	G	1	O
+3	..	..	O	1	O
+4	Colazione	colazione	N	1	O
+5	scarsissima	scarsissima	G	1	O
+6	,	,	O	1	O
+7	con	con	P	1	O
+8	pochi	poco	G	1	O
+9	prodotti	prodotto	N	1	O
+10	confezionati	confezionare	V	1	O
+11	..	..	O	1	O
+12	Al	al	P	1	O
+13	momento	momento	N	1	O
+14	dell'	dell'	P	1	O
+15	ordinazione	ordinazione	N	1	O
+16	dei	dei	P	1	O
+17	caffè	caffe'	N	1	O
+18	ci	ci	Q	1	O
+19	è	è	R	1	O
+20	stato	essere	V	1	O
+21	chiesto	chiedere	V	1	O
+22	l'	lo	D	1	O
+23	immediato	immediato	G	1	O
+24	pagamento	pagamento	N	1	O
+25	dei	dei	P	1	O
+26	suddetti	suddetti	N	1	O
+27	(	(	O	1	O
+28	già	già	R	1	O
+29	è	è	N	1	O
+30	strano	strano	G	1	O
+31	dover	dover	V	1	O
+32	pagare	pagare	V	1	O
+33	il	lo	D	1	O
+34	caffè	caffe'	R	1	O
+35	,	,	O	1	O
+36	quando	quando	Q	1	O
+37	la	lo	D	1	O
+38	colazione	colazione	N	1	O
+39	è	è	R	1	O
+40	compresa	comprendere	V	1	O
+41	nel	nel	P	1	O
+42	soggiorno	soggiorno	N	1	O
+43	,	,	O	1	O
+44	ma	ma	Q	1	O
+45	pagarlo	pagarlo	V	1	O
+46	mentre	mentre	Q	1	O
+47	ancora	ancora	A	1	O
+48	si	si	Q	1	O
+49	deve	dovere	V	1	O
+50	finire	finire	V	1	O
+51	la	lo	D	1	O
+52	colazione	colazione	N	1	O
+53	...	...	O	1	O
+54	)	)	O	1	O
+55	...	...	O	1	O
 
-1	Insomma	insomma	A	1	
-2	bella	bello	G	1	
-3	struttura	strutturare	V	1	
-4	,	,	O	1	
-5	ma	ma	Q	1	
-6	con	con	P	1	
-7	la	lo	D	1	
-8	gestione	gestione	N	1	
-9	notevolmente	notevolmente	A	1	
-10	da	da	P	1	
-11	migliorare	migliorare	V	1	
-12	....	....	O	1	
+1	Insomma	insomma	A	1	O
+2	bella	bello	G	1	O
+3	struttura	strutturare	V	1	O
+4	,	,	O	1	O
+5	ma	ma	Q	1	O
+6	con	con	P	1	O
+7	la	lo	D	1	O
+8	gestione	gestione	N	1	O
+9	notevolmente	notevolmente	A	1	O
+10	da	da	P	1	O
+11	migliorare	migliorare	V	1	O
+12	....	....	O	1	O
 

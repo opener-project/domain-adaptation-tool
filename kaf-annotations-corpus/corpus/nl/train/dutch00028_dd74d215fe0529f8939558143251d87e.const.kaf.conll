@@ -1,180 +1,180 @@
-1	Resort	Resort	O	1	
-2	met	met	P	1	
-3	veel	veel	O	1	
-4	potentie	potentie	N	1	
+1	Resort	Resort	O	1	O
+2	met	met	P	1	O
+3	veel	veel	O	1	O
+4	potentie	potentie	N	1	O
 
-1	Ik	ik	Q	1	
-2	ben	zijn	V	1	
-3	hier	hier	A	1	
-4	eind	eind	N	1	
-5	oktober	oktober	R	1	
-6	1	@card@	O	1	
-7	week	week	N	1	
-8	geweest	wezen|zijn	V	1	
-9	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	ben	zijn	V	1	O
+3	hier	hier	A	1	O
+4	eind	eind	N	1	O
+5	oktober	oktober	R	1	O
+6	1	@card@	O	1	O
+7	week	week	N	1	O
+8	geweest	wezen|zijn	V	1	O
+9	.	.	O	1	O
 
-1	Het	het	D	1	
-2	resort	resort	O	1	
-3	is	zijn	V	1	
-4	afgelegen	afgelegen	G	1	
-5	maar	maar	C	1	
-6	is	zijn	V	1	
-7	prachtig	prachtig	G	1	
-8	ingericht	inrichten	V	1	
-9	.	.	O	1	
+1	Het	het	D	1	O
+2	resort	resort	O	1	O
+3	is	zijn	V	1	O
+4	afgelegen	afgelegen	G	1	O
+5	maar	maar	C	1	O
+6	is	zijn	V	1	O
+7	prachtig	prachtig	G	1	O
+8	ingericht	inrichten	V	1	O
+9	.	.	O	1	O
 
-1	Alle	alle	D	1	
-2	cottages	cottages	O	1	
-3	liggen	liggen	V	1	
-4	om	om	C	1	
-5	een	een	D	1	
-6	prachtige	prachtig	G	1	
-7	tropische	tropisch	G	1	
-8	tuin	tuin	N	1	
-9	met	met	P	1	
-10	een	een	D	1	
-11	verwarmd	verwarmen	V	1	
-12	zwembad	zwembad	N	1	
-13	.	.	O	1	
+1	Alle	alle	D	1	O
+2	cottages	cottages	O	1	O
+3	liggen	liggen	V	1	O
+4	om	om	C	1	O
+5	een	een	D	1	O
+6	prachtige	prachtig	G	1	O
+7	tropische	tropisch	G	1	O
+8	tuin	tuin	N	1	O
+9	met	met	P	1	O
+10	een	een	D	1	O
+11	verwarmd	verwarmen	V	1	O
+12	zwembad	zwembad	N	1	O
+13	.	.	O	1	O
 
-1	Echter	echter	A	1	
-2	,	,	O	1	
-3	het	het	D	1	
-4	water	water	N	1	
-5	uit	uit	P	1	
-6	de	de	D	1	
-7	douche	douche	N	1	
-8	is	zijn	V	1	
-9	bruin	bruin	G	1	
-10	en	en	C	1	
-11	koud	koud	G	1	
-12	,	,	O	1	
-13	en	en	C	1	
-14	na	na	P	1	
-15	een	een	D	1	
-16	dag	dag	N	1	
-17	duiken	duiken	V	1	
-18	wil	willen	V	1	
-19	je	je	Q	1	
-20	niets	niets	Q	1	
-21	liever	lief	G	1	
-22	dan	dan	C	1	
-23	douchen	douchen	N	1	
-24	onder	onder	P	1	
-25	een	een	D	1	
-26	warme	warm	G	1	
-27	douche	douche	N	1	
-28	.	.	O	1	
+1	Echter	echter	A	1	O
+2	,	,	O	1	O
+3	het	het	D	1	O
+4	water	water	N	1	O
+5	uit	uit	P	1	O
+6	de	de	D	1	O
+7	douche	douche	N	1	O
+8	is	zijn	V	1	O
+9	bruin	bruin	G	1	O
+10	en	en	C	1	O
+11	koud	koud	G	1	O
+12	,	,	O	1	O
+13	en	en	C	1	O
+14	na	na	P	1	O
+15	een	een	D	1	O
+16	dag	dag	N	1	O
+17	duiken	duiken	V	1	O
+18	wil	willen	V	1	O
+19	je	je	Q	1	O
+20	niets	niets	Q	1	O
+21	liever	lief	G	1	O
+22	dan	dan	C	1	O
+23	douchen	douchen	N	1	O
+24	onder	onder	P	1	O
+25	een	een	D	1	O
+26	warme	warm	G	1	O
+27	douche	douche	N	1	O
+28	.	.	O	1	O
 
-1	De	de	D	1	
-2	douche	douche	N	1	
-3	bij	bij	P	1	
-4	het	het	D	1	
-5	zwembad	zwembad	N	1	
-6	was	wezen|zijn	V	1	
-7	beter	beter	A	1	
-8	dan	dan	A	1	
-9	in	in	P	1	
-10	de	de	D	1	
-11	cottage	cottage	O	1	
-12	.	.	O	1	
+1	De	de	D	1	O
+2	douche	douche	N	1	O
+3	bij	bij	P	1	O
+4	het	het	D	1	O
+5	zwembad	zwembad	N	1	O
+6	was	wezen|zijn	V	1	O
+7	beter	beter	A	1	O
+8	dan	dan	A	1	O
+9	in	in	P	1	O
+10	de	de	D	1	O
+11	cottage	cottage	O	1	O
+12	.	.	O	1	O
 
-1	Het	het	D	1	
-2	duikcentrum	duikcentrum	O	1	
-3	is	zijn	V	1	
-4	zeer	zeer	G	1	
-5	sober	sober	G	1	
-6	,	,	O	1	
-7	het	het	D	1	
-8	water	water	N	1	
-9	om	om	C	1	
-10	je	je	Q	1	
-11	spullen	spul|spullen	N	1	
-12	te	te	O	1	
-13	spoelen	spoelen	V	1	
-14	is	zijn	V	1	
-15	eveneens	eveneens	A	1	
-16	bruin	bruin	G	1	
-17	en	en	C	1	
-18	wordt	worden	V	1	
-19	niet	niet	A	1	
-20	dagelijks	dagelijks	G	1	
-21	verschoond	verschonen	V	1	
-22	,	,	O	1	
-23	je	je	Q	1	
-24	bent	zijn	V	1	
-25	genoodzaakt	noodzaken	V	1	
-26	je	je	Q	1	
-27	spullen	spul|spullen	N	1	
-28	te	te	O	1	
-29	spoelen	spoelen	V	1	
-30	in	in	P	1	
-31	het	het	D	1	
-32	zwembad	zwembad	N	1	
-33	.	.	O	1	
+1	Het	het	D	1	O
+2	duikcentrum	duikcentrum	O	1	O
+3	is	zijn	V	1	O
+4	zeer	zeer	G	1	O
+5	sober	sober	G	1	O
+6	,	,	O	1	O
+7	het	het	D	1	O
+8	water	water	N	1	O
+9	om	om	C	1	O
+10	je	je	Q	1	O
+11	spullen	spul|spullen	N	1	O
+12	te	te	O	1	O
+13	spoelen	spoelen	V	1	O
+14	is	zijn	V	1	O
+15	eveneens	eveneens	A	1	O
+16	bruin	bruin	G	1	O
+17	en	en	C	1	O
+18	wordt	worden	V	1	O
+19	niet	niet	A	1	O
+20	dagelijks	dagelijks	G	1	O
+21	verschoond	verschonen	V	1	O
+22	,	,	O	1	O
+23	je	je	Q	1	O
+24	bent	zijn	V	1	O
+25	genoodzaakt	noodzaken	V	1	O
+26	je	je	Q	1	O
+27	spullen	spul|spullen	N	1	O
+28	te	te	O	1	O
+29	spoelen	spoelen	V	1	O
+30	in	in	P	1	O
+31	het	het	D	1	O
+32	zwembad	zwembad	N	1	O
+33	.	.	O	1	O
 
-1	Het	het	D	1	
-2	duiken	duik	N	1	
-3	(	(	O	1	
-4	local	local	O	1	
-5	dives	dives	O	1	
-6	)	)	O	1	
-7	in	in	P	1	
-8	Dauin	Dauin	O	1	
-9	bestaat	bestaan	V	1	
-10	voornamelijk	voornamelijk	A	1	
-11	uit	uit	P	1	
-12	mud	mud	N	1	
-13	/	/	O	1	
-14	muck	muck	O	1	
-15	diving	diving	O	1	
-16	en	en	C	1	
-17	de	de	D	1	
-18	stukken	stuk	N	1	
-19	koraal	koraal	N	1	
-20	die	die	Q	1	
-21	aangeboden	aanbieden	V	1	
-22	worden	worden	V	1	
-23	zijn	zijn	D	1	
-24	dood	dood	N	1	
-25	of	of	C	1	
-26	autobanden	autoband	N	1	
-27	.	.	O	1	
+1	Het	het	D	1	O
+2	duiken	duik	N	1	O
+3	(	(	O	1	O
+4	local	local	O	1	O
+5	dives	dives	O	1	O
+6	)	)	O	1	O
+7	in	in	P	1	O
+8	Dauin	Dauin	O	1	O
+9	bestaat	bestaan	V	1	O
+10	voornamelijk	voornamelijk	A	1	O
+11	uit	uit	P	1	O
+12	mud	mud	N	1	O
+13	/	/	O	1	O
+14	muck	muck	O	1	O
+15	diving	diving	O	1	O
+16	en	en	C	1	O
+17	de	de	D	1	O
+18	stukken	stuk	N	1	O
+19	koraal	koraal	N	1	O
+20	die	die	Q	1	O
+21	aangeboden	aanbieden	V	1	O
+22	worden	worden	V	1	O
+23	zijn	zijn	D	1	O
+24	dood	dood	N	1	O
+25	of	of	C	1	O
+26	autobanden	autoband	N	1	O
+27	.	.	O	1	O
 
-1	Voor	voor	P	1	
-2	de	de	D	1	
-3	echte	echt	G	1	
-4	mooie	mooi	G	1	
-5	duikstekken	duikstekken	O	1	
-6	(	(	O	1	
-7	Apo	Apo	O	1	
-8	/	/	O	1	
-9	Siqujor	Siqujor	O	1	
-10	)	)	O	1	
-11	moet	moeten	V	1	
-12	verder	ver|verder	G	1	
-13	gevaren	varen	V	1	
-14	worden	worden	V	1	
-15	en	en	C	1	
-16	wordt	worden	V	1	
-17	een	een	D	1	
-18	forse	fors	G	1	
-19	toeslag	toeslag	N	1	
-20	berekend	berekenen	V	1	
-21	,	,	O	1	
-22	wat	wat	Q	1	
-23	een	een	D	1	
-24	fikse	fiks	G	1	
-25	tegenvaller	tegenvaller	N	1	
-26	is	zijn	V	1	
-27	.	.	O	1	
+1	Voor	voor	P	1	O
+2	de	de	D	1	O
+3	echte	echt	G	1	O
+4	mooie	mooi	G	1	O
+5	duikstekken	duikstekken	O	1	O
+6	(	(	O	1	O
+7	Apo	Apo	O	1	O
+8	/	/	O	1	O
+9	Siqujor	Siqujor	O	1	O
+10	)	)	O	1	O
+11	moet	moeten	V	1	O
+12	verder	ver|verder	G	1	O
+13	gevaren	varen	V	1	O
+14	worden	worden	V	1	O
+15	en	en	C	1	O
+16	wordt	worden	V	1	O
+17	een	een	D	1	O
+18	forse	fors	G	1	O
+19	toeslag	toeslag	N	1	O
+20	berekend	berekenen	V	1	O
+21	,	,	O	1	O
+22	wat	wat	Q	1	O
+23	een	een	D	1	O
+24	fikse	fiks	G	1	O
+25	tegenvaller	tegenvaller	N	1	O
+26	is	zijn	V	1	O
+27	.	.	O	1	O
 
-1	De	de	D	1	
-2	boot	boot	N	1	
-3	en	en	C	1	
-4	zijn	zijn	D	1	
-5	bemanning	bemanning	N	1	
-6	zijn	zijn	V	1	
-7	geweldig	geweldig	G	1	
-8	.	.	O	1	
+1	De	de	D	1	O
+2	boot	boot	N	1	O
+3	en	en	C	1	O
+4	zijn	zijn	D	1	O
+5	bemanning	bemanning	N	1	O
+6	zijn	zijn	V	1	O
+7	geweldig	geweldig	G	1	O
+8	.	.	O	1	O
 

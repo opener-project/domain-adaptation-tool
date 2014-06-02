@@ -1,126 +1,131 @@
-1	Apart	apart	G	1	
-2	hotel	hotel	N	1	
-3	op	op	P	1	
-4	perfecte	perfect	G	1	
-5	locatie	locatie	N	1	
+1	Apart	apart	G	1	O
+2	hotel	hotel	N	1	O
+3	op	op	P	1	O
+4	perfecte	perfect	G	1	O
+5	locatie	locatie	N	1	O
 
-1	We	we	Q	1	
-2	waren	wezen|zijn	V	1	
-3	1	@card@	O	1	
-4	van	van	P	1	
-5	de	de	D	1	
-6	eerste	een	O	1	
-7	gasten	gast|gasten	N	1	
-8	in	in	P	1	
-9	dit	dit	D	1	
-10	"	"	O	1	
-11	kleinste_hotel_van_Utrecht	klein_hotel_van_Utrecht	R	1	ne=Hotel
-12	"	"	O	1	
-13	.	.	O	1	
+1	We	we	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	1	@card@	O	1	O
+4	van	van	P	1	O
+5	de	de	D	1	O
+6	eerste	een	O	1	O
+7	gasten	gast|gasten	N	1	O
+8	in	in	P	1	O
+9	dit	dit	D	1	O
+10	"	"	O	1	O
+11	kleinste	klein	G	1	I-Hotel
+12	hotel	hotel	N	1	I-Hotel
+13	van	van	P	1	I-Hotel
+14	Utrecht	Utrecht	R	1	I-Hotel
+15	"	"	O	1	O
+16	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	is	zijn	V	1	
-3	uniek	uniek	G	1	
-4	om	om	C	1	
-5	in	in	P	1	
-6	een	een	D	1	
-7	gewelf	gewelf	N	1	
-8	aan	aan	P	1	
-9	de	de	D	1	
-10	gracht	gracht	N	1	
-11	te	te	O	1	
-12	slapen	slapen	V	1	
-13	.	.	O	1	
+1	Het	het	Q	1	O
+2	is	zijn	V	1	O
+3	uniek	uniek	G	1	O
+4	om	om	C	1	O
+5	in	in	P	1	O
+6	een	een	D	1	O
+7	gewelf	gewelf	N	1	O
+8	aan	aan	P	1	O
+9	de	de	D	1	O
+10	gracht	gracht	N	1	O
+11	te	te	O	1	O
+12	slapen	slapen	V	1	O
+13	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	zit	zitten	V	1	
-3	helaas	helaas	A	1	
-4	geen	geen	D	1	
-5	barretje	barretje	O	1	
-6	of	of	C	1	
-7	zitruimte	zitruimte	O	1	
-8	in	in	P	1	
-9	het	het	D	1	
-10	hotel	hotel	N	1	
-11	,	,	O	1	
-12	maar	maar	C	1	
-13	je	je	Q	1	
-14	slaapt	slapen	V	1	
-15	perfect	perfect	G	1	
-16	en	en	C	1	
-17	midden	midden	A	1	
-18	in	in	P	1	
-19	de	de	D	1	
-20	stad	stad	N	1	
-21	.	.	O	1	
+1	Er	er	Q	1	O
+2	zit	zitten	V	1	O
+3	helaas	helaas	A	1	O
+4	geen	geen	D	1	O
+5	barretje	barretje	O	1	O
+6	of	of	C	1	O
+7	zitruimte	zitruimte	O	1	O
+8	in	in	P	1	O
+9	het	het	D	1	O
+10	hotel	hotel	N	1	O
+11	,	,	O	1	O
+12	maar	maar	C	1	O
+13	je	je	Q	1	O
+14	slaapt	slapen	V	1	O
+15	perfect	perfect	G	1	O
+16	en	en	C	1	O
+17	midden	midden	A	1	O
+18	in	in	P	1	O
+19	de	de	D	1	O
+20	stad	stad	N	1	O
+21	.	.	O	1	O
 
-1	In	in	P	1	
-2	de	de	D	1	
-3	directe	direct	G	1	
-4	omgeving	omgeving	N	1	
-5	kun	kun	O	1	
-6	je	je	Q	1	
-7	lekker	lek|lekker	G	1	
-8	eten	eten	V	1	
-9	,	,	O	1	
-10	drinken	drinken	V	1	
-11	en	en	C	1	
-12	winkelen	winkelen	V	1	
-13	.	.	O	1	
+1	In	in	P	1	O
+2	de	de	D	1	O
+3	directe	direct	G	1	O
+4	omgeving	omgeving	N	1	O
+5	kun	kun	O	1	O
+6	je	je	Q	1	O
+7	lekker	lek|lekker	G	1	O
+8	eten	eten	V	1	O
+9	,	,	O	1	O
+10	drinken	drinken	V	1	O
+11	en	en	C	1	O
+12	winkelen	winkelen	V	1	O
+13	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	eigen	eigen	G	1	
-3	terras	terras	N	1	
-4	direct	direct	G	1	
-5	voor	voor	P	1	
-6	de	de	D	1	
-7	hotelkamer	hotelkamer	N	1	
-8	aan	aan	P	1	
-9	de	de	D	1	
-10	Nieuwegracht	Nieuwegracht	R	1	ne=Location
-11	is	zijn	V	1	
-12	ongekend	ongekend	G	1	
-13	.	.	O	1	
+1	Je	je	Q	1	O
+2	eigen	eigen	G	1	O
+3	terras	terras	N	1	O
+4	direct	direct	G	1	O
+5	voor	voor	P	1	O
+6	de	de	D	1	O
+7	hotelkamer	hotelkamer	N	1	O
+8	aan	aan	P	1	O
+9	de	de	D	1	O
+10	Nieuwegracht	Nieuwegracht	R	1	I-Location
+11	is	zijn	V	1	O
+12	ongekend	ongekend	G	1	O
+13	.	.	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	de	de	D	1	
-4	stoelen	stoel	N	1	
-5	uit	uit	P	1	
-6	de	de	D	1	
-7	kamer	kamer	N	1	
-8	elke_avond	elk_avond	R	1	ne=Date
-9	lekker	lekker	A	1	
-10	buiten	buiten	A	1	
-11	gezet	zetten	V	1	
-12	!	!	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	de	de	D	1	O
+4	stoelen	stoel	N	1	O
+5	uit	uit	P	1	O
+6	de	de	D	1	O
+7	kamer	kamer	N	1	O
+8	elke	elk	D	1	I-Date
+9	avond	avond	N	1	I-Date
+10	lekker	lekker	A	1	O
+11	buiten	buiten	A	1	O
+12	gezet	zetten	V	1	O
+13	!	!	O	1	O
 
-1	Het	het	D	1	
-2	gratis	gratis	G	1	
-3	wijntje	wijn	N	1	
-4	op	op	P	1	
-5	de	de	D	1	
-6	kamer	kamer	N	1	
-7	is	zijn	V	1	
-8	een	een	D	1	
-9	leuke	leuk	G	1	
-10	attentie	attentie	N	1	
-11	.	.	O	1	
+1	Het	het	D	1	O
+2	gratis	gratis	G	1	O
+3	wijntje	wijn	N	1	O
+4	op	op	P	1	O
+5	de	de	D	1	O
+6	kamer	kamer	N	1	O
+7	is	zijn	V	1	O
+8	een	een	D	1	O
+9	leuke	leuk	G	1	O
+10	attentie	attentie	N	1	O
+11	.	.	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	lekker	lekker	A	1	
-4	2_dagen	@card@_dag	R	1	ne=Date
-5	genoten	genieten	V	1	
-6	van	van	P	1	
-7	de	de	D	1	
-8	rust	rust	N	1	
-9	midden	midden	A	1	
-10	in	in	P	1	
-11	de	de	D	1	
-12	stad	stad	N	1	
-13	aan	aan	P	1	
-14	de	de	D	1	
-15	gracht	gracht	N	1	
-16	.	.	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	lekker	lekker	A	1	O
+4	2	@card@	O	1	I-Date
+5	dagen	dag	N	1	I-Date
+6	genoten	genieten	V	1	O
+7	van	van	P	1	O
+8	de	de	D	1	O
+9	rust	rust	N	1	O
+10	midden	midden	A	1	O
+11	in	in	P	1	O
+12	de	de	D	1	O
+13	stad	stad	N	1	O
+14	aan	aan	P	1	O
+15	de	de	D	1	O
+16	gracht	gracht	N	1	O
+17	.	.	O	1	O
 

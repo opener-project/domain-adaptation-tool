@@ -1,111 +1,113 @@
-1	Eine	eine	D	1	
-2	schöne	schön	G	1	
-3	Woche	Woche	R	1	ne=Time
-4	,	,	O	1	
-5	immer	immer	A	1	
-6	Frühling	Frühling	N	1	
-7	,	,	O	1	
-8	Sonne	Sonne	N	1	
-9	und	und	C	1	
-10	Meer	Meer	N	1	
+1	Eine	eine	D	1	O
+2	schöne	schön	G	1	O
+3	Woche	Woche	R	1	I-Time
+4	,	,	O	1	O
+5	immer	immer	A	1	O
+6	Frühling	Frühling	N	1	O
+7	,	,	O	1	O
+8	Sonne	Sonne	N	1	O
+9	und	und	C	1	O
+10	Meer	Meer	N	1	O
 
-1	Eine	eine	D	1	
-2	sehr	sehr	A	1	
-3	schöne	schön	G	1	
-4	erholsame	erholsam	G	1	
-5	Woche	Woche	R	1	ne=Time
-6	mit	mit	P	1	
-7	leckerem	lecker	G	1	
-8	Essen	Essen	N	1	
-9	,	,	O	1	
-10	nettes	nett	G	1	
-11	Personal	Personal	N	1	
-12	und	und	C	1	
-13	friedlichen	friedlich	G	1	
-14	Gästen	Gast	N	1	
-15	(	(	O	1	
-16	überwiegend	überwiegend	G	1	
-17	Rentner	Rentner	N	1	
-18	)	)	O	1	
-19	.	.	O	1	
+1	Eine	eine	D	1	O
+2	sehr	sehr	A	1	O
+3	schöne	schön	G	1	O
+4	erholsame	erholsam	G	1	O
+5	Woche	Woche	R	1	I-Time
+6	mit	mit	P	1	O
+7	leckerem	lecker	G	1	O
+8	Essen	Essen	N	1	O
+9	,	,	O	1	O
+10	nettes	nett	G	1	O
+11	Personal	Personal	N	1	O
+12	und	und	C	1	O
+13	friedlichen	friedlich	G	1	O
+14	Gästen	Gast	N	1	O
+15	(	(	O	1	O
+16	überwiegend	überwiegend	G	1	O
+17	Rentner	Rentner	N	1	O
+18	)	)	O	1	O
+19	.	.	O	1	O
 
-1	Ein	eine	D	1	
-2	Mietwagen	Mietwagen	N	1	
-3	macht	machen	V	1	
-4	sinn	sinnen	V	1	
-5	,	,	O	1	
-6	es	es	Q	1	
-7	gibt	geben	V	1	
-8	doch	doch	A	1	
-9	so	so	A	1	
-10	manches	manche	Q	1	
-11	zu	zu	O	1	
-12	sehen	sehen	V	1	
-13	.	.	O	1	
+1	Ein	eine	D	1	O
+2	Mietwagen	Mietwagen	N	1	O
+3	macht	machen	V	1	O
+4	sinn	sinnen	V	1	O
+5	,	,	O	1	O
+6	es	es	Q	1	O
+7	gibt	geben	V	1	O
+8	doch	doch	A	1	O
+9	so	so	A	1	O
+10	manches	manche	Q	1	O
+11	zu	zu	O	1	O
+12	sehen	sehen	V	1	O
+13	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	waren	sein	V	1	
-3	im	in	P	1	
-4	Loro_Park	Loro_Park	R	1	ne=Attraction
-5	,	,	O	1	
-6	nicht	nicht	O	1	
-7	günstig	günstig	G	1	
-8	(	(	O	1	
-9	33_€	33_€	R	1	ne=Money
-10	)	)	O	1	
-11	aber	aber	A	1	
-12	jeden	jede	Q	1	
-13	Euro	Euro	N	1	
-14	wert	wert	G	1	
-15	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	waren	sein	V	1	O
+3	im	in	P	1	O
+4	Loro	Loro	O	1	I-Attraction
+5	Park	Park	N	1	I-Attraction
+6	,	,	O	1	O
+7	nicht	nicht	O	1	O
+8	günstig	günstig	G	1	O
+9	(	(	O	1	O
+10	33	33	O	1	I-Money
+11	€	€	O	1	I-Money
+12	)	)	O	1	O
+13	aber	aber	A	1	O
+14	jeden	jede	Q	1	O
+15	Euro	Euro	N	1	O
+16	wert	wert	G	1	O
+17	.	.	O	1	O
 
-1	Außerdem	außerdem	A	1	
-2	auf	auf	P	1	
-3	dem	die	D	1	
-4	Teide	Teide	O	1	
-5	,	,	O	1	
-6	muss	müssen	V	1	
-7	man	man	Q	1	
-8	gemacht	machen	V	1	
-9	haben	haben	V	1	
-10	,	,	O	1	
-11	kommt	kommen	V	1	
-12	gut	gut	G	1	
-13	.	.	O	1	
+1	Außerdem	außerdem	A	1	O
+2	auf	auf	P	1	O
+3	dem	die	D	1	O
+4	Teide	Teide	O	1	O
+5	,	,	O	1	O
+6	muss	müssen	V	1	O
+7	man	man	Q	1	O
+8	gemacht	machen	V	1	O
+9	haben	haben	V	1	O
+10	,	,	O	1	O
+11	kommt	kommen	V	1	O
+12	gut	gut	G	1	O
+13	.	.	O	1	O
 
-1	Gute	gut	G	1	
-2	Fahrstrecke	Fahrstrecke	N	1	
-3	.	.	O	1	
+1	Gute	gut	G	1	O
+2	Fahrstrecke	Fahrstrecke	N	1	O
+3	.	.	O	1	O
 
-1	Und	und	C	1	
-2	einmal	einmal	A	1	
-3	um	um	P	1	
-4	die	die	D	1	
-5	ganze	ganz	G	1	
-6	Insel	Insel	N	1	
-7	fahren	fahren	V	1	
-8	.	.	O	1	
+1	Und	und	C	1	O
+2	einmal	einmal	A	1	O
+3	um	um	P	1	O
+4	die	die	D	1	O
+5	ganze	ganz	G	1	O
+6	Insel	Insel	N	1	O
+7	fahren	fahren	V	1	O
+8	.	.	O	1	O
 
-1	Mit	mit	P	1	
-2	Kleinkind	Kleinkind	N	1	
-3	und	und	C	1	
-4	eine	eine	D	1	
-5	Woche	Woche	N	1	
-6	Urlaub	Urlaub	R	1	
-7	reicht	reichen	V	1	
-8	das	die	Q	1	
-9	,	,	O	1	
-10	weil	weil	C	1	
-11	planschen	planschen	V	1	
-12	im	in	P	1	
-13	Pool	Pool	N	1	
-14	,	,	O	1	
-15	ist	sein	V	1	
-16	doch	doch	A	1	
-17	am	am	O	1	
-18	schönsten	schön	G	1	
-19	.	.	O	1	
+1	Mit	mit	P	1	O
+2	Kleinkind	Kleinkind	N	1	O
+3	und	und	C	1	O
+4	eine	eine	D	1	O
+5	Woche	Woche	N	1	O
+6	Urlaub	Urlaub	R	1	O
+7	reicht	reichen	V	1	O
+8	das	die	Q	1	O
+9	,	,	O	1	O
+10	weil	weil	C	1	O
+11	planschen	planschen	V	1	O
+12	im	in	P	1	O
+13	Pool	Pool	N	1	O
+14	,	,	O	1	O
+15	ist	sein	V	1	O
+16	doch	doch	A	1	O
+17	am	am	O	1	O
+18	schönsten	schön	G	1	O
+19	.	.	O	1	O
 
-1	Viel	viele	Q	1	
-2	Spass	Spaß	N	1	
+1	Viel	viele	Q	1	O
+2	Spass	Spaß	N	1	O
 

@@ -1,130 +1,131 @@
-1	Bestimmt	bestimmen	V	1	
-2	wieder	wieder	A	1	
-3	.	.	O	1	
+1	Bestimmt	bestimmen	V	1	O
+2	wieder	wieder	A	1	O
+3	.	.	O	1	O
 
-1	Schon	schon	A	1	
-2	bei	bei	P	1	
-3	der	die	D	1	
-4	Ankunft	Ankunft	N	1	
-5	bemerkt	bemerken	V	1	
-6	man	man	Q	1	
-7	das	die	D	1	
-8	vornehme	vornehm	G	1	
-9	und	und	C	1	
-10	exklusive	exklusiv	G	1	
-11	Ambiente	Ambiente	N	1	
-12	.	.	O	1	
+1	Schon	schon	A	1	O
+2	bei	bei	P	1	O
+3	der	die	D	1	O
+4	Ankunft	Ankunft	N	1	O
+5	bemerkt	bemerken	V	1	O
+6	man	man	Q	1	O
+7	das	die	D	1	O
+8	vornehme	vornehm	G	1	O
+9	und	und	C	1	O
+10	exklusive	exklusiv	G	1	O
+11	Ambiente	Ambiente	N	1	O
+12	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Personal	Personal	N	1	
-3	(	(	O	1	
-4	Rezeption	Rezeption	N	1	
-5	und	und	C	1	
-6	beim	bei	P	1	
-7	Frühstück	Frühstück	N	1	
-8	)	)	O	1	
-9	ist	sein	V	1	
-10	sehr	sehr	A	1	
-11	gut	gut	G	1	
-12	geschult	schulen	V	1	
-13	,	,	O	1	
-14	aufmerksam	aufmerksam	G	1	
-15	und	und	C	1	
-16	freundlich	freundlich	G	1	
-17	.	.	O	1	
+1	Das	die	D	1	O
+2	Personal	Personal	N	1	O
+3	(	(	O	1	O
+4	Rezeption	Rezeption	N	1	O
+5	und	und	C	1	O
+6	beim	bei	P	1	O
+7	Frühstück	Frühstück	N	1	O
+8	)	)	O	1	O
+9	ist	sein	V	1	O
+10	sehr	sehr	A	1	O
+11	gut	gut	G	1	O
+12	geschult	schulen	V	1	O
+13	,	,	O	1	O
+14	aufmerksam	aufmerksam	G	1	O
+15	und	und	C	1	O
+16	freundlich	freundlich	G	1	O
+17	.	.	O	1	O
 
-1	Im	in	P	1	
-2	ganzen	ganz	G	1	
-3	Hotel	Hotel	N	1	
-4	ist	sein	V	1	
-5	es	es	Q	1	
-6	sehr	sehr	A	1	
-7	sauber	sauber	G	1	
-8	,	,	O	1	
-9	alles	alle	Q	1	
-10	ist	sein	V	1	
-11	in	in	P	1	
-12	tadellosem	tadellos	G	1	
-13	Zustand	Zustand	N	1	
-14	.	.	O	1	
+1	Im	in	P	1	O
+2	ganzen	ganz	G	1	O
+3	Hotel	Hotel	N	1	O
+4	ist	sein	V	1	O
+5	es	es	Q	1	O
+6	sehr	sehr	A	1	O
+7	sauber	sauber	G	1	O
+8	,	,	O	1	O
+9	alles	alle	Q	1	O
+10	ist	sein	V	1	O
+11	in	in	P	1	O
+12	tadellosem	tadellos	G	1	O
+13	Zustand	Zustand	N	1	O
+14	.	.	O	1	O
 
-1	Unser	unser	Q	1	
-2	Zimmer	Zimmer	N	1	
-3	war	sein	V	1	
-4	geräumig	geräumig	G	1	
-5	und	und	C	1	
-6	für	für	P	1	
-7	Rom	Rom	R	1	ne=Location
-8	sehr	sehr	A	1	
-9	ruhig	ruhig	G	1	
-10	.	.	O	1	
+1	Unser	unser	Q	1	O
+2	Zimmer	Zimmer	N	1	O
+3	war	sein	V	1	O
+4	geräumig	geräumig	G	1	O
+5	und	und	C	1	O
+6	für	für	P	1	O
+7	Rom	Rom	R	1	I-Location
+8	sehr	sehr	A	1	O
+9	ruhig	ruhig	G	1	O
+10	.	.	O	1	O
 
-1	Nur	nur	A	1	
-2	am	an	P	1	
-3	Abend	Abend	N	1	
-4	hörte	hören	V	1	
-5	man	man	Q	1	
-6	teilweise	teilweise	A	1	
-7	Lärm	Lärm	N	1	
-8	von	von	P	1	
-9	der	die	D	1	
-10	nahe	nahe	P	1	
-11	gelegenen	gelegen	G	1	
-12	Piazza_Navona	Piazza_Navona	R	1	ne=POI
-13	.	.	O	1	
+1	Nur	nur	A	1	O
+2	am	an	P	1	O
+3	Abend	Abend	N	1	O
+4	hörte	hören	V	1	O
+5	man	man	Q	1	O
+6	teilweise	teilweise	A	1	O
+7	Lärm	Lärm	N	1	O
+8	von	von	P	1	O
+9	der	die	D	1	O
+10	nahe	nahe	P	1	O
+11	gelegenen	gelegen	G	1	O
+12	Piazza	Piazza	O	1	I-POI
+13	Navona	Navona	O	1	I-POI
+14	.	.	O	1	O
 
-1	Dafür	dafür	Q	1	
-2	genossen	genießen	V	1	
-3	wir	wir	Q	1	
-4	es	es	Q	1	
-5	,	,	O	1	
-6	mitten	mitten	A	1	
-7	im	in	P	1	
-8	Zentrum	Zentrum	N	1	
-9	zu	zu	O	1	
-10	sein	sein	V	1	
-11	und	und	C	1	
-12	praktisch	praktisch	G	1	
-13	alle	alle	Q	1	
-14	Sehenswürdigkeiten	Sehenswürdigkeit	N	1	
-15	zu	zu	P	1	
-16	Fuss	Fuß	N	1	
-17	erreichen	erreichen	V	1	
-18	zu	zu	O	1	
-19	können	können	V	1	
-20	.	.	O	1	
+1	Dafür	dafür	Q	1	O
+2	genossen	genießen	V	1	O
+3	wir	wir	Q	1	O
+4	es	es	Q	1	O
+5	,	,	O	1	O
+6	mitten	mitten	A	1	O
+7	im	in	P	1	O
+8	Zentrum	Zentrum	N	1	O
+9	zu	zu	O	1	O
+10	sein	sein	V	1	O
+11	und	und	C	1	O
+12	praktisch	praktisch	G	1	O
+13	alle	alle	Q	1	O
+14	Sehenswürdigkeiten	Sehenswürdigkeit	N	1	O
+15	zu	zu	P	1	O
+16	Fuss	Fuß	N	1	O
+17	erreichen	erreichen	V	1	O
+18	zu	zu	O	1	O
+19	können	können	V	1	O
+20	.	.	O	1	O
 
-1	Zudem	zudem	A	1	
-2	gab	geben	V	1	
-3	es	es	Q	1	
-4	in	in	P	1	
-5	den	die	D	1	
-6	umliegenden	umliegend	G	1	
-7	Straßen	Straße	N	1	
-8	eine	eine	D	1	
-9	große	groß	G	1	
-10	Auswahl	Auswahl	N	1	
-11	an	an	P	1	
-12	netten	nett	G	1	
-13	Lokalen	Lokal	N	1	
-14	.	.	O	1	
+1	Zudem	zudem	A	1	O
+2	gab	geben	V	1	O
+3	es	es	Q	1	O
+4	in	in	P	1	O
+5	den	die	D	1	O
+6	umliegenden	umliegend	G	1	O
+7	Straßen	Straße	N	1	O
+8	eine	eine	D	1	O
+9	große	groß	G	1	O
+10	Auswahl	Auswahl	N	1	O
+11	an	an	P	1	O
+12	netten	nett	G	1	O
+13	Lokalen	Lokal	N	1	O
+14	.	.	O	1	O
 
-1	Besonders	besonders	A	1	
-2	erwähnenswert	erwähnenswert	G	1	
-3	ist	sein	V	1	
-4	auch	auch	A	1	
-5	das	die	D	1	
-6	wirklich	wirklich	G	1	
-7	reichhaltige	reichhaltig	G	1	
-8	und	und	C	1	
-9	exklusive	exklusiv	G	1	
-10	Frühstücksbuffet	Frühstücksbuffet	N	1	
-11	,	,	O	1	
-12	das	die	Q	1	
-13	wirklich	wirklich	G	1	
-14	keinen	keine	Q	1	
-15	Wunsch	Wunsch	N	1	
-16	offen	offen	G	1	
-17	ließ	lassen	V	1	
-18	.	.	O	1	
+1	Besonders	besonders	A	1	O
+2	erwähnenswert	erwähnenswert	G	1	O
+3	ist	sein	V	1	O
+4	auch	auch	A	1	O
+5	das	die	D	1	O
+6	wirklich	wirklich	G	1	O
+7	reichhaltige	reichhaltig	G	1	O
+8	und	und	C	1	O
+9	exklusive	exklusiv	G	1	O
+10	Frühstücksbuffet	Frühstücksbuffet	N	1	O
+11	,	,	O	1	O
+12	das	die	Q	1	O
+13	wirklich	wirklich	G	1	O
+14	keinen	keine	Q	1	O
+15	Wunsch	Wunsch	N	1	O
+16	offen	offen	G	1	O
+17	ließ	lassen	V	1	O
+18	.	.	O	1	O
 

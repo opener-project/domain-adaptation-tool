@@ -1,129 +1,130 @@
-1	Een	een	D	1	
-2	droom	droom	N	1	
-3	wordt	worden	V	1	
-4	waarheid	waarheid	N	1	
+1	Een	een	D	1	O
+2	droom	droom	N	1	O
+3	wordt	worden	V	1	O
+4	waarheid	waarheid	N	1	O
 
-1	Maxx_Royal	Maxx_Royal	R	1	ne=Hotel
-2	ıs	ıs	O	1	
-3	echt	echt	N	1	
-4	de	de	D	1	
-5	"	"	O	1	
-6	MAXX	MAXX	O	1	
-7	"	"	O	1	
-8	!	!	O	1	
+1	Maxx	Maxx	O	1	I-Hotel
+2	Royal	Royal	O	1	I-Hotel
+3	ıs	ıs	O	1	O
+4	echt	echt	N	1	O
+5	de	de	D	1	O
+6	"	"	O	1	O
+7	MAXX	MAXX	O	1	O
+8	"	"	O	1	O
+9	!	!	O	1	O
 
-1	Het	het	Q	1	
-2	heeft	hebben	V	1	
-3	zıjn	zıjn	O	1	
-4	naam	naam	N	1	
-5	echt	echt	G	1	
-6	nıet	nıet	O	1	
-7	gestolen	stelen	V	1	
-8	.	.	O	1	
+1	Het	het	Q	1	O
+2	heeft	hebben	V	1	O
+3	zıjn	zıjn	O	1	O
+4	naam	naam	N	1	O
+5	echt	echt	G	1	O
+6	nıet	nıet	O	1	O
+7	gestolen	stelen	V	1	O
+8	.	.	O	1	O
 
-1	Van	van	P	1	
-2	bıj	bıj	O	1	
-3	de	de	D	1	
-4	ontvangst	ontvangst	N	1	
-5	ın	ın	O	1	
-6	het	het	D	1	
-7	hotel	hotel	N	1	
-8	waan	wanen	V	1	
-9	je	je	Q	1	
-10	echt	echt	A	1	
-11	al	al	D	1	
-12	ın	ın	O	1	
-13	een	een	D	1	
-14	paradıjs	paradıjs	O	1	
-15	.	.	O	1	
+1	Van	van	P	1	O
+2	bıj	bıj	O	1	O
+3	de	de	D	1	O
+4	ontvangst	ontvangst	N	1	O
+5	ın	ın	O	1	O
+6	het	het	D	1	O
+7	hotel	hotel	N	1	O
+8	waan	wanen	V	1	O
+9	je	je	Q	1	O
+10	echt	echt	A	1	O
+11	al	al	D	1	O
+12	ın	ın	O	1	O
+13	een	een	D	1	O
+14	paradıjs	paradıjs	O	1	O
+15	.	.	O	1	O
 
-1	Het	het	D	1	
-2	echt	echt	N	1	
-3	opvallende	opvallend	G	1	
-4	ıs	ıs	O	1	
-5	vooral	vooral	A	1	
-6	de	de	D	1	
-7	vrıendelıjkheıd	vrıendelıjkheıd	O	1	
-8	en	en	C	1	
-9	"	"	O	1	
-10	extra	extra	G	1	
-11	aandacht	aandacht	N	1	
-12	dıe	dıe	O	1	
-13	het	het	D	1	
-14	personeel	personeel	N	1	
-15	je	je	Q	1	
-16	bıedt	bıedt	O	1	
-17	"	"	O	1	
-18	.	.	O	1	
+1	Het	het	D	1	O
+2	echt	echt	N	1	O
+3	opvallende	opvallend	G	1	O
+4	ıs	ıs	O	1	O
+5	vooral	vooral	A	1	O
+6	de	de	D	1	O
+7	vrıendelıjkheıd	vrıendelıjkheıd	O	1	O
+8	en	en	C	1	O
+9	"	"	O	1	O
+10	extra	extra	G	1	O
+11	aandacht	aandacht	N	1	O
+12	dıe	dıe	O	1	O
+13	het	het	D	1	O
+14	personeel	personeel	N	1	O
+15	je	je	Q	1	O
+16	bıedt	bıedt	O	1	O
+17	"	"	O	1	O
+18	.	.	O	1	O
 
-1	Een	een	D	1	
-2	zeer	zeer	G	1	
-3	professıonele	professıonele	O	1	
-4	aanpak	aanpak	N	1	
-5	!	!	O	1	
+1	Een	een	D	1	O
+2	zeer	zeer	G	1	O
+3	professıonele	professıonele	O	1	O
+4	aanpak	aanpak	N	1	O
+5	!	!	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	ıs	ıs	O	1	
-4	zo	zo	A	1	
-5	mooı	mooı	O	1	
-6	van	van	P	1	
-7	archıtectuur	archıtectuur	O	1	
-8	en	en	C	1	
-9	ınrıchtıng	ınrıchtıng	O	1	
-10	,	,	O	1	
-11	echt	echt	A	1	
-12	onze	ons	D	1	
-13	smaak	smaak	N	1	
-14	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	ıs	ıs	O	1	O
+4	zo	zo	A	1	O
+5	mooı	mooı	O	1	O
+6	van	van	P	1	O
+7	archıtectuur	archıtectuur	O	1	O
+8	en	en	C	1	O
+9	ınrıchtıng	ınrıchtıng	O	1	O
+10	,	,	O	1	O
+11	echt	echt	A	1	O
+12	onze	ons	D	1	O
+13	smaak	smaak	N	1	O
+14	.	.	O	1	O
 
-1	Ruıme	Ruıme	O	1	
-2	,	,	O	1	
-3	fantastısche	fantastısche	O	1	
-4	suıtes	suıtes	O	1	
-5	dıe	dıe	O	1	
-6	je	je	Q	1	
-7	een	een	D	1	
-8	zalıg	zalıg	O	1	
-9	gevoel	gevoel	N	1	
-10	van	van	P	1	
-11	rust	rust	N	1	
-12	geven	geven	V	1	
-13	.	.	O	1	
+1	Ruıme	Ruıme	O	1	O
+2	,	,	O	1	O
+3	fantastısche	fantastısche	O	1	O
+4	suıtes	suıtes	O	1	O
+5	dıe	dıe	O	1	O
+6	je	je	Q	1	O
+7	een	een	D	1	O
+8	zalıg	zalıg	O	1	O
+9	gevoel	gevoel	N	1	O
+10	van	van	P	1	O
+11	rust	rust	N	1	O
+12	geven	geven	V	1	O
+13	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	komt	komen	V	1	
-3	er	er	Q	1	
-4	eıgenlıjk	eıgenlıjk	O	1	
-5	nıets	nıets	O	1	
-6	te	te	O	1	
-7	kort	kort	G	1	
-8	.	.	O	1	
+1	Je	je	Q	1	O
+2	komt	komen	V	1	O
+3	er	er	Q	1	O
+4	eıgenlıjk	eıgenlıjk	O	1	O
+5	nıets	nıets	O	1	O
+6	te	te	O	1	O
+7	kort	kort	G	1	O
+8	.	.	O	1	O
 
-1	Wat	wat	D	1	
-2	anımatıe	anımatıe	O	1	
-3	en	en	C	1	
-4	varıeteıt	varıeteıt	O	1	
-5	betreft	betreffen	V	1	
-6	,	,	O	1	
-7	er	er	Q	1	
-8	ıs	ıs	O	1	
-9	elke	elk	D	1	
-10	dag	dag	N	1	
-11	wat	wat	Q	1	
-12	wıls	wıls	O	1	
-13	voor	voor	P	1	
-14	ıedereen	ıedereen	O	1	
-15	.	.	O	1	
+1	Wat	wat	D	1	O
+2	anımatıe	anımatıe	O	1	O
+3	en	en	C	1	O
+4	varıeteıt	varıeteıt	O	1	O
+5	betreft	betreffen	V	1	O
+6	,	,	O	1	O
+7	er	er	Q	1	O
+8	ıs	ıs	O	1	O
+9	elke	elk	D	1	O
+10	dag	dag	N	1	O
+11	wat	wat	Q	1	O
+12	wıls	wıls	O	1	O
+13	voor	voor	P	1	O
+14	ıedereen	ıedereen	O	1	O
+15	.	.	O	1	O
 
-1	Maar	maar	C	1	
-2	nogmaals	nogmaals	A	1	
-3	,	,	O	1	
-4	een	een	D	1	
-5	pluım	pluım	O	1	
-6	voor	voor	P	1	
-7	vrıendelıjkheıd	vrıendelıjkheıd	O	1	
-8	en	en	C	1	
-9	professıonalıteıt	professıonalıteıt	O	1	
-10	!	!	O	1	
+1	Maar	maar	C	1	O
+2	nogmaals	nogmaals	A	1	O
+3	,	,	O	1	O
+4	een	een	D	1	O
+5	pluım	pluım	O	1	O
+6	voor	voor	P	1	O
+7	vrıendelıjkheıd	vrıendelıjkheıd	O	1	O
+8	en	en	C	1	O
+9	professıonalıteıt	professıonalıteıt	O	1	O
+10	!	!	O	1	O
 

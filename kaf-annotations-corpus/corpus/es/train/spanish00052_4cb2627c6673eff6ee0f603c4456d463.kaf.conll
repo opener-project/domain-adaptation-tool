@@ -1,54 +1,54 @@
-1	Nos	Nos	R	1	
-2	agradó	agradó	N	1	
+1	Nos	Nos	R	1	O
+2	agradó	agradó	N	1	O
 
-1	Este	Este	R	1	
-2	hotel	hotel	N	1	
-3	nos	nos	N	1	
-4	gusto	gusto	V	1	
-5	mucho	mucho	G	1	
-6	el	el	N	1	
-7	servicio	servicio	N	1	
-8	que	que	N	1	
-9	daban	daban	N	1	
-10	,	,	O	1	
-11	la	la	D	1	
-12	comida	comida	N	1	
-13	y	y	A	1	
-14	la	la	D	1	
-15	estancia	estancia	N	1	
-16	fue	fue	N	1	
-17	espectacular	espectacular	G	1	
-18	.	.	O	1	
+1	Este	Este	R	1	O
+2	hotel	hotel	N	1	O
+3	nos	nos	N	1	O
+4	gusto	gusto	V	1	O
+5	mucho	mucho	G	1	O
+6	el	el	N	1	O
+7	servicio	servicio	N	1	O
+8	que	que	N	1	O
+9	daban	daban	N	1	O
+10	,	,	O	1	O
+11	la	la	D	1	O
+12	comida	comida	N	1	O
+13	y	y	A	1	O
+14	la	la	D	1	O
+15	estancia	estancia	N	1	O
+16	fue	fue	N	1	O
+17	espectacular	espectacular	G	1	O
+18	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	afueras	afueras	P	1	
-3	del	del	G	1	
-4	hotel	hotel	N	1	
-5	son	son	N	1	
-6	unas	unas	G	1	
-7	vistas	vista	N	1	
-8	muy	muy	O	1	
-9	buenas	buenas	V	1	
-10	a	a	D	1	
-11	la	la	N	1	
-12	playa	playa	N	1	
-13	.	.	O	1	
+1	Las	Las	R	1	O
+2	afueras	afueras	P	1	O
+3	del	del	G	1	O
+4	hotel	hotel	N	1	O
+5	son	son	N	1	O
+6	unas	unas	G	1	O
+7	vistas	vista	N	1	O
+8	muy	muy	O	1	O
+9	buenas	buenas	V	1	O
+10	a	a	D	1	O
+11	la	la	N	1	O
+12	playa	playa	N	1	O
+13	.	.	O	1	O
 
-1	Combinabamos	Combinabamos	R	1	
-2	mucho	mucho	G	1	
-3	yendo	yendo	N	1	
-4	a	a	O	1	
-5	la	la	O	1	
-6	playa	playa	O	1	
-7	y	y	G	1	
-8	volviendo	volviendo	N	1	
-9	al	al	G	1	
-10	hotel	hotel	N	1	
-11	,	,	O	1	
-12	nos	nos	N	1	
-13	gustaron	gustaron	V	1	
-14	mucho	mucho	G	1	
-15	estas	estas	N	1	
-16	vacaciones	vacaciones	N	1	
-17	.	.	O	1	
+1	Combinabamos	Combinabamos	R	1	O
+2	mucho	mucho	G	1	O
+3	yendo	yendo	N	1	O
+4	a	a	O	1	O
+5	la	la	O	1	O
+6	playa	playa	O	1	O
+7	y	y	G	1	O
+8	volviendo	volviendo	N	1	O
+9	al	al	G	1	O
+10	hotel	hotel	N	1	O
+11	,	,	O	1	O
+12	nos	nos	N	1	O
+13	gustaron	gustaron	V	1	O
+14	mucho	mucho	G	1	O
+15	estas	estas	N	1	O
+16	vacaciones	vacaciones	N	1	O
+17	.	.	O	1	O
 

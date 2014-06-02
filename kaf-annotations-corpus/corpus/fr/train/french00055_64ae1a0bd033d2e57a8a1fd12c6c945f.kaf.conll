@@ -1,107 +1,114 @@
-1	Superbes	Superbes	P	1	
-2	vacances	vacance	N	1	
-3	à	à	P	1	
-4	l'_Estanquet	le_Estanquet	R	1	ne=Hotel
+1	Superbes	Superbes	P	1	O
+2	vacances	vacance	N	1	O
+3	à	à	P	1	O
+4	l'	le	D	1	I-Hotel
+5	Estanquet	Estanquet	N	1	I-Hotel
 
-1	Hello	Hello	N	1	
-2	à	à	P	1	
-3	tous	tout	G	1	
-4	;	;	O	1	
-5	)	)	O	1	
+1	Hello	Hello	N	1	O
+2	à	à	P	1	O
+3	tous	tout	G	1	O
+4	;	;	O	1	O
+5	)	)	O	1	O
 
-1	Après	Après	P	1	
-2	avoir	avoir	V	1	
-3	fait	faire	V	1	
-4	le	le	D	1	
-5	camping	camping	N	1	
-6	La_pinède	le_pinède	R	1	ne=Hotel
-7	en	en	P	1	
-8	2009	2009	R	1	ne=Date
-9	j'	j'	Q	1	
-10	ai	avoir	V	1	
-11	tenté	tenter	V	1	
-12	L'_estanquet	le_estanquet	R	1	ne=Hotel
-13	en	en	P	1	
-14	2010	2010	R	1	ne=Date
-15	faute	faute	N	1	
-16	de	de	P	1	
-17	place	place	N	1	
-18	(	(	O	1	
-19	à	à	P	1	
-20	la_pinède	le_pinède	R	1	ne=Hotel
-21	)	)	O	1	
-22	et	et	C	1	
-23	bien	bien	G	1	
-24	je	je	Q	1	
-25	n'	n'	G	1	
-26	ai	avoir	V	1	
-27	pas	pas	G	1	
-28	été	être	V	1	
-29	du	du	D	1	
-30	tout	tout	P	1	
-31	dessus	dessus	P	1	
-32	...	...	O	1	
-33	super	super	N	1	
-34	mobile	mobile	G	1	
-35	home	home	N	1	
-36	équipé	équiper	V	1	
-37	propre	propre	G	1	
-38	...	...	O	1	
-39	reposant	reposer	V	1	
-40	...	...	O	1	
-41	la	le	D	1	
-42	dolce	dolce	N	1	
-43	vita	vita	V	1	
-44	:	:	O	1	
-45	)	)	O	1	
-46	piscine	piscine	V	1	
-47	,	,	O	1	
-48	un	un	D	1	
-49	petit	petit	G	1	
-50	commerçant	commercer	V	1	
-51	pas	pas	G	1	
-52	loin	loin	G	1	
-53	au	au	P	1	
-54	cas	cas	N	1	
-55	où	où	G	1	
-56	plus	plus	G	1	
-57	de	de	P	1	
-58	lait	lait	N	1	
-59	:	:	O	1	
-60	)	)	Q	1	
-61	franchement	franchement	V	1	
-62	rien	rien	P	1	
-63	à	à	P	1	
-64	dire	dire	V	1	
-65	...	...	O	1	
-66	L'	le	D	1	
-67	accueil	accueil	N	1	
-68	était	être	V	1	
-69	très	très	G	1	
-70	sympa	sympa	G	1	
-71	...	...	O	1	
-72	A	A	P	1	
-73	recommander	recommander	V	1	
-74	de	de	P	1	
-75	toute	tout	D	1	
-76	urgence	urgence	N	1	
-77	;	;	O	1	
-78	)	)	O	1	
+1	Après	Après	P	1	O
+2	avoir	avoir	V	1	O
+3	fait	faire	V	1	O
+4	le	le	D	1	O
+5	camping	camping	N	1	O
+6	La	le	D	1	I-Hotel
+7	pinède	pinède	N	1	I-Hotel
+8	en	en	P	1	O
+9	2009	2009	R	1	I-Date
+10	j'	j'	Q	1	O
+11	ai	avoir	V	1	O
+12	tenté	tenter	V	1	O
+13	L'	le	D	1	I-Hotel
+14	estanquet	estanquet	Q	1	I-Hotel
+15	en	en	P	1	O
+16	2010	2010	R	1	I-Date
+17	faute	faute	N	1	O
+18	de	de	P	1	O
+19	place	place	N	1	O
+20	(	(	O	1	O
+21	à	à	P	1	O
+22	la	le	D	1	I-Hotel
+23	pinède	pinède	N	1	I-Hotel
+24	)	)	O	1	O
+25	et	et	C	1	O
+26	bien	bien	G	1	O
+27	je	je	Q	1	O
+28	n'	n'	G	1	O
+29	ai	avoir	V	1	O
+30	pas	pas	G	1	O
+31	été	être	V	1	O
+32	du	du	D	1	O
+33	tout	tout	P	1	O
+34	dessus	dessus	P	1	O
+35	...	...	O	1	O
+36	super	super	N	1	O
+37	mobile	mobile	G	1	O
+38	home	home	N	1	O
+39	équipé	équiper	V	1	O
+40	propre	propre	G	1	O
+41	...	...	O	1	O
+42	reposant	reposer	V	1	O
+43	...	...	O	1	O
+44	la	le	D	1	O
+45	dolce	dolce	N	1	O
+46	vita	vita	V	1	O
+47	:	:	O	1	O
+48	)	)	O	1	O
+49	piscine	piscine	V	1	O
+50	,	,	O	1	O
+51	un	un	D	1	O
+52	petit	petit	G	1	O
+53	commerçant	commercer	V	1	O
+54	pas	pas	G	1	O
+55	loin	loin	G	1	O
+56	au	au	P	1	O
+57	cas	cas	N	1	O
+58	où	où	G	1	O
+59	plus	plus	G	1	O
+60	de	de	P	1	O
+61	lait	lait	N	1	O
+62	:	:	O	1	O
+63	)	)	Q	1	O
+64	franchement	franchement	V	1	O
+65	rien	rien	P	1	O
+66	à	à	P	1	O
+67	dire	dire	V	1	O
+68	...	...	O	1	O
+69	L'	le	D	1	O
+70	accueil	accueil	N	1	O
+71	était	être	V	1	O
+72	très	très	G	1	O
+73	sympa	sympa	G	1	O
+74	...	...	O	1	O
+75	A	A	P	1	O
+76	recommander	recommander	V	1	O
+77	de	de	P	1	O
+78	toute	tout	D	1	O
+79	urgence	urgence	N	1	O
+80	;	;	O	1	O
+81	)	)	O	1	O
 
-1	J'	J'	Q	1	
-2	y	y	Q	1	
-3	retournerai	retourner	V	1	
-4	cette	ce	D	1	
-5	année	année	N	1	
-6	encore	encore	G	1	
-7	à	à	P	1	
-8	partir	partir	V	1	
-9	du_13_août_2011	du_13_août_2011	R	1	ne=Date
-10	...	...	O	1	
-11	j'	j'	Q	1	
-12	ai	avoir	V	1	
-13	hâte	hâte	N	1	
-14	...	...	O	1	
-15	;	;	O	1	
-16	)	)	O	1	
+1	J'	J'	Q	1	O
+2	y	y	Q	1	O
+3	retournerai	retourner	V	1	O
+4	cette	ce	D	1	O
+5	année	année	N	1	O
+6	encore	encore	G	1	O
+7	à	à	P	1	O
+8	partir	partir	V	1	O
+9	du	du	P	1	I-Date
+10	13	13	D	1	I-Date
+11	août	août	N	1	I-Date
+12	2011	2011	G	1	I-Date
+13	...	...	O	1	O
+14	j'	j'	Q	1	O
+15	ai	avoir	V	1	O
+16	hâte	hâte	N	1	O
+17	...	...	O	1	O
+18	;	;	O	1	O
+19	)	)	O	1	O
 

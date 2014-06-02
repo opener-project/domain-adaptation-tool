@@ -1,59 +1,59 @@
-1	Un	un	G	1	
-2	gran	gran	G	1	
-3	hotel	hotel	N	1	
-4	con	con	N	1	
-5	todas	todas	N	1	
-6	las	las	V	1	
-7	comodidades	comodidades	N	1	
+1	Un	un	G	1	O
+2	gran	gran	G	1	O
+3	hotel	hotel	N	1	O
+4	con	con	N	1	O
+5	todas	todas	N	1	O
+6	las	las	V	1	O
+7	comodidades	comodidades	N	1	O
 
-1	Un	un	G	1	
-2	hotel	hotel	N	1	
-3	con	con	N	1	
-4	todas	todas	N	1	
-5	las	las	V	1	
-6	comodidades	comodidades	N	1	
-7	,	,	O	1	
-8	con	con	A	1	
-9	un	un	G	1	
-10	complejo	complejo	N	1	
-11	muy	muy	O	1	
-12	cuidado	cuidado	V	1	
-13	y	y	G	1	
-14	variado	variado	N	1	
-15	en	en	P	1	
-16	actividades	actividades	N	1	
-17	.	.	O	1	
+1	Un	un	G	1	O
+2	hotel	hotel	N	1	O
+3	con	con	N	1	O
+4	todas	todas	N	1	O
+5	las	las	V	1	O
+6	comodidades	comodidades	N	1	O
+7	,	,	O	1	O
+8	con	con	A	1	O
+9	un	un	G	1	O
+10	complejo	complejo	N	1	O
+11	muy	muy	O	1	O
+12	cuidado	cuidado	V	1	O
+13	y	y	G	1	O
+14	variado	variado	N	1	O
+15	en	en	P	1	O
+16	actividades	actividades	N	1	O
+17	.	.	O	1	O
 
-1	El	El	R	1	
-2	servicio	servicio	N	1	
-3	es	es	V	1	
-4	bastante	bastante	G	1	
-5	bueno	bueno	N	1	
-6	ya	ya	N	1	
-7	que	que	V	1	
-8	se	se	A	1	
-9	preocupan	preocupan	G	1	
-10	de	de	P	1	
-11	que	que	G	1	
-12	tu	tu	N	1	
-13	estancia	estancia	N	1	
-14	sea	sea	N	1	
-15	agradable	agradable	G	1	
-16	.	.	O	1	
+1	El	El	R	1	O
+2	servicio	servicio	N	1	O
+3	es	es	V	1	O
+4	bastante	bastante	G	1	O
+5	bueno	bueno	N	1	O
+6	ya	ya	N	1	O
+7	que	que	V	1	O
+8	se	se	A	1	O
+9	preocupan	preocupan	G	1	O
+10	de	de	P	1	O
+11	que	que	G	1	O
+12	tu	tu	N	1	O
+13	estancia	estancia	N	1	O
+14	sea	sea	N	1	O
+15	agradable	agradable	G	1	O
+16	.	.	O	1	O
 
-1	A	a	D	1	
-2	pesar	pesar	G	1	
-3	de	de	O	1	
-4	disponer	disponer	O	1	
-5	de	de	O	1	
-6	varias	varias	O	1	
-7	piscinas	piscinas	O	1	
-8	,	,	O	1	
-9	hay	hay	G	1	
-10	que	que	N	1	
-11	madrugar	madrugar	N	1	
-12	para	para	N	1	
-13	coger	coger	N	1	
-14	amacas	amacas	N	1	
-15	.	.	O	1	
+1	A	a	D	1	O
+2	pesar	pesar	G	1	O
+3	de	de	O	1	O
+4	disponer	disponer	O	1	O
+5	de	de	O	1	O
+6	varias	varias	O	1	O
+7	piscinas	piscinas	O	1	O
+8	,	,	O	1	O
+9	hay	hay	G	1	O
+10	que	que	N	1	O
+11	madrugar	madrugar	N	1	O
+12	para	para	N	1	O
+13	coger	coger	N	1	O
+14	amacas	amacas	N	1	O
+15	.	.	O	1	O
 

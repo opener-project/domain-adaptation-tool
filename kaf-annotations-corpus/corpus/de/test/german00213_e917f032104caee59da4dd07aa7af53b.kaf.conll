@@ -1,125 +1,126 @@
-1	Schöner	schön	G	1	
-2	erholsamer	erholsam	G	1	
-3	Urlab	Urlab	O	1	
+1	Schöner	schön	G	1	O
+2	erholsamer	erholsam	G	1	O
+3	Urlab	Urlab	O	1	O
 
-1	Wir	wir	Q	1	
-2	waren	sein	V	1	
-3	zum	zu	P	1	
-4	zweiten	zweit	G	1	
-5	Mal	Mal	N	1	
-6	bereits	bereits	A	1	
-7	im	in	P	1	
-8	Hotel_Titanic	Hotel_Titanic	R	1	ne=Hotel
-9	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	waren	sein	V	1	O
+3	zum	zu	P	1	O
+4	zweiten	zweit	G	1	O
+5	Mal	Mal	N	1	O
+6	bereits	bereits	A	1	O
+7	im	in	P	1	O
+8	Hotel	Hotel	N	1	I-Hotel
+9	Titanic	Titanic	O	1	I-Hotel
+10	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	hatte	haben	V	1	
-3	sich	sich	Q	1	
-4	einiges	einige	Q	1	
-5	getan	tun	V	1	
-6	.	.	O	1	
+1	Es	es	Q	1	O
+2	hatte	haben	V	1	O
+3	sich	sich	Q	1	O
+4	einiges	einige	Q	1	O
+5	getan	tun	V	1	O
+6	.	.	O	1	O
 
-1	Nebenan	nebenan	A	1	
-2	das	die	D	1	
-3	Hotel	Hotel	N	1	
-4	Palace	Palace	O	1	
-5	und	und	C	1	
-6	Amphittheater	Amphittheater	O	1	
-7	fertig	fertig	V	1	
-8	.	.	O	1	
+1	Nebenan	nebenan	A	1	O
+2	das	die	D	1	O
+3	Hotel	Hotel	N	1	O
+4	Palace	Palace	O	1	O
+5	und	und	C	1	O
+6	Amphittheater	Amphittheater	O	1	O
+7	fertig	fertig	V	1	O
+8	.	.	O	1	O
 
-1	Als	als	C	1	
-2	VIP	VIP	R	1	
-3	konnten	können	V	1	
-4	wir	wir	Q	1	
-5	uns	wir	Q	1	
-6	das	die	D	1	
-7	Zimmer	Zimmer	N	1	
-8	aussuchen	aussuchen	V	1	
-9	(	(	O	1	
-10	wir	wir	Q	1	
-11	suchten	suchen	V	1	
-12	nachts	nachts	A	1	
-13	etwas	etwas	Q	1	
-14	Ruhe	Ruhe	N	1	
-15	)	)	O	1	
-16	,	,	O	1	
-17	was	was	Q	1	
-18	auch	auch	A	1	
-19	sofort	sofort	A	1	
-20	funktionierte	funktionieren	V	1	
-21	.	.	O	1	
+1	Als	als	C	1	O
+2	VIP	VIP	R	1	O
+3	konnten	können	V	1	O
+4	wir	wir	Q	1	O
+5	uns	wir	Q	1	O
+6	das	die	D	1	O
+7	Zimmer	Zimmer	N	1	O
+8	aussuchen	aussuchen	V	1	O
+9	(	(	O	1	O
+10	wir	wir	Q	1	O
+11	suchten	suchen	V	1	O
+12	nachts	nachts	A	1	O
+13	etwas	etwas	Q	1	O
+14	Ruhe	Ruhe	N	1	O
+15	)	)	O	1	O
+16	,	,	O	1	O
+17	was	was	Q	1	O
+18	auch	auch	A	1	O
+19	sofort	sofort	A	1	O
+20	funktionierte	funktionieren	V	1	O
+21	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Anlage	Anlage	N	1	
-3	ist	sein	V	1	
-4	super	super	G	1	
-5	sauber	sauber	G	1	
-6	,	,	O	1	
-7	alle	alle	Q	1	
-8	·	·	O	1	
-9	vom	von	P	1	
-10	Gärtner	Gärtner	N	1	
-11	bis	bis	C	1	
-12	zum	zu	P	1	
-13	Hotelmanagement	Hotelmanagement	N	1	
-14	total	total	G	1	
-15	freundlich	freundlich	G	1	
-16	(	(	O	1	
-17	was	was	Q	1	
-18	sicherlich	sicherlich	A	1	
-19	nicht	nicht	O	1	
-20	unbedingt	unbedingt	G	1	
-21	jeden	jede	Q	1	
-22	Tag	Tag	N	1	
-23	selbstverständlich	selbstverständlich	G	1	
-24	ist	sein	V	1	
-25	)	)	O	1	
-26	.	.	O	1	
+1	Die	die	D	1	O
+2	Anlage	Anlage	N	1	O
+3	ist	sein	V	1	O
+4	super	super	G	1	O
+5	sauber	sauber	G	1	O
+6	,	,	O	1	O
+7	alle	alle	Q	1	O
+8	·	·	O	1	O
+9	vom	von	P	1	O
+10	Gärtner	Gärtner	N	1	O
+11	bis	bis	C	1	O
+12	zum	zu	P	1	O
+13	Hotelmanagement	Hotelmanagement	N	1	O
+14	total	total	G	1	O
+15	freundlich	freundlich	G	1	O
+16	(	(	O	1	O
+17	was	was	Q	1	O
+18	sicherlich	sicherlich	A	1	O
+19	nicht	nicht	O	1	O
+20	unbedingt	unbedingt	G	1	O
+21	jeden	jede	Q	1	O
+22	Tag	Tag	N	1	O
+23	selbstverständlich	selbstverständlich	G	1	O
+24	ist	sein	V	1	O
+25	)	)	O	1	O
+26	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	hilfsbereit	hilfsbereit	G	1	
-3	und	und	C	1	
-4	aufmerksam	aufmerksam	G	1	
-5	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	hilfsbereit	hilfsbereit	G	1	O
+3	und	und	C	1	O
+4	aufmerksam	aufmerksam	G	1	O
+5	.	.	O	1	O
 
-1	Das	die	D	1	
-2	gesamte	gesamt	G	1	
-3	Hotelmanagement	Hotelmanagement	N	1	
-4	stellte	stellen	V	1	
-5	sich	sich	Q	1	
-6	vor	vor	V	1	
-7	·	·	O	1	
-8	deutscher	deutsch	G	1	
-9	Koch	Koch	R	1	
-10	Martin	Martin	R	1	
-11	und	und	C	1	
-12	unsere	unser	Q	1	
-13	"	"	O	1	
-14	Stressmen	Stressmen	O	1	
-15	"	"	O	1	
-16	.	.	O	1	
+1	Das	die	D	1	O
+2	gesamte	gesamt	G	1	O
+3	Hotelmanagement	Hotelmanagement	N	1	O
+4	stellte	stellen	V	1	O
+5	sich	sich	Q	1	O
+6	vor	vor	V	1	O
+7	·	·	O	1	O
+8	deutscher	deutsch	G	1	O
+9	Koch	Koch	R	1	O
+10	Martin	Martin	R	1	O
+11	und	und	C	1	O
+12	unsere	unser	Q	1	O
+13	"	"	O	1	O
+14	Stressmen	Stressmen	O	1	O
+15	"	"	O	1	O
+16	.	.	O	1	O
 
-1	Ganz	ganz	A	1	
-2	liebe	lieb	G	1	
-3	Grüsse	Gruß	N	1	
-4	nochmals	nochmals	A	1	
-5	.	.	O	1	
+1	Ganz	ganz	A	1	O
+2	liebe	lieb	G	1	O
+3	Grüsse	Gruß	N	1	O
+4	nochmals	nochmals	A	1	O
+5	.	.	O	1	O
 
-1	War	sein	V	1	
-2	sehr	sehr	A	1	
-3	nette	nett	G	1	
-4	Unterhaltung	Unterhaltung	N	1	
-5	.	.	O	1	
+1	War	sein	V	1	O
+2	sehr	sehr	A	1	O
+3	nette	nett	G	1	O
+4	Unterhaltung	Unterhaltung	N	1	O
+5	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	wird	werden	V	1	
-3	bestimt	bestimt	O	1	
-4	nicht	nicht	O	1	
-5	das	die	D	1	
-6	letzte	letzt	G	1	
-7	Mal	Mal	N	1	
-8	gewesen	sein	V	1	
-9	sein	sein	V	1	
-10	.	.	O	1	
+1	Es	es	Q	1	O
+2	wird	werden	V	1	O
+3	bestimt	bestimt	O	1	O
+4	nicht	nicht	O	1	O
+5	das	die	D	1	O
+6	letzte	letzt	G	1	O
+7	Mal	Mal	N	1	O
+8	gewesen	sein	V	1	O
+9	sein	sein	V	1	O
+10	.	.	O	1	O
 

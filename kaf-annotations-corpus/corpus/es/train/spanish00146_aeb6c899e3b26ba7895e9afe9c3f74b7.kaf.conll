@@ -1,166 +1,166 @@
-1	Un	Un	R	1	
-2	lugar	lugar	N	1	
-3	de	de	O	1	
-4	excelencia	excelencia	O	1	
-5	para	para	O	1	
-6	nuestras	nuestras	O	1	
-7	vacaciones	vacaciones	O	1	
-8	!	!	O	1	
+1	Un	Un	R	1	O
+2	lugar	lugar	N	1	O
+3	de	de	O	1	O
+4	excelencia	excelencia	O	1	O
+5	para	para	O	1	O
+6	nuestras	nuestras	O	1	O
+7	vacaciones	vacaciones	O	1	O
+8	!	!	O	1	O
 
-1	El	El	R	1	
-2	Hotel	Hotel	R	1	
-3	es	es	V	1	
-4	increible	increible	G	1	
-5	,	,	O	1	
-6	bellisimo	bellisimo	G	1	
-7	con	con	N	1	
-8	unas	unas	N	1	
-9	instalaciones	instalaciones	N	1	
-10	muy	muy	G	1	
-11	confortables	confortables	N	1	
-12	y	y	G	1	
-13	con	con	A	1	
-14	un	un	G	1	
-15	parque	parque	N	1	
-16	excepcional	excepcional	G	1	
-17	,	,	O	1	
-18	super	super	G	1	
-19	cuidado	cuidado	N	1	
-20	!	!	O	1	
+1	El	El	R	1	O
+2	Hotel	Hotel	R	1	O
+3	es	es	V	1	O
+4	increible	increible	G	1	O
+5	,	,	O	1	O
+6	bellisimo	bellisimo	G	1	O
+7	con	con	N	1	O
+8	unas	unas	N	1	O
+9	instalaciones	instalaciones	N	1	O
+10	muy	muy	G	1	O
+11	confortables	confortables	N	1	O
+12	y	y	G	1	O
+13	con	con	A	1	O
+14	un	un	G	1	O
+15	parque	parque	N	1	O
+16	excepcional	excepcional	G	1	O
+17	,	,	O	1	O
+18	super	super	G	1	O
+19	cuidado	cuidado	N	1	O
+20	!	!	O	1	O
 
-1	nos	nos	N	1	
-2	quedamos	quedamos	N	1	
-3	en	en	P	1	
-4	un	un	G	1	
-5	departamento	departamento	P	1	
-6	con	con	G	1	
-7	vista	vista	N	1	
-8	al	al	G	1	
-9	Lago	Lago	R	1	
-10	,	,	O	1	
-11	lo	lo	G	1	
-12	cual	cual	G	1	
-13	nos	nos	N	1	
-14	proporcionó	proporcionó	V	1	
-15	unos	unos	N	1	
-16	bellisimos	bellisimos	N	1	
-17	atardeceres	atardeceres	N	1	
-18	!	!	O	1	
+1	nos	nos	N	1	O
+2	quedamos	quedamos	N	1	O
+3	en	en	P	1	O
+4	un	un	G	1	O
+5	departamento	departamento	P	1	O
+6	con	con	G	1	O
+7	vista	vista	N	1	O
+8	al	al	G	1	O
+9	Lago	Lago	R	1	O
+10	,	,	O	1	O
+11	lo	lo	G	1	O
+12	cual	cual	G	1	O
+13	nos	nos	N	1	O
+14	proporcionó	proporcionó	V	1	O
+15	unos	unos	N	1	O
+16	bellisimos	bellisimos	N	1	O
+17	atardeceres	atardeceres	N	1	O
+18	!	!	O	1	O
 
-1	Los	Los	R	1	
-2	servicios	servicios	V	1	
-3	muy	muy	G	1	
-4	buenos	buenos	N	1	
-5	,	,	O	1	
-6	así	así	A	1	
-7	como	como	N	1	
-8	todo	todo	N	1	
-9	el	el	N	1	
-10	personal	personal	G	1	
-11	,	,	O	1	
-12	siempre	siempre	G	1	
-13	dispuesto	dispuesto	N	1	
-14	y	y	G	1	
-15	alegre	alegre	N	1	
-16	,	,	O	1	
-17	mas	mas	O	1	
-18	que	que	G	1	
-19	nada	nada	N	1	
-20	que	que	V	1	
-21	no	no	D	1	
-22	hablabamos	hablabamos	N	1	
-23	italiano	italiano	A	1	
-24	!	!	O	1	
+1	Los	Los	R	1	O
+2	servicios	servicios	V	1	O
+3	muy	muy	G	1	O
+4	buenos	buenos	N	1	O
+5	,	,	O	1	O
+6	así	así	A	1	O
+7	como	como	N	1	O
+8	todo	todo	N	1	O
+9	el	el	N	1	O
+10	personal	personal	G	1	O
+11	,	,	O	1	O
+12	siempre	siempre	G	1	O
+13	dispuesto	dispuesto	N	1	O
+14	y	y	G	1	O
+15	alegre	alegre	N	1	O
+16	,	,	O	1	O
+17	mas	mas	O	1	O
+18	que	que	G	1	O
+19	nada	nada	N	1	O
+20	que	que	V	1	O
+21	no	no	D	1	O
+22	hablabamos	hablabamos	N	1	O
+23	italiano	italiano	A	1	O
+24	!	!	O	1	O
 
-1	El	El	R	1	
-2	Pueblo	Pueblo	R	1	
-3	se	se	N	1	
-4	encuentra	encuentra	V	1	
-5	a	a	D	1	
-6	unos	unos	G	1	
-7	pocos	pocos	N	1	
-8	km	km	V	1	
-9	y	y	G	1	
-10	el	el	N	1	
-11	hotel	hotel	N	1	
-12	proporciona	proporciona	N	1	
-13	una	una	G	1	
-14	"	"	N	1	
-15	navetta	navetta	N	1	
-16	"	"	V	1	
-17	que	que	G	1	
-18	lleva	lleva	N	1	
-19	y	y	A	1	
-20	trae	trae	V	1	
-21	a	a	D	1	
-22	los	los	N	1	
-23	clientes	clientes	V	1	
-24	,	,	O	1	
-25	lo	lo	G	1	
-26	cual	cual	G	1	
-27	es	es	N	1	
-28	buenisimo	buenisimo	V	1	
-29	ya	you	Q	1	
-30	que	que	V	1	
-31	es	es	N	1	
-32	muy	muy	G	1	
-33	facial	facial	G	1	
-34	acceder	acceder	N	1	
-35	al	al	G	1	
-36	centro	centro	N	1	
-37	.	.	O	1	
+1	El	El	R	1	O
+2	Pueblo	Pueblo	R	1	O
+3	se	se	N	1	O
+4	encuentra	encuentra	V	1	O
+5	a	a	D	1	O
+6	unos	unos	G	1	O
+7	pocos	pocos	N	1	O
+8	km	km	V	1	O
+9	y	y	G	1	O
+10	el	el	N	1	O
+11	hotel	hotel	N	1	O
+12	proporciona	proporciona	N	1	O
+13	una	una	G	1	O
+14	"	"	N	1	O
+15	navetta	navetta	N	1	O
+16	"	"	V	1	O
+17	que	que	G	1	O
+18	lleva	lleva	N	1	O
+19	y	y	A	1	O
+20	trae	trae	V	1	O
+21	a	a	D	1	O
+22	los	los	N	1	O
+23	clientes	clientes	V	1	O
+24	,	,	O	1	O
+25	lo	lo	G	1	O
+26	cual	cual	G	1	O
+27	es	es	N	1	O
+28	buenisimo	buenisimo	V	1	O
+29	ya	you	Q	1	O
+30	que	que	V	1	O
+31	es	es	N	1	O
+32	muy	muy	G	1	O
+33	facial	facial	G	1	O
+34	acceder	acceder	N	1	O
+35	al	al	G	1	O
+36	centro	centro	N	1	O
+37	.	.	O	1	O
 
-1	La	La	R	1	
-2	piscina	piscina	N	1	
-3	merece	merece	N	1	
-4	un	un	G	1	
-5	párrafo	párrafo	N	1	
-6	aparte	aparte	N	1	
-7	,	,	O	1	
-8	con	con	O	1	
-9	muchisimas	muchisimas	O	1	
-10	reposeras	reposeras	O	1	
-11	para	para	O	1	
-12	la	la	O	1	
-13	comodidad	comodidad	O	1	
-14	de	de	O	1	
-15	todos	todos	O	1	
-16	,	,	O	1	
-17	y	y	G	1	
-18	un	un	G	1	
-19	Gazebo	Gazebo	R	1	
-20	en	en	P	1	
-21	el	el	N	1	
-22	que	que	N	1	
-23	podes	podes	N	1	
-24	adquirir	adquirir	V	1	
-25	desde	desde	N	1	
-26	tragos	tragos	N	1	
-27	hasta	hasta	V	1	
-28	el	el	N	1	
-29	almuerzo	almuerzo	A	1	
-30	o	o	A	1	
-31	bien	bien	G	1	
-32	ir	ir	Q	1	
-33	por	por	G	1	
-34	snaks	snaks	N	1	
-35	!	!	O	1	
+1	La	La	R	1	O
+2	piscina	piscina	N	1	O
+3	merece	merece	N	1	O
+4	un	un	G	1	O
+5	párrafo	párrafo	N	1	O
+6	aparte	aparte	N	1	O
+7	,	,	O	1	O
+8	con	con	O	1	O
+9	muchisimas	muchisimas	O	1	O
+10	reposeras	reposeras	O	1	O
+11	para	para	O	1	O
+12	la	la	O	1	O
+13	comodidad	comodidad	O	1	O
+14	de	de	O	1	O
+15	todos	todos	O	1	O
+16	,	,	O	1	O
+17	y	y	G	1	O
+18	un	un	G	1	O
+19	Gazebo	Gazebo	R	1	O
+20	en	en	P	1	O
+21	el	el	N	1	O
+22	que	que	N	1	O
+23	podes	podes	N	1	O
+24	adquirir	adquirir	V	1	O
+25	desde	desde	N	1	O
+26	tragos	tragos	N	1	O
+27	hasta	hasta	V	1	O
+28	el	el	N	1	O
+29	almuerzo	almuerzo	A	1	O
+30	o	o	A	1	O
+31	bien	bien	G	1	O
+32	ir	ir	Q	1	O
+33	por	por	G	1	O
+34	snaks	snaks	N	1	O
+35	!	!	O	1	O
 
-1	Asi	Asi	R	1	
-2	que	que	N	1	
-3	es	es	V	1	
-4	un	un	G	1	
-5	lugar	lugar	N	1	
-6	en	en	P	1	
-7	el	el	N	1	
-8	pienso	pienso	N	1	
-9	en	en	P	1	
-10	volver	volver	N	1	
-11	!	!	O	1	
+1	Asi	Asi	R	1	O
+2	que	que	N	1	O
+3	es	es	V	1	O
+4	un	un	G	1	O
+5	lugar	lugar	N	1	O
+6	en	en	P	1	O
+7	el	el	N	1	O
+8	pienso	pienso	N	1	O
+9	en	en	P	1	O
+10	volver	volver	N	1	O
+11	!	!	O	1	O
 
-1	Super	Super	R	1	
-2	recomendable	recomendable	N	1	
-3	,	,	O	1	
-4	excelente	excelente	V	1	
-5	!	!	O	1	
+1	Super	Super	R	1	O
+2	recomendable	recomendable	N	1	O
+3	,	,	O	1	O
+4	excelente	excelente	V	1	O
+5	!	!	O	1	O
 

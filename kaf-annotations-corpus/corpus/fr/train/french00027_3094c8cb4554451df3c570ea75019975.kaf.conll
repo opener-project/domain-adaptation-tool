@@ -1,98 +1,98 @@
-1	Camping	camping	N	1	
-2	sympa	sympa	G	1	
+1	Camping	camping	N	1	O
+2	sympa	sympa	G	1	O
 
-1	J'	J'	Q	1	
-2	avais	avoir	V	1	
-3	peur	peur	N	1	
-4	de	de	P	1	
-5	partir	partir	V	1	
-6	car	car	P	1	
-7	vue	vue	N	1	
-8	les	le	D	1	
-9	commentaires	commentaire	N	1	
-10	négatifs	négatif	G	1	
-11	mais	mais	C	1	
-12	bon	bon	G	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
-16	!	!	O	1	
-17	Avons	Avons	G	1	
-18	passé	passer	V	1	
-19	un	un	D	1	
-20	très	très	G	1	
-21	bon	bon	G	1	
-22	séjour	séjour	N	1	
-23	dans	dans	P	1	
-24	ce	ce	D	1	
-25	camping	camping	N	1	
-26	avec	avec	P	1	
-27	une	un	D	1	
-28	vue	vue	N	1	
-29	magnifique	magnifique	G	1	
-30	sur	sur	P	1	
-31	la	le	D	1	
-32	mer.La	mer.La	N	1	
-33	dame	dame	N	1	
-34	de	de	P	1	
-35	vacansoleil	vacansoleil	N	1	
-36	était	être	V	1	
-37	très	très	G	1	
-38	serviable	serviable	G	1	
-39	et	et	C	1	
-40	arrangeante.La	arrangeante.La	D	1	
-41	piscine	piscine	N	1	
-42	est	être	V	1	
-43	un	un	D	1	
-44	peu	peu	G	1	
-45	petite	petit	G	1	
-46	par	par	P	1	
-47	rapport	rapport	N	1	
-48	à	à	P	1	
-49	la	le	D	1	
-50	dimension	dimension	N	1	
-51	du	du	P	1	
-52	camping.Les	camping.Les	N	1	
-53	sanitaires	sanitaires	P	1	
-54	était	être	V	1	
-55	souvent	souvent	G	1	
-56	sale	sale	G	1	
-57	mais	mais	C	1	
-58	les	le	D	1	
-59	vacanciers	vacancier	N	1	
-60	ne	ne	G	1	
-61	respecte	respecter	V	1	
-62	rien	rien	P	1	
-63	(	(	O	1	
-64	excrément	excrément	N	1	
-65	sur	sur	P	1	
-66	les	le	D	1	
-67	murs	mur	N	1	
-68	!	!	O	1	
-69	!	!	O	1	
-70	!	!	O	1	
-71	)	)	O	1	
-72	Mais	Mais	C	1	
-73	tout	tout	P	1	
-74	ça	ça	P	1	
-75	ce	ce	Q	1	
-76	sont	être	V	1	
-77	les	le	D	1	
-78	joies	joie	N	1	
-79	du	du	P	1	
-80	camping	camping	N	1	
-81	.....	.....	O	1	
-82	Par	Par	P	1	
-83	contre	contre	P	1	
-84	la	le	D	1	
-85	nuit	nuit	N	1	
-86	un	un	D	1	
-87	chien	chien	N	1	
-88	d'	d'	P	1	
-89	une	un	D	1	
-90	villa	villa	N	1	
-91	aboyait	aboyer	V	1	
-92	pas	pas	G	1	
-93	cool	cool	G	1	
-94	.	.	O	1	
+1	J'	J'	Q	1	O
+2	avais	avoir	V	1	O
+3	peur	peur	N	1	O
+4	de	de	P	1	O
+5	partir	partir	V	1	O
+6	car	car	P	1	O
+7	vue	vue	N	1	O
+8	les	le	D	1	O
+9	commentaires	commentaire	N	1	O
+10	négatifs	négatif	G	1	O
+11	mais	mais	C	1	O
+12	bon	bon	G	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
+16	!	!	O	1	O
+17	Avons	Avons	G	1	O
+18	passé	passer	V	1	O
+19	un	un	D	1	O
+20	très	très	G	1	O
+21	bon	bon	G	1	O
+22	séjour	séjour	N	1	O
+23	dans	dans	P	1	O
+24	ce	ce	D	1	O
+25	camping	camping	N	1	O
+26	avec	avec	P	1	O
+27	une	un	D	1	O
+28	vue	vue	N	1	O
+29	magnifique	magnifique	G	1	O
+30	sur	sur	P	1	O
+31	la	le	D	1	O
+32	mer.La	mer.La	N	1	O
+33	dame	dame	N	1	O
+34	de	de	P	1	O
+35	vacansoleil	vacansoleil	N	1	O
+36	était	être	V	1	O
+37	très	très	G	1	O
+38	serviable	serviable	G	1	O
+39	et	et	C	1	O
+40	arrangeante.La	arrangeante.La	D	1	O
+41	piscine	piscine	N	1	O
+42	est	être	V	1	O
+43	un	un	D	1	O
+44	peu	peu	G	1	O
+45	petite	petit	G	1	O
+46	par	par	P	1	O
+47	rapport	rapport	N	1	O
+48	à	à	P	1	O
+49	la	le	D	1	O
+50	dimension	dimension	N	1	O
+51	du	du	P	1	O
+52	camping.Les	camping.Les	N	1	O
+53	sanitaires	sanitaires	P	1	O
+54	était	être	V	1	O
+55	souvent	souvent	G	1	O
+56	sale	sale	G	1	O
+57	mais	mais	C	1	O
+58	les	le	D	1	O
+59	vacanciers	vacancier	N	1	O
+60	ne	ne	G	1	O
+61	respecte	respecter	V	1	O
+62	rien	rien	P	1	O
+63	(	(	O	1	O
+64	excrément	excrément	N	1	O
+65	sur	sur	P	1	O
+66	les	le	D	1	O
+67	murs	mur	N	1	O
+68	!	!	O	1	O
+69	!	!	O	1	O
+70	!	!	O	1	O
+71	)	)	O	1	O
+72	Mais	Mais	C	1	O
+73	tout	tout	P	1	O
+74	ça	ça	P	1	O
+75	ce	ce	Q	1	O
+76	sont	être	V	1	O
+77	les	le	D	1	O
+78	joies	joie	N	1	O
+79	du	du	P	1	O
+80	camping	camping	N	1	O
+81	.....	.....	O	1	O
+82	Par	Par	P	1	O
+83	contre	contre	P	1	O
+84	la	le	D	1	O
+85	nuit	nuit	N	1	O
+86	un	un	D	1	O
+87	chien	chien	N	1	O
+88	d'	d'	P	1	O
+89	une	un	D	1	O
+90	villa	villa	N	1	O
+91	aboyait	aboyer	V	1	O
+92	pas	pas	G	1	O
+93	cool	cool	G	1	O
+94	.	.	O	1	O
 

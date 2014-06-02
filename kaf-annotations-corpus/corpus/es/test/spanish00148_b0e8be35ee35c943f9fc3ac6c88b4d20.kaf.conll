@@ -1,108 +1,109 @@
-1	Hotel	Hotel	R	1	
-2	agradable	agradable	G	1	
-3	y	y	G	1	
-4	con	con	G	1	
-5	buenos	buenos	N	1	
-6	servicios	servicios	N	1	
+1	Hotel	Hotel	R	1	O
+2	agradable	agradable	G	1	O
+3	y	y	G	1	O
+4	con	con	G	1	O
+5	buenos	buenos	N	1	O
+6	servicios	servicios	N	1	O
 
-1	Un	un	G	1	
-2	hotel	hotel	N	1	
-3	para	para	N	1	
-4	un	un	G	1	
-5	fin	fin	N	1	
-6	de	de	P	1	
-7	semana	semana	G	1	
-8	con	con	G	1	
-9	agradable	agradable	G	1	
-10	ambiente	ambiente	G	1	
-11	y	y	G	1	
-12	cercano	cercano	N	1	
-13	a	a	D	1	
-14	Madrid	Madrid	R	1	ne=Location
-15	a	a	D	1	
-16	un	un	G	1	
-17	tiro	tiro	N	1	
-18	del	del	O	1	
-19	cercanías	cercanías	R	1	ne=POI
-20	para	para	O	1	
-21	evitar	evitar	O	1	
-22	el	el	O	1	
-23	tráfico	tráfico	O	1	
-24	de	de	O	1	
-25	la	la	O	1	
-26	ciudad	ciudad	N	1	
-27	.	.	O	1	
+1	Un	un	G	1	O
+2	hotel	hotel	N	1	O
+3	para	para	N	1	O
+4	un	un	G	1	O
+5	fin	fin	N	1	O
+6	de	de	P	1	O
+7	semana	semana	G	1	O
+8	con	con	G	1	O
+9	agradable	agradable	G	1	O
+10	ambiente	ambiente	G	1	O
+11	y	y	G	1	O
+12	cercano	cercano	N	1	O
+13	a	a	D	1	O
+14	Madrid	Madrid	R	1	I-Location
+15	a	a	D	1	O
+16	un	un	G	1	O
+17	tiro	tiro	N	1	O
+18	del	del	O	1	O
+19	cercanías	cercanías	R	1	I-POI
+20	para	para	O	1	O
+21	evitar	evitar	O	1	O
+22	el	el	O	1	O
+23	tráfico	tráfico	O	1	O
+24	de	de	O	1	O
+25	la	la	O	1	O
+26	ciudad	ciudad	N	1	O
+27	.	.	O	1	O
 
-1	Está	Está	R	1	
-2	cerca	cerca	O	1	
-3	del	del	V	1	
-4	parque_Warner	parque_Warner	R	1	ne=Attraction
-5	y	y	A	1	
-6	es	es	V	1	
-7	un	un	G	1	
-8	pueblo	pueblo	N	1	
-9	tranquilo	tranquilo	N	1	
-10	y	y	G	1	
-11	no	no	D	1	
-12	hay	hay	N	1	
-13	demasiados	demasiados	N	1	
-14	inmigrantes	inmigrantes	V	1	
-15	peligrosos	peligrosos	N	1	
-16	,	,	O	1	
-17	aunque	aunque	G	1	
-18	en	en	P	1	
-19	Madrid	Madrid	R	1	ne=Location
-20	hay	hay	R	1	
-21	muchos	muchos	N	1	
-22	y	y	G	1	
-23	hay	hay	N	1	
-24	que	que	N	1	
-25	tener	tener	N	1	
-26	cuidado	cuidado	N	1	
-27	en	en	P	1	
-28	el	el	N	1	
-29	metro	metro	N	1	
-30	con	con	A	1	
-31	las	las	V	1	
-32	maletas	maletas	N	1	
-33	porque	porque	V	1	
-34	hay	hay	N	1	
-35	mucho	mucho	G	1	
-36	delincuente	delincuente	N	1	
-37	extranjero	extranjero	N	1	
-38	.	.	O	1	
+1	Está	Está	R	1	O
+2	cerca	cerca	O	1	O
+3	del	del	V	1	O
+4	parque	parque	N	1	I-Attraction
+5	Warner	Warner	R	1	I-Attraction
+6	y	y	A	1	O
+7	es	es	V	1	O
+8	un	un	G	1	O
+9	pueblo	pueblo	N	1	O
+10	tranquilo	tranquilo	N	1	O
+11	y	y	G	1	O
+12	no	no	D	1	O
+13	hay	hay	N	1	O
+14	demasiados	demasiados	N	1	O
+15	inmigrantes	inmigrantes	V	1	O
+16	peligrosos	peligrosos	N	1	O
+17	,	,	O	1	O
+18	aunque	aunque	G	1	O
+19	en	en	P	1	O
+20	Madrid	Madrid	R	1	I-Location
+21	hay	hay	R	1	O
+22	muchos	muchos	N	1	O
+23	y	y	G	1	O
+24	hay	hay	N	1	O
+25	que	que	N	1	O
+26	tener	tener	N	1	O
+27	cuidado	cuidado	N	1	O
+28	en	en	P	1	O
+29	el	el	N	1	O
+30	metro	metro	N	1	O
+31	con	con	A	1	O
+32	las	las	V	1	O
+33	maletas	maletas	N	1	O
+34	porque	porque	V	1	O
+35	hay	hay	N	1	O
+36	mucho	mucho	G	1	O
+37	delincuente	delincuente	N	1	O
+38	extranjero	extranjero	N	1	O
+39	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	tenía	tenía	N	1	
-4	unas	unas	G	1	
-5	habitaciones	habitaciones	N	1	
-6	bastante	bastante	N	1	
-7	buenas	buenas	N	1	
-8	y	y	G	1	
-9	era	era	N	1	
-10	tranquilo	tranquilo	N	1	
-11	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	tenía	tenía	N	1	O
+4	unas	unas	G	1	O
+5	habitaciones	habitaciones	N	1	O
+6	bastante	bastante	N	1	O
+7	buenas	buenas	N	1	O
+8	y	y	G	1	O
+9	era	era	N	1	O
+10	tranquilo	tranquilo	N	1	O
+11	.	.	O	1	O
 
-1	Había	Había	R	1	
-2	algo	algo	A	1	
-3	de	de	O	1	
-4	ruido	ruido	O	1	
-5	de	de	O	1	
-6	las	las	O	1	
-7	habitaciones	habitaciones	O	1	
-8	contiguas	contiguas	O	1	
-9	pero	pero	O	1	
-10	no	no	D	1	
-11	demasiado	demasiado	N	1	
-12	molesto	molesto	N	1	
-13	.	.	O	1	
+1	Había	Había	R	1	O
+2	algo	algo	A	1	O
+3	de	de	O	1	O
+4	ruido	ruido	O	1	O
+5	de	de	O	1	O
+6	las	las	O	1	O
+7	habitaciones	habitaciones	O	1	O
+8	contiguas	contiguas	O	1	O
+9	pero	pero	O	1	O
+10	no	no	D	1	O
+11	demasiado	demasiado	N	1	O
+12	molesto	molesto	N	1	O
+13	.	.	O	1	O
 
-1	La	La	R	1	
-2	recepción	recepción	N	1	
-3	bien	bien	N	1	
-4	y	y	A	1	
-5	la	la	D	1	
-6	gente	gente	G	1	
-7	amable	amable	G	1	
+1	La	La	R	1	O
+2	recepción	recepción	N	1	O
+3	bien	bien	N	1	O
+4	y	y	A	1	O
+5	la	la	D	1	O
+6	gente	gente	G	1	O
+7	amable	amable	G	1	O
 

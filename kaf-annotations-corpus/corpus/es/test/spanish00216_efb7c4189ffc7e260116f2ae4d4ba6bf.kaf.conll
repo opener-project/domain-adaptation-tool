@@ -1,68 +1,71 @@
-1	Hotel_Il_Palagetto_Volterra	Hotel_Il_Palagetto_Volterra	R	1	ne=Hotel
+1	Hotel	Hotel	R	1	I-Hotel
+2	Il	Il	R	1	I-Hotel
+3	Palagetto	Palagetto	R	1	I-Hotel
+4	Volterra	Volterra	R	1	I-Hotel
 
-1	Un	un	G	1	
-2	hotel	hotel	N	1	
-3	muy	muy	G	1	
-4	correcto	correcto	N	1	
-5	y	y	A	1	
-6	donde	donde	G	1	
-7	poder	poder	N	1	
-8	relajarse	relajarse	N	1	
-9	en	en	P	1	
-10	plena	plena	G	1	
-11	Toscana	Toscana	R	1	ne=Location
-12	.	.	O	1	
+1	Un	un	G	1	O
+2	hotel	hotel	N	1	O
+3	muy	muy	G	1	O
+4	correcto	correcto	N	1	O
+5	y	y	A	1	O
+6	donde	donde	G	1	O
+7	poder	poder	N	1	O
+8	relajarse	relajarse	N	1	O
+9	en	en	P	1	O
+10	plena	plena	G	1	O
+11	Toscana	Toscana	R	1	I-Location
+12	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	N	1	
-3	del	del	O	1	
-4	personal	personal	G	1	
-5	es	es	N	1	
-6	exquisito	exquisito	P	1	
-7	y	y	G	1	
-8	muy	muy	G	1	
-9	acogedor	acogedor	N	1	
-10	.	.	O	1	
+1	El	El	R	1	O
+2	trato	trato	N	1	O
+3	del	del	O	1	O
+4	personal	personal	G	1	O
+5	es	es	N	1	O
+6	exquisito	exquisito	P	1	O
+7	y	y	G	1	O
+8	muy	muy	G	1	O
+9	acogedor	acogedor	N	1	O
+10	.	.	O	1	O
 
-1	Muy	muy	G	1	
-2	buenas	buenas	N	1	
-3	vistas	vista	N	1	
-4	y	y	G	1	
-5	mucha	mucha	N	1	
-6	tranquilidad	tranquilidad	N	1	
-7	.	.	O	1	
+1	Muy	muy	G	1	O
+2	buenas	buenas	N	1	O
+3	vistas	vista	N	1	O
+4	y	y	G	1	O
+5	mucha	mucha	N	1	O
+6	tranquilidad	tranquilidad	N	1	O
+7	.	.	O	1	O
 
-1	La	La	R	1	
-2	situación	situación	N	1	
-3	del	del	N	1	
-4	hotel	hotel	N	1	
-5	es	es	V	1	
-6	fuera	fuera	N	1	
-7	de	de	P	1	
-8	nucleos	nucleos	N	1	
-9	urbanos	urbanos	N	1	
-10	,	,	O	1	
-11	ello	ello	O	1	
-12	hace	hace	O	1	
-13	que	que	O	1	
-14	la	la	O	1	
-15	naturaleza	naturaleza	O	1	
-16	tenga	tenga	O	1	
-17	su	su	O	1	
-18	máximo	máximo	O	1	
-19	valor	valor	O	1	
-20	.	.	O	1	
+1	La	La	R	1	O
+2	situación	situación	N	1	O
+3	del	del	N	1	O
+4	hotel	hotel	N	1	O
+5	es	es	V	1	O
+6	fuera	fuera	N	1	O
+7	de	de	P	1	O
+8	nucleos	nucleos	N	1	O
+9	urbanos	urbanos	N	1	O
+10	,	,	O	1	O
+11	ello	ello	O	1	O
+12	hace	hace	O	1	O
+13	que	que	O	1	O
+14	la	la	O	1	O
+15	naturaleza	naturaleza	O	1	O
+16	tenga	tenga	O	1	O
+17	su	su	O	1	O
+18	máximo	máximo	O	1	O
+19	valor	valor	O	1	O
+20	.	.	O	1	O
 
-1	Recomendable	recomendable	G	1	
-2	para	para	G	1	
-3	quien	quien	G	1	
-4	quiera	quiera	G	1	
-5	desconectar	desconectar	N	1	
-6	del	del	O	1	
-7	ritmo	ritmo	O	1	
-8	frenético	frenético	O	1	
-9	de	de	O	1	
-10	la	la	O	1	
-11	ciudad	ciudad	N	1	
-12	.	.	O	1	
+1	Recomendable	recomendable	G	1	O
+2	para	para	G	1	O
+3	quien	quien	G	1	O
+4	quiera	quiera	G	1	O
+5	desconectar	desconectar	N	1	O
+6	del	del	O	1	O
+7	ritmo	ritmo	O	1	O
+8	frenético	frenético	O	1	O
+9	de	de	O	1	O
+10	la	la	O	1	O
+11	ciudad	ciudad	N	1	O
+12	.	.	O	1	O
 

@@ -1,153 +1,165 @@
-1	Qualità	qualità	G	1	
-2	Ibis	ibis	R	1	ne=Hotel
-3	,	,	O	1	
-4	ottimo	ottimo	G	1	
-5	prezzo	prezzo	N	1	
-6	.	.	O	1	
+1	Qualità	qualità	G	1	O
+2	Ibis	ibis	R	1	I-Hotel
+3	,	,	O	1	O
+4	ottimo	ottimo	G	1	O
+5	prezzo	prezzo	N	1	O
+6	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	questo	questo	G	1	
-5	hotel	hotel	N	1	
-6	dal	dal	P	1	
-7	24_dicembre	24_dicembre	R	1	ne=Date
-8	al	al	P	1	
-9	27	27	N	1	
-10	dicembre	dicembre	N	1	
-11	per	per	P	1	
-12	poi	poi	A	1	
-13	spostarci	spostarci	V	1	
-14	ad	ad	P	1	
-15	Abu_·_Dhabi	abu_·_dhabi	R	1	ne=Location
-16	,	,	O	1	
-17	che	che	Q	1	
-18	dire	dire	V	1	
-19	:	:	O	1	
+1	Abbiamo	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	questo	questo	G	1	O
+5	hotel	hotel	N	1	O
+6	dal	dal	P	1	O
+7	24	24	N	1	I-Date
+8	dicembre	dicembre	N	1	I-Date
+9	al	al	P	1	O
+10	27	27	N	1	O
+11	dicembre	dicembre	N	1	O
+12	per	per	P	1	O
+13	poi	poi	A	1	O
+14	spostarci	spostarci	V	1	O
+15	ad	ad	P	1	O
+16	Abu	abu	R	1	I-Location
+17	·	·	R	1	I-Location
+18	Dhabi	dhabi	R	1	I-Location
+19	,	,	O	1	O
+20	che	che	Q	1	O
+21	dire	dire	V	1	O
+22	:	:	O	1	O
 
-1	Il	lo	D	1	
-2	centro	centro	N	1	
-3	commerciale	commerciale	G	1	
-4	Mall_of_the_Emirates	mall_of_the_emirates	R	1	ne=POI
-5	si	si	Q	1	
-6	raggiunge	raggiungere	V	1	
-7	in	in	P	1	
-8	max	max	R	1	
-9	10	10	G	1	
-10	minuti	minuto	N	1	
-11	a	a	P	1	
-12	piedi	piede	N	1	
-13	,	,	O	1	
-14	anche	anche	Q	1	
-15	la	lo	D	1	
-16	metropolitana	metropolitano	G	1	
-17	è	è	R	1	
-18	molto	molto	A	1	
-19	vicina	vicino	G	1	
-20	(	(	O	1	
-21	è	è	R	1	
-22	più	piu'	N	1	
-23	vicino	vicino	G	1	
-24	alla	alla	P	1	
-25	fermata	fermata	N	1	
-26	di	di	P	1	
-27	Sharaf_DG_Metro_Station_2	sharaf_dg_metro_station_2	R	1	ne=POI
-28	)	)	O	1	
-29	.	.	O	1	
+1	Il	lo	D	1	O
+2	centro	centro	N	1	O
+3	commerciale	commerciale	G	1	O
+4	Mall	mall	R	1	I-POI
+5	of	of	P	1	I-POI
+6	the	the	N	1	I-POI
+7	Emirates	emirates	R	1	I-POI
+8	si	si	Q	1	O
+9	raggiunge	raggiungere	V	1	O
+10	in	in	P	1	O
+11	max	max	R	1	O
+12	10	10	G	1	O
+13	minuti	minuto	N	1	O
+14	a	a	P	1	O
+15	piedi	piede	N	1	O
+16	,	,	O	1	O
+17	anche	anche	Q	1	O
+18	la	lo	D	1	O
+19	metropolitana	metropolitano	G	1	O
+20	è	è	R	1	O
+21	molto	molto	A	1	O
+22	vicina	vicino	G	1	O
+23	(	(	O	1	O
+24	è	è	R	1	O
+25	più	piu'	N	1	O
+26	vicino	vicino	G	1	O
+27	alla	alla	P	1	O
+28	fermata	fermata	N	1	O
+29	di	di	P	1	O
+30	Sharaf	sharaf	R	1	I-POI
+31	DG	dg	R	1	I-POI
+32	Metro	metro	R	1	I-POI
+33	Station	station	R	1	I-POI
+34	2	2	N	1	I-POI
+35	)	)	O	1	O
+36	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	pagato	pagare	V	1	
-3	180_€	180_€	R	1	ne=Money
-4	4	4	N	1	
-5	notti	notti	G	1	
-6	se	se	Q	1	
-7	non	non	A	1	
-8	ricordo	ricordare	V	1	
-9	male	mala	N	1	
-10	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	pagato	pagare	V	1	O
+3	180	180	G	1	I-Money
+4	€	€	R	1	I-Money
+5	4	4	N	1	O
+6	notti	notti	G	1	O
+7	se	se	Q	1	O
+8	non	non	A	1	O
+9	ricordo	ricordare	V	1	O
+10	male	mala	N	1	O
+11	.	.	O	1	O
 
-1	Nella	nella	P	1	
-2	hall	hall	N	1	
-3	dell'	dell'	P	1	
-4	hotel	hotel	N	1	
-5	è	è	R	1	
-6	disponibile	disponibile	G	1	
-7	il	lo	D	1	
-8	wifi	wifi	N	1	
-9	gratuito	gratuito	G	1	
-10	e	e	Q	1	
-11	anche	anche	Q	1	
-12	2	2	G	1	
-13	pc	pc	R	1	
-14	da	da	P	1	
-15	poter	poter	V	1	
-16	utilizzare	utilizzare	V	1	
-17	e	e	Q	1	
-18	un	uno	D	1	
-19	bar	bar	N	1	
-20	aperto	aprire	V	1	
-21	fino	fino	P	1	
-22	a	a	P	1	
-23	tarda	tardo	G	1	
-24	notte	notte	N	1	
-25	.	.	O	1	
+1	Nella	nella	P	1	O
+2	hall	hall	N	1	O
+3	dell'	dell'	P	1	O
+4	hotel	hotel	N	1	O
+5	è	è	R	1	O
+6	disponibile	disponibile	G	1	O
+7	il	lo	D	1	O
+8	wifi	wifi	N	1	O
+9	gratuito	gratuito	G	1	O
+10	e	e	Q	1	O
+11	anche	anche	Q	1	O
+12	2	2	G	1	O
+13	pc	pc	R	1	O
+14	da	da	P	1	O
+15	poter	poter	V	1	O
+16	utilizzare	utilizzare	V	1	O
+17	e	e	Q	1	O
+18	un	uno	D	1	O
+19	bar	bar	N	1	O
+20	aperto	aprire	V	1	O
+21	fino	fino	P	1	O
+22	a	a	P	1	O
+23	tarda	tardo	G	1	O
+24	notte	notte	N	1	O
+25	.	.	O	1	O
 
-1	Ottima	ottimo	G	1	
-2	pulizia	pulizia	N	1	
-3	con	con	P	1	
-4	cambio	cambio	N	1	
-5	tutti	tutto	G	1	
-6	i	lo	D	1	
-7	giorni	giorno	N	1	
-8	,	,	O	1	
-9	stanza	stanza	N	1	
-10	abbastanza	abbastanza	A	1	
-11	grande	grande	G	1	
-12	per	per	P	1	
-13	i	lo	D	1	
-14	miei	mio	G	1	
-15	standard	standard	N	1	
-16	.	.	O	1	
+1	Ottima	ottimo	G	1	O
+2	pulizia	pulizia	N	1	O
+3	con	con	P	1	O
+4	cambio	cambio	N	1	O
+5	tutti	tutto	G	1	O
+6	i	lo	D	1	O
+7	giorni	giorno	N	1	O
+8	,	,	O	1	O
+9	stanza	stanza	N	1	O
+10	abbastanza	abbastanza	A	1	O
+11	grande	grande	G	1	O
+12	per	per	P	1	O
+13	i	lo	D	1	O
+14	miei	mio	G	1	O
+15	standard	standard	N	1	O
+16	.	.	O	1	O
 
-1	Al	al	P	1	
-2	check	check	N	1	
-3	·	·	R	1	
-4	in	in	P	1	
-5	vi	vi	Q	1	
-6	sarà	sarà	N	1	
-7	chiesta	chiedere	V	1	
-8	una	uno	D	1	
-9	cauzione	cauzione	N	1	
-10	che	che	Q	1	
-11	potrete	potere	V	1	
-12	lasciare	lasciare	V	1	
-13	con	con	P	1	
-14	carta	carta	N	1	
-15	o	o	Q	1	
-16	in	in	P	1	
-17	contanti	contante	N	1	
-18	(	(	O	1	
-19	45_€	45_€	R	1	ne=Money
-20	circa	circa	P	1	
-21	)	)	O	1	
-22	.	.	O	1	
+1	Al	al	P	1	O
+2	check	check	N	1	O
+3	·	·	R	1	O
+4	in	in	P	1	O
+5	vi	vi	Q	1	O
+6	sarà	sarà	N	1	O
+7	chiesta	chiedere	V	1	O
+8	una	uno	D	1	O
+9	cauzione	cauzione	N	1	O
+10	che	che	Q	1	O
+11	potrete	potere	V	1	O
+12	lasciare	lasciare	V	1	O
+13	con	con	P	1	O
+14	carta	carta	N	1	O
+15	o	o	Q	1	O
+16	in	in	P	1	O
+17	contanti	contante	N	1	O
+18	(	(	O	1	O
+19	45	45	N	1	I-Money
+20	€	€	O	1	I-Money
+21	circa	circa	P	1	O
+22	)	)	O	1	O
+23	.	.	O	1	O
 
-1	Che	che	Q	1	
-2	dire	dire	V	1	
-3	,	,	O	1	
-4	consiglio	consiglio	N	1	
-5	l'	lo	D	1	
-6	hotel	hotel	N	1	
-7	per	per	P	1	
-8	chi	chi	Q	1	
-9	vuole	volere	V	1	
-10	visitare	visitare	V	1	
-11	Dubai	dubai	R	1	ne=Location
-12	ma	ma	Q	1	
-13	non	non	A	1	
-14	vuole	volere	V	1	
-15	spendere	spendere	V	1	
-16	un	uno	D	1	
-17	partimonio	partimonio	N	1	
-18	.	.	O	1	
+1	Che	che	Q	1	O
+2	dire	dire	V	1	O
+3	,	,	O	1	O
+4	consiglio	consiglio	N	1	O
+5	l'	lo	D	1	O
+6	hotel	hotel	N	1	O
+7	per	per	P	1	O
+8	chi	chi	Q	1	O
+9	vuole	volere	V	1	O
+10	visitare	visitare	V	1	O
+11	Dubai	dubai	R	1	I-Location
+12	ma	ma	Q	1	O
+13	non	non	A	1	O
+14	vuole	volere	V	1	O
+15	spendere	spendere	V	1	O
+16	un	uno	D	1	O
+17	partimonio	partimonio	N	1	O
+18	.	.	O	1	O
 

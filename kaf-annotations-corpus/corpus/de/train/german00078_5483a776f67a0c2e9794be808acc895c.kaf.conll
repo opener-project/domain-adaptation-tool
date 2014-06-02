@@ -1,109 +1,111 @@
-1	Schöner	schön	G	1	
-2	Badeurlaub	Badeurlaub	N	1	
-3	mit	mit	P	1	
-4	kleinen	klein	G	1	
-5	Einschränkungen	Einschränkung	N	1	
+1	Schöner	schön	G	1	O
+2	Badeurlaub	Badeurlaub	N	1	O
+3	mit	mit	P	1	O
+4	kleinen	klein	G	1	O
+5	Einschränkungen	Einschränkung	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	besteht	bestehen	V	1	
-4	aus	aus	P	1	
-5	sieben	sieben	O	1	
-6	Wohnblocks	Wohnblock	N	1	
-7	,	,	O	1	
-8	es	es	Q	1	
-9	gibt	geben	V	1	
-10	AI	AI	O	1	
-11	Gäste	Gast	N	1	
-12	und	und	C	1	
-13	Halbpension	Halbpension	N	1	
-14	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	besteht	bestehen	V	1	O
+4	aus	aus	P	1	O
+5	sieben	sieben	O	1	O
+6	Wohnblocks	Wohnblock	N	1	O
+7	,	,	O	1	O
+8	es	es	Q	1	O
+9	gibt	geben	V	1	O
+10	AI	AI	O	1	O
+11	Gäste	Gast	N	1	O
+12	und	und	C	1	O
+13	Halbpension	Halbpension	N	1	O
+14	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	befindet	befinden	V	1	
-3	sich	sich	Q	1	
-4	in	in	P	1	
-5	einem	eine	D	1	
-6	guten	gut	G	1	
-7	Zustand	Zustand	N	1	
-8	,	,	O	1	
-9	wenn	wenn	C	1	
-10	man	man	Q	1	
-11	bedenkt	bedenken	V	1	
-12	das	die	Q	1	
-13	es	es	Q	1	
-14	erst	erst	A	1	
-15	sechs_Jahe	sechs_Jahe	R	1	ne=Date
-16	alt	alt	G	1	
-17	ist	sein	V	1	
-18	die	die	D	1	
-19	jedoch	jedoch	A	1	
-20	bedenklich	bedenklich	G	1	
-21	.	.	O	1	
+1	Es	es	Q	1	O
+2	befindet	befinden	V	1	O
+3	sich	sich	Q	1	O
+4	in	in	P	1	O
+5	einem	eine	D	1	O
+6	guten	gut	G	1	O
+7	Zustand	Zustand	N	1	O
+8	,	,	O	1	O
+9	wenn	wenn	C	1	O
+10	man	man	Q	1	O
+11	bedenkt	bedenken	V	1	O
+12	das	die	Q	1	O
+13	es	es	Q	1	O
+14	erst	erst	A	1	O
+15	sechs	sechs	O	1	I-Date
+16	Jahe	Jahe	O	1	I-Date
+17	alt	alt	G	1	O
+18	ist	sein	V	1	O
+19	die	die	D	1	O
+20	jedoch	jedoch	A	1	O
+21	bedenklich	bedenklich	G	1	O
+22	.	.	O	1	O
 
-1	Fleißige	fleißig	G	1	
-2	Hände	Hand	N	1	
-3	arbeiten	arbeiten	V	1	
-4	jeden	jede	Q	1	
-5	Tag	Tag	N	1	
-6	in	in	P	1	
-7	und	und	C	1	
-8	an	an	P	1	
-9	der	die	D	1	
-10	Anlage	Anlage	N	1	
+1	Fleißige	fleißig	G	1	O
+2	Hände	Hand	N	1	O
+3	arbeiten	arbeiten	V	1	O
+4	jeden	jede	Q	1	O
+5	Tag	Tag	N	1	O
+6	in	in	P	1	O
+7	und	und	C	1	O
+8	an	an	P	1	O
+9	der	die	D	1	O
+10	Anlage	Anlage	N	1	O
 
-1	Die	die	D	1	
-2	osteureopäischen	osteureopäischen	O	1	
-3	Nachbarn	Nachbar	N	1	
-4	sind	sein	V	1	
-5	in	in	P	1	
-6	der	die	D	1	
-7	Mehrzahl	Mehrzahl	N	1	
-8	vertreten	vertreten	V	1	
-9	und	und	C	1	
-10	geben	geben	V	1	
-11	sich	sich	Q	1	
-12	halt	halt	A	1	
-13	so	so	A	1	
-14	,	,	O	1	
-15	wie	wie	C	1	
-16	sie	sie	Q	1	
-17	in	in	P	1	
-18	den	die	D	1	
-19	Foren	Forum	N	1	
-20	beschrieben	beschreiben	V	1	
-21	werden	werden	V	1	
-22	.	.	O	1	
+1	Die	die	D	1	O
+2	osteureopäischen	osteureopäischen	O	1	O
+3	Nachbarn	Nachbar	N	1	O
+4	sind	sein	V	1	O
+5	in	in	P	1	O
+6	der	die	D	1	O
+7	Mehrzahl	Mehrzahl	N	1	O
+8	vertreten	vertreten	V	1	O
+9	und	und	C	1	O
+10	geben	geben	V	1	O
+11	sich	sich	Q	1	O
+12	halt	halt	A	1	O
+13	so	so	A	1	O
+14	,	,	O	1	O
+15	wie	wie	C	1	O
+16	sie	sie	Q	1	O
+17	in	in	P	1	O
+18	den	die	D	1	O
+19	Foren	Forum	N	1	O
+20	beschrieben	beschreiben	V	1	O
+21	werden	werden	V	1	O
+22	.	.	O	1	O
 
-1	AI	Ai	N	1	
-2	lohnt	lohnen	V	1	
-3	sich	sich	Q	1	
-4	jedoch	jedoch	A	1	
-5	nicht	nicht	O	1	
-6	wirklich	wirklich	G	1	
-7	,	,	O	1	
-8	da	da	C	1	
-9	nur	nur	A	1	
-10	bis	bis	P	1	
-11	23.00_Uhr	@card@_Uhr	R	1	ne=Time
-12	landestypische	landestypisch	G	1	
-13	Getränke	Getränk	N	1	
-14	ausgeschenkt	ausschenken	V	1	
-15	werden	werden	V	1	
-16	.	.	O	1	
+1	AI	Ai	N	1	O
+2	lohnt	lohnen	V	1	O
+3	sich	sich	Q	1	O
+4	jedoch	jedoch	A	1	O
+5	nicht	nicht	O	1	O
+6	wirklich	wirklich	G	1	O
+7	,	,	O	1	O
+8	da	da	C	1	O
+9	nur	nur	A	1	O
+10	bis	bis	P	1	O
+11	23.00	@card@	O	1	I-Time
+12	Uhr	Uhr	N	1	I-Time
+13	landestypische	landestypisch	G	1	O
+14	Getränke	Getränk	N	1	O
+15	ausgeschenkt	ausschenken	V	1	O
+16	werden	werden	V	1	O
+17	.	.	O	1	O
 
-1	Für	für	P	1	
-2	HP	HP	R	1	
-3	Gäste	Gast	N	1	
-4	kann	können	V	1	
-5	der	die	D	1	
-6	mittagliche	mittagliche	O	1	
-7	Hunger	Hunger	N	1	
-8	in	in	P	1	
-9	den	die	D	1	
-10	diversen	divers	G	1	
-11	Strandtavernen	Strandtavernen	O	1	
-12	gestillt	stillen	V	1	
-13	werden	werden	V	1	
-14	.	.	O	1	
+1	Für	für	P	1	O
+2	HP	HP	R	1	O
+3	Gäste	Gast	N	1	O
+4	kann	können	V	1	O
+5	der	die	D	1	O
+6	mittagliche	mittagliche	O	1	O
+7	Hunger	Hunger	N	1	O
+8	in	in	P	1	O
+9	den	die	D	1	O
+10	diversen	divers	G	1	O
+11	Strandtavernen	Strandtavernen	O	1	O
+12	gestillt	stillen	V	1	O
+13	werden	werden	V	1	O
+14	.	.	O	1	O
 

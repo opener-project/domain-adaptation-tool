@@ -1,77 +1,77 @@
-1	Très	Très	G	1	
-2	décevant	décevant	G	1	
+1	Très	Très	G	1	O
+2	décevant	décevant	G	1	O
 
-1	Personnel	personnel	N	1	
-2	incompétent	incompétent	G	1	
-3	et	et	C	1	
-4	peu	peu	G	1	
-5	concerné	concerner	V	1	
-6	par	par	P	1	
-7	les	le	D	1	
-8	clientS	client	N	1	
+1	Personnel	personnel	N	1	O
+2	incompétent	incompétent	G	1	O
+3	et	et	C	1	O
+4	peu	peu	G	1	O
+5	concerné	concerner	V	1	O
+6	par	par	P	1	O
+7	les	le	D	1	O
+8	clientS	client	N	1	O
 
-1	Emplacement	Emplacement	G	1	
-2	non	non	G	1	
-3	entretenu	entretenir	V	1	
-4	:	:	O	1	
-5	boue	boue	N	1	
-6	,	,	O	1	
-7	ornières	ornière	N	1	
-8	et	et	C	1	
-9	cailloux	caillou	N	1	
-10	(	(	O	1	
-11	une	un	D	1	
-12	galère	galère	N	1	
-13	pour	pour	P	1	
-14	planter	planter	V	1	
-15	la	le	D	1	
-16	tente	tente	N	1	
-17	)	)	O	1	
-18	.	.	O	1	
+1	Emplacement	Emplacement	G	1	O
+2	non	non	G	1	O
+3	entretenu	entretenir	V	1	O
+4	:	:	O	1	O
+5	boue	boue	N	1	O
+6	,	,	O	1	O
+7	ornières	ornière	N	1	O
+8	et	et	C	1	O
+9	cailloux	caillou	N	1	O
+10	(	(	O	1	O
+11	une	un	D	1	O
+12	galère	galère	N	1	O
+13	pour	pour	P	1	O
+14	planter	planter	V	1	O
+15	la	le	D	1	O
+16	tente	tente	N	1	O
+17	)	)	O	1	O
+18	.	.	O	1	O
 
-1	Présence	présence	N	1	
-2	de	de	P	1	
-3	la	le	D	1	
-4	nationale	national	G	1	
-5	et	et	C	1	
-6	de	de	P	1	
-7	la	le	D	1	
-8	ligne	ligne	N	1	
-9	de	de	P	1	
-10	chemin	chemin	N	1	
-11	de	de	P	1	
-12	fer	fer	N	1	
+1	Présence	présence	N	1	O
+2	de	de	P	1	O
+3	la	le	D	1	O
+4	nationale	national	G	1	O
+5	et	et	C	1	O
+6	de	de	P	1	O
+7	la	le	D	1	O
+8	ligne	ligne	N	1	O
+9	de	de	P	1	O
+10	chemin	chemin	N	1	O
+11	de	de	P	1	O
+12	fer	fer	N	1	O
 
-1	Trop	Trop	G	1	
-2	de	de	P	1	
-3	racailles	racaille	N	1	
-4	surtout	surtout	G	1	
-5	le	le	D	1	
-6	soir	soir	N	1	
+1	Trop	Trop	G	1	O
+2	de	de	P	1	O
+3	racailles	racaille	N	1	O
+4	surtout	surtout	G	1	O
+5	le	le	D	1	O
+6	soir	soir	N	1	O
 
-1	Nous	lui	Q	1	
-2	n'	n'	G	1	
-3	avons	avoir	V	1	
-4	pas	pas	G	1	
-5	testé	tester	V	1	
-6	la	le	D	1	
-7	piscine	piscine	N	1	
-8	et	et	C	1	
-9	au	au	P	1	
-10	vu	voir	V	1	
-11	des	un	D	1	
-12	commentaires	commentaire	N	1	
-13	,	,	O	1	
-14	heureusement	heureusement	G	1	
-15	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	n'	n'	G	1	O
+3	avons	avoir	V	1	O
+4	pas	pas	G	1	O
+5	testé	tester	V	1	O
+6	la	le	D	1	O
+7	piscine	piscine	N	1	O
+8	et	et	C	1	O
+9	au	au	P	1	O
+10	vu	voir	V	1	O
+11	des	un	D	1	O
+12	commentaires	commentaire	N	1	O
+13	,	,	O	1	O
+14	heureusement	heureusement	G	1	O
+15	.	.	O	1	O
 
-1	Le	le	D	1	
-2	centre	centre	N	1	
-3	ville	ville	G	1	
-4	et	et	C	1	
-5	la	le	D	1	
-6	plage	plage	N	1	
-7	sont	être	V	1	
-8	assez	assez	G	1	
-9	loins	loins	G	1	
+1	Le	le	D	1	O
+2	centre	centre	N	1	O
+3	ville	ville	G	1	O
+4	et	et	C	1	O
+5	la	le	D	1	O
+6	plage	plage	N	1	O
+7	sont	être	V	1	O
+8	assez	assez	G	1	O
+9	loins	loins	G	1	O
 

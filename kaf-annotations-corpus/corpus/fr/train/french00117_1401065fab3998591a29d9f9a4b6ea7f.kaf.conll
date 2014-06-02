@@ -1,140 +1,140 @@
-1	Petit	petit	G	1	
-2	commentaire	commentaire	N	1	
+1	Petit	petit	G	1	O
+2	commentaire	commentaire	N	1	O
 
-1	A	A	P	1	
-2	peine	peine	N	1	
-3	arrivée	arriver	V	1	
-4	,	,	O	1	
-5	on	on	Q	1	
-6	doit	devoir	V	1	
-7	payer	payer	V	1	
-8	le	le	D	1	
-9	parking	parking	N	1	
-10	(	(	O	1	
-11	4	4	D	1	
-12	euros	euro	N	1	
-13	)	)	O	1	
-14	.	.	O	1	
+1	A	A	P	1	O
+2	peine	peine	N	1	O
+3	arrivée	arriver	V	1	O
+4	,	,	O	1	O
+5	on	on	Q	1	O
+6	doit	devoir	V	1	O
+7	payer	payer	V	1	O
+8	le	le	D	1	O
+9	parking	parking	N	1	O
+10	(	(	O	1	O
+11	4	4	D	1	O
+12	euros	euro	N	1	O
+13	)	)	O	1	O
+14	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avions	avoir	V	1	
-3	deja	deja	G	1	
-4	des	un	D	1	
-5	billets	billet	N	1	
-6	donc	donc	G	1	
-7	nous	lui	Q	1	
-8	étions	être	V	1	
-9	prets	prets	V	1	
-10	à	à	P	1	
-11	glisser	glisser	V	1	
-12	.	.	P	1	
+1	Nous	lui	Q	1	O
+2	avions	avoir	V	1	O
+3	deja	deja	G	1	O
+4	des	un	D	1	O
+5	billets	billet	N	1	O
+6	donc	donc	G	1	O
+7	nous	lui	Q	1	O
+8	étions	être	V	1	O
+9	prets	prets	V	1	O
+10	à	à	P	1	O
+11	glisser	glisser	V	1	O
+12	.	.	P	1	O
 
-1	Hors	Hors	N	1	
-2	,	,	O	1	
-3	pour	pour	P	1	
-4	avoir	avoir	V	1	
-5	une	un	D	1	
-6	consigne	consigne	N	1	
-7	,	,	O	1	
-8	il	il	Q	1	
-9	faut	faillir	V	1	
-10	payer	payer	V	1	
-11	4	4	D	1	
-12	euros	euro	N	1	
-13	et	et	C	1	
-14	une	un	D	1	
-15	caution	caution	N	1	
-16	,	,	O	1	
-17	2	2	D	1	
-18	euros	euro	N	1	
-19	.	.	O	1	
+1	Hors	Hors	N	1	O
+2	,	,	O	1	O
+3	pour	pour	P	1	O
+4	avoir	avoir	V	1	O
+5	une	un	D	1	O
+6	consigne	consigne	N	1	O
+7	,	,	O	1	O
+8	il	il	Q	1	O
+9	faut	faillir	V	1	O
+10	payer	payer	V	1	O
+11	4	4	D	1	O
+12	euros	euro	N	1	O
+13	et	et	C	1	O
+14	une	un	D	1	O
+15	caution	caution	N	1	O
+16	,	,	O	1	O
+17	2	2	D	1	O
+18	euros	euro	N	1	O
+19	.	.	O	1	O
 
-1	Et	Et	C	1	
-2	d'	d'	P	1	
-3	un	un	D	1	
-4	coup	coup	N	1	
-5	,	,	O	1	
-6	la	le	D	1	
-7	mascotte	mascotte	N	1	
-8	nous	lui	Q	1	
-9	tombe	tomber	V	1	
-10	dessus	dessus	G	1	
-11	pour	pour	P	1	
-12	nous	lui	Q	1	
-13	prendre	prendre	V	1	
-14	en	en	P	1	
-15	photo	photo	N	1	
-16	(	(	O	1	
-17	payant	payant	G	1	
-18	bien	bien	G	1	
-19	sur	sur	P	1	
-20	la	le	D	1	
-21	photo	photo	N	1	
-22	)	)	O	1	
-23	Ce	ce	D	1	
-24	site	site	N	1	
-25	est	être	V	1	
-26	à	à	P	1	
-27	faire	faire	V	1	
-28	hors	hors	P	1	
-29	période	période	N	1	
-30	estivale	estival	G	1	
-31	car	car	C	1	
-32	trop	trop	G	1	
-33	de	de	P	1	
-34	monde	monde	N	1	
-35	attendent	attendre	V	1	
-36	(	(	O	1	
-37	20	20	D	1	
-38	à	à	P	1	
-39	30	30	D	1	
-40	min	min	N	1	
-41	pour	pour	P	1	
-42	les	le	D	1	
-43	plus	plus	G	1	
-44	grandes	grand	G	1	
-45	attractions	attraction	N	1	
-46	)	)	O	1	
-47	Prévoir	Prévoir	P	1	
-48	le	le	D	1	
-49	pique	pique	N	1	
-50	nique	nique	G	1	
-51	car	car	C	1	
-52	alimentation	alimentation	G	1	
-53	sur	sur	P	1	
-54	place	place	N	1	
-55	hors	hors	P	1	
-56	de	de	P	1	
-57	prix	prix	N	1	
-58	.	.	O	1	
+1	Et	Et	C	1	O
+2	d'	d'	P	1	O
+3	un	un	D	1	O
+4	coup	coup	N	1	O
+5	,	,	O	1	O
+6	la	le	D	1	O
+7	mascotte	mascotte	N	1	O
+8	nous	lui	Q	1	O
+9	tombe	tomber	V	1	O
+10	dessus	dessus	G	1	O
+11	pour	pour	P	1	O
+12	nous	lui	Q	1	O
+13	prendre	prendre	V	1	O
+14	en	en	P	1	O
+15	photo	photo	N	1	O
+16	(	(	O	1	O
+17	payant	payant	G	1	O
+18	bien	bien	G	1	O
+19	sur	sur	P	1	O
+20	la	le	D	1	O
+21	photo	photo	N	1	O
+22	)	)	O	1	O
+23	Ce	ce	D	1	O
+24	site	site	N	1	O
+25	est	être	V	1	O
+26	à	à	P	1	O
+27	faire	faire	V	1	O
+28	hors	hors	P	1	O
+29	période	période	N	1	O
+30	estivale	estival	G	1	O
+31	car	car	C	1	O
+32	trop	trop	G	1	O
+33	de	de	P	1	O
+34	monde	monde	N	1	O
+35	attendent	attendre	V	1	O
+36	(	(	O	1	O
+37	20	20	D	1	O
+38	à	à	P	1	O
+39	30	30	D	1	O
+40	min	min	N	1	O
+41	pour	pour	P	1	O
+42	les	le	D	1	O
+43	plus	plus	G	1	O
+44	grandes	grand	G	1	O
+45	attractions	attraction	N	1	O
+46	)	)	O	1	O
+47	Prévoir	Prévoir	P	1	O
+48	le	le	D	1	O
+49	pique	pique	N	1	O
+50	nique	nique	G	1	O
+51	car	car	C	1	O
+52	alimentation	alimentation	G	1	O
+53	sur	sur	P	1	O
+54	place	place	N	1	O
+55	hors	hors	P	1	O
+56	de	de	P	1	O
+57	prix	prix	N	1	O
+58	.	.	O	1	O
 
-1	Et	Et	C	1	
-2	pour	pour	P	1	
-3	sortir	sortir	V	1	
-4	,	,	O	1	
-5	on	on	Q	1	
-6	nous	lui	Q	1	
-7	donne	donner	V	1	
-8	un	un	D	1	
-9	sac	sac	N	1	
-10	pour	pour	P	1	
-11	faire	faire	V	1	
-12	de	de	P	1	
-13	la	le	D	1	
-14	PUB	pub	N	1	
-15	.	.	O	1	
+1	Et	Et	C	1	O
+2	pour	pour	P	1	O
+3	sortir	sortir	V	1	O
+4	,	,	O	1	O
+5	on	on	Q	1	O
+6	nous	lui	Q	1	O
+7	donne	donner	V	1	O
+8	un	un	D	1	O
+9	sac	sac	N	1	O
+10	pour	pour	P	1	O
+11	faire	faire	V	1	O
+12	de	de	P	1	O
+13	la	le	D	1	O
+14	PUB	pub	N	1	O
+15	.	.	O	1	O
 
-1	Mon	son	D	1	
-2	avis	avis	N	1	
-3	:	:	O	1	
-4	Entreprise	Entreprise	D	1	
-5	très	très	G	1	
-6	rentable	rentable	G	1	
-7	qui	qui	P	1	
-8	mérite	mériter	V	1	
-9	d'	d'	P	1	
-10	avoir	avoir	V	1	
-11	plus	plus	G	1	
-12	d'	d'	P	1	
-13	attractions	attraction	N	1	
+1	Mon	son	D	1	O
+2	avis	avis	N	1	O
+3	:	:	O	1	O
+4	Entreprise	Entreprise	D	1	O
+5	très	très	G	1	O
+6	rentable	rentable	G	1	O
+7	qui	qui	P	1	O
+8	mérite	mériter	V	1	O
+9	d'	d'	P	1	O
+10	avoir	avoir	V	1	O
+11	plus	plus	G	1	O
+12	d'	d'	P	1	O
+13	attractions	attraction	N	1	O
 

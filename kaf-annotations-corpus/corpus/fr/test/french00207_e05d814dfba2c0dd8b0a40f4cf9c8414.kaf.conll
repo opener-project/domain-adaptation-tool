@@ -1,52 +1,52 @@
-1	Magnifique	Magnifique	N	1	
+1	Magnifique	Magnifique	N	1	O
 
-1	sejour	sejour	P	1	
-2	excellent	excellent	G	1	
-3	,	,	O	1	
-4	pas	pas	G	1	
-5	d'	d'	P	1	
-6	ennui	ennui	N	1	
-7	,	,	O	1	
-8	décor	décor	N	1	
-9	superbe	superbe	G	1	
-10	,	,	O	1	
-11	piscine	piscine	N	1	
-12	etc	etc	G	1	
-13	juste	juste	G	1	
-14	dommage	dommage	G	1	
-15	que	que	C	1	
-16	internet	internet	N	1	
-17	ne	ne	G	1	
-18	passe	passer	V	1	
-19	pas	pas	G	1	
-20	partout	partout	G	1	
-21	.	.	O	1	
+1	sejour	sejour	P	1	O
+2	excellent	excellent	G	1	O
+3	,	,	O	1	O
+4	pas	pas	G	1	O
+5	d'	d'	P	1	O
+6	ennui	ennui	N	1	O
+7	,	,	O	1	O
+8	décor	décor	N	1	O
+9	superbe	superbe	G	1	O
+10	,	,	O	1	O
+11	piscine	piscine	N	1	O
+12	etc	etc	G	1	O
+13	juste	juste	G	1	O
+14	dommage	dommage	G	1	O
+15	que	que	C	1	O
+16	internet	internet	N	1	O
+17	ne	ne	G	1	O
+18	passe	passer	V	1	O
+19	pas	pas	G	1	O
+20	partout	partout	G	1	O
+21	.	.	O	1	O
 
-1	A	A	P	1	
-2	part	part	N	1	
-3	cela	cela	P	1	
-4	cetait	cetait	Q	1	
-5	parfait.	parfait.	G	1	
-6	la	le	D	1	
-7	piscine	piscine	N	1	
-8	est	être	V	1	
-9	spacieuse	spacieux	G	1	
-10	,	,	O	1	
-11	le	le	D	1	
-12	golf	golf	N	1	
-13	touche	toucher	V	1	
-14	la	le	D	1	
-15	residence	residence	N	1	
-16	dommage	dommage	G	1	
-17	qu'	qu'	C	1	
-18	il	il	Q	1	
-19	faille	faillir	V	1	
-20	une	un	D	1	
-21	voiture	voiture	N	1	
-22	pour	pour	P	1	
-23	les	le	D	1	
-24	courses	course	N	1	
-25	c'	c'	Q	1	
-26	est	être	V	1	
-27	tout	tout	G	1	
+1	A	A	P	1	O
+2	part	part	N	1	O
+3	cela	cela	P	1	O
+4	cetait	cetait	Q	1	O
+5	parfait.	parfait.	G	1	O
+6	la	le	D	1	O
+7	piscine	piscine	N	1	O
+8	est	être	V	1	O
+9	spacieuse	spacieux	G	1	O
+10	,	,	O	1	O
+11	le	le	D	1	O
+12	golf	golf	N	1	O
+13	touche	toucher	V	1	O
+14	la	le	D	1	O
+15	residence	residence	N	1	O
+16	dommage	dommage	G	1	O
+17	qu'	qu'	C	1	O
+18	il	il	Q	1	O
+19	faille	faillir	V	1	O
+20	une	un	D	1	O
+21	voiture	voiture	N	1	O
+22	pour	pour	P	1	O
+23	les	le	D	1	O
+24	courses	course	N	1	O
+25	c'	c'	Q	1	O
+26	est	être	V	1	O
+27	tout	tout	G	1	O
 

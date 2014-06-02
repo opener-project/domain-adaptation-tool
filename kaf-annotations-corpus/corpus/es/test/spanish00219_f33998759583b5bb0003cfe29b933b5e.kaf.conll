@@ -1,44 +1,44 @@
-1	Decepcionante	Decepcionante	R	1	
+1	Decepcionante	Decepcionante	R	1	O
 
-1	No	no	D	1	
-2	se	se	O	1	
-3	corresponde	corresponde	O	1	
-4	a	a	D	1	
-5	un	un	G	1	
-6	hotel	hotel	N	1	
-7	de	de	P	1	
-8	5	5	O	1	
-9	estrellas	estrellas	N	1	
-10	.	.	O	1	
+1	No	no	D	1	O
+2	se	se	O	1	O
+3	corresponde	corresponde	O	1	O
+4	a	a	D	1	O
+5	un	un	G	1	O
+6	hotel	hotel	N	1	O
+7	de	de	P	1	O
+8	5	5	O	1	O
+9	estrellas	estrellas	N	1	O
+10	.	.	O	1	O
 
-1	Mantenimiento	Mantenimiento	R	1	
-2	deficiente	deficiente	N	1	
-3	,	,	O	1	
-4	habitaciones	habitaciones	V	1	
-5	con	con	G	1	
-6	todo	todo	N	1	
-7	tipo	tipo	N	1	
-8	de	de	P	1	
-9	desperfectos	desperfectos	N	1	
-10	,	,	O	1	
-11	reclamaciones	reclamaciones	V	1	
-12	no	no	D	1	
-13	solucionadas	solucionadas	G	1	
-14	ni	ni	G	1	
-15	respondidas	respondidas	N	1	
-16	.	.	O	1	
+1	Mantenimiento	Mantenimiento	R	1	O
+2	deficiente	deficiente	N	1	O
+3	,	,	O	1	O
+4	habitaciones	habitaciones	V	1	O
+5	con	con	G	1	O
+6	todo	todo	N	1	O
+7	tipo	tipo	N	1	O
+8	de	de	P	1	O
+9	desperfectos	desperfectos	N	1	O
+10	,	,	O	1	O
+11	reclamaciones	reclamaciones	V	1	O
+12	no	no	D	1	O
+13	solucionadas	solucionadas	G	1	O
+14	ni	ni	G	1	O
+15	respondidas	respondidas	N	1	O
+16	.	.	O	1	O
 
-1	La	La	R	1	
-2	dirección	dirección	G	1	
-3	del	del	N	1	
-4	hotel	hotel	N	1	
-5	no	no	D	1	
-6	da	da	N	1	
-7	la	la	N	1	
-8	cara	cara	N	1	
-9	.	.	O	1	
+1	La	La	R	1	O
+2	dirección	dirección	G	1	O
+3	del	del	N	1	O
+4	hotel	hotel	N	1	O
+5	no	no	D	1	O
+6	da	da	N	1	O
+7	la	la	N	1	O
+8	cara	cara	N	1	O
+9	.	.	O	1	O
 
-1	Organización	Organización	R	1	
-2	caótica	caótica	N	1	
-3	.	.	O	1	
+1	Organización	Organización	R	1	O
+2	caótica	caótica	N	1	O
+3	.	.	O	1	O
 

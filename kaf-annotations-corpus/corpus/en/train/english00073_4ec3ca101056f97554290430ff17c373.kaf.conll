@@ -1,150 +1,154 @@
-1	Bit	bit	N	1	
-2	pricey	pricey	G	1	
-3	and	and	C	1	
-4	but	but	C	1	
-5	away	away	A	1	
-6	from	from	P	1	
-7	center	center	N	1	
+1	Bit	bit	N	1	O
+2	pricey	pricey	G	1	O
+3	and	and	C	1	O
+4	but	but	C	1	O
+5	away	away	A	1	O
+6	from	from	P	1	O
+7	center	center	N	1	O
 
-1	You	you	Q	1	
-2	need	need	V	1	
-3	to	to	P	1	
-4	count	count	V	1	
-5	20	20	O	1	
-6	·	·	P	1	
-7	30	30	O	1	
-8	minutes	minute	N	1	
-9	walking	walk	V	1	
-10	time	time	N	1	
-11	to	to	P	1	
-12	get	get	V	1	
-13	to	to	P	1	
-14	Dubling_city_center	Dubling_city_center	R	1	ne=Location
-15	from	from	P	1	
-16	this	this	D	1	
-17	hotel	hotel	N	1	
-18	.	.	O	1	
+1	You	you	Q	1	O
+2	need	need	V	1	O
+3	to	to	P	1	O
+4	count	count	V	1	O
+5	20	20	O	1	O
+6	·	·	P	1	O
+7	30	30	O	1	O
+8	minutes	minute	N	1	O
+9	walking	walk	V	1	O
+10	time	time	N	1	O
+11	to	to	P	1	O
+12	get	get	V	1	O
+13	to	to	P	1	O
+14	Dubling	Dubling	R	1	I-Location
+15	city	city	N	1	I-Location
+16	center	center	N	1	I-Location
+17	from	from	P	1	O
+18	this	this	D	1	O
+19	hotel	hotel	N	1	O
+20	.	.	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	no	no	D	1	
-4	sauna	sauna	N	1	
-5	nor	nor	C	1	
-6	swimming	swim	V	1	
-7	pool	pool	N	1	
-8	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	no	no	D	1	O
+4	sauna	sauna	N	1	O
+5	nor	nor	C	1	O
+6	swimming	swim	V	1	O
+7	pool	pool	N	1	O
+8	.	.	O	1	O
 
-1	Flat	Flat	R	1	
-2	TV	TV	N	1	
-3	with	with	P	1	
-4	discovery	discovery	R	1	ne=Attraction
-5	but	but	C	1	
-6	no	no	D	1	
-7	HBO	HBO	R	1	ne=Attraction
-8	.	.	O	1	
+1	Flat	Flat	R	1	O
+2	TV	TV	N	1	O
+3	with	with	P	1	O
+4	discovery	discovery	R	1	I-Attraction
+5	but	but	C	1	O
+6	no	no	D	1	O
+7	HBO	HBO	R	1	I-Attraction
+8	.	.	O	1	O
 
-1	In	in	P	1	
-2	my	my	Q	1	
-3	room	room	N	1	
-4	mattress	mattress	N	1	
-5	was	be	V	1	
-6	ok	ok	N	1	
-7	and	and	C	1	
-8	it	it	Q	1	
-9	was	be	V	1	
-10	quiet	quiet	G	1	
-11	but	but	C	1	
-12	I	i	Q	1	
-13	had	have	V	1	
-14	room	room	N	1	
-15	with	with	P	1	
-16	view	view	N	1	
-17	on	on	P	1	
-18	wall	wall	N	1	
-19	:	:	O	1	
-20	)	)	O	1	
-21	Most	most	G	1	
-22	of	of	P	1	
-23	colleagues	colleague	N	1	
-24	were	be	V	1	
-25	complaining	complain	V	1	
-26	for	for	P	1	
-27	the	the	D	1	
-28	mattresses	mattress	N	1	
-29	being	be	V	1	
-30	old	old	G	1	
-31	and	and	C	1	
-32	some	some	D	1	
-33	for	for	P	1	
-34	noises	noise	N	1	
-35	from	from	P	1	
-36	outside	outside	G	1	
-37	(	(	O	1	
-38	train	train	N	1	
-39	in	in	P	1	
-40	particular	particular	G	1	
-41	)	)	O	1	
-42	.	.	O	1	
+1	In	in	P	1	O
+2	my	my	Q	1	O
+3	room	room	N	1	O
+4	mattress	mattress	N	1	O
+5	was	be	V	1	O
+6	ok	ok	N	1	O
+7	and	and	C	1	O
+8	it	it	Q	1	O
+9	was	be	V	1	O
+10	quiet	quiet	G	1	O
+11	but	but	C	1	O
+12	I	i	Q	1	O
+13	had	have	V	1	O
+14	room	room	N	1	O
+15	with	with	P	1	O
+16	view	view	N	1	O
+17	on	on	P	1	O
+18	wall	wall	N	1	O
+19	:	:	O	1	O
+20	)	)	O	1	O
+21	Most	most	G	1	O
+22	of	of	P	1	O
+23	colleagues	colleague	N	1	O
+24	were	be	V	1	O
+25	complaining	complain	V	1	O
+26	for	for	P	1	O
+27	the	the	D	1	O
+28	mattresses	mattress	N	1	O
+29	being	be	V	1	O
+30	old	old	G	1	O
+31	and	and	C	1	O
+32	some	some	D	1	O
+33	for	for	P	1	O
+34	noises	noise	N	1	O
+35	from	from	P	1	O
+36	outside	outside	G	1	O
+37	(	(	O	1	O
+38	train	train	N	1	O
+39	in	in	P	1	O
+40	particular	particular	G	1	O
+41	)	)	O	1	O
+42	.	.	O	1	O
 
-1	Service	service	N	1	
-2	on	on	P	1	
-3	the	the	D	1	
-4	other	other	G	1	
-5	hand	hand	N	1	
-6	was	be	V	1	
-7	very	very	A	1	
-8	good	good	G	1	
-9	and	and	C	1	
-10	the	the	D	1	
-11	stuff	stuff	N	1	
-12	is	be	V	1	
-13	quite	quite	A	1	
-14	international	international	G	1	
-15	:	:	O	1	
-16	)	)	O	1	
+1	Service	service	N	1	O
+2	on	on	P	1	O
+3	the	the	D	1	O
+4	other	other	G	1	O
+5	hand	hand	N	1	O
+6	was	be	V	1	O
+7	very	very	A	1	O
+8	good	good	G	1	O
+9	and	and	C	1	O
+10	the	the	D	1	O
+11	stuff	stuff	N	1	O
+12	is	be	V	1	O
+13	quite	quite	A	1	O
+14	international	international	G	1	O
+15	:	:	O	1	O
+16	)	)	O	1	O
 
-1	But	but	C	1	
-2	still	still	A	1	
-3	I	i	Q	1	
-4	had	have	V	1	
-5	to	to	P	1	
-6	ask	ask	V	1	
-7	for	for	P	1	
-8	the	the	D	1	
-9	welcome	welcome	G	1	
-10	drink	drink	N	1	
-11	voucher	voucher	N	1	
-12	.	.	O	1	
+1	But	but	C	1	O
+2	still	still	A	1	O
+3	I	i	Q	1	O
+4	had	have	V	1	O
+5	to	to	P	1	O
+6	ask	ask	V	1	O
+7	for	for	P	1	O
+8	the	the	D	1	O
+9	welcome	welcome	G	1	O
+10	drink	drink	N	1	O
+11	voucher	voucher	N	1	O
+12	.	.	O	1	O
 
-1	We	we	Q	1	
-2	've	've	V	1	
-3	got	get	V	1	
-4	special	special	G	1	
-5	price	price	N	1	
-6	of	of	P	1	
-7	160_EUR	160_EUR	R	1	ne=Money
-8	/	/	R	1	
-9	night	night	A	1	
-10	,	,	O	1	
-11	normal	normal	G	1	
-12	price	price	N	1	
-13	was	be	V	1	
-14	199_EUR	199_EUR	R	1	ne=Money
-15	/	/	R	1	
-16	night	night	N	1	
-17	including	include	V	1	
-18	breakfast	breakfast	N	1	
-19	.	.	O	1	
+1	We	we	Q	1	O
+2	've	've	V	1	O
+3	got	get	V	1	O
+4	special	special	G	1	O
+5	price	price	N	1	O
+6	of	of	P	1	O
+7	160	160	O	1	I-Money
+8	EUR	EUR	R	1	I-Money
+9	/	/	R	1	O
+10	night	night	A	1	O
+11	,	,	O	1	O
+12	normal	normal	G	1	O
+13	price	price	N	1	O
+14	was	be	V	1	O
+15	199	199	O	1	I-Money
+16	EUR	EUR	R	1	I-Money
+17	/	/	R	1	O
+18	night	night	N	1	O
+19	including	include	V	1	O
+20	breakfast	breakfast	N	1	O
+21	.	.	O	1	O
 
-1	I	i	Q	1	
-2	think	think	V	1	
-3	it	it	Q	1	
-4	's	have	V	1	
-5	too	too	A	1	
-6	much	much	A	1	
-7	for	for	P	1	
-8	what	what	Q	1	
-9	it	it	Q	1	
-10	offers	offer	V	1	
-11	.	.	O	1	
+1	I	i	Q	1	O
+2	think	think	V	1	O
+3	it	it	Q	1	O
+4	's	have	V	1	O
+5	too	too	A	1	O
+6	much	much	A	1	O
+7	for	for	P	1	O
+8	what	what	Q	1	O
+9	it	it	Q	1	O
+10	offers	offer	V	1	O
+11	.	.	O	1	O
 

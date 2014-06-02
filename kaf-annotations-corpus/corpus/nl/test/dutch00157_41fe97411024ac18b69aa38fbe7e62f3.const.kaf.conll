@@ -1,130 +1,130 @@
-1	Slechte	slecht	G	1	
-2	mentaliteit	mentaliteit	N	1	
-3	management	management	N	1	
+1	Slechte	slecht	G	1	O
+2	mentaliteit	mentaliteit	N	1	O
+3	management	management	N	1	O
 
-1	over	over	P	1	
-2	charging	charging	O	1	
-3	is	zijn	V	1	
-4	hier	hier	A	1	
-5	meer	meer	A	1	
-6	regel	regel	N	1	
-7	dan	dan	C	1	
-8	uitzondering	uitzondering	N	1	
-9	,	,	O	1	
-10	we	we	Q	1	
-11	waren	wezen|zijn	V	1	
-12	ziek	ziek	G	1	
-13	geworden	worden	V	1	
-14	(	(	O	1	
-15	alle	alle	D	1	
-16	vier	vier	O	1	
-17	duikes	duikes	O	1	
-18	)	)	O	1	
-19	door	door	P	1	
-20	zelf	zelf	Q	1	
-21	gevulde	gevuld	G	1	
-22	water	water	N	1	
-23	flessen	flessen	V	1	
-24	van	van	P	1	
-25	het	het	D	1	
-26	hotel	hotel	N	1	
-27	tijdens	tijdens	P	1	
-28	een	een	D	1	
-29	duiktrip	duiktrip	O	1	
-30	(	(	O	1	
-31	de	de	D	1	
-32	verzegelde	verzegelen	V	1	
-33	waren	waar|waren	N	1	
-34	op	op	P	1	
-35	)	)	O	1	
-36	maar	maar	C	1	
-37	we	we	Q	1	
-38	moesten	moeten	V	1	
-39	evengoed	evengoed	A	1	
-40	de	de	D	1	
-41	duiken	duik	N	1	
-42	van	van	P	1	
-43	de	de	D	1	
-44	volgende	volgend	G	1	
-45	dag	dag	N	1	
-46	betalen	betalen	V	1	
-47	,	,	O	1	
-48	terwijl	terwijl	C	1	
-49	wij	wij	Q	1	
-50	die	die	Q	1	
-51	niet	niet	A	1	
-52	konden	kunnen	V	1	
-53	maken.	maken	V	1	
-54	maken.	.	O	1	
-55	gasten	gast|gasten	N	1	
-56	die	die	Q	1	
-57	voor	voor	P	1	
-58	ons	ons	Q	1	
-59	vertrokken	vertrekken	V	1	
-60	werden	worden	V	1	
-61	gedreigd	dreigen	V	1	
-62	met	met	P	1	
-63	de	de	D	1	
-64	politie	politie	N	1	
-65	als	als	C	1	
-66	ze	ze	Q	1	
-67	een	een	D	1	
-68	duik	duik	N	1	
-69	die	die	Q	1	
-70	bij	bij	P	1	
-71	hun	hun	D	1	
-72	padi	padi	O	1	
-73	opleiding	opleiding	N	1	
-74	in	in	P	1	
-75	zat	zat	Q	1	
-76	niet	niet	A	1	
-77	wilden	willen	V	1	
-78	betalen	betalen	V	1	
-79	,	,	O	1	
-80	zielig	zielig	G	1	
-81	ontbijt	ontbijt	N	1	
-82	het	het	D	1	
-83	nu	nu	A	1	
-84	geboden	bieden|gebieden	V	1	
-85	eitje	ei	N	1	
-86	zat	zitten	V	1	
-87	er	er	Q	1	
-88	toen	toen	A	1	
-89	nog	nog	A	1	
-90	geen	geen	D	1	
-91	eens	eens	A	1	
-92	bij	bij	P	1	
-93	alleen	alleen	A	1	
-94	toast	toast	N	1	
-95	met	met	P	1	
-96	ananasjam	ananasjam	O	1	
-97	,	,	O	1	
-98	7	@card@	O	1	
-99	dagen	dag	N	1	
-100	lang.	lang	G	1	
-101	lang.	.	O	1	
-102	geen	geen	D	1	
-103	warm	warm	G	1	
-104	water	water	N	1	
-105	,	,	O	1	
-106	geen	geen	D	1	
-107	wifi	wifi	O	1	
-108	,	,	O	1	
-109	video	video	N	1	
-110	on	on	O	1	
-111	demand	demand	O	1	
-112	is	zijn	V	1	
-113	een	een	D	1	
-114	oude	oud	G	1	
-115	TV	tv	N	1	
-116	en	en	C	1	
-117	een	een	D	1	
-118	VCR	VCR	O	1	
-119	speler	speler	N	1	
-120	waar	waar	Q	1	
-121	apart	apart	G	1	
-122	voor	voor	A	1	
-123	moet	moeten	V	1	
-124	worden	worden	V	1	
-125	betaald	betalen	V	1	
+1	over	over	P	1	O
+2	charging	charging	O	1	O
+3	is	zijn	V	1	O
+4	hier	hier	A	1	O
+5	meer	meer	A	1	O
+6	regel	regel	N	1	O
+7	dan	dan	C	1	O
+8	uitzondering	uitzondering	N	1	O
+9	,	,	O	1	O
+10	we	we	Q	1	O
+11	waren	wezen|zijn	V	1	O
+12	ziek	ziek	G	1	O
+13	geworden	worden	V	1	O
+14	(	(	O	1	O
+15	alle	alle	D	1	O
+16	vier	vier	O	1	O
+17	duikes	duikes	O	1	O
+18	)	)	O	1	O
+19	door	door	P	1	O
+20	zelf	zelf	Q	1	O
+21	gevulde	gevuld	G	1	O
+22	water	water	N	1	O
+23	flessen	flessen	V	1	O
+24	van	van	P	1	O
+25	het	het	D	1	O
+26	hotel	hotel	N	1	O
+27	tijdens	tijdens	P	1	O
+28	een	een	D	1	O
+29	duiktrip	duiktrip	O	1	O
+30	(	(	O	1	O
+31	de	de	D	1	O
+32	verzegelde	verzegelen	V	1	O
+33	waren	waar|waren	N	1	O
+34	op	op	P	1	O
+35	)	)	O	1	O
+36	maar	maar	C	1	O
+37	we	we	Q	1	O
+38	moesten	moeten	V	1	O
+39	evengoed	evengoed	A	1	O
+40	de	de	D	1	O
+41	duiken	duik	N	1	O
+42	van	van	P	1	O
+43	de	de	D	1	O
+44	volgende	volgend	G	1	O
+45	dag	dag	N	1	O
+46	betalen	betalen	V	1	O
+47	,	,	O	1	O
+48	terwijl	terwijl	C	1	O
+49	wij	wij	Q	1	O
+50	die	die	Q	1	O
+51	niet	niet	A	1	O
+52	konden	kunnen	V	1	O
+53	maken.	maken	V	1	O
+54	maken.	.	O	1	O
+55	gasten	gast|gasten	N	1	O
+56	die	die	Q	1	O
+57	voor	voor	P	1	O
+58	ons	ons	Q	1	O
+59	vertrokken	vertrekken	V	1	O
+60	werden	worden	V	1	O
+61	gedreigd	dreigen	V	1	O
+62	met	met	P	1	O
+63	de	de	D	1	O
+64	politie	politie	N	1	O
+65	als	als	C	1	O
+66	ze	ze	Q	1	O
+67	een	een	D	1	O
+68	duik	duik	N	1	O
+69	die	die	Q	1	O
+70	bij	bij	P	1	O
+71	hun	hun	D	1	O
+72	padi	padi	O	1	O
+73	opleiding	opleiding	N	1	O
+74	in	in	P	1	O
+75	zat	zat	Q	1	O
+76	niet	niet	A	1	O
+77	wilden	willen	V	1	O
+78	betalen	betalen	V	1	O
+79	,	,	O	1	O
+80	zielig	zielig	G	1	O
+81	ontbijt	ontbijt	N	1	O
+82	het	het	D	1	O
+83	nu	nu	A	1	O
+84	geboden	bieden|gebieden	V	1	O
+85	eitje	ei	N	1	O
+86	zat	zitten	V	1	O
+87	er	er	Q	1	O
+88	toen	toen	A	1	O
+89	nog	nog	A	1	O
+90	geen	geen	D	1	O
+91	eens	eens	A	1	O
+92	bij	bij	P	1	O
+93	alleen	alleen	A	1	O
+94	toast	toast	N	1	O
+95	met	met	P	1	O
+96	ananasjam	ananasjam	O	1	O
+97	,	,	O	1	O
+98	7	@card@	O	1	O
+99	dagen	dag	N	1	O
+100	lang.	lang	G	1	O
+101	lang.	.	O	1	O
+102	geen	geen	D	1	O
+103	warm	warm	G	1	O
+104	water	water	N	1	O
+105	,	,	O	1	O
+106	geen	geen	D	1	O
+107	wifi	wifi	O	1	O
+108	,	,	O	1	O
+109	video	video	N	1	O
+110	on	on	O	1	O
+111	demand	demand	O	1	O
+112	is	zijn	V	1	O
+113	een	een	D	1	O
+114	oude	oud	G	1	O
+115	TV	tv	N	1	O
+116	en	en	C	1	O
+117	een	een	D	1	O
+118	VCR	VCR	O	1	O
+119	speler	speler	N	1	O
+120	waar	waar	Q	1	O
+121	apart	apart	G	1	O
+122	voor	voor	A	1	O
+123	moet	moeten	V	1	O
+124	worden	worden	V	1	O
+125	betaald	betalen	V	1	O
 

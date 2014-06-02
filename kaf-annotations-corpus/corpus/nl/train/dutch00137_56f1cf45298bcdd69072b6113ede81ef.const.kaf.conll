@@ -1,130 +1,142 @@
-1	Een	een	D	1	
-2	welcome	welcome	O	1	
-3	home	home	N	1	
-4	vakantie	vakantie	N	1	
+1	Een	een	D	1	O
+2	welcome	welcome	O	1	O
+3	home	home	N	1	O
+4	vakantie	vakantie	N	1	O
 
-1	dit	dit	D	1	
-2	jaar	jaar	N	1	
-3	voor	voor	P	1	
-4	de	de	D	1	
-5	derde	drie	O	1	
-6	keer	keer	N	1	
-7	geweldig	geweldig	A	1	
-8	we	we	Q	1	
-9	werden	worden	V	1	
-10	welkom	welkom	G	1	
-11	geheten	heten	V	1	
-12	door	door	P	1	
-13	karam_alaa_(	karam_alaa_(	R	1	ne=Person
-14	die	die	Q	1	
-15	heel	heel	A	1	
-16	veel	veel	A	1	
-17	voor	voor	P	1	
-18	ons	ons	Q	1	
-19	deed	doen	V	1	
-20	)	)	O	1	
-21	en	en	C	1	
-22	mohamed	mohamed	R	1	ne=Person
-23	we	we	Q	1	
-24	hebben	hebben	V	1	
-25	ook	ook	A	1	
-26	bij	bij	P	1	
-27	de	de	D	1	
-28	mexicaan	Mexicaan	N	1	
-29	gegeten	eten	V	1	
-30	heerkijk	heerkijk	O	1	
-31	werden	worden	V	1	
-32	goed	goed	N	1	
-33	geholpen	helpen	V	1	
-34	door	door	P	1	
-35	mohamed_sabry	mohamed_sabry	R	1	ne=Person
-36	Mr_rafik	Mr_rafik	R	1	ne=Person
-37	en	en	C	1	
-38	mr_mohamed	mr_mohamed	R	1	ne=Person
-39	liep	lopen	V	1	
-40	de	de	D	1	
-41	hele	heel	G	1	
-42	dag	dag	N	1	
-43	heen	heen	A	1	
-44	en	en	C	1	
-45	weer	weer	A	1	
-46	om	om	C	1	
-47	alles	alles	Q	1	
-48	goed	goed	G	1	
-49	te	te	O	1	
-50	beglijden	beglijden	O	1	
-51	Bij	bij	N	1	
-52	de	de	D	1	
-53	strandbar	strandbar	O	1	
-54	weken	week	N	1	
-55	de	de	D	1	
-56	mensen	mens	N	1	
-57	die	die	Q	1	
-58	savonds	savonds	O	1	
-59	in	in	P	1	
-60	het_asia_restaurant	het_asia_restaurant	R	1	ne=Restaurant
-61	(	(	O	1	
-62	heel	heel	A	1	
-63	lekker	lekker	A	1	
-64	)	)	O	1	
-65	werken	werken	V	1	
-66	de	de	D	1	
-67	mensen	mens	N	1	
-68	karam_hosny	karam_hosny	R	1	ne=Person
-69	mohamed_ismail_eslam	mohamed_ismail_eslam	R	1	ne=Person
-70	(	(	O	1	
-71	patrick_kluivert	patrick_kluivert	R	1	ne=Person
-72	)	)	O	1	
-73	en	en	C	1	
-74	ahmed	ahmed	R	1	ne=Person
-75	en	en	C	1	
-76	mohamed_handy	mohamed_handy	R	1	ne=Person
-77	zei	zeggen	V	1	
-78	weten	weten	V	1	
-79	niet	niet	A	1	
-80	wat	wat	Q	1	
-81	ze	ze	Q	1	
-82	voor	voor	P	1	
-83	je	je	Q	1	
-84	kunnen	kunnen	V	1	
-85	doen	doen	V	1	
-86	gamal	gamal	R	1	ne=Person
-87	werkt	werken	V	1	
-88	daar	daar	A	1	
-89	ook	ook	A	1	
-90	en	en	C	1	
-91	speciaal	speciaal	G	1	
-92	voor	voor	P	1	
-93	hem	hem	Q	1	
-94	TIK	TIK	O	1	
-95	M	M	O	1	
-96	AAN	AAN	O	1	
-97	OUWE	OUWE	O	1	
+1	dit	dit	D	1	O
+2	jaar	jaar	N	1	O
+3	voor	voor	P	1	O
+4	de	de	D	1	O
+5	derde	drie	O	1	O
+6	keer	keer	N	1	O
+7	geweldig	geweldig	A	1	O
+8	we	we	Q	1	O
+9	werden	worden	V	1	O
+10	welkom	welkom	G	1	O
+11	geheten	heten	V	1	O
+12	door	door	P	1	O
+13	karam	karam	O	1	I-Person
+14	alaa	alaa	O	1	I-Person
+15	(	(	O	1	I-Person
+16	die	die	Q	1	O
+17	heel	heel	A	1	O
+18	veel	veel	A	1	O
+19	voor	voor	P	1	O
+20	ons	ons	Q	1	O
+21	deed	doen	V	1	O
+22	)	)	O	1	O
+23	en	en	C	1	O
+24	mohamed	mohamed	R	1	I-Person
+25	we	we	Q	1	O
+26	hebben	hebben	V	1	O
+27	ook	ook	A	1	O
+28	bij	bij	P	1	O
+29	de	de	D	1	O
+30	mexicaan	Mexicaan	N	1	O
+31	gegeten	eten	V	1	O
+32	heerkijk	heerkijk	O	1	O
+33	werden	worden	V	1	O
+34	goed	goed	N	1	O
+35	geholpen	helpen	V	1	O
+36	door	door	P	1	O
+37	mohamed	mohamed	O	1	I-Person
+38	sabry	sabry	O	1	I-Person
+39	Mr	Mr	O	1	B-Person
+40	rafik	rafik	O	1	I-Person
+41	en	en	C	1	O
+42	mr	mr	O	1	I-Person
+43	mohamed	mohamed	O	1	I-Person
+44	liep	lopen	V	1	O
+45	de	de	D	1	O
+46	hele	heel	G	1	O
+47	dag	dag	N	1	O
+48	heen	heen	A	1	O
+49	en	en	C	1	O
+50	weer	weer	A	1	O
+51	om	om	C	1	O
+52	alles	alles	Q	1	O
+53	goed	goed	G	1	O
+54	te	te	O	1	O
+55	beglijden	beglijden	O	1	O
+56	Bij	bij	N	1	O
+57	de	de	D	1	O
+58	strandbar	strandbar	O	1	O
+59	weken	week	N	1	O
+60	de	de	D	1	O
+61	mensen	mens	N	1	O
+62	die	die	Q	1	O
+63	savonds	savonds	O	1	O
+64	in	in	P	1	O
+65	het	het	D	1	I-Restaurant
+66	asia	asia	O	1	I-Restaurant
+67	restaurant	restaurant	N	1	I-Restaurant
+68	(	(	O	1	O
+69	heel	heel	A	1	O
+70	lekker	lekker	A	1	O
+71	)	)	O	1	O
+72	werken	werken	V	1	O
+73	de	de	D	1	O
+74	mensen	mens	N	1	O
+75	karam	karam	O	1	I-Person
+76	hosny	hosny	O	1	I-Person
+77	mohamed	mohamed	O	1	B-Person
+78	ismail	ismail	O	1	I-Person
+79	eslam	eslam	O	1	I-Person
+80	(	(	O	1	O
+81	patrick	patrick	O	1	I-Person
+82	kluivert	kluivert	O	1	I-Person
+83	)	)	O	1	O
+84	en	en	C	1	O
+85	ahmed	ahmed	R	1	I-Person
+86	en	en	C	1	O
+87	mohamed	mohamed	O	1	I-Person
+88	handy	handy	O	1	I-Person
+89	zei	zeggen	V	1	O
+90	weten	weten	V	1	O
+91	niet	niet	A	1	O
+92	wat	wat	Q	1	O
+93	ze	ze	Q	1	O
+94	voor	voor	P	1	O
+95	je	je	Q	1	O
+96	kunnen	kunnen	V	1	O
+97	doen	doen	V	1	O
+98	gamal	gamal	R	1	I-Person
+99	werkt	werken	V	1	O
+100	daar	daar	A	1	O
+101	ook	ook	A	1	O
+102	en	en	C	1	O
+103	speciaal	speciaal	G	1	O
+104	voor	voor	P	1	O
+105	hem	hem	Q	1	O
+106	TIK	TIK	O	1	O
+107	M	M	O	1	O
+108	AAN	AAN	O	1	O
+109	OUWE	OUWE	O	1	O
 
-1	Aan	aan	P	1	
-2	het	het	D	1	
-3	strand	strand	N	1	
-4	wers	wers	O	1	
-5	elke	elk	D	1	
-6	dag	dag	N	1	
-7	ons	ons	D	1	
-8	bedje	bed	N	1	
-9	opgemaakt	opmaken	V	1	
-10	nadat	nadat	C	1	
-11	we	we	Q	1	
-12	de	de	D	1	
-13	handdoeken	handdoek	N	1	
-14	hadden	hebben	V	1	
-15	opgehaald	ophalen	V	1	
-16	door	door	P	1	
-17	achmed	achmed	R	1	ne=Person
-18	en	en	C	1	
-19	mohamed	mohamed	R	1	ne=Person
+1	Aan	aan	P	1	O
+2	het	het	D	1	O
+3	strand	strand	N	1	O
+4	wers	wers	O	1	O
+5	elke	elk	D	1	O
+6	dag	dag	N	1	O
+7	ons	ons	D	1	O
+8	bedje	bed	N	1	O
+9	opgemaakt	opmaken	V	1	O
+10	nadat	nadat	C	1	O
+11	we	we	Q	1	O
+12	de	de	D	1	O
+13	handdoeken	handdoek	N	1	O
+14	hadden	hebben	V	1	O
+15	opgehaald	ophalen	V	1	O
+16	door	door	P	1	O
+17	achmed	achmed	R	1	I-Person
+18	en	en	C	1	O
+19	mohamed	mohamed	R	1	I-Person
 
-1	Volgend	volgend	G	1	
-2	jaar	jaar	N	1	
-3	gaan	gaan	V	1	
-4	we	we	Q	1	
-5	zeker	zeker	G	1	
-6	weer	weer	A	1	
+1	Volgend	volgend	G	1	O
+2	jaar	jaar	N	1	O
+3	gaan	gaan	V	1	O
+4	we	we	Q	1	O
+5	zeker	zeker	G	1	O
+6	weer	weer	A	1	O
 

@@ -1,171 +1,171 @@
-1	Hôtel	hôtel	N	1	
-2	à	à	P	1	
-3	éviter	éviter	V	1	
-4	,	,	O	1	
-5	problème	problème	N	1	
-6	d'	d'	P	1	
-7	insécurité	insécurité	N	1	
+1	Hôtel	hôtel	N	1	O
+2	à	à	P	1	O
+3	éviter	éviter	V	1	O
+4	,	,	O	1	O
+5	problème	problème	N	1	O
+6	d'	d'	P	1	O
+7	insécurité	insécurité	N	1	O
 
-1	Tarif	tarif	N	1	
-2	assez	assez	G	1	
-3	prohibitif	prohibitif	G	1	
-4	pour	pour	P	1	
-5	les	le	D	1	
-6	prestations	prestation	N	1	
-7	sur	sur	P	1	
-8	place	place	N	1	
-9	,	,	O	1	
-10	tout	tout	G	1	
-11	est	être	V	1	
-12	en	en	P	1	
-13	supplément	supplément	N	1	
-14	et	et	C	1	
-15	à	à	P	1	
-16	prix	prix	N	1	
-17	exhorbitant	exhorbitant	G	1	
-18	,	,	O	1	
-19	brunch	brunch	G	1	
-20	peu	peu	G	1	
-21	varié	varier	V	1	
-22	à	à	P	1	
-23	40	40	D	1	
-24	$	dollar	N	1	
-25	par	par	P	1	
-26	personne	personne	N	1	
-27	,	,	O	1	
-28	parking	parking	N	1	
-29	à	à	P	1	
-30	30	30	D	1	
-31	$	dollar	N	1	
-32	par	par	P	1	
-33	nuit	nuit	N	1	
-34	,	,	O	1	
-35	location	location	N	1	
-36	de	de	P	1	
-37	transat	transat	N	1	
-38	10	10	G	1	
-39	$	$	V	1	
-40	par	par	P	1	
-41	jour	jour	N	1	
-42	,	,	O	1	
-43	etc	etc	G	1	
-44	...	...	O	1	
+1	Tarif	tarif	N	1	O
+2	assez	assez	G	1	O
+3	prohibitif	prohibitif	G	1	O
+4	pour	pour	P	1	O
+5	les	le	D	1	O
+6	prestations	prestation	N	1	O
+7	sur	sur	P	1	O
+8	place	place	N	1	O
+9	,	,	O	1	O
+10	tout	tout	G	1	O
+11	est	être	V	1	O
+12	en	en	P	1	O
+13	supplément	supplément	N	1	O
+14	et	et	C	1	O
+15	à	à	P	1	O
+16	prix	prix	N	1	O
+17	exhorbitant	exhorbitant	G	1	O
+18	,	,	O	1	O
+19	brunch	brunch	G	1	O
+20	peu	peu	G	1	O
+21	varié	varier	V	1	O
+22	à	à	P	1	O
+23	40	40	D	1	O
+24	$	dollar	N	1	O
+25	par	par	P	1	O
+26	personne	personne	N	1	O
+27	,	,	O	1	O
+28	parking	parking	N	1	O
+29	à	à	P	1	O
+30	30	30	D	1	O
+31	$	dollar	N	1	O
+32	par	par	P	1	O
+33	nuit	nuit	N	1	O
+34	,	,	O	1	O
+35	location	location	N	1	O
+36	de	de	P	1	O
+37	transat	transat	N	1	O
+38	10	10	G	1	O
+39	$	$	V	1	O
+40	par	par	P	1	O
+41	jour	jour	N	1	O
+42	,	,	O	1	O
+43	etc	etc	G	1	O
+44	...	...	O	1	O
 
-1	Chambre	chambre	N	1	
-2	:	:	O	1	
-3	literie	literie	N	1	
-4	très	très	G	1	
-5	très	très	G	1	
-6	molle	mou	G	1	
-7	,	,	O	1	
-8	moquette	moquetter	V	1	
-9	tâchée	tâcher	V	1	
-10	.	.	O	1	
+1	Chambre	chambre	N	1	O
+2	:	:	O	1	O
+3	literie	literie	N	1	O
+4	très	très	G	1	O
+5	très	très	G	1	O
+6	molle	mou	G	1	O
+7	,	,	O	1	O
+8	moquette	moquetter	V	1	O
+9	tâchée	tâcher	V	1	O
+10	.	.	O	1	O
 
-1	gros	gros	G	1	
-2	sentiment	sentiment	N	1	
-3	d'	d'	P	1	
-4	insécurité	insécurité	N	1	
-5	dans	dans	P	1	
-6	cet	ce	D	1	
-7	établissement	établissement	N	1	
-8	.	.	O	1	
+1	gros	gros	G	1	O
+2	sentiment	sentiment	N	1	O
+3	d'	d'	P	1	O
+4	insécurité	insécurité	N	1	O
+5	dans	dans	P	1	O
+6	cet	ce	D	1	O
+7	établissement	établissement	N	1	O
+8	.	.	O	1	O
 
-1	En	En	P	1	
-2	plus	plus	G	1	
-3	le	le	D	1	
-4	personnel	personnel	N	1	
-5	payé	payer	V	1	
-6	pour	pour	P	1	
-7	surveiller	surveiller	V	1	
-8	à	à	P	1	
-9	la	le	D	1	
-10	piscine	piscine	N	1	
-11	est	être	V	1	
-12	invisible	invisible	G	1	
-13	.	.	O	1	
+1	En	En	P	1	O
+2	plus	plus	G	1	O
+3	le	le	D	1	O
+4	personnel	personnel	N	1	O
+5	payé	payer	V	1	O
+6	pour	pour	P	1	O
+7	surveiller	surveiller	V	1	O
+8	à	à	P	1	O
+9	la	le	D	1	O
+10	piscine	piscine	N	1	O
+11	est	être	V	1	O
+12	invisible	invisible	G	1	O
+13	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	nous	lui	Q	1	
-3	sommes	sommer	V	1	
-4	fait	faire	V	1	
-5	dérober	dérober	V	1	
-6	la	le	D	1	
-7	carte	carte	N	1	
-8	de	de	P	1	
-9	notre	son	D	1	
-10	chambre	chambre	N	1	
-11	à	à	P	1	
-12	la	le	D	1	
-13	piscine	piscine	N	1	
-14	et	et	C	1	
-15	voler	voler___fly__1	V	1	
-16	tout	tout	D	1	
-17	notre	son	D	1	
-18	argent	argent	N	1	
-19	ainsi	ainsi	G	1	
-20	que	que	C	1	
-21	notre	son	D	1	
-22	matériel	matériel	N	1	
-23	électronique	électronique	G	1	
-24	pendant	pendant	N	1	
-25	que	que	C	1	
-26	nous	lui	Q	1	
-27	nous	lui	Q	1	
-28	pensions	pension	N	1	
-29	en	en	P	1	
-30	toute	tout	G	1	
-31	sécurité	sécurité	N	1	
-32	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	nous	lui	Q	1	O
+3	sommes	sommer	V	1	O
+4	fait	faire	V	1	O
+5	dérober	dérober	V	1	O
+6	la	le	D	1	O
+7	carte	carte	N	1	O
+8	de	de	P	1	O
+9	notre	son	D	1	O
+10	chambre	chambre	N	1	O
+11	à	à	P	1	O
+12	la	le	D	1	O
+13	piscine	piscine	N	1	O
+14	et	et	C	1	O
+15	voler	voler___fly__1	V	1	O
+16	tout	tout	D	1	O
+17	notre	son	D	1	O
+18	argent	argent	N	1	O
+19	ainsi	ainsi	G	1	O
+20	que	que	C	1	O
+21	notre	son	D	1	O
+22	matériel	matériel	N	1	O
+23	électronique	électronique	G	1	O
+24	pendant	pendant	N	1	O
+25	que	que	C	1	O
+26	nous	lui	Q	1	O
+27	nous	lui	Q	1	O
+28	pensions	pension	N	1	O
+29	en	en	P	1	O
+30	toute	tout	G	1	O
+31	sécurité	sécurité	N	1	O
+32	.	.	O	1	O
 
-1	Suite	suite	N	1	
-2	à	à	P	1	
-3	ce	ce	D	1	
-4	vol	vol	N	1	
-5	la	le	D	1	
-6	réaction	réaction	N	1	
-7	du	du	P	1	
-8	personnel	personnel	N	1	
-9	et	et	C	1	
-10	des	des	P	1	
-11	managers	manager	N	1	
-12	a	avoir	V	1	
-13	été	être	V	1	
-14	inexistante	inexistant	G	1	
-15	voir	voir	C	1	
-16	antipathique	antipathique	G	1	
-17	car	car	C	1	
-18	cela	cela	P	1	
-19	faisait	faire	V	1	
-20	une	un	D	1	
-21	mauvaise	mauvais	G	1	
-22	publicité	publicité	N	1	
-23	à	à	P	1	
-24	l'	le	D	1	
-25	accueil	accueil	N	1	
-26	de	de	P	1	
-27	l'	le	D	1	
-28	établissement	établissement	N	1	
-29	.	.	O	1	
+1	Suite	suite	N	1	O
+2	à	à	P	1	O
+3	ce	ce	D	1	O
+4	vol	vol	N	1	O
+5	la	le	D	1	O
+6	réaction	réaction	N	1	O
+7	du	du	P	1	O
+8	personnel	personnel	N	1	O
+9	et	et	C	1	O
+10	des	des	P	1	O
+11	managers	manager	N	1	O
+12	a	avoir	V	1	O
+13	été	être	V	1	O
+14	inexistante	inexistant	G	1	O
+15	voir	voir	C	1	O
+16	antipathique	antipathique	G	1	O
+17	car	car	C	1	O
+18	cela	cela	P	1	O
+19	faisait	faire	V	1	O
+20	une	un	D	1	O
+21	mauvaise	mauvais	G	1	O
+22	publicité	publicité	N	1	O
+23	à	à	P	1	O
+24	l'	le	D	1	O
+25	accueil	accueil	N	1	O
+26	de	de	P	1	O
+27	l'	le	D	1	O
+28	établissement	établissement	N	1	O
+29	.	.	O	1	O
 
-1	Aucun	Aucun	P	1	
-2	dédommagement	dédommagement	N	1	
-3	ni	ni	C	1	
-4	geste	geste	N	1	
-5	de	de	P	1	
-6	la	le	D	1	
-7	part	part	N	1	
-8	de	de	P	1	
-9	l'	le	D	1	
-10	hotel	hotel	N	1	
-11	.	.	O	1	
+1	Aucun	Aucun	P	1	O
+2	dédommagement	dédommagement	N	1	O
+3	ni	ni	C	1	O
+4	geste	geste	N	1	O
+5	de	de	P	1	O
+6	la	le	D	1	O
+7	part	part	N	1	O
+8	de	de	P	1	O
+9	l'	le	D	1	O
+10	hotel	hotel	N	1	O
+11	.	.	O	1	O
 
-1	Une	un	D	1	
-2	honte	honte	N	1	
-3	pour	pour	P	1	
-4	un	un	D	1	
-5	hotel	hotel	N	1	
-6	4	4	G	1	
-7	étoiles	étoile	N	1	
-8	.	.	O	1	
+1	Une	un	D	1	O
+2	honte	honte	N	1	O
+3	pour	pour	P	1	O
+4	un	un	D	1	O
+5	hotel	hotel	N	1	O
+6	4	4	G	1	O
+7	étoiles	étoile	N	1	O
+8	.	.	O	1	O
 

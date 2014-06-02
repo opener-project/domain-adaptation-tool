@@ -1,170 +1,174 @@
-1	Segunda	Segunda	R	1	
-2	estancia	estancia	N	1	
-3	....	....	O	1	
-4	y	y	G	1	
-5	cada	cada	N	1	
-6	vez	vez	N	1	
-7	mejor	mejor	G	1	
+1	Segunda	Segunda	R	1	O
+2	estancia	estancia	N	1	O
+3	....	....	O	1	O
+4	y	y	G	1	O
+5	cada	cada	N	1	O
+6	vez	vez	N	1	O
+7	mejor	mejor	G	1	O
 
-1	Es	es	O	1	
-2	la	la	O	1	
-3	segunda	segunda	O	1	
-4	vez	vez	O	1	
-5	que	que	O	1	
-6	nos	nos	O	1	
-7	quedamos	quedamos	O	1	
-8	en	en	O	1	
-9	este	este	O	1	
-10	hotel	hotel	N	1	
-11	.	.	O	1	
+1	Es	es	O	1	O
+2	la	la	O	1	O
+3	segunda	segunda	O	1	O
+4	vez	vez	O	1	O
+5	que	que	O	1	O
+6	nos	nos	O	1	O
+7	quedamos	quedamos	O	1	O
+8	en	en	O	1	O
+9	este	este	O	1	O
+10	hotel	hotel	N	1	O
+11	.	.	O	1	O
 
-1	Esta	Esta	R	1	
-2	vez	vez	N	1	
-3	sin	sin	N	1	
-4	niños	niños	N	1	
-5	.	.	O	1	
+1	Esta	Esta	R	1	O
+2	vez	vez	N	1	O
+3	sin	sin	N	1	O
+4	niños	niños	N	1	O
+5	.	.	O	1	O
 
-1	Impresionados	Impresionados	R	1	
-2	con	con	A	1	
-3	las	las	V	1	
-4	mejoras	mejoras	N	1	
-5	que	que	V	1	
-6	se	se	N	1	
-7	han	han	P	1	
-8	hecho	hecho	G	1	
-9	de	de	P	1	
-10	un	un	G	1	
-11	año	año	G	1	
-12	para	para	N	1	
-13	otro	otro	N	1	
-14	.	.	O	1	
+1	Impresionados	Impresionados	R	1	O
+2	con	con	A	1	O
+3	las	las	V	1	O
+4	mejoras	mejoras	N	1	O
+5	que	que	V	1	O
+6	se	se	N	1	O
+7	han	han	P	1	O
+8	hecho	hecho	G	1	O
+9	de	de	P	1	O
+10	un	un	G	1	O
+11	año	año	G	1	O
+12	para	para	N	1	O
+13	otro	otro	N	1	O
+14	.	.	O	1	O
 
-1	El	El	R	1	
-2	año	año	N	1	
-3	pasado	pasado	N	1	
-4	vinimos	vinimos	N	1	
-5	con	con	G	1	
-6	servicio	servicio	N	1	
-7	Privilege	Privilege	R	1	
-8	y	y	G	1	
-9	ahora	ahora	N	1	
-10	también	también	N	1	
-11	.	.	O	1	
+1	El	El	R	1	O
+2	año	año	N	1	O
+3	pasado	pasado	N	1	O
+4	vinimos	vinimos	N	1	O
+5	con	con	G	1	O
+6	servicio	servicio	N	1	O
+7	Privilege	Privilege	R	1	O
+8	y	y	G	1	O
+9	ahora	ahora	N	1	O
+10	también	también	N	1	O
+11	.	.	O	1	O
 
-1	El	El	R	1	
-2	nuevo	nuevo	O	1	
-3	desayuno	desayuno	O	1	
-4	a	a	O	1	
-5	la	la	O	1	
-6	carta	carta	O	1	
-7	superó	superó	O	1	
-8	las	las	O	1	
-9	espectativas	espectativas	O	1	
-10	y	y	G	1	
-11	encima	encima	O	1	
-12	se	se	O	1	
-13	puede	puede	O	1	
-14	desayunar	desayunar	O	1	
-15	al	al	G	1	
-16	aire	aire	N	1	
-17	libre	libre	N	1	
-18	ya	ya	N	1	
-19	que	que	V	1	
-20	han	han	G	1	
-21	puesto	puesto	P	1	
-22	una	una	G	1	
-23	terraza	terraza	N	1	
-24	en	en	P	1	
-25	la	la	D	1	
-26	salida	salida	N	1	
-27	del	del	O	1	
-28	Restaurante	Restaurante	R	1	
-29	.	.	O	1	
+1	El	El	R	1	O
+2	nuevo	nuevo	O	1	O
+3	desayuno	desayuno	O	1	O
+4	a	a	O	1	O
+5	la	la	O	1	O
+6	carta	carta	O	1	O
+7	superó	superó	O	1	O
+8	las	las	O	1	O
+9	espectativas	espectativas	O	1	O
+10	y	y	G	1	O
+11	encima	encima	O	1	O
+12	se	se	O	1	O
+13	puede	puede	O	1	O
+14	desayunar	desayunar	O	1	O
+15	al	al	G	1	O
+16	aire	aire	N	1	O
+17	libre	libre	N	1	O
+18	ya	ya	N	1	O
+19	que	que	V	1	O
+20	han	han	G	1	O
+21	puesto	puesto	P	1	O
+22	una	una	G	1	O
+23	terraza	terraza	N	1	O
+24	en	en	P	1	O
+25	la	la	D	1	O
+26	salida	salida	N	1	O
+27	del	del	O	1	O
+28	Restaurante	Restaurante	R	1	O
+29	.	.	O	1	O
 
-1	El	El	R	1	
-2	buffet	buffet	N	1	
-3	como	como	N	1	
-4	siempre	siempre	G	1	
-5	impresionante	impresionante	N	1	
-6	.	.	O	1	
+1	El	El	R	1	O
+2	buffet	buffet	N	1	O
+3	como	como	N	1	O
+4	siempre	siempre	G	1	O
+5	impresionante	impresionante	N	1	O
+6	.	.	O	1	O
 
-1	Comida	Comida	R	1	
-2	abundante	abundante	V	1	
-3	y	y	G	1	
-4	para	para	N	1	
-5	todos	todos	N	1	
-6	los	los	N	1	
-7	gustos	gustos	N	1	
-8	.	.	O	1	
+1	Comida	Comida	R	1	O
+2	abundante	abundante	V	1	O
+3	y	y	G	1	O
+4	para	para	N	1	O
+5	todos	todos	N	1	O
+6	los	los	N	1	O
+7	gustos	gustos	N	1	O
+8	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	mejor	mejor	O	1	
-3	....	....	O	1	
-4	la	la	O	1	
-5	fuente	fuente	O	1	
-6	de	de	O	1	
-7	chocolate	chocolate	N	1	
-8	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	mejor	mejor	O	1	O
+3	....	....	O	1	O
+4	la	la	O	1	O
+5	fuente	fuente	O	1	O
+6	de	de	O	1	O
+7	chocolate	chocolate	N	1	O
+8	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	se	se	N	1	
-4	acordaba	acordaba	O	1	
-5	de	de	O	1	
-6	nosotros	nosotros	O	1	
-7	y	y	G	1	
-8	el	el	N	1	
-9	trato	trato	N	1	
-10	ha	ha	N	1	
-11	sido	sido	N	1	
-12	más	más	N	1	
-13	que	que	V	1	
-14	excelente	excelente	N	1	
-15	.	.	O	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	se	se	N	1	O
+4	acordaba	acordaba	O	1	O
+5	de	de	O	1	O
+6	nosotros	nosotros	O	1	O
+7	y	y	G	1	O
+8	el	el	N	1	O
+9	trato	trato	N	1	O
+10	ha	ha	N	1	O
+11	sido	sido	N	1	O
+12	más	más	N	1	O
+13	que	que	V	1	O
+14	excelente	excelente	N	1	O
+15	.	.	O	1	O
 
-1	Para	Para	R	1	
-2	colmo	colmo	N	1	
-3	coincidimos	coincidimos	N	1	
-4	con	con	A	1	
-5	la_fiesta_de_Halloween	la_fiesta_de_Halloween	R	1	ne=Attraction
-6	donde	donde	N	1	
-7	todo	todo	N	1	
-8	el	el	N	1	
-9	personal	personal	G	1	
-10	estaba	estaba	N	1	
-11	disfrazado	disfrazado	N	1	
-12	de	de	P	1	
-13	muertos	muertos	N	1	
-14	vivientes	vivientes	V	1	
-15	,	,	O	1	
-16	muy	muy	G	1	
-17	reales	real	N	1	
-18	y	y	G	1	
-19	una	una	G	1	
-20	decoración	decoración	N	1	
-21	en	en	P	1	
-22	todo	todo	G	1	
-23	el	el	N	1	
-24	hotel	hotel	N	1	
-25	impresionante	impresionante	N	1	
-26	.	.	O	1	
+1	Para	Para	R	1	O
+2	colmo	colmo	N	1	O
+3	coincidimos	coincidimos	N	1	O
+4	con	con	A	1	O
+5	la	la	D	1	I-Attraction
+6	fiesta	fiesta	G	1	I-Attraction
+7	de	de	O	1	I-Attraction
+8	Halloween	Halloween	R	1	I-Attraction
+9	donde	donde	N	1	O
+10	todo	todo	N	1	O
+11	el	el	N	1	O
+12	personal	personal	G	1	O
+13	estaba	estaba	N	1	O
+14	disfrazado	disfrazado	N	1	O
+15	de	de	P	1	O
+16	muertos	muertos	N	1	O
+17	vivientes	vivientes	V	1	O
+18	,	,	O	1	O
+19	muy	muy	G	1	O
+20	reales	real	N	1	O
+21	y	y	G	1	O
+22	una	una	G	1	O
+23	decoración	decoración	N	1	O
+24	en	en	P	1	O
+25	todo	todo	G	1	O
+26	el	el	N	1	O
+27	hotel	hotel	N	1	O
+28	impresionante	impresionante	N	1	O
+29	.	.	O	1	O
 
-1	Volveremos	Volveremos	R	1	
-2	con	con	A	1	
-3	toda	toda	N	1	
-4	seguridad	seguridad	N	1	
-5	el	el	N	1	
-6	año	año	P	1	
-7	que	que	G	1	
-8	viene	viene	N	1	
-9	.	.	O	1	
+1	Volveremos	Volveremos	R	1	O
+2	con	con	A	1	O
+3	toda	toda	N	1	O
+4	seguridad	seguridad	N	1	O
+5	el	el	N	1	O
+6	año	año	P	1	O
+7	que	que	G	1	O
+8	viene	viene	N	1	O
+9	.	.	O	1	O
 
-1	Muchas	muchas	A	1	
-2	gracias	gracias	V	1	
-3	H10_Conquistador	H10_Conquistador	R	1	ne=Hotel
-4	por	por	N	1	
-5	todos	todos	N	1	
-6	estos	estos	N	1	
-7	maravillosos	maravillosos	N	1	
-8	momentos	momento	N	1	
+1	Muchas	muchas	A	1	O
+2	gracias	gracias	V	1	O
+3	H10	H10	O	1	I-Hotel
+4	Conquistador	Conquistador	R	1	I-Hotel
+5	por	por	N	1	O
+6	todos	todos	N	1	O
+7	estos	estos	N	1	O
+8	maravillosos	maravillosos	N	1	O
+9	momentos	momento	N	1	O
 

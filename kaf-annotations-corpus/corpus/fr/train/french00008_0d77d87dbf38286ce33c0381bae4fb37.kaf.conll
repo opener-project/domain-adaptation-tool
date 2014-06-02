@@ -1,100 +1,100 @@
-1	Camping	camping	N	1	
-2	agréable	agréable	G	1	
+1	Camping	camping	N	1	O
+2	agréable	agréable	G	1	O
 
-1	Mobil	Mobil	N	1	
-2	home	home	O	1	
-3	propre	propre	G	1	
-4	´	´	N	1	
-5	bien	bien	G	1	
-6	équipé	équiper	V	1	
-7	,	,	O	1	
-8	dommage	dommage	N	1	
-9	que	que	C	1	
-10	les	le	D	1	
-11	activités	activité	N	1	
-12	extra	extra	G	1	
-13	camping	camping	O	1	
-14	soient	être	V	1	
-15	si	si	G	1	
-16	chère	cher	G	1	
-17	pour	pour	P	1	
-18	une	un	D	1	
-19	famille	famille	N	1	
-20	nombreuses	nombreux	G	1	
-21	,	,	O	1	
-22	bien	bien	G	1	
-23	situé	situer	V	1	
-24	,	,	O	1	
-25	proche	proche	G	1	
-26	centre	centre	N	1	
-27	ville	ville	N	1	
-28	et	et	C	1	
-29	plage	plage	N	1	
-30	,	,	O	1	
-31	restaurants	restaurant	N	1	
-32	en	en	P	1	
-33	centre	centre	N	1	
-34	ville	ville	N	1	
-35	pas	pas	G	1	
-36	cher	cher	G	1	
-37	et	et	C	1	
-38	très	très	G	1	
-39	bon	bon	G	1	
-40	,	,	O	1	
-41	supermarché	supermarché	N	1	
-42	discount	discount	G	1	
-43	tres	tres	G	1	
-44	proche	proche	G	1	
-45	du	du	D	1	
-46	camping	camping	N	1	
-47	,	,	O	1	
-48	toutes	tout	G	1	
-49	commodité	commodité	V	1	
-50	,	,	O	1	
-51	seul	seul	G	1	
-52	point	point	N	1	
-53	noir	noir	G	1	
-54	le	le	D	1	
-55	wifi	wifi	N	1	
-56	payant	payant	G	1	
-57	et	et	C	1	
-58	trop	trop	G	1	
-59	cher	cher	G	1	
-60	,	,	O	1	
-61	pourtant	pourtant	G	1	
-62	borne	borner	V	1	
-63	gratuite	gratuit	G	1	
-64	en	en	P	1	
-65	dehors	dehors	G	1	
-66	du	du	D	1	
-67	camping	camping	N	1	
-68	.	.	O	1	
+1	Mobil	Mobil	N	1	O
+2	home	home	O	1	O
+3	propre	propre	G	1	O
+4	´	´	N	1	O
+5	bien	bien	G	1	O
+6	équipé	équiper	V	1	O
+7	,	,	O	1	O
+8	dommage	dommage	N	1	O
+9	que	que	C	1	O
+10	les	le	D	1	O
+11	activités	activité	N	1	O
+12	extra	extra	G	1	O
+13	camping	camping	O	1	O
+14	soient	être	V	1	O
+15	si	si	G	1	O
+16	chère	cher	G	1	O
+17	pour	pour	P	1	O
+18	une	un	D	1	O
+19	famille	famille	N	1	O
+20	nombreuses	nombreux	G	1	O
+21	,	,	O	1	O
+22	bien	bien	G	1	O
+23	situé	situer	V	1	O
+24	,	,	O	1	O
+25	proche	proche	G	1	O
+26	centre	centre	N	1	O
+27	ville	ville	N	1	O
+28	et	et	C	1	O
+29	plage	plage	N	1	O
+30	,	,	O	1	O
+31	restaurants	restaurant	N	1	O
+32	en	en	P	1	O
+33	centre	centre	N	1	O
+34	ville	ville	N	1	O
+35	pas	pas	G	1	O
+36	cher	cher	G	1	O
+37	et	et	C	1	O
+38	très	très	G	1	O
+39	bon	bon	G	1	O
+40	,	,	O	1	O
+41	supermarché	supermarché	N	1	O
+42	discount	discount	G	1	O
+43	tres	tres	G	1	O
+44	proche	proche	G	1	O
+45	du	du	D	1	O
+46	camping	camping	N	1	O
+47	,	,	O	1	O
+48	toutes	tout	G	1	O
+49	commodité	commodité	V	1	O
+50	,	,	O	1	O
+51	seul	seul	G	1	O
+52	point	point	N	1	O
+53	noir	noir	G	1	O
+54	le	le	D	1	O
+55	wifi	wifi	N	1	O
+56	payant	payant	G	1	O
+57	et	et	C	1	O
+58	trop	trop	G	1	O
+59	cher	cher	G	1	O
+60	,	,	O	1	O
+61	pourtant	pourtant	G	1	O
+62	borne	borner	V	1	O
+63	gratuite	gratuit	G	1	O
+64	en	en	P	1	O
+65	dehors	dehors	G	1	O
+66	du	du	D	1	O
+67	camping	camping	N	1	O
+68	.	.	O	1	O
 
-1	Comptons	compter	V	1	
-2	revenir	revenir	V	1	
-3	cette	ce	D	1	
-4	année	année	N	1	
-5	.	.	O	1	
+1	Comptons	compter	V	1	O
+2	revenir	revenir	V	1	O
+3	cette	ce	D	1	O
+4	année	année	N	1	O
+5	.	.	O	1	O
 
-1	Équipe	équipe	N	1	
-2	d	d	V	1	
-3	animation	animation	N	1	
-4	très	très	G	1	
-5	gentil	gentil	G	1	
-6	,	,	O	1	
-7	d'	d'	P	1	
-8	amis	ami	N	1	
-9	il	il	Q	1	
-10	est	être	V	1	
-11	vrai	vrai	G	1	
-12	que	que	C	1	
-13	le	le	D	1	
-14	parking	parking	N	1	
-15	extérieur	extérieur	G	1	
-16	trop	trop	G	1	
-17	petit	petit	G	1	
-18	en	en	P	1	
-19	haute	haut	G	1	
-20	saison	saison	N	1	
-21	.	.	O	1	
+1	Équipe	équipe	N	1	O
+2	d	d	V	1	O
+3	animation	animation	N	1	O
+4	très	très	G	1	O
+5	gentil	gentil	G	1	O
+6	,	,	O	1	O
+7	d'	d'	P	1	O
+8	amis	ami	N	1	O
+9	il	il	Q	1	O
+10	est	être	V	1	O
+11	vrai	vrai	G	1	O
+12	que	que	C	1	O
+13	le	le	D	1	O
+14	parking	parking	N	1	O
+15	extérieur	extérieur	G	1	O
+16	trop	trop	G	1	O
+17	petit	petit	G	1	O
+18	en	en	P	1	O
+19	haute	haut	G	1	O
+20	saison	saison	N	1	O
+21	.	.	O	1	O
 

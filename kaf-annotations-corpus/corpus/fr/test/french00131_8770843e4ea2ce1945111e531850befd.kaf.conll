@@ -1,174 +1,174 @@
-1	Excellent	excellent	G	1	
-2	hotel	hotel	G	1	
+1	Excellent	excellent	G	1	O
+2	hotel	hotel	G	1	O
 
-1	Luchtig	Luchtig	N	1	
-2	en	en	P	1	
-3	extra	extra	N	1	
-4	proper	proper	P	1	
-5	hotel	hotel	N	1	
-6	.	.	O	1	
+1	Luchtig	Luchtig	N	1	O
+2	en	en	P	1	O
+3	extra	extra	N	1	O
+4	proper	proper	P	1	O
+5	hotel	hotel	N	1	O
+6	.	.	O	1	O
 
-1	Uitstekend	Uitstekend	N	1	
-2	qua	qua	V	1	
-3	restaurant	restaurer	V	1	
-4	en	en	P	1	
-5	bar	bar	N	1	
-6	:	:	O	1	
-7	alleen	alleen	N	1	
-8	A	A	P	1	
-9	·	·	D	1	
-10	merken	merken	N	1	
-11	qua	qua	V	1	
-12	drank	drank	N	1	
-13	en	en	P	1	
-14	praktisch	praktisch	N	1	
-15	onbeperkte	onbeperkte	G	1	
-16	keuze	keuze	G	1	
-17	.	.	O	1	
+1	Uitstekend	Uitstekend	N	1	O
+2	qua	qua	V	1	O
+3	restaurant	restaurer	V	1	O
+4	en	en	P	1	O
+5	bar	bar	N	1	O
+6	:	:	O	1	O
+7	alleen	alleen	N	1	O
+8	A	A	P	1	O
+9	·	·	D	1	O
+10	merken	merken	N	1	O
+11	qua	qua	V	1	O
+12	drank	drank	N	1	O
+13	en	en	P	1	O
+14	praktisch	praktisch	N	1	O
+15	onbeperkte	onbeperkte	G	1	O
+16	keuze	keuze	G	1	O
+17	.	.	O	1	O
 
-1	Zeer	Zeer	N	1	
-2	gevarieerde	gevarieerde	V	1	
-3	keuken	keuken	P	1	
-4	zowel	zowel	N	1	
-5	qua	qua	V	1	
-6	ontbijt	ontbijt	V	1	
-7	,	,	O	1	
-8	lunch	lunch	N	1	
-9	en	en	P	1	
-10	diner	diner	V	1	
-11	.	.	O	1	
+1	Zeer	Zeer	N	1	O
+2	gevarieerde	gevarieerde	V	1	O
+3	keuken	keuken	P	1	O
+4	zowel	zowel	N	1	O
+5	qua	qua	V	1	O
+6	ontbijt	ontbijt	V	1	O
+7	,	,	O	1	O
+8	lunch	lunch	N	1	O
+9	en	en	P	1	O
+10	diner	diner	V	1	O
+11	.	.	O	1	O
 
-1	Cava	Cava	N	1	
-2	'	'	P	1	
-3	s	s	N	1	
-4	morgens	morgens	G	1	
-5	bij	bij	G	1	
-6	het	het	N	1	
-7	ontbijt	ontbijt	V	1	
-8	,	,	O	1	
-9	flessenwijn	flessenwijn	N	1	
-10	bij	bij	G	1	
-11	lunch	lunch	N	1	
-12	en	en	P	1	
-13	diner	diner	V	1	
-14	;	;	O	1	
-15	effenaf	effenaf	N	1	
-16	TOP	top	N	1	
-17	.	.	O	1	
+1	Cava	Cava	N	1	O
+2	'	'	P	1	O
+3	s	s	N	1	O
+4	morgens	morgens	G	1	O
+5	bij	bij	G	1	O
+6	het	het	N	1	O
+7	ontbijt	ontbijt	V	1	O
+8	,	,	O	1	O
+9	flessenwijn	flessenwijn	N	1	O
+10	bij	bij	G	1	O
+11	lunch	lunch	N	1	O
+12	en	en	P	1	O
+13	diner	diner	V	1	O
+14	;	;	O	1	O
+15	effenaf	effenaf	N	1	O
+16	TOP	top	N	1	O
+17	.	.	O	1	O
 
-1	Ruime	Ruime	N	1	
-2	kamer	kamer	V	1	
-3	en	en	P	1	
-4	extra	extra	D	1	
-5	vriendelijk	vriendelijk	N	1	
-6	personeel	personeel	G	1	
-7	·	·	N	1	
-8	direct	direct	G	1	
-9	aan	aan	N	1	
-10	'	'	P	1	
-11	t	t	N	1	
-12	strand	strand	G	1	
-13	en	en	P	1	
-14	uitzonderlijk	uitzonderlijk	N	1	
-15	voor	voor	C	1	
-16	Spanje	Spanje	N	1	
-17	:	:	O	1	
-18	geen	geen	N	1	
-19	ligzetels	ligzetels	G	1	
-20	of	of	O	1	
-21	parasol	parasol	N	1	
-22	te	te	Q	1	
-23	betalen	betalen	G	1	
-24	.	.	O	1	
+1	Ruime	Ruime	N	1	O
+2	kamer	kamer	V	1	O
+3	en	en	P	1	O
+4	extra	extra	D	1	O
+5	vriendelijk	vriendelijk	N	1	O
+6	personeel	personeel	G	1	O
+7	·	·	N	1	O
+8	direct	direct	G	1	O
+9	aan	aan	N	1	O
+10	'	'	P	1	O
+11	t	t	N	1	O
+12	strand	strand	G	1	O
+13	en	en	P	1	O
+14	uitzonderlijk	uitzonderlijk	N	1	O
+15	voor	voor	C	1	O
+16	Spanje	Spanje	N	1	O
+17	:	:	O	1	O
+18	geen	geen	N	1	O
+19	ligzetels	ligzetels	G	1	O
+20	of	of	O	1	O
+21	parasol	parasol	N	1	O
+22	te	te	Q	1	O
+23	betalen	betalen	G	1	O
+24	.	.	O	1	O
 
-1	Minpunten	Minpunten	N	1	
-2	:	:	O	1	
-3	1	1	D	1	
-4	.	.	O	1	
+1	Minpunten	Minpunten	N	1	O
+2	:	:	O	1	O
+3	1	1	D	1	O
+4	.	.	O	1	O
 
-1	·	·	O	1	
-2	verre	verre	N	1	
-3	afstand	afstand	G	1	
-4	van	van	N	1	
-5	de	de	P	1	
-6	luchthaven	luchthaven	N	1	
-7	:	:	O	1	
-8	ca.	ca.	D	1	
-9	90	90	D	1	
-10	km	kilomètre	N	1	
-11	waar	waar	C	1	
-12	men	men	N	1	
-13	met	mettre	V	1	
-14	de	de	P	1	
-15	bus	bus	N	1	
-16	ruim	ruim	G	1	
-17	2	2	G	1	
-18	uur	uur	N	1	
-19	over	over	G	1	
-20	doet	doet	N	1	
-21	(	(	O	1	
-22	aanrijden	aanrijden	N	1	
-23	van	van	O	1	
-24	diverse	divers	G	1	
-25	andere	andere	G	1	
-26	hotels	hotels	N	1	
-27	)	)	O	1	
-28	.	.	O	1	
+1	·	·	O	1	O
+2	verre	verre	N	1	O
+3	afstand	afstand	G	1	O
+4	van	van	N	1	O
+5	de	de	P	1	O
+6	luchthaven	luchthaven	N	1	O
+7	:	:	O	1	O
+8	ca.	ca.	D	1	O
+9	90	90	D	1	O
+10	km	kilomètre	N	1	O
+11	waar	waar	C	1	O
+12	men	men	N	1	O
+13	met	mettre	V	1	O
+14	de	de	P	1	O
+15	bus	bus	N	1	O
+16	ruim	ruim	G	1	O
+17	2	2	G	1	O
+18	uur	uur	N	1	O
+19	over	over	G	1	O
+20	doet	doet	N	1	O
+21	(	(	O	1	O
+22	aanrijden	aanrijden	N	1	O
+23	van	van	O	1	O
+24	diverse	divers	G	1	O
+25	andere	andere	G	1	O
+26	hotels	hotels	N	1	O
+27	)	)	O	1	O
+28	.	.	O	1	O
 
-1	2	2	G	1	
-2	.	.	O	1	
+1	2	2	G	1	O
+2	.	.	O	1	O
 
-1	·	·	O	1	
-2	niets	niets	N	1	
-3	te	te	Q	1	
-4	beleven	beleven	N	1	
-5	in	in	O	1	
-6	de	de	P	1	
-7	onmiddellijke	onmiddellijke	N	1	
-8	omgeving	omgeving	N	1	
-9	,	,	O	1	
-10	zelfs	zelfs	N	1	
-11	geen	geen	O	1	
-12	promenade	promenade	N	1	
-13	en	en	P	1	
-14	Estepona	Estepona	N	1	
-15	zelf	zelf	P	1	
-16	is	is	G	1	
-17	nu	nu	N	1	
-18	niet	niet	C	1	
-19	precies	precies	N	1	
-20	"	&quot;	O	1	
-21	the	the	O	1	
-22	place	place	N	1	
-23	to	to	O	1	
-24	be	be	P	1	
-25	"	&quot;	O	1	
-26	.	.	O	1	
+1	·	·	O	1	O
+2	niets	niets	N	1	O
+3	te	te	Q	1	O
+4	beleven	beleven	N	1	O
+5	in	in	O	1	O
+6	de	de	P	1	O
+7	onmiddellijke	onmiddellijke	N	1	O
+8	omgeving	omgeving	N	1	O
+9	,	,	O	1	O
+10	zelfs	zelfs	N	1	O
+11	geen	geen	O	1	O
+12	promenade	promenade	N	1	O
+13	en	en	P	1	O
+14	Estepona	Estepona	N	1	O
+15	zelf	zelf	P	1	O
+16	is	is	G	1	O
+17	nu	nu	N	1	O
+18	niet	niet	C	1	O
+19	precies	precies	N	1	O
+20	"	&quot;	O	1	O
+21	the	the	O	1	O
+22	place	place	N	1	O
+23	to	to	O	1	O
+24	be	be	P	1	O
+25	"	&quot;	O	1	O
+26	.	.	O	1	O
 
-1	3	3	G	1	
-2	.	.	O	1	
+1	3	3	G	1	O
+2	.	.	O	1	O
 
-1	·	·	O	1	
-2	moeilijk	moeilijk	G	1	
-3	zeebaden	zeebaden	P	1	
-4	want	want	N	1	
-5	rotsen	rotsen	G	1	
-6	en	en	P	1	
-7	keien	keien	N	1	
-8	in	in	G	1	
-9	zee	zee	N	1	
-10	.	.	O	1	
+1	·	·	O	1	O
+2	moeilijk	moeilijk	G	1	O
+3	zeebaden	zeebaden	P	1	O
+4	want	want	N	1	O
+5	rotsen	rotsen	G	1	O
+6	en	en	P	1	O
+7	keien	keien	N	1	O
+8	in	in	G	1	O
+9	zee	zee	N	1	O
+10	.	.	O	1	O
 
-1	Wel	Wel	N	1	
-2	een	een	P	1	
-3	aanrader	aanrader	V	1	
-4	voor	voor	V	1	
-5	de	de	P	1	
-6	rust	rust	N	1	
-7	en	en	P	1	
-8	kwaliteit	kwaliteit	N	1	
-9	van	van	V	1	
-10	het	het	N	1	
-11	eten	eten	G	1	
-12	.	.	O	1	
+1	Wel	Wel	N	1	O
+2	een	een	P	1	O
+3	aanrader	aanrader	V	1	O
+4	voor	voor	V	1	O
+5	de	de	P	1	O
+6	rust	rust	N	1	O
+7	en	en	P	1	O
+8	kwaliteit	kwaliteit	N	1	O
+9	van	van	V	1	O
+10	het	het	N	1	O
+11	eten	eten	G	1	O
+12	.	.	O	1	O
 

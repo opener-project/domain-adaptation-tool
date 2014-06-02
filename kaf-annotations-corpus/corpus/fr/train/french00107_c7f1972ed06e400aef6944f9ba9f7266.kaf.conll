@@ -1,98 +1,98 @@
-1	Un	un	D	1	
-2	vrai	vrai	G	1	
-3	compte	compte	N	1	
-4	rendu	rendre	V	1	
-5	après	après	P	1	
-6	15	15	D	1	
-7	jours	jour	N	1	
+1	Un	un	D	1	O
+2	vrai	vrai	G	1	O
+3	compte	compte	N	1	O
+4	rendu	rendre	V	1	O
+5	après	après	P	1	O
+6	15	15	D	1	O
+7	jours	jour	N	1	O
 
-1	Il	Il	Q	1	
-2	va	aller	V	1	
-3	s'	s'	Q	1	
-4	en	en	Q	1	
-5	oublier	oublier	V	1	
-6	que	que	C	1	
-7	vous	lui	Q	1	
-8	êtes	être	V	1	
-9	en	en	P	1	
-10	AFRIQUE	AFRIQUE	R	1	ne=Location
-11	et	et	C	1	
-12	non	non	G	1	
-13	en	en	P	1	
-14	Europe.Les	Europe.Les	R	1	ne=Location
-15	hôtels	hôtel	N	1	
-16	souffrent	souffrir	V	1	
+1	Il	Il	Q	1	O
+2	va	aller	V	1	O
+3	s'	s'	Q	1	O
+4	en	en	Q	1	O
+5	oublier	oublier	V	1	O
+6	que	que	C	1	O
+7	vous	lui	Q	1	O
+8	êtes	être	V	1	O
+9	en	en	P	1	O
+10	AFRIQUE	AFRIQUE	R	1	I-Location
+11	et	et	C	1	O
+12	non	non	G	1	O
+13	en	en	P	1	O
+14	Europe.Les	Europe.Les	R	1	I-Location
+15	hôtels	hôtel	N	1	O
+16	souffrent	souffrir	V	1	O
 
-1	déjà	déjà	G	1	
-2	de	de	P	1	
-3	1	1	D	1	
-4	de	de	P	1	
-5	la	le	D	1	
-6	chaleur	chaleur	N	1	
-7	et	et	C	1	
-8	du	du	D	1	
-9	sable	sable	N	1	
-10	et	et	C	1	
-11	de	de	P	1	
-12	l'	le	D	1	
-13	afflux	afflux	N	1	
-14	des	des	P	1	
-15	touristes	touriste	N	1	
-16	par	par	P	1	
-17	milliers	millier	N	1	
-18	toute	tout	D	1	
-19	l'	le	D	1	
-20	année.VOUS	année.VOUS	N	1	
-21	êtes	être	V	1	
-22	en	en	P	1	
-23	plein	plein	G	1	
-24	désert	désert	N	1	
-25	d'	d'	P	1	
-26	Afrique	Afrique	R	1	ne=Location
-27	.	.	O	1	
+1	déjà	déjà	G	1	O
+2	de	de	P	1	O
+3	1	1	D	1	O
+4	de	de	P	1	O
+5	la	le	D	1	O
+6	chaleur	chaleur	N	1	O
+7	et	et	C	1	O
+8	du	du	D	1	O
+9	sable	sable	N	1	O
+10	et	et	C	1	O
+11	de	de	P	1	O
+12	l'	le	D	1	O
+13	afflux	afflux	N	1	O
+14	des	des	P	1	O
+15	touristes	touriste	N	1	O
+16	par	par	P	1	O
+17	milliers	millier	N	1	O
+18	toute	tout	D	1	O
+19	l'	le	D	1	O
+20	année.VOUS	année.VOUS	N	1	O
+21	êtes	être	V	1	O
+22	en	en	P	1	O
+23	plein	plein	G	1	O
+24	désert	désert	N	1	O
+25	d'	d'	P	1	O
+26	Afrique	Afrique	R	1	I-Location
+27	.	.	O	1	O
 
-1	L’	L’	D	1	
-2	hôtel	hôtel	N	1	
-3	en	en	P	1	
-4	général	général	N	1	
-5	est	être	V	1	
-6	bien	bien	G	1	
-7	,	,	O	1	
-8	avec	avec	P	1	
-9	belle	beau	G	1	
-10	piscine	piscine	N	1	
-11	,	,	O	1	
-12	près	près	P	1	
-13	de	de	P	1	
-14	la	le	D	1	
-15	mer	mer	N	1	
-16	,	,	O	1	
-17	avec	avec	P	1	
-18	des	un	D	1	
-19	centres	centre	N	1	
-20	de	de	P	1	
-21	plongées	plongée	N	1	
-22	agrées	agrées	G	1	
-23	et	et	C	1	
-24	excursion	excursion	N	1	
-25	au	au	P	1	
-26	départ	départ	N	1	
-27	de	de	P	1	
-28	l’	l’	D	1	
-29	hôtel	hôtel	N	1	
-30	même.Un	même.Un	G	1	
-31	Aqua	Aqua	N	1	
-32	·	·	O	1	
-33	parc	parc	N	1	
-34	très	très	G	1	
-35	amusant	amusant	G	1	
-36	pour	pour	P	1	
-37	petit	petit	G	1	
-38	et	et	C	1	
-39	grand.Des	grand.Des	D	1	
-40	boutiques	boutique	N	1	
-41	,	,	O	1	
-42	animations	animation	N	1	
-43	etc	etc	G	1	
-44	....	....	O	1	
+1	L’	L’	D	1	O
+2	hôtel	hôtel	N	1	O
+3	en	en	P	1	O
+4	général	général	N	1	O
+5	est	être	V	1	O
+6	bien	bien	G	1	O
+7	,	,	O	1	O
+8	avec	avec	P	1	O
+9	belle	beau	G	1	O
+10	piscine	piscine	N	1	O
+11	,	,	O	1	O
+12	près	près	P	1	O
+13	de	de	P	1	O
+14	la	le	D	1	O
+15	mer	mer	N	1	O
+16	,	,	O	1	O
+17	avec	avec	P	1	O
+18	des	un	D	1	O
+19	centres	centre	N	1	O
+20	de	de	P	1	O
+21	plongées	plongée	N	1	O
+22	agrées	agrées	G	1	O
+23	et	et	C	1	O
+24	excursion	excursion	N	1	O
+25	au	au	P	1	O
+26	départ	départ	N	1	O
+27	de	de	P	1	O
+28	l’	l’	D	1	O
+29	hôtel	hôtel	N	1	O
+30	même.Un	même.Un	G	1	O
+31	Aqua	Aqua	N	1	O
+32	·	·	O	1	O
+33	parc	parc	N	1	O
+34	très	très	G	1	O
+35	amusant	amusant	G	1	O
+36	pour	pour	P	1	O
+37	petit	petit	G	1	O
+38	et	et	C	1	O
+39	grand.Des	grand.Des	D	1	O
+40	boutiques	boutique	N	1	O
+41	,	,	O	1	O
+42	animations	animation	N	1	O
+43	etc	etc	G	1	O
+44	....	....	O	1	O
 

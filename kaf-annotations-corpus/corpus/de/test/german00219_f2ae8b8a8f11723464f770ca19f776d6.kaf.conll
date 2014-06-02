@@ -1,158 +1,162 @@
-1	Vorsicht	Vorsicht	N	1	
-2	bei	bei	P	1	
-3	PKW	Pkw	N	1	
-4	·	·	O	1	
-5	Anreise	Anreise	N	1	
+1	Vorsicht	Vorsicht	N	1	O
+2	bei	bei	P	1	O
+3	PKW	Pkw	N	1	O
+4	·	·	O	1	O
+5	Anreise	Anreise	N	1	O
 
-1	Vorsicht	Vorsicht	N	1	
-2	Parkservice	Parkservice	N	1	
-3	!	!	O	1	
-4	!	!	O	1	
+1	Vorsicht	Vorsicht	N	1	O
+2	Parkservice	Parkservice	N	1	O
+3	!	!	O	1	O
+4	!	!	O	1	O
 
-1	für	für	P	1	
-2	25_,_·_·_€	25_,_·_·_€	R	1	ne=Money
-3	pro	pro	P	1	
-4	Tag	Tag	N	1	
-5	wird	werden	V	1	
-6	PKW	Pkw	N	1	
-7	in	in	P	1	
-8	ein	eine	D	1	
-9	nahegelegenes	nahegelegen	G	1	
-10	öffentliches	öffentlich	G	1	
-11	Parkhaus	Parkhaus	N	1	
-12	verbracht	verbringen	V	1	
-13	.	.	O	1	
+1	für	für	P	1	O
+2	25	25	O	1	I-Money
+3	,	,	O	1	I-Money
+4	·	·	O	1	I-Money
+5	·	·	O	1	I-Money
+6	€	€	O	1	I-Money
+7	pro	pro	P	1	O
+8	Tag	Tag	N	1	O
+9	wird	werden	V	1	O
+10	PKW	Pkw	N	1	O
+11	in	in	P	1	O
+12	ein	eine	D	1	O
+13	nahegelegenes	nahegelegen	G	1	O
+14	öffentliches	öffentlich	G	1	O
+15	Parkhaus	Parkhaus	N	1	O
+16	verbracht	verbringen	V	1	O
+17	.	.	O	1	O
 
-1	Als	als	C	1	
-2	Serviceleistung	Serviceleistung	N	1	
-3	soll	sollen	V	1	
-4	der	die	D	1	
-5	Pkw	Pkw	N	1	
-6	zur	zu	P	1	
-7	vereinbarten	vereinbart	G	1	
-8	Zeit	Zeit	N	1	
-9	wieder	wieder	A	1	
-10	vor	vor	P	1	
-11	das	die	D	1	
-12	Hotel	Hotel	N	1	
-13	gefahren	fahren	V	1	
-14	werden	werden	V	1	
-15	.	.	O	1	
+1	Als	als	C	1	O
+2	Serviceleistung	Serviceleistung	N	1	O
+3	soll	sollen	V	1	O
+4	der	die	D	1	O
+5	Pkw	Pkw	N	1	O
+6	zur	zu	P	1	O
+7	vereinbarten	vereinbart	G	1	O
+8	Zeit	Zeit	N	1	O
+9	wieder	wieder	A	1	O
+10	vor	vor	P	1	O
+11	das	die	D	1	O
+12	Hotel	Hotel	N	1	O
+13	gefahren	fahren	V	1	O
+14	werden	werden	V	1	O
+15	.	.	O	1	O
 
-1	Bereits	bereits	A	1	
-2	2	2	O	1	
-3	Stunden	Stunde|Stunden	N	1	
-4	vor	vor	P	1	
-5	der	die	D	1	
-6	vereinbarten	vereinbart	G	1	
-7	Zeit	Zeit	N	1	
-8	(	(	O	1	
-9	vor	vor	P	1	
-10	dem	die	D	1	
-11	Frühstück	Frühstück	N	1	
-12	)	)	O	1	
-13	sah	sehen	V	1	
-14	ich	ich	Q	1	
-15	beim	bei	P	1	
-16	Herausschauen	Herausschauen	O	1	
-17	aus	aus	P	1	
-18	dem	die	D	1	
-19	Zimmerfenster	Zimmerfenster	N	1	
-20	,	,	O	1	
-21	daß	dass	C	1	
-22	mein	mein	Q	1	
-23	Auto	Auto	N	1	
-24	vor	vor	P	1	
-25	dem	die	D	1	
-26	Hotel	Hotel	N	1	
-27	vorbeigefahren	vorbeifahren	V	1	
-28	wurde	werden	V	1	
-29	.	.	O	1	
+1	Bereits	bereits	A	1	O
+2	2	2	O	1	O
+3	Stunden	Stunde|Stunden	N	1	O
+4	vor	vor	P	1	O
+5	der	die	D	1	O
+6	vereinbarten	vereinbart	G	1	O
+7	Zeit	Zeit	N	1	O
+8	(	(	O	1	O
+9	vor	vor	P	1	O
+10	dem	die	D	1	O
+11	Frühstück	Frühstück	N	1	O
+12	)	)	O	1	O
+13	sah	sehen	V	1	O
+14	ich	ich	Q	1	O
+15	beim	bei	P	1	O
+16	Herausschauen	Herausschauen	O	1	O
+17	aus	aus	P	1	O
+18	dem	die	D	1	O
+19	Zimmerfenster	Zimmerfenster	N	1	O
+20	,	,	O	1	O
+21	daß	dass	C	1	O
+22	mein	mein	Q	1	O
+23	Auto	Auto	N	1	O
+24	vor	vor	P	1	O
+25	dem	die	D	1	O
+26	Hotel	Hotel	N	1	O
+27	vorbeigefahren	vorbeifahren	V	1	O
+28	wurde	werden	V	1	O
+29	.	.	O	1	O
 
-1	Unverzüglich	unverzüglich	G	1	
-2	informierte	informieren	V	1	
-3	ich	ich	Q	1	
-4	die	die	D	1	
-5	Reception	Reception	O	1	
-6	über	über	P	1	
-7	meine	mein	Q	1	
-8	Beobachtungen	Beobachtung	N	1	
-9	.	.	O	1	
+1	Unverzüglich	unverzüglich	G	1	O
+2	informierte	informieren	V	1	O
+3	ich	ich	Q	1	O
+4	die	die	D	1	O
+5	Reception	Reception	O	1	O
+6	über	über	P	1	O
+7	meine	mein	Q	1	O
+8	Beobachtungen	Beobachtung	N	1	O
+9	.	.	O	1	O
 
-1	Noch	noch	A	1	
-2	vor	vor	P	1	
-3	dem	die	D	1	
-4	Frühstück	Frühstück	N	1	
-5	habe	haben	V	1	
-6	ich	ich	Q	1	
-7	mir	ich	Q	1	
-8	die	die	D	1	
-9	Fahrzeugschlüssel	Fahrzeugschlüssel	N	1	
-10	wieder	wieder	A	1	
-11	aushändigen	aushändigen	V	1	
-12	lassen	lassen	V	1	
-13	um	um	P	1	
-14	weitere	weit	G	1	
-15	"	"	O	1	
-16	Lustfahrten	Lustfahrt	N	1	
-17	"	"	O	1	
-18	mit	mit	P	1	
-19	meinem	mein	Q	1	
-20	PKW	Pkw	N	1	
-21	zu	zu	O	1	
-22	unterbinden	unterbinden	V	1	
-23	.	.	O	1	
+1	Noch	noch	A	1	O
+2	vor	vor	P	1	O
+3	dem	die	D	1	O
+4	Frühstück	Frühstück	N	1	O
+5	habe	haben	V	1	O
+6	ich	ich	Q	1	O
+7	mir	ich	Q	1	O
+8	die	die	D	1	O
+9	Fahrzeugschlüssel	Fahrzeugschlüssel	N	1	O
+10	wieder	wieder	A	1	O
+11	aushändigen	aushändigen	V	1	O
+12	lassen	lassen	V	1	O
+13	um	um	P	1	O
+14	weitere	weit	G	1	O
+15	"	"	O	1	O
+16	Lustfahrten	Lustfahrt	N	1	O
+17	"	"	O	1	O
+18	mit	mit	P	1	O
+19	meinem	mein	Q	1	O
+20	PKW	Pkw	N	1	O
+21	zu	zu	O	1	O
+22	unterbinden	unterbinden	V	1	O
+23	.	.	O	1	O
 
-1	Mein	mein	Q	1	
-2	als	als	C	1	
-3	1.	1.	O	1	
-4	Fahrzeug	Fahrzeug	N	1	
-5	auf	auf	P	1	
-6	der	die	D	1	
-7	Hotelzufahrt	Hotelzufahrt	O	1	
-8	abgestellte	abgestellt	G	1	
-9	Auto	Auto	N	1	
-10	habe	haben	V	1	
-11	ich	ich	Q	1	
-12	dann	dann	A	1	
-13	notgedrungen	notgedrungen	G	1	
-14	in	in	P	1	
-15	der	die	D	1	
-16	Nähe	Nähe	N	1	
-17	mit	mit	P	1	
-18	weiteren	weit	G	1	
-19	Parkgebühren	Parkgebühr	N	1	
-20	verbunden	verbunden	G	1	
-21	abgestellt	abstellen	V	1	
-22	,	,	O	1	
-23	um	um	C	1	
-24	die	die	D	1	
-25	angedeutete	angedeutet	G	1	
-26	Gefahr	Gefahr	N	1	
-27	eines	eine	D	1	
-28	Abschleppens	Abschleppen	N	1	
-29	meines	mein	Q	1	
-30	Fahrzeuges	Fahrzeug	N	1	
-31	zu	zu	O	1	
-32	vermeiden	vermeiden	V	1	
-33	.	.	O	1	
+1	Mein	mein	Q	1	O
+2	als	als	C	1	O
+3	1.	1.	O	1	O
+4	Fahrzeug	Fahrzeug	N	1	O
+5	auf	auf	P	1	O
+6	der	die	D	1	O
+7	Hotelzufahrt	Hotelzufahrt	O	1	O
+8	abgestellte	abgestellt	G	1	O
+9	Auto	Auto	N	1	O
+10	habe	haben	V	1	O
+11	ich	ich	Q	1	O
+12	dann	dann	A	1	O
+13	notgedrungen	notgedrungen	G	1	O
+14	in	in	P	1	O
+15	der	die	D	1	O
+16	Nähe	Nähe	N	1	O
+17	mit	mit	P	1	O
+18	weiteren	weit	G	1	O
+19	Parkgebühren	Parkgebühr	N	1	O
+20	verbunden	verbunden	G	1	O
+21	abgestellt	abstellen	V	1	O
+22	,	,	O	1	O
+23	um	um	C	1	O
+24	die	die	D	1	O
+25	angedeutete	angedeutet	G	1	O
+26	Gefahr	Gefahr	N	1	O
+27	eines	eine	D	1	O
+28	Abschleppens	Abschleppen	N	1	O
+29	meines	mein	Q	1	O
+30	Fahrzeuges	Fahrzeug	N	1	O
+31	zu	zu	O	1	O
+32	vermeiden	vermeiden	V	1	O
+33	.	.	O	1	O
 
-1	Fazit	Fazit	N	1	
-2	!	!	O	1	
+1	Fazit	Fazit	N	1	O
+2	!	!	O	1	O
 
-1	Ohne	ohne	P	1	
-2	meine	mein	Q	1	
-3	ausdrückliche	ausdrücklich	G	1	
-4	Genehmigung	Genehmigung	N	1	
-5	wurde	werden	V	1	
-6	das	die	D	1	
-7	Fahrzeug	Fahrzeug	N	1	
-8	bewegt	bewegen	V	1	
-9	.	.	O	1	
+1	Ohne	ohne	P	1	O
+2	meine	mein	Q	1	O
+3	ausdrückliche	ausdrücklich	G	1	O
+4	Genehmigung	Genehmigung	N	1	O
+5	wurde	werden	V	1	O
+6	das	die	D	1	O
+7	Fahrzeug	Fahrzeug	N	1	O
+8	bewegt	bewegen	V	1	O
+9	.	.	O	1	O
 
-1	Nie	nie	A	1	
-2	wieder	wieder	A	1	
-3	dieses	dies	Q	1	
-4	Hotel	Hotel	N	1	
-5	.	.	O	1	
+1	Nie	nie	A	1	O
+2	wieder	wieder	A	1	O
+3	dieses	dies	Q	1	O
+4	Hotel	Hotel	N	1	O
+5	.	.	O	1	O
 

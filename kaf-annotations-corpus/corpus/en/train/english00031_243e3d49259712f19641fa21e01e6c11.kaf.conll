@@ -1,99 +1,99 @@
-1	Airport	Airport	R	1	
-2	shuttle	shuttle	N	1	
-3	is	be	V	1	
-4	not	not	A	1	
-5	complimentary	complimentary	G	1	
+1	Airport	Airport	R	1	O
+2	shuttle	shuttle	N	1	O
+3	is	be	V	1	O
+4	not	not	A	1	O
+5	complimentary	complimentary	G	1	O
 
-1	To	to	P	1	
-2	the	the	D	1	
-3	hotel	hotel	N	1	
-4	from	from	P	1	
-5	the	the	D	1	
-6	hotel	hotel	N	1	
-7	,	,	O	1	
-8	the	the	D	1	
-9	shuttle	shuttle	N	1	
-10	bus	bus	N	1	
-11	is	be	V	1	
-12	gratis	gratis	N	1	
-13	.	.	O	1	
+1	To	to	P	1	O
+2	the	the	D	1	O
+3	hotel	hotel	N	1	O
+4	from	from	P	1	O
+5	the	the	D	1	O
+6	hotel	hotel	N	1	O
+7	,	,	O	1	O
+8	the	the	D	1	O
+9	shuttle	shuttle	N	1	O
+10	bus	bus	N	1	O
+11	is	be	V	1	O
+12	gratis	gratis	N	1	O
+13	.	.	O	1	O
 
-1	But	but	C	1	
-2	from	from	P	1	
-3	the	the	D	1	
-4	hotel	hotel	N	1	
-5	to	to	P	1	
-6	the	the	D	1	
-7	airport	airport	N	1	
-8	there	there	O	1	
-9	are	be	V	1	
-10	some	some	D	1	
-11	strict	strict	G	1	
-12	rules	rule	N	1	
-13	at	at	P	1	
-14	this	this	D	1	
-15	hotel	hotel	N	1	
-16	.	.	O	1	
+1	But	but	C	1	O
+2	from	from	P	1	O
+3	the	the	D	1	O
+4	hotel	hotel	N	1	O
+5	to	to	P	1	O
+6	the	the	D	1	O
+7	airport	airport	N	1	O
+8	there	there	O	1	O
+9	are	be	V	1	O
+10	some	some	D	1	O
+11	strict	strict	G	1	O
+12	rules	rule	N	1	O
+13	at	at	P	1	O
+14	this	this	D	1	O
+15	hotel	hotel	N	1	O
+16	.	.	O	1	O
 
-1	1	1	O	1	
-2	.	.	O	1	
+1	1	1	O	1	O
+2	.	.	O	1	O
 
-1	Pre	Pre	R	1	
-2	·	·	N	1	
-3	Booking	Booking	R	1	
-4	is	be	V	1	
-5	a	a	D	1	
-6	must	must	O	1	
+1	Pre	Pre	R	1	O
+2	·	·	N	1	O
+3	Booking	Booking	R	1	O
+4	is	be	V	1	O
+5	a	a	D	1	O
+6	must	must	O	1	O
 
-1	2	2	O	1	
-2	.	.	O	1	
+1	2	2	O	1	O
+2	.	.	O	1	O
 
-1	But	but	C	1	
-2	the	the	D	1	
-3	ticket	ticket	N	1	
-4	at	at	P	1	
-5	the	the	D	1	
-6	hotel	hotel	N	1	
-7	(	(	O	1	
-8	bus	bus	N	1	
-9	driver	driver	N	1	
-10	does	do	V	1	
-11	not	not	A	1	
-12	sell	sell	V	1	
-13	the	the	D	1	
-14	ticket	ticket	N	1	
-15	)	)	O	1	
+1	But	but	C	1	O
+2	the	the	D	1	O
+3	ticket	ticket	N	1	O
+4	at	at	P	1	O
+5	the	the	D	1	O
+6	hotel	hotel	N	1	O
+7	(	(	O	1	O
+8	bus	bus	N	1	O
+9	driver	driver	N	1	O
+10	does	do	V	1	O
+11	not	not	A	1	O
+12	sell	sell	V	1	O
+13	the	the	D	1	O
+14	ticket	ticket	N	1	O
+15	)	)	O	1	O
 
-1	3	3	O	1	
-2	.	.	O	1	
+1	3	3	O	1	O
+2	.	.	O	1	O
 
-1	No	no	D	1	
-2	information	information	N	1	
-3	provided	provide	V	1	
-4	for	for	P	1	
-5	the	the	D	1	
-6	above	above	N	1	
-7	at	at	P	1	
-8	the	the	D	1	
-9	reception	reception	N	1	
-10	unless	unless	P	1	
-11	you	you	Q	1	
-12	ask	ask	V	1	
-13	for	for	P	1	
-14	that	that	D	1	
-15	.	.	O	1	
+1	No	no	D	1	O
+2	information	information	N	1	O
+3	provided	provide	V	1	O
+4	for	for	P	1	O
+5	the	the	D	1	O
+6	above	above	N	1	O
+7	at	at	P	1	O
+8	the	the	D	1	O
+9	reception	reception	N	1	O
+10	unless	unless	P	1	O
+11	you	you	Q	1	O
+12	ask	ask	V	1	O
+13	for	for	P	1	O
+14	that	that	D	1	O
+15	.	.	O	1	O
 
-1	Many	many	G	1	
-2	people	person	N	1	
-3	are	be	V	1	
-4	pull	pull	V	1	
-5	out	out	P	1	
-6	of	of	P	1	
-7	the	the	D	1	
-8	shuttle	shuttle	N	1	
-9	bus	bus	N	1	
-10	because	because	A	1	
-11	of	of	P	1	
-12	this	this	D	1	
-13	.	.	O	1	
+1	Many	many	G	1	O
+2	people	person	N	1	O
+3	are	be	V	1	O
+4	pull	pull	V	1	O
+5	out	out	P	1	O
+6	of	of	P	1	O
+7	the	the	D	1	O
+8	shuttle	shuttle	N	1	O
+9	bus	bus	N	1	O
+10	because	because	A	1	O
+11	of	of	P	1	O
+12	this	this	D	1	O
+13	.	.	O	1	O
 

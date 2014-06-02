@@ -1,59 +1,59 @@
-1	Espectacular	espectacular	G	1	
-2	hotel	hotel	N	1	
-3	y	y	G	1	
-4	el	el	N	1	
-5	servicio	servicio	N	1	
-6	y	y	G	1	
-7	atención	atención	N	1	
+1	Espectacular	espectacular	G	1	O
+2	hotel	hotel	N	1	O
+3	y	y	G	1	O
+4	el	el	N	1	O
+5	servicio	servicio	N	1	O
+6	y	y	G	1	O
+7	atención	atención	N	1	O
 
-1	todo	todo	P	1	
-2	estuvo	estuvo	V	1	
-3	excelente	excelente	G	1	
-4	solo	solo	N	1	
-5	un	un	G	1	
-6	pequeno	pequeno	N	1	
-7	problema	problema	O	1	
-8	con	con	O	1	
-9	el	el	O	1	
-10	aire	aire	O	1	
-11	de	de	O	1	
-12	la	la	O	1	
-13	habitacion	habitacion	O	1	
-14	que	que	O	1	
-15	no	no	D	1	
-16	enfriaba	enfriaba	N	1	
-17	mucho	mucho	G	1	
-18	tenia	tenia	N	1	
-19	que	que	N	1	
-20	usar	usar	G	1	
-21	el	el	N	1	
-22	abanico	abanico	P	1	
-23	de	de	O	1	
-24	techo	techo	O	1	
-25	,	,	O	1	
-26	por	por	G	1	
-27	lo	lo	N	1	
-28	demas	demas	N	1	
-29	todo	todo	V	1	
-30	estuvo	estuvo	N	1	
-31	excelente	excelente	G	1	
-32	,	,	O	1	
-33	sin	sin	G	1	
-34	dudarlo	dudarlo	N	1	
-35	volveria	volveria	N	1	
-36	a	a	D	1	
-37	visitar	visitar	G	1	
-38	el	el	N	1	
-39	hotel	hotel	N	1	
-40	ademas	ademas	V	1	
-41	de	de	P	1	
-42	que	que	G	1	
-43	lo	lo	G	1	
-44	recomendaria	recomendaria	N	1	
-45	a	a	D	1	
-46	mis	mis	N	1	
-47	amistades	amistades	P	1	
-48	y	y	G	1	
-49	familiares	familiares	N	1	
-50	.	.	O	1	
+1	todo	todo	P	1	O
+2	estuvo	estuvo	V	1	O
+3	excelente	excelente	G	1	O
+4	solo	solo	N	1	O
+5	un	un	G	1	O
+6	pequeno	pequeno	N	1	O
+7	problema	problema	O	1	O
+8	con	con	O	1	O
+9	el	el	O	1	O
+10	aire	aire	O	1	O
+11	de	de	O	1	O
+12	la	la	O	1	O
+13	habitacion	habitacion	O	1	O
+14	que	que	O	1	O
+15	no	no	D	1	O
+16	enfriaba	enfriaba	N	1	O
+17	mucho	mucho	G	1	O
+18	tenia	tenia	N	1	O
+19	que	que	N	1	O
+20	usar	usar	G	1	O
+21	el	el	N	1	O
+22	abanico	abanico	P	1	O
+23	de	de	O	1	O
+24	techo	techo	O	1	O
+25	,	,	O	1	O
+26	por	por	G	1	O
+27	lo	lo	N	1	O
+28	demas	demas	N	1	O
+29	todo	todo	V	1	O
+30	estuvo	estuvo	N	1	O
+31	excelente	excelente	G	1	O
+32	,	,	O	1	O
+33	sin	sin	G	1	O
+34	dudarlo	dudarlo	N	1	O
+35	volveria	volveria	N	1	O
+36	a	a	D	1	O
+37	visitar	visitar	G	1	O
+38	el	el	N	1	O
+39	hotel	hotel	N	1	O
+40	ademas	ademas	V	1	O
+41	de	de	P	1	O
+42	que	que	G	1	O
+43	lo	lo	G	1	O
+44	recomendaria	recomendaria	N	1	O
+45	a	a	D	1	O
+46	mis	mis	N	1	O
+47	amistades	amistades	P	1	O
+48	y	y	G	1	O
+49	familiares	familiares	N	1	O
+50	.	.	O	1	O
 

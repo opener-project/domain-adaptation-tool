@@ -1,155 +1,155 @@
-1	Not	not	A	1	
-2	coming	come	V	1	
-3	back	back	A	1	
+1	Not	not	A	1	O
+2	coming	come	V	1	O
+3	back	back	A	1	O
 
-1	Advantages	advantage	N	1	
-2	of	of	P	1	
-3	this	this	D	1	
-4	hostal	hostal	G	1	
-5	·	·	N	1	
-6	it	it	Q	1	
-7	is	be	V	1	
-8	cheap	cheap	G	1	
-9	and	and	C	1	
-10	located	locate	V	1	
-11	in	in	P	1	
-12	the	the	D	1	
-13	center	center	N	1	
-14	.	.	O	1	
+1	Advantages	advantage	N	1	O
+2	of	of	P	1	O
+3	this	this	D	1	O
+4	hostal	hostal	G	1	O
+5	·	·	N	1	O
+6	it	it	Q	1	O
+7	is	be	V	1	O
+8	cheap	cheap	G	1	O
+9	and	and	C	1	O
+10	located	locate	V	1	O
+11	in	in	P	1	O
+12	the	the	D	1	O
+13	center	center	N	1	O
+14	.	.	O	1	O
 
-1	So	so	C	1	
-2	there	there	O	1	
-3	are	be	V	1	
-4	many	many	G	1	
-5	caffees	caffees	N	1	
-6	,	,	O	1	
-7	restaurants	restaurant	N	1	
-8	and	and	C	1	
-9	shops	shop	N	1	
-10	nearby	nearby	A	1	
-11	.	.	O	1	
+1	So	so	C	1	O
+2	there	there	O	1	O
+3	are	be	V	1	O
+4	many	many	G	1	O
+5	caffees	caffees	N	1	O
+6	,	,	O	1	O
+7	restaurants	restaurant	N	1	O
+8	and	and	C	1	O
+9	shops	shop	N	1	O
+10	nearby	nearby	A	1	O
+11	.	.	O	1	O
 
-1	We	we	Q	1	
-2	were	be	V	1	
-3	having	have	V	1	
-4	breakfast	breakfast	N	1	
-5	in	in	P	1	
-6	one	one	O	1	
-7	of	of	P	1	
-8	the	the	D	1	
-9	caffees	caffees	N	1	
-10	beside	beside	P	1	
-11	hostal	hostal	N	1	
-12	and	and	C	1	
-13	already	already	A	1	
-14	on	on	P	1	
-15	the	the	D	1	
-16	second	2	G	1	
-17	day	day	N	1	
-18	we	we	Q	1	
-19	were	be	V	1	
-20	welcomed	welcome	V	1	
-21	like	like	P	1	
-22	good	good	G	1	
-23	friends	friend	N	1	
-24	.	.	O	1	
+1	We	we	Q	1	O
+2	were	be	V	1	O
+3	having	have	V	1	O
+4	breakfast	breakfast	N	1	O
+5	in	in	P	1	O
+6	one	one	O	1	O
+7	of	of	P	1	O
+8	the	the	D	1	O
+9	caffees	caffees	N	1	O
+10	beside	beside	P	1	O
+11	hostal	hostal	N	1	O
+12	and	and	C	1	O
+13	already	already	A	1	O
+14	on	on	P	1	O
+15	the	the	D	1	O
+16	second	2	G	1	O
+17	day	day	N	1	O
+18	we	we	Q	1	O
+19	were	be	V	1	O
+20	welcomed	welcome	V	1	O
+21	like	like	P	1	O
+22	good	good	G	1	O
+23	friends	friend	N	1	O
+24	.	.	O	1	O
 
-1	Disadvantages	disadvantage	N	1	
-2	·	·	V	1	
-3	size	size	N	1	
-4	and	and	C	1	
-5	condition	condition	N	1	
-6	of	of	P	1	
-7	the	the	D	1	
-8	room	room	N	1	
-9	.	.	O	1	
+1	Disadvantages	disadvantage	N	1	O
+2	·	·	V	1	O
+3	size	size	N	1	O
+4	and	and	C	1	O
+5	condition	condition	N	1	O
+6	of	of	P	1	O
+7	the	the	D	1	O
+8	room	room	N	1	O
+9	.	.	O	1	O
 
-1	My	my	Q	1	
-2	room	room	N	1	
-3	was	be	V	1	
-4	very	very	A	1	
-5	small	small	G	1	
-6	,	,	O	1	
-7	I	i	Q	1	
-8	would	would	O	1	
-9	even	even	A	1	
-10	call	call	V	1	
-11	it	it	Q	1	
-12	claustrophobic	claustrophobic	G	1	
-13	.	.	O	1	
+1	My	my	Q	1	O
+2	room	room	N	1	O
+3	was	be	V	1	O
+4	very	very	A	1	O
+5	small	small	G	1	O
+6	,	,	O	1	O
+7	I	i	Q	1	O
+8	would	would	O	1	O
+9	even	even	A	1	O
+10	call	call	V	1	O
+11	it	it	Q	1	O
+12	claustrophobic	claustrophobic	G	1	O
+13	.	.	O	1	O
 
-1	It	it	Q	1	
-2	was	be	V	1	
-3	shaped	shape	V	1	
-4	like	like	G	1	
-5	letter	letter	N	1	
-6	L	L	R	1	
-7	in	in	P	1	
-8	one	one	O	1	
-9	part	part	N	1	
-10	there	there	A	1	
-11	was	be	V	1	
-12	bed	bed	N	1	
-13	,	,	O	1	
-14	old	old	G	1	
-15	tv	tv	N	1	
-16	in	in	P	1	
-17	other	other	G	1	
-18	part	part	N	1	
-19	wash	wash	N	1	
-20	basin	basin	N	1	
-21	,	,	O	1	
-22	shower	shower	N	1	
-23	,	,	O	1	
-24	toilet	toilet	N	1	
-25	and	and	C	1	
-26	window	window	N	1	
-27	without	without	P	1	
-28	the	the	D	1	
-29	view	view	N	1	
-30	.	.	O	1	
+1	It	it	Q	1	O
+2	was	be	V	1	O
+3	shaped	shape	V	1	O
+4	like	like	G	1	O
+5	letter	letter	N	1	O
+6	L	L	R	1	O
+7	in	in	P	1	O
+8	one	one	O	1	O
+9	part	part	N	1	O
+10	there	there	A	1	O
+11	was	be	V	1	O
+12	bed	bed	N	1	O
+13	,	,	O	1	O
+14	old	old	G	1	O
+15	tv	tv	N	1	O
+16	in	in	P	1	O
+17	other	other	G	1	O
+18	part	part	N	1	O
+19	wash	wash	N	1	O
+20	basin	basin	N	1	O
+21	,	,	O	1	O
+22	shower	shower	N	1	O
+23	,	,	O	1	O
+24	toilet	toilet	N	1	O
+25	and	and	C	1	O
+26	window	window	N	1	O
+27	without	without	P	1	O
+28	the	the	D	1	O
+29	view	view	N	1	O
+30	.	.	O	1	O
 
-1	I	i	Q	1	
-2	consider	consider	V	1	
-3	myself	myself	Q	1	
-4	an	a	D	1	
-5	average	average	G	1	
-6	size	size	N	1	
-7	person	person	N	1	
-8	,	,	O	1	
-9	but	but	C	1	
-10	still	still	A	1	
-11	I	i	Q	1	
-12	had	have	V	1	
-13	to	to	P	1	
-14	squeeze	squeeze	V	1	
-15	in	in	P	1	
-16	order	order	N	1	
-17	to	to	P	1	
-18	fit	fit	V	1	
-19	between	between	P	1	
-20	the	the	D	1	
-21	shower	shower	N	1	
-22	and	and	C	1	
-23	wall	wall	N	1	
-24	to	to	P	1	
-25	get	get	V	1	
-26	to	to	P	1	
-27	the	the	D	1	
-28	toilet	toilet	N	1	
-29	.	.	O	1	
+1	I	i	Q	1	O
+2	consider	consider	V	1	O
+3	myself	myself	Q	1	O
+4	an	a	D	1	O
+5	average	average	G	1	O
+6	size	size	N	1	O
+7	person	person	N	1	O
+8	,	,	O	1	O
+9	but	but	C	1	O
+10	still	still	A	1	O
+11	I	i	Q	1	O
+12	had	have	V	1	O
+13	to	to	P	1	O
+14	squeeze	squeeze	V	1	O
+15	in	in	P	1	O
+16	order	order	N	1	O
+17	to	to	P	1	O
+18	fit	fit	V	1	O
+19	between	between	P	1	O
+20	the	the	D	1	O
+21	shower	shower	N	1	O
+22	and	and	C	1	O
+23	wall	wall	N	1	O
+24	to	to	P	1	O
+25	get	get	V	1	O
+26	to	to	P	1	O
+27	the	the	D	1	O
+28	toilet	toilet	N	1	O
+29	.	.	O	1	O
 
-1	There	there	O	1	
-2	was	be	V	1	
-3	soap	soap	N	1	
-4	provided	provide	V	1	
-5	.	.	O	1	
+1	There	there	O	1	O
+2	was	be	V	1	O
+3	soap	soap	N	1	O
+4	provided	provide	V	1	O
+5	.	.	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	lift	lift	N	1	
-4	in	in	P	1	
-5	the	the	D	1	
-6	building	building	N	1	
-7	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	lift	lift	N	1	O
+4	in	in	P	1	O
+5	the	the	D	1	O
+6	building	building	N	1	O
+7	.	.	O	1	O
 

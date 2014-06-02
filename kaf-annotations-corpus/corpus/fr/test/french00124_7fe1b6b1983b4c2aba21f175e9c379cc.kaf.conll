@@ -1,108 +1,108 @@
-1	Pas	Pas	G	1	
-2	engageant	engageant	G	1	
-3	!	!	O	1	
+1	Pas	Pas	G	1	O
+2	engageant	engageant	G	1	O
+3	!	!	O	1	O
 
-1	Hôtel	hôtel	N	1	
-2	mal	mal	G	1	
-3	fréquenté	fréquenter	V	1	
-4	,	,	O	1	
-5	pas	pas	G	1	
-6	très	très	G	1	
-7	propre	propre	G	1	
-8	.	.	O	1	
+1	Hôtel	hôtel	N	1	O
+2	mal	mal	G	1	O
+3	fréquenté	fréquenter	V	1	O
+4	,	,	O	1	O
+5	pas	pas	G	1	O
+6	très	très	G	1	O
+7	propre	propre	G	1	O
+8	.	.	O	1	O
 
-1	Personnel	personnel	N	1	
-2	peu	peu	G	1	
-3	sympathique	sympathique	G	1	
-4	et	et	C	1	
-5	petit	petit	G	1	
-6	déjeuner	déjeuner	N	1	
-7	catastrophique	catastrophique	G	1	
-8	,	,	O	1	
-9	produits	produit	N	1	
-10	non	non	G	1	
-11	frais	frais	G	1	
-12	;	;	O	1	
-13	très	très	G	1	
-14	peu	peu	G	1	
-15	de	de	P	1	
-16	choix	choix	N	1	
-17	et	et	C	1	
-18	sans	sans]	P	1	
-19	parler	parler	V	1	
-20	du	du	P	1	
-21	bruit	bruit	N	1	
-22	les	le	D	1	
-23	murs	mur	N	1	
-24	sont	être	V	1	
-25	des	un	D	1	
-26	feuilles	feuille	N	1	
-27	de	de	P	1	
-28	papiers	papier	N	1	
-29	!	!	O	1	
+1	Personnel	personnel	N	1	O
+2	peu	peu	G	1	O
+3	sympathique	sympathique	G	1	O
+4	et	et	C	1	O
+5	petit	petit	G	1	O
+6	déjeuner	déjeuner	N	1	O
+7	catastrophique	catastrophique	G	1	O
+8	,	,	O	1	O
+9	produits	produit	N	1	O
+10	non	non	G	1	O
+11	frais	frais	G	1	O
+12	;	;	O	1	O
+13	très	très	G	1	O
+14	peu	peu	G	1	O
+15	de	de	P	1	O
+16	choix	choix	N	1	O
+17	et	et	C	1	O
+18	sans	sans]	P	1	O
+19	parler	parler	V	1	O
+20	du	du	P	1	O
+21	bruit	bruit	N	1	O
+22	les	le	D	1	O
+23	murs	mur	N	1	O
+24	sont	être	V	1	O
+25	des	un	D	1	O
+26	feuilles	feuille	N	1	O
+27	de	de	P	1	O
+28	papiers	papier	N	1	O
+29	!	!	O	1	O
 
-1	un	un	D	1	
-2	seul	seul	G	1	
-3	distributeurs	distributeur	N	1	
-4	de	de	P	1	
-5	nourriture	nourriture	N	1	
-6	et	et	C	1	
-7	boissons	boisson	N	1	
-8	dans	dans	P	1	
-9	le	le	D	1	
-10	hall	hall	N	1	
-11	qui	qui	P	1	
-12	était	être	V	1	
-13	à	à	P	1	
-14	moitié	moitié	N	1	
-15	vide	vide	G	1	
-16	durant	durant	P	1	
-17	toute	tout	G	1	
-18	la	le	D	1	
-19	durée	durée	N	1	
-20	de	de	P	1	
-21	mon	son	D	1	
-22	séjour	séjour	N	1	
-23	de	de	P	1	
-24	5	5	D	1	
-25	jours	jour	N	1	
-26	.	.	O	1	
+1	un	un	D	1	O
+2	seul	seul	G	1	O
+3	distributeurs	distributeur	N	1	O
+4	de	de	P	1	O
+5	nourriture	nourriture	N	1	O
+6	et	et	C	1	O
+7	boissons	boisson	N	1	O
+8	dans	dans	P	1	O
+9	le	le	D	1	O
+10	hall	hall	N	1	O
+11	qui	qui	P	1	O
+12	était	être	V	1	O
+13	à	à	P	1	O
+14	moitié	moitié	N	1	O
+15	vide	vide	G	1	O
+16	durant	durant	P	1	O
+17	toute	tout	G	1	O
+18	la	le	D	1	O
+19	durée	durée	N	1	O
+20	de	de	P	1	O
+21	mon	son	D	1	O
+22	séjour	séjour	N	1	O
+23	de	de	P	1	O
+24	5	5	D	1	O
+25	jours	jour	N	1	O
+26	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	peu	peu	G	1	
-3	de	de	P	1	
-4	magasin	magasin	N	1	
-5	d'	d'	P	1	
-6	alimentation	alimentation	N	1	
-7	à	à	P	1	
-8	proximité	proximité	N	1	
-9	ce	ce	P	1	
-10	qui	qui	P	1	
-11	ne	ne	G	1	
-12	facilite	faciliter	V	1	
-13	pas	pas	G	1	
-14	la	le	D	1	
-15	tâche	tâche	N	1	
-16	.	.	O	1	
+1	Très	Très	G	1	O
+2	peu	peu	G	1	O
+3	de	de	P	1	O
+4	magasin	magasin	N	1	O
+5	d'	d'	P	1	O
+6	alimentation	alimentation	N	1	O
+7	à	à	P	1	O
+8	proximité	proximité	N	1	O
+9	ce	ce	P	1	O
+10	qui	qui	P	1	O
+11	ne	ne	G	1	O
+12	facilite	faciliter	V	1	O
+13	pas	pas	G	1	O
+14	la	le	D	1	O
+15	tâche	tâche	N	1	O
+16	.	.	O	1	O
 
-1	Restauration	restauration	N	1	
-2	de	de	P	1	
-3	proximité	proximité	N	1	
-4	,	,	O	1	
-5	courtepaille	courtepaille	N	1	
-6	juste	juste	G	1	
-7	à	à	P	1	
-8	côté	côté	N	1	
-9	sinon	sinon	C	1	
-10	aucun	aucun	D	1	
-11	restaurant	restaurant	N	1	
-12	dans	dans	P	1	
-13	les	le	D	1	
-14	parages	parage	N	1	
-15	...	...	O	1	
-16	je	je	Q	1	
-17	le	le	Q	1	
-18	déconseille	déconseiller	V	1	
-19	fortement	fortement	G	1	
-20	.	.	O	1	
+1	Restauration	restauration	N	1	O
+2	de	de	P	1	O
+3	proximité	proximité	N	1	O
+4	,	,	O	1	O
+5	courtepaille	courtepaille	N	1	O
+6	juste	juste	G	1	O
+7	à	à	P	1	O
+8	côté	côté	N	1	O
+9	sinon	sinon	C	1	O
+10	aucun	aucun	D	1	O
+11	restaurant	restaurant	N	1	O
+12	dans	dans	P	1	O
+13	les	le	D	1	O
+14	parages	parage	N	1	O
+15	...	...	O	1	O
+16	je	je	Q	1	O
+17	le	le	Q	1	O
+18	déconseille	déconseiller	V	1	O
+19	fortement	fortement	G	1	O
+20	.	.	O	1	O
 

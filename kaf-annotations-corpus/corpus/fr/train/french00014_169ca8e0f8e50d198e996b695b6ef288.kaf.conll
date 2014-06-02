@@ -1,64 +1,64 @@
-1	Vraiment	Vraiment	G	1	
-2	génial	génial	G	1	
+1	Vraiment	Vraiment	G	1	O
+2	génial	génial	G	1	O
 
-1	Vraiment	Vraiment	N	1	
-2	à	à	P	1	
-3	faire	faire	V	1	
-4	,	,	O	1	
-5	parc	parc	N	1	
-6	qui	qui	P	1	
-7	change	changer	V	1	
-8	des	un	D	1	
-9	autres	autre	G	1	
-10	zoos	zoo	N	1	
-11	,	,	O	1	
-12	très	très	G	1	
-13	propres	propre	G	1	
-14	et	et	C	1	
-15	le	le	D	1	
-16	faite	faire	V	1	
-17	de	de	P	1	
-18	nourrir	nourrir	V	1	
-19	les	le	D	1	
-20	marmottes	marmotte	N	1	
-21	c'	c'	Q	1	
-22	est	être	V	1	
-23	très	très	G	1	
-24	sympa	sympa	G	1	
-25	même	même	G	1	
-26	les	le	D	1	
-27	grands	grand	G	1	
-28	peuvent	pouvoir	V	1	
-29	y	y	Q	1	
-30	aller	aller	V	1	
-31	quand	quand	C	1	
-32	il	il	Q	1	
-33	n	n	G	1	
-34	y	y	Q	1	
-35	a	avoir	V	1	
-36	pas	pas	G	1	
-37	trop	trop	G	1	
-38	de	de	P	1	
-39	monde	monde	N	1	
-40	,	,	O	1	
-41	seul	seul	G	1	
-42	bémol	bémol	N	1	
-43	pas	pas	G	1	
-44	très	très	G	1	
-45	accessible	accessible	G	1	
-46	avec	avec	P	1	
-47	une	un	D	1	
-48	poussette	poussette	N	1	
-49	et	et	C	1	
-50	encore	encore	G	1	
-51	moins	moins	G	1	
-52	avec	avec	P	1	
-53	une	un	D	1	
-54	personne	personne	N	1	
-55	en	en	P	1	
-56	fauteuil	fauteuil	N	1	
-57	roulant	roulant	G	1	
-58	,	,	O	1	
-59	sinon	sinon	G	1	
-60	parfait	parfait	G	1	
+1	Vraiment	Vraiment	N	1	O
+2	à	à	P	1	O
+3	faire	faire	V	1	O
+4	,	,	O	1	O
+5	parc	parc	N	1	O
+6	qui	qui	P	1	O
+7	change	changer	V	1	O
+8	des	un	D	1	O
+9	autres	autre	G	1	O
+10	zoos	zoo	N	1	O
+11	,	,	O	1	O
+12	très	très	G	1	O
+13	propres	propre	G	1	O
+14	et	et	C	1	O
+15	le	le	D	1	O
+16	faite	faire	V	1	O
+17	de	de	P	1	O
+18	nourrir	nourrir	V	1	O
+19	les	le	D	1	O
+20	marmottes	marmotte	N	1	O
+21	c'	c'	Q	1	O
+22	est	être	V	1	O
+23	très	très	G	1	O
+24	sympa	sympa	G	1	O
+25	même	même	G	1	O
+26	les	le	D	1	O
+27	grands	grand	G	1	O
+28	peuvent	pouvoir	V	1	O
+29	y	y	Q	1	O
+30	aller	aller	V	1	O
+31	quand	quand	C	1	O
+32	il	il	Q	1	O
+33	n	n	G	1	O
+34	y	y	Q	1	O
+35	a	avoir	V	1	O
+36	pas	pas	G	1	O
+37	trop	trop	G	1	O
+38	de	de	P	1	O
+39	monde	monde	N	1	O
+40	,	,	O	1	O
+41	seul	seul	G	1	O
+42	bémol	bémol	N	1	O
+43	pas	pas	G	1	O
+44	très	très	G	1	O
+45	accessible	accessible	G	1	O
+46	avec	avec	P	1	O
+47	une	un	D	1	O
+48	poussette	poussette	N	1	O
+49	et	et	C	1	O
+50	encore	encore	G	1	O
+51	moins	moins	G	1	O
+52	avec	avec	P	1	O
+53	une	un	D	1	O
+54	personne	personne	N	1	O
+55	en	en	P	1	O
+56	fauteuil	fauteuil	N	1	O
+57	roulant	roulant	G	1	O
+58	,	,	O	1	O
+59	sinon	sinon	G	1	O
+60	parfait	parfait	G	1	O
 

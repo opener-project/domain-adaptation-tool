@@ -1,46 +1,46 @@
-1	Merveilleux	merveilleux	N	1	
+1	Merveilleux	merveilleux	N	1	O
 
-1	Nous	lui	Q	1	
-2	vous	lui	Q	1	
-3	invitons	invitons	N	1	
-4	à	à	P	1	
-5	suivre	suivre	V	1	
-6	le	le	D	1	
-7	dernier	dernier	G	1	
-8	spectacle	spectacle	N	1	
-9	de	de	P	1	
-10	la	le	D	1	
-11	journée	journée	N	1	
-12	,	,	O	1	
-13	vous	lui	Q	1	
-14	assiterez	assiterez	V	1	
-15	à	à	P	1	
-16	la	le	D	1	
-17	présentation	présentation	N	1	
-18	des	des	P	1	
-19	oiseaux	oiseau	N	1	
-20	nocturnes	nocturne	G	1	
-21	avec	avec	P	1	
-22	un	un	D	1	
-23	passionné	passionné	N	1	
-24	qui	qui	P	1	
-25	vous	lui	Q	1	
-26	présente	présenter	V	1	
-27	les	le	D	1	
-28	espèces	espèce	N	1	
-29	comme	comme	P	1	
-30	personne	personne	P	1	
-31	avec	avec	P	1	
-32	un	un	D	1	
-33	humour	humour	N	1	
-34	décapant	décapant	G	1	
-35	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	vous	lui	Q	1	O
+3	invitons	invitons	N	1	O
+4	à	à	P	1	O
+5	suivre	suivre	V	1	O
+6	le	le	D	1	O
+7	dernier	dernier	G	1	O
+8	spectacle	spectacle	N	1	O
+9	de	de	P	1	O
+10	la	le	D	1	O
+11	journée	journée	N	1	O
+12	,	,	O	1	O
+13	vous	lui	Q	1	O
+14	assiterez	assiterez	V	1	O
+15	à	à	P	1	O
+16	la	le	D	1	O
+17	présentation	présentation	N	1	O
+18	des	des	P	1	O
+19	oiseaux	oiseau	N	1	O
+20	nocturnes	nocturne	G	1	O
+21	avec	avec	P	1	O
+22	un	un	D	1	O
+23	passionné	passionné	N	1	O
+24	qui	qui	P	1	O
+25	vous	lui	Q	1	O
+26	présente	présenter	V	1	O
+27	les	le	D	1	O
+28	espèces	espèce	N	1	O
+29	comme	comme	P	1	O
+30	personne	personne	P	1	O
+31	avec	avec	P	1	O
+32	un	un	D	1	O
+33	humour	humour	N	1	O
+34	décapant	décapant	G	1	O
+35	.	.	O	1	O
 
-1	Vous	lui	Q	1	
-2	en	en	Q	1	
-3	ressortirez	ressortir	V	1	
-4	ravi	ravir	G	1	
-5	et	et	C	1	
-6	enchanté	enchanter	V	1	
-7	.	.	O	1	
+1	Vous	lui	Q	1	O
+2	en	en	Q	1	O
+3	ressortirez	ressortir	V	1	O
+4	ravi	ravir	G	1	O
+5	et	et	C	1	O
+6	enchanté	enchanter	V	1	O
+7	.	.	O	1	O
 

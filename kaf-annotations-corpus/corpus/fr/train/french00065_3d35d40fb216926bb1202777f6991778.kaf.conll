@@ -1,118 +1,122 @@
-1	"	&quot;	O	1	
-2	Déçu	Déçu	P	1	
-3	également	également	G	1	
-4	"	&quot;	O	1	
+1	"	&quot;	O	1	O
+2	Déçu	Déçu	P	1	O
+3	également	également	G	1	O
+4	"	&quot;	O	1	O
 
-1	Exactement	Exactement	N	1	
-2	le	le	D	1	
-3	même	même	G	1	
-4	constat	constat	N	1	
-5	que	que	C	1	
-6	Isa92	Isa92	R	1	ne=Person
-7	.	.	O	1	
+1	Exactement	Exactement	N	1	O
+2	le	le	D	1	O
+3	même	même	G	1	O
+4	constat	constat	N	1	O
+5	que	que	C	1	O
+6	Isa92	Isa92	R	1	I-Person
+7	.	.	O	1	O
 
-1	Difficile	difficile	G	1	
-2	de	de	P	1	
-3	comprendre	comprendre	V	1	
-4	les	le	D	1	
-5	précédents	précédent	N	1	
-6	avis	avis	P	1	
-7	dithyrambiques	dithyrambiques	N	1	
-8	,	,	O	1	
-9	auxquels	auxquels	P	1	
-10	nous	lui	Q	1	
-11	avons	avoir	V	1	
-12	fait	faire	V	1	
-13	confiance	confiance	N	1	
-14	.	.	O	1	
+1	Difficile	difficile	G	1	O
+2	de	de	P	1	O
+3	comprendre	comprendre	V	1	O
+4	les	le	D	1	O
+5	précédents	précédent	N	1	O
+6	avis	avis	P	1	O
+7	dithyrambiques	dithyrambiques	N	1	O
+8	,	,	O	1	O
+9	auxquels	auxquels	P	1	O
+10	nous	lui	Q	1	O
+11	avons	avoir	V	1	O
+12	fait	faire	V	1	O
+13	confiance	confiance	N	1	O
+14	.	.	O	1	O
 
-1	Le	le	D	1	
-2	camping	camping	N	1	
-3	n'	n'	G	1	
-4	est	être	V	1	
-5	pas	pas	G	1	
-6	(	(	O	1	
-7	ou	ou	C	1	
-8	plus	plus	G	1	
-9	,	,	O	1	
-10	car	car	C	1	
-11	personnel	personnel	N	1	
-12	licencié	licencier	G	1	
-13	?	?	O	1	
+1	Le	le	D	1	O
+2	camping	camping	N	1	O
+3	n'	n'	G	1	O
+4	est	être	V	1	O
+5	pas	pas	G	1	O
+6	(	(	O	1	O
+7	ou	ou	C	1	O
+8	plus	plus	G	1	O
+9	,	,	O	1	O
+10	car	car	C	1	O
+11	personnel	personnel	N	1	O
+12	licencié	licencier	G	1	O
+13	?	?	O	1	O
 
-1	)	)	O	1	
-2	adapté	adapter	V	1	
-3	aux	aux	P	1	
-4	enfants	enfant	N	1	
-5	:	:	O	1	
-6	piscine	piscine	N	1	
-7	non	non	G	1	
-8	chauffée	chauffer	G	1	
-9	,	,	O	1	
-10	aucune	aucun	D	1	
-11	activité	activité	N	1	
-12	en	en	P	1	
-13	dehors	dehors	G	1	
-14	de	de	P	1	
-15	l'	le	D	1	
-16	aire	aire	N	1	
-17	de	de	P	1	
-18	jeu	jeu	N	1	
-19	minimale	minimale	O	1	
-20	(	(	O	1	
-21	une	un	D	1	
-22	seule	seul	G	1	
-23	balançoire	balançoire	N	1	
-24	!	!	O	1	
+1	)	)	O	1	O
+2	adapté	adapter	V	1	O
+3	aux	aux	P	1	O
+4	enfants	enfant	N	1	O
+5	:	:	O	1	O
+6	piscine	piscine	N	1	O
+7	non	non	G	1	O
+8	chauffée	chauffer	G	1	O
+9	,	,	O	1	O
+10	aucune	aucun	D	1	O
+11	activité	activité	N	1	O
+12	en	en	P	1	O
+13	dehors	dehors	G	1	O
+14	de	de	P	1	O
+15	l'	le	D	1	O
+16	aire	aire	N	1	O
+17	de	de	P	1	O
+18	jeu	jeu	N	1	O
+19	minimale	minimale	O	1	O
+20	(	(	O	1	O
+21	une	un	D	1	O
+22	seule	seul	G	1	O
+23	balançoire	balançoire	N	1	O
+24	!	!	O	1	O
 
-1	)	)	O	1	
-2	.	.	O	1	
+1	)	)	O	1	O
+2	.	.	O	1	O
 
-1	Accueil	accueil	N	1	
-2	glacial	glacial	G	1	
-3	,	,	O	1	
-4	limite	limiter	V	1	
-5	désagréable	désagréable	G	1	
-6	.	.	O	1	
+1	Accueil	accueil	N	1	O
+2	glacial	glacial	G	1	O
+3	,	,	O	1	O
+4	limite	limiter	V	1	O
+5	désagréable	désagréable	G	1	O
+6	.	.	O	1	O
 
-1	Restaurant	restaurer	V	1	
-2	fermé	fermer	V	1	
-3	.	.	O	1	
+1	Restaurant	restaurer	V	1	O
+2	fermé	fermer	V	1	O
+3	.	.	O	1	O
 
-1	On	On	Q	1	
-2	a	avoir	V	1	
-3	compensé	compenser	V	1	
-4	avec	avec	P	1	
-5	l'	le	D	1	
-6	extérieur	extérieur	N	1	
-7	(	(	O	1	
-8	Coulon	Coulon	R	1	ne=Location
-9	et	et	C	1	
-10	ses	son	D	1	
-11	environs	environs	N	1	
-12	,	,	O	1	
-13	marais_poitevin	marais_poitevin	R	1	ne=Location
-14	,	,	O	1	
-15	Puy_du_Fou	puy_du_fou	R	1	ne=Location
-16	,	,	O	1	
-17	La_Rochelle	le_Rochelle	R	1	ne=Location
-18	...	...	O	1	
-19	)	)	O	1	
-20	et	et	C	1	
-21	le	le	D	1	
-22	côté	côté	N	1	
-23	calme	calme	G	1	
-24	du	du	P	1	
-25	camping	camping	N	1	
-26	.	.	O	1	
+1	On	On	Q	1	O
+2	a	avoir	V	1	O
+3	compensé	compenser	V	1	O
+4	avec	avec	P	1	O
+5	l'	le	D	1	O
+6	extérieur	extérieur	N	1	O
+7	(	(	O	1	O
+8	Coulon	Coulon	R	1	I-Location
+9	et	et	C	1	O
+10	ses	son	D	1	O
+11	environs	environs	N	1	O
+12	,	,	O	1	O
+13	marais	marais	N	1	I-Location
+14	poitevin	poitevin	N	1	I-Location
+15	,	,	O	1	O
+16	Puy	puy	N	1	I-Location
+17	du	du	D	1	I-Location
+18	Fou	fou	N	1	I-Location
+19	,	,	O	1	O
+20	La	le	D	1	I-Location
+21	Rochelle	Rochelle	N	1	I-Location
+22	...	...	O	1	O
+23	)	)	O	1	O
+24	et	et	C	1	O
+25	le	le	D	1	O
+26	côté	côté	N	1	O
+27	calme	calme	G	1	O
+28	du	du	P	1	O
+29	camping	camping	N	1	O
+30	.	.	O	1	O
 
-1	Mais	Mais	C	1	
-2	la	le	D	1	
-3	prestation	prestation	N	1	
-4	ne	ne	G	1	
-5	mérite	mériter	V	1	
-6	surement	surement	G	1	
-7	pas	pas	G	1	
-8	4	4	D	1	
-9	étoiles	étoile	N	1	
+1	Mais	Mais	C	1	O
+2	la	le	D	1	O
+3	prestation	prestation	N	1	O
+4	ne	ne	G	1	O
+5	mérite	mériter	V	1	O
+6	surement	surement	G	1	O
+7	pas	pas	G	1	O
+8	4	4	D	1	O
+9	étoiles	étoile	N	1	O
 

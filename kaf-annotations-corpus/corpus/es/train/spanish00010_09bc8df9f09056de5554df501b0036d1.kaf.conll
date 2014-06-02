@@ -1,118 +1,118 @@
-1	Nuestro	Nuestro	R	1	
-2	hotel	hotel	N	1	
-3	en	en	P	1	
-4	Madrid	Madrid	R	1	
+1	Nuestro	Nuestro	R	1	O
+2	hotel	hotel	N	1	O
+3	en	en	P	1	O
+4	Madrid	Madrid	R	1	O
 
-1	Nos	Nos	R	1	
-2	encanta	encanta	O	1	
-3	este	este	N	1	
-4	hotel	hotel	N	1	
-5	,	,	O	1	
-6	su	su	N	1	
-7	ubicación	ubicación	N	1	
-8	,	,	O	1	
-9	sus	sus	N	1	
-10	habitaciones	habitaciones	N	1	
-11	,	,	O	1	
-12	su	su	O	1	
-13	personal	personal	G	1	
-14	(	(	O	1	
-15	siempre	siempre	G	1	
-16	tan	tan	G	1	
-17	amable	amable	G	1	
-18	y	y	G	1	
-19	servicial	servicial	N	1	
-20	)	)	O	1	
-21	.	.	O	1	
+1	Nos	Nos	R	1	O
+2	encanta	encanta	O	1	O
+3	este	este	N	1	O
+4	hotel	hotel	N	1	O
+5	,	,	O	1	O
+6	su	su	N	1	O
+7	ubicación	ubicación	N	1	O
+8	,	,	O	1	O
+9	sus	sus	N	1	O
+10	habitaciones	habitaciones	N	1	O
+11	,	,	O	1	O
+12	su	su	O	1	O
+13	personal	personal	G	1	O
+14	(	(	O	1	O
+15	siempre	siempre	G	1	O
+16	tan	tan	G	1	O
+17	amable	amable	G	1	O
+18	y	y	G	1	O
+19	servicial	servicial	N	1	O
+20	)	)	O	1	O
+21	.	.	O	1	O
 
-1	A	a	D	1	
-2	mi	mi	G	1	
-3	familia	familia	G	1	
-4	y	y	G	1	
-5	a	a	D	1	
-6	mí	mí	N	1	
-7	nos	nos	O	1	
-8	encanta	encanta	O	1	
-9	la	la	O	1	
-10	ciudad	ciudad	O	1	
-11	de	de	O	1	
-12	Madrid	Madrid	R	1	
-13	,	,	O	1	
-14	el	el	N	1	
-15	poder	poder	N	1	
-16	salir	salir	O	1	
-17	de	de	O	1	
-18	compras	compras	O	1	
-19	,	,	O	1	
-20	de	de	P	1	
-21	tapas	tapa	N	1	
-22	,	,	O	1	
-23	a	a	D	1	
-24	ver	ver	A	1	
-25	un	un	G	1	
-26	espectáculo	espectáculo	N	1	
-27	,	,	O	1	
-28	y	y	G	1	
-29	la	la	N	1	
-30	situación	situación	N	1	
-31	de	de	P	1	
-32	este	este	N	1	
-33	hotel	hotel	N	1	
-34	es	es	V	1	
-35	ideal	ideal	G	1	
-36	para	para	N	1	
-37	poder	poder	N	1	
-38	moverte	moverte	V	1	
-39	por	por	N	1	
-40	el	el	N	1	
-41	centro	centro	N	1	
-42	de	de	P	1	
-43	Madrid	Madrid	R	1	
-44	sin	sin	N	1	
-45	tener	tener	N	1	
-46	que	que	G	1	
-47	coger	coger	N	1	
-48	el	el	N	1	
-49	coche	coche	N	1	
-50	pues	pues	N	1	
-51	todo	todo	P	1	
-52	te	te	G	1	
-53	pilla	pilla	N	1	
-54	a	a	D	1	
-55	mano	mano	N	1	
-56	,	,	O	1	
-57	con	con	A	1	
-58	lo	lo	G	1	
-59	que	que	N	1	
-60	siempre	siempre	N	1	
-61	que	que	N	1	
-62	podemos	podemos	N	1	
-63	planear	planear	V	1	
-64	una	una	G	1	
-65	escapada	escapada	N	1	
-66	familiar	familiar	G	1	
-67	de	de	O	1	
-68	fin	fin	O	1	
-69	de	de	O	1	
-70	semana	semana	O	1	
-71	no	no	D	1	
-72	dudamos	dudamos	N	1	
-73	,	,	O	1	
-74	nuestra	nuestra	G	1	
-75	elección	elección	N	1	
-76	es	es	V	1	
-77	clara	clara	N	1	
-78	:	:	O	1	
-79	¡	¡	N	1	
-80	¡	¡	N	1	
-81	Nos	Nos	R	1	
-82	vamos	vamos	N	1	
-83	al	al	G	1	
-84	Senator	Senator	R	1	
-85	Gran	Gran	R	1	
-86	Via	Via	R	1	
-87	21	21	O	1	
-88	¡	¡	O	1	
-89	¡	¡	N	1	
-90	.	.	O	1	
+1	A	a	D	1	O
+2	mi	mi	G	1	O
+3	familia	familia	G	1	O
+4	y	y	G	1	O
+5	a	a	D	1	O
+6	mí	mí	N	1	O
+7	nos	nos	O	1	O
+8	encanta	encanta	O	1	O
+9	la	la	O	1	O
+10	ciudad	ciudad	O	1	O
+11	de	de	O	1	O
+12	Madrid	Madrid	R	1	O
+13	,	,	O	1	O
+14	el	el	N	1	O
+15	poder	poder	N	1	O
+16	salir	salir	O	1	O
+17	de	de	O	1	O
+18	compras	compras	O	1	O
+19	,	,	O	1	O
+20	de	de	P	1	O
+21	tapas	tapa	N	1	O
+22	,	,	O	1	O
+23	a	a	D	1	O
+24	ver	ver	A	1	O
+25	un	un	G	1	O
+26	espectáculo	espectáculo	N	1	O
+27	,	,	O	1	O
+28	y	y	G	1	O
+29	la	la	N	1	O
+30	situación	situación	N	1	O
+31	de	de	P	1	O
+32	este	este	N	1	O
+33	hotel	hotel	N	1	O
+34	es	es	V	1	O
+35	ideal	ideal	G	1	O
+36	para	para	N	1	O
+37	poder	poder	N	1	O
+38	moverte	moverte	V	1	O
+39	por	por	N	1	O
+40	el	el	N	1	O
+41	centro	centro	N	1	O
+42	de	de	P	1	O
+43	Madrid	Madrid	R	1	O
+44	sin	sin	N	1	O
+45	tener	tener	N	1	O
+46	que	que	G	1	O
+47	coger	coger	N	1	O
+48	el	el	N	1	O
+49	coche	coche	N	1	O
+50	pues	pues	N	1	O
+51	todo	todo	P	1	O
+52	te	te	G	1	O
+53	pilla	pilla	N	1	O
+54	a	a	D	1	O
+55	mano	mano	N	1	O
+56	,	,	O	1	O
+57	con	con	A	1	O
+58	lo	lo	G	1	O
+59	que	que	N	1	O
+60	siempre	siempre	N	1	O
+61	que	que	N	1	O
+62	podemos	podemos	N	1	O
+63	planear	planear	V	1	O
+64	una	una	G	1	O
+65	escapada	escapada	N	1	O
+66	familiar	familiar	G	1	O
+67	de	de	O	1	O
+68	fin	fin	O	1	O
+69	de	de	O	1	O
+70	semana	semana	O	1	O
+71	no	no	D	1	O
+72	dudamos	dudamos	N	1	O
+73	,	,	O	1	O
+74	nuestra	nuestra	G	1	O
+75	elección	elección	N	1	O
+76	es	es	V	1	O
+77	clara	clara	N	1	O
+78	:	:	O	1	O
+79	¡	¡	N	1	O
+80	¡	¡	N	1	O
+81	Nos	Nos	R	1	O
+82	vamos	vamos	N	1	O
+83	al	al	G	1	O
+84	Senator	Senator	R	1	O
+85	Gran	Gran	R	1	O
+86	Via	Via	R	1	O
+87	21	21	O	1	O
+88	¡	¡	O	1	O
+89	¡	¡	N	1	O
+90	.	.	O	1	O
 

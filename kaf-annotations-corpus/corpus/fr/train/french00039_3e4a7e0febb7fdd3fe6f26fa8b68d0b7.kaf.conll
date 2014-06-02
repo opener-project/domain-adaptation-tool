@@ -1,166 +1,166 @@
-1	à	à	P	1	
-2	éviter	éviter	V	1	
+1	à	à	P	1	O
+2	éviter	éviter	V	1	O
 
-1	journée	journée	N	1	
-2	d'	d'	P	1	
-3	enfer	enfer	N	1	
-4	,	,	O	1	
-5	tout	tout	G	1	
-6	d'	d'	P	1	
-7	abord	abord	N	1	
-8	une	un	D	1	
-9	queue	queue	N	1	
-10	d'	d'	P	1	
-11	environ	environ	G	1	
-12	1	1	D	1	
-13	heure	heure	N	1	
-14	pour	pour	P	1	
-15	pouvoir	pouvoir	V	1	
-16	accéder	accéder	V	1	
-17	au	au	P	1	
-18	parc.ensuite	parc.ensuite	D	1	
-19	le	le	D	1	
-20	prix	prix	N	1	
-21	,	,	O	1	
-22	25	25	D	1	
-23	euros	euro	N	1	
-24	par	par	P	1	
-25	adulte	adulte	N	1	
-26	pour	pour	P	1	
-27	l'	le	D	1	
-28	entrée	entrée	N	1	
-29	,	,	O	1	
-30	plus	plus	G	1	
-31	le	le	D	1	
-32	parking	parking	N	1	
-33	payant	payer	V	1	
-34	si	si	C	1	
-35	vous	lui	Q	1	
-36	voulez	vouloir	V	1	
-37	etre	etre	V	1	
-38	stationné	stationner	V	1	
-39	juste	juste	G	1	
-40	à	à	P	1	
-41	l'	le	D	1	
-42	entrée.ensuite	entrée.ensuite	N	1	
-43	les	le	D	1	
-44	toilettes	toilette	N	1	
-45	,	,	O	1	
-46	une	un	D	1	
-47	horreur	horreur	N	1	
-48	pas	pas	G	1	
-49	de	de	P	1	
-50	papier	papier	N	1	
-51	du	du	D	1	
-52	sang	sang	N	1	
-53	et	et	C	1	
-54	des	un	D	1	
-55	excréments	excrément	N	1	
-56	sur	sur	P	1	
-57	le	le	D	1	
-58	sol	sol	N	1	
-59	.	.	O	1	
+1	journée	journée	N	1	O
+2	d'	d'	P	1	O
+3	enfer	enfer	N	1	O
+4	,	,	O	1	O
+5	tout	tout	G	1	O
+6	d'	d'	P	1	O
+7	abord	abord	N	1	O
+8	une	un	D	1	O
+9	queue	queue	N	1	O
+10	d'	d'	P	1	O
+11	environ	environ	G	1	O
+12	1	1	D	1	O
+13	heure	heure	N	1	O
+14	pour	pour	P	1	O
+15	pouvoir	pouvoir	V	1	O
+16	accéder	accéder	V	1	O
+17	au	au	P	1	O
+18	parc.ensuite	parc.ensuite	D	1	O
+19	le	le	D	1	O
+20	prix	prix	N	1	O
+21	,	,	O	1	O
+22	25	25	D	1	O
+23	euros	euro	N	1	O
+24	par	par	P	1	O
+25	adulte	adulte	N	1	O
+26	pour	pour	P	1	O
+27	l'	le	D	1	O
+28	entrée	entrée	N	1	O
+29	,	,	O	1	O
+30	plus	plus	G	1	O
+31	le	le	D	1	O
+32	parking	parking	N	1	O
+33	payant	payer	V	1	O
+34	si	si	C	1	O
+35	vous	lui	Q	1	O
+36	voulez	vouloir	V	1	O
+37	etre	etre	V	1	O
+38	stationné	stationner	V	1	O
+39	juste	juste	G	1	O
+40	à	à	P	1	O
+41	l'	le	D	1	O
+42	entrée.ensuite	entrée.ensuite	N	1	O
+43	les	le	D	1	O
+44	toilettes	toilette	N	1	O
+45	,	,	O	1	O
+46	une	un	D	1	O
+47	horreur	horreur	N	1	O
+48	pas	pas	G	1	O
+49	de	de	P	1	O
+50	papier	papier	N	1	O
+51	du	du	D	1	O
+52	sang	sang	N	1	O
+53	et	et	C	1	O
+54	des	un	D	1	O
+55	excréments	excrément	N	1	O
+56	sur	sur	P	1	O
+57	le	le	D	1	O
+58	sol	sol	N	1	O
+59	.	.	O	1	O
 
-1	les	le	D	1	
-2	attractions	attraction	N	1	
-3	1	1	D	1	
-4	heure	heure	N	1	
-5	d'	d'	P	1	
-6	attente	attente	N	1	
-7	environ	environ	G	1	
-8	et	et	C	1	
-9	là	là	G	1	
-10	stupéfaction	stupéfaction	N	1	
-11	des	un	D	1	
-12	personnes	personne	N	1	
-13	passent	passer	V	1	
-14	en	en	P	1	
-15	priorité	priorité	N	1	
-16	devant	devant	P	1	
-17	vous	lui	Q	1	
-18	sous	sous	P	1	
-19	prétexte	prétexte	N	1	
-20	qu'	qu'	C	1	
-21	elles	lui	Q	1	
-22	ont	avoir	V	1	
-23	loué	louer	V	1	
-24	une	un	D	1	
-25	boué	boué	N	1	
-26	rouge	rouge	G	1	
-27	pour	pour	P	1	
-28	la	le	D	1	
-29	somme	somme	N	1	
-30	de	de	P	1	
-31	5	5	D	1	
-32	euros	euro	N	1	
-33	,	,	O	1	
-34	ceci	ceci	G	1	
-35	en	en	P	1	
-36	plus	plus	G	1	
-37	de	de	P	1	
-38	l'	le	D	1	
-39	entrée.nous	entrée.nous	N	1	
-40	décidons	décidons	P	1	
-41	ensuite	ensuite	G	1	
-42	de	de	P	1	
-43	manger	manger	V	1	
-44	:	:	O	1	
-45	5	5	O	1	
-46	personnes	personne	N	1	
-47	pour	pour	P	1	
-48	servir	servir	V	1	
-49	300	300	D	1	
-50	personnes.temps	personnes.temps	N	1	
-51	d'	d'	P	1	
-52	attente	attente	N	1	
-53	encore	encore	G	1	
-54	1	1	D	1	
-55	heure.aprés	heure.aprés	D	1	
-56	on	on	Q	1	
-57	s'	s'	Q	1	
-58	installe	installer	V	1	
-59	sur	sur	P	1	
-60	la	le	D	1	
-61	terasse	terasse	N	1	
-62	pour	pour	P	1	
-63	y	y	Q	1	
-64	déjeuner	déjeuner	V	1	
-65	mais	mais	C	1	
-66	le	le	Q	1	
-67	probleme	probleme	G	1	
-68	c'	c'	Q	1	
-69	est	être	V	1	
-70	qu'	qu'	C	1	
-71	on	on	Q	1	
-72	est	être	V	1	
-73	attaqué	attaquer	V	1	
-74	par	par	P	1	
-75	les	le	D	1	
-76	guepes	guepes	N	1	
-77	et	et	C	1	
-78	les	le	D	1	
-79	frelons	frelon	N	1	
-80	car	car	C	1	
-81	par	par	P	1	
-82	manque	manque	N	1	
-83	de	de	P	1	
-84	personnel	personnel	N	1	
-85	les	le	D	1	
-86	poubelles	poubelle	N	1	
-87	n'	n'	G	1	
-88	ont	avoir	V	1	
-89	pas	pas	G	1	
-90	été	être	V	1	
-91	vidées	vider	V	1	
-92	depuis	depuis	P	1	
-93	longtemps	longtemps	G	1	
-94	...	...	O	1	
-95	enfin	enfin	G	1	
-96	bref	bref	G	1	
-97	à	à	P	1	
-98	éviter	éviter	V	1	
-99	passer	passer	V	1	
-100	votre	son	D	1	
-101	chemin	chemin	N	1	
-102	.	.	O	1	
+1	les	le	D	1	O
+2	attractions	attraction	N	1	O
+3	1	1	D	1	O
+4	heure	heure	N	1	O
+5	d'	d'	P	1	O
+6	attente	attente	N	1	O
+7	environ	environ	G	1	O
+8	et	et	C	1	O
+9	là	là	G	1	O
+10	stupéfaction	stupéfaction	N	1	O
+11	des	un	D	1	O
+12	personnes	personne	N	1	O
+13	passent	passer	V	1	O
+14	en	en	P	1	O
+15	priorité	priorité	N	1	O
+16	devant	devant	P	1	O
+17	vous	lui	Q	1	O
+18	sous	sous	P	1	O
+19	prétexte	prétexte	N	1	O
+20	qu'	qu'	C	1	O
+21	elles	lui	Q	1	O
+22	ont	avoir	V	1	O
+23	loué	louer	V	1	O
+24	une	un	D	1	O
+25	boué	boué	N	1	O
+26	rouge	rouge	G	1	O
+27	pour	pour	P	1	O
+28	la	le	D	1	O
+29	somme	somme	N	1	O
+30	de	de	P	1	O
+31	5	5	D	1	O
+32	euros	euro	N	1	O
+33	,	,	O	1	O
+34	ceci	ceci	G	1	O
+35	en	en	P	1	O
+36	plus	plus	G	1	O
+37	de	de	P	1	O
+38	l'	le	D	1	O
+39	entrée.nous	entrée.nous	N	1	O
+40	décidons	décidons	P	1	O
+41	ensuite	ensuite	G	1	O
+42	de	de	P	1	O
+43	manger	manger	V	1	O
+44	:	:	O	1	O
+45	5	5	O	1	O
+46	personnes	personne	N	1	O
+47	pour	pour	P	1	O
+48	servir	servir	V	1	O
+49	300	300	D	1	O
+50	personnes.temps	personnes.temps	N	1	O
+51	d'	d'	P	1	O
+52	attente	attente	N	1	O
+53	encore	encore	G	1	O
+54	1	1	D	1	O
+55	heure.aprés	heure.aprés	D	1	O
+56	on	on	Q	1	O
+57	s'	s'	Q	1	O
+58	installe	installer	V	1	O
+59	sur	sur	P	1	O
+60	la	le	D	1	O
+61	terasse	terasse	N	1	O
+62	pour	pour	P	1	O
+63	y	y	Q	1	O
+64	déjeuner	déjeuner	V	1	O
+65	mais	mais	C	1	O
+66	le	le	Q	1	O
+67	probleme	probleme	G	1	O
+68	c'	c'	Q	1	O
+69	est	être	V	1	O
+70	qu'	qu'	C	1	O
+71	on	on	Q	1	O
+72	est	être	V	1	O
+73	attaqué	attaquer	V	1	O
+74	par	par	P	1	O
+75	les	le	D	1	O
+76	guepes	guepes	N	1	O
+77	et	et	C	1	O
+78	les	le	D	1	O
+79	frelons	frelon	N	1	O
+80	car	car	C	1	O
+81	par	par	P	1	O
+82	manque	manque	N	1	O
+83	de	de	P	1	O
+84	personnel	personnel	N	1	O
+85	les	le	D	1	O
+86	poubelles	poubelle	N	1	O
+87	n'	n'	G	1	O
+88	ont	avoir	V	1	O
+89	pas	pas	G	1	O
+90	été	être	V	1	O
+91	vidées	vider	V	1	O
+92	depuis	depuis	P	1	O
+93	longtemps	longtemps	G	1	O
+94	...	...	O	1	O
+95	enfin	enfin	G	1	O
+96	bref	bref	G	1	O
+97	à	à	P	1	O
+98	éviter	éviter	V	1	O
+99	passer	passer	V	1	O
+100	votre	son	D	1	O
+101	chemin	chemin	N	1	O
+102	.	.	O	1	O
 

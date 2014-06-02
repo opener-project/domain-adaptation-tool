@@ -1,104 +1,104 @@
-1	Cosi	cosi	G	1	
-2	cosi	cosi	G	1	
-3	.	.	O	1	
+1	Cosi	cosi	G	1	O
+2	cosi	cosi	G	1	O
+3	.	.	O	1	O
 
-1	Niente	niente	N	1	
-2	di	di	P	1	
-3	speciale	speciale	G	1	
-4	.	.	O	1	
+1	Niente	niente	N	1	O
+2	di	di	P	1	O
+3	speciale	speciale	G	1	O
+4	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	alloggiato	alloggiare	V	1	
-3	qui	qui	A	1	
-4	per	per	P	1	
-5	una	uno	D	1	
-6	notte	notte	N	1	
-7	,	,	O	1	
-8	visto	visto	N	1	
-9	che	che	Q	1	
-10	dovevamo	dovere	V	1	
-11	andare	andare	V	1	
-12	ad	ad	P	1	
-13	un	uno	D	1	
-14	convegno	convegno	N	1	
-15	alla	alla	P	1	
-16	vicina	vicino	G	1	
-17	università	universita'	R	1	
-18	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	alloggiato	alloggiare	V	1	O
+3	qui	qui	A	1	O
+4	per	per	P	1	O
+5	una	uno	D	1	O
+6	notte	notte	N	1	O
+7	,	,	O	1	O
+8	visto	visto	N	1	O
+9	che	che	Q	1	O
+10	dovevamo	dovere	V	1	O
+11	andare	andare	V	1	O
+12	ad	ad	P	1	O
+13	un	uno	D	1	O
+14	convegno	convegno	N	1	O
+15	alla	alla	P	1	O
+16	vicina	vicino	G	1	O
+17	università	universita'	R	1	O
+18	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	ha	avere	V	1	
-4	una	uno	D	1	
-5	posizione	posizione	N	1	
-6	molto	molto	A	1	
-7	comoda	comodo	G	1	
-8	da	da	P	1	
-9	raggiungere	raggiungere	V	1	
-10	(	(	O	1	
-11	all'	all'	P	1	
-12	uscita	uscita	N	1	
-13	dell'	dell'	P	1	
-14	autostrada	autostrada	N	1	
-15	)	)	O	1	
-16	,	,	O	1	
-17	ma	ma	Q	1	
-18	è	essere	V	1	
-19	comunque	comunque	Q	1	
-20	fuori	fuori	N	1	
-21	dal	dal	P	1	
-22	centro	centro	N	1	
-23	,	,	O	1	
-24	per	per	P	1	
-25	cui	cui	Q	1	
-26	maggiormente	maggiormente	A	1	
-27	adatto	adattare	V	1	
-28	a	a	P	1	
-29	viaggi	viaggio	N	1	
-30	di	di	P	1	
-31	lavoro	lavoro	N	1	
-32	che	che	Q	1	
-33	di	di	P	1	
-34	piacere	piacere	V	1	
-35	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	ha	avere	V	1	O
+4	una	uno	D	1	O
+5	posizione	posizione	N	1	O
+6	molto	molto	A	1	O
+7	comoda	comodo	G	1	O
+8	da	da	P	1	O
+9	raggiungere	raggiungere	V	1	O
+10	(	(	O	1	O
+11	all'	all'	P	1	O
+12	uscita	uscita	N	1	O
+13	dell'	dell'	P	1	O
+14	autostrada	autostrada	N	1	O
+15	)	)	O	1	O
+16	,	,	O	1	O
+17	ma	ma	Q	1	O
+18	è	essere	V	1	O
+19	comunque	comunque	Q	1	O
+20	fuori	fuori	N	1	O
+21	dal	dal	P	1	O
+22	centro	centro	N	1	O
+23	,	,	O	1	O
+24	per	per	P	1	O
+25	cui	cui	Q	1	O
+26	maggiormente	maggiormente	A	1	O
+27	adatto	adattare	V	1	O
+28	a	a	P	1	O
+29	viaggi	viaggio	N	1	O
+30	di	di	P	1	O
+31	lavoro	lavoro	N	1	O
+32	che	che	Q	1	O
+33	di	di	P	1	O
+34	piacere	piacere	V	1	O
+35	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	camere	camera	N	1	
-3	sono	essere	V	1	
-4	moderne	moderno	G	1	
-5	in	in	P	1	
-6	stile	stile	N	1	
-7	AC	ac	R	1	
-8	,	,	O	1	
-9	ma	ma	Q	1	
-10	questo	questo	G	1	
-11	hotel	hotel	N	1	
-12	non	non	A	1	
-13	è	essere	V	1	
-14	nuovo	nuovo	G	1	
-15	e	e	Q	1	
-16	i	lo	D	1	
-17	segni	segno	N	1	
-18	dell'	dell'	P	1	
-19	età	eta'	N	1	
-20	di	di	P	1	
-21	vedono	vedere	V	1	
-22	.	.	O	1	
+1	Le	lo	D	1	O
+2	camere	camera	N	1	O
+3	sono	essere	V	1	O
+4	moderne	moderno	G	1	O
+5	in	in	P	1	O
+6	stile	stile	N	1	O
+7	AC	ac	R	1	O
+8	,	,	O	1	O
+9	ma	ma	Q	1	O
+10	questo	questo	G	1	O
+11	hotel	hotel	N	1	O
+12	non	non	A	1	O
+13	è	essere	V	1	O
+14	nuovo	nuovo	G	1	O
+15	e	e	Q	1	O
+16	i	lo	D	1	O
+17	segni	segno	N	1	O
+18	dell'	dell'	P	1	O
+19	età	eta'	N	1	O
+20	di	di	P	1	O
+21	vedono	vedere	V	1	O
+22	.	.	O	1	O
 
-1	Pulizia	pulizia	N	1	
-2	non	non	A	1	
-3	eccellente	eccellere	V	1	
-4	al	al	P	1	
-5	ristorante	ristorante	N	1	
-6	.	.	O	1	
+1	Pulizia	pulizia	N	1	O
+2	non	non	A	1	O
+3	eccellente	eccellere	V	1	O
+4	al	al	P	1	O
+5	ristorante	ristorante	N	1	O
+6	.	.	O	1	O
 
-1	Insomma	insomma	A	1	
-2	una	uno	D	1	
-3	esperienza	esperienza	N	1	
-4	senza	senza	P	1	
-5	nè	nè	N	1	
-6	infamia	infamia	N	1	
-7	nè	nè	R	1	
-8	lode	lode	N	1	
-9	.	.	O	1	
+1	Insomma	insomma	A	1	O
+2	una	uno	D	1	O
+3	esperienza	esperienza	N	1	O
+4	senza	senza	P	1	O
+5	nè	nè	N	1	O
+6	infamia	infamia	N	1	O
+7	nè	nè	R	1	O
+8	lode	lode	N	1	O
+9	.	.	O	1	O
 

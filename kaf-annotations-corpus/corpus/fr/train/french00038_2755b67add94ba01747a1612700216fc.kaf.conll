@@ -1,167 +1,170 @@
-1	Quel	Quel	G	1	
-2	séjour	séjour	N	1	
-3	incroyable	incroyable	G	1	
-4	!	!	O	1	
+1	Quel	Quel	G	1	O
+2	séjour	séjour	N	1	O
+3	incroyable	incroyable	G	1	O
+4	!	!	O	1	O
 
-1	C'	C'	Q	1	
-2	est	être	V	1	
-3	un	un	D	1	
-4	hôtel	hôtel	N	1	
-5	all	all	N	1	
-6	inclusive	inclusif	G	1	
-7	.	.	O	1	
+1	C'	C'	Q	1	O
+2	est	être	V	1	O
+3	un	un	D	1	O
+4	hôtel	hôtel	N	1	O
+5	all	all	N	1	O
+6	inclusive	inclusif	G	1	O
+7	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	rapport	rapport	N	1	
-4	qualité	qualité	N	1	
-5	/	/	P	1	
-6	prix	prix	N	1	
-7	.	.	O	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	rapport	rapport	N	1	O
+4	qualité	qualité	N	1	O
+5	/	/	P	1	O
+6	prix	prix	N	1	O
+7	.	.	O	1	O
 
-1	L'	le	D	1	
-2	hôtel	hôtel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	bien	bien	G	1	
-6	entretenu	entretenir	V	1	
-7	,	,	O	1	
-8	que	que	C	1	
-9	ce	ce	Q	1	
-10	soit	être	V	1	
-11	à	à	P	1	
-12	l'	le	D	1	
-13	intérieur	intérieur	N	1	
-14	ou	ou	C	1	
-15	à	à	P	1	
-16	l'	le	D	1	
-17	extérieur	extérieur	N	1	
-18	(	(	O	1	
-19	bord	bord	N	1	
-20	des	des	P	1	
-21	piscines	piscine	N	1	
-22	et	et	C	1	
-23	jardins	jardin	N	1	
-24	)	)	O	1	
-25	.	.	O	1	
+1	L'	le	D	1	O
+2	hôtel	hôtel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	bien	bien	G	1	O
+6	entretenu	entretenir	V	1	O
+7	,	,	O	1	O
+8	que	que	C	1	O
+9	ce	ce	Q	1	O
+10	soit	être	V	1	O
+11	à	à	P	1	O
+12	l'	le	D	1	O
+13	intérieur	intérieur	N	1	O
+14	ou	ou	C	1	O
+15	à	à	P	1	O
+16	l'	le	D	1	O
+17	extérieur	extérieur	N	1	O
+18	(	(	O	1	O
+19	bord	bord	N	1	O
+20	des	des	P	1	O
+21	piscines	piscine	N	1	O
+22	et	et	C	1	O
+23	jardins	jardin	N	1	O
+24	)	)	O	1	O
+25	.	.	O	1	O
 
-1	Les	le	D	1	
-2	chambres	chambre	N	1	
-3	sont	être	V	1	
-4	suffisament	suffisament	G	1	
-5	spacieuses	spacieux	G	1	
-6	et	et	C	1	
-7	sont	être	V	1	
-8	faites	faire	V	1	
-9	tous	tout	G	1	
-10	les	le	D	1	
-11	jours	jour	N	1	
-12	.	.	O	1	
+1	Les	le	D	1	O
+2	chambres	chambre	N	1	O
+3	sont	être	V	1	O
+4	suffisament	suffisament	G	1	O
+5	spacieuses	spacieux	G	1	O
+6	et	et	C	1	O
+7	sont	être	V	1	O
+8	faites	faire	V	1	O
+9	tous	tout	G	1	O
+10	les	le	D	1	O
+11	jours	jour	N	1	O
+12	.	.	O	1	O
 
-1	La	le	D	1	
-2	nourriture	nourriture	N	1	
-3	est	être	V	1	
-4	présentée	présenter	V	1	
-5	sous	sous	P	1	
-6	forme	forme	N	1	
-7	de	de	P	1	
-8	buffet	buffet	N	1	
-9	dans	dans	P	1	
-10	le	le	D	1	
-11	restaurant	restaurant	N	1	
-12	principal	principal	G	1	
-13	,	,	O	1	
-14	et	et	C	1	
-15	est	être	V	1	
-16	très	très	G	1	
-17	variée	varier	G	1	
-18	:	:	O	1	
-19	donc	donc	G	1	
-20	,	,	O	1	
-21	à	à	P	1	
-22	chacun	chacun	P	1	
-23	de	de	P	1	
-24	composer	composer	V	1	
-25	son	son	D	1	
-26	menu	menu	N	1	
-27	tous	tout	G	1	
-28	les	le	D	1	
-29	jours	jour	N	1	
-30	.	.	O	1	
+1	La	le	D	1	O
+2	nourriture	nourriture	N	1	O
+3	est	être	V	1	O
+4	présentée	présenter	V	1	O
+5	sous	sous	P	1	O
+6	forme	forme	N	1	O
+7	de	de	P	1	O
+8	buffet	buffet	N	1	O
+9	dans	dans	P	1	O
+10	le	le	D	1	O
+11	restaurant	restaurant	N	1	O
+12	principal	principal	G	1	O
+13	,	,	O	1	O
+14	et	et	C	1	O
+15	est	être	V	1	O
+16	très	très	G	1	O
+17	variée	varier	G	1	O
+18	:	:	O	1	O
+19	donc	donc	G	1	O
+20	,	,	O	1	O
+21	à	à	P	1	O
+22	chacun	chacun	P	1	O
+23	de	de	P	1	O
+24	composer	composer	V	1	O
+25	son	son	D	1	O
+26	menu	menu	N	1	O
+27	tous	tout	G	1	O
+28	les	le	D	1	O
+29	jours	jour	N	1	O
+30	.	.	O	1	O
 
-1	De	De	P	1	
-2	plus	plus	G	1	
-3	,	,	O	1	
-4	il	il	Q	1	
-5	y	y	Q	1	
-6	a	avoir	V	1	
-7	trois	trois	D	1	
-8	autres	autre	G	1	
-9	restaurants	restaurant	N	1	
-10	sur	sur	P	1	
-11	place	place	N	1	
-12	:	:	O	1	
-13	un	un	D	1	
-14	italien	italien	N	1	
-15	,	,	O	1	
-16	un	un	D	1	
-17	asiatique	asiatique	G	1	
-18	et	et	C	1	
-19	un	un	D	1	
-20	oriental	oriental	G	1	
-21	.	.	O	1	
+1	De	De	P	1	O
+2	plus	plus	G	1	O
+3	,	,	O	1	O
+4	il	il	Q	1	O
+5	y	y	Q	1	O
+6	a	avoir	V	1	O
+7	trois	trois	D	1	O
+8	autres	autre	G	1	O
+9	restaurants	restaurant	N	1	O
+10	sur	sur	P	1	O
+11	place	place	N	1	O
+12	:	:	O	1	O
+13	un	un	D	1	O
+14	italien	italien	N	1	O
+15	,	,	O	1	O
+16	un	un	D	1	O
+17	asiatique	asiatique	G	1	O
+18	et	et	C	1	O
+19	un	un	D	1	O
+20	oriental	oriental	G	1	O
+21	.	.	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	professionnel	professionnel	G	1	
-6	,	,	O	1	
-7	gentil	gentil	N	1	
-8	,	,	O	1	
-9	rapide	rapide	G	1	
-10	et	et	C	1	
-11	efficace	efficace	G	1	
-12	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	professionnel	professionnel	G	1	O
+6	,	,	O	1	O
+7	gentil	gentil	N	1	O
+8	,	,	O	1	O
+9	rapide	rapide	G	1	O
+10	et	et	C	1	O
+11	efficace	efficace	G	1	O
+12	.	.	O	1	O
 
-1	En	En	P	1	
-2	particulier	particulier	G	1	
-3	,	,	O	1	
-4	Shaban	Shaban	R	1	ne=Person
-5	,	,	O	1	
-6	le	le	D	1	
-7	serveur	serveur	N	1	
-8	le	le	D	1	
-9	plus	plus	G	1	
-10	rapide	rapide	G	1	
-11	,	,	O	1	
-12	le	le	D	1	
-13	plus	plus	G	1	
-14	aimable	aimable	G	1	
-15	et	et	C	1	
-16	le	le	D	1	
-17	plus	plus	G	1	
-18	souriant	souriant	G	1	
-19	du	du	D	1	
-20	monde	monde	N	1	
-21	.	.	O	1	
+1	En	En	P	1	O
+2	particulier	particulier	G	1	O
+3	,	,	O	1	O
+4	Shaban	Shaban	R	1	I-Person
+5	,	,	O	1	O
+6	le	le	D	1	O
+7	serveur	serveur	N	1	O
+8	le	le	D	1	O
+9	plus	plus	G	1	O
+10	rapide	rapide	G	1	O
+11	,	,	O	1	O
+12	le	le	D	1	O
+13	plus	plus	G	1	O
+14	aimable	aimable	G	1	O
+15	et	et	C	1	O
+16	le	le	D	1	O
+17	plus	plus	G	1	O
+18	souriant	souriant	G	1	O
+19	du	du	D	1	O
+20	monde	monde	N	1	O
+21	.	.	O	1	O
 
-1	La	le	D	1	
-2	clientèle	clientèle	N	1	
-3	principale	principal	G	1	
-4	vient	venir	V	1	
-5	des	un	D	1	
-6	pays_de_l'_est	pays_de_le_est	R	1	ne=Location
-7	.	.	O	1	
+1	La	le	D	1	O
+2	clientèle	clientèle	N	1	O
+3	principale	principal	G	1	O
+4	vient	venir	V	1	O
+5	des	un	D	1	O
+6	pays	pays	N	1	I-Location
+7	de	de	P	1	I-Location
+8	l'	le	D	1	I-Location
+9	est	est	N	1	I-Location
+10	.	.	O	1	O
 
-1	Tranche	tranche	N	1	
-2	d'	d'	P	1	
-3	âge	âge	N	1	
-4	:	:	O	1	
-5	un	un	D	1	
-6	peu	peu	G	1	
-7	tous	tout	G	1	
-8	les	le	D	1	
-9	âges	âge	N	1	
-10	.	.	O	1	
+1	Tranche	tranche	N	1	O
+2	d'	d'	P	1	O
+3	âge	âge	N	1	O
+4	:	:	O	1	O
+5	un	un	D	1	O
+6	peu	peu	G	1	O
+7	tous	tout	G	1	O
+8	les	le	D	1	O
+9	âges	âge	N	1	O
+10	.	.	O	1	O
 

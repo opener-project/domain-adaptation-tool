@@ -1,139 +1,139 @@
-1	Leider	leider	A	1	
-2	·	·	O	1	
-3	das	die	Q	1	
-4	ist	sein	V	1	
-5	kein	keine	Q	1	
-6	5	5	O	1	
-7	Sterne	Stern	N	1	
-8	Hotel	Hotel	N	1	
+1	Leider	leider	A	1	O
+2	·	·	O	1	O
+3	das	die	Q	1	O
+4	ist	sein	V	1	O
+5	kein	keine	Q	1	O
+6	5	5	O	1	O
+7	Sterne	Stern	N	1	O
+8	Hotel	Hotel	N	1	O
 
-1	Unser	unser	Q	1	
-2	Fazit	Fazit	N	1	
-3	nach	nach	P	1	
-4	3	3	O	1	
-5	·	·	O	1	
-6	tägigem	tägigem	O	1	
-7	Aufenthalt	Aufenthalt	N	1	
-8	im	in	P	1	
-9	Royal	royal	G	1	
-10	Club	Club	N	1	
-11	Doppelzimmer	Doppelzimmer	N	1	
-12	(	(	O	1	
-13	ca.	ca.	A	1	
-14	20qm	20qm	O	1	
-15	)	)	O	1	
-16	:	:	O	1	
+1	Unser	unser	Q	1	O
+2	Fazit	Fazit	N	1	O
+3	nach	nach	P	1	O
+4	3	3	O	1	O
+5	·	·	O	1	O
+6	tägigem	tägigem	O	1	O
+7	Aufenthalt	Aufenthalt	N	1	O
+8	im	in	P	1	O
+9	Royal	royal	G	1	O
+10	Club	Club	N	1	O
+11	Doppelzimmer	Doppelzimmer	N	1	O
+12	(	(	O	1	O
+13	ca.	ca.	A	1	O
+14	20qm	20qm	O	1	O
+15	)	)	O	1	O
+16	:	:	O	1	O
 
-1	Hier	hier	A	1	
-2	fahren	fahren	V	1	
-3	wir	wir	Q	1	
-4	Nie	nie	A	1	
-5	wieder	wieder	A	1	
-6	her	her	V	1	
-7	,	,	O	1	
-8	großer	groß	G	1	
-9	Schimmelfleck	Schimmelfleck	O	1	
-10	im	in	P	1	
-11	Zimmer	Zimmer	N	1	
-12	über	über	P	1	
-13	dem	die	D	1	
-14	Fenster	Fenster	N	1	
-15	,	,	O	1	
-16	Teppich	Teppich	N	1	
-17	alt	alt	G	1	
-18	und	und	C	1	
-19	nicht	nicht	O	1	
-20	sauber	sauber	G	1	
-21	,	,	O	1	
-22	alte	alt	G	1	
-23	abgenutzte	abgenutzt	G	1	
-24	Möbel	Möbel	N	1	
-25	(	(	O	1	
-26	auch	auch	A	1	
-27	das	die	D	1	
-28	Bett	Bett	N	1	
-29	)	)	O	1	
-30	,	,	O	1	
+1	Hier	hier	A	1	O
+2	fahren	fahren	V	1	O
+3	wir	wir	Q	1	O
+4	Nie	nie	A	1	O
+5	wieder	wieder	A	1	O
+6	her	her	V	1	O
+7	,	,	O	1	O
+8	großer	groß	G	1	O
+9	Schimmelfleck	Schimmelfleck	O	1	O
+10	im	in	P	1	O
+11	Zimmer	Zimmer	N	1	O
+12	über	über	P	1	O
+13	dem	die	D	1	O
+14	Fenster	Fenster	N	1	O
+15	,	,	O	1	O
+16	Teppich	Teppich	N	1	O
+17	alt	alt	G	1	O
+18	und	und	C	1	O
+19	nicht	nicht	O	1	O
+20	sauber	sauber	G	1	O
+21	,	,	O	1	O
+22	alte	alt	G	1	O
+23	abgenutzte	abgenutzt	G	1	O
+24	Möbel	Möbel	N	1	O
+25	(	(	O	1	O
+26	auch	auch	A	1	O
+27	das	die	D	1	O
+28	Bett	Bett	N	1	O
+29	)	)	O	1	O
+30	,	,	O	1	O
 
-1	uralter	uralt	G	1	
-2	Fernseher	Fernseher	N	1	
-3	,	,	O	1	
-4	Minibar	Minibar	N	1	
-5	zwar	zwar	A	1	
-6	im	in	P	1	
-7	stolzen	stolz	G	1	
-8	Zimmerpreis	Zimmerpreis	N	1	
-9	von	von	R	1	
-10	!	!	O	1	
-11	!	!	O	1	
-12	490	@card@	O	1	
-13	,	,	O	1	
-14	·	·	O	1	
-15	!	!	O	1	
-16	!	!	O	1	
+1	uralter	uralt	G	1	O
+2	Fernseher	Fernseher	N	1	O
+3	,	,	O	1	O
+4	Minibar	Minibar	N	1	O
+5	zwar	zwar	A	1	O
+6	im	in	P	1	O
+7	stolzen	stolz	G	1	O
+8	Zimmerpreis	Zimmerpreis	N	1	O
+9	von	von	R	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
+12	490	@card@	O	1	O
+13	,	,	O	1	O
+14	·	·	O	1	O
+15	!	!	O	1	O
+16	!	!	O	1	O
 
-1	Euro	Euro	N	1	
-2	pro	pro	P	1	
-3	Nacht	Nacht	N	1	
-4	inkludiert	inkludiert	O	1	
-5	aber	aber	A	1	
-6	sehr	sehr	A	1	
-7	sehr	sehr	A	1	
-8	schlecht	schlecht	G	1	
-9	bestückt	bestücken	V	1	
-10	,	,	O	1	
-11	dafür	dafür	Q	1	
-12	gibts	gibts	O	1	
-13	einen	eine	D	1	
-14	Wasserkocher	Wasserkocher	N	1	
-15	und	und	C	1	
-16	löslichen	löslich	G	1	
-17	Kaffee	Kaffee	N	1	
-18	am	an	P	1	
-19	Zimmer	Zimmer	N	1	
-20	.	.	O	1	
+1	Euro	Euro	N	1	O
+2	pro	pro	P	1	O
+3	Nacht	Nacht	N	1	O
+4	inkludiert	inkludiert	O	1	O
+5	aber	aber	A	1	O
+6	sehr	sehr	A	1	O
+7	sehr	sehr	A	1	O
+8	schlecht	schlecht	G	1	O
+9	bestückt	bestücken	V	1	O
+10	,	,	O	1	O
+11	dafür	dafür	Q	1	O
+12	gibts	gibts	O	1	O
+13	einen	eine	D	1	O
+14	Wasserkocher	Wasserkocher	N	1	O
+15	und	und	C	1	O
+16	löslichen	löslich	G	1	O
+17	Kaffee	Kaffee	N	1	O
+18	am	an	P	1	O
+19	Zimmer	Zimmer	N	1	O
+20	.	.	O	1	O
 
-1	Schimmel	Schimmel	N	1	
-2	an	an	P	1	
-3	den	die	D	1	
-4	Silikonfugen	Silikonfugen	O	1	
-5	im	in	P	1	
-6	Marmorbad	Marmorbad	N	1	
-7	,	,	O	1	
-8	alte	alt	G	1	
-9	Duschköpfe	Duschkopf	N	1	
-10	.	.	O	1	
+1	Schimmel	Schimmel	N	1	O
+2	an	an	P	1	O
+3	den	die	D	1	O
+4	Silikonfugen	Silikonfugen	O	1	O
+5	im	in	P	1	O
+6	Marmorbad	Marmorbad	N	1	O
+7	,	,	O	1	O
+8	alte	alt	G	1	O
+9	Duschköpfe	Duschkopf	N	1	O
+10	.	.	O	1	O
 
-1	Staub	stauben	V	1	
-2	überall	überall	A	1	
-3	,	,	O	1	
-4	der	die	Q	1	
-5	ist	sein	V	1	
-6	nicht	nicht	O	1	
-7	erst	erst	A	1	
-8	seit	seit	P	1	
-9	gestern	gestern	A	1	
-10	da	da	V	1	
-11	...	...	O	1	
-12	man	man	Q	1	
-13	kann	können	V	1	
-14	sich	sich	Q	1	
-15	in	in	P	1	
-16	den	die	D	1	
-17	viel	viele	Q	1	
-18	zu	zu	O	1	
-19	kleinen	klein	G	1	
-20	Zimmern	Zimmer	N	1	
-21	einfach	einfach	G	1	
-22	nicht	nicht	O	1	
-23	wohlfühlen	wohlfühlen	V	1	
-24	·	·	O	1	
-25	ein	eine	D	1	
-26	5	5	O	1	
-27	Sterne	Stern	N	1	
-28	Haus	Haus	N	1	
-29	ist	sein	V	1	
-30	etwas	etwas	A	1	
-31	anderes	andere	Q	1	
-32	.	.	O	1	
+1	Staub	stauben	V	1	O
+2	überall	überall	A	1	O
+3	,	,	O	1	O
+4	der	die	Q	1	O
+5	ist	sein	V	1	O
+6	nicht	nicht	O	1	O
+7	erst	erst	A	1	O
+8	seit	seit	P	1	O
+9	gestern	gestern	A	1	O
+10	da	da	V	1	O
+11	...	...	O	1	O
+12	man	man	Q	1	O
+13	kann	können	V	1	O
+14	sich	sich	Q	1	O
+15	in	in	P	1	O
+16	den	die	D	1	O
+17	viel	viele	Q	1	O
+18	zu	zu	O	1	O
+19	kleinen	klein	G	1	O
+20	Zimmern	Zimmer	N	1	O
+21	einfach	einfach	G	1	O
+22	nicht	nicht	O	1	O
+23	wohlfühlen	wohlfühlen	V	1	O
+24	·	·	O	1	O
+25	ein	eine	D	1	O
+26	5	5	O	1	O
+27	Sterne	Stern	N	1	O
+28	Haus	Haus	N	1	O
+29	ist	sein	V	1	O
+30	etwas	etwas	A	1	O
+31	anderes	andere	Q	1	O
+32	.	.	O	1	O
 

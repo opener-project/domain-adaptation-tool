@@ -1,99 +1,99 @@
-1	NE	NE	N	1	
-2	VAUT	VAUT	N	1	
-3	PAS	pas	N	1	
-4	SES	SES	N	1	
-5	4	4	D	1	
-6	ETOILES	ETOILES	N	1	
+1	NE	NE	N	1	O
+2	VAUT	VAUT	N	1	O
+3	PAS	pas	N	1	O
+4	SES	SES	N	1	O
+5	4	4	D	1	O
+6	ETOILES	ETOILES	N	1	O
 
-1	L'	le	D	1	
-2	usine	usine	N	1	
-3	à	à	P	1	
-4	touristes	touriste	N	1	
-5	par	par	P	1	
-6	excellence	excellence	N	1	
-7	!	!	O	1	
-8	!	!	O	1	
+1	L'	le	D	1	O
+2	usine	usine	N	1	O
+3	à	à	P	1	O
+4	touristes	touriste	N	1	O
+5	par	par	P	1	O
+6	excellence	excellence	N	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
 
-1	J'	J'	Q	1	
-2	en	en	P	1	
-3	revient	revient	N	1	
-4	et	et	C	1	
-5	je	je	Q	1	
-6	ne	ne	G	1	
-7	suis	suivre	V	1	
-8	pas	pas	G	1	
-9	prêt	prêt	G	1	
-10	d'	d'	P	1	
-11	y	y	Q	1	
-12	retourner	retourner	V	1	
-13	.	.	O	1	
+1	J'	J'	Q	1	O
+2	en	en	P	1	O
+3	revient	revient	N	1	O
+4	et	et	C	1	O
+5	je	je	Q	1	O
+6	ne	ne	G	1	O
+7	suis	suivre	V	1	O
+8	pas	pas	G	1	O
+9	prêt	prêt	G	1	O
+10	d'	d'	P	1	O
+11	y	y	Q	1	O
+12	retourner	retourner	V	1	O
+13	.	.	O	1	O
 
-1	L'	le	D	1	
-2	acceuil	acceuil	V	1	
-3	pas	pas	G	1	
-4	terrible	terrible	G	1	
-5	.	.	O	1	
+1	L'	le	D	1	O
+2	acceuil	acceuil	V	1	O
+3	pas	pas	G	1	O
+4	terrible	terrible	G	1	O
+5	.	.	O	1	O
 
-1	Animation	animation	N	1	
-2	Bof	Bof	N	1	
-3	!	!	O	1	
+1	Animation	animation	N	1	O
+2	Bof	Bof	N	1	O
+3	!	!	O	1	O
 
-1	le	le	D	1	
-2	camping	camping	N	1	
-3	est	être	V	1	
-4	plutôt	plutôt	G	1	
-5	vieillot	vieillot	G	1	
-6	,	,	O	1	
-7	et	et	C	1	
-8	le	le	D	1	
-9	bar	bar	N	1	
-10	est	être	V	1	
-11	sous	sous	P	1	
-12	une	un	D	1	
-13	tente	tente	N	1	
-14	plastique	plastique	G	1	
-15	.	.	O	1	
+1	le	le	D	1	O
+2	camping	camping	N	1	O
+3	est	être	V	1	O
+4	plutôt	plutôt	G	1	O
+5	vieillot	vieillot	G	1	O
+6	,	,	O	1	O
+7	et	et	C	1	O
+8	le	le	D	1	O
+9	bar	bar	N	1	O
+10	est	être	V	1	O
+11	sous	sous	P	1	O
+12	une	un	D	1	O
+13	tente	tente	N	1	O
+14	plastique	plastique	G	1	O
+15	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	n'	n'	G	1	
-3	y	y	Q	1	
-4	a	avoir	V	1	
-5	que	que	C	1	
-6	la	le	D	1	
-7	piscine	piscine	N	1	
-8	qui	qui	P	1	
-9	relève	relever	V	1	
-10	le	le	D	1	
-11	niveau	niveau	N	1	
-12	.	.	O	1	
+1	Il	Il	Q	1	O
+2	n'	n'	G	1	O
+3	y	y	Q	1	O
+4	a	avoir	V	1	O
+5	que	que	C	1	O
+6	la	le	D	1	O
+7	piscine	piscine	N	1	O
+8	qui	qui	P	1	O
+9	relève	relever	V	1	O
+10	le	le	D	1	O
+11	niveau	niveau	N	1	O
+12	.	.	O	1	O
 
-1	Enfin	Enfin	G	1	
-2	bref	bref	G	1	
-3	la	le	D	1	
-4	liste	liste	N	1	
-5	est	être	V	1	
-6	tellement	tellement	G	1	
-7	longue	long	G	1	
-8	que	que	C	1	
-9	j'	j'	Q	1	
-10	arrête	arrêter	V	1	
-11	là	là	G	1	
-12	.	.	O	1	
+1	Enfin	Enfin	G	1	O
+2	bref	bref	G	1	O
+3	la	le	D	1	O
+4	liste	liste	N	1	O
+5	est	être	V	1	O
+6	tellement	tellement	G	1	O
+7	longue	long	G	1	O
+8	que	que	C	1	O
+9	j'	j'	Q	1	O
+10	arrête	arrêter	V	1	O
+11	là	là	G	1	O
+12	.	.	O	1	O
 
-1	Si	Si	C	1	
-2	vous	lui	Q	1	
-3	avez	avoir	V	1	
-4	encore	encore	G	1	
-5	le	le	D	1	
-6	choix	choix	N	1	
-7	surtout	surtout	G	1	
-8	n'	n'	G	1	
-9	y	y	Q	1	
-10	allez	aller	V	1	
-11	pas	pas	G	1	
-12	!	!	O	1	
-13	!	!	O	1	
-14	!	!	O	1	
-15	!	!	O	1	
-16	!	!	O	1	
+1	Si	Si	C	1	O
+2	vous	lui	Q	1	O
+3	avez	avoir	V	1	O
+4	encore	encore	G	1	O
+5	le	le	D	1	O
+6	choix	choix	N	1	O
+7	surtout	surtout	G	1	O
+8	n'	n'	G	1	O
+9	y	y	Q	1	O
+10	allez	aller	V	1	O
+11	pas	pas	G	1	O
+12	!	!	O	1	O
+13	!	!	O	1	O
+14	!	!	O	1	O
+15	!	!	O	1	O
+16	!	!	O	1	O
 

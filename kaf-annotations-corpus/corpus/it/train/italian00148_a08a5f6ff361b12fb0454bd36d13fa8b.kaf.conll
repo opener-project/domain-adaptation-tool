@@ -1,49 +1,49 @@
-1	Forse	forse	A	1	
-2	forse	forse	A	1	
-3	fuori	fuori	P	1	
-4	stagione	stagione	N	1	
-5	?	?	O	1	
+1	Forse	forse	A	1	O
+2	forse	forse	A	1	O
+3	fuori	fuori	P	1	O
+4	stagione	stagione	N	1	O
+5	?	?	O	1	O
 
-1	spero	sperare	V	1	
-2	che	che	Q	1	
-3	in	in	P	1	
-4	estate	estate	N	1	
-5	questo	questo	G	1	
-6	hotel	hotel	N	1	
-7	offra	offrire	V	1	
-8	servizi	servizio	N	1	
-9	migliori.	migliori.	N	1	
-10	la	lo	D	1	
-11	posizione	posizione	N	1	
-12	è	è	R	1	
-13	bellissima	bellissima	G	1	
-14	ma	ma	Q	1	
-15	l'	lo	D	1	
-16	accoglienza	accoglienza	N	1	
-17	e	e	Q	1	
-18	la	lo	D	1	
-19	pulizia	pulizia	N	1	
-20	delle	delle	P	1	
-21	camere	camera	N	1	
-22	non	non	A	1	
-23	sono	essere	V	1	
-24	state	essere	V	1	
-25	soddisfacenti.	soddisfacenti.	O	1	
-26	siamo	essere	V	1	
-27	stati	essere	V	1	
-28	li	li	Q	1	
-29	fuori	fuori	N	1	
-30	dalla	dalla	P	1	
-31	stagione	stagione	N	1	
-32	estiva	estivo	G	1	
-33	ma	ma	Q	1	
-34	se	se	Q	1	
-35	rimangono	rimanere	V	1	
-36	aperti	aperti	N	1	
-37	devono	dovere	V	1	
-38	garantire	garantire	V	1	
-39	almeno	almeno	A	1	
-40	il	lo	D	1	
-41	minimo	minimo	G	1	
-42	.	.	O	1	
+1	spero	sperare	V	1	O
+2	che	che	Q	1	O
+3	in	in	P	1	O
+4	estate	estate	N	1	O
+5	questo	questo	G	1	O
+6	hotel	hotel	N	1	O
+7	offra	offrire	V	1	O
+8	servizi	servizio	N	1	O
+9	migliori.	migliori.	N	1	O
+10	la	lo	D	1	O
+11	posizione	posizione	N	1	O
+12	è	è	R	1	O
+13	bellissima	bellissima	G	1	O
+14	ma	ma	Q	1	O
+15	l'	lo	D	1	O
+16	accoglienza	accoglienza	N	1	O
+17	e	e	Q	1	O
+18	la	lo	D	1	O
+19	pulizia	pulizia	N	1	O
+20	delle	delle	P	1	O
+21	camere	camera	N	1	O
+22	non	non	A	1	O
+23	sono	essere	V	1	O
+24	state	essere	V	1	O
+25	soddisfacenti.	soddisfacenti.	O	1	O
+26	siamo	essere	V	1	O
+27	stati	essere	V	1	O
+28	li	li	Q	1	O
+29	fuori	fuori	N	1	O
+30	dalla	dalla	P	1	O
+31	stagione	stagione	N	1	O
+32	estiva	estivo	G	1	O
+33	ma	ma	Q	1	O
+34	se	se	Q	1	O
+35	rimangono	rimanere	V	1	O
+36	aperti	aperti	N	1	O
+37	devono	dovere	V	1	O
+38	garantire	garantire	V	1	O
+39	almeno	almeno	A	1	O
+40	il	lo	D	1	O
+41	minimo	minimo	G	1	O
+42	.	.	O	1	O
 

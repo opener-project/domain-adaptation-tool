@@ -1,43 +1,43 @@
-1	Madrid	Madrid	R	1	
-2	y	y	G	1	
-3	teatros	teatros	N	1	
+1	Madrid	Madrid	R	1	O
+2	y	y	G	1	O
+3	teatros	teatros	N	1	O
 
-1	Buen	Buen	R	1	
-2	hotel	hotel	N	1	
-3	por	por	N	1	
-4	su	su	N	1	
-5	ubicacion	ubicacion	N	1	
-6	pero	pero	O	1	
-7	un	un	G	1	
-8	poco	poco	N	1	
-9	antiguo	antiguo	N	1	
-10	,	,	O	1	
-11	el	el	N	1	
-12	desayuno	desayuno	N	1	
-13	se	se	N	1	
-14	puede	puede	V	1	
-15	mejorar	mejorar	N	1	
-16	y	y	A	1	
-17	la	la	D	1	
-18	habitacion	habitacion	N	1	
-19	podria	podria	N	1	
-20	insonorizarse	insonorizarse	G	1	
-21	mejor	mejor	N	1	
-22	,	,	O	1	
-23	las	las	V	1	
-24	ventanas	ventanas	N	1	
-25	no	no	D	1	
-26	cerraban	cerraban	N	1	
-27	bien	bien	N	1	
-28	,	,	O	1	
-29	aunque	aunque	G	1	
-30	la	la	N	1	
-31	vista	vista	N	1	
-32	a	a	D	1	
-33	gran	gran	N	1	
-34	via	via	P	1	
-35	merecia	merecia	O	1	
-36	la	la	O	1	
-37	pena	pena	O	1	
-38	.	.	O	1	
+1	Buen	Buen	R	1	O
+2	hotel	hotel	N	1	O
+3	por	por	N	1	O
+4	su	su	N	1	O
+5	ubicacion	ubicacion	N	1	O
+6	pero	pero	O	1	O
+7	un	un	G	1	O
+8	poco	poco	N	1	O
+9	antiguo	antiguo	N	1	O
+10	,	,	O	1	O
+11	el	el	N	1	O
+12	desayuno	desayuno	N	1	O
+13	se	se	N	1	O
+14	puede	puede	V	1	O
+15	mejorar	mejorar	N	1	O
+16	y	y	A	1	O
+17	la	la	D	1	O
+18	habitacion	habitacion	N	1	O
+19	podria	podria	N	1	O
+20	insonorizarse	insonorizarse	G	1	O
+21	mejor	mejor	N	1	O
+22	,	,	O	1	O
+23	las	las	V	1	O
+24	ventanas	ventanas	N	1	O
+25	no	no	D	1	O
+26	cerraban	cerraban	N	1	O
+27	bien	bien	N	1	O
+28	,	,	O	1	O
+29	aunque	aunque	G	1	O
+30	la	la	N	1	O
+31	vista	vista	N	1	O
+32	a	a	D	1	O
+33	gran	gran	N	1	O
+34	via	via	P	1	O
+35	merecia	merecia	O	1	O
+36	la	la	O	1	O
+37	pena	pena	O	1	O
+38	.	.	O	1	O
 

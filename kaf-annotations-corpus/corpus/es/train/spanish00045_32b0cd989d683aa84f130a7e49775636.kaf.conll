@@ -1,44 +1,48 @@
-1	Buen	Buen	R	1	
-2	hotel	hotel	N	1	
+1	Buen	Buen	R	1	O
+2	hotel	hotel	N	1	O
 
-1	Muy	muy	G	1	
-2	buen	buen	N	1	
-3	hotel	hotel	N	1	
-4	.	.	O	1	
+1	Muy	muy	G	1	O
+2	buen	buen	N	1	O
+3	hotel	hotel	N	1	O
+4	.	.	O	1	O
 
-1	Está	Está	R	1	
-2	situado	situado	V	1	
-3	practicamente	practicamente	G	1	
-4	en	en	P	1	
-5	el_centro_de_Milan	el_centro_de_Milan	R	1	ne=Location
-6	.	.	O	1	
+1	Está	Está	R	1	O
+2	situado	situado	V	1	O
+3	practicamente	practicamente	G	1	O
+4	en	en	P	1	O
+5	el	el	N	1	I-Location
+6	centro	centro	O	1	I-Location
+7	de	de	O	1	I-Location
+8	Milan	Milan	R	1	I-Location
+9	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	R	1	
-3	es	es	V	1	
-4	de	de	P	1	
-5	buffet	buffet	N	1	
-6	y	y	G	1	
-7	es	es	N	1	
-8	espectacular	espectacular	G	1	
-9	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	R	1	O
+3	es	es	V	1	O
+4	de	de	P	1	O
+5	buffet	buffet	N	1	O
+6	y	y	G	1	O
+7	es	es	N	1	O
+8	espectacular	espectacular	G	1	O
+9	.	.	O	1	O
 
-1	Habitaciones	Habitaciones	R	1	
-2	cómodas	cómodas	N	1	
-3	y	y	G	1	
-4	silenciosas	silenciosas	N	1	
-5	.	.	O	1	
+1	Habitaciones	Habitaciones	R	1	O
+2	cómodas	cómodas	N	1	O
+3	y	y	G	1	O
+4	silenciosas	silenciosas	N	1	O
+5	.	.	O	1	O
 
-1	Repetiremos	Repetiremos	R	1	
-2	si	si	N	1	
-3	podemos	podemos	N	1	
-4	..	..	O	1	
-5	Muy	Muy	R	1	
-6	buen	buen	N	1	
-7	trato	trato	N	1	
-8	.	.	O	1	
+1	Repetiremos	Repetiremos	R	1	O
+2	si	si	N	1	O
+3	podemos	podemos	N	1	O
+4	..	..	O	1	O
+5	Muy	Muy	R	1	O
+6	buen	buen	N	1	O
+7	trato	trato	N	1	O
+8	.	.	O	1	O
 
-1	100	100	O	1	
-2	%_recomendable	%_recomendable	R	1	ne=Percent
-3	.	.	O	1	
+1	100	100	O	1	O
+2	%	%	N	1	I-Percent
+3	recomendable	recomendable	N	1	I-Percent
+4	.	.	O	1	O
 

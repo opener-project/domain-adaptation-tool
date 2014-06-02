@@ -1,54 +1,54 @@
-1	Familia	Familia	R	1	
-2	fiel	fiel	N	1	
-3	a	a	O	1	
-4	la	la	O	1	
-5	cadena	cadena	O	1	
-6	Senator	Senator	R	1	
+1	Familia	Familia	R	1	O
+2	fiel	fiel	N	1	O
+3	a	a	O	1	O
+4	la	la	O	1	O
+5	cadena	cadena	O	1	O
+6	Senator	Senator	R	1	O
 
-1	Nos	Nos	R	1	
-2	encanta	encanta	D	1	
-3	el	el	N	1	
-4	hotel	hotel	N	1	
-5	está	está	N	1	
-6	situado	situado	N	1	
-7	en	en	P	1	
-8	todo	todo	G	1	
-9	el	el	N	1	
-10	centro	centro	N	1	
-11	de	de	P	1	
-12	Madrid	Madrid	R	1	
-13	con	con	A	1	
-14	lo	lo	V	1	
-15	que	que	G	1	
-16	la	la	D	1	
-17	oferta	oferta	O	1	
-18	de	de	O	1	
-19	ocio	ocio	O	1	
-20	,	,	O	1	
-21	gastronoma	gastronoma	N	1	
-22	,	,	O	1	
-23	cultura	cultura	N	1	
-24	,	,	O	1	
-25	etc	etc	O	1	
-26	es	es	N	1	
-27	espectacular	espectacular	G	1	
-28	y	y	A	1	
-29	luego	luego	V	1	
-30	que	que	G	1	
-31	decir	decir	N	1	
-32	del	del	D	1	
-33	personal	personal	G	1	
-34	,	,	O	1	
-35	las	las	G	1	
-36	instalaciones	instalaciones	N	1	
-37	,	,	O	1	
-38	¡	¡	O	1	
-39	¡	¡	O	1	
-40	Geniales	geniales	O	1	
-41	¡	¡	O	1	
-42	¡	¡	O	1	
-43	Repetiremos	repetiremos	O	1	
-44	sin	sin	O	1	
-45	duda	duda	O	1	
-46	pronto	pronto	O	1	
+1	Nos	Nos	R	1	O
+2	encanta	encanta	D	1	O
+3	el	el	N	1	O
+4	hotel	hotel	N	1	O
+5	está	está	N	1	O
+6	situado	situado	N	1	O
+7	en	en	P	1	O
+8	todo	todo	G	1	O
+9	el	el	N	1	O
+10	centro	centro	N	1	O
+11	de	de	P	1	O
+12	Madrid	Madrid	R	1	O
+13	con	con	A	1	O
+14	lo	lo	V	1	O
+15	que	que	G	1	O
+16	la	la	D	1	O
+17	oferta	oferta	O	1	O
+18	de	de	O	1	O
+19	ocio	ocio	O	1	O
+20	,	,	O	1	O
+21	gastronoma	gastronoma	N	1	O
+22	,	,	O	1	O
+23	cultura	cultura	N	1	O
+24	,	,	O	1	O
+25	etc	etc	O	1	O
+26	es	es	N	1	O
+27	espectacular	espectacular	G	1	O
+28	y	y	A	1	O
+29	luego	luego	V	1	O
+30	que	que	G	1	O
+31	decir	decir	N	1	O
+32	del	del	D	1	O
+33	personal	personal	G	1	O
+34	,	,	O	1	O
+35	las	las	G	1	O
+36	instalaciones	instalaciones	N	1	O
+37	,	,	O	1	O
+38	¡	¡	O	1	O
+39	¡	¡	O	1	O
+40	Geniales	geniales	O	1	O
+41	¡	¡	O	1	O
+42	¡	¡	O	1	O
+43	Repetiremos	repetiremos	O	1	O
+44	sin	sin	O	1	O
+45	duda	duda	O	1	O
+46	pronto	pronto	O	1	O
 

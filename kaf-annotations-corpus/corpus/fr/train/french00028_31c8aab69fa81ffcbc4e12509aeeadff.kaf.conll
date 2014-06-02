@@ -1,80 +1,87 @@
-1	Très	Très	G	1	
-2	très	très	G	1	
-3	déçue	décevoir	V	1	
+1	Très	Très	G	1	O
+2	très	très	G	1	O
+3	déçue	décevoir	V	1	O
 
-1	Heureusement	Heureusement	G	1	
-2	que	que	C	1	
-3	nous	lui	Q	1	
-4	n'	n'	G	1	
-5	avions	avoir	V	1	
-6	réservé	réserver	V	1	
-7	que	que	C	1	
-8	pour	pour	P	1	
-9	une	un	D	1	
-10	nuit	nuit	N	1	
-11	.	.	O	1	
+1	Heureusement	Heureusement	G	1	O
+2	que	que	C	1	O
+3	nous	lui	Q	1	O
+4	n'	n'	G	1	O
+5	avions	avoir	V	1	O
+6	réservé	réserver	V	1	O
+7	que	que	C	1	O
+8	pour	pour	P	1	O
+9	une	un	D	1	O
+10	nuit	nuit	N	1	O
+11	.	.	O	1	O
 
-1	Le	le	D	1	
-2	train	train	N	1	
-3	(	(	O	1	
-4	TGV	TGV	N	1	
-5	)	)	O	1	
-6	passait	passer	V	1	
-7	juste	juste	G	1	
-8	derrière	derrière	P	1	
-9	le	le	D	1	
-10	mobil	mobil	N	1	
-11	home	home	G	1	
-12	(	(	O	1	
-13	de_5_heures_le_matin	de_5_heure_le_matin	R	1	ne=Time
-14	à	à	P	1	
-15	environ	environ	G	1	
-16	23_heures_le_soir	23_heure_le_soir	R	1	ne=Time
-17	)	)	O	1	
-18	.	.	O	1	
+1	Le	le	D	1	O
+2	train	train	N	1	O
+3	(	(	O	1	O
+4	TGV	TGV	N	1	O
+5	)	)	O	1	O
+6	passait	passer	V	1	O
+7	juste	juste	G	1	O
+8	derrière	derrière	P	1	O
+9	le	le	D	1	O
+10	mobil	mobil	N	1	O
+11	home	home	G	1	O
+12	(	(	O	1	O
+13	de	de	P	1	I-Time
+14	5	5	D	1	I-Time
+15	heures	heure	N	1	I-Time
+16	le	le	D	1	I-Time
+17	matin	matin	N	1	I-Time
+18	à	à	P	1	O
+19	environ	environ	G	1	O
+20	23	23	D	1	I-Time
+21	heures	heure	N	1	I-Time
+22	le	le	D	1	I-Time
+23	soir	soir	N	1	I-Time
+24	)	)	O	1	O
+25	.	.	O	1	O
 
-1	Camping	Camping	O	1	
-2	très	très	G	1	
-3	bruyant	bruyant	G	1	
-4	,	,	O	1	
-5	nombreux	nombreux	G	1	
-6	enfants	enfant	N	1	
-7	et	et	C	1	
-8	ado	ado	N	1	
-9	n'	n'	G	1	
-10	ayant	avoir	V	1	
-11	pas	pas	G	1	
-12	le	le	D	1	
-13	respect	respect	N	1	
-14	des	des	P	1	
-15	autres	autres	D	1	
-16	campeurs	campeur	N	1	
-17	.	.	O	1	
+1	Camping	Camping	O	1	O
+2	très	très	G	1	O
+3	bruyant	bruyant	G	1	O
+4	,	,	O	1	O
+5	nombreux	nombreux	G	1	O
+6	enfants	enfant	N	1	O
+7	et	et	C	1	O
+8	ado	ado	N	1	O
+9	n'	n'	G	1	O
+10	ayant	avoir	V	1	O
+11	pas	pas	G	1	O
+12	le	le	D	1	O
+13	respect	respect	N	1	O
+14	des	des	P	1	O
+15	autres	autres	D	1	O
+16	campeurs	campeur	N	1	O
+17	.	.	O	1	O
 
-1	Mobil	Mobil	N	1	
-2	home	home	V	1	
-3	sale	sale	G	1	
-4	.	.	O	1	
+1	Mobil	Mobil	N	1	O
+2	home	home	V	1	O
+3	sale	sale	G	1	O
+4	.	.	O	1	O
 
-1	Apparemment	Apparemment	G	1	
-2	,	,	O	1	
-3	pas	pas	G	1	
-4	nettoyé	nettoyer	V	1	
-5	depuis	depuis	P	1	
-6	la	le	D	1	
-7	dernière	dernier	G	1	
-8	saison	saison	N	1	
-9	.	.	O	1	
+1	Apparemment	Apparemment	G	1	O
+2	,	,	O	1	O
+3	pas	pas	G	1	O
+4	nettoyé	nettoyer	V	1	O
+5	depuis	depuis	P	1	O
+6	la	le	D	1	O
+7	dernière	dernier	G	1	O
+8	saison	saison	N	1	O
+9	.	.	O	1	O
 
-1	Table	table	N	1	
-2	pour	pour	P	1	
-3	manger	manger	V	1	
-4	dehors	dehors	G	1	
-5	en	en	P	1	
-6	très	très	G	1	
-7	mauvais	mauvais	G	1	
-8	état	état	N	1	
-9	et	et	C	1	
-10	sale	sale	N	1	
-11	.	.	O	1	
+1	Table	table	N	1	O
+2	pour	pour	P	1	O
+3	manger	manger	V	1	O
+4	dehors	dehors	G	1	O
+5	en	en	P	1	O
+6	très	très	G	1	O
+7	mauvais	mauvais	G	1	O
+8	état	état	N	1	O
+9	et	et	C	1	O
+10	sale	sale	N	1	O
+11	.	.	O	1	O
 

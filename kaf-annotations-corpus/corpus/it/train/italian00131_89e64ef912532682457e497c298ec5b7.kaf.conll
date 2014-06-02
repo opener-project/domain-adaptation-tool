@@ -1,135 +1,136 @@
-1	Sagra	sagra	N	1	
-2	dei	dei	P	1	
-3	cafoni	cafone	N	1	
+1	Sagra	sagra	N	1	O
+2	dei	dei	P	1	O
+3	cafoni	cafone	N	1	O
 
-1	salve	salva	R	1	
-2	,	,	O	1	
-3	potete	potere	V	1	
-4	andare	andare	V	1	
-5	al	al	P	1	
-6	campeggio_gianna	campeggio_gianna	R	1	ne=Hotel
-7	ma	ma	Q	1	
-8	.......	.......	V	1	
-9	il	lo	D	1	
-10	personale	personale	N	1	
-11	della	della	P	1	
-12	reception	reception	N	1	
-13	è	è	R	1	
-14	scorbutico	scorbutico	G	1	
-15	come	come	A	1	
-16	mia	mio	G	1	
-17	nonna	nonna	N	1	
-18	:	:	O	1	
-19	durante	durante	P	1	
-20	il	lo	D	1	
-21	giro	giro	N	1	
-22	per	per	P	1	
-23	farci	farci	V	1	
-24	vedere	vedere	V	1	
-25	l'	lo	D	1	
-26	area	area	N	1	
-27	tende	tendere	V	1	
-28	hanno	avere	V	1	
-29	insultato	insultare	V	1	
-30	i	lo	D	1	
-31	"	&quot;	O	1	
-32	tendisti	tendisti	N	1	
-33	"	&quot;	O	1	
-34	perche	perche	G	1	
-35	volevano	volere	V	1	
-36	stare	stare	V	1	
-37	una	uno	D	1	
-38	notte	notte	N	1	
-39	in	in	P	1	
-40	più	piu'	N	1	
-41	(	(	O	1	
-42	erano	essere	V	1	
-43	2	2	G	1	
-44	ragazzi	ragazzo	N	1	
-45	giovani	giovane	G	1	
-46	che	che	Q	1	
-47	non	non	A	1	
-48	hanno	avere	V	1	
-49	dato	dare	V	1	
-50	peso	peso	N	1	
-51	alla	alla	P	1	
-52	cosa	cosa	N	1	
-53	)	)	O	1	
-54	poi	poi	A	1	
-55	dopo	dopo	P	1	
-56	il	lo	D	1	
-57	soggiorno	soggiorno	N	1	
-58	di	di	P	1	
-59	1	1	N	1	
-60	notte	notte	N	1	
-61	nella	nella	P	1	
-62	quale	quale	Q	1	
-63	i	lo	D	1	
-64	nostri	nostro	G	1	
-65	vicini	vicino	N	1	
-66	hanno	avere	V	1	
-67	fatto	fare	V	1	
-68	un	uno	D	1	
-69	casino	casino	N	1	
-70	dalla	dalla	P	1	
-71	2	2	R	1	ne=Time
-72	alle	alle	P	1	
-73	4	4	R	1	ne=Time
-74	...	...	O	1	
-75	siamo	essere	V	1	
-76	scappati	scappare	V	1	
-77	pagando	pagare	V	1	
-78	un	uno	D	1	
-79	giorno	giorno	N	1	
-80	in	in	P	1	
-81	piu	piu	N	1	
-82	.	.	O	1	
+1	salve	salva	R	1	O
+2	,	,	O	1	O
+3	potete	potere	V	1	O
+4	andare	andare	V	1	O
+5	al	al	P	1	O
+6	campeggio	campeggio	N	1	I-Hotel
+7	gianna	gianna	V	1	I-Hotel
+8	ma	ma	Q	1	O
+9	.......	.......	V	1	O
+10	il	lo	D	1	O
+11	personale	personale	N	1	O
+12	della	della	P	1	O
+13	reception	reception	N	1	O
+14	è	è	R	1	O
+15	scorbutico	scorbutico	G	1	O
+16	come	come	A	1	O
+17	mia	mio	G	1	O
+18	nonna	nonna	N	1	O
+19	:	:	O	1	O
+20	durante	durante	P	1	O
+21	il	lo	D	1	O
+22	giro	giro	N	1	O
+23	per	per	P	1	O
+24	farci	farci	V	1	O
+25	vedere	vedere	V	1	O
+26	l'	lo	D	1	O
+27	area	area	N	1	O
+28	tende	tendere	V	1	O
+29	hanno	avere	V	1	O
+30	insultato	insultare	V	1	O
+31	i	lo	D	1	O
+32	"	&quot;	O	1	O
+33	tendisti	tendisti	N	1	O
+34	"	&quot;	O	1	O
+35	perche	perche	G	1	O
+36	volevano	volere	V	1	O
+37	stare	stare	V	1	O
+38	una	uno	D	1	O
+39	notte	notte	N	1	O
+40	in	in	P	1	O
+41	più	piu'	N	1	O
+42	(	(	O	1	O
+43	erano	essere	V	1	O
+44	2	2	G	1	O
+45	ragazzi	ragazzo	N	1	O
+46	giovani	giovane	G	1	O
+47	che	che	Q	1	O
+48	non	non	A	1	O
+49	hanno	avere	V	1	O
+50	dato	dare	V	1	O
+51	peso	peso	N	1	O
+52	alla	alla	P	1	O
+53	cosa	cosa	N	1	O
+54	)	)	O	1	O
+55	poi	poi	A	1	O
+56	dopo	dopo	P	1	O
+57	il	lo	D	1	O
+58	soggiorno	soggiorno	N	1	O
+59	di	di	P	1	O
+60	1	1	N	1	O
+61	notte	notte	N	1	O
+62	nella	nella	P	1	O
+63	quale	quale	Q	1	O
+64	i	lo	D	1	O
+65	nostri	nostro	G	1	O
+66	vicini	vicino	N	1	O
+67	hanno	avere	V	1	O
+68	fatto	fare	V	1	O
+69	un	uno	D	1	O
+70	casino	casino	N	1	O
+71	dalla	dalla	P	1	O
+72	2	2	R	1	I-Time
+73	alle	alle	P	1	O
+74	4	4	R	1	I-Time
+75	...	...	O	1	O
+76	siamo	essere	V	1	O
+77	scappati	scappare	V	1	O
+78	pagando	pagare	V	1	O
+79	un	uno	D	1	O
+80	giorno	giorno	N	1	O
+81	in	in	P	1	O
+82	piu	piu	N	1	O
+83	.	.	O	1	O
 
-1	Presentate	presentare	V	1	
-2	le	lo	D	1	
-3	lamentele	lamentela	N	1	
-4	alla	alla	P	1	
-5	reception	reception	R	1	
-6	(	(	O	1	
-7	che	che	Q	1	
-8	si	si	Q	1	
-9	è	essere	V	1	
-10	pure	pure	A	1	
-11	indignata	indignare	V	1	
-12	anche	anche	Q	1	
-13	se	se	Q	1	
-14	non	non	A	1	
-15	avevo	avere	V	1	
-16	dato	dare	V	1	
-17	spiegazione	spiegazione	N	1	
-18	alcuna	alcuno	G	1	
-19	)	)	O	1	
-20	risposta	rispondere	V	1	
-21	:	:	O	1	
-22	c'	c'	A	1	
-23	è	essere	V	1	
-24	il	lo	D	1	
-25	guardiano	guardiano	R	1	
-26	!	!	O	1	
-27	!	!	O	1	
-28	...	...	O	1	
-29	.	.	O	1	
-30	che	che	Q	1	
-31	non	non	A	1	
-32	fa	fa	V	1	
-33	un	uno	D	1	
-34	niente	niente	N	1	
-35	tutta	tutta	Q	1	
-36	notte	notte	N	1	
-37	invece	invece	A	1	
-38	di	di	P	1	
-39	far	far	V	1	
-40	rispettare	rispettare	V	1	
-41	il	lo	D	1	
-42	silenzio	silenzio	N	1	
-43	e	e	Q	1	
-44	la	lo	D	1	
-45	buona	buono	G	1	
-46	educazione	educazione	N	1	
-47	.	.	O	1	
+1	Presentate	presentare	V	1	O
+2	le	lo	D	1	O
+3	lamentele	lamentela	N	1	O
+4	alla	alla	P	1	O
+5	reception	reception	R	1	O
+6	(	(	O	1	O
+7	che	che	Q	1	O
+8	si	si	Q	1	O
+9	è	essere	V	1	O
+10	pure	pure	A	1	O
+11	indignata	indignare	V	1	O
+12	anche	anche	Q	1	O
+13	se	se	Q	1	O
+14	non	non	A	1	O
+15	avevo	avere	V	1	O
+16	dato	dare	V	1	O
+17	spiegazione	spiegazione	N	1	O
+18	alcuna	alcuno	G	1	O
+19	)	)	O	1	O
+20	risposta	rispondere	V	1	O
+21	:	:	O	1	O
+22	c'	c'	A	1	O
+23	è	essere	V	1	O
+24	il	lo	D	1	O
+25	guardiano	guardiano	R	1	O
+26	!	!	O	1	O
+27	!	!	O	1	O
+28	...	...	O	1	O
+29	.	.	O	1	O
+30	che	che	Q	1	O
+31	non	non	A	1	O
+32	fa	fa	V	1	O
+33	un	uno	D	1	O
+34	niente	niente	N	1	O
+35	tutta	tutta	Q	1	O
+36	notte	notte	N	1	O
+37	invece	invece	A	1	O
+38	di	di	P	1	O
+39	far	far	V	1	O
+40	rispettare	rispettare	V	1	O
+41	il	lo	D	1	O
+42	silenzio	silenzio	N	1	O
+43	e	e	Q	1	O
+44	la	lo	D	1	O
+45	buona	buono	G	1	O
+46	educazione	educazione	N	1	O
+47	.	.	O	1	O
 

@@ -1,44 +1,44 @@
-1	Super	super	N	1	
-2	journées	journée	N	1	
-3	avec	avec	P	1	
-4	tous	tout	G	1	
-5	les	le	D	1	
-6	enfans	enfans	N	1	
+1	Super	super	N	1	O
+2	journées	journée	N	1	O
+3	avec	avec	P	1	O
+4	tous	tout	G	1	O
+5	les	le	D	1	O
+6	enfans	enfans	N	1	O
 
-1	super	super	G	1	
-2	journées	journée	N	1	
-3	avec	avec	P	1	
-4	tous	tout	G	1	
-5	les	le	D	1	
-6	enfants	enfant	N	1	
-7	,	,	O	1	
-8	même	même	G	1	
-9	s’	s’	C	1	
-10	il	il	Q	1	
-11	faut	faillir	V	1	
-12	faire	faire	V	1	
-13	la	le	D	1	
-14	queue	queue	N	1	
-15	,	,	O	1	
-16	trop	trop	G	1	
-17	de	de	P	1	
-18	succès	succès	N	1	
-19	,	,	O	1	
-20	temps	temps	N	1	
-21	d'	d'	P	1	
-22	attente	attente	N	1	
-23	trop	trop	G	1	
-24	long	long	G	1	
-25	pour	pour	P	1	
-26	les	le	D	1	
-27	petits	petit	G	1	
-28	,	,	O	1	
-29	mais	mais	C	1	
-30	au	au	P	1	
-31	bilan	bilan	N	1	
-32	bons	bon	G	1	
-33	souvenir	souvenir	V	1	
-34	pour	pour	P	1	
-35	eux	eux	P	1	
-36	...	...	O	1	
+1	super	super	G	1	O
+2	journées	journée	N	1	O
+3	avec	avec	P	1	O
+4	tous	tout	G	1	O
+5	les	le	D	1	O
+6	enfants	enfant	N	1	O
+7	,	,	O	1	O
+8	même	même	G	1	O
+9	s’	s’	C	1	O
+10	il	il	Q	1	O
+11	faut	faillir	V	1	O
+12	faire	faire	V	1	O
+13	la	le	D	1	O
+14	queue	queue	N	1	O
+15	,	,	O	1	O
+16	trop	trop	G	1	O
+17	de	de	P	1	O
+18	succès	succès	N	1	O
+19	,	,	O	1	O
+20	temps	temps	N	1	O
+21	d'	d'	P	1	O
+22	attente	attente	N	1	O
+23	trop	trop	G	1	O
+24	long	long	G	1	O
+25	pour	pour	P	1	O
+26	les	le	D	1	O
+27	petits	petit	G	1	O
+28	,	,	O	1	O
+29	mais	mais	C	1	O
+30	au	au	P	1	O
+31	bilan	bilan	N	1	O
+32	bons	bon	G	1	O
+33	souvenir	souvenir	V	1	O
+34	pour	pour	P	1	O
+35	eux	eux	P	1	O
+36	...	...	O	1	O
 

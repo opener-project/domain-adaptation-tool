@@ -1,108 +1,108 @@
-1	Super	super	G	1	
-2	vakantie	vakantie	N	1	
-3	!	!	O	1	
+1	Super	super	G	1	O
+2	vakantie	vakantie	N	1	O
+3	!	!	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	een	een	D	1	
-4	hele	heel	G	1	
-5	leuke	leuk	G	1	
-6	vakantie	vakantie	N	1	
-7	gehad	hebben	V	1	
-8	,	,	O	1	
-9	mooi	mooi	G	1	
-10	hotel	hotel	N	1	
-11	,	,	O	1	
-12	leuk	leuk	G	1	
-13	personeel	personeel	N	1	
-14	en	en	C	1	
-15	super	super	G	1	
-16	animatieteam	animatieteam	O	1	
-17	dat	dat	Q	1	
-18	niet	niet	A	1	
-19	opdringerig	opdringerig	G	1	
-20	was	wezen|zijn	V	1	
-21	,	,	O	1	
-22	vooral	vooral	A	1	
-23	met	met	P	1	
-24	Mimo	Mimo	R	1	ne=Person
-25	kon	kunnen	V	1	
-26	je	je	Q	1	
-27	leuk	leuk	G	1	
-28	praten	praten	V	1	
-29	.	.	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	een	een	D	1	O
+4	hele	heel	G	1	O
+5	leuke	leuk	G	1	O
+6	vakantie	vakantie	N	1	O
+7	gehad	hebben	V	1	O
+8	,	,	O	1	O
+9	mooi	mooi	G	1	O
+10	hotel	hotel	N	1	O
+11	,	,	O	1	O
+12	leuk	leuk	G	1	O
+13	personeel	personeel	N	1	O
+14	en	en	C	1	O
+15	super	super	G	1	O
+16	animatieteam	animatieteam	O	1	O
+17	dat	dat	Q	1	O
+18	niet	niet	A	1	O
+19	opdringerig	opdringerig	G	1	O
+20	was	wezen|zijn	V	1	O
+21	,	,	O	1	O
+22	vooral	vooral	A	1	O
+23	met	met	P	1	O
+24	Mimo	Mimo	R	1	I-Person
+25	kon	kunnen	V	1	O
+26	je	je	Q	1	O
+27	leuk	leuk	G	1	O
+28	praten	praten	V	1	O
+29	.	.	O	1	O
 
-1	Kamers	kamer	N	1	
-2	werden	worden	V	1	
-3	goed	goed	N	1	
-4	schoongemaakt	schoonmaken	V	1	
-5	,	,	O	1	
-6	het	het	D	1	
-7	hotel	hotel	N	1	
-8	was	wezen|zijn	V	1	
-9	mooi	mooi	A	1	
-10	groot	groot	G	1	
-11	en	en	C	1	
-12	gezellig	gezellig	G	1	
-13	ingericht	inrichten	V	1	
-14	.	.	O	1	
+1	Kamers	kamer	N	1	O
+2	werden	worden	V	1	O
+3	goed	goed	N	1	O
+4	schoongemaakt	schoonmaken	V	1	O
+5	,	,	O	1	O
+6	het	het	D	1	O
+7	hotel	hotel	N	1	O
+8	was	wezen|zijn	V	1	O
+9	mooi	mooi	A	1	O
+10	groot	groot	G	1	O
+11	en	en	C	1	O
+12	gezellig	gezellig	G	1	O
+13	ingericht	inrichten	V	1	O
+14	.	.	O	1	O
 
-1	Als	als	C	1	
-2	je	je	Q	1	
-3	voor	voor	P	1	
-4	je	je	Q	1	
-5	rust	rust	N	1	
-6	kwam	komen	V	1	
-7	kon	kunnen	V	1	
-8	je	je	Q	1	
-9	aan	aan	P	1	
-10	het	het	D	1	
-11	rustige	rustig	G	1	
-12	zwembad	zwembad	N	1	
-13	liggen	liggen	V	1	
-14	,	,	O	1	
-15	en	en	C	1	
-16	hield	houden	V	1	
-17	je	je	Q	1	
-18	meer	meer	A	1	
-19	van	van	P	1	
-20	muziek	muziek	N	1	
-21	en	en	C	1	
-22	animatie	animatie	N	1	
-23	ging	gaan	V	1	
-24	je	je	Q	1	
-25	bij	bij	P	1	
-26	het	het	D	1	
-27	drukke	druk	G	1	
-28	zwembad	zwembad	N	1	
-29	liggen	liggen	V	1	
-30	.	.	O	1	
+1	Als	als	C	1	O
+2	je	je	Q	1	O
+3	voor	voor	P	1	O
+4	je	je	Q	1	O
+5	rust	rust	N	1	O
+6	kwam	komen	V	1	O
+7	kon	kunnen	V	1	O
+8	je	je	Q	1	O
+9	aan	aan	P	1	O
+10	het	het	D	1	O
+11	rustige	rustig	G	1	O
+12	zwembad	zwembad	N	1	O
+13	liggen	liggen	V	1	O
+14	,	,	O	1	O
+15	en	en	C	1	O
+16	hield	houden	V	1	O
+17	je	je	Q	1	O
+18	meer	meer	A	1	O
+19	van	van	P	1	O
+20	muziek	muziek	N	1	O
+21	en	en	C	1	O
+22	animatie	animatie	N	1	O
+23	ging	gaan	V	1	O
+24	je	je	Q	1	O
+25	bij	bij	P	1	O
+26	het	het	D	1	O
+27	drukke	druk	G	1	O
+28	zwembad	zwembad	N	1	O
+29	liggen	liggen	V	1	O
+30	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	heeft	hebben	V	1	
-4	een	een	D	1	
-5	mooie	mooi	G	1	
-6	pier	pier	N	1	
-7	,	,	O	1	
-8	waar	waar	Q	1	
-9	je	je	Q	1	
-10	aan	aan	P	1	
-11	het	het	D	1	
-12	einde	einde	N	1	
-13	heel	heel	G	1	
-14	goed	goed	N	1	
-15	kunt	kunnen	V	1	
-16	snorkelen	snorkelen	V	1	
-17	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	heeft	hebben	V	1	O
+4	een	een	D	1	O
+5	mooie	mooi	G	1	O
+6	pier	pier	N	1	O
+7	,	,	O	1	O
+8	waar	waar	Q	1	O
+9	je	je	Q	1	O
+10	aan	aan	P	1	O
+11	het	het	D	1	O
+12	einde	einde	N	1	O
+13	heel	heel	G	1	O
+14	goed	goed	N	1	O
+15	kunt	kunnen	V	1	O
+16	snorkelen	snorkelen	V	1	O
+17	.	.	O	1	O
 
-1	We	we	Q	1	
-2	zullen	zullen	V	1	
-3	hier	hier	A	1	
-4	zeker	zeker	G	1	
-5	nog	nog	A	1	
-6	een	een	D	1	
-7	keertje	keer	N	1	
-8	teruggaan	teruggaan	V	1	
-9	.	.	O	1	
+1	We	we	Q	1	O
+2	zullen	zullen	V	1	O
+3	hier	hier	A	1	O
+4	zeker	zeker	G	1	O
+5	nog	nog	A	1	O
+6	een	een	D	1	O
+7	keertje	keer	N	1	O
+8	teruggaan	teruggaan	V	1	O
+9	.	.	O	1	O
 

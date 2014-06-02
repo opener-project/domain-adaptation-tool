@@ -1,168 +1,168 @@
-1	Nog	nog	A	1	
-2	iets	iets	A	1	
-3	toe	toe	A	1	
-4	te	te	O	1	
-5	voegen	voegen	V	1	
+1	Nog	nog	A	1	O
+2	iets	iets	A	1	O
+3	toe	toe	A	1	O
+4	te	te	O	1	O
+5	voegen	voegen	V	1	O
 
-1	als	als	C	1	
-2	ik	ik	Q	1	
-3	hieronder	hieronder	Q	1	
-4	de	de	D	1	
-5	andere	ander	G	1	
-6	meningen	mening	N	1	
-7	lees	lezen	V	1	
-8	,	,	O	1	
-9	wil	willen	V	1	
-10	ik	ik	Q	1	
-11	nog	nog	A	1	
-12	iets	iets	A	1	
-13	toevoegen	toevoegen	V	1	
-14	.	.	O	1	
+1	als	als	C	1	O
+2	ik	ik	Q	1	O
+3	hieronder	hieronder	Q	1	O
+4	de	de	D	1	O
+5	andere	ander	G	1	O
+6	meningen	mening	N	1	O
+7	lees	lezen	V	1	O
+8	,	,	O	1	O
+9	wil	willen	V	1	O
+10	ik	ik	Q	1	O
+11	nog	nog	A	1	O
+12	iets	iets	A	1	O
+13	toevoegen	toevoegen	V	1	O
+14	.	.	O	1	O
 
-1	WIFI	WIFI	O	1	
-2	inderdaad	inderdaad	A	1	
-3	duur	duur	N	1	
-4	,	,	O	1	
-5	€	€	O	1	
-6	3	@card@	O	1	
-7	/	/	O	1	
-8	uur	uur	N	1	
-9	en	en	C	1	
-10	je	je	Q	1	
-11	krijgt	krijgen	V	1	
-12	amper	amper	A	1	
-13	1	@card@	O	1	
-14	website	website	O	1	
-15	open	openen	V	1	
-16	op	op	P	1	
-17	die	die	D	1	
-18	tijd	tijd	N	1	
-19	.	.	O	1	
+1	WIFI	WIFI	O	1	O
+2	inderdaad	inderdaad	A	1	O
+3	duur	duur	N	1	O
+4	,	,	O	1	O
+5	€	€	O	1	O
+6	3	@card@	O	1	O
+7	/	/	O	1	O
+8	uur	uur	N	1	O
+9	en	en	C	1	O
+10	je	je	Q	1	O
+11	krijgt	krijgen	V	1	O
+12	amper	amper	A	1	O
+13	1	@card@	O	1	O
+14	website	website	O	1	O
+15	open	openen	V	1	O
+16	op	op	P	1	O
+17	die	die	D	1	O
+18	tijd	tijd	N	1	O
+19	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	lees	lezen	V	1	
-3	ook	ook	A	1	
-4	dat	dat	C	1	
-5	mensen	mens	N	1	
-6	dan	dan	C	1	
-7	een	een	D	1	
-8	stacaravan	stacaravan	O	1	
-9	willen	willen	V	1	
-10	nemen	nemen	V	1	
-11	met	met	P	1	
-12	eigen	eigen	G	1	
-13	sanitair	sanitair	N	1	
-14	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	lees	lezen	V	1	O
+3	ook	ook	A	1	O
+4	dat	dat	C	1	O
+5	mensen	mens	N	1	O
+6	dan	dan	C	1	O
+7	een	een	D	1	O
+8	stacaravan	stacaravan	O	1	O
+9	willen	willen	V	1	O
+10	nemen	nemen	V	1	O
+11	met	met	P	1	O
+12	eigen	eigen	G	1	O
+13	sanitair	sanitair	N	1	O
+14	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	zaten	zitten	V	1	
-3	in	in	P	1	
-4	een	een	D	1	
-5	waikiki	waikiki	O	1	
-6	en	en	C	1	
-7	moesten	moeten	V	1	
-8	gebruik	gebruik	N	1	
-9	maken	maken	V	1	
-10	van	van	P	1	
-11	de	de	D	1	
-12	sanitairblokken	sanitairblokken	O	1	
-13	die	die	Q	1	
-14	echt	echt	A	1	
-15	smerig	smerig	G	1	
-16	waren	wezen|zijn	V	1	
-17	omdat	omdat	C	1	
-18	onze	ons	D	1	
-19	douche	douche	N	1	
-20	enkel	enkel	A	1	
-21	kokendheet	kokendheet	G	1	
-22	water	water	N	1	
-23	had	hebben	V	1	
-24	ofwel	ofwel	C	1	
-25	ijskoud	ijskoud	G	1	
-26	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	zaten	zitten	V	1	O
+3	in	in	P	1	O
+4	een	een	D	1	O
+5	waikiki	waikiki	O	1	O
+6	en	en	C	1	O
+7	moesten	moeten	V	1	O
+8	gebruik	gebruik	N	1	O
+9	maken	maken	V	1	O
+10	van	van	P	1	O
+11	de	de	D	1	O
+12	sanitairblokken	sanitairblokken	O	1	O
+13	die	die	Q	1	O
+14	echt	echt	A	1	O
+15	smerig	smerig	G	1	O
+16	waren	wezen|zijn	V	1	O
+17	omdat	omdat	C	1	O
+18	onze	ons	D	1	O
+19	douche	douche	N	1	O
+20	enkel	enkel	A	1	O
+21	kokendheet	kokendheet	G	1	O
+22	water	water	N	1	O
+23	had	hebben	V	1	O
+24	ofwel	ofwel	C	1	O
+25	ijskoud	ijskoud	G	1	O
+26	.	.	O	1	O
 
-1	Niet	niet	A	1	
-2	ideaal	ideaal	G	1	
-3	met	met	P	1	
-4	kids	kids	O	1	
-5	.	.	O	1	
+1	Niet	niet	A	1	O
+2	ideaal	ideaal	G	1	O
+3	met	met	P	1	O
+4	kids	kids	O	1	O
+5	.	.	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	enkele	enkel	D	1	
-4	dingen	ding	N	1	
-5	gaan	gaan	V	1	
-6	melden	melden	V	1	
-7	aan	aan	P	1	
-8	de	de	D	1	
-9	receptie	receptie	N	1	
-10	,	,	O	1	
-11	maar	maar	A	1	
-12	daar	daar	C	1	
-13	werd	worden	V	1	
-14	niet	niet	A	1	
-15	naar	naar	P	1	
-16	geluisterd	luisteren	V	1	
-17	.	.	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	enkele	enkel	D	1	O
+4	dingen	ding	N	1	O
+5	gaan	gaan	V	1	O
+6	melden	melden	V	1	O
+7	aan	aan	P	1	O
+8	de	de	D	1	O
+9	receptie	receptie	N	1	O
+10	,	,	O	1	O
+11	maar	maar	A	1	O
+12	daar	daar	C	1	O
+13	werd	worden	V	1	O
+14	niet	niet	A	1	O
+15	naar	naar	P	1	O
+16	geluisterd	luisteren	V	1	O
+17	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	vonden	vinden	V	1	
-3	het	het	D	1	
-4	te	te	O	1	
-5	druk	druk	G	1	
-6	,	,	O	1	
-7	onze	ons	D	1	
-8	ouders	ouder	N	1	
-9	zijn	zijn	V	1	
-10	zelfs	zelfs	A	1	
-11	op	op	P	1	
-12	bezoek	bezoek	N	1	
-13	geweest	wezen|zijn	V	1	
-14	,	,	O	1	
-15	we	we	Q	1	
-16	zijn	zijn	V	1	
-17	dit	dit	Q	1	
-18	gaan	gaan	V	1	
-19	melden	melden	V	1	
-20	aan	aan	P	1	
-21	de	de	D	1	
-22	receptie	receptie	N	1	
-23	,	,	O	1	
-24	ook	ook	A	1	
-25	daar	daar	C	1	
-26	werd	worden	V	1	
-27	niets	niets	Q	1	
-28	van	van	P	1	
-29	opgeschreven	opschrijven	V	1	
-30	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	vonden	vinden	V	1	O
+3	het	het	D	1	O
+4	te	te	O	1	O
+5	druk	druk	G	1	O
+6	,	,	O	1	O
+7	onze	ons	D	1	O
+8	ouders	ouder	N	1	O
+9	zijn	zijn	V	1	O
+10	zelfs	zelfs	A	1	O
+11	op	op	P	1	O
+12	bezoek	bezoek	N	1	O
+13	geweest	wezen|zijn	V	1	O
+14	,	,	O	1	O
+15	we	we	Q	1	O
+16	zijn	zijn	V	1	O
+17	dit	dit	Q	1	O
+18	gaan	gaan	V	1	O
+19	melden	melden	V	1	O
+20	aan	aan	P	1	O
+21	de	de	D	1	O
+22	receptie	receptie	N	1	O
+23	,	,	O	1	O
+24	ook	ook	A	1	O
+25	daar	daar	C	1	O
+26	werd	worden	V	1	O
+27	niets	niets	Q	1	O
+28	van	van	P	1	O
+29	opgeschreven	opschrijven	V	1	O
+30	.	.	O	1	O
 
-1	Hoe	hoe	Q	1	
-2	weten	weten	V	1	
-3	deze	deze	D	1	
-4	mensen	mens	N	1	
-5	nu	nu	A	1	
-6	wie	wie	Q	1	
-7	er	er	Q	1	
-8	op	op	P	1	
-9	de	de	D	1	
-10	camping	camping	N	1	
-11	verblijft	verblijven	V	1	
-12	?	?	O	1	
+1	Hoe	hoe	Q	1	O
+2	weten	weten	V	1	O
+3	deze	deze	D	1	O
+4	mensen	mens	N	1	O
+5	nu	nu	A	1	O
+6	wie	wie	Q	1	O
+7	er	er	Q	1	O
+8	op	op	P	1	O
+9	de	de	D	1	O
+10	camping	camping	N	1	O
+11	verblijft	verblijven	V	1	O
+12	?	?	O	1	O
 
-1	Je	je	Q	1	
-2	kan	kunnen	V	1	
-3	er	er	Q	1	
-4	zomaar	zomaar	A	1	
-5	op	op	P	1	
-6	.	.	O	1	
+1	Je	je	Q	1	O
+2	kan	kunnen	V	1	O
+3	er	er	Q	1	O
+4	zomaar	zomaar	A	1	O
+5	op	op	P	1	O
+6	.	.	O	1	O
 
-1	Niemand	niemand	Q	1	
-2	dat	dat	Q	1	
-3	weet	weten	V	1	
-4	waar	waar	Q	1	
-5	deze	deze	D	1	
-6	mensen	mens	N	1	
-7	hebben	hebben	V	1	
-8	geslapen	slapen	V	1	
-9	.	.	O	1	
+1	Niemand	niemand	Q	1	O
+2	dat	dat	Q	1	O
+3	weet	weten	V	1	O
+4	waar	waar	Q	1	O
+5	deze	deze	D	1	O
+6	mensen	mens	N	1	O
+7	hebben	hebben	V	1	O
+8	geslapen	slapen	V	1	O
+9	.	.	O	1	O
 

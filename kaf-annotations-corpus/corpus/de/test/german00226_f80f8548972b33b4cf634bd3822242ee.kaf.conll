@@ -1,105 +1,107 @@
-1	Katastrophe	Katastrophe	N	1	
-2	!	!	O	1	
+1	Katastrophe	Katastrophe	N	1	O
+2	!	!	O	1	O
 
-1	Wer	wer	Q	1	
-2	sich	sich	Q	1	
-3	einen	eine	D	1	
-4	tinitus	tinitus	O	1	
-5	einfangen	einfangen	V	1	
-6	will	wollen	V	1	
-7	,	,	O	1	
-8	soll	sollen	V	1	
-9	buchen	buchen	V	1	
-10	!	!	O	1	
-11	!	!	O	1	
-12	!	!	O	1	
+1	Wer	wer	Q	1	O
+2	sich	sich	Q	1	O
+3	einen	eine	D	1	O
+4	tinitus	tinitus	O	1	O
+5	einfangen	einfangen	V	1	O
+6	will	wollen	V	1	O
+7	,	,	O	1	O
+8	soll	sollen	V	1	O
+9	buchen	buchen	V	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
+12	!	!	O	1	O
 
-1	Nie	nie	A	1	
-2	wieder	wieder	A	1	
-3	,	,	O	1	
-4	die	die	Q	1	
-5	sehr	sehr	A	1	
-6	laute	laut	G	1	
-7	beschallung	beschallung	O	1	
-8	den	die	D	1	
-9	ganzen	ganz	G	1	
-10	tag	tagen	V	1	
-11	,	,	O	1	
-12	ab	ab	P	1	
-13	18.00_uhr	@card@_Uhr	R	1	ne=Time
-14	fangen	fangen	V	1	
-15	dann	dann	A	1	
-16	die	die	D	1	
-17	partys	Party	N	1	
-18	an	an	P	1	
-19	die	die	D	1	
-20	einem	eine	Q	1	
-21	fast	fast	A	1	
-22	das	die	Q	1	
-23	gehör	gehören	V	1	
-24	rauben	rauben	V	1	
-25	.	.	O	1	
+1	Nie	nie	A	1	O
+2	wieder	wieder	A	1	O
+3	,	,	O	1	O
+4	die	die	Q	1	O
+5	sehr	sehr	A	1	O
+6	laute	laut	G	1	O
+7	beschallung	beschallung	O	1	O
+8	den	die	D	1	O
+9	ganzen	ganz	G	1	O
+10	tag	tagen	V	1	O
+11	,	,	O	1	O
+12	ab	ab	P	1	O
+13	18.00	@card@	O	1	I-Time
+14	uhr	Uhr	N	1	I-Time
+15	fangen	fangen	V	1	O
+16	dann	dann	A	1	O
+17	die	die	D	1	O
+18	partys	Party	N	1	O
+19	an	an	P	1	O
+20	die	die	D	1	O
+21	einem	eine	Q	1	O
+22	fast	fast	A	1	O
+23	das	die	Q	1	O
+24	gehör	gehören	V	1	O
+25	rauben	rauben	V	1	O
+26	.	.	O	1	O
 
-1	Um	um	P	1	
-2	24.00_uhr	@card@_Uhr	R	1	ne=Time
-3	ist	sein	V	1	
-4	dann	dann	A	1	
-5	fertig	fertig	G	1	
-6	um	um	P	1	
-7	gleich	gleich	G	1	
-8	danach	danach	Q	1	
-9	sehr	sehr	A	1	
-10	gründlich	gründlich	G	1	
-11	bis	bis	C	1	
-12	um	um	P	1	
-13	02	@card@	O	1	
-14	.	.	O	1	
+1	Um	um	P	1	O
+2	24.00	@card@	O	1	I-Time
+3	uhr	Uhr	N	1	I-Time
+4	ist	sein	V	1	O
+5	dann	dann	A	1	O
+6	fertig	fertig	G	1	O
+7	um	um	P	1	O
+8	gleich	gleich	G	1	O
+9	danach	danach	Q	1	O
+10	sehr	sehr	A	1	O
+11	gründlich	gründlich	G	1	O
+12	bis	bis	C	1	O
+13	um	um	P	1	O
+14	02	@card@	O	1	O
+15	.	.	O	1	O
 
-1	00	@card@	O	1	
-2	uhr	Uhr	N	1	
-3	zu	zu	O	1	
-4	kärchern	kärchern	O	1	
-5	.	.	O	1	
+1	00	@card@	O	1	O
+2	uhr	Uhr	N	1	O
+3	zu	zu	O	1	O
+4	kärchern	kärchern	O	1	O
+5	.	.	O	1	O
 
-1	Um	um	P	1	
-2	05	@card@	O	1	
-3	.	.	O	1	
+1	Um	um	P	1	O
+2	05	@card@	O	1	O
+3	.	.	O	1	O
 
-1	00	@card@	O	1	
-2	wird	werden	V	1	
-3	mit	mit	P	1	
-4	wasserschläuchen	Wasserschlauch	N	1	
-5	und	und	C	1	
-6	anlieferungen	anlieferungen	O	1	
-7	weiter	weiter	A	1	
-8	gelärmt	lärmen	V	1	
-9	.	.	O	1	
+1	00	@card@	O	1	O
+2	wird	werden	V	1	O
+3	mit	mit	P	1	O
+4	wasserschläuchen	Wasserschlauch	N	1	O
+5	und	und	C	1	O
+6	anlieferungen	anlieferungen	O	1	O
+7	weiter	weiter	A	1	O
+8	gelärmt	lärmen	V	1	O
+9	.	.	O	1	O
 
-1	Da	da	A	1	
-2	nützt	nützen	V	1	
-3	auch	auch	A	1	
-4	die	die	D	1	
-5	teure	teuer	G	1	
-6	suite	suite	O	1	
-7	nichts	nichts	Q	1	
-8	,	,	O	1	
-9	permanenter	permanent	G	1	
-10	lärm	lärmen	V	1	
-11	auch	auch	A	1	
-12	durch	durch	P	1	
-13	den	die	D	1	
-14	angrenzenden	angrenzend	G	1	
-15	flughafen	Flughafen	N	1	
-16	,	,	O	1	
-17	der	die	Q	1	
-18	im	in	P	1	
-19	3	3	O	1	
-20	minutentakt	Minutentakt	N	1	
-21	auch	auch	A	1	
-22	keine	keine	Q	1	
-23	schonzeit	Schonzeit	N	1	
-24	kennt	kennen	V	1	
-25	!	!	O	1	
-26	!	!	O	1	
-27	!	!	O	1	
+1	Da	da	A	1	O
+2	nützt	nützen	V	1	O
+3	auch	auch	A	1	O
+4	die	die	D	1	O
+5	teure	teuer	G	1	O
+6	suite	suite	O	1	O
+7	nichts	nichts	Q	1	O
+8	,	,	O	1	O
+9	permanenter	permanent	G	1	O
+10	lärm	lärmen	V	1	O
+11	auch	auch	A	1	O
+12	durch	durch	P	1	O
+13	den	die	D	1	O
+14	angrenzenden	angrenzend	G	1	O
+15	flughafen	Flughafen	N	1	O
+16	,	,	O	1	O
+17	der	die	Q	1	O
+18	im	in	P	1	O
+19	3	3	O	1	O
+20	minutentakt	Minutentakt	N	1	O
+21	auch	auch	A	1	O
+22	keine	keine	Q	1	O
+23	schonzeit	Schonzeit	N	1	O
+24	kennt	kennen	V	1	O
+25	!	!	O	1	O
+26	!	!	O	1	O
+27	!	!	O	1	O
 

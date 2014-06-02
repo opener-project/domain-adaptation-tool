@@ -1,79 +1,82 @@
-1	Gravierende	gravierend	G	1	
-2	Mängel	Mangel	N	1	
-3	im	in	P	1	
-4	Raidisson_Blu_Berlin	Raidisson_Blu_Berlin	R	1	ne=Hotel
-5	DEU	DEU	O	1	
+1	Gravierende	gravierend	G	1	O
+2	Mängel	Mangel	N	1	O
+3	im	in	P	1	O
+4	Raidisson	Raidisson	O	1	I-Hotel
+5	Blu	Blu	O	1	I-Hotel
+6	Berlin	Berlin	R	1	I-Hotel
+7	DEU	DEU	O	1	O
 
-1	2	2	O	1	
-2	Business	Business	N	1	
-3	Zimmer	Zimmer	N	1	
-4	zu	zu	P	1	
-5	je	je	A	1	
-6	470,00_€	@card@_€	R	1	ne=Money
-7	per	per	P	1	
-8	Übernachtung	Übernachtung	N	1	
-9	gebucht	buchen	V	1	
-10	und	und	C	1	
-11	im	in	P	1	
-12	absolut	absolut	G	1	
-13	leeren	leer	G	1	
-14	Restaurant	Restaurant	N	1	
-15	zu	zu	P	1	
-16	Abend	Abend	N	1	
-17	gegessen	essen	V	1	
-18	.	.	O	1	
+1	2	2	O	1	O
+2	Business	Business	N	1	O
+3	Zimmer	Zimmer	N	1	O
+4	zu	zu	P	1	O
+5	je	je	A	1	O
+6	470,00	@card@	O	1	I-Money
+7	€	€	O	1	I-Money
+8	per	per	P	1	O
+9	Übernachtung	Übernachtung	N	1	O
+10	gebucht	buchen	V	1	O
+11	und	und	C	1	O
+12	im	in	P	1	O
+13	absolut	absolut	G	1	O
+14	leeren	leer	G	1	O
+15	Restaurant	Restaurant	N	1	O
+16	zu	zu	P	1	O
+17	Abend	Abend	N	1	O
+18	gegessen	essen	V	1	O
+19	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Sauberkeit	Sauberkeit	N	1	
-3	auf	auf	P	1	
-4	dem	die	D	1	
-5	Fußboden	Fußboden	N	1	
-6	(	(	O	1	
-7	Krümel	Krümel	N	1	
-8	vom	von	P	1	
-9	Frühstück	Frühstück	N	1	
-10	morgens	morgens	A	1	
-11	)	)	O	1	
-12	und	und	C	1	
-13	am	an	P	1	
-14	Weinglas	Weinglas	N	1	
-15	Lippenstift	Lippenstift	N	1	
-16	hatten	haben	V	1	
-17	meine	mein	Q	1	
-18	Gäste	Gast	N	1	
-19	und	und	C	1	
-20	auch	auch	A	1	
-21	mich	ich	Q	1	
-22	sehr	sehr	A	1	
-23	befremdet	befremden	V	1	
-24	.	.	O	1	
+1	Die	die	D	1	O
+2	Sauberkeit	Sauberkeit	N	1	O
+3	auf	auf	P	1	O
+4	dem	die	D	1	O
+5	Fußboden	Fußboden	N	1	O
+6	(	(	O	1	O
+7	Krümel	Krümel	N	1	O
+8	vom	von	P	1	O
+9	Frühstück	Frühstück	N	1	O
+10	morgens	morgens	A	1	O
+11	)	)	O	1	O
+12	und	und	C	1	O
+13	am	an	P	1	O
+14	Weinglas	Weinglas	N	1	O
+15	Lippenstift	Lippenstift	N	1	O
+16	hatten	haben	V	1	O
+17	meine	mein	Q	1	O
+18	Gäste	Gast	N	1	O
+19	und	und	C	1	O
+20	auch	auch	A	1	O
+21	mich	ich	Q	1	O
+22	sehr	sehr	A	1	O
+23	befremdet	befremden	V	1	O
+24	.	.	O	1	O
 
-1	Große	groß	G	1	
-2	Kartoffel	Kartoffel	N	1	
-3	mit	mit	P	1	
-4	Quarkfüllung	Quarkfüllung	N	1	
-5	zum	zu	P	1	
-6	Steak	Steak	N	1	
-7	mußte	müssen	V	1	
-8	zurück	zurück	A	1	
-9	gegeben	geben	V	1	
-10	werden	werden	V	1	
-11	,	,	O	1	
-12	da	da	C	1	
-13	Kartoffel	Kartoffel	N	1	
-14	glasig	glasig	G	1	
-15	innen	innen	G	1	
-16	,	,	O	1	
-17	das	die	D	1	
-18	Steak	Steak	N	1	
-19	an	an	P	1	
-20	zwei	zwei	O	1	
-21	Seiten	Seite	N	1	
-22	angebrannt	anbrennen	V	1	
-23	und	und	C	1	
-24	somit	somit	A	1	
-25	nicht	nicht	O	1	
-26	genießbar	genießbar	G	1	
-27	waren	sein	V	1	
-28	!	!	O	1	
+1	Große	groß	G	1	O
+2	Kartoffel	Kartoffel	N	1	O
+3	mit	mit	P	1	O
+4	Quarkfüllung	Quarkfüllung	N	1	O
+5	zum	zu	P	1	O
+6	Steak	Steak	N	1	O
+7	mußte	müssen	V	1	O
+8	zurück	zurück	A	1	O
+9	gegeben	geben	V	1	O
+10	werden	werden	V	1	O
+11	,	,	O	1	O
+12	da	da	C	1	O
+13	Kartoffel	Kartoffel	N	1	O
+14	glasig	glasig	G	1	O
+15	innen	innen	G	1	O
+16	,	,	O	1	O
+17	das	die	D	1	O
+18	Steak	Steak	N	1	O
+19	an	an	P	1	O
+20	zwei	zwei	O	1	O
+21	Seiten	Seite	N	1	O
+22	angebrannt	anbrennen	V	1	O
+23	und	und	C	1	O
+24	somit	somit	A	1	O
+25	nicht	nicht	O	1	O
+26	genießbar	genießbar	G	1	O
+27	waren	sein	V	1	O
+28	!	!	O	1	O
 

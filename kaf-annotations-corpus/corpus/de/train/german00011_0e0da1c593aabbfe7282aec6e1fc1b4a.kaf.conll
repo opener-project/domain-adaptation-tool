@@ -1,134 +1,134 @@
-1	Toller	toll	G	1	
-2	Urlaub	Urlaub	N	1	
-3	,	,	O	1	
-4	tolles	toll	G	1	
-5	Hotel	Hotel	N	1	
-6	,	,	O	1	
-7	toller	toll	G	1	
-8	Service	Service	N	1	
+1	Toller	toll	G	1	O
+2	Urlaub	Urlaub	N	1	O
+3	,	,	O	1	O
+4	tolles	toll	G	1	O
+5	Hotel	Hotel	N	1	O
+6	,	,	O	1	O
+7	toller	toll	G	1	O
+8	Service	Service	N	1	O
 
-1	Eine	eine	D	1	
-2	wunderschöne	wunderschön	G	1	
-3	Anlage	Anlage	N	1	
-4	mit	mit	P	1	
-5	traumhaft	traumhaft	G	1	
-6	gepflegtem	gepflegt	G	1	
-7	Garten	Garten	N	1	
-8	.	.	O	1	
+1	Eine	eine	D	1	O
+2	wunderschöne	wunderschön	G	1	O
+3	Anlage	Anlage	N	1	O
+4	mit	mit	P	1	O
+5	traumhaft	traumhaft	G	1	O
+6	gepflegtem	gepflegt	G	1	O
+7	Garten	Garten	N	1	O
+8	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	groß	groß	G	1	
-3	,	,	O	1	
-4	wie	wie	C	1	
-5	schon	schon	A	1	
-6	oft	oft	A	1	
-7	geschrieben	schreiben	V	1	
-8	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	groß	groß	G	1	O
+3	,	,	O	1	O
+4	wie	wie	C	1	O
+5	schon	schon	A	1	O
+6	oft	oft	A	1	O
+7	geschrieben	schreiben	V	1	O
+8	.	.	O	1	O
 
-1	Durch	durch	P	1	
-2	die	die	D	1	
-3	Bahn	Bahn	N	1	
-4	,	,	O	1	
-5	die	die	Q	1	
-6	regelmäßig	regelmäßig	G	1	
-7	fährt	fahren	V	1	
-8	,	,	O	1	
-9	muss	müssen	V	1	
-10	man	man	Q	1	
-11	nicht	nicht	O	1	
-12	laufen	laufen	V	1	
-13	.	.	O	1	
+1	Durch	durch	P	1	O
+2	die	die	D	1	O
+3	Bahn	Bahn	N	1	O
+4	,	,	O	1	O
+5	die	die	Q	1	O
+6	regelmäßig	regelmäßig	G	1	O
+7	fährt	fahren	V	1	O
+8	,	,	O	1	O
+9	muss	müssen	V	1	O
+10	man	man	Q	1	O
+11	nicht	nicht	O	1	O
+12	laufen	laufen	V	1	O
+13	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	haben	haben	V	1	
-3	jedoch	jedoch	A	1	
-4	die	die	D	1	
-5	Spaziergänge	Spaziergang	N	1	
-6	durch	durch	P	1	
-7	die	die	D	1	
-8	Anlage	Anlage	N	1	
-9	jeden	jede	Q	1	
-10	Tag	Tag	N	1	
-11	wieder	wieder	A	1	
-12	genossen	genießen	V	1	
-13	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	haben	haben	V	1	O
+3	jedoch	jedoch	A	1	O
+4	die	die	D	1	O
+5	Spaziergänge	Spaziergang	N	1	O
+6	durch	durch	P	1	O
+7	die	die	D	1	O
+8	Anlage	Anlage	N	1	O
+9	jeden	jede	Q	1	O
+10	Tag	Tag	N	1	O
+11	wieder	wieder	A	1	O
+12	genossen	genießen	V	1	O
+13	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Royal	royal	G	1	
-3	Suites	Suites	O	1	
-4	sind	sein	V	1	
-5	sehr	sehr	A	1	
-6	zu	zu	O	1	
-7	empfehlen	empfehlen	V	1	
-8	.	.	O	1	
+1	Die	die	D	1	O
+2	Royal	royal	G	1	O
+3	Suites	Suites	O	1	O
+4	sind	sein	V	1	O
+5	sehr	sehr	A	1	O
+6	zu	zu	O	1	O
+7	empfehlen	empfehlen	V	1	O
+8	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	waren	sein	V	1	
-3	in	in	P	1	
-4	einer	eine	D	1	
-5	SwimUp	SwimUp	O	1	
-6	Suite	Suite	N	1	
-7	und	und	C	1	
-8	das	die	Q	1	
-9	war	sein	V	1	
-10	einfach	einfach	G	1	
-11	toll	toll	G	1	
-12	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	waren	sein	V	1	O
+3	in	in	P	1	O
+4	einer	eine	D	1	O
+5	SwimUp	SwimUp	O	1	O
+6	Suite	Suite	N	1	O
+7	und	und	C	1	O
+8	das	die	Q	1	O
+9	war	sein	V	1	O
+10	einfach	einfach	G	1	O
+11	toll	toll	G	1	O
+12	.	.	O	1	O
 
-1	Gerade	gerade	A	1	
-2	zum	zu	P	1	
-3	Gewöhnen	Gewöhnen	N	1	
-4	an	an	P	1	
-5	Sonne	Sonne	N	1	
-6	und	und	C	1	
-7	Klima	Klima	N	1	
-8	war	sein	V	1	
-9	die	die	D	1	
-10	Suite	Suite	N	1	
-11	toll	toll	G	1	
-12	.	.	O	1	
+1	Gerade	gerade	A	1	O
+2	zum	zu	P	1	O
+3	Gewöhnen	Gewöhnen	N	1	O
+4	an	an	P	1	O
+5	Sonne	Sonne	N	1	O
+6	und	und	C	1	O
+7	Klima	Klima	N	1	O
+8	war	sein	V	1	O
+9	die	die	D	1	O
+10	Suite	Suite	N	1	O
+11	toll	toll	G	1	O
+12	.	.	O	1	O
 
-1	Auf	auf	P	1	
-2	der	die	D	1	
-3	eigenen	eigen	G	1	
-4	Terrasse	Terrasse	N	1	
-5	mit	mit	P	1	
-6	Zugang	Zugang	N	1	
-7	zum	zu	P	1	
-8	Pool	Pool	N	1	
-9	·	·	O	1	
-10	super	super	G	1	
-11	!	!	O	1	
+1	Auf	auf	P	1	O
+2	der	die	D	1	O
+3	eigenen	eigen	G	1	O
+4	Terrasse	Terrasse	N	1	O
+5	mit	mit	P	1	O
+6	Zugang	Zugang	N	1	O
+7	zum	zu	P	1	O
+8	Pool	Pool	N	1	O
+9	·	·	O	1	O
+10	super	super	G	1	O
+11	!	!	O	1	O
 
-1	Viele	viele	Q	1	
-2	Gäste	Gast	N	1	
-3	in	in	P	1	
-4	mittlerem	mittler	G	1	
-5	Altersdurchschnitt	Altersdurchschnitt	N	1	
-6	auch	auch	A	1	
-7	Rentner	Rentner	N	1	
-8	.	.	O	1	
+1	Viele	viele	Q	1	O
+2	Gäste	Gast	N	1	O
+3	in	in	P	1	O
+4	mittlerem	mittler	G	1	O
+5	Altersdurchschnitt	Altersdurchschnitt	N	1	O
+6	auch	auch	A	1	O
+7	Rentner	Rentner	N	1	O
+8	.	.	O	1	O
 
-1	Nationalitäten	Nationalität	N	1	
-2	:	:	O	1	
-3	viele	viele	Q	1	
-4	Kanadier	Kanadier	N	1	
-5	,	,	O	1	
-6	Amerikaner	Amerikaner	N	1	
-7	,	,	O	1	
-8	einige	einige	Q	1	
-9	Russen	Russe	N	1	
-10	und	und	C	1	
-11	viele	viele	Q	1	
-12	Deutsche	Deutsche	N	1	
-13	.	.	O	1	
+1	Nationalitäten	Nationalität	N	1	O
+2	:	:	O	1	O
+3	viele	viele	Q	1	O
+4	Kanadier	Kanadier	N	1	O
+5	,	,	O	1	O
+6	Amerikaner	Amerikaner	N	1	O
+7	,	,	O	1	O
+8	einige	einige	Q	1	O
+9	Russen	Russe	N	1	O
+10	und	und	C	1	O
+11	viele	viele	Q	1	O
+12	Deutsche	Deutsche	N	1	O
+13	.	.	O	1	O
 
-1	Zu	zu	P	1	
-2	unserer	unser	Q	1	
-3	Reisezeit	Reisezeit	N	1	
-4	überwiegten	überwiegten	O	1	
-5	die	die	D	1	
-6	kanadischen	kanadisch	G	1	
-7	Gäste	Gast	N	1	
-8	.	.	O	1	
+1	Zu	zu	P	1	O
+2	unserer	unser	Q	1	O
+3	Reisezeit	Reisezeit	N	1	O
+4	überwiegten	überwiegten	O	1	O
+5	die	die	D	1	O
+6	kanadischen	kanadisch	G	1	O
+7	Gäste	Gast	N	1	O
+8	.	.	O	1	O
 

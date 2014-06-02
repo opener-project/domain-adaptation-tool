@@ -1,60 +1,60 @@
-1	Con	con	P	1	
-2	poche	poco	G	1	
-3	pretese	pretendere	V	1	
+1	Con	con	P	1	O
+2	poche	poco	G	1	O
+3	pretese	pretendere	V	1	O
 
-1	Hotel	hotel	N	1	
-2	adatto	adatto	G	1	
-3	a	a	P	1	
-4	chi	chi	Q	1	
-5	ha	avere	V	1	
-6	poche	poco	G	1	
-7	pretese	pretesa	N	1	
-8	,	,	O	1	
-9	costa	costare	V	1	
-10	poco	poco	A	1	
-11	e	e	Q	1	
-12	si	si	Q	1	
-13	riceve	ricevere	V	1	
-14	poco	poco	A	1	
-15	...	...	O	1	
+1	Hotel	hotel	N	1	O
+2	adatto	adatto	G	1	O
+3	a	a	P	1	O
+4	chi	chi	Q	1	O
+5	ha	avere	V	1	O
+6	poche	poco	G	1	O
+7	pretese	pretesa	N	1	O
+8	,	,	O	1	O
+9	costa	costare	V	1	O
+10	poco	poco	A	1	O
+11	e	e	Q	1	O
+12	si	si	Q	1	O
+13	riceve	ricevere	V	1	O
+14	poco	poco	A	1	O
+15	...	...	O	1	O
 
-1	Camera	camera	N	1	
-2	rumorosa	rumoroso	G	1	
-3	causa	causa	N	1	
-4	finestra	finestra	G	1	
-5	vista	vedere	V	1	
-6	strada	strada	N	1	
-7	.	.	O	1	
+1	Camera	camera	N	1	O
+2	rumorosa	rumoroso	G	1	O
+3	causa	causa	N	1	O
+4	finestra	finestra	G	1	O
+5	vista	vedere	V	1	O
+6	strada	strada	N	1	O
+7	.	.	O	1	O
 
-1	Personale	personale	R	1	
-2	non	non	A	1	
-3	(	(	O	1	
-4	altamente	altamente	A	1	
-5	)	)	O	1	
-6	qualificato	qualificare	V	1	
-7	.	.	O	1	
+1	Personale	personale	R	1	O
+2	non	non	A	1	O
+3	(	(	O	1	O
+4	altamente	altamente	A	1	O
+5	)	)	O	1	O
+6	qualificato	qualificare	V	1	O
+7	.	.	O	1	O
 
-1	Posizione	posizione	N	1	
-2	comoda	comodo	G	1	
-3	.	.	O	1	
+1	Posizione	posizione	N	1	O
+2	comoda	comodo	G	1	O
+3	.	.	O	1	O
 
-1	Colazione	colazione	N	1	
-2	scarsa	scarso	G	1	
-3	.	.	O	1	
+1	Colazione	colazione	N	1	O
+2	scarsa	scarso	G	1	O
+3	.	.	O	1	O
 
-1	Albergo	albergo	R	1	
-2	"	&quot;	O	1	
-3	a	a	P	1	
-4	ore	ore	N	1	
-5	"	&quot;	O	1	
-6	non	non	A	1	
-7	troppo	troppo	A	1	
-8	distante	distare	V	1	
-9	(	(	O	1	
-10	in	in	P	1	
-11	pratica	pratica	N	1	
-12	di	di	P	1	
-13	fronte	fronte	N	1	
-14	)	)	O	1	
-15	...	...	O	1	
+1	Albergo	albergo	R	1	O
+2	"	&quot;	O	1	O
+3	a	a	P	1	O
+4	ore	ore	N	1	O
+5	"	&quot;	O	1	O
+6	non	non	A	1	O
+7	troppo	troppo	A	1	O
+8	distante	distare	V	1	O
+9	(	(	O	1	O
+10	in	in	P	1	O
+11	pratica	pratica	N	1	O
+12	di	di	P	1	O
+13	fronte	fronte	N	1	O
+14	)	)	O	1	O
+15	...	...	O	1	O
 

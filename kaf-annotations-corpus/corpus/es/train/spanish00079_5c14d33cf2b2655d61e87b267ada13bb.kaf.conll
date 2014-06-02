@@ -1,105 +1,105 @@
-1	Afgelegen	Afgelegen	R	1	
-2	mooi	mooi	O	1	
-3	hotel	hotel	N	1	
-4	aan	aan	G	1	
-5	prachtig	prachtig	N	1	
-6	strand	strand	N	1	
+1	Afgelegen	Afgelegen	R	1	O
+2	mooi	mooi	O	1	O
+3	hotel	hotel	N	1	O
+4	aan	aan	G	1	O
+5	prachtig	prachtig	N	1	O
+6	strand	strand	N	1	O
 
-1	mooi	mooi	G	1	
-2	hotel	hotel	N	1	
-3	met	meet	V	1	
-4	prima	prima	G	1	
-5	service	service	N	1	
-6	en	en	P	1	
-7	animatie	animatie	N	1	
-8	.	.	O	1	
+1	mooi	mooi	G	1	O
+2	hotel	hotel	N	1	O
+3	met	meet	V	1	O
+4	prima	prima	G	1	O
+5	service	service	N	1	O
+6	en	en	P	1	O
+7	animatie	animatie	N	1	O
+8	.	.	O	1	O
 
-1	eindeloos	eindeloos	N	1	
-2	lange	lange	V	1	
-3	rustige	rustige	G	1	
-4	mooie	mooie	N	1	
-5	strandwandelingen	strandwandelingen	N	1	
-6	.	.	O	1	
+1	eindeloos	eindeloos	N	1	O
+2	lange	lange	V	1	O
+3	rustige	rustige	G	1	O
+4	mooie	mooie	N	1	O
+5	strandwandelingen	strandwandelingen	N	1	O
+6	.	.	O	1	O
 
-1	dus	dus	N	1	
-2	prima	prima	O	1	
-3	voor	voor	O	1	
-4	rustvakantie	rustvakantie	O	1	
-5	.	.	O	1	
+1	dus	dus	N	1	O
+2	prima	prima	O	1	O
+3	voor	voor	O	1	O
+4	rustvakantie	rustvakantie	O	1	O
+5	.	.	O	1	O
 
-1	GEEN	GEEN	R	1	
-2	5	5	O	1	
-3	sterren	sterren	N	1	
-4	,	,	O	1	
-5	daarvoor	daarvoor	G	1	
-6	te	te	N	1	
-7	veel	veel	N	1	
-8	kleine	kleine	N	1	
-9	minpuntjes	minpuntjes	N	1	
-10	maar	maar	G	1	
-11	prima	prima	N	1	
-12	prijs	prijs	N	1	
-13	/	/	V	1	
-14	kwaliteit	kwaliteit	N	1	
-15	.	.	O	1	
+1	GEEN	GEEN	R	1	O
+2	5	5	O	1	O
+3	sterren	sterren	N	1	O
+4	,	,	O	1	O
+5	daarvoor	daarvoor	G	1	O
+6	te	te	N	1	O
+7	veel	veel	N	1	O
+8	kleine	kleine	N	1	O
+9	minpuntjes	minpuntjes	N	1	O
+10	maar	maar	G	1	O
+11	prima	prima	N	1	O
+12	prijs	prijs	N	1	O
+13	/	/	V	1	O
+14	kwaliteit	kwaliteit	N	1	O
+15	.	.	O	1	O
 
-1	Wil	Wil	R	1	
-2	je	je	N	1	
-3	grand	grand	N	1	
-4	luxe	luxe	N	1	
-5	,	,	O	1	
-6	neem	neem	V	1	
-7	dan	dan	G	1	
-8	5	5	O	1	
-9	*	*	N	1	
-10	aan	aan	G	1	
-11	bavaro	bavaro	N	1	
-12	.	.	O	1	
+1	Wil	Wil	R	1	O
+2	je	je	N	1	O
+3	grand	grand	N	1	O
+4	luxe	luxe	N	1	O
+5	,	,	O	1	O
+6	neem	neem	V	1	O
+7	dan	dan	G	1	O
+8	5	5	O	1	O
+9	*	*	N	1	O
+10	aan	aan	G	1	O
+11	bavaro	bavaro	N	1	O
+12	.	.	O	1	O
 
-1	Ver	Ver	R	1	
-2	afgelegen	afgelegen	N	1	
-3	van	van	N	1	
-4	alles	alles	V	1	
-5	,	,	O	1	
-6	dus	dus	N	1	
-7	slecht	slecht	V	1	
-8	uitgangspunt	uitgangspunt	G	1	
-9	voor	voor	N	1	
-10	excursies	excursies	N	1	
-11	(	(	O	1	
-12	duurder	duurder	A	1	
-13	en	en	G	1	
-14	2	2	O	1	
-15	uur	uur	G	1	
-16	extra	extra	G	1	
-17	tijd	tijd	G	1	
-18	nodig	nodig	N	1	
-19	)	)	O	1	
-20	maar	maar	N	1	
-21	ja	ja	N	1	
-22	dat	dat	N	1	
-23	heeft	heeft	N	1	
-24	dan	dan	G	1	
-25	weer	weer	N	1	
-26	het	het	N	1	
-27	voordeel	voordeel	N	1	
-28	dat	dat	N	1	
-29	het	het	N	1	
-30	strand	strand	G	1	
-31	voor	voor	N	1	
-32	jou	jou	N	1	
-33	alleen	alleen	N	1	
-34	is	be	V	1	
-35	in	in	P	1	
-36	plaats	plaats	N	1	
-37	van	van	V	1	
-38	resort	resort	N	1	
-39	tegen	tegen	N	1	
-40	resort	resort	N	1	
-41	.	.	O	1	
+1	Ver	Ver	R	1	O
+2	afgelegen	afgelegen	N	1	O
+3	van	van	N	1	O
+4	alles	alles	V	1	O
+5	,	,	O	1	O
+6	dus	dus	N	1	O
+7	slecht	slecht	V	1	O
+8	uitgangspunt	uitgangspunt	G	1	O
+9	voor	voor	N	1	O
+10	excursies	excursies	N	1	O
+11	(	(	O	1	O
+12	duurder	duurder	A	1	O
+13	en	en	G	1	O
+14	2	2	O	1	O
+15	uur	uur	G	1	O
+16	extra	extra	G	1	O
+17	tijd	tijd	G	1	O
+18	nodig	nodig	N	1	O
+19	)	)	O	1	O
+20	maar	maar	N	1	O
+21	ja	ja	N	1	O
+22	dat	dat	N	1	O
+23	heeft	heeft	N	1	O
+24	dan	dan	G	1	O
+25	weer	weer	N	1	O
+26	het	het	N	1	O
+27	voordeel	voordeel	N	1	O
+28	dat	dat	N	1	O
+29	het	het	N	1	O
+30	strand	strand	G	1	O
+31	voor	voor	N	1	O
+32	jou	jou	N	1	O
+33	alleen	alleen	N	1	O
+34	is	be	V	1	O
+35	in	in	P	1	O
+36	plaats	plaats	N	1	O
+37	van	van	V	1	O
+38	resort	resort	N	1	O
+39	tegen	tegen	N	1	O
+40	resort	resort	N	1	O
+41	.	.	O	1	O
 
-1	Ieder	Ieder	R	1	
-2	zijn	zijn	N	1	
-3	zin	zin	N	1	
-4	..	..	O	1	
+1	Ieder	Ieder	R	1	O
+2	zijn	zijn	N	1	O
+3	zin	zin	N	1	O
+4	..	..	O	1	O
 

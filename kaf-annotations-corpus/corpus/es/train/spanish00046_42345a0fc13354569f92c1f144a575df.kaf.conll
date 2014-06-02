@@ -1,75 +1,75 @@
-1	Detalles	detalles	N	1	
-2	que	que	V	1	
-3	hacen	hacen	G	1	
-4	que	que	N	1	
-5	vuelvas	vuelvas	N	1	
+1	Detalles	detalles	N	1	O
+2	que	que	V	1	O
+3	hacen	hacen	G	1	O
+4	que	que	N	1	O
+5	vuelvas	vuelvas	N	1	O
 
-1	VEl	VEl	R	1	
-2	hotel	hotel	N	1	
-3	tiene	tiene	N	1	
-4	168	168	O	1	
-5	habitaciones	habitaciones	N	1	
-6	y	y	G	1	
-7	11	11	O	1	
-8	plantas	plantas	N	1	
-9	,	,	O	1	
-10	nosotros	nosotros	O	1	
-11	nos	nos	O	1	
-12	alojamos	alojamos	O	1	
-13	en	en	O	1	
-14	esta	esta	O	1	
-15	última	última	O	1	
-16	y	y	G	1	
-17	con	con	N	1	
-18	vistas	vistas	V	1	
-19	a	a	D	1	
-20	la	la	N	1	
-21	Gran	Gran	R	1	
-22	Vía	Vía	R	1	
-23	,	,	O	1	
-24	además	además	V	1	
-25	las	las	G	1	
-26	habitaciones	habitaciones	N	1	
-27	están	están	V	1	
-28	insonorizadas	insonorizadas	P	1	
-29	y	y	G	1	
-30	no	no	D	1	
-31	se	se	N	1	
-32	escucha	escucha	O	1	
-33	nada	nada	O	1	
-34	del	del	O	1	
-35	exterior	exterior	O	1	
-36	.	.	O	1	
+1	VEl	VEl	R	1	O
+2	hotel	hotel	N	1	O
+3	tiene	tiene	N	1	O
+4	168	168	O	1	O
+5	habitaciones	habitaciones	N	1	O
+6	y	y	G	1	O
+7	11	11	O	1	O
+8	plantas	plantas	N	1	O
+9	,	,	O	1	O
+10	nosotros	nosotros	O	1	O
+11	nos	nos	O	1	O
+12	alojamos	alojamos	O	1	O
+13	en	en	O	1	O
+14	esta	esta	O	1	O
+15	última	última	O	1	O
+16	y	y	G	1	O
+17	con	con	N	1	O
+18	vistas	vistas	V	1	O
+19	a	a	D	1	O
+20	la	la	N	1	O
+21	Gran	Gran	R	1	O
+22	Vía	Vía	R	1	O
+23	,	,	O	1	O
+24	además	además	V	1	O
+25	las	las	G	1	O
+26	habitaciones	habitaciones	N	1	O
+27	están	están	V	1	O
+28	insonorizadas	insonorizadas	P	1	O
+29	y	y	G	1	O
+30	no	no	D	1	O
+31	se	se	N	1	O
+32	escucha	escucha	O	1	O
+33	nada	nada	O	1	O
+34	del	del	O	1	O
+35	exterior	exterior	O	1	O
+36	.	.	O	1	O
 
-1	La	La	R	1	
-2	limpieza	limpieza	N	1	
-3	es	es	N	1	
-4	excelente	excelente	V	1	
-5	.	.	O	1	
+1	La	La	R	1	O
+2	limpieza	limpieza	N	1	O
+3	es	es	N	1	O
+4	excelente	excelente	V	1	O
+5	.	.	O	1	O
 
-1	El	El	R	1	
-2	último	último	N	1	
-3	día	día	N	1	
-4	tuvimos	tuvimos	N	1	
-5	incluido	incluido	V	1	
-6	el	el	N	1	
-7	desayuno	desayuno	N	1	
-8	y	y	A	1	
-9	la	la	D	1	
-10	verdad	verdad	N	1	
-11	es	es	V	1	
-12	que	que	G	1	
-13	hay	hay	N	1	
-14	mucha	mucha	N	1	
-15	variedad	variedad	N	1	
-16	,	,	O	1	
-17	etaba	etaba	O	1	
-18	todo	todo	O	1	
-19	muy	muy	O	1	
-20	bueno	bueno	O	1	
-21	y	y	A	1	
-22	es	es	V	1	
-23	tipo	tipo	N	1	
-24	buffet	buffet	N	1	
-25	.	.	O	1	
+1	El	El	R	1	O
+2	último	último	N	1	O
+3	día	día	N	1	O
+4	tuvimos	tuvimos	N	1	O
+5	incluido	incluido	V	1	O
+6	el	el	N	1	O
+7	desayuno	desayuno	N	1	O
+8	y	y	A	1	O
+9	la	la	D	1	O
+10	verdad	verdad	N	1	O
+11	es	es	V	1	O
+12	que	que	G	1	O
+13	hay	hay	N	1	O
+14	mucha	mucha	N	1	O
+15	variedad	variedad	N	1	O
+16	,	,	O	1	O
+17	etaba	etaba	O	1	O
+18	todo	todo	O	1	O
+19	muy	muy	O	1	O
+20	bueno	bueno	O	1	O
+21	y	y	A	1	O
+22	es	es	V	1	O
+23	tipo	tipo	N	1	O
+24	buffet	buffet	N	1	O
+25	.	.	O	1	O
 

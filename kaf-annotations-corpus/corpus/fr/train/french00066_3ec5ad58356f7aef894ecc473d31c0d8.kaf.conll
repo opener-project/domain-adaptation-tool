@@ -1,104 +1,104 @@
-1	Pratique	pratique	N	1	
-2	,	,	O	1	
-3	bien	bien	G	1	
-4	situé	situer	V	1	
-5	et	et	C	1	
-6	pas	pas	G	1	
-7	trop	trop	G	1	
-8	cher	cher	G	1	
+1	Pratique	pratique	N	1	O
+2	,	,	O	1	O
+3	bien	bien	G	1	O
+4	situé	situer	V	1	O
+5	et	et	C	1	O
+6	pas	pas	G	1	O
+7	trop	trop	G	1	O
+8	cher	cher	G	1	O
 
-1	Hotel	Hotel	N	1	
-2	pratique	pratique	G	1	
-3	pour	pour	P	1	
-4	des	un	D	1	
-5	vacances	vacance	N	1	
-6	entre	entre	P	1	
-7	amis	ami	N	1	
-8	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	pratique	pratique	G	1	O
+3	pour	pour	P	1	O
+4	des	un	D	1	O
+5	vacances	vacance	N	1	O
+6	entre	entre	P	1	O
+7	amis	ami	N	1	O
+8	.	.	O	1	O
 
-1	Bien	Bien	G	1	
-2	situé	situer	V	1	
-3	pour	pour	P	1	
-4	ce	ce	P	1	
-5	qui	qui	P	1	
-6	est	être	V	1	
-7	des	des	P	1	
-8	excursions	excursion	N	1	
-9	et	et	C	1	
-10	autres	autre	G	1	
-11	,	,	O	1	
-12	il	il	Q	1	
-13	est	être	V	1	
-14	cependant	cependant	G	1	
-15	légèrement	légèrement	G	1	
-16	trop	trop	G	1	
-17	éloigné	éloigner	G	1	
-18	des	des	P	1	
-19	bars	bar	N	1	
-20	,	,	O	1	
-21	pubs	pub	N	1	
-22	...	...	O	1	
+1	Bien	Bien	G	1	O
+2	situé	situer	V	1	O
+3	pour	pour	P	1	O
+4	ce	ce	P	1	O
+5	qui	qui	P	1	O
+6	est	être	V	1	O
+7	des	des	P	1	O
+8	excursions	excursion	N	1	O
+9	et	et	C	1	O
+10	autres	autre	G	1	O
+11	,	,	O	1	O
+12	il	il	Q	1	O
+13	est	être	V	1	O
+14	cependant	cependant	G	1	O
+15	légèrement	légèrement	G	1	O
+16	trop	trop	G	1	O
+17	éloigné	éloigner	G	1	O
+18	des	des	P	1	O
+19	bars	bar	N	1	O
+20	,	,	O	1	O
+21	pubs	pub	N	1	O
+22	...	...	O	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	à	à	P	1	
-5	l'	le	D	1	
-6	écoute	écoute	N	1	
-7	et	et	C	1	
-8	répond	répondre	V	1	
-9	rapidement	rapidement	G	1	
-10	aux	aux	P	1	
-11	réclamations	réclamation	N	1	
-12	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	à	à	P	1	O
+5	l'	le	D	1	O
+6	écoute	écoute	N	1	O
+7	et	et	C	1	O
+8	répond	répondre	V	1	O
+9	rapidement	rapidement	G	1	O
+10	aux	aux	P	1	O
+11	réclamations	réclamation	N	1	O
+12	.	.	O	1	O
 
-1	La	le	D	1	
-2	propreté	propreté	N	1	
-3	est	être	V	1	
-4	acceptable	acceptable	G	1	
-5	mais	mais	C	1	
-6	pas	pas	G	1	
-7	transcendantale	transcendantal	G	1	
-8	.	.	O	1	
+1	La	le	D	1	O
+2	propreté	propreté	N	1	O
+3	est	être	V	1	O
+4	acceptable	acceptable	G	1	O
+5	mais	mais	C	1	O
+6	pas	pas	G	1	O
+7	transcendantale	transcendantal	G	1	O
+8	.	.	O	1	O
 
-1	Je	Je	Q	1	
-2	le	le	Q	1	
-3	déconseille	déconseiller	V	1	
-4	aux	aux	P	1	
-5	familles	famille	N	1	
-6	,	,	O	1	
-7	surtout	surtout	G	1	
-8	avec	avec	P	1	
-9	enfants	enfant	N	1	
-10	en	en	P	1	
-11	bas	bas	G	1	
-12	âge	âge	N	1	
-13	(	(	O	1	
-14	pas	pas	G	1	
-15	assez	assez	G	1	
-16	d'	d'	P	1	
-17	animations	animation	N	1	
-18	,	,	O	1	
-19	d'	d'	P	1	
-20	aires	aire	N	1	
-21	de	de	P	1	
-22	jeux	jeu	N	1	
-23	...	...	O	1	
-24	)	)	O	1	
+1	Je	Je	Q	1	O
+2	le	le	Q	1	O
+3	déconseille	déconseiller	V	1	O
+4	aux	aux	P	1	O
+5	familles	famille	N	1	O
+6	,	,	O	1	O
+7	surtout	surtout	G	1	O
+8	avec	avec	P	1	O
+9	enfants	enfant	N	1	O
+10	en	en	P	1	O
+11	bas	bas	G	1	O
+12	âge	âge	N	1	O
+13	(	(	O	1	O
+14	pas	pas	G	1	O
+15	assez	assez	G	1	O
+16	d'	d'	P	1	O
+17	animations	animation	N	1	O
+18	,	,	O	1	O
+19	d'	d'	P	1	O
+20	aires	aire	N	1	O
+21	de	de	P	1	O
+22	jeux	jeu	N	1	O
+23	...	...	O	1	O
+24	)	)	O	1	O
 
-1	En	En	P	1	
-2	résumé	résumé	N	1	
-3	,	,	O	1	
-4	un	un	D	1	
-5	bon	bon	G	1	
-6	petit	petit	G	1	
-7	hôtel	hôtel	N	1	
-8	sympathique	sympathique	G	1	
-9	mais	mais	C	1	
-10	à	à	P	1	
-11	éviter	éviter	V	1	
-12	pour	pour	P	1	
-13	les	le	D	1	
-14	familles	famille	N	1	
-15	.	.	O	1	
+1	En	En	P	1	O
+2	résumé	résumé	N	1	O
+3	,	,	O	1	O
+4	un	un	D	1	O
+5	bon	bon	G	1	O
+6	petit	petit	G	1	O
+7	hôtel	hôtel	N	1	O
+8	sympathique	sympathique	G	1	O
+9	mais	mais	C	1	O
+10	à	à	P	1	O
+11	éviter	éviter	V	1	O
+12	pour	pour	P	1	O
+13	les	le	D	1	O
+14	familles	famille	N	1	O
+15	.	.	O	1	O
 

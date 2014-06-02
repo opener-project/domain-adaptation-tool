@@ -1,111 +1,113 @@
-1	Super	super	N	1	
-2	camping	camping	N	1	
+1	Super	super	N	1	O
+2	camping	camping	N	1	O
 
-1	Le_bois_fleuri	le_bois_fleuri	R	1	ne=Hotel
-2	est	être	V	1	
-3	un	un	D	1	
-4	camping	camping	N	1	
-5	très	très	G	1	
-6	bien	bien	G	1	
-7	,	,	O	1	
-8	les	le	D	1	
-9	animateur	animateur	N	1	
-10	sont	être	V	1	
-11	très	très	G	1	
-12	gentils	gentil	G	1	
-13	ils	ils	Q	1	
-14	organisent	organiser	V	1	
-15	des	un	D	1	
-16	animations	animation	N	1	
-17	tout	tout	G	1	
-18	les	le	D	1	
-19	jours	jour	N	1	
-20	qu'	qu'	G	1	
-21	importe	importer	V	1	
-22	le	le	D	1	
-23	temps	temps	N	1	
-24	.	.	O	1	
+1	Le	le	D	1	I-Hotel
+2	bois	bois	N	1	I-Hotel
+3	fleuri	fleuri	G	1	I-Hotel
+4	est	être	V	1	O
+5	un	un	D	1	O
+6	camping	camping	N	1	O
+7	très	très	G	1	O
+8	bien	bien	G	1	O
+9	,	,	O	1	O
+10	les	le	D	1	O
+11	animateur	animateur	N	1	O
+12	sont	être	V	1	O
+13	très	très	G	1	O
+14	gentils	gentil	G	1	O
+15	ils	ils	Q	1	O
+16	organisent	organiser	V	1	O
+17	des	un	D	1	O
+18	animations	animation	N	1	O
+19	tout	tout	G	1	O
+20	les	le	D	1	O
+21	jours	jour	N	1	O
+22	qu'	qu'	G	1	O
+23	importe	importer	V	1	O
+24	le	le	D	1	O
+25	temps	temps	N	1	O
+26	.	.	O	1	O
 
-1	Le	le	D	1	
-2	camping	camping	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	bien	bien	G	1	
-6	situer	situer	V	1	
-7	,	,	O	1	
-8	pas	pas	G	1	
-9	loin	loin	G	1	
-10	de	de	P	1	
-11	la	le	D	1	
-12	plage	plage	N	1	
-13	,	,	O	1	
-14	de	de	P	1	
-15	beau	beau	G	1	
-16	paysage	paysage	N	1	
-17	.	.	O	1	
+1	Le	le	D	1	O
+2	camping	camping	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	bien	bien	G	1	O
+6	situer	situer	V	1	O
+7	,	,	O	1	O
+8	pas	pas	G	1	O
+9	loin	loin	G	1	O
+10	de	de	P	1	O
+11	la	le	D	1	O
+12	plage	plage	N	1	O
+13	,	,	O	1	O
+14	de	de	P	1	O
+15	beau	beau	G	1	O
+16	paysage	paysage	N	1	O
+17	.	.	O	1	O
 
-1	Les	le	D	1	
-2	habitations	habitation	N	1	
-3	sont	être	V	1	
-4	très	très	G	1	
-5	bien	bien	G	1	
-6	.	.	O	1	
+1	Les	le	D	1	O
+2	habitations	habitation	N	1	O
+3	sont	être	V	1	O
+4	très	très	G	1	O
+5	bien	bien	G	1	O
+6	.	.	O	1	O
 
-1	Des	un	D	1	
-2	activités	activité	N	1	
-3	pour	pour	P	1	
-4	les	le	D	1	
-5	petits	petit	G	1	
-6	,	,	O	1	
-7	qui	qui	P	1	
-8	sont	être	V	1	
-9	bien	bien	G	1	
-10	animé	animer	V	1	
-11	,	,	O	1	
-12	et	et	C	1	
-13	qui	qui	P	1	
-14	amuse	amuser	V	1	
-15	les	le	D	1	
-16	petits	petit	G	1	
-17	.	.	O	1	
+1	Des	un	D	1	O
+2	activités	activité	N	1	O
+3	pour	pour	P	1	O
+4	les	le	D	1	O
+5	petits	petit	G	1	O
+6	,	,	O	1	O
+7	qui	qui	P	1	O
+8	sont	être	V	1	O
+9	bien	bien	G	1	O
+10	animé	animer	V	1	O
+11	,	,	O	1	O
+12	et	et	C	1	O
+13	qui	qui	P	1	O
+14	amuse	amuser	V	1	O
+15	les	le	D	1	O
+16	petits	petit	G	1	O
+17	.	.	O	1	O
 
-1	Des	un	D	1	
-2	animation	animation	N	1	
-3	pour	pour	P	1	
-4	les	le	D	1	
-5	grand	grand	G	1	
-6	aussi	aussi	G	1	
-7	,	,	O	1	
-8	les	le	D	1	
-9	après	après	N	1	
-10	·	·	P	1	
-11	midi	midi	N	1	
-12	et	et	C	1	
-13	le	le	D	1	
-14	soir	soir	N	1	
-15	.	.	O	1	
+1	Des	un	D	1	O
+2	animation	animation	N	1	O
+3	pour	pour	P	1	O
+4	les	le	D	1	O
+5	grand	grand	G	1	O
+6	aussi	aussi	G	1	O
+7	,	,	O	1	O
+8	les	le	D	1	O
+9	après	après	N	1	O
+10	·	·	P	1	O
+11	midi	midi	N	1	O
+12	et	et	C	1	O
+13	le	le	D	1	O
+14	soir	soir	N	1	O
+15	.	.	O	1	O
 
-1	Un	un	D	1	
-2	camping	camping	N	1	
-3	a	avoir	V	1	
-4	aller	aller	V	1	
-5	voir	voir	V	1	
-6	.	.	O	1	
+1	Un	un	D	1	O
+2	camping	camping	N	1	O
+3	a	avoir	V	1	O
+4	aller	aller	V	1	O
+5	voir	voir	V	1	O
+6	.	.	O	1	O
 
-1	J'	J'	Q	1	
-2	ai	avoir	V	1	
-3	passer	passer	V	1	
-4	de	de	P	1	
-5	super	super	N	1	
-6	vacance	vacance	N	1	
-7	la	le	D	1	
-8	bas	bas	G	1	
-9	,	,	O	1	
-10	et	et	C	1	
-11	j'	j'	Q	1	
-12	aimerai	aimer	V	1	
-13	bien	bien	G	1	
-14	y	y	Q	1	
-15	retourné	retourner	V	1	
-16	.	.	O	1	
+1	J'	J'	Q	1	O
+2	ai	avoir	V	1	O
+3	passer	passer	V	1	O
+4	de	de	P	1	O
+5	super	super	N	1	O
+6	vacance	vacance	N	1	O
+7	la	le	D	1	O
+8	bas	bas	G	1	O
+9	,	,	O	1	O
+10	et	et	C	1	O
+11	j'	j'	Q	1	O
+12	aimerai	aimer	V	1	O
+13	bien	bien	G	1	O
+14	y	y	Q	1	O
+15	retourné	retourner	V	1	O
+16	.	.	O	1	O
 

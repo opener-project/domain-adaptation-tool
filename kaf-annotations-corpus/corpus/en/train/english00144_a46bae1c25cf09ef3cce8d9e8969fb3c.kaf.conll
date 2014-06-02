@@ -1,126 +1,126 @@
-1	Second	2	G	1	
-2	time	time	N	1	
-3	in	in	P	1	
-4	this	this	D	1	
-5	hotel	hotel	N	1	
+1	Second	2	G	1	O
+2	time	time	N	1	O
+3	in	in	P	1	O
+4	this	this	D	1	O
+5	hotel	hotel	N	1	O
 
-1	The	the	D	1	
-2	rooms	room	N	1	
-3	were	be	V	1	
-4	clean	clean	G	1	
-5	and	and	C	1	
-6	big	big	G	1	
-7	enough	enough	A	1	
-8	,	,	O	1	
-9	with	with	P	1	
-10	balcony	balcony	N	1	
-11	,	,	O	1	
-12	close	close	G	1	
-13	to	to	P	1	
-14	the	the	D	1	
-15	swiming	swiming	V	1	
-16	pool	pool	N	1	
-17	,	,	O	1	
-18	but	but	C	1	
-19	when	when	O	1	
-20	you	you	Q	1	
-21	close	close	V	1	
-22	the	the	D	1	
-23	door	door	N	1	
-24	to	to	P	1	
-25	balcony	balcony	N	1	
-26	you	you	Q	1	
-27	diidn	diidn	V	1	
-28	t	t	V	1	
-29	hear	hear	V	1	
-30	the	the	D	1	
-31	noise	noise	A	1	
-32	from	from	P	1	
-33	outside	outside	N	1	
-34	.	.	O	1	
+1	The	the	D	1	O
+2	rooms	room	N	1	O
+3	were	be	V	1	O
+4	clean	clean	G	1	O
+5	and	and	C	1	O
+6	big	big	G	1	O
+7	enough	enough	A	1	O
+8	,	,	O	1	O
+9	with	with	P	1	O
+10	balcony	balcony	N	1	O
+11	,	,	O	1	O
+12	close	close	G	1	O
+13	to	to	P	1	O
+14	the	the	D	1	O
+15	swiming	swiming	V	1	O
+16	pool	pool	N	1	O
+17	,	,	O	1	O
+18	but	but	C	1	O
+19	when	when	O	1	O
+20	you	you	Q	1	O
+21	close	close	V	1	O
+22	the	the	D	1	O
+23	door	door	N	1	O
+24	to	to	P	1	O
+25	balcony	balcony	N	1	O
+26	you	you	Q	1	O
+27	diidn	diidn	V	1	O
+28	t	t	V	1	O
+29	hear	hear	V	1	O
+30	the	the	D	1	O
+31	noise	noise	A	1	O
+32	from	from	P	1	O
+33	outside	outside	N	1	O
+34	.	.	O	1	O
 
-1	In	in	P	1	
-2	two	two	O	1	
-3	week	week	N	1	
-4	we	we	Q	1	
-5	change	change	V	1	
-6	rooms	room	N	1	
-7	because	because	A	1	
-8	in	in	P	1	
-9	first	1	G	1	
-10	week	week	N	1	
-11	we	we	Q	1	
-12	were	be	V	1	
-13	in	in	P	1	
-14	5	5	O	1	
-15	and	and	C	1	
-16	in	in	P	1	
-17	second	2	G	1	
-18	only	only	A	1	
-19	4	4	O	1	
-20	.	.	O	1	
+1	In	in	P	1	O
+2	two	two	O	1	O
+3	week	week	N	1	O
+4	we	we	Q	1	O
+5	change	change	V	1	O
+6	rooms	room	N	1	O
+7	because	because	A	1	O
+8	in	in	P	1	O
+9	first	1	G	1	O
+10	week	week	N	1	O
+11	we	we	Q	1	O
+12	were	be	V	1	O
+13	in	in	P	1	O
+14	5	5	O	1	O
+15	and	and	C	1	O
+16	in	in	P	1	O
+17	second	2	G	1	O
+18	only	only	A	1	O
+19	4	4	O	1	O
+20	.	.	O	1	O
 
-1	Only	only	A	1	
-2	in	in	P	1	
-3	second	2	G	1	
-4	room	room	N	1	
-5	,	,	O	1	
-6	Nr	Nr	R	1	
-7	475	475	O	1	
-8	one	one	O	1	
-9	bed	bed	N	1	
-10	was	be	V	1	
-11	in	in	P	1	
-12	bed	bed	N	1	
-13	conditions	condition	N	1	
-14	,	,	O	1	
-15	we	we	Q	1	
-16	puted	puted	V	1	
-17	blanked	blank	V	1	
-18	under	under	P	1	
-19	the	the	D	1	
-20	sheet	sheet	N	1	
-21	.	.	O	1	
+1	Only	only	A	1	O
+2	in	in	P	1	O
+3	second	2	G	1	O
+4	room	room	N	1	O
+5	,	,	O	1	O
+6	Nr	Nr	R	1	O
+7	475	475	O	1	O
+8	one	one	O	1	O
+9	bed	bed	N	1	O
+10	was	be	V	1	O
+11	in	in	P	1	O
+12	bed	bed	N	1	O
+13	conditions	condition	N	1	O
+14	,	,	O	1	O
+15	we	we	Q	1	O
+16	puted	puted	V	1	O
+17	blanked	blank	V	1	O
+18	under	under	P	1	O
+19	the	the	D	1	O
+20	sheet	sheet	N	1	O
+21	.	.	O	1	O
 
-1	We	we	Q	1	
-2	have	have	V	1	
-3	two	two	O	1	
-4	teenagers	teenager	N	1	
-5	,	,	O	1	
-6	who	who	Q	1	
-7	were	be	V	1	
-8	satisfied	satisfy	V	1	
-9	again	again	A	1	
-10	in	in	P	1	
-11	this	this	D	1	
-12	hotel	hotel	N	1	
-13	Ansd	Ansd	R	1	
-14	in	in	P	1	
-15	the	the	D	1	
-16	first	1	G	1	
-17	week	week	N	1	
-18	was	be	V	1	
-19	olso	olso	A	1	
-20	my	my	Q	1	
-21	mum	mum	N	1	
-22	with	with	P	1	
-23	us	us	Q	1	
-24	,	,	O	1	
-25	sastisfied	sastisfied	V	1	
-26	with	with	P	1	
-27	food	food	N	1	
-28	,	,	O	1	
-29	cleaness	cleaness	N	1	
-30	,	,	O	1	
-31	kindness	kindness	N	1	
-32	of	of	P	1	
-33	staff	staff	N	1	
-34	(	(	O	1	
-35	she	she	Q	1	
-36	doesen	doesen	V	1	
-37	t	t	G	1	
-38	speak	speak	V	1	
-39	foreign	foreign	G	1	
-40	languages	language	N	1	
-41	.	.	O	1	
+1	We	we	Q	1	O
+2	have	have	V	1	O
+3	two	two	O	1	O
+4	teenagers	teenager	N	1	O
+5	,	,	O	1	O
+6	who	who	Q	1	O
+7	were	be	V	1	O
+8	satisfied	satisfy	V	1	O
+9	again	again	A	1	O
+10	in	in	P	1	O
+11	this	this	D	1	O
+12	hotel	hotel	N	1	O
+13	Ansd	Ansd	R	1	O
+14	in	in	P	1	O
+15	the	the	D	1	O
+16	first	1	G	1	O
+17	week	week	N	1	O
+18	was	be	V	1	O
+19	olso	olso	A	1	O
+20	my	my	Q	1	O
+21	mum	mum	N	1	O
+22	with	with	P	1	O
+23	us	us	Q	1	O
+24	,	,	O	1	O
+25	sastisfied	sastisfied	V	1	O
+26	with	with	P	1	O
+27	food	food	N	1	O
+28	,	,	O	1	O
+29	cleaness	cleaness	N	1	O
+30	,	,	O	1	O
+31	kindness	kindness	N	1	O
+32	of	of	P	1	O
+33	staff	staff	N	1	O
+34	(	(	O	1	O
+35	she	she	Q	1	O
+36	doesen	doesen	V	1	O
+37	t	t	G	1	O
+38	speak	speak	V	1	O
+39	foreign	foreign	G	1	O
+40	languages	language	N	1	O
+41	.	.	O	1	O
 

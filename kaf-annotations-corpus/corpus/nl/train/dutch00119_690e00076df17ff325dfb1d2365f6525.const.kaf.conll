@@ -1,125 +1,126 @@
-1	Dit	dit	D	1	
-2	hotel	hotel	N	1	
-3	heeft	hebben	V	1	
-4	super	super	G	1	
-5	vriendelijk	vriendelijk	G	1	
-6	personeel	personeel	N	1	
+1	Dit	dit	D	1	O
+2	hotel	hotel	N	1	O
+3	heeft	hebben	V	1	O
+4	super	super	G	1	O
+5	vriendelijk	vriendelijk	G	1	O
+6	personeel	personeel	N	1	O
 
-1	Carat_Hotel	Carat_hotel	R	1	ne=Hotel
-2	is	zijn	V	1	
-3	zeker	zeker	G	1	
-4	een	een	D	1	
-5	bezoekje	bezoekje	O	1	
-6	waard	waard	G	1	
-7	.	.	O	1	
+1	Carat	Carat	O	1	I-Hotel
+2	Hotel	hotel	N	1	I-Hotel
+3	is	zijn	V	1	O
+4	zeker	zeker	G	1	O
+5	een	een	D	1	O
+6	bezoekje	bezoekje	O	1	O
+7	waard	waard	G	1	O
+8	.	.	O	1	O
 
-1	Zeer	zeer	G	1	
-2	goed	goed	N	1	
-3	gelegen	liggen	V	1	
-4	even	even	G	1	
-5	buiten	buiten	P	1	
-6	het	het	D	1	
-7	centrum	centrum	N	1	
-8	.	.	O	1	
+1	Zeer	zeer	G	1	O
+2	goed	goed	N	1	O
+3	gelegen	liggen	V	1	O
+4	even	even	G	1	O
+5	buiten	buiten	P	1	O
+6	het	het	D	1	O
+7	centrum	centrum	N	1	O
+8	.	.	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	is	zijn	V	1	
-4	zeer	zeer	G	1	
-5	vriendelijk	vriendelijk	G	1	
-6	en	en	C	1	
-7	behulpzaam	behulpzaam	G	1	
-8	.	.	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	is	zijn	V	1	O
+4	zeer	zeer	G	1	O
+5	vriendelijk	vriendelijk	G	1	O
+6	en	en	C	1	O
+7	behulpzaam	behulpzaam	G	1	O
+8	.	.	O	1	O
 
-1	Een	een	D	1	
-2	aanrader	aanrader	N	1	
-3	ook	ook	A	1	
-4	voor	voor	P	1	
-5	ouders	ouder	N	1	
-6	en	en	C	1	
-7	grootouders	grootouder	N	1	
-8	met	met	P	1	
-9	kinderen	kind	N	1	
-10	.	.	O	1	
+1	Een	een	D	1	O
+2	aanrader	aanrader	N	1	O
+3	ook	ook	A	1	O
+4	voor	voor	P	1	O
+5	ouders	ouder	N	1	O
+6	en	en	C	1	O
+7	grootouders	grootouder	N	1	O
+8	met	met	P	1	O
+9	kinderen	kind	N	1	O
+10	.	.	O	1	O
 
-1	De	de	D	1	
-2	speelhoek	speelhoek	O	1	
-3	is	zijn	V	1	
-4	zeker	zeker	G	1	
-5	een	een	D	1	
-6	goed	goed	G	1	
-7	idee	idee	N	1	
-8	maar	maar	C	1	
-9	misschien	misschien	A	1	
-10	niet	niet	A	1	
-11	zo	zo	A	1	
-12	goed	goed	G	1	
-13	gelegen	liggen	V	1	
-14	aan	aan	P	1	
-15	de	de	D	1	
-16	uitgang	uitgang	N	1	
-17	van	van	P	1	
-18	het	het	D	1	
-19	restaurant	restaurant	N	1	
-20	.	.	O	1	
+1	De	de	D	1	O
+2	speelhoek	speelhoek	O	1	O
+3	is	zijn	V	1	O
+4	zeker	zeker	G	1	O
+5	een	een	D	1	O
+6	goed	goed	G	1	O
+7	idee	idee	N	1	O
+8	maar	maar	C	1	O
+9	misschien	misschien	A	1	O
+10	niet	niet	A	1	O
+11	zo	zo	A	1	O
+12	goed	goed	G	1	O
+13	gelegen	liggen	V	1	O
+14	aan	aan	P	1	O
+15	de	de	D	1	O
+16	uitgang	uitgang	N	1	O
+17	van	van	P	1	O
+18	het	het	D	1	O
+19	restaurant	restaurant	N	1	O
+20	.	.	O	1	O
 
-1	Hele	heel	G	1	
-2	kleine	klein	G	1	
-3	kinderen	kind	N	1	
-4	,	,	O	1	
-5	die	die	Q	1	
-6	je	je	Q	1	
-7	voortdurend	voortdurend	G	1	
-8	in	in	P	1	
-9	de	de	D	1	
-10	gaten	gat	N	1	
-11	moet	moeten	V	1	
-12	houden	houden	V	1	
-13	,	,	O	1	
-14	kunnen	kunnen	V	1	
-15	vandaar	vandaar	A	1	
-16	gemakkelijk	gemakkelijk	G	1	
-17	aan	aan	P	1	
-18	de	de	D	1	
-19	aandacht	aandacht	N	1	
-20	ontsnappen	ontsnappen	V	1	
-21	.	.	O	1	
+1	Hele	heel	G	1	O
+2	kleine	klein	G	1	O
+3	kinderen	kind	N	1	O
+4	,	,	O	1	O
+5	die	die	Q	1	O
+6	je	je	Q	1	O
+7	voortdurend	voortdurend	G	1	O
+8	in	in	P	1	O
+9	de	de	D	1	O
+10	gaten	gat	N	1	O
+11	moet	moeten	V	1	O
+12	houden	houden	V	1	O
+13	,	,	O	1	O
+14	kunnen	kunnen	V	1	O
+15	vandaar	vandaar	A	1	O
+16	gemakkelijk	gemakkelijk	G	1	O
+17	aan	aan	P	1	O
+18	de	de	D	1	O
+19	aandacht	aandacht	N	1	O
+20	ontsnappen	ontsnappen	V	1	O
+21	.	.	O	1	O
 
-1	Misschien	misschien	A	1	
-2	een	een	D	1	
-3	suggestie	suggestie	N	1	
-4	om	om	P	1	
-5	de	de	D	1	
-6	ligging	ligging	N	1	
-7	van	van	P	1	
-8	de	de	D	1	
-9	speelhoek	speelhoek	O	1	
-10	te	te	O	1	
-11	herbekijken	herbekijken	O	1	
-12	.	.	O	1	
+1	Misschien	misschien	A	1	O
+2	een	een	D	1	O
+3	suggestie	suggestie	N	1	O
+4	om	om	P	1	O
+5	de	de	D	1	O
+6	ligging	ligging	N	1	O
+7	van	van	P	1	O
+8	de	de	D	1	O
+9	speelhoek	speelhoek	O	1	O
+10	te	te	O	1	O
+11	herbekijken	herbekijken	O	1	O
+12	.	.	O	1	O
 
-1	De	de	D	1	
-2	bar	bar	N	1	
-3	is	zijn	V	1	
-4	ook	ook	A	1	
-5	heel	heel	A	1	
-6	gezellig	gezellig	G	1	
-7	ingericht	inrichten	V	1	
-8	.	.	O	1	
+1	De	de	D	1	O
+2	bar	bar	N	1	O
+3	is	zijn	V	1	O
+4	ook	ook	A	1	O
+5	heel	heel	A	1	O
+6	gezellig	gezellig	G	1	O
+7	ingericht	inrichten	V	1	O
+8	.	.	O	1	O
 
-1	Alleen	alleen	A	1	
-2	de	de	D	1	
-3	banken	bank	N	1	
-4	op	op	P	1	
-5	het	het	D	1	
-6	terras	terras	N	1	
-7	zijn	zijn	V	1	
-8	niet	niet	A	1	
-9	comfortabel	comfortabel	G	1	
-10	en	en	C	1	
-11	bieden	bieden	V	1	
-12	helemaal	helemaal	A	1	
-13	geen	geen	D	1	
-14	ruggesteun	ruggesteun	N	1	
-15	.	.	O	1	
+1	Alleen	alleen	A	1	O
+2	de	de	D	1	O
+3	banken	bank	N	1	O
+4	op	op	P	1	O
+5	het	het	D	1	O
+6	terras	terras	N	1	O
+7	zijn	zijn	V	1	O
+8	niet	niet	A	1	O
+9	comfortabel	comfortabel	G	1	O
+10	en	en	C	1	O
+11	bieden	bieden	V	1	O
+12	helemaal	helemaal	A	1	O
+13	geen	geen	D	1	O
+14	ruggesteun	ruggesteun	N	1	O
+15	.	.	O	1	O
 

@@ -1,166 +1,172 @@
-1	Tranquillo	tranquillo	N	1	
-2	e	e	Q	1	
-3	pulito	pulire	V	1	
-4	e	e	Q	1	
-5	ben	ben	A	1	
-6	servito	servire	V	1	
-7	dai	dai	P	1	
-8	mezzi	mezzo	N	1	
+1	Tranquillo	tranquillo	N	1	O
+2	e	e	Q	1	O
+3	pulito	pulire	V	1	O
+4	e	e	Q	1	O
+5	ben	ben	A	1	O
+6	servito	servire	V	1	O
+7	dai	dai	P	1	O
+8	mezzi	mezzo	N	1	O
 
-1	Questo	questo	G	1	
-2	hotel	hotel	N	1	
-3	è	è	N	1	
-4	in	in	P	1	
-5	posizione	posizione	N	1	
-6	tranquilla	tranquillo	G	1	
-7	e	e	Q	1	
-8	ben	ben	A	1	
-9	servita	servire	V	1	
-10	dai	dai	P	1	
-11	mezzi	mezzo	N	1	
-12	pubblici	pubblico	G	1	
-13	utile	utile	N	1	
-14	sia	essere	V	1	
-15	per	per	P	1	
-16	muoversi	muoversi	V	1	
-17	in	in	P	1	
-18	città	citta'	N	1	
-19	che	che	Q	1	
-20	da	da	P	1	
-21	/	/	O	1	
-22	per	per	P	1	
-23	l'	lo	D	1	
-24	aeroporto	aeroporto	N	1	
-25	(	(	O	1	
-26	c'	c'	A	1	
-27	è	è	N	1	
-28	un	uno	D	1	
-29	autobus	autobus	N	1	
-30	che	che	Q	1	
-31	parte	partire	V	1	
-32	e	e	Q	1	
-33	arriva	arrivare	V	1	
-34	dall'	dall'	P	1	
-35	aeroporto	aeroporto	N	1	
-36	nella	nella	P	1	
-37	vicina	vicino	N	1	
-38	placa_d'_Espanya	placa_d'_espanya	R	1	ne=POI
-39	)	)	O	1	
-40	e	e	Q	1	
-41	anche	anche	Q	1	
-42	la	lo	D	1	
-43	stazione_dei_treni_di_Sants	stazione_dei_treno_di_sants	R	1	ne=POI
-44	(	(	O	1	
-45	e	e	Q	1	
-46	quindi	quindi	A	1	
-47	il	lo	D	1	
-48	collegamento	collegamento	N	1	
-49	con	con	P	1	
-50	il	lo	D	1	
-51	resto	resto	N	1	
-52	della	della	P	1	
-53	Catalunya	catalunya	R	1	ne=Location
-54	e	e	Q	1	
-55	Spagna	spagna	R	1	ne=Location
-56	)	)	O	1	
-57	è	è	N	1	
-58	abbastanza	abbastanza	A	1	
-59	vicina	vicino	G	1	
-60	.	.	O	1	
+1	Questo	questo	G	1	O
+2	hotel	hotel	N	1	O
+3	è	è	N	1	O
+4	in	in	P	1	O
+5	posizione	posizione	N	1	O
+6	tranquilla	tranquillo	G	1	O
+7	e	e	Q	1	O
+8	ben	ben	A	1	O
+9	servita	servire	V	1	O
+10	dai	dai	P	1	O
+11	mezzi	mezzo	N	1	O
+12	pubblici	pubblico	G	1	O
+13	utile	utile	N	1	O
+14	sia	essere	V	1	O
+15	per	per	P	1	O
+16	muoversi	muoversi	V	1	O
+17	in	in	P	1	O
+18	città	citta'	N	1	O
+19	che	che	Q	1	O
+20	da	da	P	1	O
+21	/	/	O	1	O
+22	per	per	P	1	O
+23	l'	lo	D	1	O
+24	aeroporto	aeroporto	N	1	O
+25	(	(	O	1	O
+26	c'	c'	A	1	O
+27	è	è	N	1	O
+28	un	uno	D	1	O
+29	autobus	autobus	N	1	O
+30	che	che	Q	1	O
+31	parte	partire	V	1	O
+32	e	e	Q	1	O
+33	arriva	arrivare	V	1	O
+34	dall'	dall'	P	1	O
+35	aeroporto	aeroporto	N	1	O
+36	nella	nella	P	1	O
+37	vicina	vicino	N	1	O
+38	placa	placa	G	1	I-POI
+39	d'	d'	P	1	I-POI
+40	Espanya	espanya	R	1	I-POI
+41	)	)	O	1	O
+42	e	e	Q	1	O
+43	anche	anche	Q	1	O
+44	la	lo	D	1	O
+45	stazione	stazione	N	1	I-POI
+46	dei	dei	P	1	I-POI
+47	treni	treno	N	1	I-POI
+48	di	di	P	1	I-POI
+49	Sants	sants	R	1	I-POI
+50	(	(	O	1	O
+51	e	e	Q	1	O
+52	quindi	quindi	A	1	O
+53	il	lo	D	1	O
+54	collegamento	collegamento	N	1	O
+55	con	con	P	1	O
+56	il	lo	D	1	O
+57	resto	resto	N	1	O
+58	della	della	P	1	O
+59	Catalunya	catalunya	R	1	I-Location
+60	e	e	Q	1	O
+61	Spagna	spagna	R	1	I-Location
+62	)	)	O	1	O
+63	è	è	N	1	O
+64	abbastanza	abbastanza	A	1	O
+65	vicina	vicino	G	1	O
+66	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	centro	centro	N	1	
-3	è	è	R	1	
-4	raggiungibile	raggiungibile	G	1	
-5	anche	anche	Q	1	
-6	a	a	P	1	
-7	piedi	piede	N	1	
-8	con	con	P	1	
-9	una	uno	D	1	
-10	passeggiata	passeggiata	N	1	
-11	di	di	P	1	
-12	10	10	G	1	
-13	·	·	N	1	
-14	15minuti	15minuti	V	1	
-15	.	.	O	1	
+1	Il	lo	D	1	O
+2	centro	centro	N	1	O
+3	è	è	R	1	O
+4	raggiungibile	raggiungibile	G	1	O
+5	anche	anche	Q	1	O
+6	a	a	P	1	O
+7	piedi	piede	N	1	O
+8	con	con	P	1	O
+9	una	uno	D	1	O
+10	passeggiata	passeggiata	N	1	O
+11	di	di	P	1	O
+12	10	10	G	1	O
+13	·	·	N	1	O
+14	15minuti	15minuti	V	1	O
+15	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	è	è	R	1	
-4	pulito	pulire	V	1	
-5	e	e	Q	1	
-6	il	lo	D	1	
-7	personale	personale	N	1	
-8	è	è	G	1	
-9	molto	molto	A	1	
-10	disponibile	disponibile	G	1	
-11	e	e	Q	1	
-12	gentile	gentile	G	1	
-13	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	è	è	R	1	O
+4	pulito	pulire	V	1	O
+5	e	e	Q	1	O
+6	il	lo	D	1	O
+7	personale	personale	N	1	O
+8	è	è	G	1	O
+9	molto	molto	A	1	O
+10	disponibile	disponibile	G	1	O
+11	e	e	Q	1	O
+12	gentile	gentile	G	1	O
+13	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	stanze	stanza	N	1	
-3	,	,	O	1	
-4	pulite	pulire	V	1	
-5	e	e	Q	1	
-6	con	con	P	1	
-7	tutti	tutto	G	1	
-8	i	lo	D	1	
-9	confort	confort	N	1	
-10	della	della	P	1	
-11	categoria	categoria	N	1	
-12	,	,	O	1	
-13	però	però	N	1	
-14	sono	essere	V	1	
-15	un	uno	D	1	
-16	po'	po'	A	1	
-17	piccole	piccolo	G	1	
-18	(	(	O	1	
-19	il	lo	D	1	
-20	televisore	televisore	N	1	
-21	è	è	R	1	
-22	un	uno	D	1	
-23	LDC	ldc	R	1	
-24	da	da	P	1	
-25	15	15	G	1	
-26	pollici	pollice	N	1	
-27	)	)	O	1	
-28	.	.	O	1	
+1	Le	lo	D	1	O
+2	stanze	stanza	N	1	O
+3	,	,	O	1	O
+4	pulite	pulire	V	1	O
+5	e	e	Q	1	O
+6	con	con	P	1	O
+7	tutti	tutto	G	1	O
+8	i	lo	D	1	O
+9	confort	confort	N	1	O
+10	della	della	P	1	O
+11	categoria	categoria	N	1	O
+12	,	,	O	1	O
+13	però	però	N	1	O
+14	sono	essere	V	1	O
+15	un	uno	D	1	O
+16	po'	po'	A	1	O
+17	piccole	piccolo	G	1	O
+18	(	(	O	1	O
+19	il	lo	D	1	O
+20	televisore	televisore	N	1	O
+21	è	è	R	1	O
+22	un	uno	D	1	O
+23	LDC	ldc	R	1	O
+24	da	da	P	1	O
+25	15	15	G	1	O
+26	pollici	pollice	N	1	O
+27	)	)	O	1	O
+28	.	.	O	1	O
 
-1	Un	uno	D	1	
-2	consiglio	consiglio	N	1	
-3	:	:	O	1	
-4	le	lo	D	1	
-5	camere	camera	N	1	
-6	doppie	doppio	G	1	
-7	con	con	P	1	
-8	letti	leggere	V	1	
-9	separati	separato	N	1	
-10	sono	essere	V	1	
-11	più	piu'	N	1	
-12	grandi	grande	G	1	
-13	delle	delle	P	1	
-14	doppie	doppio	G	1	
-15	matrimoniali	matrimoniali	N	1	
-16	(	(	O	1	
-17	o	o	Q	1	
-18	almeno	almeno	A	1	
-19	così	così	G	1	
-20	è	è	N	1	
-21	quanto	quanto	Q	1	
-22	ho	avere	V	1	
-23	potuto	potere	V	1	
-24	vedere	vedere	V	1	
-25	io	io	Q	1	
-26	)	)	O	1	
-27	.	.	O	1	
+1	Un	uno	D	1	O
+2	consiglio	consiglio	N	1	O
+3	:	:	O	1	O
+4	le	lo	D	1	O
+5	camere	camera	N	1	O
+6	doppie	doppio	G	1	O
+7	con	con	P	1	O
+8	letti	leggere	V	1	O
+9	separati	separato	N	1	O
+10	sono	essere	V	1	O
+11	più	piu'	N	1	O
+12	grandi	grande	G	1	O
+13	delle	delle	P	1	O
+14	doppie	doppio	G	1	O
+15	matrimoniali	matrimoniali	N	1	O
+16	(	(	O	1	O
+17	o	o	Q	1	O
+18	almeno	almeno	A	1	O
+19	così	così	G	1	O
+20	è	è	N	1	O
+21	quanto	quanto	Q	1	O
+22	ho	avere	V	1	O
+23	potuto	potere	V	1	O
+24	vedere	vedere	V	1	O
+25	io	io	Q	1	O
+26	)	)	O	1	O
+27	.	.	O	1	O
 
-1	Un	uno	D	1	
-2	buon	buon	G	1	
-3	punto	punto	N	1	
-4	di	di	P	1	
-5	appoggio	appoggio	N	1	
-6	in	in	P	1	
-7	Barcellona	barcellona	R	1	ne=Location
-8	.	.	O	1	
+1	Un	uno	D	1	O
+2	buon	buon	G	1	O
+3	punto	punto	N	1	O
+4	di	di	P	1	O
+5	appoggio	appoggio	N	1	O
+6	in	in	P	1	O
+7	Barcellona	barcellona	R	1	I-Location
+8	.	.	O	1	O
 

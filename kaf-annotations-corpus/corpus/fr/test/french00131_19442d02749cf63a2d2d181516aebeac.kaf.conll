@@ -1,96 +1,98 @@
-1	Bien	Bien	G	1	
+1	Bien	Bien	G	1	O
 
-1	Nous	lui	Q	1	
-2	y	y	Q	1	
-3	sommes	sommer	V	1	
-4	allés	aller	V	1	
-5	un_mercredi_soir	un_mercredi_soir	R	1	ne=Time
-6	où	où	P	1	
-7	les	le	D	1	
-8	tarifs	tarif	N	1	
-9	annoncés	annoncer	V	1	
-10	à	à	P	1	
-11	demi	demi	N	1	
-12	·	·	P	1	
-13	tarif	tarif	N	1	
-14	en	en	P	1	
-15	faite	faite	N	1	
-16	étaient	étayer	V	1	
-17	plutôt	plutôt	G	1	
-18	à	à	P	1	
-19	tarif	tarif	N	1	
-20	réduits	réduire	V	1	
-21	...	...	O	1	
+1	Nous	lui	Q	1	O
+2	y	y	Q	1	O
+3	sommes	sommer	V	1	O
+4	allés	aller	V	1	O
+5	un	un	D	1	I-Time
+6	mercredi	mercredi	N	1	I-Time
+7	soir	soir	N	1	I-Time
+8	où	où	P	1	O
+9	les	le	D	1	O
+10	tarifs	tarif	N	1	O
+11	annoncés	annoncer	V	1	O
+12	à	à	P	1	O
+13	demi	demi	N	1	O
+14	·	·	P	1	O
+15	tarif	tarif	N	1	O
+16	en	en	P	1	O
+17	faite	faite	N	1	O
+18	étaient	étayer	V	1	O
+19	plutôt	plutôt	G	1	O
+20	à	à	P	1	O
+21	tarif	tarif	N	1	O
+22	réduits	réduire	V	1	O
+23	...	...	O	1	O
 
-1	La	le	D	1	
-2	veille	veille	N	1	
-3	,	,	O	1	
-4	les	le	D	1	
-5	cascadeurs	cascadeur	N	1	
-6	extrèmes	extrèmes	G	1	
-7	étaient	étayer	V	1	
-8	dans	dans	P	1	
-9	le	le	D	1	
-10	parc	parc	N	1	
-11	:	:	O	1	
-12	Je	Je	Q	1	
-13	déconseille	déconseiller	V	1	
-14	,	,	O	1	
-15	c'	c'	Q	1	
-16	est	être	V	1	
-17	du	du	D	1	
-18	vol	vol	N	1	
-19	...	...	O	1	
+1	La	le	D	1	O
+2	veille	veille	N	1	O
+3	,	,	O	1	O
+4	les	le	D	1	O
+5	cascadeurs	cascadeur	N	1	O
+6	extrèmes	extrèmes	G	1	O
+7	étaient	étayer	V	1	O
+8	dans	dans	P	1	O
+9	le	le	D	1	O
+10	parc	parc	N	1	O
+11	:	:	O	1	O
+12	Je	Je	Q	1	O
+13	déconseille	déconseiller	V	1	O
+14	,	,	O	1	O
+15	c'	c'	Q	1	O
+16	est	être	V	1	O
+17	du	du	D	1	O
+18	vol	vol	N	1	O
+19	...	...	O	1	O
 
-1	15	15	D	1	
-2	€	€	N	1	
-3	(	(	O	1	
-4	non	non	G	1	
-5	annoncés	annoncer	V	1	
-6	)	)	O	1	
-7	par	par	P	1	
-8	personnes	personne	N	1	
-9	pour	pour	P	1	
-10	pas	pas	G	1	
-11	voir	voir	V	1	
-12	grand	grand	G	1	
-13	chose	chose	N	1	
-14	(	(	O	1	
-15	pendant	pendant	P	1	
-16	1	1	D	1	
-17	heure	heure	N	1	
-18	,	,	O	1	
-19	on	on	Q	1	
-20	a	avoir	V	1	
-21	vu	voir	V	1	
-22	des	un	D	1	
-23	voitures	voiture	N	1	
-24	roulées	rouler	V	1	
-25	sur	sur	P	1	
-26	2	2	D	1	
-27	roues	roue	N	1	
-28	et	et	C	1	
-29	quad	quad	D	1	
-30	passés	passé	N	1	
-31	sur	sur	P	1	
-32	des	un	D	1	
-33	petits	petit	G	1	
-34	tremplins	tremplin	N	1	
-35	!	!	O	1	
-36	!	!	O	1	
-37	!	!	O	1	
-38	!	!	O	1	
+1	15	15	D	1	O
+2	€	€	N	1	O
+3	(	(	O	1	O
+4	non	non	G	1	O
+5	annoncés	annoncer	V	1	O
+6	)	)	O	1	O
+7	par	par	P	1	O
+8	personnes	personne	N	1	O
+9	pour	pour	P	1	O
+10	pas	pas	G	1	O
+11	voir	voir	V	1	O
+12	grand	grand	G	1	O
+13	chose	chose	N	1	O
+14	(	(	O	1	O
+15	pendant	pendant	P	1	O
+16	1	1	D	1	O
+17	heure	heure	N	1	O
+18	,	,	O	1	O
+19	on	on	Q	1	O
+20	a	avoir	V	1	O
+21	vu	voir	V	1	O
+22	des	un	D	1	O
+23	voitures	voiture	N	1	O
+24	roulées	rouler	V	1	O
+25	sur	sur	P	1	O
+26	2	2	D	1	O
+27	roues	roue	N	1	O
+28	et	et	C	1	O
+29	quad	quad	D	1	O
+30	passés	passé	N	1	O
+31	sur	sur	P	1	O
+32	des	un	D	1	O
+33	petits	petit	G	1	O
+34	tremplins	tremplin	N	1	O
+35	!	!	O	1	O
+36	!	!	O	1	O
+37	!	!	O	1	O
+38	!	!	O	1	O
 
-1	Dommage	dommage	G	1	
-2	qu'	qu'	C	1	
-3	on	on	Q	1	
-4	prenne	prendre	V	1	
-5	les	le	D	1	
-6	touristes	touriste	N	1	
-7	pour	pour	P	1	
-8	des	un	D	1	
-9	vaches	vache	N	1	
-10	à	à	P	1	
-11	lait	lait	N	1	
-12	.	.	O	1	
+1	Dommage	dommage	G	1	O
+2	qu'	qu'	C	1	O
+3	on	on	Q	1	O
+4	prenne	prendre	V	1	O
+5	les	le	D	1	O
+6	touristes	touriste	N	1	O
+7	pour	pour	P	1	O
+8	des	un	D	1	O
+9	vaches	vache	N	1	O
+10	à	à	P	1	O
+11	lait	lait	N	1	O
+12	.	.	O	1	O
 

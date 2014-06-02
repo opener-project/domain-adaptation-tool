@@ -1,112 +1,114 @@
-1	A	a	P	1	
-2	prova	prova	N	1	
-3	di	di	P	1	
-4	terremoto	terremoto	N	1	
+1	A	a	P	1	O
+2	prova	prova	N	1	O
+3	di	di	P	1	O
+4	terremoto	terremoto	N	1	O
 
-1	Siamo	essere	V	1	
-2	stati	essere	V	1	
-3	in	in	P	1	
-4	quest'	quest'	G	1	
-5	albergo	albergo	N	1	
-6	per	per	P	1	
-7	una	uno	D	1	
-8	notte	notte	N	1	
-9	io	io	Q	1	
-10	,	,	O	1	
-11	mia	mio	G	1	
-12	moglie	moglie	N	1	
-13	e	e	Q	1	
-14	le	lo	D	1	
-15	nostre	nostro	G	1	
-16	2	2	G	1	
-17	bimbe	bimbo	N	1	
-18	,	,	O	1	
-19	approfittando	approfittare	V	1	
-20	di	di	P	1	
-21	un'	uno	D	1	
-22	offerta	offerta	N	1	
-23	di	di	P	1	
-24	groupon	groupon	N	1	
-25	con	con	P	1	
-26	inclusi	inclusi	N	1	
-27	2	2	N	1	
-28	biglietti	biglietto	N	1	
-29	per	per	P	1	
-30	il	lo	D	1	
-31	vicino	vicino	N	1	
-32	parco_di_Pinocchio	parco_di_pinocchio	R	1	ne=POI
-33	a	a	P	1	
-34	Collodi	collodio	R	1	ne=Location
-35	.	.	O	1	
+1	Siamo	essere	V	1	O
+2	stati	essere	V	1	O
+3	in	in	P	1	O
+4	quest'	quest'	G	1	O
+5	albergo	albergo	N	1	O
+6	per	per	P	1	O
+7	una	uno	D	1	O
+8	notte	notte	N	1	O
+9	io	io	Q	1	O
+10	,	,	O	1	O
+11	mia	mio	G	1	O
+12	moglie	moglie	N	1	O
+13	e	e	Q	1	O
+14	le	lo	D	1	O
+15	nostre	nostro	G	1	O
+16	2	2	G	1	O
+17	bimbe	bimbo	N	1	O
+18	,	,	O	1	O
+19	approfittando	approfittare	V	1	O
+20	di	di	P	1	O
+21	un'	uno	D	1	O
+22	offerta	offerta	N	1	O
+23	di	di	P	1	O
+24	groupon	groupon	N	1	O
+25	con	con	P	1	O
+26	inclusi	inclusi	N	1	O
+27	2	2	N	1	O
+28	biglietti	biglietto	N	1	O
+29	per	per	P	1	O
+30	il	lo	D	1	O
+31	vicino	vicino	N	1	O
+32	parco	parco	N	1	I-POI
+33	di	di	P	1	I-POI
+34	Pinocchio	pinocchio	R	1	I-POI
+35	a	a	P	1	O
+36	Collodi	collodio	R	1	I-Location
+37	.	.	O	1	O
 
-1	Debbo	debbo	N	1	
-2	dire	dire	V	1	
-3	che	che	Q	1	
-4	per	per	P	1	
-5	quello	quello	Q	1	
-6	che	che	Q	1	
-7	abbiamo	avere	V	1	
-8	pagato	pagare	V	1	
-9	siamo	essere	V	1	
-10	più	piu'	N	1	
-11	che	che	Q	1	
-12	soddisfatti	soddisfare	V	1	
-13	,	,	O	1	
-14	l'	lo	D	1	
-15	albergo	albergo	N	1	
-16	è	essere	V	1	
-17	un	uno	D	1	
-18	po'	po'	A	1	
-19	datato	datare	V	1	
-20	a	a	P	1	
-21	prima	primo	G	1	
-22	vista	vista	N	1	
-23	,	,	O	1	
-24	ma	ma	Q	1	
-25	la	lo	D	1	
-26	stanza	stanza	N	1	
-27	era	era	N	1	
-28	enorme	enorme	G	1	
-29	,	,	O	1	
-30	addirittura	addirittura	A	1	
-31	su	su	P	1	
-32	2	2	G	1	
-33	piani	piano	N	1	
-34	,	,	O	1	
-35	le	lo	D	1	
-36	due	due	G	1	
-37	piscine	piscina	N	1	
-38	fantastiche	fantastico	G	1	
-39	e	e	Q	1	
-40	debbo	dovere	V	1	
-41	dire	dire	V	1	
-42	che	che	Q	1	
-43	non	non	A	1	
-44	ci	ci	Q	1	
-45	siamo	essere	V	1	
-46	neanche	neanche	A	1	
-47	accorti	accorto	G	1	
-48	di	di	P	1	
-49	una	uno	D	1	
-50	scossa	scossa	N	1	
-51	da	da	P	1	
-52	4,2	4,2	G	1	
-53	gradi	grado	N	1	
-54	ritcher	ritcher	R	1	
-55	avvenuta	avvenuta	G	1	
-56	mentre	mentre	Q	1	
-57	ci	ci	Q	1	
-58	trovavamo	trovare	V	1	
-59	in	in	P	1	
-60	piscina	piscina	N	1	
-61	a	a	P	1	
-62	(	(	O	1	
-63	epicentro	epicentro	N	1	
-64	a	a	P	1	
-65	poco	poco	G	1	
-66	più	piu'	N	1	
-67	di	di	P	1	
-68	40	40	G	1	
-69	km	km	N	1	
-70	)	)	O	1	
+1	Debbo	debbo	N	1	O
+2	dire	dire	V	1	O
+3	che	che	Q	1	O
+4	per	per	P	1	O
+5	quello	quello	Q	1	O
+6	che	che	Q	1	O
+7	abbiamo	avere	V	1	O
+8	pagato	pagare	V	1	O
+9	siamo	essere	V	1	O
+10	più	piu'	N	1	O
+11	che	che	Q	1	O
+12	soddisfatti	soddisfare	V	1	O
+13	,	,	O	1	O
+14	l'	lo	D	1	O
+15	albergo	albergo	N	1	O
+16	è	essere	V	1	O
+17	un	uno	D	1	O
+18	po'	po'	A	1	O
+19	datato	datare	V	1	O
+20	a	a	P	1	O
+21	prima	primo	G	1	O
+22	vista	vista	N	1	O
+23	,	,	O	1	O
+24	ma	ma	Q	1	O
+25	la	lo	D	1	O
+26	stanza	stanza	N	1	O
+27	era	era	N	1	O
+28	enorme	enorme	G	1	O
+29	,	,	O	1	O
+30	addirittura	addirittura	A	1	O
+31	su	su	P	1	O
+32	2	2	G	1	O
+33	piani	piano	N	1	O
+34	,	,	O	1	O
+35	le	lo	D	1	O
+36	due	due	G	1	O
+37	piscine	piscina	N	1	O
+38	fantastiche	fantastico	G	1	O
+39	e	e	Q	1	O
+40	debbo	dovere	V	1	O
+41	dire	dire	V	1	O
+42	che	che	Q	1	O
+43	non	non	A	1	O
+44	ci	ci	Q	1	O
+45	siamo	essere	V	1	O
+46	neanche	neanche	A	1	O
+47	accorti	accorto	G	1	O
+48	di	di	P	1	O
+49	una	uno	D	1	O
+50	scossa	scossa	N	1	O
+51	da	da	P	1	O
+52	4,2	4,2	G	1	O
+53	gradi	grado	N	1	O
+54	ritcher	ritcher	R	1	O
+55	avvenuta	avvenuta	G	1	O
+56	mentre	mentre	Q	1	O
+57	ci	ci	Q	1	O
+58	trovavamo	trovare	V	1	O
+59	in	in	P	1	O
+60	piscina	piscina	N	1	O
+61	a	a	P	1	O
+62	(	(	O	1	O
+63	epicentro	epicentro	N	1	O
+64	a	a	P	1	O
+65	poco	poco	G	1	O
+66	più	piu'	N	1	O
+67	di	di	P	1	O
+68	40	40	G	1	O
+69	km	km	N	1	O
+70	)	)	O	1	O
 

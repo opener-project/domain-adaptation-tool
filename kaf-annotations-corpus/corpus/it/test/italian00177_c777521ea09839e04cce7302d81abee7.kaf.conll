@@ -1,106 +1,106 @@
-1	Ottima	ottimo	G	1	
-2	posizione	posizione	N	1	
-3	,	,	O	1	
-4	ottimo	ottimo	G	1	
-5	per	per	P	1	
-6	giovani	giovane	G	1	
-7	non	non	A	1	
-8	esigenti	esigere	V	1	
-9	!	!	O	1	
+1	Ottima	ottimo	G	1	O
+2	posizione	posizione	N	1	O
+3	,	,	O	1	O
+4	ottimo	ottimo	G	1	O
+5	per	per	P	1	O
+6	giovani	giovane	G	1	O
+7	non	non	A	1	O
+8	esigenti	esigere	V	1	O
+9	!	!	O	1	O
 
-1	l'	lo	D	1	
-2	hotel	hotel	N	1	
-3	non	non	A	1	
-4	è	è	R	1	
-5	grandissimo	grandissimo	G	1	
-6	,	,	O	1	
-7	ed	ed	Q	1	
-8	è	è	N	1	
-9	allestito	allestire	V	1	
-10	come	come	A	1	
-11	un	uno	D	1	
-12	ostello	ostello	N	1	
-13	ma	ma	Q	1	
-14	la	lo	D	1	
-15	divisione	divisione	N	1	
-16	in	in	P	1	
-17	camera	camera	N	1	
-18	garantisce	garantire	V	1	
-19	la	lo	D	1	
-20	tua	tuo	G	1	
-21	privacy	privacy	N	1	
-22	come	come	A	1	
-23	un	uno	D	1	
-24	hotel	hotel	N	1	
-25	qualsiasi	qualsiasi	G	1	
-26	,	,	O	1	
-27	carenti	carente	G	1	
-28	un	uno	D	1	
-29	po	po	N	1	
-30	sulla	sulla	P	1	
-31	pulizia	pulizia	N	1	
-32	ma	ma	Q	1	
-33	per	per	P	1	
-34	un	uno	D	1	
-35	breve	breve	G	1	
-36	soggiorno	soggiorno	N	1	
-37	ci	ci	Q	1	
-38	si	si	Q	1	
-39	può	può	R	1	
-40	accontentare	accontentare	V	1	
-41	.	.	O	1	
+1	l'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	non	non	A	1	O
+4	è	è	R	1	O
+5	grandissimo	grandissimo	G	1	O
+6	,	,	O	1	O
+7	ed	ed	Q	1	O
+8	è	è	N	1	O
+9	allestito	allestire	V	1	O
+10	come	come	A	1	O
+11	un	uno	D	1	O
+12	ostello	ostello	N	1	O
+13	ma	ma	Q	1	O
+14	la	lo	D	1	O
+15	divisione	divisione	N	1	O
+16	in	in	P	1	O
+17	camera	camera	N	1	O
+18	garantisce	garantire	V	1	O
+19	la	lo	D	1	O
+20	tua	tuo	G	1	O
+21	privacy	privacy	N	1	O
+22	come	come	A	1	O
+23	un	uno	D	1	O
+24	hotel	hotel	N	1	O
+25	qualsiasi	qualsiasi	G	1	O
+26	,	,	O	1	O
+27	carenti	carente	G	1	O
+28	un	uno	D	1	O
+29	po	po	N	1	O
+30	sulla	sulla	P	1	O
+31	pulizia	pulizia	N	1	O
+32	ma	ma	Q	1	O
+33	per	per	P	1	O
+34	un	uno	D	1	O
+35	breve	breve	G	1	O
+36	soggiorno	soggiorno	N	1	O
+37	ci	ci	Q	1	O
+38	si	si	Q	1	O
+39	può	può	R	1	O
+40	accontentare	accontentare	V	1	O
+41	.	.	O	1	O
 
-1	Staff	staff	R	1	
-2	molto	molto	A	1	
-3	disponibile	disponibile	G	1	
-4	,	,	O	1	
-5	e	e	Q	1	
-6	con	con	P	1	
-7	questo	questo	G	1	
-8	hotel	hotel	N	1	
-9	non	non	A	1	
-10	spenderete	spendere	V	1	
-11	un	uno	D	1	
-12	euro	euro	N	1	
-13	per	per	P	1	
-14	i	lo	D	1	
-15	trasporti	trasporto	N	1	
-16	.	.	O	1	
+1	Staff	staff	R	1	O
+2	molto	molto	A	1	O
+3	disponibile	disponibile	G	1	O
+4	,	,	O	1	O
+5	e	e	Q	1	O
+6	con	con	P	1	O
+7	questo	questo	G	1	O
+8	hotel	hotel	N	1	O
+9	non	non	A	1	O
+10	spenderete	spendere	V	1	O
+11	un	uno	D	1	O
+12	euro	euro	N	1	O
+13	per	per	P	1	O
+14	i	lo	D	1	O
+15	trasporti	trasporto	N	1	O
+16	.	.	O	1	O
 
-1	Miglior	miglior	G	1	
-2	caratteristica	caratteristico	G	1	
-3	il	lo	D	1	
-4	bulldog	bulldog	N	1	
-5	a	a	P	1	
-6	meno	meno	N	1	
-7	di	di	P	1	
-8	20mt	20mt	N	1	
-9	dall'	dall'	P	1	
-10	entrata	entrata	N	1	
-11	dell	dell	P	1	
-12	'	'	Q	1	
-13	hotel	hotel	N	1	
-14	.	.	O	1	
+1	Miglior	miglior	G	1	O
+2	caratteristica	caratteristico	G	1	O
+3	il	lo	D	1	O
+4	bulldog	bulldog	N	1	O
+5	a	a	P	1	O
+6	meno	meno	N	1	O
+7	di	di	P	1	O
+8	20mt	20mt	N	1	O
+9	dall'	dall'	P	1	O
+10	entrata	entrata	N	1	O
+11	dell	dell	P	1	O
+12	'	'	Q	1	O
+13	hotel	hotel	N	1	O
+14	.	.	O	1	O
 
-1	Simpatica	simpatico	G	1	
-2	anche	anche	Q	1	
-3	l'	l'	Q	1	
-4	atmosfera	atmosfera	N	1	
-5	che	che	Q	1	
-6	si	si	Q	1	
-7	crea	creare	V	1	
-8	nell'	nell'	P	1	
-9	atrio	atrio	N	1	
-10	durante	durante	P	1	
-11	la	lo	D	1	
-12	notte	notte	N	1	
-13	!	!	O	1	
+1	Simpatica	simpatico	G	1	O
+2	anche	anche	Q	1	O
+3	l'	l'	Q	1	O
+4	atmosfera	atmosfera	N	1	O
+5	che	che	Q	1	O
+6	si	si	Q	1	O
+7	crea	creare	V	1	O
+8	nell'	nell'	P	1	O
+9	atrio	atrio	N	1	O
+10	durante	durante	P	1	O
+11	la	lo	D	1	O
+12	notte	notte	N	1	O
+13	!	!	O	1	O
 
-1	indicato	indicare	V	1	
-2	soprattutto	soprattutto	A	1	
-3	ai	ai	P	1	
-4	giovani	giovane	N	1	
-5	non	non	A	1	
-6	esigenti	esigere	V	1	
-7	!	!	O	1	
+1	indicato	indicare	V	1	O
+2	soprattutto	soprattutto	A	1	O
+3	ai	ai	P	1	O
+4	giovani	giovane	N	1	O
+5	non	non	A	1	O
+6	esigenti	esigere	V	1	O
+7	!	!	O	1	O
 

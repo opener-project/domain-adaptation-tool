@@ -1,124 +1,124 @@
-1	Hotel	Hotel	R	1	
-2	céntrico	céntrico	N	1	
-3	y	y	A	1	
-4	a	a	D	1	
-5	5	5	O	1	
-6	minutos	minutos	N	1	
-7	de	de	P	1	
-8	todo	todo	N	1	
+1	Hotel	Hotel	R	1	O
+2	céntrico	céntrico	N	1	O
+3	y	y	A	1	O
+4	a	a	D	1	O
+5	5	5	O	1	O
+6	minutos	minutos	N	1	O
+7	de	de	P	1	O
+8	todo	todo	N	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	se	se	N	1	
-4	en	en	O	1	
-5	cuentra	cuentra	O	1	
-6	en	en	O	1	
-7	la	la	O	1	
-8	gran	gran	O	1	
-9	via	via	P	1	
-10	una	una	G	1	
-11	de	de	P	1	
-12	las	las	N	1	
-13	arterias	arterias	P	1	
-14	principales	principales	N	1	
-15	de	de	P	1	
-16	madrid	madrid	G	1	
-17	a	a	D	1	
-18	5	5	O	1	
-19	minuto	minuto	N	1	
-20	de	de	P	1	
-21	casi	casi	N	1	
-22	todo	todo	P	1	
-23	el	el	V	1	
-24	museo	museo	N	1	
-25	del	del	O	1	
-26	prado	prado	O	1	
-27	,	,	O	1	
-28	chuecas	chuecas	V	1	
-29	la	la	N	1	
-30	plaza	plaza	N	1	
-31	mayor	mayor	N	1	
-32	,	,	O	1	
-33	el	el	N	1	
-34	palacio	palacio	N	1	
-35	real	real	G	1	
-36	al	al	G	1	
-37	lado	lado	N	1	
-38	de	de	P	1	
-39	musicales	musicales	N	1	
-40	,	,	O	1	
-41	obras	obras	N	1	
-42	de	de	P	1	
-43	teatro	teatro	N	1	
-44	,	,	O	1	
-45	discotecas.	discotecas.	O	1	
-46	salas	salas	O	1	
-47	de	de	O	1	
-48	fiestas	fiestas	O	1	
-49	y	y	G	1	
-50	cines	cines	N	1	
-51	esta	esta	O	1	
-52	todo	todo	V	1	
-53	a	a	O	1	
-54	la	la	O	1	
-55	mano	mano	O	1	
-56	lo	lo	O	1	
-57	que	que	O	1	
-58	te	te	O	1	
-59	ahorras	ahorras	O	1	
-60	en	en	O	1	
-61	taxi	taxi	N	1	
-62	,	,	O	1	
-63	metro	metro	N	1	
-64	y	y	A	1	
-65	trasporte	trasporte	V	1	
-66	publico	publico	N	1	
-67	,	,	O	1	
-68	y	y	G	1	
-69	hay	hay	N	1	
-70	mucha	mucha	O	1	
-71	variedad	variedad	V	1	
-72	de	de	P	1	
-73	restauración	restauración	N	1	
-74	en	en	P	1	
-75	frente	frente	G	1	
-76	hay	hay	N	1	
-77	un	un	G	1	
-78	Mc	Mc	R	1	
-79	donal	donal	G	1	
-80	y	y	G	1	
-81	cafeteria	cafeteria	N	1	
-82	y	y	A	1	
-83	bares	bare	V	1	
-84	esta	esta	N	1	
-85	muy	muy	G	1	
-86	bien	bien	G	1	
-87	comunicado	comunicado	G	1	
-88	con	con	N	1	
-89	el	el	N	1	
-90	estaradio	estaradio	N	1	
-91	a	a	O	1	
-92	la	la	O	1	
-93	entrada	entrada	O	1	
-94	del	del	O	1	
-95	hotel	hotel	O	1	
-96	hay	hay	O	1	
-97	una	una	O	1	
-98	parada	parada	O	1	
-99	de	de	O	1	
-100	metro	metro	O	1	
-101	y	y	G	1	
-102	estando	estando	N	1	
-103	en	en	P	1	
-104	la	la	D	1	
-105	gran	gran	N	1	
-106	via	via	P	1	
-107	las	las	G	1	
-108	habitaciones	habitaciones	N	1	
-109	estan	estan	V	1	
-110	super	super	G	1	
-111	insonorizasdas	insonorizasdas	N	1	
-112	me	me	Q	1	
-113	encanto	encanto	P	1	
-114	volvere	volvere	G	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	se	se	N	1	O
+4	en	en	O	1	O
+5	cuentra	cuentra	O	1	O
+6	en	en	O	1	O
+7	la	la	O	1	O
+8	gran	gran	O	1	O
+9	via	via	P	1	O
+10	una	una	G	1	O
+11	de	de	P	1	O
+12	las	las	N	1	O
+13	arterias	arterias	P	1	O
+14	principales	principales	N	1	O
+15	de	de	P	1	O
+16	madrid	madrid	G	1	O
+17	a	a	D	1	O
+18	5	5	O	1	O
+19	minuto	minuto	N	1	O
+20	de	de	P	1	O
+21	casi	casi	N	1	O
+22	todo	todo	P	1	O
+23	el	el	V	1	O
+24	museo	museo	N	1	O
+25	del	del	O	1	O
+26	prado	prado	O	1	O
+27	,	,	O	1	O
+28	chuecas	chuecas	V	1	O
+29	la	la	N	1	O
+30	plaza	plaza	N	1	O
+31	mayor	mayor	N	1	O
+32	,	,	O	1	O
+33	el	el	N	1	O
+34	palacio	palacio	N	1	O
+35	real	real	G	1	O
+36	al	al	G	1	O
+37	lado	lado	N	1	O
+38	de	de	P	1	O
+39	musicales	musicales	N	1	O
+40	,	,	O	1	O
+41	obras	obras	N	1	O
+42	de	de	P	1	O
+43	teatro	teatro	N	1	O
+44	,	,	O	1	O
+45	discotecas.	discotecas.	O	1	O
+46	salas	salas	O	1	O
+47	de	de	O	1	O
+48	fiestas	fiestas	O	1	O
+49	y	y	G	1	O
+50	cines	cines	N	1	O
+51	esta	esta	O	1	O
+52	todo	todo	V	1	O
+53	a	a	O	1	O
+54	la	la	O	1	O
+55	mano	mano	O	1	O
+56	lo	lo	O	1	O
+57	que	que	O	1	O
+58	te	te	O	1	O
+59	ahorras	ahorras	O	1	O
+60	en	en	O	1	O
+61	taxi	taxi	N	1	O
+62	,	,	O	1	O
+63	metro	metro	N	1	O
+64	y	y	A	1	O
+65	trasporte	trasporte	V	1	O
+66	publico	publico	N	1	O
+67	,	,	O	1	O
+68	y	y	G	1	O
+69	hay	hay	N	1	O
+70	mucha	mucha	O	1	O
+71	variedad	variedad	V	1	O
+72	de	de	P	1	O
+73	restauración	restauración	N	1	O
+74	en	en	P	1	O
+75	frente	frente	G	1	O
+76	hay	hay	N	1	O
+77	un	un	G	1	O
+78	Mc	Mc	R	1	O
+79	donal	donal	G	1	O
+80	y	y	G	1	O
+81	cafeteria	cafeteria	N	1	O
+82	y	y	A	1	O
+83	bares	bare	V	1	O
+84	esta	esta	N	1	O
+85	muy	muy	G	1	O
+86	bien	bien	G	1	O
+87	comunicado	comunicado	G	1	O
+88	con	con	N	1	O
+89	el	el	N	1	O
+90	estaradio	estaradio	N	1	O
+91	a	a	O	1	O
+92	la	la	O	1	O
+93	entrada	entrada	O	1	O
+94	del	del	O	1	O
+95	hotel	hotel	O	1	O
+96	hay	hay	O	1	O
+97	una	una	O	1	O
+98	parada	parada	O	1	O
+99	de	de	O	1	O
+100	metro	metro	O	1	O
+101	y	y	G	1	O
+102	estando	estando	N	1	O
+103	en	en	P	1	O
+104	la	la	D	1	O
+105	gran	gran	N	1	O
+106	via	via	P	1	O
+107	las	las	G	1	O
+108	habitaciones	habitaciones	N	1	O
+109	estan	estan	V	1	O
+110	super	super	G	1	O
+111	insonorizasdas	insonorizasdas	N	1	O
+112	me	me	Q	1	O
+113	encanto	encanto	P	1	O
+114	volvere	volvere	G	1	O
 

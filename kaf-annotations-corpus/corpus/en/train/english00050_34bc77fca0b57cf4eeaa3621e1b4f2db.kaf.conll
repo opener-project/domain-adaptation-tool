@@ -1,42 +1,42 @@
-1	Amazing	amazing	G	1	
-2	hotel	hotel	N	1	
+1	Amazing	amazing	G	1	O
+2	hotel	hotel	N	1	O
 
-1	Hotel	hotel	N	1	
-2	is	be	V	1	
-3	very	very	A	1	
-4	beaituful	beaituful	G	1	
-5	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	is	be	V	1	O
+3	very	very	A	1	O
+4	beaituful	beaituful	G	1	O
+5	.	.	O	1	O
 
-1	There	there	O	1	
-2	is	be	V	1	
-3	a	a	D	1	
-4	lot	lot	N	1	
-5	of	of	P	1	
-6	bars	bar	N	1	
-7	and	and	C	1	
-8	a	a	O	1	
-9	la	la	O	1	
-10	carte	carte	O	1	
-11	restaurants.We	restaurants.we	O	1	
-12	could	can	O	1	
-13	easily	easily	A	1	
-14	make	make	V	1	
-15	reservation	reservation	N	1	
-16	for	for	P	1	
-17	a	a	D	1	
-18	la	la	D	1	
-19	carte	carte	N	1	
-20	restaurants	restaurant	N	1	
-21	and	and	C	1	
-22	we	we	Q	1	
-23	mostly	mostly	A	1	
-24	liked	like	V	1	
-25	to	to	P	1	
-26	have	have	V	1	
-27	a	a	D	1	
-28	dinner	dinner	N	1	
-29	in	in	P	1	
-30	ottoman	ottoman	G	1	
-31	restaurant	restaurant	N	1	
-32	.	.	O	1	
+1	There	there	O	1	O
+2	is	be	V	1	O
+3	a	a	D	1	O
+4	lot	lot	N	1	O
+5	of	of	P	1	O
+6	bars	bar	N	1	O
+7	and	and	C	1	O
+8	a	a	O	1	O
+9	la	la	O	1	O
+10	carte	carte	O	1	O
+11	restaurants.We	restaurants.we	O	1	O
+12	could	can	O	1	O
+13	easily	easily	A	1	O
+14	make	make	V	1	O
+15	reservation	reservation	N	1	O
+16	for	for	P	1	O
+17	a	a	D	1	O
+18	la	la	D	1	O
+19	carte	carte	N	1	O
+20	restaurants	restaurant	N	1	O
+21	and	and	C	1	O
+22	we	we	Q	1	O
+23	mostly	mostly	A	1	O
+24	liked	like	V	1	O
+25	to	to	P	1	O
+26	have	have	V	1	O
+27	a	a	D	1	O
+28	dinner	dinner	N	1	O
+29	in	in	P	1	O
+30	ottoman	ottoman	G	1	O
+31	restaurant	restaurant	N	1	O
+32	.	.	O	1	O
 

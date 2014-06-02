@@ -1,169 +1,169 @@
-1	Nooit	nooit	A	1	
-2	meer	meer	A	1	
+1	Nooit	nooit	A	1	O
+2	meer	meer	A	1	O
 
-1	2de	2de	O	1	
-2	camping	camping	N	1	
-3	in	in	P	1	
-4	Frankrijk	Frankrijk	R	1	ne=Location
-5	deze	deze	D	1	
-6	zomer	zomer	N	1	
-7	uitgebaat	uitbaten	V	1	
-8	door	door	P	1	
-9	een	een	D	1	
-10	Nederlander	Nederlander	N	1	
-11	,	,	O	1	
-12	en	en	C	1	
-13	ook	ook	A	1	
-14	hier	hier	A	1	
-15	een	een	D	1	
-16	dikke	dik	G	1	
-17	tegenvaller	tegenvaller	N	1	
-18	.	.	O	1	
+1	2de	2de	O	1	O
+2	camping	camping	N	1	O
+3	in	in	P	1	O
+4	Frankrijk	Frankrijk	R	1	I-Location
+5	deze	deze	D	1	O
+6	zomer	zomer	N	1	O
+7	uitgebaat	uitbaten	V	1	O
+8	door	door	P	1	O
+9	een	een	D	1	O
+10	Nederlander	Nederlander	N	1	O
+11	,	,	O	1	O
+12	en	en	C	1	O
+13	ook	ook	A	1	O
+14	hier	hier	A	1	O
+15	een	een	D	1	O
+16	dikke	dik	G	1	O
+17	tegenvaller	tegenvaller	N	1	O
+18	.	.	O	1	O
 
-1	Zelfde	zelfde	G	1	
-2	beoordeling	beoordeling	N	1	
-3	als	als	C	1	
-4	Frans	Frans	R	1	
-5	(	(	O	1	
-6	13	@card@	O	1	
-7	/	/	O	1	
-8	7	@card@	O	1	
-9	/	/	O	1	
-10	2011	@card@	O	1	
-11	)	)	O	1	
-12	.	.	O	1	
+1	Zelfde	zelfde	G	1	O
+2	beoordeling	beoordeling	N	1	O
+3	als	als	C	1	O
+4	Frans	Frans	R	1	O
+5	(	(	O	1	O
+6	13	@card@	O	1	O
+7	/	/	O	1	O
+8	7	@card@	O	1	O
+9	/	/	O	1	O
+10	2011	@card@	O	1	O
+11	)	)	O	1	O
+12	.	.	O	1	O
 
-1	Een	een	D	1	
-2	agressief	agressief	G	1	
-3	onthaal	onthaal	N	1	
-4	omdat	omdat	C	1	
-5	we	we	Q	1	
-6	te	te	O	1	
-7	ver	ver	G	1	
-8	waren	wezen|zijn	V	1	
-9	gereden	rijden	V	1	
-10	naar	naar	P	1	
-11	zijn	zijn	D	1	
-12	zin	zin	N	1	
-13	,	,	O	1	
-14	en	en	C	1	
-15	dan	dan	A	1	
-16	mijn	mijn	D	1	
-17	echtgenote	echtgenote	N	1	
-18	die	die	Q	1	
-19	verplicht	verplichten	V	1	
-20	moest	moeten	V	1	
-21	uitstappen	uitstappen	V	1	
-22	.	.	O	1	
+1	Een	een	D	1	O
+2	agressief	agressief	G	1	O
+3	onthaal	onthaal	N	1	O
+4	omdat	omdat	C	1	O
+5	we	we	Q	1	O
+6	te	te	O	1	O
+7	ver	ver	G	1	O
+8	waren	wezen|zijn	V	1	O
+9	gereden	rijden	V	1	O
+10	naar	naar	P	1	O
+11	zijn	zijn	D	1	O
+12	zin	zin	N	1	O
+13	,	,	O	1	O
+14	en	en	C	1	O
+15	dan	dan	A	1	O
+16	mijn	mijn	D	1	O
+17	echtgenote	echtgenote	N	1	O
+18	die	die	Q	1	O
+19	verplicht	verplichten	V	1	O
+20	moest	moeten	V	1	O
+21	uitstappen	uitstappen	V	1	O
+22	.	.	O	1	O
 
-1	Een	een	D	1	
-2	rondleiding	rondleiding	N	1	
-3	met	met	P	1	
-4	alle	alle	D	1	
-5	wetten	wet	N	1	
-6	en	en	C	1	
-7	regels	regel	N	1	
-8	.	.	O	1	
+1	Een	een	D	1	O
+2	rondleiding	rondleiding	N	1	O
+3	met	met	P	1	O
+4	alle	alle	D	1	O
+5	wetten	wet	N	1	O
+6	en	en	C	1	O
+7	regels	regel	N	1	O
+8	.	.	O	1	O
 
-1	Vakantiegevoel	Vakantiegevoel	O	1	
-2	onmiddellijk	onmiddellijk	G	1	
-3	weg.	weg	N	1	
-4	weg.	.	O	1	
-5	kwamen	komen	V	1	
-6	voor	voor	P	1	
-7	één	één	D	1	
-8	overnachting	overnachting	N	1	
-9	in	in	P	1	
-10	de	de	D	1	
-11	late	laat	G	1	
-12	namiddag	namiddag	N	1	
-13	aan	aan	P	1	
-14	,	,	O	1	
-15	zou	zullen	V	1	
-16	anders	anders	G	1	
-17	direct	direct	G	1	
-18	weer	weer	A	1	
-19	vertrokken	vertrekken	V	1	
-20	zijn	zijn	V	1	
-21	.	.	O	1	
+1	Vakantiegevoel	Vakantiegevoel	O	1	O
+2	onmiddellijk	onmiddellijk	G	1	O
+3	weg.	weg	N	1	O
+4	weg.	.	O	1	O
+5	kwamen	komen	V	1	O
+6	voor	voor	P	1	O
+7	één	één	D	1	O
+8	overnachting	overnachting	N	1	O
+9	in	in	P	1	O
+10	de	de	D	1	O
+11	late	laat	G	1	O
+12	namiddag	namiddag	N	1	O
+13	aan	aan	P	1	O
+14	,	,	O	1	O
+15	zou	zullen	V	1	O
+16	anders	anders	G	1	O
+17	direct	direct	G	1	O
+18	weer	weer	A	1	O
+19	vertrokken	vertrekken	V	1	O
+20	zijn	zijn	V	1	O
+21	.	.	O	1	O
 
-1	Nederlandse	Nederlands	G	1	
-2	gastvrijheid	gastvrijheid	N	1	
-3	?	?	O	1	
+1	Nederlandse	Nederlands	G	1	O
+2	gastvrijheid	gastvrijheid	N	1	O
+3	?	?	O	1	O
 
-1	Wij	wij	Q	1	
-2	kennen	kennen	V	1	
-3	andere	ander	G	1	
-4	Nederlanders	Nederlander	N	1	
-5	die	die	Q	1	
-6	zich	zich	Q	1	
-7	uitsloven	uitsloven	V	1	
-8	om	om	C	1	
-9	het	het	Q	1	
-10	hun	hun	D	1	
-11	gasten	gast|gasten	N	1	
-12	naar	naar	P	1	
-13	de	de	D	1	
-14	zin	zin	N	1	
-15	te	te	O	1	
-16	maken	maken	V	1	
-17	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	kennen	kennen	V	1	O
+3	andere	ander	G	1	O
+4	Nederlanders	Nederlander	N	1	O
+5	die	die	Q	1	O
+6	zich	zich	Q	1	O
+7	uitsloven	uitsloven	V	1	O
+8	om	om	C	1	O
+9	het	het	Q	1	O
+10	hun	hun	D	1	O
+11	gasten	gast|gasten	N	1	O
+12	naar	naar	P	1	O
+13	de	de	D	1	O
+14	zin	zin	N	1	O
+15	te	te	O	1	O
+16	maken	maken	V	1	O
+17	.	.	O	1	O
 
-1	Deze	deze	D	1	
-2	man	man	N	1	
-3	heeft	hebben	V	1	
-4	er	er	Q	1	
-5	niets	niets	Q	1	
-6	van	van	P	1	
-7	begrepen	begrijpen	V	1	
-8	.	.	O	1	
+1	Deze	deze	D	1	O
+2	man	man	N	1	O
+3	heeft	hebben	V	1	O
+4	er	er	Q	1	O
+5	niets	niets	Q	1	O
+6	van	van	P	1	O
+7	begrepen	begrijpen	V	1	O
+8	.	.	O	1	O
 
-1	Een	een	D	1	
-2	arrogant	arrogant	G	1	
-3	mannetje	man	N	1	
-4	,	,	O	1	
-5	met	met	P	1	
-6	·	·	O	1	
-7	ocharme	ocharme	O	1	
-8	de	de	D	1	
-9	vrouw	vrouw	N	1	
-10	·	·	O	1	
-11	een	een	D	1	
-12	vriendelijke	vriendelijk	G	1	
-13	echtgenote	echtgenote	N	1	
-14	die	die	Q	1	
-15	zicht	zicht	N	1	
-16	uitslooft	uitsloven	V	1	
-17	.	.	O	1	
+1	Een	een	D	1	O
+2	arrogant	arrogant	G	1	O
+3	mannetje	man	N	1	O
+4	,	,	O	1	O
+5	met	met	P	1	O
+6	·	·	O	1	O
+7	ocharme	ocharme	O	1	O
+8	de	de	D	1	O
+9	vrouw	vrouw	N	1	O
+10	·	·	O	1	O
+11	een	een	D	1	O
+12	vriendelijke	vriendelijk	G	1	O
+13	echtgenote	echtgenote	N	1	O
+14	die	die	Q	1	O
+15	zicht	zicht	N	1	O
+16	uitslooft	uitsloven	V	1	O
+17	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	hier	hier	A	1	
-3	is	zijn	V	1	
-4	de	de	D	1	
-5	kassa	kassa	N	1	
-6	belangrijker	belangrijk	G	1	
-7	dan	dan	C	1	
-8	de	de	D	1	
-9	vriendelijkheid	vriendelijkheid	N	1	
-10	en	en	C	1	
-11	de	de	D	1	
-12	service	service	N	1	
-13	.	.	O	1	
+1	Ook	ook	A	1	O
+2	hier	hier	A	1	O
+3	is	zijn	V	1	O
+4	de	de	D	1	O
+5	kassa	kassa	N	1	O
+6	belangrijker	belangrijk	G	1	O
+7	dan	dan	C	1	O
+8	de	de	D	1	O
+9	vriendelijkheid	vriendelijkheid	N	1	O
+10	en	en	C	1	O
+11	de	de	D	1	O
+12	service	service	N	1	O
+13	.	.	O	1	O
 
-1	Tip	tip	N	1	
-2	:	:	O	1	
-3	camping	camping	N	1	
-4	verkopen	verkoop	N	1	
-5	en	en	C	1	
-6	een	een	D	1	
-7	hondenkennel	hondenkennel	O	1	
-8	beginnen	beginnen	V	1	
-9	.	.	O	1	
+1	Tip	tip	N	1	O
+2	:	:	O	1	O
+3	camping	camping	N	1	O
+4	verkopen	verkoop	N	1	O
+5	en	en	C	1	O
+6	een	een	D	1	O
+7	hondenkennel	hondenkennel	O	1	O
+8	beginnen	beginnen	V	1	O
+9	.	.	O	1	O
 
-1	Die	die	Q	1	
-2	laten	laten	V	1	
-3	zich	zich	Q	1	
-4	wel	wel	A	1	
-5	afsnauwen	afsnauwen	V	1	
-6	...	...	O	1	
+1	Die	die	Q	1	O
+2	laten	laten	V	1	O
+3	zich	zich	Q	1	O
+4	wel	wel	A	1	O
+5	afsnauwen	afsnauwen	V	1	O
+6	...	...	O	1	O
 

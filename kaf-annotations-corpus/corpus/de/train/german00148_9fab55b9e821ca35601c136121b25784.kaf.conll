@@ -1,139 +1,142 @@
-1	Sehr	sehr	A	1	
-2	empfehlenswert	empfehlenswert	G	1	
-3	für	für	P	1	
-4	Sightseeingtrip	Sightseeingtrip	O	1	
+1	Sehr	sehr	A	1	O
+2	empfehlenswert	empfehlenswert	G	1	O
+3	für	für	P	1	O
+4	Sightseeingtrip	Sightseeingtrip	O	1	O
 
-1	Zimmer	Zimmer	N	1	
-2	relativ	relativ	G	1	
-3	klein	klein	G	1	
-4	aber	aber	A	1	
-5	für	für	P	1	
-6	den	die	D	1	
-7	Reisezweck	Reisezweck	N	1	
-8	absolut	absolut	G	1	
-9	tauglich	tauglich	G	1	
-10	und	und	C	1	
-11	zweckmäßig	zweckmäßig	G	1	
-12	.	.	O	1	
+1	Zimmer	Zimmer	N	1	O
+2	relativ	relativ	G	1	O
+3	klein	klein	G	1	O
+4	aber	aber	A	1	O
+5	für	für	P	1	O
+6	den	die	D	1	O
+7	Reisezweck	Reisezweck	N	1	O
+8	absolut	absolut	G	1	O
+9	tauglich	tauglich	G	1	O
+10	und	und	C	1	O
+11	zweckmäßig	zweckmäßig	G	1	O
+12	.	.	O	1	O
 
-1	Moderne	modern	G	1	
-2	Möbel	Möbel	N	1	
-3	,	,	O	1	
-4	Ikea	Ikea	O	1	
-5	·	·	O	1	
-6	Stil	Stil	N	1	
-7	,	,	O	1	
-8	Dusche	Dusche	N	1	
-9	super	super	G	1	
-10	,	,	O	1	
-11	Betten	Bett|Betten	N	1	
-12	o.k.	oderk.	P	1	
-13	,	,	O	1	
-14	Frühstück	Frühstück	N	1	
-15	bestehend	bestehend	G	1	
-16	aus	aus	P	1	
-17	Baguette	Baguette	O	1	
-18	,	,	O	1	
-19	Joghurt	Joghurt	N	1	
-20	,	,	O	1	
-21	Apfel	Apfel	N	1	
-22	·	·	O	1	
-23	und	und	C	1	
-24	Orangensaft	Orangensaft	N	1	
-25	,	,	O	1	
-26	Kaffee	Kaffee	N	1	
-27	,	,	O	1	
-28	Tee	Tee	N	1	
-29	,	,	O	1	
-30	Milch	Milch	N	1	
-31	,	,	O	1	
-32	Flakes	Flakes	O	1	
-33	,	,	O	1	
-34	Marmelade	Marmelade	N	1	
-35	,	,	O	1	
-36	Schokoaufstrich	Schokoaufstrich	O	1	
-37	und	und	C	1	
-38	Honig	Honig	N	1	
-39	sowie	sowie	C	1	
-40	Käse	Käse	N	1	
-41	,	,	O	1	
-42	Körnerbaguette	Körnerbaguette	O	1	
-43	und	und	C	1	
-44	weitere	weit	G	1	
-45	Brotsorten	Brotsorte	N	1	
-46	.	.	O	1	
+1	Moderne	modern	G	1	O
+2	Möbel	Möbel	N	1	O
+3	,	,	O	1	O
+4	Ikea	Ikea	O	1	O
+5	·	·	O	1	O
+6	Stil	Stil	N	1	O
+7	,	,	O	1	O
+8	Dusche	Dusche	N	1	O
+9	super	super	G	1	O
+10	,	,	O	1	O
+11	Betten	Bett|Betten	N	1	O
+12	o.k.	oderk.	P	1	O
+13	,	,	O	1	O
+14	Frühstück	Frühstück	N	1	O
+15	bestehend	bestehend	G	1	O
+16	aus	aus	P	1	O
+17	Baguette	Baguette	O	1	O
+18	,	,	O	1	O
+19	Joghurt	Joghurt	N	1	O
+20	,	,	O	1	O
+21	Apfel	Apfel	N	1	O
+22	·	·	O	1	O
+23	und	und	C	1	O
+24	Orangensaft	Orangensaft	N	1	O
+25	,	,	O	1	O
+26	Kaffee	Kaffee	N	1	O
+27	,	,	O	1	O
+28	Tee	Tee	N	1	O
+29	,	,	O	1	O
+30	Milch	Milch	N	1	O
+31	,	,	O	1	O
+32	Flakes	Flakes	O	1	O
+33	,	,	O	1	O
+34	Marmelade	Marmelade	N	1	O
+35	,	,	O	1	O
+36	Schokoaufstrich	Schokoaufstrich	O	1	O
+37	und	und	C	1	O
+38	Honig	Honig	N	1	O
+39	sowie	sowie	C	1	O
+40	Käse	Käse	N	1	O
+41	,	,	O	1	O
+42	Körnerbaguette	Körnerbaguette	O	1	O
+43	und	und	C	1	O
+44	weitere	weit	G	1	O
+45	Brotsorten	Brotsorte	N	1	O
+46	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	sauber	sauber	G	1	
-3	,	,	O	1	
-4	kostenloses	kostenlos	G	1	
-5	parken	parken	V	1	
-6	,	,	O	1	
-7	nur	nur	A	1	
-8	8	8	O	1	
-9	Min.	min.	N	1	
-10	von	von	P	1	
-11	der_RER_·_Station	die_RER_·_Station	R	1	ne=POI
-12	,	,	O	1	
-13	in	in	P	1	
-14	20	20	O	1	
-15	Minuten	Minute	N	1	
-16	in	in	P	1	
-17	Paris	Paris	R	1	ne=Location
-18	Innenstadt	Innenstadt	N	1	
-19	,	,	O	1	
-20	damit	damit	C	1	
-21	sehr	sehr	A	1	
-22	gute	gut	G	1	
-23	Anbindung	Anbindung	N	1	
-24	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	sauber	sauber	G	1	O
+3	,	,	O	1	O
+4	kostenloses	kostenlos	G	1	O
+5	parken	parken	V	1	O
+6	,	,	O	1	O
+7	nur	nur	A	1	O
+8	8	8	O	1	O
+9	Min.	min.	N	1	O
+10	von	von	P	1	O
+11	der	die	D	1	I-POI
+12	RER	RER	O	1	I-POI
+13	·	·	O	1	I-POI
+14	Station	Station	N	1	I-POI
+15	,	,	O	1	O
+16	in	in	P	1	O
+17	20	20	O	1	O
+18	Minuten	Minute	N	1	O
+19	in	in	P	1	O
+20	Paris	Paris	R	1	I-Location
+21	Innenstadt	Innenstadt	N	1	O
+22	,	,	O	1	O
+23	damit	damit	C	1	O
+24	sehr	sehr	A	1	O
+25	gute	gut	G	1	O
+26	Anbindung	Anbindung	N	1	O
+27	.	.	O	1	O
 
-1	Altersdurchschnitt	Altersdurchschnitt	N	1	
-2	ca.	ca.	A	1	
-3	35	35	O	1	
-4	,	,	O	1	
-5	viele	viele	Q	1	
-6	Nationalitäten	Nationalität	N	1	
-7	.	.	O	1	
+1	Altersdurchschnitt	Altersdurchschnitt	N	1	O
+2	ca.	ca.	A	1	O
+3	35	35	O	1	O
+4	,	,	O	1	O
+5	viele	viele	Q	1	O
+6	Nationalitäten	Nationalität	N	1	O
+7	.	.	O	1	O
 
-1	Besonders	besonders	A	1	
-2	erwähnenswert	erwähnenswert	G	1	
-3	:	:	O	1	
-4	sehr	sehr	A	1	
-5	nettes	nett	G	1	
-6	und	und	C	1	
-7	hilfsbereites	hilfsbereites	O	1	
-8	Personal	Personal	N	1	
-9	,	,	O	1	
-10	auch	auch	A	1	
-11	wenn	wenn	C	1	
-12	die	die	D	1	
-13	eigenen	eigen	G	1	
-14	französischen	französisch	G	1	
-15	Sprachkenntnisse	Sprachkenntnis	N	1	
-16	nicht	nicht	O	1	
-17	sehr	sehr	A	1	
-18	gut	gut	G	1	
-19	sind	sein	V	1	
-20	!	!	O	1	
-21	!	!	O	1	
+1	Besonders	besonders	A	1	O
+2	erwähnenswert	erwähnenswert	G	1	O
+3	:	:	O	1	O
+4	sehr	sehr	A	1	O
+5	nettes	nett	G	1	O
+6	und	und	C	1	O
+7	hilfsbereites	hilfsbereites	O	1	O
+8	Personal	Personal	N	1	O
+9	,	,	O	1	O
+10	auch	auch	A	1	O
+11	wenn	wenn	C	1	O
+12	die	die	D	1	O
+13	eigenen	eigen	G	1	O
+14	französischen	französisch	G	1	O
+15	Sprachkenntnisse	Sprachkenntnis	N	1	O
+16	nicht	nicht	O	1	O
+17	sehr	sehr	A	1	O
+18	gut	gut	G	1	O
+19	sind	sein	V	1	O
+20	!	!	O	1	O
+21	!	!	O	1	O
 
-1	Englisch	englisch	G	1	
-2	geht	gehen	V	1	
-3	auch	auch	A	1	
-4	......	......	O	1	
+1	Englisch	englisch	G	1	O
+2	geht	gehen	V	1	O
+3	auch	auch	A	1	O
+4	......	......	O	1	O
 
-1	Alles	alle	Q	1	
-2	in	in	P	1	
-3	allem	alle	Q	1	
-4	:	:	O	1	
-5	Jederzeit	jederzeit	A	1	
-6	wieder	wieder	A	1	
-7	,	,	O	1	
-8	wenn	wenn	C	1	
-9	Paris	Paris	R	1	ne=Location
-10	wieder	wieder	A	1	
-11	besucht	besuchen	V	1	
-12	wird	werden	V	1	
-13	.	.	O	1	
+1	Alles	alle	Q	1	O
+2	in	in	P	1	O
+3	allem	alle	Q	1	O
+4	:	:	O	1	O
+5	Jederzeit	jederzeit	A	1	O
+6	wieder	wieder	A	1	O
+7	,	,	O	1	O
+8	wenn	wenn	C	1	O
+9	Paris	Paris	R	1	I-Location
+10	wieder	wieder	A	1	O
+11	besucht	besuchen	V	1	O
+12	wird	werden	V	1	O
+13	.	.	O	1	O
 

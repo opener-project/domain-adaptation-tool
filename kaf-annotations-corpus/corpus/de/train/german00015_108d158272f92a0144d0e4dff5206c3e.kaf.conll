@@ -1,129 +1,129 @@
-1	Empfehlenswertes	empfehlenswert	G	1	
-2	,	,	O	1	
-3	ruhiges	ruhig	G	1	
-4	Hotel	Hotel	N	1	
-5	in	in	P	1	
-6	guter	gut	G	1	
-7	Lage	Lage	N	1	
+1	Empfehlenswertes	empfehlenswert	G	1	O
+2	,	,	O	1	O
+3	ruhiges	ruhig	G	1	O
+4	Hotel	Hotel	N	1	O
+5	in	in	P	1	O
+6	guter	gut	G	1	O
+7	Lage	Lage	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	im	in	P	1	
-5	Terassenstil	Terassenstil	O	1	
-6	gebaut	bauen	V	1	
-7	und	und	C	1	
-8	verfuegt	verfuegt	O	1	
-9	ueber	ueber	O	1	
-10	ca	ca	O	1	
-11	300	300	O	1	
-12	Zimmer	Zimmer	N	1	
-13	,	,	O	1	
-14	die	die	Q	1	
-15	anscheinend	anscheinend	G	1	
-16	erst	erst	A	1	
-17	kuerzlich	kuerzlich	O	1	
-18	modernisiert	modernisieren	V	1	
-19	wurden	werden	V	1	
-20	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	im	in	P	1	O
+5	Terassenstil	Terassenstil	O	1	O
+6	gebaut	bauen	V	1	O
+7	und	und	C	1	O
+8	verfuegt	verfuegt	O	1	O
+9	ueber	ueber	O	1	O
+10	ca	ca	O	1	O
+11	300	300	O	1	O
+12	Zimmer	Zimmer	N	1	O
+13	,	,	O	1	O
+14	die	die	Q	1	O
+15	anscheinend	anscheinend	G	1	O
+16	erst	erst	A	1	O
+17	kuerzlich	kuerzlich	O	1	O
+18	modernisiert	modernisieren	V	1	O
+19	wurden	werden	V	1	O
+20	.	.	O	1	O
 
-1	So	so	A	1	
-2	gut	gut	G	1	
-3	wie	wie	C	1	
-4	alle	alle	Q	1	
-5	Zimmer	Zimmer	N	1	
-6	verfuegen	verfuegen	O	1	
-7	ab	ab	P	1	
-8	Hoehe	Hoehe	O	1	
-9	der	die	D	1	
-10	200	200	O	1	
-11	er	er	Q	1	
-12	Zimmer	Zimmer	N	1	
-13	ueber	ueber	O	1	
-14	Meerblick	Meerblick	N	1	
-15	,	,	O	1	
-16	entweder	entweder	C	1	
-17	ueber	ueber	O	1	
-18	Terasse	Terasse	O	1	
-19	oder	oder	C	1	
-20	Balkon	Balkon	N	1	
-21	.	.	O	1	
+1	So	so	A	1	O
+2	gut	gut	G	1	O
+3	wie	wie	C	1	O
+4	alle	alle	Q	1	O
+5	Zimmer	Zimmer	N	1	O
+6	verfuegen	verfuegen	O	1	O
+7	ab	ab	P	1	O
+8	Hoehe	Hoehe	O	1	O
+9	der	die	D	1	O
+10	200	200	O	1	O
+11	er	er	Q	1	O
+12	Zimmer	Zimmer	N	1	O
+13	ueber	ueber	O	1	O
+14	Meerblick	Meerblick	N	1	O
+15	,	,	O	1	O
+16	entweder	entweder	C	1	O
+17	ueber	ueber	O	1	O
+18	Terasse	Terasse	O	1	O
+19	oder	oder	C	1	O
+20	Balkon	Balkon	N	1	O
+21	.	.	O	1	O
 
-1	Ein	eine	D	1	
-2	Shuttle	Shuttle	O	1	
-3	bringt	bringen	V	1	
-4	einen	eine	D	1	
-5	staendig	staendig	O	1	
-6	zu	zu	P	1	
-7	den	die	D	1	
-8	hoeher	hoeher	O	1	
-9	gelegenen	gelegen	G	1	
-10	Zimmern	Zimmer	N	1	
-11	bzw	bzw	O	1	
-12	zurueck	zurueck	O	1	
-13	zum	zu	P	1	
-14	Restaurant	Restaurant	N	1	
-15	,	,	O	1	
-16	Pool	Pool	N	1	
-17	etc.	etc.	A	1	
-18	Flugzeuge	Flugzeug	N	1	
-19	hoert	hoert	O	1	
-20	man	man	Q	1	
-21	aber	aber	A	1	
-22	nicht	nicht	O	1	
-23	in	in	P	1	
-24	belaestigenderweise	belaestigenderweise	O	1	
-25	.	.	O	1	
+1	Ein	eine	D	1	O
+2	Shuttle	Shuttle	O	1	O
+3	bringt	bringen	V	1	O
+4	einen	eine	D	1	O
+5	staendig	staendig	O	1	O
+6	zu	zu	P	1	O
+7	den	die	D	1	O
+8	hoeher	hoeher	O	1	O
+9	gelegenen	gelegen	G	1	O
+10	Zimmern	Zimmer	N	1	O
+11	bzw	bzw	O	1	O
+12	zurueck	zurueck	O	1	O
+13	zum	zu	P	1	O
+14	Restaurant	Restaurant	N	1	O
+15	,	,	O	1	O
+16	Pool	Pool	N	1	O
+17	etc.	etc.	A	1	O
+18	Flugzeuge	Flugzeug	N	1	O
+19	hoert	hoert	O	1	O
+20	man	man	Q	1	O
+21	aber	aber	A	1	O
+22	nicht	nicht	O	1	O
+23	in	in	P	1	O
+24	belaestigenderweise	belaestigenderweise	O	1	O
+25	.	.	O	1	O
 
-1	Im	in	P	1	
-2	Hotelanlage	Hotelanlage	N	1	
-3	wird	werden	V	1	
-4	sich	sich	Q	1	
-5	in	in	P	1	
-6	der	die	D	1	
-7	Nacht	Nacht	N	1	
-8	ruecksichtsvoll	ruecksichtsvoll	O	1	
-9	verhalten	verhalten	V	1	
-10	.	.	O	1	
+1	Im	in	P	1	O
+2	Hotelanlage	Hotelanlage	N	1	O
+3	wird	werden	V	1	O
+4	sich	sich	Q	1	O
+5	in	in	P	1	O
+6	der	die	D	1	O
+7	Nacht	Nacht	N	1	O
+8	ruecksichtsvoll	ruecksichtsvoll	O	1	O
+9	verhalten	verhalten	V	1	O
+10	.	.	O	1	O
 
-1	Im	in	P	1	
-2	Mai	Mai	N	1	
-3	besuchen	besuchen	V	1	
-4	vorwiegend	vorwiegend	G	1	
-5	Stammgaeste	Stammgaeste	O	1	
-6	(	(	O	1	
-7	DE	DE	R	1	
-8	,	,	O	1	
-9	AT	AT	R	1	
-10	,	,	O	1	
-11	CH	CH	O	1	
-12	,	,	O	1	
-13	GB	GB	O	1	
-14	)	)	O	1	
-15	ziwschen	ziwschen	O	1	
-16	30	30	O	1	
-17	·	·	O	1	
-18	60	60	O	1	
-19	Jahren	Jahr	N	1	
-20	das	die	D	1	
-21	Hotel	Hotel	N	1	
-22	.	.	O	1	
+1	Im	in	P	1	O
+2	Mai	Mai	N	1	O
+3	besuchen	besuchen	V	1	O
+4	vorwiegend	vorwiegend	G	1	O
+5	Stammgaeste	Stammgaeste	O	1	O
+6	(	(	O	1	O
+7	DE	DE	R	1	O
+8	,	,	O	1	O
+9	AT	AT	R	1	O
+10	,	,	O	1	O
+11	CH	CH	O	1	O
+12	,	,	O	1	O
+13	GB	GB	O	1	O
+14	)	)	O	1	O
+15	ziwschen	ziwschen	O	1	O
+16	30	30	O	1	O
+17	·	·	O	1	O
+18	60	60	O	1	O
+19	Jahren	Jahr	N	1	O
+20	das	die	D	1	O
+21	Hotel	Hotel	N	1	O
+22	.	.	O	1	O
 
-1	Der	die	D	1	
-2	schmale	schmal	G	1	
-3	Felsenstrand	Felsenstrand	O	1	
-4	ist	sein	V	1	
-5	vor	vor	P	1	
-6	der	die	D	1	
-7	Tuer	Tuer	O	1	
-8	,	,	O	1	
-9	aber	aber	A	1	
-10	schoenere	schoenere	O	1	
-11	gibt	geben	V	1	
-12	es	es	Q	1	
-13	in	in	P	1	
-14	ca	ca	O	1	
-15	15	15	O	1	
-16	Autominuten	Autominute	N	1	
-17	.	.	O	1	
+1	Der	die	D	1	O
+2	schmale	schmal	G	1	O
+3	Felsenstrand	Felsenstrand	O	1	O
+4	ist	sein	V	1	O
+5	vor	vor	P	1	O
+6	der	die	D	1	O
+7	Tuer	Tuer	O	1	O
+8	,	,	O	1	O
+9	aber	aber	A	1	O
+10	schoenere	schoenere	O	1	O
+11	gibt	geben	V	1	O
+12	es	es	Q	1	O
+13	in	in	P	1	O
+14	ca	ca	O	1	O
+15	15	15	O	1	O
+16	Autominuten	Autominute	N	1	O
+17	.	.	O	1	O
 

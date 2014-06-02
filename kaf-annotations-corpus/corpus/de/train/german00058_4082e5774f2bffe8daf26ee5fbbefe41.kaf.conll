@@ -1,120 +1,120 @@
-1	Absoluter	absolut	G	1	
-2	Traumurlaub	Traumurlaub	N	1	
+1	Absoluter	absolut	G	1	O
+2	Traumurlaub	Traumurlaub	N	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	ein	eine	D	1	
-5	kleines	klein	G	1	
-6	aber	aber	C	1	
-7	feines	fein	G	1	
-8	Hotel	Hotel	N	1	
-9	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	ein	eine	D	1	O
+5	kleines	klein	G	1	O
+6	aber	aber	C	1	O
+7	feines	fein	G	1	O
+8	Hotel	Hotel	N	1	O
+9	.	.	O	1	O
 
-1	Alle	alle	Q	1	
-2	Zimmer	Zimmer	N	1	
-3	haben	haben	V	1	
-4	Meerblick.	meerblick.	N	1	
-5	offen	offen	G	1	
-6	zugängigen	zugängig	G	1	
-7	Räume	Raum	N	1	
-8	sind	sein	V	1	
-9	geschmackvoll	geschmackvoll	G	1	
-10	und	und	C	1	
-11	farblich	farblich	G	1	
-12	aufeinander	aufeinander	A	1	
-13	abgestimmt	abgestimmt	G	1	
-14	eingerichtet	einrichten	V	1	
-15	.	.	O	1	
+1	Alle	alle	Q	1	O
+2	Zimmer	Zimmer	N	1	O
+3	haben	haben	V	1	O
+4	Meerblick.	meerblick.	N	1	O
+5	offen	offen	G	1	O
+6	zugängigen	zugängig	G	1	O
+7	Räume	Raum	N	1	O
+8	sind	sein	V	1	O
+9	geschmackvoll	geschmackvoll	G	1	O
+10	und	und	C	1	O
+11	farblich	farblich	G	1	O
+12	aufeinander	aufeinander	A	1	O
+13	abgestimmt	abgestimmt	G	1	O
+14	eingerichtet	einrichten	V	1	O
+15	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Toiletten	Toilette	N	1	
-3	im	in	P	1	
-4	Rezeptionsbereich	Rezeptionsbereich	O	1	
-5	sind	sein	V	1	
-6	sehr	sehr	A	1	
-7	modern	modern	V	1	
-8	und	und	C	1	
-9	die	die	D	1	
-10	Beleuchtung	Beleuchtung	N	1	
-11	funktioniert	funktionieren	V	1	
-12	über	über	P	1	
-13	einen	eine	D	1	
-14	Bewegungsmelder	Bewegungsmelder	N	1	
-15	.	.	O	1	
+1	Die	die	D	1	O
+2	Toiletten	Toilette	N	1	O
+3	im	in	P	1	O
+4	Rezeptionsbereich	Rezeptionsbereich	O	1	O
+5	sind	sein	V	1	O
+6	sehr	sehr	A	1	O
+7	modern	modern	V	1	O
+8	und	und	C	1	O
+9	die	die	D	1	O
+10	Beleuchtung	Beleuchtung	N	1	O
+11	funktioniert	funktionieren	V	1	O
+12	über	über	P	1	O
+13	einen	eine	D	1	O
+14	Bewegungsmelder	Bewegungsmelder	N	1	O
+15	.	.	O	1	O
 
-1	So	so	A	1	
-2	lässt	lassen	V	1	
-3	sich	sich	Q	1	
-4	Energie	Energie	N	1	
-5	sparen	sparen	V	1	
-6	.	.	O	1	
+1	So	so	A	1	O
+2	lässt	lassen	V	1	O
+3	sich	sich	Q	1	O
+4	Energie	Energie	N	1	O
+5	sparen	sparen	V	1	O
+6	.	.	O	1	O
 
-1	Frühstück	Frühstück	N	1	
-2	und	und	C	1	
-3	Abendessen	Abendessen	N	1	
-4	in	in	P	1	
-5	Büffetform	Büffetform	O	1	
-6	.	.	O	1	
+1	Frühstück	Frühstück	N	1	O
+2	und	und	C	1	O
+3	Abendessen	Abendessen	N	1	O
+4	in	in	P	1	O
+5	Büffetform	Büffetform	O	1	O
+6	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	war	sein	V	1	
-3	alles	alle	Q	1	
-4	in	in	P	1	
-5	ausreichender	ausreichend	G	1	
-6	Menge	Menge	N	1	
-7	vorhanden	vorhanden	G	1	
-8	.	.	O	1	
+1	Es	es	Q	1	O
+2	war	sein	V	1	O
+3	alles	alle	Q	1	O
+4	in	in	P	1	O
+5	ausreichender	ausreichend	G	1	O
+6	Menge	Menge	N	1	O
+7	vorhanden	vorhanden	G	1	O
+8	.	.	O	1	O
 
-1	Wer	wer	Q	1	
-2	mag	mögen	V	1	
-3	,	,	O	1	
-4	kann	können	V	1	
-5	jeden	jede	Q	1	
-6	Morgen	Morgen	N	1	
-7	zum	zu	P	1	
-8	Frühstück	Frühstück	N	1	
-9	ein	eine	D	1	
-10	Glas	Glas	N	1	
-11	Sekt	Sekt	N	1	
-12	nehmen	nehmen	V	1	
-13	.	.	O	1	
+1	Wer	wer	Q	1	O
+2	mag	mögen	V	1	O
+3	,	,	O	1	O
+4	kann	können	V	1	O
+5	jeden	jede	Q	1	O
+6	Morgen	Morgen	N	1	O
+7	zum	zu	P	1	O
+8	Frühstück	Frühstück	N	1	O
+9	ein	eine	D	1	O
+10	Glas	Glas	N	1	O
+11	Sekt	Sekt	N	1	O
+12	nehmen	nehmen	V	1	O
+13	.	.	O	1	O
 
-1	Im	in	P	1	
-2	September	September	R	1	ne=Date
-3	waren	sein	V	1	
-4	größtenteils	größtenteils	A	1	
-5	ältere	alt	G	1	
-6	Paare	Paar	N	1	
-7	unter	unter	P	1	
-8	den	die	D	1	
-9	Gästen	Gast	N	1	
-10	.	.	O	1	
+1	Im	in	P	1	O
+2	September	September	R	1	I-Date
+3	waren	sein	V	1	O
+4	größtenteils	größtenteils	A	1	O
+5	ältere	alt	G	1	O
+6	Paare	Paar	N	1	O
+7	unter	unter	P	1	O
+8	den	die	D	1	O
+9	Gästen	Gast	N	1	O
+10	.	.	O	1	O
 
-1	Im	in	P	1	
-2	großen	groß	G	1	
-3	und	und	C	1	
-4	ganzen	ganz	G	1	
-5	ein	eine	D	1	
-6	recht	recht	G	1	
-7	angenehmes	angenehm	G	1	
-8	Publikum	Publikum	N	1	
-9	.	.	O	1	
+1	Im	in	P	1	O
+2	großen	groß	G	1	O
+3	und	und	C	1	O
+4	ganzen	ganz	G	1	O
+5	ein	eine	D	1	O
+6	recht	recht	G	1	O
+7	angenehmes	angenehm	G	1	O
+8	Publikum	Publikum	N	1	O
+9	.	.	O	1	O
 
-1	Außerdem	außerdem	A	1	
-2	haben	haben	V	1	
-3	wir	wir	Q	1	
-4	die	die	D	1	
-5	Ruhe	Ruhe	N	1	
-6	sehr	sehr	A	1	
-7	genossen	genießen	V	1	
-8	.	.	O	1	
+1	Außerdem	außerdem	A	1	O
+2	haben	haben	V	1	O
+3	wir	wir	Q	1	O
+4	die	die	D	1	O
+5	Ruhe	Ruhe	N	1	O
+6	sehr	sehr	A	1	O
+7	genossen	genießen	V	1	O
+8	.	.	O	1	O
 
-1	Man	man	Q	1	
-2	kann	können	V	1	
-3	hier	hier	A	1	
-4	richtig	richtig	G	1	
-5	gut	gut	G	1	
-6	entspannen	entspannen	V	1	
-7	.	.	O	1	
+1	Man	man	Q	1	O
+2	kann	können	V	1	O
+3	hier	hier	A	1	O
+4	richtig	richtig	G	1	O
+5	gut	gut	G	1	O
+6	entspannen	entspannen	V	1	O
+7	.	.	O	1	O
 

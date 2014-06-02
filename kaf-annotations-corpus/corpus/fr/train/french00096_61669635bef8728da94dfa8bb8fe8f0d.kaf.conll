@@ -1,109 +1,109 @@
-1	Très	Très	G	1	
-2	mauvais	mauvais	G	1	
-3	accueil	accueil	N	1	
-4	de	de	P	1	
-5	la	le	D	1	
-6	part	part	N	1	
-7	du	du	D	1	
-8	personnel	personnel	N	1	
+1	Très	Très	G	1	O
+2	mauvais	mauvais	G	1	O
+3	accueil	accueil	N	1	O
+4	de	de	P	1	O
+5	la	le	D	1	O
+6	part	part	N	1	O
+7	du	du	D	1	O
+8	personnel	personnel	N	1	O
 
-1	Le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	désagréable	désagréable	G	1	
-6	.	.	O	1	
+1	Le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	désagréable	désagréable	G	1	O
+6	.	.	O	1	O
 
-1	Après	Après	P	1	
-2	qu'	qu'	P	1	
-3	une	un	D	1	
-4	jeune	jeune	G	1	
-5	fille	fille	N	1	
-6	de	de	P	1	
-7	l'	le	D	1	
-8	accueil	accueil	N	1	
-9	nous	lui	Q	1	
-10	ait	avoir	V	1	
-11	fait	faire	V	1	
-12	attendre	attendre	V	1	
-13	long	long	G	1	
-14	moment	moment	N	1	
-15	pour	pour	P	1	
-16	une	un	D	1	
-17	histoire	histoire	N	1	
-18	de	de	P	1	
-19	carte	carte	N	1	
-20	d'	d'	P	1	
-21	identitée	identitée	N	1	
-22	(	(	O	1	
-23	le	le	D	1	
-24	contrôle	contrôle	N	1	
-25	d'	d'	P	1	
-26	identité	identité	N	1	
-27	pour	pour	P	1	
-28	un	un	D	1	
-29	hébergement	hébergement	N	1	
-30	de	de	P	1	
-31	ce	ce	D	1	
-32	type	type	N	1	
-33	parait	parer	V	1	
-34	assez	assez	G	1	
-35	inutile	inutile	G	1	
-36	)	)	O	1	
-37	sans	sans]	P	1	
-38	nous	lui	Q	1	
-39	donner	donner	V	1	
-40	trop	trop	G	1	
-41	d'	d'	P	1	
-42	informations	information	N	1	
-43	,	,	O	1	
-44	le	le	D	1	
-45	gérant	gérant	N	1	
-46	nous	lui	Q	1	
-47	a	avoir	V	1	
-48	dit	dire	V	1	
-49	que	que	C	1	
-50	si	si	C	1	
-51	nous	lui	Q	1	
-52	n'	n'	G	1	
-53	étions	être	V	1	
-54	pas	pas	G	1	
-55	contents	content	G	1	
-56	nous	lui	Q	1	
-57	pouvions	pouvoir	V	1	
-58	rentrer	rentrer	V	1	
-59	en	en	P	1	
-60	france	france	R	1	ne=Location
-61	et	et	C	1	
-62	qu'	qu'	C	1	
-63	il	il	Q	1	
-64	garderait	garder	V	1	
-65	l'	le	D	1	
-66	accompte	accompte	V	1	
-67	.	.	O	1	
+1	Après	Après	P	1	O
+2	qu'	qu'	P	1	O
+3	une	un	D	1	O
+4	jeune	jeune	G	1	O
+5	fille	fille	N	1	O
+6	de	de	P	1	O
+7	l'	le	D	1	O
+8	accueil	accueil	N	1	O
+9	nous	lui	Q	1	O
+10	ait	avoir	V	1	O
+11	fait	faire	V	1	O
+12	attendre	attendre	V	1	O
+13	long	long	G	1	O
+14	moment	moment	N	1	O
+15	pour	pour	P	1	O
+16	une	un	D	1	O
+17	histoire	histoire	N	1	O
+18	de	de	P	1	O
+19	carte	carte	N	1	O
+20	d'	d'	P	1	O
+21	identitée	identitée	N	1	O
+22	(	(	O	1	O
+23	le	le	D	1	O
+24	contrôle	contrôle	N	1	O
+25	d'	d'	P	1	O
+26	identité	identité	N	1	O
+27	pour	pour	P	1	O
+28	un	un	D	1	O
+29	hébergement	hébergement	N	1	O
+30	de	de	P	1	O
+31	ce	ce	D	1	O
+32	type	type	N	1	O
+33	parait	parer	V	1	O
+34	assez	assez	G	1	O
+35	inutile	inutile	G	1	O
+36	)	)	O	1	O
+37	sans	sans]	P	1	O
+38	nous	lui	Q	1	O
+39	donner	donner	V	1	O
+40	trop	trop	G	1	O
+41	d'	d'	P	1	O
+42	informations	information	N	1	O
+43	,	,	O	1	O
+44	le	le	D	1	O
+45	gérant	gérant	N	1	O
+46	nous	lui	Q	1	O
+47	a	avoir	V	1	O
+48	dit	dire	V	1	O
+49	que	que	C	1	O
+50	si	si	C	1	O
+51	nous	lui	Q	1	O
+52	n'	n'	G	1	O
+53	étions	être	V	1	O
+54	pas	pas	G	1	O
+55	contents	content	G	1	O
+56	nous	lui	Q	1	O
+57	pouvions	pouvoir	V	1	O
+58	rentrer	rentrer	V	1	O
+59	en	en	P	1	O
+60	france	france	R	1	I-Location
+61	et	et	C	1	O
+62	qu'	qu'	C	1	O
+63	il	il	Q	1	O
+64	garderait	garder	V	1	O
+65	l'	le	D	1	O
+66	accompte	accompte	V	1	O
+67	.	.	O	1	O
 
-1	Je	Je	Q	1	
-2	déconseille	déconseiller	V	1	
-3	donc	donc	G	1	
-4	cette	ce	D	1	
-5	auberge	auberge	N	1	
-6	,	,	O	1	
-7	sans	sans]	P	1	
-8	en	en	Q	1	
-9	avoir	avoir	V	1	
-10	vu	voir	V	1	
-11	les	le	D	1	
-12	chambres	chambre	N	1	
-13	,	,	O	1	
-14	mais	mais	C	1	
-15	simplement	simplement	G	1	
-16	parce	parce	C	1	
-17	que	que	C	1	
-18	ce	ce	D	1	
-19	genre	genre	N	1	
-20	d'	d'	P	1	
-21	acceuil	acceuil	N	1	
-22	est	être	V	1	
-23	intolérable	intolérable	G	1	
-24	.	.	O	1	
+1	Je	Je	Q	1	O
+2	déconseille	déconseiller	V	1	O
+3	donc	donc	G	1	O
+4	cette	ce	D	1	O
+5	auberge	auberge	N	1	O
+6	,	,	O	1	O
+7	sans	sans]	P	1	O
+8	en	en	Q	1	O
+9	avoir	avoir	V	1	O
+10	vu	voir	V	1	O
+11	les	le	D	1	O
+12	chambres	chambre	N	1	O
+13	,	,	O	1	O
+14	mais	mais	C	1	O
+15	simplement	simplement	G	1	O
+16	parce	parce	C	1	O
+17	que	que	C	1	O
+18	ce	ce	D	1	O
+19	genre	genre	N	1	O
+20	d'	d'	P	1	O
+21	acceuil	acceuil	N	1	O
+22	est	être	V	1	O
+23	intolérable	intolérable	G	1	O
+24	.	.	O	1	O
 

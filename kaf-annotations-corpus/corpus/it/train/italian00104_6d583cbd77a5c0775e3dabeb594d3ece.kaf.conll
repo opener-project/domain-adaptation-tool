@@ -1,170 +1,170 @@
-1	Mai	mai	A	1	
-2	più	piu'	A	1	
+1	Mai	mai	A	1	O
+2	più	piu'	A	1	O
 
-1	il	lo	D	1	
-2	giorno	giorno	N	1	
-3	che	che	Q	1	
-4	siamo	essere	V	1	
-5	arrivati	arrivare	V	1	
-6	abbiamo	avere	V	1	
-7	portato	portare	V	1	
-8	noi	noi	Q	1	
-9	i	lo	D	1	
-10	bagagli	bagaglio	N	1	
-11	in	in	P	1	
-12	camera	camera	N	1	
-13	come	come	A	1	
-14	facchini	facchino	R	1	
-15	,	,	O	1	
-16	la	lo	D	1	
-17	pulizia	pulizia	N	1	
-18	scarsa	scarso	G	1	
-19	nelle	nelle	P	1	
-20	stanze	stanza	N	1	
-21	,	,	O	1	
-22	lettini	lettino	N	1	
-23	sempre	sempre	A	1	
-24	occupati	occupare	V	1	
-25	ma	ma	Q	1	
-26	solo	solo	G	1	
-27	da	da	P	1	
-28	asciugamani	asciugamano	N	1	
-29	che	che	Q	1	
-30	provvedeva	provvedere	V	1	
-31	a	a	P	1	
-32	mettere	mettere	V	1	
-33	il	lo	D	1	
-34	bagnino	bagnino	N	1	
-35	dietro	dietro	P	1	
-36	compenso	compenso	N	1	
-37	.	.	O	1	
+1	il	lo	D	1	O
+2	giorno	giorno	N	1	O
+3	che	che	Q	1	O
+4	siamo	essere	V	1	O
+5	arrivati	arrivare	V	1	O
+6	abbiamo	avere	V	1	O
+7	portato	portare	V	1	O
+8	noi	noi	Q	1	O
+9	i	lo	D	1	O
+10	bagagli	bagaglio	N	1	O
+11	in	in	P	1	O
+12	camera	camera	N	1	O
+13	come	come	A	1	O
+14	facchini	facchino	R	1	O
+15	,	,	O	1	O
+16	la	lo	D	1	O
+17	pulizia	pulizia	N	1	O
+18	scarsa	scarso	G	1	O
+19	nelle	nelle	P	1	O
+20	stanze	stanza	N	1	O
+21	,	,	O	1	O
+22	lettini	lettino	N	1	O
+23	sempre	sempre	A	1	O
+24	occupati	occupare	V	1	O
+25	ma	ma	Q	1	O
+26	solo	solo	G	1	O
+27	da	da	P	1	O
+28	asciugamani	asciugamano	N	1	O
+29	che	che	Q	1	O
+30	provvedeva	provvedere	V	1	O
+31	a	a	P	1	O
+32	mettere	mettere	V	1	O
+33	il	lo	D	1	O
+34	bagnino	bagnino	N	1	O
+35	dietro	dietro	P	1	O
+36	compenso	compenso	N	1	O
+37	.	.	O	1	O
 
-1	Di	di	P	1	
-2	italiano	italiano	N	1	
-3	non	non	A	1	
-4	c'	c'	A	1	
-5	era	essere	V	1	
-6	niente	niente	A	1	
-7	il	lo	D	1	
-8	cuoco	cuoco	N	1	
-9	sapeva	sapeva	V	1	
-10	solo	solo	A	1	
-11	scolare	scolare	V	1	
-12	la	lo	D	1	
-13	pasta	pasta	N	1	
-14	.	.	O	1	
+1	Di	di	P	1	O
+2	italiano	italiano	N	1	O
+3	non	non	A	1	O
+4	c'	c'	A	1	O
+5	era	essere	V	1	O
+6	niente	niente	A	1	O
+7	il	lo	D	1	O
+8	cuoco	cuoco	N	1	O
+9	sapeva	sapeva	V	1	O
+10	solo	solo	A	1	O
+11	scolare	scolare	V	1	O
+12	la	lo	D	1	O
+13	pasta	pasta	N	1	O
+14	.	.	O	1	O
 
-1	Tutto	tutto	G	1	
-2	il	lo	D	1	
-3	buffet	buffet	N	1	
-4	a	a	P	1	
-5	colazione	colazione	N	1	
-6	a	a	P	1	
-7	pranzo	pranzo	N	1	
-8	e	e	Q	1	
-9	a	a	P	1	
-10	cena	cena	N	1	
-11	era	era	N	1	
-12	alla	alla	P	1	
-13	mercè	merce'	N	1	
-14	delle	delle	P	1	
-15	mosche	mosca	N	1	
-16	.	.	O	1	
+1	Tutto	tutto	G	1	O
+2	il	lo	D	1	O
+3	buffet	buffet	N	1	O
+4	a	a	P	1	O
+5	colazione	colazione	N	1	O
+6	a	a	P	1	O
+7	pranzo	pranzo	N	1	O
+8	e	e	Q	1	O
+9	a	a	P	1	O
+10	cena	cena	N	1	O
+11	era	era	N	1	O
+12	alla	alla	P	1	O
+13	mercè	merce'	N	1	O
+14	delle	delle	P	1	O
+15	mosche	mosca	N	1	O
+16	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	cibo	cibo	N	1	
-3	è	è	R	1	
-4	stato	stato	N	1	
-5	di	di	P	1	
-6	scarsa	scarso	G	1	
-7	qualità	qualita'	R	1	
-8	e	e	Q	1	
-9	poca	poco	G	1	
-10	varietà	varieta'	R	1	
-11	in	in	P	1	
-12	.	.	O	1	
+1	Il	lo	D	1	O
+2	cibo	cibo	N	1	O
+3	è	è	R	1	O
+4	stato	stato	N	1	O
+5	di	di	P	1	O
+6	scarsa	scarso	G	1	O
+7	qualità	qualita'	R	1	O
+8	e	e	Q	1	O
+9	poca	poco	G	1	O
+10	varietà	varieta'	R	1	O
+11	in	in	P	1	O
+12	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	animazione	animazione	N	1	
-3	è	è	R	1	
-4	scarsa	scarso	G	1	
-5	.	.	O	1	
+1	L'	lo	D	1	O
+2	animazione	animazione	N	1	O
+3	è	è	R	1	O
+4	scarsa	scarso	G	1	O
+5	.	.	O	1	O
 
-1	Nessuno	nessuno	Q	1	
-2	nel	nel	P	1	
-3	villaggio	villaggio	N	1	
-4	parla	parlare	V	1	
-5	italiano	italiano	N	1	
-6	a	a	P	1	
-7	parte	parte	N	1	
-8	lo	lo	D	1	
-9	staff	staff	N	1	
-10	di	di	P	1	
-11	Eden	eden	R	1	ne=Hotel
-12	,	,	O	1	
-13	tutti	tutti	Q	1	
-14	gli	lo	D	1	
-15	altri	altri	Q	1	
-16	parlano	parlare	V	1	
-17	turco	turco	A	1	
-18	e	e	Q	1	
-19	solo	solo	A	1	
-20	qualcuno	qualcuno	Q	1	
-21	parla	parlare	V	1	
-22	un	uno	D	1	
-23	po'	po'	A	1	
-24	di	di	P	1	
-25	inglese	inglese	G	1	
-26	rendendo	rendendo	O	1	
-27	la	lo	D	1	
-28	comunicazione	comunicazione	N	1	
-29	difficile	difficile	G	1	
-30	.	.	O	1	
+1	Nessuno	nessuno	Q	1	O
+2	nel	nel	P	1	O
+3	villaggio	villaggio	N	1	O
+4	parla	parlare	V	1	O
+5	italiano	italiano	N	1	O
+6	a	a	P	1	O
+7	parte	parte	N	1	O
+8	lo	lo	D	1	O
+9	staff	staff	N	1	O
+10	di	di	P	1	O
+11	Eden	eden	R	1	I-Hotel
+12	,	,	O	1	O
+13	tutti	tutti	Q	1	O
+14	gli	lo	D	1	O
+15	altri	altri	Q	1	O
+16	parlano	parlare	V	1	O
+17	turco	turco	A	1	O
+18	e	e	Q	1	O
+19	solo	solo	A	1	O
+20	qualcuno	qualcuno	Q	1	O
+21	parla	parlare	V	1	O
+22	un	uno	D	1	O
+23	po'	po'	A	1	O
+24	di	di	P	1	O
+25	inglese	inglese	G	1	O
+26	rendendo	rendendo	O	1	O
+27	la	lo	D	1	O
+28	comunicazione	comunicazione	N	1	O
+29	difficile	difficile	G	1	O
+30	.	.	O	1	O
 
-1	Lo	lo	D	1	
-2	spettacolo	spettacolo	N	1	
-3	serale	serale	G	1	
-4	è	è	G	1	
-5	stato	essere	V	1	
-6	piacevole	piacevole	G	1	
-7	solo	solo	A	1	
-8	quando	quando	Q	1	
-9	gli	gli	Q	1	
-10	animatori	animatore	N	1	
-11	lasciavano	lasciare	V	1	
-12	il	lo	D	1	
-13	palco	palco	N	1	
-14	a	a	P	1	
-15	persone	persona	N	1	
-16	esterne	esterno	G	1	
-17	.	.	O	1	
+1	Lo	lo	D	1	O
+2	spettacolo	spettacolo	N	1	O
+3	serale	serale	G	1	O
+4	è	è	G	1	O
+5	stato	essere	V	1	O
+6	piacevole	piacevole	G	1	O
+7	solo	solo	A	1	O
+8	quando	quando	Q	1	O
+9	gli	gli	Q	1	O
+10	animatori	animatore	N	1	O
+11	lasciavano	lasciare	V	1	O
+12	il	lo	D	1	O
+13	palco	palco	N	1	O
+14	a	a	P	1	O
+15	persone	persona	N	1	O
+16	esterne	esterno	G	1	O
+17	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	villaggio	villaggio	N	1	
-3	è	è	R	1	
-4	molto	molto	A	1	
-5	isolato	isolare	V	1	
-6	e	e	Q	1	
-7	per	per	P	1	
-8	gli	lo	D	1	
-9	spostamenti	spostamento	N	1	
-10	c'	c'	A	1	
-11	è	è	R	1	
-12	stato	essere	V	1	
-13	un	uno	D	1	
-14	ulteriore	ulteriore	G	1	
-15	aggravio	aggravio	N	1	
-16	di	di	P	1	
-17	spese	spesa	N	1	
-18	.	.	O	1	
+1	Il	lo	D	1	O
+2	villaggio	villaggio	N	1	O
+3	è	è	R	1	O
+4	molto	molto	A	1	O
+5	isolato	isolare	V	1	O
+6	e	e	Q	1	O
+7	per	per	P	1	O
+8	gli	lo	D	1	O
+9	spostamenti	spostamento	N	1	O
+10	c'	c'	A	1	O
+11	è	è	R	1	O
+12	stato	essere	V	1	O
+13	un	uno	D	1	O
+14	ulteriore	ulteriore	G	1	O
+15	aggravio	aggravio	N	1	O
+16	di	di	P	1	O
+17	spese	spesa	N	1	O
+18	.	.	O	1	O
 
-1	Adesso	adesso	A	1	
-2	mi	mi	Q	1	
-3	chiedo	chiedere	V	1	
-4	come	come	A	1	
-5	Zoover	zoover	V	1	
-6	raccomandi	raccomandare	V	1	
-7	questa	questa	G	1	
-8	struttura	struttura	N	1	
-9	.	.	O	1	
+1	Adesso	adesso	A	1	O
+2	mi	mi	Q	1	O
+3	chiedo	chiedere	V	1	O
+4	come	come	A	1	O
+5	Zoover	zoover	V	1	O
+6	raccomandi	raccomandare	V	1	O
+7	questa	questa	G	1	O
+8	struttura	struttura	N	1	O
+9	.	.	O	1	O
 

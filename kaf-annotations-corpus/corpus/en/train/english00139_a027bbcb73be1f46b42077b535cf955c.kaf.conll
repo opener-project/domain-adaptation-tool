@@ -1,139 +1,139 @@
-1	Сlaiming	сlaiming	V	1	
-2	to	to	P	1	
-3	be	be	V	1	
-4	luxury	luxury	N	1	
+1	Сlaiming	сlaiming	V	1	O
+2	to	to	P	1	O
+3	be	be	V	1	O
+4	luxury	luxury	N	1	O
 
-1	I	i	Q	1	
-2	enjoyed	enjoy	V	1	
-3	my	my	Q	1	
-4	3	3	O	1	
-5	·	·	N	1	
-6	night	night	G	1	
-7	stay	stay	N	1	
-8	in	in	P	1	
-9	the	the	D	1	
-10	hotel	hotel	N	1	
-11	,	,	O	1	
-12	the	the	D	1	
-13	room	room	N	1	
-14	was	be	V	1	
-15	very	very	A	1	
-16	clean	clean	G	1	
-17	,	,	O	1	
-18	well	well	A	1	
-19	equipped	equip	V	1	
-20	but	but	C	1	
-21	too	too	A	1	
-22	huge	huge	G	1	
-23	for	for	P	1	
-24	me	me	Q	1	
-25	(	(	O	1	
-26	I	i	Q	1	
-27	don	don	V	1	
-28	't	't	A	1	
-29	think	think	V	1	
-30	that	that	P	1	
-31	many	many	G	1	
-32	people	person	N	1	
-33	need	need	V	1	
-34	50	50	O	1	
-35	sq.m	sq.m	G	1	
-36	hotel	hotel	N	1	
-37	room	room	N	1	
-38	)	)	O	1	
-39	.	.	O	1	
+1	I	i	Q	1	O
+2	enjoyed	enjoy	V	1	O
+3	my	my	Q	1	O
+4	3	3	O	1	O
+5	·	·	N	1	O
+6	night	night	G	1	O
+7	stay	stay	N	1	O
+8	in	in	P	1	O
+9	the	the	D	1	O
+10	hotel	hotel	N	1	O
+11	,	,	O	1	O
+12	the	the	D	1	O
+13	room	room	N	1	O
+14	was	be	V	1	O
+15	very	very	A	1	O
+16	clean	clean	G	1	O
+17	,	,	O	1	O
+18	well	well	A	1	O
+19	equipped	equip	V	1	O
+20	but	but	C	1	O
+21	too	too	A	1	O
+22	huge	huge	G	1	O
+23	for	for	P	1	O
+24	me	me	Q	1	O
+25	(	(	O	1	O
+26	I	i	Q	1	O
+27	don	don	V	1	O
+28	't	't	A	1	O
+29	think	think	V	1	O
+30	that	that	P	1	O
+31	many	many	G	1	O
+32	people	person	N	1	O
+33	need	need	V	1	O
+34	50	50	O	1	O
+35	sq.m	sq.m	G	1	O
+36	hotel	hotel	N	1	O
+37	room	room	N	1	O
+38	)	)	O	1	O
+39	.	.	O	1	O
 
-1	Generally	generally	A	1	
-2	the	the	D	1	
-3	hotel	hotel	N	1	
-4	is	be	V	1	
-5	not	not	A	1	
-6	cozy	cozy	G	1	
-7	,	,	O	1	
-8	looks	look	V	1	
-9	like	like	P	1	
-10	a	a	D	1	
-11	huge	huge	G	1	
-12	palace	palace	N	1	
-13	not	not	A	1	
-14	very	very	A	1	
-15	well	well	A	1	
-16	utilized	utilize	V	1	
-17	.	.	O	1	
+1	Generally	generally	A	1	O
+2	the	the	D	1	O
+3	hotel	hotel	N	1	O
+4	is	be	V	1	O
+5	not	not	A	1	O
+6	cozy	cozy	G	1	O
+7	,	,	O	1	O
+8	looks	look	V	1	O
+9	like	like	P	1	O
+10	a	a	D	1	O
+11	huge	huge	G	1	O
+12	palace	palace	N	1	O
+13	not	not	A	1	O
+14	very	very	A	1	O
+15	well	well	A	1	O
+16	utilized	utilize	V	1	O
+17	.	.	O	1	O
 
-1	Although	although	P	1	
-2	view	view	N	1	
-3	of	of	P	1	
-4	the	the	D	1	
-5	mountains	mountain	N	1	
-6	from	from	P	1	
-7	my	my	Q	1	
-8	balcony	balcony	N	1	
-9	was	be	V	1	
-10	very	very	A	1	
-11	nice	nice	G	1	
-12	.	.	O	1	
+1	Although	although	P	1	O
+2	view	view	N	1	O
+3	of	of	P	1	O
+4	the	the	D	1	O
+5	mountains	mountain	N	1	O
+6	from	from	P	1	O
+7	my	my	Q	1	O
+8	balcony	balcony	N	1	O
+9	was	be	V	1	O
+10	very	very	A	1	O
+11	nice	nice	G	1	O
+12	.	.	O	1	O
 
-1	I	i	Q	1	
-2	liked	like	V	1	
-3	the	the	D	1	
-4	spacious	spacious	G	1	
-5	pool	pool	N	1	
-6	area	area	N	1	
-7	,	,	O	1	
-8	sauna	sauna	N	1	
-9	and	and	C	1	
-10	hamam	hamam	N	1	
-11	.	.	O	1	
+1	I	i	Q	1	O
+2	liked	like	V	1	O
+3	the	the	D	1	O
+4	spacious	spacious	G	1	O
+5	pool	pool	N	1	O
+6	area	area	N	1	O
+7	,	,	O	1	O
+8	sauna	sauna	N	1	O
+9	and	and	C	1	O
+10	hamam	hamam	N	1	O
+11	.	.	O	1	O
 
-1	It	it	Q	1	
-2	happened	happen	V	1	
-3	that	that	P	1	
-4	I	i	Q	1	
-5	was	be	V	1	
-6	the	the	D	1	
-7	only	only	G	1	
-8	one	one	O	1	
-9	visitor	visitor	N	1	
-10	each	each	D	1	
-11	time	time	N	1	
-12	I	i	Q	1	
-13	came	come	V	1	
-14	.	.	O	1	
+1	It	it	Q	1	O
+2	happened	happen	V	1	O
+3	that	that	P	1	O
+4	I	i	Q	1	O
+5	was	be	V	1	O
+6	the	the	D	1	O
+7	only	only	G	1	O
+8	one	one	O	1	O
+9	visitor	visitor	N	1	O
+10	each	each	D	1	O
+11	time	time	N	1	O
+12	I	i	Q	1	O
+13	came	come	V	1	O
+14	.	.	O	1	O
 
-1	Free	free	G	1	
-2	wifi	wifi	N	1	
-3	was	be	V	1	
-4	of	of	P	1	
-5	a	a	D	1	
-6	decent	decent	G	1	
-7	speed	speed	N	1	
-8	.	.	O	1	
+1	Free	free	G	1	O
+2	wifi	wifi	N	1	O
+3	was	be	V	1	O
+4	of	of	P	1	O
+5	a	a	D	1	O
+6	decent	decent	G	1	O
+7	speed	speed	N	1	O
+8	.	.	O	1	O
 
-1	Location	Location	R	1	
-2	is	be	V	1	
-3	little	little	G	1	
-4	far	far	A	1	
-5	from	from	P	1	
-6	city	city	N	1	
-7	center	center	N	1	
-8	.	.	O	1	
+1	Location	Location	R	1	O
+2	is	be	V	1	O
+3	little	little	G	1	O
+4	far	far	A	1	O
+5	from	from	P	1	O
+6	city	city	N	1	O
+7	center	center	N	1	O
+8	.	.	O	1	O
 
-1	Overall	overall	G	1	
-2	impression	impression	N	1	
-3	:	:	O	1	
-4	claiming	claim	V	1	
-5	to	to	P	1	
-6	be	be	V	1	
-7	a	a	D	1	
-8	luxury	luxury	N	1	
-9	,	,	O	1	
-10	but	but	C	1	
-11	the	the	D	1	
-12	service	service	N	1	
-13	does	do	V	1	
-14	not	not	A	1	
-15	yet	yet	A	1	
-16	match	match	V	1	
-17	.	.	O	1	
+1	Overall	overall	G	1	O
+2	impression	impression	N	1	O
+3	:	:	O	1	O
+4	claiming	claim	V	1	O
+5	to	to	P	1	O
+6	be	be	V	1	O
+7	a	a	D	1	O
+8	luxury	luxury	N	1	O
+9	,	,	O	1	O
+10	but	but	C	1	O
+11	the	the	D	1	O
+12	service	service	N	1	O
+13	does	do	V	1	O
+14	not	not	A	1	O
+15	yet	yet	A	1	O
+16	match	match	V	1	O
+17	.	.	O	1	O
 

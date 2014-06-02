@@ -1,172 +1,173 @@
-1	Es	es	N	1	
-2	la	la	D	1	
-3	feria	feria	N	1	
+1	Es	es	N	1	O
+2	la	la	D	1	O
+3	feria	feria	N	1	O
 
-1	Para	Para	R	1	
-2	acampar	acampar	N	1	
-3	,	,	O	1	
-4	si	si	G	1	
-5	te	te	G	1	
-6	gustan	gustan	G	1	
-7	los	los	N	1	
-8	recintos	recintos	N	1	
-9	feriales	feriales	N	1	
-10	,	,	O	1	
-11	y	y	G	1	
-12	escuchar	escuchar	N	1	
-13	diferentes	diferentes	V	1	
-14	estilos	estilos	N	1	
-15	musicales	musicales	N	1	
-16	,	,	O	1	
-17	mezclados	mezclados	N	1	
-18	mientras	mientras	N	1	
-19	paseas	paseas	N	1	
-20	entre	entre	V	1	
-21	parcelas	parcelas	N	1	
-22	,	,	O	1	
-23	este	este	N	1	
-24	es	es	N	1	
-25	tu	tu	V	1	
-26	camping	camping	N	1	
-27	.	.	O	1	
+1	Para	Para	R	1	O
+2	acampar	acampar	N	1	O
+3	,	,	O	1	O
+4	si	si	G	1	O
+5	te	te	G	1	O
+6	gustan	gustan	G	1	O
+7	los	los	N	1	O
+8	recintos	recintos	N	1	O
+9	feriales	feriales	N	1	O
+10	,	,	O	1	O
+11	y	y	G	1	O
+12	escuchar	escuchar	N	1	O
+13	diferentes	diferentes	V	1	O
+14	estilos	estilos	N	1	O
+15	musicales	musicales	N	1	O
+16	,	,	O	1	O
+17	mezclados	mezclados	N	1	O
+18	mientras	mientras	N	1	O
+19	paseas	paseas	N	1	O
+20	entre	entre	V	1	O
+21	parcelas	parcelas	N	1	O
+22	,	,	O	1	O
+23	este	este	N	1	O
+24	es	es	N	1	O
+25	tu	tu	V	1	O
+26	camping	camping	N	1	O
+27	.	.	O	1	O
 
-1	De	De	R	1	
-2	lo	lo	N	1	
-3	contrario	contrario	N	1	
-4	,	,	O	1	
-5	hay	hay	G	1	
-6	que	que	N	1	
-7	tener	tener	N	1	
-8	en	en	P	1	
-9	cuenta	cuenta	G	1	
-10	para	para	N	1	
-11	buscar	buscar	N	1	
-12	una	una	G	1	
-13	parcela	parcela	N	1	
-14	lo	lo	V	1	
-15	siguiente	siguiente	N	1	
-16	:	:	O	1	
-17	evitar	evitar	N	1	
-18	la	la	N	1	
-19	cercanía	cercanía	N	1	
-20	de	de	P	1	
-21	parcelas	parcelas	N	1	
-22	con	con	A	1	
-23	tiendas	tiendas	N	1	
-24	de	de	P	1	
-25	campaña	campaña	N	1	
-26	con	con	A	1	
-27	cuadrillas	cuadrillas	V	1	
-28	de	de	P	1	
-29	jóvenes	jóvenes	N	1	
-30	,	,	O	1	
-31	que	que	G	1	
-32	salen	salen	N	1	
-33	como	como	N	1	
-34	champiñones	champiñones	N	1	
-35	,	,	O	1	
-36	y	y	G	1	
-37	rezar	rezar	N	1	
-38	para	para	N	1	
-39	que	que	V	1	
-40	no	no	D	1	
-41	te	te	N	1	
-42	salga	salga	N	1	
-43	uno	uno	G	1	
-44	al	al	G	1	
-45	lado	lado	N	1	
-46	,	,	O	1	
-47	estos	estos	O	1	
-48	tienen	tienen	O	1	
-49	permitido	permitido	O	1	
-50	deleitarnos	deleitarnos	O	1	
-51	con	con	O	1	
-52	"	"	O	1	
-53	chunda	chunda	O	1	
-54	chunda	chunda	O	1	
-55	"	"	O	1	
-56	durante	durante	O	1	
-57	16	16	O	1	
-58	horas	horas	O	1	
-59	diarias	diarias	O	1	
-60	por	por	O	1	
-61	la	la	O	1	
-62	dirección	dirección	O	1	
-63	del	del	O	1	
-64	camping	camping	N	1	
-65	.	.	O	1	
+1	De	De	R	1	O
+2	lo	lo	N	1	O
+3	contrario	contrario	N	1	O
+4	,	,	O	1	O
+5	hay	hay	G	1	O
+6	que	que	N	1	O
+7	tener	tener	N	1	O
+8	en	en	P	1	O
+9	cuenta	cuenta	G	1	O
+10	para	para	N	1	O
+11	buscar	buscar	N	1	O
+12	una	una	G	1	O
+13	parcela	parcela	N	1	O
+14	lo	lo	V	1	O
+15	siguiente	siguiente	N	1	O
+16	:	:	O	1	O
+17	evitar	evitar	N	1	O
+18	la	la	N	1	O
+19	cercanía	cercanía	N	1	O
+20	de	de	P	1	O
+21	parcelas	parcelas	N	1	O
+22	con	con	A	1	O
+23	tiendas	tiendas	N	1	O
+24	de	de	P	1	O
+25	campaña	campaña	N	1	O
+26	con	con	A	1	O
+27	cuadrillas	cuadrillas	V	1	O
+28	de	de	P	1	O
+29	jóvenes	jóvenes	N	1	O
+30	,	,	O	1	O
+31	que	que	G	1	O
+32	salen	salen	N	1	O
+33	como	como	N	1	O
+34	champiñones	champiñones	N	1	O
+35	,	,	O	1	O
+36	y	y	G	1	O
+37	rezar	rezar	N	1	O
+38	para	para	N	1	O
+39	que	que	V	1	O
+40	no	no	D	1	O
+41	te	te	N	1	O
+42	salga	salga	N	1	O
+43	uno	uno	G	1	O
+44	al	al	G	1	O
+45	lado	lado	N	1	O
+46	,	,	O	1	O
+47	estos	estos	O	1	O
+48	tienen	tienen	O	1	O
+49	permitido	permitido	O	1	O
+50	deleitarnos	deleitarnos	O	1	O
+51	con	con	O	1	O
+52	"	"	O	1	O
+53	chunda	chunda	O	1	O
+54	chunda	chunda	O	1	O
+55	"	"	O	1	O
+56	durante	durante	O	1	O
+57	16	16	O	1	O
+58	horas	horas	O	1	O
+59	diarias	diarias	O	1	O
+60	por	por	O	1	O
+61	la	la	O	1	O
+62	dirección	dirección	O	1	O
+63	del	del	O	1	O
+64	camping	camping	N	1	O
+65	.	.	O	1	O
 
-1	Evitar	Evitar	R	1	
-2	también	también	N	1	
-3	lugares	lugares	V	1	
-4	con	con	A	1	
-5	acumulación	acumulación	G	1	
-6	de	de	O	1	
-7	botellas	botellas	O	1	
-8	de	de	O	1	
-9	2	2	O	1	
-10	l.	l.	G	1	
-11	de	de	P	1	
-12	coca	coca	N	1	
-13	cola	cola	N	1	
-14	y	y	G	1	
-15	gin	gin	N	1	
-16	larios	larios	N	1	
-17	en	en	P	1	
-18	las	las	N	1	
-19	papeleras	papeleras	N	1	
-20	.	.	O	1	
+1	Evitar	Evitar	R	1	O
+2	también	también	N	1	O
+3	lugares	lugares	V	1	O
+4	con	con	A	1	O
+5	acumulación	acumulación	G	1	O
+6	de	de	O	1	O
+7	botellas	botellas	O	1	O
+8	de	de	O	1	O
+9	2	2	O	1	O
+10	l.	l.	G	1	O
+11	de	de	P	1	O
+12	coca	coca	N	1	O
+13	cola	cola	N	1	O
+14	y	y	G	1	O
+15	gin	gin	N	1	O
+16	larios	larios	N	1	O
+17	en	en	P	1	O
+18	las	las	N	1	O
+19	papeleras	papeleras	N	1	O
+20	.	.	O	1	O
 
-1	En	en	G	1	
-2	estas	estas	N	1	
-3	zonas	zonas	N	1	
-4	,	,	O	1	
-5	con	con	A	1	
-6	nocturnidad	nocturnidad	A	1	
-7	,	,	O	1	
-8	la	la	D	1	
-9	gente	gente	G	1	
-10	suele	suele	N	1	
-11	corear	corear	N	1	
-12	himnos	himnos	N	1	
-13	de	de	P	1	
-14	su	su	G	1	
-15	tierra	tierra	N	1	
-16	,	,	O	1	
-17	dormir	dormir	O	1	
-18	la	la	O	1	
-19	mona	mona	O	1	
-20	,	,	O	1	
-21	y	y	G	1	
-22	hechar	hechar	N	1	
-23	la	la	N	1	
-24	pava	pava	N	1	
-25	.	.	O	1	
+1	En	en	G	1	O
+2	estas	estas	N	1	O
+3	zonas	zonas	N	1	O
+4	,	,	O	1	O
+5	con	con	A	1	O
+6	nocturnidad	nocturnidad	A	1	O
+7	,	,	O	1	O
+8	la	la	D	1	O
+9	gente	gente	G	1	O
+10	suele	suele	N	1	O
+11	corear	corear	N	1	O
+12	himnos	himnos	N	1	O
+13	de	de	P	1	O
+14	su	su	G	1	O
+15	tierra	tierra	N	1	O
+16	,	,	O	1	O
+17	dormir	dormir	O	1	O
+18	la	la	O	1	O
+19	mona	mona	O	1	O
+20	,	,	O	1	O
+21	y	y	G	1	O
+22	hechar	hechar	N	1	O
+23	la	la	N	1	O
+24	pava	pava	N	1	O
+25	.	.	O	1	O
 
-1	Casos	Casos	R	1	
-2	mas	mas	O	1	
-3	suaves	suaves	V	1	
-4	que	que	N	1	
-5	estos	estos	N	1	
-6	solo	solo	A	1	
-7	los	los	N	1	
-8	he	he	Q	1	
-9	visto	visto	O	1	
-10	en	en	V	1	
-11	algunos	algunos	N	1	
-12	camping	camp	V	1	
-13	de	de	P	1	
-14	Andalucía_sur	Andalucía_sur	R	1	ne=Location
-15	.	.	O	1	
+1	Casos	Casos	R	1	O
+2	mas	mas	O	1	O
+3	suaves	suaves	V	1	O
+4	que	que	N	1	O
+5	estos	estos	N	1	O
+6	solo	solo	A	1	O
+7	los	los	N	1	O
+8	he	he	Q	1	O
+9	visto	visto	O	1	O
+10	en	en	V	1	O
+11	algunos	algunos	N	1	O
+12	camping	camp	V	1	O
+13	de	de	P	1	O
+14	Andalucía	Andalucía	R	1	I-Location
+15	sur	sur	N	1	I-Location
+16	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	zonas	zonas	V	1	
-3	recomendables	recomendables	N	1	
-4	están	están	V	1	
-5	a	a	D	1	
-6	350	350	O	1	
-7	m.	m.	N	1	
-8	de	de	P	1	
-9	la	la	D	1	
-10	playa	playa	N	1	
+1	Las	Las	R	1	O
+2	zonas	zonas	V	1	O
+3	recomendables	recomendables	N	1	O
+4	están	están	V	1	O
+5	a	a	D	1	O
+6	350	350	O	1	O
+7	m.	m.	N	1	O
+8	de	de	P	1	O
+9	la	la	D	1	O
+10	playa	playa	N	1	O
 

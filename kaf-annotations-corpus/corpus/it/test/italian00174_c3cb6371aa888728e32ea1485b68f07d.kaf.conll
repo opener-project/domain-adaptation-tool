@@ -1,144 +1,146 @@
-1	Ottima	ottimo	G	1	
-2	sistemazione	sistemazione	N	1	
+1	Ottima	ottimo	G	1	O
+2	sistemazione	sistemazione	N	1	O
 
-1	Hotel	hotel	N	1	
-2	in	in	P	1	
-3	posizione	posizione	N	1	
-4	tranquilla	tranquillo	G	1	
-5	,	,	O	1	
-6	ma	ma	Q	1	
-7	strategica	strategico	G	1	
-8	perche	perche	N	1	
-9	vicinissimo	vicinissimo	G	1	
-10	alla	alla	P	1	
-11	stazione	stazione	N	1	
-12	metro	metro	N	1	
-13	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	in	in	P	1	O
+3	posizione	posizione	N	1	O
+4	tranquilla	tranquillo	G	1	O
+5	,	,	O	1	O
+6	ma	ma	Q	1	O
+7	strategica	strategico	G	1	O
+8	perche	perche	N	1	O
+9	vicinissimo	vicinissimo	G	1	O
+10	alla	alla	P	1	O
+11	stazione	stazione	N	1	O
+12	metro	metro	N	1	O
+13	.	.	O	1	O
 
-1	In	in	P	1	
-2	10	10	G	1	
-3	min	min	N	1	
-4	si	si	Q	1	
-5	ariva	ariva	V	1	
-6	in	in	P	1	
-7	piazza_duomo	piazza_duomo	R	1	ne=POI
-8	.	.	O	1	
+1	In	in	P	1	O
+2	10	10	G	1	O
+3	min	min	N	1	O
+4	si	si	Q	1	O
+5	ariva	ariva	V	1	O
+6	in	in	P	1	O
+7	piazza	piazza	N	1	I-POI
+8	duomo	duomo	N	1	I-POI
+9	.	.	O	1	O
 
-1	I	lo	D	1	
-2	parcheggi	parcheggio	N	1	
-3	in	in	P	1	
-4	zona	zona	N	1	
-5	oltretutto	oltretutto	A	1	
-6	sono	essere	V	1	
-7	gratuiti	gratuito	G	1	
-8	durante	durante	P	1	
-9	il	lo	D	1	
-10	weekend	weekend	N	1	
-11	.	.	O	1	
+1	I	lo	D	1	O
+2	parcheggi	parcheggio	N	1	O
+3	in	in	P	1	O
+4	zona	zona	N	1	O
+5	oltretutto	oltretutto	A	1	O
+6	sono	essere	V	1	O
+7	gratuiti	gratuito	G	1	O
+8	durante	durante	P	1	O
+9	il	lo	D	1	O
+10	weekend	weekend	N	1	O
+11	.	.	O	1	O
 
-1	Le	lo	D	1	
-2	camere	camera	N	1	
-3	sono	essere	V	1	
-4	ampie	ampio	G	1	
-5	,	,	O	1	
-6	pulite	pulire	V	1	
-7	,	,	O	1	
-8	dotate	dotare	V	1	
-9	di	di	P	1	
-10	tutto	tutto	Q	1	
-11	il	lo	D	1	
-12	necessario	necessario	G	1	
-13	,	,	O	1	
-14	compresa	comprendere	V	1	
-15	la	lo	D	1	
-16	macchina	macchina	N	1	
-17	per	per	P	1	
-18	il	lo	D	1	
-19	caffe	caffe	R	1	
-20	.	.	O	1	
+1	Le	lo	D	1	O
+2	camere	camera	N	1	O
+3	sono	essere	V	1	O
+4	ampie	ampio	G	1	O
+5	,	,	O	1	O
+6	pulite	pulire	V	1	O
+7	,	,	O	1	O
+8	dotate	dotare	V	1	O
+9	di	di	P	1	O
+10	tutto	tutto	Q	1	O
+11	il	lo	D	1	O
+12	necessario	necessario	G	1	O
+13	,	,	O	1	O
+14	compresa	comprendere	V	1	O
+15	la	lo	D	1	O
+16	macchina	macchina	N	1	O
+17	per	per	P	1	O
+18	il	lo	D	1	O
+19	caffe	caffe	R	1	O
+20	.	.	O	1	O
 
-1	La	lo	D	1	
-2	colazione	colazione	N	1	
-3	,	,	O	1	
-4	servita	servire	V	1	
-5	in	in	P	1	
-6	un	uno	D	1	
-7	piacevole	piacevole	G	1	
-8	locale	locale	N	1	
-9	,	,	O	1	
-10	e	e	Q	1	
-11	varia	variare	V	1	
-12	ed	ed	Q	1	
-13	abbondante	abbondare	V	1	
-14	.	.	O	1	
+1	La	lo	D	1	O
+2	colazione	colazione	N	1	O
+3	,	,	O	1	O
+4	servita	servire	V	1	O
+5	in	in	P	1	O
+6	un	uno	D	1	O
+7	piacevole	piacevole	G	1	O
+8	locale	locale	N	1	O
+9	,	,	O	1	O
+10	e	e	Q	1	O
+11	varia	variare	V	1	O
+12	ed	ed	Q	1	O
+13	abbondante	abbondare	V	1	O
+14	.	.	O	1	O
 
-1	Peccato	peccato	N	1	
-2	per	per	P	1	
-3	la	lo	D	1	
-4	salata	salare	V	1	
-5	tassa	tassa	N	1	
-6	di	di	P	1	
-7	soggiorno	soggiorno	N	1	
-8	,	,	O	1	
-9	essendo	essere	V	1	
-10	registrato	registrare	V	1	
-11	come	come	A	1	
-12	un	uno	D	1	
-13	quattro	quattro	G	1	
-14	stelle	stella	N	1	
-15	,	,	O	1	
-16	si	si	Q	1	
-17	pagano	pagare	V	1	
-18	ben	ben	A	1	
-19	quattro	quattro	N	1	
-20	euro	euro	N	1	
-21	a	a	P	1	
-22	persona	persona	N	1	
-23	al	al	P	1	
-24	giorno	giorno	N	1	
-25	,	,	O	1	
-26	che	che	Q	1	
-27	per	per	P	1	
-28	un	uno	D	1	
-29	hotel	hotel	N	1	
-30	a	a	P	1	
-31	quattro	quattro	G	1	
-32	stelle	stella	N	1	
-33	di	di	P	1	
-34	lusso	lusso	N	1	
-35	in	in	P	1	
-36	centro	centro	N	1	
-37	possono	potere	V	1	
-38	essere	essere	V	1	
-39	anche	anche	Q	1	
-40	proporzionate	proporzionate	N	1	
-41	,	,	O	1	
-42	ma	ma	Q	1	
-43	non	non	A	1	
-44	per	per	P	1	
-45	questo	questo	Q	1	
-46	novotel	novotel	R	1	ne=Hotel
-47	,	,	O	1	
-48	dove	dove	Q	1	
-49	questa	questa	G	1	
-50	tassa	tassa	N	1	
-51	risulta	risultare	V	1	
-52	essere	essera	N	1	
-53	il	lo	D	1	
-54	10_%	10_%	R	1	ne=Percent
-55	della	della	P	1	
-56	tariffa	tariffa	G	1	
-57	!	!	O	1	
-58	!	!	O	1	
-59	!	!	O	1	
-60	...	...	O	1	
-61	ma	ma	Q	1	
-62	non	non	A	1	
-63	e	e	Q	1	
-64	'	'	Q	1	
-65	colpa	colpa	N	1	
-66	dell	dell	P	1	
-67	'	'	Q	1	
-68	hotel	hotel	N	1	
-69	.....	.....	O	1	
+1	Peccato	peccato	N	1	O
+2	per	per	P	1	O
+3	la	lo	D	1	O
+4	salata	salare	V	1	O
+5	tassa	tassa	N	1	O
+6	di	di	P	1	O
+7	soggiorno	soggiorno	N	1	O
+8	,	,	O	1	O
+9	essendo	essere	V	1	O
+10	registrato	registrare	V	1	O
+11	come	come	A	1	O
+12	un	uno	D	1	O
+13	quattro	quattro	G	1	O
+14	stelle	stella	N	1	O
+15	,	,	O	1	O
+16	si	si	Q	1	O
+17	pagano	pagare	V	1	O
+18	ben	ben	A	1	O
+19	quattro	quattro	N	1	O
+20	euro	euro	N	1	O
+21	a	a	P	1	O
+22	persona	persona	N	1	O
+23	al	al	P	1	O
+24	giorno	giorno	N	1	O
+25	,	,	O	1	O
+26	che	che	Q	1	O
+27	per	per	P	1	O
+28	un	uno	D	1	O
+29	hotel	hotel	N	1	O
+30	a	a	P	1	O
+31	quattro	quattro	G	1	O
+32	stelle	stella	N	1	O
+33	di	di	P	1	O
+34	lusso	lusso	N	1	O
+35	in	in	P	1	O
+36	centro	centro	N	1	O
+37	possono	potere	V	1	O
+38	essere	essere	V	1	O
+39	anche	anche	Q	1	O
+40	proporzionate	proporzionate	N	1	O
+41	,	,	O	1	O
+42	ma	ma	Q	1	O
+43	non	non	A	1	O
+44	per	per	P	1	O
+45	questo	questo	Q	1	O
+46	novotel	novotel	R	1	I-Hotel
+47	,	,	O	1	O
+48	dove	dove	Q	1	O
+49	questa	questa	G	1	O
+50	tassa	tassa	N	1	O
+51	risulta	risultare	V	1	O
+52	essere	essera	N	1	O
+53	il	lo	D	1	O
+54	10	10	N	1	I-Percent
+55	%	%	O	1	I-Percent
+56	della	della	P	1	O
+57	tariffa	tariffa	G	1	O
+58	!	!	O	1	O
+59	!	!	O	1	O
+60	!	!	O	1	O
+61	...	...	O	1	O
+62	ma	ma	Q	1	O
+63	non	non	A	1	O
+64	e	e	Q	1	O
+65	'	'	Q	1	O
+66	colpa	colpa	N	1	O
+67	dell	dell	P	1	O
+68	'	'	Q	1	O
+69	hotel	hotel	N	1	O
+70	.....	.....	O	1	O
 

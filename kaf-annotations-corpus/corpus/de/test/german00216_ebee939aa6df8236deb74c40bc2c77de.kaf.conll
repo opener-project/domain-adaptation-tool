@@ -1,116 +1,117 @@
-1	Traumhaftes	traumhaft	G	1	
-2	Hotel	Hotel	N	1	
-3	in	in	P	1	
-4	Belek	Belek	R	1	ne=Location
-5	!	!	O	1	
-6	!	!	O	1	
+1	Traumhaftes	traumhaft	G	1	O
+2	Hotel	Hotel	N	1	O
+3	in	in	P	1	O
+4	Belek	Belek	R	1	I-Location
+5	!	!	O	1	O
+6	!	!	O	1	O
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	liegt	liegen	V	1	
-4	direkt	direkt	G	1	
-5	am	an	P	1	
-6	schönen	schön	G	1	
-7	Sandstrand	Sandstrand	N	1	
-8	von	von	P	1	
-9	Belek	Belek	R	1	ne=Location
-10	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	liegt	liegen	V	1	O
+4	direkt	direkt	G	1	O
+5	am	an	P	1	O
+6	schönen	schön	G	1	O
+7	Sandstrand	Sandstrand	N	1	O
+8	von	von	P	1	O
+9	Belek	Belek	R	1	I-Location
+10	.	.	O	1	O
 
-1	Nach	nach	P	1	
-2	Belek	Belek	R	1	ne=Location
-3	kann	können	V	1	
-4	man	man	Q	1	
-5	innerhalb	innerhalb	P	1	
-6	von	von	P	1	
-7	25_Min.	25_min.	R	1	ne=Time
-8	zu	zu	P	1	
-9	Fuß	Fuß	N	1	
-10	gelangen	gelangen	V	1	
-11	.	.	O	1	
+1	Nach	nach	P	1	O
+2	Belek	Belek	R	1	I-Location
+3	kann	können	V	1	O
+4	man	man	Q	1	O
+5	innerhalb	innerhalb	P	1	O
+6	von	von	P	1	O
+7	25	25	O	1	I-Time
+8	Min.	min.	N	1	I-Time
+9	zu	zu	P	1	O
+10	Fuß	Fuß	N	1	O
+11	gelangen	gelangen	V	1	O
+12	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Anlage	Anlage	N	1	
-3	ist	sein	V	1	
-4	zwar	zwar	A	1	
-5	sehr	sehr	A	1	
-6	groß	groß	G	1	
-7	,	,	O	1	
-8	aber	aber	A	1	
-9	schön	schön	G	1	
-10	angelegt	anlegen	V	1	
-11	,	,	O	1	
-12	so	so	A	1	
-13	dass	dass	C	1	
-14	man	man	Q	1	
-15	selbst	selbst	A	1	
-16	bei	bei	P	1	
-17	vielen	viele	Q	1	
-18	Gästen	Gast	N	1	
-19	nie	nie	A	1	
-20	das	die	D	1	
-21	Gefühl	Gefühl	N	1	
-22	haben	haben	V	1	
-23	wird	werden	V	1	
-24	,	,	O	1	
-25	dass	dass	C	1	
-26	das	die	D	1	
-27	Hotel	Hotel	N	1	
-28	überfüllt	überfüllen	V	1	
-29	ist	sein	V	1	
-30	.	.	O	1	
+1	Die	die	D	1	O
+2	Anlage	Anlage	N	1	O
+3	ist	sein	V	1	O
+4	zwar	zwar	A	1	O
+5	sehr	sehr	A	1	O
+6	groß	groß	G	1	O
+7	,	,	O	1	O
+8	aber	aber	A	1	O
+9	schön	schön	G	1	O
+10	angelegt	anlegen	V	1	O
+11	,	,	O	1	O
+12	so	so	A	1	O
+13	dass	dass	C	1	O
+14	man	man	Q	1	O
+15	selbst	selbst	A	1	O
+16	bei	bei	P	1	O
+17	vielen	viele	Q	1	O
+18	Gästen	Gast	N	1	O
+19	nie	nie	A	1	O
+20	das	die	D	1	O
+21	Gefühl	Gefühl	N	1	O
+22	haben	haben	V	1	O
+23	wird	werden	V	1	O
+24	,	,	O	1	O
+25	dass	dass	C	1	O
+26	das	die	D	1	O
+27	Hotel	Hotel	N	1	O
+28	überfüllt	überfüllen	V	1	O
+29	ist	sein	V	1	O
+30	.	.	O	1	O
 
-1	Die	die	D	1	
-2	gesamte	gesamt	G	1	
-3	Architektur	Architektur	N	1	
-4	ist	sein	V	1	
-5	sehr	sehr	A	1	
-6	großzügig	großzügig	G	1	
-7	,	,	O	1	
-8	modern	modern	G	1	
-9	und	und	C	1	
-10	hell	hell	G	1	
-11	gehalten	halten	V	1	
-12	.	.	O	1	
+1	Die	die	D	1	O
+2	gesamte	gesamt	G	1	O
+3	Architektur	Architektur	N	1	O
+4	ist	sein	V	1	O
+5	sehr	sehr	A	1	O
+6	großzügig	großzügig	G	1	O
+7	,	,	O	1	O
+8	modern	modern	G	1	O
+9	und	und	C	1	O
+10	hell	hell	G	1	O
+11	gehalten	halten	V	1	O
+12	.	.	O	1	O
 
-1	Im	in	P	1	
-2	März	März	N	1	
-3	waren	sein	V	1	
-4	viele	viele	Q	1	
-5	Deutsche	Deutsche	N	1	
-6	,	,	O	1	
-7	Österreicher	Österreicher	N	1	
-8	und	und	C	1	
-9	Holländer	Holländer	N	1	
-10	im	in	P	1	
-11	Hotel	Hotel	N	1	
-12	,	,	O	1	
-13	überwiegend	überwiegend	G	1	
-14	Golfer	Golfer	N	1	
-15	.	.	O	1	
+1	Im	in	P	1	O
+2	März	März	N	1	O
+3	waren	sein	V	1	O
+4	viele	viele	Q	1	O
+5	Deutsche	Deutsche	N	1	O
+6	,	,	O	1	O
+7	Österreicher	Österreicher	N	1	O
+8	und	und	C	1	O
+9	Holländer	Holländer	N	1	O
+10	im	in	P	1	O
+11	Hotel	Hotel	N	1	O
+12	,	,	O	1	O
+13	überwiegend	überwiegend	G	1	O
+14	Golfer	Golfer	N	1	O
+15	.	.	O	1	O
 
-1	Im	in	P	1	
-2	Großen	Große	N	1	
-3	und	und	C	1	
-4	Ganzen	Ganze	N	1	
-5	ein	eine	D	1	
-6	sehr	sehr	A	1	
-7	gut	gut	G	1	
-8	gemischtes	gemischt	G	1	
-9	Publikum	Publikum	N	1	
-10	,	,	O	1	
-11	bei	bei	P	1	
-12	dem	die	Q	1	
-13	man	man	Q	1	
-14	sich	sich	Q	1	
-15	wohl	wohl	A	1	
-16	fühlt	fühlen	V	1	
-17	.	.	O	1	
+1	Im	in	P	1	O
+2	Großen	Große	N	1	O
+3	und	und	C	1	O
+4	Ganzen	Ganze	N	1	O
+5	ein	eine	D	1	O
+6	sehr	sehr	A	1	O
+7	gut	gut	G	1	O
+8	gemischtes	gemischt	G	1	O
+9	Publikum	Publikum	N	1	O
+10	,	,	O	1	O
+11	bei	bei	P	1	O
+12	dem	die	Q	1	O
+13	man	man	Q	1	O
+14	sich	sich	Q	1	O
+15	wohl	wohl	A	1	O
+16	fühlt	fühlen	V	1	O
+17	.	.	O	1	O
 
-1	Als	als	C	1	
-2	Verpflegung	Verpflegung	N	1	
-3	wird	werden	V	1	
-4	All	alle	Q	1	
-5	Inklusive	Inklusive	O	1	
-6	angeboten	anbieten	V	1	
-7	.	.	O	1	
+1	Als	als	C	1	O
+2	Verpflegung	Verpflegung	N	1	O
+3	wird	werden	V	1	O
+4	All	alle	Q	1	O
+5	Inklusive	Inklusive	O	1	O
+6	angeboten	anbieten	V	1	O
+7	.	.	O	1	O
 

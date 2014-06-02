@@ -1,64 +1,67 @@
-1	Una	uno	D	1	
-2	cantina	cantina	N	1	
-3	con	con	P	1	
-4	la	lo	D	1	
-5	muffa	muffa	N	1	
-6	!	!	O	1	
+1	Una	uno	D	1	O
+2	cantina	cantina	N	1	O
+3	con	con	P	1	O
+4	la	lo	D	1	O
+5	muffa	muffa	N	1	O
+6	!	!	O	1	O
 
-1	l'	lo	D	1	
-2	albergo	albergo	N	1	
-3	e	e	Q	1	
-4	'	'	Q	1	
-5	situato	situare	V	1	
-6	in	in	P	1	
-7	una	uno	D	1	
-8	posizione	posizione	N	1	
-9	comoda	comodo	G	1	
-10	,	,	O	1	
-11	a	a	P	1	
-12	3	3	G	1	
-13	minuti	minuto	N	1	
-14	dal	dal	P	1	
-15	van_gogh_museum	van_gogh_museum	R	1	ne=POI
-16	e	e	Q	1	
-17	mezz'	mezz'	G	1	
-18	ora	ora	A	1	
-19	a	a	P	1	
-20	piedi	piede	N	1	
-21	dal	dal	P	1	
-22	red_district	red_district	R	1	ne=POI
-23	ma	ma	Q	1	
-24	a	a	P	1	
-25	noi	noi	Q	1	
-26	purtroppo	purtroppo	A	1	
-27	e	e	Q	1	
-28	'	'	Q	1	
-29	capitata	capitare	V	1	
-30	una	uno	D	1	
-31	stanza	stanza	N	1	
-32	nel	nel	P	1	
-33	sotterraneo	sotterraneo	N	1	
-34	dell'	dell'	P	1	
-35	hotel	hotel	N	1	
-36	con	con	P	1	
-37	tanto	tanto	Q	1	
-38	di	di	P	1	
-39	muffa	muffa	N	1	
-40	ben	ben	A	1	
-41	visibile	visibile	G	1	
-42	sulla	sulla	P	1	
-43	moquette	moquette	N	1	
-44	e	e	Q	1	
-45	odore	odore	N	1	
-46	ristagnante	ristagnare	V	1	
-47	!	!	O	1	
-48	!	!	O	1	
-49	!	!	O	1	
-50	!	!	O	1	
-51	!	!	O	1	
-52	!	!	O	1	
-53	!	!	O	1	
-54	!	!	O	1	
-55	!	!	O	1	
-56	1	1	N	1	
+1	l'	lo	D	1	O
+2	albergo	albergo	N	1	O
+3	e	e	Q	1	O
+4	'	'	Q	1	O
+5	situato	situare	V	1	O
+6	in	in	P	1	O
+7	una	uno	D	1	O
+8	posizione	posizione	N	1	O
+9	comoda	comodo	G	1	O
+10	,	,	O	1	O
+11	a	a	P	1	O
+12	3	3	G	1	O
+13	minuti	minuto	N	1	O
+14	dal	dal	P	1	O
+15	van	van	P	1	I-POI
+16	gogh	gogh	R	1	I-POI
+17	museum	museum	R	1	I-POI
+18	e	e	Q	1	O
+19	mezz'	mezz'	G	1	O
+20	ora	ora	A	1	O
+21	a	a	P	1	O
+22	piedi	piede	N	1	O
+23	dal	dal	P	1	O
+24	red	red	V	1	I-POI
+25	district	district	R	1	I-POI
+26	ma	ma	Q	1	O
+27	a	a	P	1	O
+28	noi	noi	Q	1	O
+29	purtroppo	purtroppo	A	1	O
+30	e	e	Q	1	O
+31	'	'	Q	1	O
+32	capitata	capitare	V	1	O
+33	una	uno	D	1	O
+34	stanza	stanza	N	1	O
+35	nel	nel	P	1	O
+36	sotterraneo	sotterraneo	N	1	O
+37	dell'	dell'	P	1	O
+38	hotel	hotel	N	1	O
+39	con	con	P	1	O
+40	tanto	tanto	Q	1	O
+41	di	di	P	1	O
+42	muffa	muffa	N	1	O
+43	ben	ben	A	1	O
+44	visibile	visibile	G	1	O
+45	sulla	sulla	P	1	O
+46	moquette	moquette	N	1	O
+47	e	e	Q	1	O
+48	odore	odore	N	1	O
+49	ristagnante	ristagnare	V	1	O
+50	!	!	O	1	O
+51	!	!	O	1	O
+52	!	!	O	1	O
+53	!	!	O	1	O
+54	!	!	O	1	O
+55	!	!	O	1	O
+56	!	!	O	1	O
+57	!	!	O	1	O
+58	!	!	O	1	O
+59	1	1	N	1	O
 

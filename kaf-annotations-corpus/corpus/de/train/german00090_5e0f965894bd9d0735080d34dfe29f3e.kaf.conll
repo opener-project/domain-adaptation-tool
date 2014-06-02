@@ -1,108 +1,108 @@
-1	Sehr	sehr	A	1	
-2	schöner	schön	G	1	
-3	Pärchenurlaub	Pärchenurlaub	O	1	
-4	!	!	O	1	
+1	Sehr	sehr	A	1	O
+2	schöner	schön	G	1	O
+3	Pärchenurlaub	Pärchenurlaub	O	1	O
+4	!	!	O	1	O
 
-1	Nur	nur	A	1	
-2	weiter	weit	G	1	
-3	zu	zu	O	1	
-4	empfehlen	empfehlen	V	1	
+1	Nur	nur	A	1	O
+2	weiter	weit	G	1	O
+3	zu	zu	O	1	O
+4	empfehlen	empfehlen	V	1	O
 
-1	Wir	wir	Q	1	
-2	waren	sein	V	1	
-3	mit	mit	P	1	
-4	2	2	O	1	
-5	jungen	jung	G	1	
-6	Pärchen	Pärchen	N	1	
-7	da	da	V	1	
-8	und	und	C	1	
-9	der	die	D	1	
-10	Urlaub	Urlaub	N	1	
-11	hat	haben	V	1	
-12	uns	wir	Q	1	
-13	sehr	sehr	A	1	
-14	gut	gut	G	1	
-15	gefallen	fallen|gefallen	V	1	
-16	und	und	C	1	
-17	werden	werden	V	1	
-18	bestimmt	bestimmt	A	1	
-19	noch	noch	A	1	
-20	ein	eine	D	1	
-21	2	2	O	1	
-22	mal	mal	A	1	
-23	das	die	D	1	
-24	Hotel	Hotel	N	1	
-25	besuchen	besuchen	V	1	
-26	!	!	O	1	
+1	Wir	wir	Q	1	O
+2	waren	sein	V	1	O
+3	mit	mit	P	1	O
+4	2	2	O	1	O
+5	jungen	jung	G	1	O
+6	Pärchen	Pärchen	N	1	O
+7	da	da	V	1	O
+8	und	und	C	1	O
+9	der	die	D	1	O
+10	Urlaub	Urlaub	N	1	O
+11	hat	haben	V	1	O
+12	uns	wir	Q	1	O
+13	sehr	sehr	A	1	O
+14	gut	gut	G	1	O
+15	gefallen	fallen|gefallen	V	1	O
+16	und	und	C	1	O
+17	werden	werden	V	1	O
+18	bestimmt	bestimmt	A	1	O
+19	noch	noch	A	1	O
+20	ein	eine	D	1	O
+21	2	2	O	1	O
+22	mal	mal	A	1	O
+23	das	die	D	1	O
+24	Hotel	Hotel	N	1	O
+25	besuchen	besuchen	V	1	O
+26	!	!	O	1	O
 
-1	Man	man	Q	1	
-2	kann	können	V	1	
-3	wirklich	wirklich	G	1	
-4	nur	nur	A	1	
-5	alles	alle	Q	1	
-6	loben	loben	V	1	
-7	sehr	sehr	A	1	
-8	tolle	toll	G	1	
-9	anlage	Anlage	N	1	
-10	und	und	C	1	
-11	sehr	sehr	A	1	
-12	gutes	gut	G	1	
-13	personal	personal	G	1	
-14	!	!	O	1	
+1	Man	man	Q	1	O
+2	kann	können	V	1	O
+3	wirklich	wirklich	G	1	O
+4	nur	nur	A	1	O
+5	alles	alle	Q	1	O
+6	loben	loben	V	1	O
+7	sehr	sehr	A	1	O
+8	tolle	toll	G	1	O
+9	anlage	Anlage	N	1	O
+10	und	und	C	1	O
+11	sehr	sehr	A	1	O
+12	gutes	gut	G	1	O
+13	personal	personal	G	1	O
+14	!	!	O	1	O
 
-1	hervor	hervor	A	1	
-2	zuheben	zuheben	O	1	
-3	ist	sein	V	1	
-4	meiner	mein	Q	1	
-5	meinung	Meinung	N	1	
-6	nach	nach	P	1	
-7	der	die	D	1	
-8	gute	gut	G	1	
-9	animation	Animation	N	1	
-10	durch	durch	P	1	
-11	die	die	D	1	
-12	animateure	animateure	O	1	
-13	die	die	Q	1	
-14	auch	auch	A	1	
-15	zum	zu	P	1	
-16	größten	groß	G	1	
-17	teil	teil	V	1	
-18	deutsch	deutsch	G	1	
-19	konnten	können	V	1	
-20	!	!	O	1	
+1	hervor	hervor	A	1	O
+2	zuheben	zuheben	O	1	O
+3	ist	sein	V	1	O
+4	meiner	mein	Q	1	O
+5	meinung	Meinung	N	1	O
+6	nach	nach	P	1	O
+7	der	die	D	1	O
+8	gute	gut	G	1	O
+9	animation	Animation	N	1	O
+10	durch	durch	P	1	O
+11	die	die	D	1	O
+12	animateure	animateure	O	1	O
+13	die	die	Q	1	O
+14	auch	auch	A	1	O
+15	zum	zu	P	1	O
+16	größten	groß	G	1	O
+17	teil	teil	V	1	O
+18	deutsch	deutsch	G	1	O
+19	konnten	können	V	1	O
+20	!	!	O	1	O
 
-1	sie	sie	Q	1	
-2	haben	haben	V	1	
-3	sich	sich	Q	1	
-4	viel	viel	A	1	
-5	mühe	mühen	V	1	
-6	bei	bei	P	1	
-7	allen	alle	Q	1	
-8	sachen	sachen	O	1	
-9	gegeben	geben	V	1	
-10	die	die	Q	1	
-11	sie	sie	Q	1	
-12	angeboten	anbieten	V	1	
-13	haben	haben	V	1	
-14	und	und	C	1	
-15	es	es	Q	1	
-16	hat	haben	V	1	
-17	uns	wir	Q	1	
-18	immer	immer	A	1	
-19	sehr	sehr	A	1	
-20	gut	gut	G	1	
-21	amüsiert	amüsieren	V	1	
-22	!	!	O	1	
+1	sie	sie	Q	1	O
+2	haben	haben	V	1	O
+3	sich	sich	Q	1	O
+4	viel	viel	A	1	O
+5	mühe	mühen	V	1	O
+6	bei	bei	P	1	O
+7	allen	alle	Q	1	O
+8	sachen	sachen	O	1	O
+9	gegeben	geben	V	1	O
+10	die	die	Q	1	O
+11	sie	sie	Q	1	O
+12	angeboten	anbieten	V	1	O
+13	haben	haben	V	1	O
+14	und	und	C	1	O
+15	es	es	Q	1	O
+16	hat	haben	V	1	O
+17	uns	wir	Q	1	O
+18	immer	immer	A	1	O
+19	sehr	sehr	A	1	O
+20	gut	gut	G	1	O
+21	amüsiert	amüsieren	V	1	O
+22	!	!	O	1	O
 
-1	und	und	C	1	
-2	haben	haben	V	1	
-3	uns	wir	Q	1	
-4	sehr	sehr	A	1	
-5	gut	gut	G	1	
-6	mit	mit	P	1	
-7	dem	die	D	1	
-8	animateur	Animateur	N	1	
-9	Tamer	Tamer	R	1	ne=Person
-10	verstanden	verstehen	V	1	
-11	!	!	O	1	
+1	und	und	C	1	O
+2	haben	haben	V	1	O
+3	uns	wir	Q	1	O
+4	sehr	sehr	A	1	O
+5	gut	gut	G	1	O
+6	mit	mit	P	1	O
+7	dem	die	D	1	O
+8	animateur	Animateur	N	1	O
+9	Tamer	Tamer	R	1	I-Person
+10	verstanden	verstehen	V	1	O
+11	!	!	O	1	O
 

@@ -1,72 +1,72 @@
-1	Super	super	N	1	
-2	quant	quant	G	1	
-3	ca	ca	G	1	
-4	marche	marcher	V	1	
+1	Super	super	N	1	O
+2	quant	quant	G	1	O
+3	ca	ca	G	1	O
+4	marche	marcher	V	1	O
 
-1	25	25	D	1	
-2	millions	million	N	1	
-3	d	d	V	1	
-4	'	'	G	1	
-5	euros	euros	G	1	
-6	shambala	shambala	R	1	ne=Attraction
-7	vent	vent	V	1	
-8	pluie	pluie	N	1	
-9	en	en	P	1	
-10	2	2	D	1	
-11	jours	jour	N	1	
-12	3	3	D	1	
-13	heures	heure	N	1	
-14	de	de	P	1	
-15	fonction	fonction	N	1	
-16	!	!	O	1	
-17	!	!	O	1	
-18	!	!	O	1	
-19	!	!	O	1	
-20	!	!	O	1	
-21	(	(	O	1	
-22	oui	oui	G	1	
-23	a	avoir	V	1	
-24	la	le	D	1	
-25	sécurité	sécurité	N	1	
-26	mais	mais	C	1	
-27	aucune	aucun	D	1	
-28	explications	explication	N	1	
-29	)	)	O	1	
-30	des	des	P	1	
-31	affichages	affichage	N	1	
-32	d'	d'	P	1	
-33	attente	attente	N	1	
-34	fantaisiste	fantaisiste	G	1	
-35	.attention	.attention	P	1	
-36	prix	prix	N	1	
-37	d'	d'	P	1	
-38	entré	entré	N	1	
-39	+	+	P	1	
-40	pass	pass	N	1	
-41	expres	expres	O	1	
-42	=	=	P	1	
-43	cher	cher	V	1	
-44	quant	quant	G	1	
-45	les	le	D	1	
-46	maneges	maneges	N	1	
-47	sont	être	V	1	
-48	fermés	fermer	V	1	
-49	.	.	O	1	
-50	manque	manque	N	1	
-51	de	de	P	1	
-52	personnel	personnel	N	1	
-53	!	!	O	1	
+1	25	25	D	1	O
+2	millions	million	N	1	O
+3	d	d	V	1	O
+4	'	'	G	1	O
+5	euros	euros	G	1	O
+6	shambala	shambala	R	1	I-Attraction
+7	vent	vent	V	1	O
+8	pluie	pluie	N	1	O
+9	en	en	P	1	O
+10	2	2	D	1	O
+11	jours	jour	N	1	O
+12	3	3	D	1	O
+13	heures	heure	N	1	O
+14	de	de	P	1	O
+15	fonction	fonction	N	1	O
+16	!	!	O	1	O
+17	!	!	O	1	O
+18	!	!	O	1	O
+19	!	!	O	1	O
+20	!	!	O	1	O
+21	(	(	O	1	O
+22	oui	oui	G	1	O
+23	a	avoir	V	1	O
+24	la	le	D	1	O
+25	sécurité	sécurité	N	1	O
+26	mais	mais	C	1	O
+27	aucune	aucun	D	1	O
+28	explications	explication	N	1	O
+29	)	)	O	1	O
+30	des	des	P	1	O
+31	affichages	affichage	N	1	O
+32	d'	d'	P	1	O
+33	attente	attente	N	1	O
+34	fantaisiste	fantaisiste	G	1	O
+35	.attention	.attention	P	1	O
+36	prix	prix	N	1	O
+37	d'	d'	P	1	O
+38	entré	entré	N	1	O
+39	+	+	P	1	O
+40	pass	pass	N	1	O
+41	expres	expres	O	1	O
+42	=	=	P	1	O
+43	cher	cher	V	1	O
+44	quant	quant	G	1	O
+45	les	le	D	1	O
+46	maneges	maneges	N	1	O
+47	sont	être	V	1	O
+48	fermés	fermer	V	1	O
+49	.	.	O	1	O
+50	manque	manque	N	1	O
+51	de	de	P	1	O
+52	personnel	personnel	N	1	O
+53	!	!	O	1	O
 
-1	pas	pas	G	1	
-2	aimable	aimable	G	1	
-3	!	!	O	1	
-4	mauvaise	mauvais	G	1	
-5	organistion	organistion	N	1	
-6	!	!	O	1	
+1	pas	pas	G	1	O
+2	aimable	aimable	G	1	O
+3	!	!	O	1	O
+4	mauvaise	mauvais	G	1	O
+5	organistion	organistion	N	1	O
+6	!	!	O	1	O
 
-1	mais	mais	C	1	
-2	spectacle	spectacle	N	1	
-3	toujours	toujours	G	1	
-4	aussi	aussi	G	1	
-5	bien	bien	G	1	
+1	mais	mais	C	1	O
+2	spectacle	spectacle	N	1	O
+3	toujours	toujours	G	1	O
+4	aussi	aussi	G	1	O
+5	bien	bien	G	1	O
 

@@ -1,154 +1,154 @@
-1	Podría	Podría	R	1	
-2	ser	ser	N	1	
-3	mejor	mejor	N	1	
+1	Podría	Podría	R	1	O
+2	ser	ser	N	1	O
+3	mejor	mejor	N	1	O
 
-1	la	la	D	1	
-2	primera	primera	O	1	
-3	sorpresa	sorpresa	O	1	
-4	fue	fue	O	1	
-5	nada	nada	O	1	
-6	mas	mas	O	1	
-7	llegar	llegar	O	1	
-8	pues	pues	O	1	
-9	nuestra	nuestra	O	1	
-10	idea	idea	O	1	
-11	era	era	O	1	
-12	entrar	entrar	O	1	
-13	al	al	G	1	
-14	spa	spa	N	1	
-15	para	para	N	1	
-16	relajarnos	relajarnos	N	1	
-17	el	el	V	1	
-18	domingo	domingo	A	1	
-19	por	por	G	1	
-20	la	la	N	1	
-21	mañana	mañana	N	1	
-22	y	y	G	1	
-23	el	el	N	1	
-24	chasco	chasco	V	1	
-25	fue	fue	G	1	
-26	que	que	N	1	
-27	estava	estava	N	1	
-28	cerrado	cerrado	V	1	
-29	algo	algo	A	1	
-30	que	que	G	1	
-31	creo	creo	N	1	
-32	deberian	deberian	N	1	
-33	avisar	avisar	G	1	
-34	al	al	G	1	
-35	hacer	hacer	N	1	
-36	la	la	N	1	
-37	reserva	reserva	N	1	
-38	que	que	N	1	
-39	va	va	V	1	
-40	a	a	D	1	
-41	estar	estar	N	1	
-42	cerrado	cerrado	N	1	
-43	,	,	O	1	
-44	pero	pero	O	1	
-45	nos	nos	O	1	
-46	comentaron	comentaron	O	1	
-47	que	que	O	1	
-48	en	en	O	1	
-49	la	la	O	1	
-50	azotea	azotea	O	1	
-51	tenian	tenian	G	1	
-52	unos	unos	N	1	
-53	jacuzzy	jacuzzy	G	1	
-54	y	y	G	1	
-55	que	que	N	1	
-56	podiamos	podiamos	N	1	
-57	subir	subir	N	1	
-58	.	.	O	1	
+1	la	la	D	1	O
+2	primera	primera	O	1	O
+3	sorpresa	sorpresa	O	1	O
+4	fue	fue	O	1	O
+5	nada	nada	O	1	O
+6	mas	mas	O	1	O
+7	llegar	llegar	O	1	O
+8	pues	pues	O	1	O
+9	nuestra	nuestra	O	1	O
+10	idea	idea	O	1	O
+11	era	era	O	1	O
+12	entrar	entrar	O	1	O
+13	al	al	G	1	O
+14	spa	spa	N	1	O
+15	para	para	N	1	O
+16	relajarnos	relajarnos	N	1	O
+17	el	el	V	1	O
+18	domingo	domingo	A	1	O
+19	por	por	G	1	O
+20	la	la	N	1	O
+21	mañana	mañana	N	1	O
+22	y	y	G	1	O
+23	el	el	N	1	O
+24	chasco	chasco	V	1	O
+25	fue	fue	G	1	O
+26	que	que	N	1	O
+27	estava	estava	N	1	O
+28	cerrado	cerrado	V	1	O
+29	algo	algo	A	1	O
+30	que	que	G	1	O
+31	creo	creo	N	1	O
+32	deberian	deberian	N	1	O
+33	avisar	avisar	G	1	O
+34	al	al	G	1	O
+35	hacer	hacer	N	1	O
+36	la	la	N	1	O
+37	reserva	reserva	N	1	O
+38	que	que	N	1	O
+39	va	va	V	1	O
+40	a	a	D	1	O
+41	estar	estar	N	1	O
+42	cerrado	cerrado	N	1	O
+43	,	,	O	1	O
+44	pero	pero	O	1	O
+45	nos	nos	O	1	O
+46	comentaron	comentaron	O	1	O
+47	que	que	O	1	O
+48	en	en	O	1	O
+49	la	la	O	1	O
+50	azotea	azotea	O	1	O
+51	tenian	tenian	G	1	O
+52	unos	unos	N	1	O
+53	jacuzzy	jacuzzy	G	1	O
+54	y	y	G	1	O
+55	que	que	N	1	O
+56	podiamos	podiamos	N	1	O
+57	subir	subir	N	1	O
+58	.	.	O	1	O
 
-1	Subimos	Subimos	R	1	
-2	a	a	D	1	
-3	la	la	R	1	
-4	habitacion	habitacion	N	1	
-5	la	la	N	1	
-6	cual	cual	G	1	
-7	era	era	N	1	
-8	muy	muy	O	1	
-9	buena	buena	V	1	
-10	para	para	G	1	
-11	mas	mama	N	1	
-12	tarde	tarde	O	1	
-13	subir	subir	V	1	
-14	a	a	O	1	
-15	la	la	O	1	
-16	azote	azote	O	1	
-17	la	la	O	1	
-18	cual	cual	G	1	
-19	e	e	N	1	
-20	de	de	P	1	
-21	decir	decir	Q	1	
-22	que	que	G	1	
-23	tiene	tiene	N	1	
-24	unas	unas	G	1	
-25	vistas	vista	N	1	
-26	espectaculares	espectaculares	V	1	
-27	pero	pero	G	1	
-28	llego	llego	O	1	
-29	la	la	O	1	
-30	segunda	segunda	O	1	
-31	decepcion	decepcion	O	1	
-32	por	por	O	1	
-33	que	que	O	1	
-34	aunque	aunque	O	1	
-35	es	es	O	1	
-36	cierto	cierto	O	1	
-37	que	que	O	1	
-38	estaban	estaban	O	1	
-39	los	los	O	1	
-40	2	2	O	1	
-41	jacuzzy	jacuzzy	G	1	
-42	el	el	N	1	
-43	agua	agua	O	1	
-44	estava	estava	O	1	
-45	un	un	G	1	
-46	poco	poco	N	1	
-47	turvia	turvia	N	1	
-48	por	por	N	1	
-49	no	no	D	1	
-50	decir	decir	N	1	
-51	sucia	sucia	N	1	
-52	y	y	G	1	
-53	para	para	N	1	
-54	colmo	colmo	N	1	
-55	ninguno	ninguno	O	1	
-56	de	de	O	1	
-57	los	los	O	1	
-58	dos	dos	O	1	
-59	funcionaban	funcionaban	O	1	
-60	los	los	O	1	
-61	chorros	chorros	O	1	
-62	con	con	O	1	
-63	lo	lo	O	1	
-64	cual	cual	G	1	
-65	si	si	N	1	
-66	no	no	D	1	
-67	fuera	fuera	N	1	
-68	por	por	N	1	
-69	las	las	V	1	
-70	vistas	vista	N	1	
-71	podia	podium	N	1	
-72	haber	haber	V	1	
-73	sido	sido	N	1	
-74	igual	igual	G	1	
-75	que	que	N	1	
-76	en	en	P	1	
-77	la	la	D	1	
-78	bañera	bañera	N	1	
-79	de	de	P	1	
-80	la	la	D	1	
-81	habitacion.	habitacion.	N	1	
-82	el	el	N	1	
-83	personal	personal	G	1	
-84	fenomenal	fenomenal	G	1	
-85	y	y	G	1	
-86	un	un	G	1	
-87	desayuno	desayuno	N	1	
-88	muy	muy	G	1	
-89	variado	variado	N	1	
-90	.	.	O	1	
+1	Subimos	Subimos	R	1	O
+2	a	a	D	1	O
+3	la	la	R	1	O
+4	habitacion	habitacion	N	1	O
+5	la	la	N	1	O
+6	cual	cual	G	1	O
+7	era	era	N	1	O
+8	muy	muy	O	1	O
+9	buena	buena	V	1	O
+10	para	para	G	1	O
+11	mas	mama	N	1	O
+12	tarde	tarde	O	1	O
+13	subir	subir	V	1	O
+14	a	a	O	1	O
+15	la	la	O	1	O
+16	azote	azote	O	1	O
+17	la	la	O	1	O
+18	cual	cual	G	1	O
+19	e	e	N	1	O
+20	de	de	P	1	O
+21	decir	decir	Q	1	O
+22	que	que	G	1	O
+23	tiene	tiene	N	1	O
+24	unas	unas	G	1	O
+25	vistas	vista	N	1	O
+26	espectaculares	espectaculares	V	1	O
+27	pero	pero	G	1	O
+28	llego	llego	O	1	O
+29	la	la	O	1	O
+30	segunda	segunda	O	1	O
+31	decepcion	decepcion	O	1	O
+32	por	por	O	1	O
+33	que	que	O	1	O
+34	aunque	aunque	O	1	O
+35	es	es	O	1	O
+36	cierto	cierto	O	1	O
+37	que	que	O	1	O
+38	estaban	estaban	O	1	O
+39	los	los	O	1	O
+40	2	2	O	1	O
+41	jacuzzy	jacuzzy	G	1	O
+42	el	el	N	1	O
+43	agua	agua	O	1	O
+44	estava	estava	O	1	O
+45	un	un	G	1	O
+46	poco	poco	N	1	O
+47	turvia	turvia	N	1	O
+48	por	por	N	1	O
+49	no	no	D	1	O
+50	decir	decir	N	1	O
+51	sucia	sucia	N	1	O
+52	y	y	G	1	O
+53	para	para	N	1	O
+54	colmo	colmo	N	1	O
+55	ninguno	ninguno	O	1	O
+56	de	de	O	1	O
+57	los	los	O	1	O
+58	dos	dos	O	1	O
+59	funcionaban	funcionaban	O	1	O
+60	los	los	O	1	O
+61	chorros	chorros	O	1	O
+62	con	con	O	1	O
+63	lo	lo	O	1	O
+64	cual	cual	G	1	O
+65	si	si	N	1	O
+66	no	no	D	1	O
+67	fuera	fuera	N	1	O
+68	por	por	N	1	O
+69	las	las	V	1	O
+70	vistas	vista	N	1	O
+71	podia	podium	N	1	O
+72	haber	haber	V	1	O
+73	sido	sido	N	1	O
+74	igual	igual	G	1	O
+75	que	que	N	1	O
+76	en	en	P	1	O
+77	la	la	D	1	O
+78	bañera	bañera	N	1	O
+79	de	de	P	1	O
+80	la	la	D	1	O
+81	habitacion.	habitacion.	N	1	O
+82	el	el	N	1	O
+83	personal	personal	G	1	O
+84	fenomenal	fenomenal	G	1	O
+85	y	y	G	1	O
+86	un	un	G	1	O
+87	desayuno	desayuno	N	1	O
+88	muy	muy	G	1	O
+89	variado	variado	N	1	O
+90	.	.	O	1	O
 

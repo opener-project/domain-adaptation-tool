@@ -1,42 +1,43 @@
-1	Non	Non	G	1	
-2	recommandable	recommandable	G	1	
+1	Non	Non	G	1	O
+2	recommandable	recommandable	G	1	O
 
-1	dommage	dommage	N	1	
-2	un	un	D	1	
-3	petit	petit	G	1	
-4	bout	bout	N	1	
-5	de	de	P	1	
-6	paradis	paradis	N	1	
-7	ou	ou	C	1	
-8	tout	tout	G	1	
-9	est	être	V	1	
-10	payant	payant	G	1	
-11	jusqu	jusqu	P	1	
-12	'	'	D	1	
-13	a	avoir	V	1	
-14	meme	meme	V	1	
-15	une	un	D	1	
-16	animation	animation	N	1	
-17	du	du	P	1	
-18	soir	soir	N	1	
-19	(	(	O	1	
-20	le_jeudi	le_jeudi	R	1	ne=Date
-21	)	)	O	1	
-22	et	et	C	1	
-23	les	le	D	1	
-24	loisirs	loisir	N	1	
+1	dommage	dommage	N	1	O
+2	un	un	D	1	O
+3	petit	petit	G	1	O
+4	bout	bout	N	1	O
+5	de	de	P	1	O
+6	paradis	paradis	N	1	O
+7	ou	ou	C	1	O
+8	tout	tout	G	1	O
+9	est	être	V	1	O
+10	payant	payant	G	1	O
+11	jusqu	jusqu	P	1	O
+12	'	'	D	1	O
+13	a	avoir	V	1	O
+14	meme	meme	V	1	O
+15	une	un	D	1	O
+16	animation	animation	N	1	O
+17	du	du	P	1	O
+18	soir	soir	N	1	O
+19	(	(	O	1	O
+20	le	le	D	1	I-Date
+21	jeudi	jeudi	N	1	I-Date
+22	)	)	O	1	O
+23	et	et	C	1	O
+24	les	le	D	1	O
+25	loisirs	loisir	N	1	O
 
-1	tellement	tellement	G	1	
-2	de	de	P	1	
-3	choses	chose	N	1	
-4	négatives	négatif	G	1	
-5	!!!	!!!	O	1	
+1	tellement	tellement	G	1	O
+2	de	de	P	1	O
+3	choses	chose	N	1	O
+4	négatives	négatif	G	1	O
+5	!!!	!!!	O	1	O
 
-1	je	je	Q	1	
-2	ne	ne	G	1	
-3	le	le	Q	1	
-4	recommande	recommander	V	1	
-5	pas	pas	G	1	
-6	du	du	D	1	
-7	tout	tout	N	1	
+1	je	je	Q	1	O
+2	ne	ne	G	1	O
+3	le	le	Q	1	O
+4	recommande	recommander	V	1	O
+5	pas	pas	G	1	O
+6	du	du	D	1	O
+7	tout	tout	N	1	O
 

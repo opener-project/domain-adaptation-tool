@@ -1,155 +1,155 @@
-1	Zo	zo	A	1	
-2	slecht	slecht	G	1	
-3	nog	nog	A	1	
-4	nooit	nooit	A	1	
-5	meegemaakt	meemaken	V	1	
+1	Zo	zo	A	1	O
+2	slecht	slecht	G	1	O
+3	nog	nog	A	1	O
+4	nooit	nooit	A	1	O
+5	meegemaakt	meemaken	V	1	O
 
-1	Het	het	D	1	
-2	enige	enige	N	1	
-3	plus	plus	P	1	
-4	punt	punt	N	1	
-5	is	zijn	V	1	
-6	dat	dat	C	1	
-7	het	het	Q	1	
-8	een	een	D	1	
-9	zandstrand	zandstrand	O	1	
-10	heeft	hebben	V	1	
-11	.	.	O	1	
+1	Het	het	D	1	O
+2	enige	enige	N	1	O
+3	plus	plus	P	1	O
+4	punt	punt	N	1	O
+5	is	zijn	V	1	O
+6	dat	dat	C	1	O
+7	het	het	Q	1	O
+8	een	een	D	1	O
+9	zandstrand	zandstrand	O	1	O
+10	heeft	hebben	V	1	O
+11	.	.	O	1	O
 
-1	Het	het	D	1	
-2	eten	eten	N	1	
-3	was	wezen|zijn	V	1	
-4	koud	koud	G	1	
-5	en	en	C	1	
-6	totaal	totaal	G	1	
-7	geen	geen	D	1	
-8	variatie	variatie	N	1	
-9	,	,	O	1	
-10	de	de	D	1	
-11	borden	bord	N	1	
-12	waren	wezen|zijn	V	1	
-13	vies	vies	G	1	
-14	werden	worden	V	1	
-15	volgens	volgens	P	1	
-16	mij	mij	Q	1	
-17	alleen	alleen	A	1	
-18	maar	maar	A	1	
-19	afgespoeld	afspoelen	V	1	
-20	met	met	P	1	
-21	water	water	N	1	
-22	.	.	O	1	
+1	Het	het	D	1	O
+2	eten	eten	N	1	O
+3	was	wezen|zijn	V	1	O
+4	koud	koud	G	1	O
+5	en	en	C	1	O
+6	totaal	totaal	G	1	O
+7	geen	geen	D	1	O
+8	variatie	variatie	N	1	O
+9	,	,	O	1	O
+10	de	de	D	1	O
+11	borden	bord	N	1	O
+12	waren	wezen|zijn	V	1	O
+13	vies	vies	G	1	O
+14	werden	worden	V	1	O
+15	volgens	volgens	P	1	O
+16	mij	mij	Q	1	O
+17	alleen	alleen	A	1	O
+18	maar	maar	A	1	O
+19	afgespoeld	afspoelen	V	1	O
+20	met	met	P	1	O
+21	water	water	N	1	O
+22	.	.	O	1	O
 
-1	De	de	D	1	
-2	tafels	tafel	N	1	
-3	werden	worden	V	1	
-4	schoongemaakt	schoonmaken	V	1	
-5	door	door	P	1	
-6	middel	middel	N	1	
-7	van	van	P	1	
-8	een	een	D	1	
-9	stoffer	stoffer	N	1	
-10	er	er	Q	1	
-11	over	over	A	1	
-12	heen	heen	A	1	
-13	te	te	O	1	
-14	halen	halen	V	1	
-15	ipv	ipv	O	1	
-16	nieuwe	nieuw	G	1	
-17	schone	schoon	G	1	
-18	tafelkleden	tafelkleed	N	1	
-19	erop	erop	Q	1	
-20	te	te	O	1	
-21	doen	doen	V	1	
-22	.	.	O	1	
+1	De	de	D	1	O
+2	tafels	tafel	N	1	O
+3	werden	worden	V	1	O
+4	schoongemaakt	schoonmaken	V	1	O
+5	door	door	P	1	O
+6	middel	middel	N	1	O
+7	van	van	P	1	O
+8	een	een	D	1	O
+9	stoffer	stoffer	N	1	O
+10	er	er	Q	1	O
+11	over	over	A	1	O
+12	heen	heen	A	1	O
+13	te	te	O	1	O
+14	halen	halen	V	1	O
+15	ipv	ipv	O	1	O
+16	nieuwe	nieuw	G	1	O
+17	schone	schoon	G	1	O
+18	tafelkleden	tafelkleed	N	1	O
+19	erop	erop	Q	1	O
+20	te	te	O	1	O
+21	doen	doen	V	1	O
+22	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	zaten	zitten	V	1	
-4	vol	vol	G	1	
-5	met	met	P	1	
-6	schimmel	schimmel	N	1	
-7	vooral	vooral	A	1	
-8	in	in	P	1	
-9	de	de	D	1	
-10	badkamers	badkamer	N	1	
-11	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	zaten	zitten	V	1	O
+4	vol	vol	G	1	O
+5	met	met	P	1	O
+6	schimmel	schimmel	N	1	O
+7	vooral	vooral	A	1	O
+8	in	in	P	1	O
+9	de	de	D	1	O
+10	badkamers	badkamer	N	1	O
+11	.	.	O	1	O
 
-1	In	in	P	1	
-2	de	de	D	1	
-3	matrassen	matras	N	1	
-4	zaten	zitten	V	1	
-5	bloedvlekken	bloedvlek	N	1	
-6	en	en	C	1	
-7	vieze	vies	G	1	
-8	gele	geel	G	1	
-9	vlekken	vlek	N	1	
-10	.	.	O	1	
+1	In	in	P	1	O
+2	de	de	D	1	O
+3	matrassen	matras	N	1	O
+4	zaten	zitten	V	1	O
+5	bloedvlekken	bloedvlek	N	1	O
+6	en	en	C	1	O
+7	vieze	vies	G	1	O
+8	gele	geel	G	1	O
+9	vlekken	vlek	N	1	O
+10	.	.	O	1	O
 
-1	Service	service	N	1	
-2	was	wezen|zijn	V	1	
-3	ook	ook	A	1	
-4	ver	ver	G	1	
-5	te	te	O	1	
-6	zoeken	zoeken	V	1	
-7	want	want	C	1	
-8	je	je	Q	1	
-9	moest	moeten	V	1	
-10	alles	alles	Q	1	
-11	zelf	zelf	Q	1	
-12	halen	halen	V	1	
-13	,	,	O	1	
-14	alleen	alleen	A	1	
-15	je	je	Q	1	
-16	legen	legen	V	1	
-17	bekers	beker	N	1	
-18	werden	worden	V	1	
-19	opgehaald	ophalen	V	1	
-20	.	.	O	1	
+1	Service	service	N	1	O
+2	was	wezen|zijn	V	1	O
+3	ook	ook	A	1	O
+4	ver	ver	G	1	O
+5	te	te	O	1	O
+6	zoeken	zoeken	V	1	O
+7	want	want	C	1	O
+8	je	je	Q	1	O
+9	moest	moeten	V	1	O
+10	alles	alles	Q	1	O
+11	zelf	zelf	Q	1	O
+12	halen	halen	V	1	O
+13	,	,	O	1	O
+14	alleen	alleen	A	1	O
+15	je	je	Q	1	O
+16	legen	legen	V	1	O
+17	bekers	beker	N	1	O
+18	werden	worden	V	1	O
+19	opgehaald	ophalen	V	1	O
+20	.	.	O	1	O
 
-1	Drinken	drinken	V	1	
-2	werd	worden	V	1	
-3	in	in	P	1	
-4	plastic	plastic	G	1	
-5	bekertjes	beker	N	1	
-6	getapt	tappen	V	1	
-7	,	,	O	1	
-8	die	die	Q	1	
-9	waren	wezen|zijn	V	1	
-10	zo	zo	A	1	
-11	slap	slap	G	1	
-12	dat	dat	C	1	
-13	je	je	Q	1	
-14	soms	soms	A	1	
-15	kapot	kapot	G	1	
-16	knijpt	knijpen	V	1	
-17	.	.	O	1	
+1	Drinken	drinken	V	1	O
+2	werd	worden	V	1	O
+3	in	in	P	1	O
+4	plastic	plastic	G	1	O
+5	bekertjes	beker	N	1	O
+6	getapt	tappen	V	1	O
+7	,	,	O	1	O
+8	die	die	Q	1	O
+9	waren	wezen|zijn	V	1	O
+10	zo	zo	A	1	O
+11	slap	slap	G	1	O
+12	dat	dat	C	1	O
+13	je	je	Q	1	O
+14	soms	soms	A	1	O
+15	kapot	kapot	G	1	O
+16	knijpt	knijpen	V	1	O
+17	.	.	O	1	O
 
-1	Zit	zitten	V	1	
-2	je	je	Q	1	
-3	in	in	P	1	
-4	een	een	D	1	
-5	all	all	O	1	
-6	inclusive	inclusive	O	1	
-7	hotel	hotel	N	1	
-8	mag	mogen	V	1	
-9	je	je	Q	1	
-10	1keer	1keer	O	1	
-11	in	in	P	1	
-12	de	de	D	1	
-13	7dagen	7dagen	R	1	ne=Date
-14	een	een	D	1	
-15	al	al	D	1	
-16	la	la	N	1	
-17	carte	carte	O	1	
-18	eten	eten	V	1	
-19	moet	moeten	V	1	
-20	je	je	Q	1	
-21	daar	daar	A	1	
-22	nog	nog	A	1	
-23	je	je	Q	1	
-24	eigen	eigen	G	1	
-25	drankje	drankje	N	1	
-26	betalen	betalen	V	1	
-27	ook	ook	A	1	
-28	.	.	O	1	
+1	Zit	zitten	V	1	O
+2	je	je	Q	1	O
+3	in	in	P	1	O
+4	een	een	D	1	O
+5	all	all	O	1	O
+6	inclusive	inclusive	O	1	O
+7	hotel	hotel	N	1	O
+8	mag	mogen	V	1	O
+9	je	je	Q	1	O
+10	1keer	1keer	O	1	O
+11	in	in	P	1	O
+12	de	de	D	1	O
+13	7dagen	7dagen	R	1	I-Date
+14	een	een	D	1	O
+15	al	al	D	1	O
+16	la	la	N	1	O
+17	carte	carte	O	1	O
+18	eten	eten	V	1	O
+19	moet	moeten	V	1	O
+20	je	je	Q	1	O
+21	daar	daar	A	1	O
+22	nog	nog	A	1	O
+23	je	je	Q	1	O
+24	eigen	eigen	G	1	O
+25	drankje	drankje	N	1	O
+26	betalen	betalen	V	1	O
+27	ook	ook	A	1	O
+28	.	.	O	1	O
 

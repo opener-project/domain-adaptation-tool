@@ -1,170 +1,170 @@
-1	Bof	Bof	N	1	
-2	Bof	Bof	N	1	
-3	!	!	O	1	
-4	!	!	O	1	
-5	!	!	O	1	
+1	Bof	Bof	N	1	O
+2	Bof	Bof	N	1	O
+3	!	!	O	1	O
+4	!	!	O	1	O
+5	!	!	O	1	O
 
-1	couple	couple	N	1	
-2	avec	avec	P	1	
-3	enfants	enfant	N	1	
-4	:	:	O	1	
+1	couple	couple	N	1	O
+2	avec	avec	P	1	O
+3	enfants	enfant	N	1	O
+4	:	:	O	1	O
 
-1	en	en	P	1	
-2	visionnant	visionner	V	1	
-3	le	le	D	1	
-4	reportage	reportage	N	1	
-5	sur	sur	P	1	
-6	le	le	D	1	
-7	site	site	N	1	
-8	nous	lui	Q	1	
-9	avons	avoir	V	1	
-10	l'	le	D	1	
-11	impression	impression	N	1	
-12	que	que	C	1	
-13	ce	ce	D	1	
-14	camping	camping	N	1	
-15	est	être	V	1	
-16	un	un	D	1	
-17	petit	petit	G	1	
-18	paradis	paradis	N	1	
-19	mais	mais	C	1	
-20	en	en	P	1	
-21	arrivant	arriver	V	1	
-22	sur	sur	P	1	
-23	place	place	N	1	
-24	on	on	Q	1	
-25	déchante	déchanter	V	1	
-26	très	très	G	1	
-27	vite	vite	G	1	
-28	,	,	O	1	
-29	acceuil	acceuil	N	1	
-30	médiocre	médiocre	G	1	
-31	,	,	O	1	
-32	personnel	personnel	N	1	
-33	pas	pas	G	1	
-34	souriant	souriant	G	1	
-35	,	,	O	1	
-36	nous	lui	Q	1	
-37	avions	avoir	V	1	
-38	réservé	réserver	V	1	
-39	un	un	D	1	
-40	kit	kit	N	1	
-41	bébé	bébé	G	1	
-42	comprenant	comprendre	V	1	
-43	un	un	D	1	
-44	lit	lit	N	1	
-45	,	,	O	1	
-46	une	un	D	1	
-47	baignoire	baignoire	N	1	
-48	et	et	C	1	
-49	une	un	D	1	
-50	chaise	chaise	N	1	
-51	haute	haut	G	1	
-52	et	et	C	1	
-53	là	là	G	1	
-54	surprise	surprendre	V	1	
-55	pas	pas	G	1	
-56	de	de	P	1	
-57	baignoire	baignoire	N	1	
-58	.	.	O	1	
-59	après	après	P	1	
-60	inventaire	inventaire	N	1	
-61	de	de	P	1	
-62	la	le	D	1	
-63	location	location	N	1	
-64	du	du	P	1	
-65	mobil	mobil	N	1	
-66	home	home	G	1	
-67	il	il	Q	1	
-68	manquait	manquer	V	1	
-69	une	un	D	1	
-70	chaise	chaise	N	1	
-71	jamais	jamais	G	1	
-72	nous	lui	Q	1	
-73	avons	avoir	V	1	
-74	vu	voir	V	1	
-75	la	le	D	1	
-76	fameuse	fameux	G	1	
-77	chaise	chaise	N	1	
-78	,	,	O	1	
-79	nuit	nuit	N	1	
-80	noire	noir	G	1	
-81	complète	complet	G	1	
-82	dans	dans	P	1	
-83	les	le	D	1	
-84	allées	allée	N	1	
-85	pas	pas	G	1	
-86	d'	d'	P	1	
-87	éclairage	éclairage	N	1	
-88	,	,	O	1	
-89	tout	tout	G	1	
-90	les	le	D	1	
-91	mobil	mobil	N	1	
-92	home	home	P	1	
-93	sont	sont	G	1	
-94	les	le	D	1	
-95	uns	uns	P	1	
-96	sur	sur	P	1	
-97	les	le	D	1	
-98	autres	autre	G	1	
-99	,	,	O	1	
-100	borne	borner	V	1	
-101	d'	d'	P	1	
-102	accés	accés	N	1	
-103	à	à	P	1	
-104	l'	le	D	1	
-105	entrée	entrée	N	1	
-106	pour	pour	P	1	
-107	l'	le	D	1	
-108	ouverture	ouverture	N	1	
-109	de	de	P	1	
-110	la	le	D	1	
-111	barrière	barrière	N	1	
-112	trop	trop	G	1	
-113	loing	loing	G	1	
-114	donc	donc	C	1	
-115	il	il	Q	1	
-116	faut	faillir	V	1	
-117	déscendre	déscendre	V	1	
-118	sans	sans]	P	1	
-119	cesse	cesse	N	1	
-120	de	de	P	1	
-121	la	le	D	1	
-122	voiture	voiture	N	1	
-123	ou	ou	C	1	
-124	érafler	érafler	V	1	
-125	une	un	D	1	
-126	aile	aile	N	1	
-127	,	,	O	1	
-128	parking	parking	N	1	
-129	d'	d'	P	1	
-130	entrée	entrée	N	1	
-131	vraiment	vraiment	G	1	
-132	trop	trop	G	1	
-133	petit	petit	G	1	
-134	,	,	O	1	
-135	loing	loing	G	1	
-136	de	de	P	1	
-137	tout	tout	D	1	
-138	minimum	minimum	N	1	
-139	30	30	D	1	
-140	min	min	N	1	
-141	de	de	P	1	
-142	voiture	voiture	N	1	
-143	,	,	O	1	
-144	je	je	Q	1	
-145	qualifierai	qualifier	V	1	
-146	ce	ce	D	1	
-147	camping	camping	N	1	
-148	"	&amp;quot;	O	1	
-149	d'	d'	P	1	
-150	usine	usine	N	1	
-151	à	à	P	1	
-152	touristes	touriste	N	1	
-153	"	&amp;quot;	O	1	
-154	voilà	voilà	V	1	
-155	bonne	bon	G	1	
-156	vacances	vacance	N	1	
-157	!	!	O	1	
-158	!	!	O	1	
+1	en	en	P	1	O
+2	visionnant	visionner	V	1	O
+3	le	le	D	1	O
+4	reportage	reportage	N	1	O
+5	sur	sur	P	1	O
+6	le	le	D	1	O
+7	site	site	N	1	O
+8	nous	lui	Q	1	O
+9	avons	avoir	V	1	O
+10	l'	le	D	1	O
+11	impression	impression	N	1	O
+12	que	que	C	1	O
+13	ce	ce	D	1	O
+14	camping	camping	N	1	O
+15	est	être	V	1	O
+16	un	un	D	1	O
+17	petit	petit	G	1	O
+18	paradis	paradis	N	1	O
+19	mais	mais	C	1	O
+20	en	en	P	1	O
+21	arrivant	arriver	V	1	O
+22	sur	sur	P	1	O
+23	place	place	N	1	O
+24	on	on	Q	1	O
+25	déchante	déchanter	V	1	O
+26	très	très	G	1	O
+27	vite	vite	G	1	O
+28	,	,	O	1	O
+29	acceuil	acceuil	N	1	O
+30	médiocre	médiocre	G	1	O
+31	,	,	O	1	O
+32	personnel	personnel	N	1	O
+33	pas	pas	G	1	O
+34	souriant	souriant	G	1	O
+35	,	,	O	1	O
+36	nous	lui	Q	1	O
+37	avions	avoir	V	1	O
+38	réservé	réserver	V	1	O
+39	un	un	D	1	O
+40	kit	kit	N	1	O
+41	bébé	bébé	G	1	O
+42	comprenant	comprendre	V	1	O
+43	un	un	D	1	O
+44	lit	lit	N	1	O
+45	,	,	O	1	O
+46	une	un	D	1	O
+47	baignoire	baignoire	N	1	O
+48	et	et	C	1	O
+49	une	un	D	1	O
+50	chaise	chaise	N	1	O
+51	haute	haut	G	1	O
+52	et	et	C	1	O
+53	là	là	G	1	O
+54	surprise	surprendre	V	1	O
+55	pas	pas	G	1	O
+56	de	de	P	1	O
+57	baignoire	baignoire	N	1	O
+58	.	.	O	1	O
+59	après	après	P	1	O
+60	inventaire	inventaire	N	1	O
+61	de	de	P	1	O
+62	la	le	D	1	O
+63	location	location	N	1	O
+64	du	du	P	1	O
+65	mobil	mobil	N	1	O
+66	home	home	G	1	O
+67	il	il	Q	1	O
+68	manquait	manquer	V	1	O
+69	une	un	D	1	O
+70	chaise	chaise	N	1	O
+71	jamais	jamais	G	1	O
+72	nous	lui	Q	1	O
+73	avons	avoir	V	1	O
+74	vu	voir	V	1	O
+75	la	le	D	1	O
+76	fameuse	fameux	G	1	O
+77	chaise	chaise	N	1	O
+78	,	,	O	1	O
+79	nuit	nuit	N	1	O
+80	noire	noir	G	1	O
+81	complète	complet	G	1	O
+82	dans	dans	P	1	O
+83	les	le	D	1	O
+84	allées	allée	N	1	O
+85	pas	pas	G	1	O
+86	d'	d'	P	1	O
+87	éclairage	éclairage	N	1	O
+88	,	,	O	1	O
+89	tout	tout	G	1	O
+90	les	le	D	1	O
+91	mobil	mobil	N	1	O
+92	home	home	P	1	O
+93	sont	sont	G	1	O
+94	les	le	D	1	O
+95	uns	uns	P	1	O
+96	sur	sur	P	1	O
+97	les	le	D	1	O
+98	autres	autre	G	1	O
+99	,	,	O	1	O
+100	borne	borner	V	1	O
+101	d'	d'	P	1	O
+102	accés	accés	N	1	O
+103	à	à	P	1	O
+104	l'	le	D	1	O
+105	entrée	entrée	N	1	O
+106	pour	pour	P	1	O
+107	l'	le	D	1	O
+108	ouverture	ouverture	N	1	O
+109	de	de	P	1	O
+110	la	le	D	1	O
+111	barrière	barrière	N	1	O
+112	trop	trop	G	1	O
+113	loing	loing	G	1	O
+114	donc	donc	C	1	O
+115	il	il	Q	1	O
+116	faut	faillir	V	1	O
+117	déscendre	déscendre	V	1	O
+118	sans	sans]	P	1	O
+119	cesse	cesse	N	1	O
+120	de	de	P	1	O
+121	la	le	D	1	O
+122	voiture	voiture	N	1	O
+123	ou	ou	C	1	O
+124	érafler	érafler	V	1	O
+125	une	un	D	1	O
+126	aile	aile	N	1	O
+127	,	,	O	1	O
+128	parking	parking	N	1	O
+129	d'	d'	P	1	O
+130	entrée	entrée	N	1	O
+131	vraiment	vraiment	G	1	O
+132	trop	trop	G	1	O
+133	petit	petit	G	1	O
+134	,	,	O	1	O
+135	loing	loing	G	1	O
+136	de	de	P	1	O
+137	tout	tout	D	1	O
+138	minimum	minimum	N	1	O
+139	30	30	D	1	O
+140	min	min	N	1	O
+141	de	de	P	1	O
+142	voiture	voiture	N	1	O
+143	,	,	O	1	O
+144	je	je	Q	1	O
+145	qualifierai	qualifier	V	1	O
+146	ce	ce	D	1	O
+147	camping	camping	N	1	O
+148	"	&amp;quot;	O	1	O
+149	d'	d'	P	1	O
+150	usine	usine	N	1	O
+151	à	à	P	1	O
+152	touristes	touriste	N	1	O
+153	"	&amp;quot;	O	1	O
+154	voilà	voilà	V	1	O
+155	bonne	bon	G	1	O
+156	vacances	vacance	N	1	O
+157	!	!	O	1	O
+158	!	!	O	1	O
 

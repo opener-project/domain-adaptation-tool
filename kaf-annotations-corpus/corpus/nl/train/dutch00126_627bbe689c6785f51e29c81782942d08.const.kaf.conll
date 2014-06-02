@@ -1,100 +1,104 @@
-1	Prima	prima	G	1	
-2	locatie	locatie	N	1	
+1	Prima	prima	G	1	O
+2	locatie	locatie	N	1	O
 
-1	prima	prima	G	1	
-2	locatie.	locatie	N	1	
-3	locatie.	.	O	1	
-4	geweldig	geweldig	G	1	
-5	verblijf	verblijf	N	1	
-6	gehad	hebben	V	1	
-7	.	.	O	1	
+1	prima	prima	G	1	O
+2	locatie.	locatie	N	1	O
+3	locatie.	.	O	1	O
+4	geweldig	geweldig	G	1	O
+5	verblijf	verblijf	N	1	O
+6	gehad	hebben	V	1	O
+7	.	.	O	1	O
 
-1	Uitstekende	uitstekend	G	1	
-2	locatie	locatie	N	1	
-3	voor	voor	P	1	
-4	een	een	D	1	
-5	stedentrip	stedentrip	O	1	
-6	met	met	P	1	
-7	veel	veel	O	1	
-8	mooie	mooi	G	1	
-9	locaties	locatie	N	1	
-10	om	om	C	1	
-11	naar	naar	G	1	
-12	te	te	O	1	
-13	gaan	gaan	V	1	
-14	kijken	kijken	V	1	
-15	.	.	O	1	
+1	Uitstekende	uitstekend	G	1	O
+2	locatie	locatie	N	1	O
+3	voor	voor	P	1	O
+4	een	een	D	1	O
+5	stedentrip	stedentrip	O	1	O
+6	met	met	P	1	O
+7	veel	veel	O	1	O
+8	mooie	mooi	G	1	O
+9	locaties	locatie	N	1	O
+10	om	om	C	1	O
+11	naar	naar	G	1	O
+12	te	te	O	1	O
+13	gaan	gaan	V	1	O
+14	kijken	kijken	V	1	O
+15	.	.	O	1	O
 
-1	Voor	voor	P	1	
-2	ieder	ieder	D	1	
-3	wat	wat	D	1	
-4	wils	wil	N	1	
-5	!	!	O	1	
+1	Voor	voor	P	1	O
+2	ieder	ieder	D	1	O
+3	wat	wat	D	1	O
+4	wils	wil	N	1	O
+5	!	!	O	1	O
 
-1	De	de	D	1	
-2	locatie	locatie	N	1	
-3	is	zijn	V	1	
-4	in	in	P	1	
-5	een	een	D	1	
-6	authentiek	authentiek	G	1	
-7	grachtenpand	grachtenpand	N	1	
-8	aan	aan	P	1	
-9	de_Singel	de_singel	R	1	ne=Location
-10	binnen	binnen	P	1	
-11	loopafstand	loopafstand	N	1	
-12	van	van	P	1	
-13	het_Centraal_Station	het_centraal_station	R	1	ne=POI
-14	,	,	O	1	
-15	dus	dus	A	1	
-16	goed	goed	N	1	
-17	bereikbaar	bereikbaar	G	1	
-18	met	met	P	1	
-19	het	het	D	1	
-20	openbaar	openbaar	G	1	
-21	vervoer	vervoer	N	1	
-22	.	.	O	1	
+1	De	de	D	1	O
+2	locatie	locatie	N	1	O
+3	is	zijn	V	1	O
+4	in	in	P	1	O
+5	een	een	D	1	O
+6	authentiek	authentiek	G	1	O
+7	grachtenpand	grachtenpand	N	1	O
+8	aan	aan	P	1	O
+9	de	de	D	1	I-Location
+10	Singel	singel	N	1	I-Location
+11	binnen	binnen	P	1	O
+12	loopafstand	loopafstand	N	1	O
+13	van	van	P	1	O
+14	het	het	D	1	I-POI
+15	Centraal	centraal	G	1	I-POI
+16	Station	station	N	1	I-POI
+17	,	,	O	1	O
+18	dus	dus	A	1	O
+19	goed	goed	N	1	O
+20	bereikbaar	bereikbaar	G	1	O
+21	met	met	P	1	O
+22	het	het	D	1	O
+23	openbaar	openbaar	G	1	O
+24	vervoer	vervoer	N	1	O
+25	.	.	O	1	O
 
-1	Ontvangst	ontvangst	N	1	
-2	is	zijn	V	1	
-3	uitstekend	uitsteken	V	1	
-4	.	.	O	1	
+1	Ontvangst	ontvangst	N	1	O
+2	is	zijn	V	1	O
+3	uitstekend	uitsteken	V	1	O
+4	.	.	O	1	O
 
-1	Voor	voor	P	1	
-2	ontbijt	ontbijt	N	1	
-3	kan	kunnen	V	1	
-4	worden	worden	V	1	
-5	gezorgd	zorgen	V	1	
-6	.	.	O	1	
+1	Voor	voor	P	1	O
+2	ontbijt	ontbijt	N	1	O
+3	kan	kunnen	V	1	O
+4	worden	worden	V	1	O
+5	gezorgd	zorgen	V	1	O
+6	.	.	O	1	O
 
-1	Het	het	D	1	
-2	ontbreken	ontbreken	N	1	
-3	van	van	P	1	
-4	een	een	D	1	
-5	restaurant	restaurant	N	1	
-6	is	zijn	V	1	
-7	geen	geen	D	1	
-8	enkel	enkel	G	1	
-9	probleem	probleem	N	1	
-10	met	met	P	1	
-11	de_Jordaan	de_Jordaan	R	1	ne=Location
-12	met	met	P	1	
-13	vele	veel	O	1	
-14	restaurants	restaurant	N	1	
-15	op	op	P	1	
-16	steenworp	steenworp	N	1	
-17	afstand	afstand	N	1	
-18	.	.	O	1	
+1	Het	het	D	1	O
+2	ontbreken	ontbreken	N	1	O
+3	van	van	P	1	O
+4	een	een	D	1	O
+5	restaurant	restaurant	N	1	O
+6	is	zijn	V	1	O
+7	geen	geen	D	1	O
+8	enkel	enkel	G	1	O
+9	probleem	probleem	N	1	O
+10	met	met	P	1	O
+11	de	de	D	1	I-Location
+12	Jordaan	Jordaan	R	1	I-Location
+13	met	met	P	1	O
+14	vele	veel	O	1	O
+15	restaurants	restaurant	N	1	O
+16	op	op	P	1	O
+17	steenworp	steenworp	N	1	O
+18	afstand	afstand	N	1	O
+19	.	.	O	1	O
 
-1	Veel	veel	O	1	
-2	culturele	cultureel	G	1	
-3	uitstapjes	uitstapje	N	1	
-4	zijn	zijn	V	1	
-5	lopend	lopend	G	1	
-6	of	of	C	1	
-7	met	met	P	1	
-8	tram	tram	N	1	
-9	zeer	zeer	G	1	
-10	goed	goed	N	1	
-11	bereikbaar	bereikbaar	G	1	
-12	.	.	O	1	
+1	Veel	veel	O	1	O
+2	culturele	cultureel	G	1	O
+3	uitstapjes	uitstapje	N	1	O
+4	zijn	zijn	V	1	O
+5	lopend	lopend	G	1	O
+6	of	of	C	1	O
+7	met	met	P	1	O
+8	tram	tram	N	1	O
+9	zeer	zeer	G	1	O
+10	goed	goed	N	1	O
+11	bereikbaar	bereikbaar	G	1	O
+12	.	.	O	1	O
 

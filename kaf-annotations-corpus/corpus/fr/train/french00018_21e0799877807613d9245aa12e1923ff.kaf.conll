@@ -1,164 +1,164 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	hôtel	hôtel	N	1	
-4	avec	avec	P	1	
-5	des	un	D	1	
-6	toboggans	toboggan	N	1	
-7	pour	pour	P	1	
-8	enfants	enfant	N	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	hôtel	hôtel	N	1	O
+4	avec	avec	P	1	O
+5	des	un	D	1	O
+6	toboggans	toboggan	N	1	O
+7	pour	pour	P	1	O
+8	enfants	enfant	N	1	O
 
-1	seul	seul	G	1	
-2	probleme	probleme	G	1	
-3	trop	trop	G	1	
-4	de	de	P	1	
-5	RUSSES	russe	N	1	
-6	!	!	O	1	
+1	seul	seul	G	1	O
+2	probleme	probleme	G	1	O
+3	trop	trop	G	1	O
+4	de	de	P	1	O
+5	RUSSES	russe	N	1	O
+6	!	!	O	1	O
 
-1	et	et	C	1	
-2	la	le	D	1	
-3	nourriture	nourriture	N	1	
-4	n'	n'	G	1	
-5	est	être	V	1	
-6	pas	pas	G	1	
-7	au	au	P	1	
-8	top	top	D	1	
-9	mais	mai	N	1	
-10	par	par	P	1	
-11	contre	contre	N	1	
-12	elle	lui	Q	1	
-13	est	être	V	1	
-14	bonne	bon	G	1	
-15	le	le	D	1	
-16	boeuf	boeuf	N	1	
-17	est	être	V	1	
-18	delicieux.	delicieux.	V	1	
-19	il	il	Q	1	
-20	y	y	Q	1	
-21	a	avoir	V	1	
-22	un	un	D	1	
-23	restaurant	restaurant	N	1	
-24	reservé	reservé	V	1	
-25	aux	aux	P	1	
-26	adultes	adulte	N	1	
-27	donc	donc	G	1	
-28	sans	sans]	P	1	
-29	enfants.	enfants.	N	1	
-30	hotel	hotel	G	1	
-31	ALL	ALL	N	1	
-32	INCLUSIVE.	INCLUSIVE.	N	1	
-33	tous	tout	G	1	
-34	les	le	D	1	
-35	jours	jour	N	1	
-36	une	un	D	1	
-37	bouteille	bouteille	N	1	
-38	d'	d'	P	1	
-39	eau	eau	N	1	
-40	par	par	P	1	
-41	personne	personne	N	1	
-42	dans	dans	P	1	
-43	le	le	D	1	
-44	frigo	frigo	N	1	
-45	+	+	P	1	
-46	coca	coca	N	1	
-47	et	et	C	1	
-48	sprite	sprite	V	1	
-49	en	en	P	1	
-50	plus	plus	G	1	
-51	des	des	P	1	
-52	boissons	boisson	N	1	
-53	a	avoir	V	1	
-54	volonté	volonté	V	1	
-55	partout	partout	G	1	
-56	dans	dans	P	1	
-57	l'	le	D	1	
-58	hotel.	hotel.	N	1	
-59	beaucoup	beaucoup	G	1	
-60	de	de	P	1	
-61	piscine	piscine	N	1	
-62	,	,	O	1	
-63	parasols	parasol	N	1	
-64	fixes	fixe	G	1	
-65	=	=	P	1	
-66	hyper	hyper	V	1	
-67	importants	important	G	1	
-68	sinon	sinon	C	1	
-69	on	on	Q	1	
-70	se	se	Q	1	
-71	les	le	D	1	
-72	fait	faire	V	1	
-73	prendre	prendre	V	1	
-74	·	·	G	1	
-75	piscines	piscines	G	1	
-76	avec	avec	P	1	
-77	acces	acces	N	1	
-78	facilité	facilité	N	1	
-79	pour	pour	P	1	
-80	enfant	enfant	N	1	
-81	et	et	C	1	
-82	handicapés	handicapé	N	1	
-83	.	.	O	1	
+1	et	et	C	1	O
+2	la	le	D	1	O
+3	nourriture	nourriture	N	1	O
+4	n'	n'	G	1	O
+5	est	être	V	1	O
+6	pas	pas	G	1	O
+7	au	au	P	1	O
+8	top	top	D	1	O
+9	mais	mai	N	1	O
+10	par	par	P	1	O
+11	contre	contre	N	1	O
+12	elle	lui	Q	1	O
+13	est	être	V	1	O
+14	bonne	bon	G	1	O
+15	le	le	D	1	O
+16	boeuf	boeuf	N	1	O
+17	est	être	V	1	O
+18	delicieux.	delicieux.	V	1	O
+19	il	il	Q	1	O
+20	y	y	Q	1	O
+21	a	avoir	V	1	O
+22	un	un	D	1	O
+23	restaurant	restaurant	N	1	O
+24	reservé	reservé	V	1	O
+25	aux	aux	P	1	O
+26	adultes	adulte	N	1	O
+27	donc	donc	G	1	O
+28	sans	sans]	P	1	O
+29	enfants.	enfants.	N	1	O
+30	hotel	hotel	G	1	O
+31	ALL	ALL	N	1	O
+32	INCLUSIVE.	INCLUSIVE.	N	1	O
+33	tous	tout	G	1	O
+34	les	le	D	1	O
+35	jours	jour	N	1	O
+36	une	un	D	1	O
+37	bouteille	bouteille	N	1	O
+38	d'	d'	P	1	O
+39	eau	eau	N	1	O
+40	par	par	P	1	O
+41	personne	personne	N	1	O
+42	dans	dans	P	1	O
+43	le	le	D	1	O
+44	frigo	frigo	N	1	O
+45	+	+	P	1	O
+46	coca	coca	N	1	O
+47	et	et	C	1	O
+48	sprite	sprite	V	1	O
+49	en	en	P	1	O
+50	plus	plus	G	1	O
+51	des	des	P	1	O
+52	boissons	boisson	N	1	O
+53	a	avoir	V	1	O
+54	volonté	volonté	V	1	O
+55	partout	partout	G	1	O
+56	dans	dans	P	1	O
+57	l'	le	D	1	O
+58	hotel.	hotel.	N	1	O
+59	beaucoup	beaucoup	G	1	O
+60	de	de	P	1	O
+61	piscine	piscine	N	1	O
+62	,	,	O	1	O
+63	parasols	parasol	N	1	O
+64	fixes	fixe	G	1	O
+65	=	=	P	1	O
+66	hyper	hyper	V	1	O
+67	importants	important	G	1	O
+68	sinon	sinon	C	1	O
+69	on	on	Q	1	O
+70	se	se	Q	1	O
+71	les	le	D	1	O
+72	fait	faire	V	1	O
+73	prendre	prendre	V	1	O
+74	·	·	G	1	O
+75	piscines	piscines	G	1	O
+76	avec	avec	P	1	O
+77	acces	acces	N	1	O
+78	facilité	facilité	N	1	O
+79	pour	pour	P	1	O
+80	enfant	enfant	N	1	O
+81	et	et	C	1	O
+82	handicapés	handicapé	N	1	O
+83	.	.	O	1	O
 
-1	Personnel	personnel	N	1	
-2	très	très	G	1	
-3	serviable	serviable	G	1	
-4	parle	parler	V	1	
-5	peu	peu	G	1	
-6	francais	francais	G	1	
-7	.	.	O	1	
+1	Personnel	personnel	N	1	O
+2	très	très	G	1	O
+3	serviable	serviable	G	1	O
+4	parle	parler	V	1	O
+5	peu	peu	G	1	O
+6	francais	francais	G	1	O
+7	.	.	O	1	O
 
-1	Hotel	Hotel	N	1	
-2	a	avoir	V	1	
-3	recommandé	recommander	V	1	
-4	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	a	avoir	V	1	O
+3	recommandé	recommander	V	1	O
+4	.	.	O	1	O
 
-1	De	De	P	1	
-2	toutes	tout	G	1	
-3	les	le	D	1	
-4	facons	facons	N	1	
-5	en	en	P	1	
-6	Egypte	Egypte	R	1	ne=Location
-7	il	il	Q	1	
-8	y	y	Q	1	
-9	a	avoir	V	1	
-10	plein	plein	G	1	
-11	de	de	P	1	
-12	Russes	russe	N	1	
-13	et	et	C	1	
-14	ce	ce	Q	1	
-15	n'	n'	G	1	
-16	est	être	V	1	
-17	pas	pas	G	1	
-18	là	là	G	1	
-19	qu'	qu'	C	1	
-20	il	il	Q	1	
-21	faut	faillir	V	1	
-22	aller	aller	V	1	
-23	pour	pour	P	1	
-24	bien	bien	G	1	
-25	manger	manger	V	1	
-26	PAR	par	N	1	
-27	CONTRE	contre	N	1	
-28	LE	le	D	1	
-29	BEAU	beau	N	1	
-30	TEMPS	temps	N	1	
-31	EST	est	N	1	
-32	ASSURE	ASSURE	N	1	
-33	.	.	O	1	
-34	un	un	D	1	
-35	plus	plus	G	1	
-36	EASYJET	EASYJET	G	1	
-37	DESSERT	DESSERT	P	1	
-38	l'	le	D	1	
-39	egypte	egypte	R	1	ne=Location
-40	!	!	O	1	
-41	=	=	P	1	
-42	baisse	baisse	N	1	
-43	les	le	D	1	
-44	prix	prix	N	1	
-45	!	!	O	1	
-46	!	!	O	1	
-47	!	!	O	1	
-48	!	!	O	1	
+1	De	De	P	1	O
+2	toutes	tout	G	1	O
+3	les	le	D	1	O
+4	facons	facons	N	1	O
+5	en	en	P	1	O
+6	Egypte	Egypte	R	1	I-Location
+7	il	il	Q	1	O
+8	y	y	Q	1	O
+9	a	avoir	V	1	O
+10	plein	plein	G	1	O
+11	de	de	P	1	O
+12	Russes	russe	N	1	O
+13	et	et	C	1	O
+14	ce	ce	Q	1	O
+15	n'	n'	G	1	O
+16	est	être	V	1	O
+17	pas	pas	G	1	O
+18	là	là	G	1	O
+19	qu'	qu'	C	1	O
+20	il	il	Q	1	O
+21	faut	faillir	V	1	O
+22	aller	aller	V	1	O
+23	pour	pour	P	1	O
+24	bien	bien	G	1	O
+25	manger	manger	V	1	O
+26	PAR	par	N	1	O
+27	CONTRE	contre	N	1	O
+28	LE	le	D	1	O
+29	BEAU	beau	N	1	O
+30	TEMPS	temps	N	1	O
+31	EST	est	N	1	O
+32	ASSURE	ASSURE	N	1	O
+33	.	.	O	1	O
+34	un	un	D	1	O
+35	plus	plus	G	1	O
+36	EASYJET	EASYJET	G	1	O
+37	DESSERT	DESSERT	P	1	O
+38	l'	le	D	1	O
+39	egypte	egypte	R	1	I-Location
+40	!	!	O	1	O
+41	=	=	P	1	O
+42	baisse	baisse	N	1	O
+43	les	le	D	1	O
+44	prix	prix	N	1	O
+45	!	!	O	1	O
+46	!	!	O	1	O
+47	!	!	O	1	O
+48	!	!	O	1	O
 
-1	super	super	N	1	
+1	super	super	N	1	O
 

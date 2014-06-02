@@ -1,173 +1,175 @@
-1	Don	Don	R	1	
-2	't	't	A	1	
-3	go	go	V	1	
-4	·	·	G	1	
-5	avoid	avoid	P	1	
-6	this	this	D	1	
-7	place	place	N	1	
-8	!	!	O	1	
+1	Don	Don	R	1	O
+2	't	't	A	1	O
+3	go	go	V	1	O
+4	·	·	G	1	O
+5	avoid	avoid	P	1	O
+6	this	this	D	1	O
+7	place	place	N	1	O
+8	!	!	O	1	O
 
-1	Although	although	P	1	
-2	these	these	D	1	
-3	apartments	apartment	N	1	
-4	may	may	O	1	
-5	look	look	V	1	
-6	great	great	G	1	
-7	on	on	P	1	
-8	the	the	D	1	
-9	internet	internet	N	1	
-10	,	,	O	1	
-11	don	don	N	1	
-12	't	't	A	1	
-13	go	go	V	1	
-14	.	.	O	1	
+1	Although	although	P	1	O
+2	these	these	D	1	O
+3	apartments	apartment	N	1	O
+4	may	may	O	1	O
+5	look	look	V	1	O
+6	great	great	G	1	O
+7	on	on	P	1	O
+8	the	the	D	1	O
+9	internet	internet	N	1	O
+10	,	,	O	1	O
+11	don	don	N	1	O
+12	't	't	A	1	O
+13	go	go	V	1	O
+14	.	.	O	1	O
 
-1	We	we	Q	1	
-2	rented	rent	V	1	
-3	for	for	P	1	
-4	a	a	D	1	
-5	full	full	G	1	
-6	week	week	N	1	
-7	with	with	P	1	
-8	our	our	Q	1	
-9	young	young	G	1	
-10	children	child	N	1	
-11	during	during	P	1	
-12	Christmas	Christmas	R	1	
-13	holidays	holiday	N	1	
-14	.	.	O	1	
+1	We	we	Q	1	O
+2	rented	rent	V	1	O
+3	for	for	P	1	O
+4	a	a	D	1	O
+5	full	full	G	1	O
+6	week	week	N	1	O
+7	with	with	P	1	O
+8	our	our	Q	1	O
+9	young	young	G	1	O
+10	children	child	N	1	O
+11	during	during	P	1	O
+12	Christmas	Christmas	R	1	O
+13	holidays	holiday	N	1	O
+14	.	.	O	1	O
 
-1	As	as	P	1	
-2	the	the	D	1	
-3	apartments	apartment	N	1	
-4	can	can	O	1	
-5	be	be	V	1	
-6	rented	rent	V	1	
-7	per	per	P	1	
-8	night	night	N	1	
-9	it	it	Q	1	
-10	attrackts	attrackts	V	1	
-11	back	back	A	1	
-12	packing	packing	N	1	
-13	,	,	O	1	
-14	party	party	N	1	
-15	focused	focus	V	1	
-16	youngsters	youngster	N	1	
-17	who	who	Q	1	
-18	tend	tend	V	1	
-19	to	to	P	1	
-20	overcrowd	overcrowd	V	1	
-21	the	the	D	1	
-22	apartments	apartment	N	1	
-23	(	(	O	1	
-24	with	with	P	1	
-25	more	more	G	1	
-26	than	than	P	1	
-27	the	the	D	1	
-28	allowed	allow	V	1	
-29	amount	amount	N	1	
-30	of	of	P	1	
-31	guests	guest	N	1	
-32	per	per	P	1	
-33	apartment	apartment	N	1	
-34	)	)	O	1	
-35	,	,	O	1	
-36	smoke	smoke	N	1	
-37	in	in	P	1	
-38	the	the	D	1	
-39	building	building	N	1	
-40	,	,	O	1	
-41	taking	take	V	1	
-42	prostitutes	prostitute	N	1	
-43	into	into	P	1	
-44	the	the	D	1	
-45	premises	premise	N	1	
-46	,	,	O	1	
-47	coming	come	V	1	
-48	home	home	A	1	
-49	between	between	P	1	
-50	4_and_6am	4_and_6am	R	1	ne=Time
-51	drunk	drunk	G	1	
-52	and	and	C	1	
-53	under	under	A	1	
-54	heavy	heavy	G	1	
-55	influence	influence	N	1	
-56	of	of	P	1	
-57	drugs	drug	N	1	
-58	.	.	O	1	
+1	As	as	P	1	O
+2	the	the	D	1	O
+3	apartments	apartment	N	1	O
+4	can	can	O	1	O
+5	be	be	V	1	O
+6	rented	rent	V	1	O
+7	per	per	P	1	O
+8	night	night	N	1	O
+9	it	it	Q	1	O
+10	attrackts	attrackts	V	1	O
+11	back	back	A	1	O
+12	packing	packing	N	1	O
+13	,	,	O	1	O
+14	party	party	N	1	O
+15	focused	focus	V	1	O
+16	youngsters	youngster	N	1	O
+17	who	who	Q	1	O
+18	tend	tend	V	1	O
+19	to	to	P	1	O
+20	overcrowd	overcrowd	V	1	O
+21	the	the	D	1	O
+22	apartments	apartment	N	1	O
+23	(	(	O	1	O
+24	with	with	P	1	O
+25	more	more	G	1	O
+26	than	than	P	1	O
+27	the	the	D	1	O
+28	allowed	allow	V	1	O
+29	amount	amount	N	1	O
+30	of	of	P	1	O
+31	guests	guest	N	1	O
+32	per	per	P	1	O
+33	apartment	apartment	N	1	O
+34	)	)	O	1	O
+35	,	,	O	1	O
+36	smoke	smoke	N	1	O
+37	in	in	P	1	O
+38	the	the	D	1	O
+39	building	building	N	1	O
+40	,	,	O	1	O
+41	taking	take	V	1	O
+42	prostitutes	prostitute	N	1	O
+43	into	into	P	1	O
+44	the	the	D	1	O
+45	premises	premise	N	1	O
+46	,	,	O	1	O
+47	coming	come	V	1	O
+48	home	home	A	1	O
+49	between	between	P	1	O
+50	4	4	O	1	I-Time
+51	and	and	C	1	I-Time
+52	6am	6am	O	1	I-Time
+53	drunk	drunk	G	1	O
+54	and	and	C	1	O
+55	under	under	A	1	O
+56	heavy	heavy	G	1	O
+57	influence	influence	N	1	O
+58	of	of	P	1	O
+59	drugs	drug	N	1	O
+60	.	.	O	1	O
 
-1	Consequently	consequently	A	1	
-2	,	,	O	1	
-3	during	during	P	1	
-4	our	our	Q	1	
-5	stay	stay	N	1	
-6	,	,	O	1	
-7	guests	guest	N	1	
-8	had	have	V	1	
-9	to	to	P	1	
-10	be	be	V	1	
-11	removed	remove	V	1	
-12	from	from	P	1	
-13	their	their	Q	1	
-14	apartments	apartment	N	1	
-15	by	by	P	1	
-16	the	the	D	1	
-17	police	police	N	1	
-18	twice	twice	A	1	
-19	,	,	O	1	
-20	as	as	P	1	
-21	a	a	D	1	
-22	result	result	N	1	
-23	of	of	P	1	
-24	heavy	heavy	G	1	
-25	verbal	verbal	G	1	
-26	fighting	fighting	N	1	
-27	,	,	O	1	
-28	the	the	D	1	
-29	use	use	N	1	
-30	of	of	P	1	
-31	noisy	noisy	G	1	
-32	fake	fake	G	1	
-33	alarms	alarm	N	1	
-34	and	and	C	1	
-35	drunk	drunk	G	1	
-36	misbehaviour	misbehaviour	N	1	
-37	.	.	O	1	
+1	Consequently	consequently	A	1	O
+2	,	,	O	1	O
+3	during	during	P	1	O
+4	our	our	Q	1	O
+5	stay	stay	N	1	O
+6	,	,	O	1	O
+7	guests	guest	N	1	O
+8	had	have	V	1	O
+9	to	to	P	1	O
+10	be	be	V	1	O
+11	removed	remove	V	1	O
+12	from	from	P	1	O
+13	their	their	Q	1	O
+14	apartments	apartment	N	1	O
+15	by	by	P	1	O
+16	the	the	D	1	O
+17	police	police	N	1	O
+18	twice	twice	A	1	O
+19	,	,	O	1	O
+20	as	as	P	1	O
+21	a	a	D	1	O
+22	result	result	N	1	O
+23	of	of	P	1	O
+24	heavy	heavy	G	1	O
+25	verbal	verbal	G	1	O
+26	fighting	fighting	N	1	O
+27	,	,	O	1	O
+28	the	the	D	1	O
+29	use	use	N	1	O
+30	of	of	P	1	O
+31	noisy	noisy	G	1	O
+32	fake	fake	G	1	O
+33	alarms	alarm	N	1	O
+34	and	and	C	1	O
+35	drunk	drunk	G	1	O
+36	misbehaviour	misbehaviour	N	1	O
+37	.	.	O	1	O
 
-1	The	the	D	1	
-2	staff	staff	N	1	
-3	takes	take	V	1	
-4	no	no	D	1	
-5	responsibility	responsibility	N	1	
-6	for	for	P	1	
-7	this	this	D	1	
-8	,	,	O	1	
-9	telling	tell	V	1	
-10	this	this	D	1	
-11	is	be	V	1	
-12	not	not	A	1	
-13	a	a	D	1	
-14	hotel	hotel	N	1	
-15	.	.	O	1	
+1	The	the	D	1	O
+2	staff	staff	N	1	O
+3	takes	take	V	1	O
+4	no	no	D	1	O
+5	responsibility	responsibility	N	1	O
+6	for	for	P	1	O
+7	this	this	D	1	O
+8	,	,	O	1	O
+9	telling	tell	V	1	O
+10	this	this	D	1	O
+11	is	be	V	1	O
+12	not	not	A	1	O
+13	a	a	D	1	O
+14	hotel	hotel	N	1	O
+15	.	.	O	1	O
 
-1	They	they	Q	1	
-2	don	don	V	1	
-3	't	't	A	1	
-4	refund	refund	V	1	
-5	and	and	C	1	
-6	just	just	A	1	
-7	call	call	V	1	
-8	the	the	D	1	
-9	police	police	N	1	
-10	all	all	D	1	
-11	the	the	D	1	
-12	time	time	N	1	
-13	,	,	O	1	
-14	so	so	A	1	
-15	that	that	P	1	
-16	they	they	Q	1	
-17	are	be	V	1	
-18	not	not	A	1	
-19	liable	liable	G	1	
-20	.	.	O	1	
+1	They	they	Q	1	O
+2	don	don	V	1	O
+3	't	't	A	1	O
+4	refund	refund	V	1	O
+5	and	and	C	1	O
+6	just	just	A	1	O
+7	call	call	V	1	O
+8	the	the	D	1	O
+9	police	police	N	1	O
+10	all	all	D	1	O
+11	the	the	D	1	O
+12	time	time	N	1	O
+13	,	,	O	1	O
+14	so	so	A	1	O
+15	that	that	P	1	O
+16	they	they	Q	1	O
+17	are	be	V	1	O
+18	not	not	A	1	O
+19	liable	liable	G	1	O
+20	.	.	O	1	O
 

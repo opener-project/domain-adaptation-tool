@@ -1,135 +1,135 @@
-1	Not	not	A	1	
-2	very	very	A	1	
-3	good	good	G	1	
-4	!	!	O	1	
+1	Not	not	A	1	O
+2	very	very	A	1	O
+3	good	good	G	1	O
+4	!	!	O	1	O
 
-1	Hotel	hotel	N	1	
-2	was	be	V	1	
-3	very	very	A	1	
-4	nice	nice	G	1	
-5	,	,	O	1	
-6	clean	clean	G	1	
-7	and	and	C	1	
-8	well	well	A	1	
-9	maintained	maintain	V	1	
-10	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	was	be	V	1	O
+3	very	very	A	1	O
+4	nice	nice	G	1	O
+5	,	,	O	1	O
+6	clean	clean	G	1	O
+7	and	and	C	1	O
+8	well	well	A	1	O
+9	maintained	maintain	V	1	O
+10	.	.	O	1	O
 
-1	However	however	A	1	
-2	the	the	D	1	
-3	food	food	N	1	
-4	was	be	V	1	
-5	cold	cold	G	1	
-6	,	,	O	1	
-7	not	not	A	1	
-8	enough	enough	A	1	
-9	crockery	crockery	G	1	
-10	/	/	N	1	
-11	cutlery	cutlery	N	1	
-12	etc	etc	N	1	
-13	in	in	P	1	
-14	restaurants	restaurant	N	1	
-15	.	.	O	1	
+1	However	however	A	1	O
+2	the	the	D	1	O
+3	food	food	N	1	O
+4	was	be	V	1	O
+5	cold	cold	G	1	O
+6	,	,	O	1	O
+7	not	not	A	1	O
+8	enough	enough	A	1	O
+9	crockery	crockery	G	1	O
+10	/	/	N	1	O
+11	cutlery	cutlery	N	1	O
+12	etc	etc	N	1	O
+13	in	in	P	1	O
+14	restaurants	restaurant	N	1	O
+15	.	.	O	1	O
 
-1	Piped	pipe	V	1	
-2	music	music	N	1	
-3	was	be	V	1	
-4	so	so	A	1	
-5	loud	loud	G	1	
-6	it	it	Q	1	
-7	made	make	V	1	
-8	your	your	Q	1	
-9	ears	ear	N	1	
-10	sting	sting	V	1	
-11	!	!	O	1	
+1	Piped	pipe	V	1	O
+2	music	music	N	1	O
+3	was	be	V	1	O
+4	so	so	A	1	O
+5	loud	loud	G	1	O
+6	it	it	Q	1	O
+7	made	make	V	1	O
+8	your	your	Q	1	O
+9	ears	ear	N	1	O
+10	sting	sting	V	1	O
+11	!	!	O	1	O
 
-1	In	in	P	1	
-2	the	the	D	1	
-3	bar	bar	N	1	
-4	areas	area	N	1	
-5	there	there	O	1	
-6	were	be	V	1	
-7	plenty	plenty	N	1	
-8	of	of	P	1	
-9	tables	table	N	1	
-10	but	but	C	1	
-11	not	not	A	1	
-12	enough	enough	G	1	
-13	tables	table	N	1	
-14	so	so	A	1	
-15	nowhere	nowhere	A	1	
-16	to	to	P	1	
-17	sit	sit	V	1	
-18	.	.	O	1	
+1	In	in	P	1	O
+2	the	the	D	1	O
+3	bar	bar	N	1	O
+4	areas	area	N	1	O
+5	there	there	O	1	O
+6	were	be	V	1	O
+7	plenty	plenty	N	1	O
+8	of	of	P	1	O
+9	tables	table	N	1	O
+10	but	but	C	1	O
+11	not	not	A	1	O
+12	enough	enough	G	1	O
+13	tables	table	N	1	O
+14	so	so	A	1	O
+15	nowhere	nowhere	A	1	O
+16	to	to	P	1	O
+17	sit	sit	V	1	O
+18	.	.	O	1	O
 
-1	The	the	D	1	
-2	visitors	visitor	N	1	
-3	were	be	V	1	
-4	mainly	mainly	A	1	
-5	Russian	russian	G	1	
-6	who	who	Q	1	
-7	were	be	V	1	
-8	treated	treat	V	1	
-9	with	with	P	1	
-10	respect	respect	N	1	
-11	,	,	O	1	
-12	served	serve	V	1	
-13	straight	straight	A	1	
-14	away	away	A	1	
-15	and	and	C	1	
-16	generally	generally	A	1	
-17	took	take	V	1	
-18	over	over	O	1	
-19	everything	everything	N	1	
-20	.	.	O	1	
+1	The	the	D	1	O
+2	visitors	visitor	N	1	O
+3	were	be	V	1	O
+4	mainly	mainly	A	1	O
+5	Russian	russian	G	1	O
+6	who	who	Q	1	O
+7	were	be	V	1	O
+8	treated	treat	V	1	O
+9	with	with	P	1	O
+10	respect	respect	N	1	O
+11	,	,	O	1	O
+12	served	serve	V	1	O
+13	straight	straight	A	1	O
+14	away	away	A	1	O
+15	and	and	C	1	O
+16	generally	generally	A	1	O
+17	took	take	V	1	O
+18	over	over	O	1	O
+19	everything	everything	N	1	O
+20	.	.	O	1	O
 
-1	They	they	Q	1	
-2	smoked	smoke	V	1	
-3	everywhere	everywhere	A	1	
-4	which	which	O	1	
-5	was	be	V	1	
-6	not	not	A	1	
-7	pleasant	pleasant	G	1	
-8	.	.	O	1	
+1	They	they	Q	1	O
+2	smoked	smoke	V	1	O
+3	everywhere	everywhere	A	1	O
+4	which	which	O	1	O
+5	was	be	V	1	O
+6	not	not	A	1	O
+7	pleasant	pleasant	G	1	O
+8	.	.	O	1	O
 
-1	As	as	P	1	
-2	we	we	Q	1	
-3	were	be	V	1	
-4	a	a	D	1	
-5	party	party	N	1	
-6	of	of	P	1	
-7	6	6	O	1	
-8	British	british	G	1	
-9	adults	adult	N	1	
-10	this	this	D	1	
-11	did	do	V	1	
-12	not	not	A	1	
-13	go	go	V	1	
-14	down	down	A	1	
-15	very	very	A	1	
-16	well	well	A	1	
-17	.	.	O	1	
+1	As	as	P	1	O
+2	we	we	Q	1	O
+3	were	be	V	1	O
+4	a	a	D	1	O
+5	party	party	N	1	O
+6	of	of	P	1	O
+7	6	6	O	1	O
+8	British	british	G	1	O
+9	adults	adult	N	1	O
+10	this	this	D	1	O
+11	did	do	V	1	O
+12	not	not	A	1	O
+13	go	go	V	1	O
+14	down	down	A	1	O
+15	very	very	A	1	O
+16	well	well	A	1	O
+17	.	.	O	1	O
 
-1	We	we	Q	1	
-2	met	meet	V	1	
-3	the	the	D	1	
-4	General	General	R	1	
-5	Manager	Manager	R	1	
-6	and	and	C	1	
-7	pointed	point	V	1	
-8	out	out	A	1	
-9	all	all	D	1	
-10	the	the	D	1	
-11	faults	fault	N	1	
-12	to	to	P	1	
-13	him	him	Q	1	
-14	·	·	V	1	
-15	to	to	P	1	
-16	say	say	V	1	
-17	he	he	Q	1	
-18	was	be	V	1	
-19	mortified	mortify	V	1	
-20	is	be	V	1	
-21	an	a	D	1	
-22	understatement	understatement	N	1	
-23	.	.	O	1	
+1	We	we	Q	1	O
+2	met	meet	V	1	O
+3	the	the	D	1	O
+4	General	General	R	1	O
+5	Manager	Manager	R	1	O
+6	and	and	C	1	O
+7	pointed	point	V	1	O
+8	out	out	A	1	O
+9	all	all	D	1	O
+10	the	the	D	1	O
+11	faults	fault	N	1	O
+12	to	to	P	1	O
+13	him	him	Q	1	O
+14	·	·	V	1	O
+15	to	to	P	1	O
+16	say	say	V	1	O
+17	he	he	Q	1	O
+18	was	be	V	1	O
+19	mortified	mortify	V	1	O
+20	is	be	V	1	O
+21	an	a	D	1	O
+22	understatement	understatement	N	1	O
+23	.	.	O	1	O
 

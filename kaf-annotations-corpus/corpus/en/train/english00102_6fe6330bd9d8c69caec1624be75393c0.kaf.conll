@@ -1,125 +1,125 @@
-1	Treated	treat	V	1	
-2	like	like	P	1	
-3	Royalty	royalty	A	1	
-4	!	!	O	1	
+1	Treated	treat	V	1	O
+2	like	like	P	1	O
+3	Royalty	royalty	A	1	O
+4	!	!	O	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	was	be	V	1	
-4	a	a	D	1	
-5	little	little	G	1	
-6	bit	bit	N	1	
-7	shabby	shabby	N	1	
-8	on	on	P	1	
-9	first	1	G	1	
-10	appearances	appearance	N	1	
-11	but	but	C	1	
-12	the	the	D	1	
-13	room	room	N	1	
-14	was	be	V	1	
-15	absolutely	absolutely	A	1	
-16	fine	fine	G	1	
-17	!	!	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	was	be	V	1	O
+4	a	a	D	1	O
+5	little	little	G	1	O
+6	bit	bit	N	1	O
+7	shabby	shabby	N	1	O
+8	on	on	P	1	O
+9	first	1	G	1	O
+10	appearances	appearance	N	1	O
+11	but	but	C	1	O
+12	the	the	D	1	O
+13	room	room	N	1	O
+14	was	be	V	1	O
+15	absolutely	absolutely	A	1	O
+16	fine	fine	G	1	O
+17	!	!	O	1	O
 
-1	The	the	D	1	
-2	beds	bed	N	1	
-3	were	be	V	1	
-4	changed	change	V	1	
-5	daily	daily	A	1	
-6	and	and	C	1	
-7	the	the	D	1	
-8	cleaners	cleaner	N	1	
-9	added	add	V	1	
-10	little	little	G	1	
-11	extras	extra	N	1	
-12	like	like	P	1	
-13	positioning	position	V	1	
-14	my	my	Q	1	
-15	son	son	N	1	
-16	's	's	O	1	
-17	teddy	teddy	N	1	
-18	in	in	P	1	
-19	different	different	G	1	
-20	ways	way	N	1	
-21	and	and	C	1	
-22	making	make	V	1	
-23	animals	animal	N	1	
-24	of	of	P	1	
-25	the	the	D	1	
-26	towels	towel	N	1	
-27	.	.	O	1	
+1	The	the	D	1	O
+2	beds	bed	N	1	O
+3	were	be	V	1	O
+4	changed	change	V	1	O
+5	daily	daily	A	1	O
+6	and	and	C	1	O
+7	the	the	D	1	O
+8	cleaners	cleaner	N	1	O
+9	added	add	V	1	O
+10	little	little	G	1	O
+11	extras	extra	N	1	O
+12	like	like	P	1	O
+13	positioning	position	V	1	O
+14	my	my	Q	1	O
+15	son	son	N	1	O
+16	's	's	O	1	O
+17	teddy	teddy	N	1	O
+18	in	in	P	1	O
+19	different	different	G	1	O
+20	ways	way	N	1	O
+21	and	and	C	1	O
+22	making	make	V	1	O
+23	animals	animal	N	1	O
+24	of	of	P	1	O
+25	the	the	D	1	O
+26	towels	towel	N	1	O
+27	.	.	O	1	O
 
-1	Because	because	P	1	
-2	there	there	O	1	
-3	are	be	V	1	
-4	so	so	A	1	
-5	few	few	G	1	
-6	English	english	N	1	
-7	who	who	Q	1	
-8	stay	stay	V	1	
-9	here	here	A	1	
-10	the	the	D	1	
-11	staff	staff	N	1	
-12	are	be	V	1	
-13	delighed	delighed	V	1	
-14	to	to	P	1	
-15	talk	talk	V	1	
-16	to	to	P	1	
-17	you	you	Q	1	
-18	!	!	O	1	
+1	Because	because	P	1	O
+2	there	there	O	1	O
+3	are	be	V	1	O
+4	so	so	A	1	O
+5	few	few	G	1	O
+6	English	english	N	1	O
+7	who	who	Q	1	O
+8	stay	stay	V	1	O
+9	here	here	A	1	O
+10	the	the	D	1	O
+11	staff	staff	N	1	O
+12	are	be	V	1	O
+13	delighed	delighed	V	1	O
+14	to	to	P	1	O
+15	talk	talk	V	1	O
+16	to	to	P	1	O
+17	you	you	Q	1	O
+18	!	!	O	1	O
 
-1	They	they	Q	1	
-2	made	make	V	1	
-3	a	a	D	1	
-4	point	point	N	1	
-5	of	of	P	1	
-6	giving	give	V	1	
-7	us	us	Q	1	
-8	the	the	D	1	
-9	best	good	G	1	
-10	sun	sun	N	1	
-11	beds	bed	N	1	
-12	and	and	C	1	
-13	towels	towel	N	1	
-14	etc	etc	O	1	
-15	and	and	C	1	
-16	were	be	V	1	
-17	telling	tell	V	1	
-18	the	the	D	1	
-19	Russians	russians	R	1	
-20	there	there	O	1	
-21	was	be	V	1	
-22	no	no	D	1	
-23	beer	beer	N	1	
-24	then	then	A	1	
-25	bringing	bring	V	1	
-26	out	out	O	1	
-27	special	special	G	1	
-28	bottles	bottle	N	1	
-29	for	for	P	1	
-30	us	us	Q	1	
-31	!	!	O	1	
+1	They	they	Q	1	O
+2	made	make	V	1	O
+3	a	a	D	1	O
+4	point	point	N	1	O
+5	of	of	P	1	O
+6	giving	give	V	1	O
+7	us	us	Q	1	O
+8	the	the	D	1	O
+9	best	good	G	1	O
+10	sun	sun	N	1	O
+11	beds	bed	N	1	O
+12	and	and	C	1	O
+13	towels	towel	N	1	O
+14	etc	etc	O	1	O
+15	and	and	C	1	O
+16	were	be	V	1	O
+17	telling	tell	V	1	O
+18	the	the	D	1	O
+19	Russians	russians	R	1	O
+20	there	there	O	1	O
+21	was	be	V	1	O
+22	no	no	D	1	O
+23	beer	beer	N	1	O
+24	then	then	A	1	O
+25	bringing	bring	V	1	O
+26	out	out	O	1	O
+27	special	special	G	1	O
+28	bottles	bottle	N	1	O
+29	for	for	P	1	O
+30	us	us	Q	1	O
+31	!	!	O	1	O
 
-1	The	the	D	1	
-2	food	food	N	1	
-3	was	be	V	1	
-4	a	a	D	1	
-5	disappointment	disappointment	N	1	
-6	,	,	O	1	
-7	although	although	P	1	
-8	there	there	O	1	
-9	was	be	V	1	
-10	plenty	plenty	N	1	
-11	of	of	P	1	
-12	variety	variety	N	1	
-13	.	.	O	1	
+1	The	the	D	1	O
+2	food	food	N	1	O
+3	was	be	V	1	O
+4	a	a	D	1	O
+5	disappointment	disappointment	N	1	O
+6	,	,	O	1	O
+7	although	although	P	1	O
+8	there	there	O	1	O
+9	was	be	V	1	O
+10	plenty	plenty	N	1	O
+11	of	of	P	1	O
+12	variety	variety	N	1	O
+13	.	.	O	1	O
 
-1	It	it	Q	1	
-2	was	be	V	1	
-3	all	all	D	1	
-4	overcooked	overcooked	G	1	
-5	and	and	C	1	
-6	luke	luke	G	1	
-7	warm	warm	N	1	
-8	!	!	O	1	
+1	It	it	Q	1	O
+2	was	be	V	1	O
+3	all	all	D	1	O
+4	overcooked	overcooked	G	1	O
+5	and	and	C	1	O
+6	luke	luke	G	1	O
+7	warm	warm	N	1	O
+8	!	!	O	1	O
 

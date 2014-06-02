@@ -1,143 +1,146 @@
-1	Un	un	D	1	
-2	des	des	P	1	
-3	meilleurs	meilleurs	D	1	
-4	hôtels	hôtel	N	1	
-5	rapport	rapport	N	1	
-6	qualité	qualité	N	1	
-7	·	·	P	1	
-8	prix	prix	N	1	
+1	Un	un	D	1	O
+2	des	des	P	1	O
+3	meilleurs	meilleurs	D	1	O
+4	hôtels	hôtel	N	1	O
+5	rapport	rapport	N	1	O
+6	qualité	qualité	N	1	O
+7	·	·	P	1	O
+8	prix	prix	N	1	O
 
-1	"	&quot;	O	1	
-2	J'	J'	Q	1	
-3	ai	avoir	V	1	
-4	eu	avoir	V	1	
-5	l'	le	D	1	
-6	occasion	occasion	N	1	
-7	de	de	P	1	
-8	séjourner	séjourner	V	1	
-9	environ	environ	G	1	
-10	6	6	D	1	
-11	nuits	nuit	N	1	
-12	pour	pour	P	1	
-13	des	un	D	1	
-14	raisons	raison	N	1	
-15	professionnelles	professionnel	G	1	
-16	entre	entre	P	1	
-17	août_et_novembre_2012	août_et_novembre_2012	R	1	ne=Date
-18	et	et	C	1	
-19	je	je	Q	1	
-20	dois	dois	G	1	
-21	dire	dire	V	1	
-22	qu'	qu'	C	1	
-23	en	en	P	1	
-24	comparaison	comparaison	N	1	
-25	avec	avec	P	1	
-26	d'	un	D	1	
-27	autres	autre	G	1	
-28	hôtels	hôtel	N	1	
-29	sur	sur	P	1	
-30	Genève	Genève	R	1	ne=Location
-31	,	,	O	1	
-32	le	le	D	1	
-33	Warwick	Warwick	R	1	ne=Hotel
-34	apporte	apporter	V	1	
-35	un	un	D	1	
-36	must	must	N	1	
-37	.	.	O	1	
+1	"	&quot;	O	1	O
+2	J'	J'	Q	1	O
+3	ai	avoir	V	1	O
+4	eu	avoir	V	1	O
+5	l'	le	D	1	O
+6	occasion	occasion	N	1	O
+7	de	de	P	1	O
+8	séjourner	séjourner	V	1	O
+9	environ	environ	G	1	O
+10	6	6	D	1	O
+11	nuits	nuit	N	1	O
+12	pour	pour	P	1	O
+13	des	un	D	1	O
+14	raisons	raison	N	1	O
+15	professionnelles	professionnel	G	1	O
+16	entre	entre	P	1	O
+17	août	août	N	1	I-Date
+18	et	et	C	1	I-Date
+19	novembre	novembre	N	1	I-Date
+20	2012	2012	G	1	I-Date
+21	et	et	C	1	O
+22	je	je	Q	1	O
+23	dois	dois	G	1	O
+24	dire	dire	V	1	O
+25	qu'	qu'	C	1	O
+26	en	en	P	1	O
+27	comparaison	comparaison	N	1	O
+28	avec	avec	P	1	O
+29	d'	un	D	1	O
+30	autres	autre	G	1	O
+31	hôtels	hôtel	N	1	O
+32	sur	sur	P	1	O
+33	Genève	Genève	R	1	I-Location
+34	,	,	O	1	O
+35	le	le	D	1	O
+36	Warwick	Warwick	R	1	I-Hotel
+37	apporte	apporter	V	1	O
+38	un	un	D	1	O
+39	must	must	N	1	O
+40	.	.	O	1	O
 
-1	L'	le	D	1	
-2	accueil	accueil	N	1	
-3	se	se	Q	1	
-4	fait	fait	N	1	
-5	par	par	P	1	
-6	le	le	D	1	
-7	nom	nom	N	1	
-8	de	de	P	1	
-9	famille	famille	N	1	
-10	,	,	O	1	
-11	personne	personne	P	1	
-12	compétente	compétente	V	1	
-13	parlant	parler	V	1	
-14	plusieurs	plusieurs	D	1	
-15	langues	langue	N	1	
-16	,	,	O	1	
-17	chambres	chambre	N	1	
-18	impeccables	impeccable	G	1	
-19	,	,	O	1	
-20	2	2	D	1	
-21	fois	foi	N	1	
-22	j'	j'	Q	1	
-23	ai	avoir	V	1	
-24	eu	avoir	V	1	
-25	un	un	D	1	
-26	Upgrade	Upgrade	N	1	
-27	.	.	O	1	
+1	L'	le	D	1	O
+2	accueil	accueil	N	1	O
+3	se	se	Q	1	O
+4	fait	fait	N	1	O
+5	par	par	P	1	O
+6	le	le	D	1	O
+7	nom	nom	N	1	O
+8	de	de	P	1	O
+9	famille	famille	N	1	O
+10	,	,	O	1	O
+11	personne	personne	P	1	O
+12	compétente	compétente	V	1	O
+13	parlant	parler	V	1	O
+14	plusieurs	plusieurs	D	1	O
+15	langues	langue	N	1	O
+16	,	,	O	1	O
+17	chambres	chambre	N	1	O
+18	impeccables	impeccable	G	1	O
+19	,	,	O	1	O
+20	2	2	D	1	O
+21	fois	foi	N	1	O
+22	j'	j'	Q	1	O
+23	ai	avoir	V	1	O
+24	eu	avoir	V	1	O
+25	un	un	D	1	O
+26	Upgrade	Upgrade	N	1	O
+27	.	.	O	1	O
 
-1	Salle	salle	N	1	
-2	de	de	P	1	
-3	bains	bain	N	1	
-4	assez	assez	G	1	
-5	grande	grand	G	1	
-6	.	.	O	1	
+1	Salle	salle	N	1	O
+2	de	de	P	1	O
+3	bains	bain	N	1	O
+4	assez	assez	G	1	O
+5	grande	grand	G	1	O
+6	.	.	O	1	O
 
-1	J'	J'	Q	1	
-2	ai	avoir	V	1	
-3	mangé	manger	V	1	
-4	deux	deux	D	1	
-5	fois	foi	N	1	
-6	au	au	P	1	
-7	restaurant	restaurer	V	1	
-8	Teseo	Teseo	R	1	ne=Attraction
-9	,	,	O	1	
-10	une	un	D	1	
-11	fois	foi	N	1	
-12	cela	cela	P	1	
-13	été	être	V	1	
-14	,	,	O	1	
-15	sans	sans]	P	1	
-16	plus	plus	G	1	
-17	,	,	O	1	
-18	la	le	D	1	
-19	deuxième	deuxième	G	1	
-20	à	à	P	1	
-21	été	été	N	1	
-22	très	très	G	1	
-23	bon	bon	G	1	
-24	.	.	O	1	
+1	J'	J'	Q	1	O
+2	ai	avoir	V	1	O
+3	mangé	manger	V	1	O
+4	deux	deux	D	1	O
+5	fois	foi	N	1	O
+6	au	au	P	1	O
+7	restaurant	restaurer	V	1	O
+8	Teseo	Teseo	R	1	I-Attraction
+9	,	,	O	1	O
+10	une	un	D	1	O
+11	fois	foi	N	1	O
+12	cela	cela	P	1	O
+13	été	être	V	1	O
+14	,	,	O	1	O
+15	sans	sans]	P	1	O
+16	plus	plus	G	1	O
+17	,	,	O	1	O
+18	la	le	D	1	O
+19	deuxième	deuxième	G	1	O
+20	à	à	P	1	O
+21	été	été	N	1	O
+22	très	très	G	1	O
+23	bon	bon	G	1	O
+24	.	.	O	1	O
 
-1	Très	Très	G	1	
-2	bien	bien	G	1	
-3	situé	situer	V	1	
-4	,	,	O	1	
-5	en	en	P	1	
-6	face	face	N	1	
-7	de	de	P	1	
-8	la	le	D	1	
-9	gare	gare	N	1	
-10	,	,	O	1	
-11	accès	accès	N	1	
-12	en	en	P	1	
-13	5	5	D	1	
-14	minutes	minute	N	1	
-15	au	au	P	1	
-16	lac	lac	N	1	
-17	,	,	O	1	
-18	en	en	P	1	
-19	15	15	D	1	
-20	min	min	N	1	
-21	au	au	P	1	
-22	centre	centre	D	1	
-23	ville	ville	N	1	
-24	.	.	O	1	
+1	Très	Très	G	1	O
+2	bien	bien	G	1	O
+3	situé	situer	V	1	O
+4	,	,	O	1	O
+5	en	en	P	1	O
+6	face	face	N	1	O
+7	de	de	P	1	O
+8	la	le	D	1	O
+9	gare	gare	N	1	O
+10	,	,	O	1	O
+11	accès	accès	N	1	O
+12	en	en	P	1	O
+13	5	5	D	1	O
+14	minutes	minute	N	1	O
+15	au	au	P	1	O
+16	lac	lac	N	1	O
+17	,	,	O	1	O
+18	en	en	P	1	O
+19	15	15	D	1	O
+20	min	min	N	1	O
+21	au	au	P	1	O
+22	centre	centre	D	1	O
+23	ville	ville	N	1	O
+24	.	.	O	1	O
 
-1	J'	J'	Q	1	
-2	y	y	Q	1	
-3	retournerai	retourner	V	1	
-4	très	très	G	1	
-5	volontiers	volontiers	G	1	
-6	en	en	P	1	
-7	2013	2013	N	1	
-8	.	.	O	1	
+1	J'	J'	Q	1	O
+2	y	y	Q	1	O
+3	retournerai	retourner	V	1	O
+4	très	très	G	1	O
+5	volontiers	volontiers	G	1	O
+6	en	en	P	1	O
+7	2013	2013	N	1	O
+8	.	.	O	1	O
 
-1	"	&quot;	O	1	
+1	"	&quot;	O	1	O
 

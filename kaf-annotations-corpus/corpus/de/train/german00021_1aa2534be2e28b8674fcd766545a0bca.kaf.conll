@@ -1,125 +1,125 @@
-1	Entspannung	Entspannung	N	1	
-2	pur	pur	G	1	
+1	Entspannung	Entspannung	N	1	O
+2	pur	pur	G	1	O
 
-1	Hotel	Hotel	N	1	
-2	liegt	liegen	V	1	
-3	zwischen	zwischen	P	1	
-4	Mastichari	Mastichari	R	1	ne=Location
-5	und	und	C	1	
-6	Marmari	Marmari	R	1	ne=Location
-7	,	,	O	1	
-8	in	in	P	1	
-9	der	die	D	1	
-10	Nähe	Nähe	N	1	
-11	sind	sein	V	1	
-12	nur	nur	A	1	
-13	zwei	zwei	O	1	
-14	weitere	weit	G	1	
-15	Hotels	Hotel	N	1	
-16	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	liegt	liegen	V	1	O
+3	zwischen	zwischen	P	1	O
+4	Mastichari	Mastichari	R	1	I-Location
+5	und	und	C	1	O
+6	Marmari	Marmari	R	1	I-Location
+7	,	,	O	1	O
+8	in	in	P	1	O
+9	der	die	D	1	O
+10	Nähe	Nähe	N	1	O
+11	sind	sein	V	1	O
+12	nur	nur	A	1	O
+13	zwei	zwei	O	1	O
+14	weitere	weit	G	1	O
+15	Hotels	Hotel	N	1	O
+16	.	.	O	1	O
 
-1	Shoppen	Shoppen	O	1	
-2	Fehlanzeige	Fehlanzeige	N	1	
-3	,	,	O	1	
-4	dafür	dafür	Q	1	
-5	Erholung	Erholung	N	1	
-6	pur	pur	G	1	
-7	.	.	O	1	
+1	Shoppen	Shoppen	O	1	O
+2	Fehlanzeige	Fehlanzeige	N	1	O
+3	,	,	O	1	O
+4	dafür	dafür	Q	1	O
+5	Erholung	Erholung	N	1	O
+6	pur	pur	G	1	O
+7	.	.	O	1	O
 
-1	Essen	Essen	N	1	
-2	und	und	C	1	
-3	Trinken	Trinken	N	1	
-4	für	für	P	1	
-5	jedermann	jedermann	Q	1	
-6	etwas	etwas	Q	1	
-7	dabei	dabei	Q	1	
-8	,	,	O	1	
-9	Cocktails	Cocktail	N	1	
-10	leider	leider	A	1	
-11	nicht	nicht	O	1	
-12	inkl.	inklusive	P	1	
-13	aber	aber	A	1	
-14	zu	zu	O	1	
-15	fairen	fair	G	1	
-16	Preisen	Preis|Preisen	N	1	
-17	.	.	O	1	
+1	Essen	Essen	N	1	O
+2	und	und	C	1	O
+3	Trinken	Trinken	N	1	O
+4	für	für	P	1	O
+5	jedermann	jedermann	Q	1	O
+6	etwas	etwas	Q	1	O
+7	dabei	dabei	Q	1	O
+8	,	,	O	1	O
+9	Cocktails	Cocktail	N	1	O
+10	leider	leider	A	1	O
+11	nicht	nicht	O	1	O
+12	inkl.	inklusive	P	1	O
+13	aber	aber	A	1	O
+14	zu	zu	O	1	O
+15	fairen	fair	G	1	O
+16	Preisen	Preis|Preisen	N	1	O
+17	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Personal	Personal	N	1	
-3	war	sein	V	1	
-4	immer	immer	A	1	
-5	freundlich	freundlich	G	1	
-6	und	und	C	1	
-7	hilfsbereit	hilfsbereit	G	1	
-8	,	,	O	1	
-9	Mängel	Mangel	N	1	
-10	in	in	P	1	
-11	unserem	unser	Q	1	
-12	Zimmer	Zimmer	N	1	
-13	wurden	werden	V	1	
-14	prompt	prompt	G	1	
-15	behoben	beheben	V	1	
-16	.	.	O	1	
+1	Das	die	D	1	O
+2	Personal	Personal	N	1	O
+3	war	sein	V	1	O
+4	immer	immer	A	1	O
+5	freundlich	freundlich	G	1	O
+6	und	und	C	1	O
+7	hilfsbereit	hilfsbereit	G	1	O
+8	,	,	O	1	O
+9	Mängel	Mangel	N	1	O
+10	in	in	P	1	O
+11	unserem	unser	Q	1	O
+12	Zimmer	Zimmer	N	1	O
+13	wurden	werden	V	1	O
+14	prompt	prompt	G	1	O
+15	behoben	beheben	V	1	O
+16	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	waren	sein	V	1	
-3	Ende	Ende	N	1	
-4	Mai	Mai	N	1	
-5	/	/	O	1	
-6	Anfang	Anfang	N	1	
-7	Juni	Juni	N	1	
-8	noch	noch	A	1	
-9	vor	vor	P	1	
-10	der	die	D	1	
-11	großen	groß	G	1	
-12	Hitze	Hitze	N	1	
-13	und	und	C	1	
-14	den	die	D	1	
-15	vielen	viele	Q	1	
-16	Urlaubern	Urlauber	N	1	
-17	da	da	V	1	
-18	,	,	O	1	
-19	sehr	sehr	A	1	
-20	angenehm	angenehm	G	1	
-21	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	waren	sein	V	1	O
+3	Ende	Ende	N	1	O
+4	Mai	Mai	N	1	O
+5	/	/	O	1	O
+6	Anfang	Anfang	N	1	O
+7	Juni	Juni	N	1	O
+8	noch	noch	A	1	O
+9	vor	vor	P	1	O
+10	der	die	D	1	O
+11	großen	groß	G	1	O
+12	Hitze	Hitze	N	1	O
+13	und	und	C	1	O
+14	den	die	D	1	O
+15	vielen	viele	Q	1	O
+16	Urlaubern	Urlauber	N	1	O
+17	da	da	V	1	O
+18	,	,	O	1	O
+19	sehr	sehr	A	1	O
+20	angenehm	angenehm	G	1	O
+21	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	können	können	V	1	
-3	das	die	D	1	
-4	Hotel	Hotel	N	1	
-5	zum	zu	P	1	
-6	Relaxen	Relaxen	O	1	
-7	sehr	sehr	A	1	
-8	empfehlen	empfehlen	V	1	
-9	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	können	können	V	1	O
+3	das	die	D	1	O
+4	Hotel	Hotel	N	1	O
+5	zum	zu	P	1	O
+6	Relaxen	Relaxen	O	1	O
+7	sehr	sehr	A	1	O
+8	empfehlen	empfehlen	V	1	O
+9	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Bus	Bus	N	1	
-3	fährt	fahren	V	1	
-4	an	an	P	1	
-5	der	die	D	1	
-6	Hauptstraße	Hauptstraße	N	1	
-7	in	in	P	1	
-8	alle	alle	Q	1	
-9	Richtungen	Richtung	N	1	
-10	und	und	C	1	
-11	mit	mit	P	1	
-12	dem	die	D	1	
-13	Auto	Auto	N	1	
-14	reicht	reichen	V	1	
-15	ein	eine	D	1	
-16	Tag	Tag	N	1	
-17	um	um	P	1	
-18	die	die	D	1	
-19	Insel	Insel	N	1	
-20	zu	zu	O	1	
-21	erkunden	erkunden	V	1	
-22	,	,	O	1	
-23	falls	falls	C	1	
-24	Langeweile	Langeweile	N	1	
-25	aufkommt	aufkommen	V	1	
-26	:	:	O	1	
-27	·	·	O	1	
-28	)	)	O	1	
-29	.	.	O	1	
+1	Der	die	D	1	O
+2	Bus	Bus	N	1	O
+3	fährt	fahren	V	1	O
+4	an	an	P	1	O
+5	der	die	D	1	O
+6	Hauptstraße	Hauptstraße	N	1	O
+7	in	in	P	1	O
+8	alle	alle	Q	1	O
+9	Richtungen	Richtung	N	1	O
+10	und	und	C	1	O
+11	mit	mit	P	1	O
+12	dem	die	D	1	O
+13	Auto	Auto	N	1	O
+14	reicht	reichen	V	1	O
+15	ein	eine	D	1	O
+16	Tag	Tag	N	1	O
+17	um	um	P	1	O
+18	die	die	D	1	O
+19	Insel	Insel	N	1	O
+20	zu	zu	O	1	O
+21	erkunden	erkunden	V	1	O
+22	,	,	O	1	O
+23	falls	falls	C	1	O
+24	Langeweile	Langeweile	N	1	O
+25	aufkommt	aufkommen	V	1	O
+26	:	:	O	1	O
+27	·	·	O	1	O
+28	)	)	O	1	O
+29	.	.	O	1	O
 

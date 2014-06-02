@@ -1,125 +1,131 @@
-1	Bonne	Bonne	R	1	
-2	hotel	hotel	N	1	
+1	Bonne	Bonne	R	1	O
+2	hotel	hotel	N	1	O
 
-1	The	the	D	1	
-2	location	location	N	1	
-3	is	be	V	1	
-4	fantastic	fantastic	G	1	
-5	,	,	O	1	
-6	so	so	A	1	
-7	close	close	G	1	
-8	to	to	P	1	
-9	the	the	D	1	
-10	Louvre	Louvre	R	1	ne=Attraction
-11	and	and	C	1	
-12	many	many	G	1	
-13	other	other	G	1	
-14	sights	sight	N	1	
-15	and	and	C	1	
-16	also	also	A	1	
-17	had	have	V	1	
-18	a	a	D	1	
-19	balcony	balcony	N	1	
-20	,	,	O	1	
-21	good	good	G	1	
-22	size	size	N	1	
-23	flat	flat	G	1	
-24	·	·	N	1	
-25	screen	screen	N	1	
-26	TV	TV	N	1	
-27	,	,	O	1	
-28	very	very	A	1	
-29	comfy	comfy	G	1	
-30	bed	bed	N	1	
-31	,	,	O	1	
-32	in	in	P	1	
-33	·	·	G	1	
-34	room	room	N	1	
-35	artwork	artwork	N	1	
-36	very	very	A	1	
-37	nice	nice	G	1	
-38	.	.	O	1	
+1	The	the	D	1	O
+2	location	location	N	1	O
+3	is	be	V	1	O
+4	fantastic	fantastic	G	1	O
+5	,	,	O	1	O
+6	so	so	A	1	O
+7	close	close	G	1	O
+8	to	to	P	1	O
+9	the	the	D	1	O
+10	Louvre	Louvre	R	1	I-Attraction
+11	and	and	C	1	O
+12	many	many	G	1	O
+13	other	other	G	1	O
+14	sights	sight	N	1	O
+15	and	and	C	1	O
+16	also	also	A	1	O
+17	had	have	V	1	O
+18	a	a	D	1	O
+19	balcony	balcony	N	1	O
+20	,	,	O	1	O
+21	good	good	G	1	O
+22	size	size	N	1	O
+23	flat	flat	G	1	O
+24	·	·	N	1	O
+25	screen	screen	N	1	O
+26	TV	TV	N	1	O
+27	,	,	O	1	O
+28	very	very	A	1	O
+29	comfy	comfy	G	1	O
+30	bed	bed	N	1	O
+31	,	,	O	1	O
+32	in	in	P	1	O
+33	·	·	G	1	O
+34	room	room	N	1	O
+35	artwork	artwork	N	1	O
+36	very	very	A	1	O
+37	nice	nice	G	1	O
+38	.	.	O	1	O
 
-1	The	the	D	1	
-2	location	location	N	1	
-3	was	be	V	1	
-4	the	the	D	1	
-5	most	much	A	1	
-6	appealing	appealing	G	1	
-7	aspect	aspect	N	1	
-8	of	of	P	1	
-9	this	this	D	1	
-10	hotel	hotel	N	1	
-11	,	,	O	1	
-12	so	so	A	1	
-13	close	close	A	1	
-14	to	to	P	1	
-15	The	the	D	1	
-16	Louvre	Louvre	R	1	ne=Attraction
-17	and	and	C	1	
-18	walking	walk	V	1	
-19	distance	distance	N	1	
-20	to	to	P	1	
-21	most	much	A	1	
-22	other	other	G	1	
-23	major	major	G	1	
-24	tourist	tourist	N	1	
-25	sights	sight	N	1	
-26	and	and	C	1	
-27	also	also	A	1	
-28	to	to	P	1	
-29	the	the	D	1	
-30	train	train	N	1	
-31	stations	station	N	1	
-32	.	.	O	1	
+1	The	the	D	1	O
+2	location	location	N	1	O
+3	was	be	V	1	O
+4	the	the	D	1	O
+5	most	much	A	1	O
+6	appealing	appealing	G	1	O
+7	aspect	aspect	N	1	O
+8	of	of	P	1	O
+9	this	this	D	1	O
+10	hotel	hotel	N	1	O
+11	,	,	O	1	O
+12	so	so	A	1	O
+13	close	close	A	1	O
+14	to	to	P	1	O
+15	The	the	D	1	O
+16	Louvre	Louvre	R	1	I-Attraction
+17	and	and	C	1	O
+18	walking	walk	V	1	O
+19	distance	distance	N	1	O
+20	to	to	P	1	O
+21	most	much	A	1	O
+22	other	other	G	1	O
+23	major	major	G	1	O
+24	tourist	tourist	N	1	O
+25	sights	sight	N	1	O
+26	and	and	C	1	O
+27	also	also	A	1	O
+28	to	to	P	1	O
+29	the	the	D	1	O
+30	train	train	N	1	O
+31	stations	station	N	1	O
+32	.	.	O	1	O
 
-1	Conseil	Conseil	R	1	
-2	·	·	N	1	
-3	attractions	attraction	N	1	
-4	:	:	O	1	
-5	The	the	D	1	
-6	Hop_·_On_Hop_·_Off_bus	Hop_·_on_Hop_·_Off_bus	R	1	ne=Attraction
-7	is	be	V	1	
-8	a	a	D	1	
-9	great	great	G	1	
-10	way	way	N	1	
-11	to	to	P	1	
-12	get	get	V	1	
-13	around	around	A	1	
-14	and	and	C	1	
-15	familiarise	familiarise	N	1	
-16	yourself	yourself	N	1	
-17	with	with	P	1	
-18	the	the	D	1	
-19	area	area	N	1	
-20	·	·	P	1	
-21	maybe	maybe	A	1	
-22	two	two	O	1	
-23	day	day	N	1	
-24	ticket	ticket	N	1	
-25	is	be	V	1	
-26	the	the	D	1	
-27	best	good	G	1	
-28	as	as	P	1	
-29	it	it	Q	1	
-30	is	be	V	1	
-31	too	too	A	1	
-32	much	much	G	1	
-33	for	for	P	1	
-34	one	one	O	1	
-35	day	day	N	1	
-36	is	be	V	1	
-37	you	you	Q	1	
-38	want	want	V	1	
-39	to	to	P	1	
-40	get	get	V	1	
-41	off	off	A	1	
-42	and	and	C	1	
-43	look	look	V	1	
-44	at	at	P	1	
-45	any	any	D	1	
-46	of	of	P	1	
-47	the	the	D	1	
-48	sights	sight	N	1	
-49	.	.	O	1	
+1	Conseil	Conseil	R	1	O
+2	·	·	N	1	O
+3	attractions	attraction	N	1	O
+4	:	:	O	1	O
+5	The	the	D	1	O
+6	Hop	Hop	R	1	I-Attraction
+7	·	·	N	1	I-Attraction
+8	On	on	P	1	I-Attraction
+9	Hop	Hop	R	1	I-Attraction
+10	·	·	R	1	I-Attraction
+11	Off	Off	R	1	I-Attraction
+12	bus	bus	N	1	I-Attraction
+13	is	be	V	1	O
+14	a	a	D	1	O
+15	great	great	G	1	O
+16	way	way	N	1	O
+17	to	to	P	1	O
+18	get	get	V	1	O
+19	around	around	A	1	O
+20	and	and	C	1	O
+21	familiarise	familiarise	N	1	O
+22	yourself	yourself	N	1	O
+23	with	with	P	1	O
+24	the	the	D	1	O
+25	area	area	N	1	O
+26	·	·	P	1	O
+27	maybe	maybe	A	1	O
+28	two	two	O	1	O
+29	day	day	N	1	O
+30	ticket	ticket	N	1	O
+31	is	be	V	1	O
+32	the	the	D	1	O
+33	best	good	G	1	O
+34	as	as	P	1	O
+35	it	it	Q	1	O
+36	is	be	V	1	O
+37	too	too	A	1	O
+38	much	much	G	1	O
+39	for	for	P	1	O
+40	one	one	O	1	O
+41	day	day	N	1	O
+42	is	be	V	1	O
+43	you	you	Q	1	O
+44	want	want	V	1	O
+45	to	to	P	1	O
+46	get	get	V	1	O
+47	off	off	A	1	O
+48	and	and	C	1	O
+49	look	look	V	1	O
+50	at	at	P	1	O
+51	any	any	D	1	O
+52	of	of	P	1	O
+53	the	the	D	1	O
+54	sights	sight	N	1	O
+55	.	.	O	1	O
 

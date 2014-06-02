@@ -1,137 +1,142 @@
-1	IBIS_Leeds_city_center	IBIS_Leeds_city_center	R	1	ne=Hotel
+1	IBIS	IBIS	R	1	I-Hotel
+2	Leeds	Leeds	R	1	I-Hotel
+3	city	city	N	1	I-Hotel
+4	center	center	N	1	I-Hotel
 
-1	The_Ibis_Leeds	the_Ibis_Leeds	R	1	ne=Hotel
-2	is	be	V	1	
-3	generally	generally	A	1	
-4	a	a	D	1	
-5	good	good	G	1	
-6	hotel	hotel	N	1	
-7	for	for	P	1	
-8	its	its	Q	1	
-9	price	price	N	1	
-10	.	.	O	1	
+1	The	the	D	1	I-Hotel
+2	Ibis	Ibis	R	1	I-Hotel
+3	Leeds	Leeds	R	1	I-Hotel
+4	is	be	V	1	O
+5	generally	generally	A	1	O
+6	a	a	D	1	O
+7	good	good	G	1	O
+8	hotel	hotel	N	1	O
+9	for	for	P	1	O
+10	its	its	Q	1	O
+11	price	price	N	1	O
+12	.	.	O	1	O
 
-1	I	i	Q	1	
-2	would	would	O	1	
-3	say	say	V	1	
-4	its	its	Q	1	
-5	a	a	D	1	
-6	good	good	G	1	
-7	2	2	O	1	
-8	star	star	N	1	
-9	hotel	hotel	N	1	
-10	.	.	O	1	
+1	I	i	Q	1	O
+2	would	would	O	1	O
+3	say	say	V	1	O
+4	its	its	Q	1	O
+5	a	a	D	1	O
+6	good	good	G	1	O
+7	2	2	O	1	O
+8	star	star	N	1	O
+9	hotel	hotel	N	1	O
+10	.	.	O	1	O
 
-1	Its	its	Q	1	
-2	clean	clean	G	1	
-3	and	and	C	1	
-4	satisfies	satisfies	N	1	
-5	all	all	D	1	
-6	the	the	D	1	
-7	basic	basic	G	1	
-8	needs	need	N	1	
-9	,	,	O	1	
-10	The	the	D	1	
-11	room	room	N	1	
-12	i	i	N	1	
-13	got	get	V	1	
-14	was	be	V	1	
-15	small	small	G	1	
-16	but	but	C	1	
-17	functional	functional	G	1	
-18	·	·	N	1	
-19	it	it	Q	1	
-20	had	have	V	1	
-21	TV	TV	N	1	
-22	,	,	O	1	
-23	Closed	close	V	1	
-24	and	and	C	1	
-25	a	a	D	1	
-26	desk.	desk.	N	1	
-27	the	the	D	1	
-28	bed	bed	N	1	
-29	wasn	wasn	N	1	
-30	't	't	A	1	
-31	the	the	D	1	
-32	most	much	A	1	
-33	comfortable	comfortable	G	1	
-34	but	but	C	1	
-35	was	be	V	1	
-36	'	'	O	1	
-37	ok	ok	G	1	
-38	'	'	O	1	
-39	.	.	O	1	
+1	Its	its	Q	1	O
+2	clean	clean	G	1	O
+3	and	and	C	1	O
+4	satisfies	satisfies	N	1	O
+5	all	all	D	1	O
+6	the	the	D	1	O
+7	basic	basic	G	1	O
+8	needs	need	N	1	O
+9	,	,	O	1	O
+10	The	the	D	1	O
+11	room	room	N	1	O
+12	i	i	N	1	O
+13	got	get	V	1	O
+14	was	be	V	1	O
+15	small	small	G	1	O
+16	but	but	C	1	O
+17	functional	functional	G	1	O
+18	·	·	N	1	O
+19	it	it	Q	1	O
+20	had	have	V	1	O
+21	TV	TV	N	1	O
+22	,	,	O	1	O
+23	Closed	close	V	1	O
+24	and	and	C	1	O
+25	a	a	D	1	O
+26	desk.	desk.	N	1	O
+27	the	the	D	1	O
+28	bed	bed	N	1	O
+29	wasn	wasn	N	1	O
+30	't	't	A	1	O
+31	the	the	D	1	O
+32	most	much	A	1	O
+33	comfortable	comfortable	G	1	O
+34	but	but	C	1	O
+35	was	be	V	1	O
+36	'	'	O	1	O
+37	ok	ok	G	1	O
+38	'	'	O	1	O
+39	.	.	O	1	O
 
-1	the	the	D	1	
-2	bath	bath	N	1	
-3	room	room	N	1	
-4	was	be	V	1	
-5	small	small	G	1	
-6	but	but	C	1	
-7	had	have	V	1	
-8	a	a	D	1	
-9	cool	cool	G	1	
-10	design	design	N	1	
-11	.	.	O	1	
+1	the	the	D	1	O
+2	bath	bath	N	1	O
+3	room	room	N	1	O
+4	was	be	V	1	O
+5	small	small	G	1	O
+6	but	but	C	1	O
+7	had	have	V	1	O
+8	a	a	D	1	O
+9	cool	cool	G	1	O
+10	design	design	N	1	O
+11	.	.	O	1	O
 
-1	Other	other	G	1	
-2	than	than	P	1	
-3	that	that	P	1	
-4	the	the	D	1	
-5	receptionists	receptionist	N	1	
-6	were	be	V	1	
-7	very	very	A	1	
-8	friendly	friendly	G	1	
-9	and	and	C	1	
-10	quick	quick	G	1	
-11	.	.	O	1	
+1	Other	other	G	1	O
+2	than	than	P	1	O
+3	that	that	P	1	O
+4	the	the	D	1	O
+5	receptionists	receptionist	N	1	O
+6	were	be	V	1	O
+7	very	very	A	1	O
+8	friendly	friendly	G	1	O
+9	and	and	C	1	O
+10	quick	quick	G	1	O
+11	.	.	O	1	O
 
-1	There	there	O	1	
-2	was	be	V	1	
-3	not	not	A	1	
-4	much	much	G	1	
-5	diversity	diversity	N	1	
-6	on	on	P	1	
-7	breakfast	breakfast	N	1	
-8	but	but	C	1	
-9	it	it	Q	1	
-10	was	be	V	1	
-11	fresh	fresh	G	1	
-12	and	and	C	1	
-13	in	in	A	1	
-14	good	good	G	1	
-15	quality	quality	N	1	
-16	.	.	O	1	
+1	There	there	O	1	O
+2	was	be	V	1	O
+3	not	not	A	1	O
+4	much	much	G	1	O
+5	diversity	diversity	N	1	O
+6	on	on	P	1	O
+7	breakfast	breakfast	N	1	O
+8	but	but	C	1	O
+9	it	it	Q	1	O
+10	was	be	V	1	O
+11	fresh	fresh	G	1	O
+12	and	and	C	1	O
+13	in	in	A	1	O
+14	good	good	G	1	O
+15	quality	quality	N	1	O
+16	.	.	O	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	is	be	V	1	
-4	about	about	P	1	
-5	a	a	D	1	
-6	20	20	O	1	
-7	minutes	minute	N	1	
-8	walking	walk	V	1	
-9	distance	distance	N	1	
-10	from	from	P	1	
-11	the	the	D	1	
-12	city	city	N	1	
-13	center	center	N	1	
-14	and	and	C	1	
-15	theres	theres	A	1	
-16	nothing	nothing	N	1	
-17	around	around	A	1	
-18	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	is	be	V	1	O
+4	about	about	P	1	O
+5	a	a	D	1	O
+6	20	20	O	1	O
+7	minutes	minute	N	1	O
+8	walking	walk	V	1	O
+9	distance	distance	N	1	O
+10	from	from	P	1	O
+11	the	the	D	1	O
+12	city	city	N	1	O
+13	center	center	N	1	O
+14	and	and	C	1	O
+15	theres	theres	A	1	O
+16	nothing	nothing	N	1	O
+17	around	around	A	1	O
+18	.	.	O	1	O
 
-1	If	if	P	1	
-2	you	you	Q	1	
-3	're	're	V	1	
-4	low	low	G	1	
-5	on	on	P	1	
-6	budget	budget	N	1	
-7	its	its	Q	1	
-8	the	the	D	1	
-9	place	place	N	1	
-10	for	for	P	1	
-11	you	you	Q	1	
-12	.	.	O	1	
+1	If	if	P	1	O
+2	you	you	Q	1	O
+3	're	're	V	1	O
+4	low	low	G	1	O
+5	on	on	P	1	O
+6	budget	budget	N	1	O
+7	its	its	Q	1	O
+8	the	the	D	1	O
+9	place	place	N	1	O
+10	for	for	P	1	O
+11	you	you	Q	1	O
+12	.	.	O	1	O
 

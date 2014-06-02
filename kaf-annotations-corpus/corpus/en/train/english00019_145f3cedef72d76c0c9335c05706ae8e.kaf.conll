@@ -1,102 +1,102 @@
-1	Three	three	O	1	
-2	stars	star	N	1	
-3	stated	state	V	1	
-4	...	...	O	1	
-5	but	but	C	1	
-6	where	where	O	1	
-7	?	?	O	1	
+1	Three	three	O	1	O
+2	stars	star	N	1	O
+3	stated	state	V	1	O
+4	...	...	O	1	O
+5	but	but	C	1	O
+6	where	where	O	1	O
+7	?	?	O	1	O
 
-1	This	this	D	1	
-2	hotel	hotel	N	1	
-3	has	have	V	1	
-4	only	only	A	1	
-5	one	one	O	1	
-6	great	great	G	1	
-7	thing	thing	N	1	
-8	:	:	O	1	
-9	the	the	D	1	
-10	friendly	friendly	G	1	
-11	staff	staff	N	1	
-12	.	.	O	1	
+1	This	this	D	1	O
+2	hotel	hotel	N	1	O
+3	has	have	V	1	O
+4	only	only	A	1	O
+5	one	one	O	1	O
+6	great	great	G	1	O
+7	thing	thing	N	1	O
+8	:	:	O	1	O
+9	the	the	D	1	O
+10	friendly	friendly	G	1	O
+11	staff	staff	N	1	O
+12	.	.	O	1	O
 
-1	It	it	Q	1	
-2	is	be	V	1	
-3	worn	wear	V	1	
-4	down	down	A	1	
-5	,	,	O	1	
-6	not	not	A	1	
-7	clean	clean	G	1	
-8	and	and	C	1	
-9	the	the	D	1	
-10	whole	whole	G	1	
-11	hotel	hotel	N	1	
-12	looks	look	V	1	
-13	like	like	P	1	
-14	a	a	D	1	
-15	mess	mess	N	1	
-16	.	.	O	1	
+1	It	it	Q	1	O
+2	is	be	V	1	O
+3	worn	wear	V	1	O
+4	down	down	A	1	O
+5	,	,	O	1	O
+6	not	not	A	1	O
+7	clean	clean	G	1	O
+8	and	and	C	1	O
+9	the	the	D	1	O
+10	whole	whole	G	1	O
+11	hotel	hotel	N	1	O
+12	looks	look	V	1	O
+13	like	like	P	1	O
+14	a	a	D	1	O
+15	mess	mess	N	1	O
+16	.	.	O	1	O
 
-1	The	the	D	1	
-2	only	only	G	1	
-3	positive	positive	N	1	
-4	is	be	V	1	
-5	that	that	P	1	
-6	they	they	Q	1	
-7	are	be	V	1	
-8	offering	offer	V	1	
-9	free	free	G	1	
-10	internet	internet	N	1	
-11	in	in	P	1	
-12	the	the	D	1	
-13	lobby	lobby	N	1	
-14	,	,	O	1	
-15	some	some	D	1	
-16	welcome	welcome	G	1	
-17	drinks	drink	N	1	
-18	buffet	buffet	N	1	
-19	and	and	C	1	
-20	friendly	friendly	G	1	
-21	reception	reception	N	1	
-22	staff	staff	N	1	
-23	.	.	O	1	
+1	The	the	D	1	O
+2	only	only	G	1	O
+3	positive	positive	N	1	O
+4	is	be	V	1	O
+5	that	that	P	1	O
+6	they	they	Q	1	O
+7	are	be	V	1	O
+8	offering	offer	V	1	O
+9	free	free	G	1	O
+10	internet	internet	N	1	O
+11	in	in	P	1	O
+12	the	the	D	1	O
+13	lobby	lobby	N	1	O
+14	,	,	O	1	O
+15	some	some	D	1	O
+16	welcome	welcome	G	1	O
+17	drinks	drink	N	1	O
+18	buffet	buffet	N	1	O
+19	and	and	C	1	O
+20	friendly	friendly	G	1	O
+21	reception	reception	N	1	O
+22	staff	staff	N	1	O
+23	.	.	O	1	O
 
-1	Location	Location	R	1	
-2	is	be	V	1	
-3	close	close	G	1	
-4	to	to	P	1	
-5	the	the	D	1	
-6	station	station	N	1	
-7	but	but	C	1	
-8	this	this	D	1	
-9	hotel	hotel	N	1	
-10	was	be	V	1	
-11	all	all	D	1	
-12	in	in	P	1	
-13	all	all	D	1	
-14	quite	quite	D	1	
-15	an	a	D	1	
-16	unpleasant	unpleasant	G	1	
-17	experience	experience	N	1	
-18	looking	look	V	1	
-19	into	into	P	1	
-20	the	the	D	1	
-21	hotel	hotel	N	1	
-22	"	"	N	1	
-23	hardware	hardware	N	1	
-24	"	"	N	1	
-25	.	.	O	1	
+1	Location	Location	R	1	O
+2	is	be	V	1	O
+3	close	close	G	1	O
+4	to	to	P	1	O
+5	the	the	D	1	O
+6	station	station	N	1	O
+7	but	but	C	1	O
+8	this	this	D	1	O
+9	hotel	hotel	N	1	O
+10	was	be	V	1	O
+11	all	all	D	1	O
+12	in	in	P	1	O
+13	all	all	D	1	O
+14	quite	quite	D	1	O
+15	an	a	D	1	O
+16	unpleasant	unpleasant	G	1	O
+17	experience	experience	N	1	O
+18	looking	look	V	1	O
+19	into	into	P	1	O
+20	the	the	D	1	O
+21	hotel	hotel	N	1	O
+22	"	"	N	1	O
+23	hardware	hardware	N	1	O
+24	"	"	N	1	O
+25	.	.	O	1	O
 
-1	Room	Room	R	1	
-2	Tip	Tip	R	1	
-3	:	:	O	1	
-4	Best	good	G	1	
-5	rooms	room	N	1	
-6	are	be	V	1	
-7	in	in	P	1	
-8	another	another	D	1	
-9	hotel	hotel	N	1	
-10	,	,	O	1	
-11	not	not	A	1	
-12	there	there	A	1	
-13	.	.	O	1	
+1	Room	Room	R	1	O
+2	Tip	Tip	R	1	O
+3	:	:	O	1	O
+4	Best	good	G	1	O
+5	rooms	room	N	1	O
+6	are	be	V	1	O
+7	in	in	P	1	O
+8	another	another	D	1	O
+9	hotel	hotel	N	1	O
+10	,	,	O	1	O
+11	not	not	A	1	O
+12	there	there	A	1	O
+13	.	.	O	1	O
 

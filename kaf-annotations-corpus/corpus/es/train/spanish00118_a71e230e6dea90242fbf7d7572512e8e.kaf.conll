@@ -1,46 +1,46 @@
-1	Hotel	hotel	N	1	
-2	Genial	Genial	R	1	
+1	Hotel	hotel	N	1	O
+2	Genial	Genial	R	1	O
 
-1	Hotel	Hotel	R	1	
-2	encantador	encantador	O	1	
-3	y	y	G	1	
-4	muy	muy	G	1	
-5	bien	bien	N	1	
-6	situado	situado	N	1	
-7	.	.	O	1	
+1	Hotel	Hotel	R	1	O
+2	encantador	encantador	O	1	O
+3	y	y	G	1	O
+4	muy	muy	G	1	O
+5	bien	bien	N	1	O
+6	situado	situado	N	1	O
+7	.	.	O	1	O
 
-1	Relacion	Relacion	R	1	
-2	calidad	calidad	V	1	
-3	·	·	N	1	
-4	precio	precio	N	1	
-5	inmejorable	inmejorable	G	1	
-6	.	.	O	1	
+1	Relacion	Relacion	R	1	O
+2	calidad	calidad	V	1	O
+3	·	·	N	1	O
+4	precio	precio	N	1	O
+5	inmejorable	inmejorable	G	1	O
+6	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	N	1	
-3	del	del	O	1	
-4	personal	personal	G	1	
-5	fue	fue	N	1	
-6	cuidado	cuidado	N	1	
-7	y	y	G	1	
-8	muy	muy	G	1	
-9	agradable	agradable	G	1	
-10	,	,	O	1	
-11	el	el	G	1	
-12	check	check	N	1	
-13	·	·	N	1	
-14	in	in	P	1	
-15	y	y	G	1	
-16	el	el	N	1	
-17	check	check	V	1	
-18	·	·	N	1	
-19	out	out	P	1	
-20	fueron	fueron	N	1	
-21	rapidos	rapidos	N	1	
-22	y	y	G	1	
-23	sin	sin	N	1	
-24	ninguna	ninguna	P	1	
-25	clase	clase	G	1	
-26	de	de	O	1	
-27	problema	problema	O	1	
+1	El	El	R	1	O
+2	trato	trato	N	1	O
+3	del	del	O	1	O
+4	personal	personal	G	1	O
+5	fue	fue	N	1	O
+6	cuidado	cuidado	N	1	O
+7	y	y	G	1	O
+8	muy	muy	G	1	O
+9	agradable	agradable	G	1	O
+10	,	,	O	1	O
+11	el	el	G	1	O
+12	check	check	N	1	O
+13	·	·	N	1	O
+14	in	in	P	1	O
+15	y	y	G	1	O
+16	el	el	N	1	O
+17	check	check	V	1	O
+18	·	·	N	1	O
+19	out	out	P	1	O
+20	fueron	fueron	N	1	O
+21	rapidos	rapidos	N	1	O
+22	y	y	G	1	O
+23	sin	sin	N	1	O
+24	ninguna	ninguna	P	1	O
+25	clase	clase	G	1	O
+26	de	de	O	1	O
+27	problema	problema	O	1	O
 

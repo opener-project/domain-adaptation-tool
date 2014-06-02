@@ -1,56 +1,56 @@
-1	En	En	R	1	
-2	general	general	G	1	
-3	muy	muy	N	1	
-4	acogedor	acogedor	N	1	
-5	y	y	G	1	
-6	un	un	G	1	
-7	servicio	servicio	N	1	
-8	excelente	excelente	P	1	
+1	En	En	R	1	O
+2	general	general	G	1	O
+3	muy	muy	N	1	O
+4	acogedor	acogedor	N	1	O
+5	y	y	G	1	O
+6	un	un	G	1	O
+7	servicio	servicio	N	1	O
+8	excelente	excelente	P	1	O
 
-1	no	no	D	1	
-2	puedo	puedo	N	1	
-3	decir	decir	V	1	
-4	nada	nada	N	1	
-5	en	en	P	1	
-6	contra	contra	N	1	
-7	,	,	O	1	
-8	el	el	N	1	
-9	personal	personal	G	1	
-10	maravilloso	maravilloso	N	1	
-11	desde	desde	O	1	
-12	la	la	O	1	
-13	direccion	direccion	O	1	
-14	hasta	hasta	O	1	
-15	el	el	O	1	
-16	ultimo	ultimo	O	1	
-17	empleado	empleado	O	1	
-18	te	te	O	1	
-19	hacen	hacen	O	1	
-20	encontrar	encontrar	O	1	
-21	en	en	O	1	
-22	un	un	G	1	
-23	ambiente	ambiente	G	1	
-24	muy	muy	G	1	
-25	acogedor	acogedor	N	1	
-26	,	,	O	1	
-27	las	las	V	1	
-28	habitaciones	habitaciones	N	1	
-29	estupendas	estupendas	N	1	
-30	,	,	O	1	
-31	amplias	amplias	N	1	
-32	y	y	A	1	
-33	confortables	confortables	V	1	
-34	,	,	O	1	
-35	cualquier	cualquier	G	1	
-36	persona	persona	N	1	
-37	deseando	deseando	O	1	
-38	ayudarte	ayudarte	O	1	
-39	y	y	G	1	
-40	los	los	N	1	
-41	espacios	espacios	N	1	
-42	del	del	G	1	
-43	hotel	hotel	N	1	
-44	limpios	limpios	N	1	
-45	y	y	A	1	
-46	confortables	confortables	V	1	
+1	no	no	D	1	O
+2	puedo	puedo	N	1	O
+3	decir	decir	V	1	O
+4	nada	nada	N	1	O
+5	en	en	P	1	O
+6	contra	contra	N	1	O
+7	,	,	O	1	O
+8	el	el	N	1	O
+9	personal	personal	G	1	O
+10	maravilloso	maravilloso	N	1	O
+11	desde	desde	O	1	O
+12	la	la	O	1	O
+13	direccion	direccion	O	1	O
+14	hasta	hasta	O	1	O
+15	el	el	O	1	O
+16	ultimo	ultimo	O	1	O
+17	empleado	empleado	O	1	O
+18	te	te	O	1	O
+19	hacen	hacen	O	1	O
+20	encontrar	encontrar	O	1	O
+21	en	en	O	1	O
+22	un	un	G	1	O
+23	ambiente	ambiente	G	1	O
+24	muy	muy	G	1	O
+25	acogedor	acogedor	N	1	O
+26	,	,	O	1	O
+27	las	las	V	1	O
+28	habitaciones	habitaciones	N	1	O
+29	estupendas	estupendas	N	1	O
+30	,	,	O	1	O
+31	amplias	amplias	N	1	O
+32	y	y	A	1	O
+33	confortables	confortables	V	1	O
+34	,	,	O	1	O
+35	cualquier	cualquier	G	1	O
+36	persona	persona	N	1	O
+37	deseando	deseando	O	1	O
+38	ayudarte	ayudarte	O	1	O
+39	y	y	G	1	O
+40	los	los	N	1	O
+41	espacios	espacios	N	1	O
+42	del	del	G	1	O
+43	hotel	hotel	N	1	O
+44	limpios	limpios	N	1	O
+45	y	y	A	1	O
+46	confortables	confortables	V	1	O
 

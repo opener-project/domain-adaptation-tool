@@ -1,148 +1,164 @@
-1	Un	un	G	1	
-2	hotel	hotel	N	1	
-3	sencillo	sencillo	N	1	
-4	pero	pero	O	1	
-5	ideal	ideal	G	1	
-6	para	para	N	1	
-7	conocer	conocer	N	1	
-8	Mequinez	Mequinez	R	1	ne=Location
+1	Un	un	G	1	O
+2	hotel	hotel	N	1	O
+3	sencillo	sencillo	N	1	O
+4	pero	pero	O	1	O
+5	ideal	ideal	G	1	O
+6	para	para	N	1	O
+7	conocer	conocer	N	1	O
+8	Mequinez	Mequinez	R	1	I-Location
 
-1	El	El	R	1	
-2	motivo	motivo	O	1	
-3	de	de	O	1	
-4	nuestra	nuestra	O	1	
-5	estancia	estancia	O	1	
-6	en	en	O	1	
-7	Meknés	meknés	R	1	ne=Location
-8	(	(	O	1	
-9	o	o	A	1	
-10	Mequinez	Mequinez	R	1	ne=Location
-11	,	,	O	1	
-12	como	como	N	1	
-13	también	también	N	1	
-14	se	se	O	1	
-15	la	la	O	1	
-16	escribe	escribe	O	1	
-17	a	a	O	1	
-18	esta	esta	O	1	
-19	hermosa	hermosa	O	1	
-20	ciudad	ciudad	O	1	
-21	imperial	imperial	G	1	
-22	del	del	N	1	
-23	Norte_de_Marruecos	Norte_de_Marruecos	R	1	ne=Location
-24	)	)	O	1	
-25	era	era	N	1	
-26	el	el	N	1	
-27	puro	puro	N	1	
-28	placer	placer	N	1	
-29	.	.	O	1	
+1	El	El	R	1	O
+2	motivo	motivo	O	1	O
+3	de	de	O	1	O
+4	nuestra	nuestra	O	1	O
+5	estancia	estancia	O	1	O
+6	en	en	O	1	O
+7	Meknés	meknés	R	1	I-Location
+8	(	(	O	1	O
+9	o	o	A	1	O
+10	Mequinez	Mequinez	R	1	I-Location
+11	,	,	O	1	O
+12	como	como	N	1	O
+13	también	también	N	1	O
+14	se	se	O	1	O
+15	la	la	O	1	O
+16	escribe	escribe	O	1	O
+17	a	a	O	1	O
+18	esta	esta	O	1	O
+19	hermosa	hermosa	O	1	O
+20	ciudad	ciudad	O	1	O
+21	imperial	imperial	G	1	O
+22	del	del	N	1	O
+23	Norte	Norte	R	1	I-Location
+24	de	de	P	1	I-Location
+25	Marruecos	Marruecos	R	1	I-Location
+26	)	)	O	1	O
+27	era	era	N	1	O
+28	el	el	N	1	O
+29	puro	puro	N	1	O
+30	placer	placer	N	1	O
+31	.	.	O	1	O
 
-1	Íbamos	íbamos	N	1	
-2	mi	mi	O	1	
-3	suegro	suegro	V	1	
-4	,	,	O	1	
-5	mi	mi	N	1	
-6	padre	padre	V	1	
-7	,	,	O	1	
-8	mi	mi	G	1	
-9	novia	novia	N	1	
-10	y	y	G	1	
-11	yo	yo	N	1	
-12	y	y	A	1	
-13	decidimos	decidimos	V	1	
-14	hacer	hacer	N	1	
-15	una	una	G	1	
-16	ruta	ruta	N	1	
-17	de	de	P	1	
-18	9	9	O	1	
-19	días	días	N	1	
-20	por	por	G	1	
-21	Marruecos	Marruecos	R	1	ne=Location
-22	,	,	O	1	
-23	para	para	N	1	
-24	ver	ver	A	1	
-25	no	no	D	1	
-26	sólo	sólo	N	1	
-27	la_maravillosa_Mequinez	la_maravillosa_Mequinez	R	1	ne=Location
-28	,	,	O	1	
-29	sino	sino	N	1	
-30	también	también	N	1	
-31	Fez	Fez	R	1	ne=Location
-32	,	,	O	1	
-33	Marrakesh	Marrakesh	R	1	ne=Location
-34	,	,	O	1	
-35	Agadir	Agadir	R	1	ne=Location
-36	,	,	O	1	
-37	Essaouira	Essaouira	R	1	ne=Location
-38	,	,	O	1	
-39	Casablanca	Casablanca	R	1	ne=Location
-40	,	,	O	1	
-41	Rabat	Rabat	R	1	ne=Location
-42	,	,	O	1	
-43	Tánger	Tánger	R	1	ne=Location
-44	y	y	G	1	
-45	Tetuán	Tetuán	R	1	ne=Location
-46	.	.	O	1	
+1	Íbamos	íbamos	N	1	O
+2	mi	mi	O	1	O
+3	suegro	suegro	V	1	O
+4	,	,	O	1	O
+5	mi	mi	N	1	O
+6	padre	padre	V	1	O
+7	,	,	O	1	O
+8	mi	mi	G	1	O
+9	novia	novia	N	1	O
+10	y	y	G	1	O
+11	yo	yo	N	1	O
+12	y	y	A	1	O
+13	decidimos	decidimos	V	1	O
+14	hacer	hacer	N	1	O
+15	una	una	G	1	O
+16	ruta	ruta	N	1	O
+17	de	de	P	1	O
+18	9	9	O	1	O
+19	días	días	N	1	O
+20	por	por	G	1	O
+21	Marruecos	Marruecos	R	1	I-Location
+22	,	,	O	1	O
+23	para	para	N	1	O
+24	ver	ver	A	1	O
+25	no	no	D	1	O
+26	sólo	sólo	N	1	O
+27	la	la	D	1	I-Location
+28	maravillosa	maravillosa	N	1	I-Location
+29	Mequinez	Mequinez	R	1	I-Location
+30	,	,	O	1	O
+31	sino	sino	N	1	O
+32	también	también	N	1	O
+33	Fez	Fez	R	1	I-Location
+34	,	,	O	1	O
+35	Marrakesh	Marrakesh	R	1	I-Location
+36	,	,	O	1	O
+37	Agadir	Agadir	R	1	I-Location
+38	,	,	O	1	O
+39	Essaouira	Essaouira	R	1	I-Location
+40	,	,	O	1	O
+41	Casablanca	Casablanca	R	1	I-Location
+42	,	,	O	1	O
+43	Rabat	Rabat	R	1	I-Location
+44	,	,	O	1	O
+45	Tánger	Tánger	R	1	I-Location
+46	y	y	G	1	O
+47	Tetuán	Tetuán	R	1	I-Location
+48	.	.	O	1	O
 
-1	Al	Al	R	1	
-2	llegar	llegar	N	1	
-3	a	a	D	1	
-4	Mequines	Mequines	R	1	ne=Location
-5	nos	nos	O	1	
-6	encantó	encantó	O	1	
-7	la	la	O	1	
-8	localización	localización	O	1	
-9	de	de	O	1	
-10	este	este	O	1	
-11	hotel	hotel	N	1	
-12	de	de	P	1	
-13	3	3	O	1	
-14	estrellas	estrellas	N	1	
-15	,	,	O	1	
-16	con	con	A	1	
-17	cuyo	cuyo	G	1	
-18	sello	sello	N	1	
-19	ya	ya	N	1	
-20	habíamos	habíamos	N	1	
-21	tenido	tenido	V	1	
-22	gratas	gratas	N	1	
-23	experiencias	experiencias	N	1	
-24	en	en	P	1	
-25	el	el	N	1	
-26	pasado	pasado	N	1	
-27	en	en	P	1	
-28	otros	otros	N	1	
-29	sitios	sitios	N	1	
-30	(	(	O	1	
-31	la_marca_Ibis	la_marca_Ibis	R	1	ne=Hotel
-32	)	)	O	1	
-33	.	.	O	1	
+1	Al	Al	R	1	O
+2	llegar	llegar	N	1	O
+3	a	a	D	1	O
+4	Mequines	Mequines	R	1	I-Location
+5	nos	nos	O	1	O
+6	encantó	encantó	O	1	O
+7	la	la	O	1	O
+8	localización	localización	O	1	O
+9	de	de	O	1	O
+10	este	este	O	1	O
+11	hotel	hotel	N	1	O
+12	de	de	P	1	O
+13	3	3	O	1	O
+14	estrellas	estrellas	N	1	O
+15	,	,	O	1	O
+16	con	con	A	1	O
+17	cuyo	cuyo	G	1	O
+18	sello	sello	N	1	O
+19	ya	ya	N	1	O
+20	habíamos	habíamos	N	1	O
+21	tenido	tenido	V	1	O
+22	gratas	gratas	N	1	O
+23	experiencias	experiencias	N	1	O
+24	en	en	P	1	O
+25	el	el	N	1	O
+26	pasado	pasado	N	1	O
+27	en	en	P	1	O
+28	otros	otros	N	1	O
+29	sitios	sitios	N	1	O
+30	(	(	O	1	O
+31	la	la	D	1	I-Hotel
+32	marca	marca	N	1	I-Hotel
+33	Ibis	Ibis	R	1	I-Hotel
+34	)	)	O	1	O
+35	.	.	O	1	O
 
-1	Así	Así	R	1	
-2	que	que	N	1	
-3	fuimos	fuimos	N	1	
-4	flechados	flechados	N	1	
-5	,	,	O	1	
-6	y	y	G	1	
-7	por	por	N	1	
-8	unos	unos	N	1	
-9	35_euros	35_euro	R	1	ne=Money
-10	por	por	G	1	
-11	cabeza	cabeza	N	1	
-12	dormimos	dormimos	N	1	
-13	estupendamente	estupendamente	V	1	
-14	,	,	O	1	
-15	y	y	G	1	
-16	pudimos	pudimos	N	1	
-17	conocer	conocer	V	1	
-18	a	a	D	1	
-19	la	la	N	1	
-20	perfección	perfección	O	1	
-21	los	los	O	1	
-22	misterios	misterios	O	1	
-23	de	de	O	1	
-24	la_cercana_(_0,5_Km_._)_medina	la_cercana_(_0,5_Km_._)_medina	R	1	ne=Location
-25	y	y	G	1	
-26	kasbah_de_Mequinez	kasbah_de_Mequinez	R	1	ne=Location
-27	.	.	O	1	
+1	Así	Así	R	1	O
+2	que	que	N	1	O
+3	fuimos	fuimos	N	1	O
+4	flechados	flechados	N	1	O
+5	,	,	O	1	O
+6	y	y	G	1	O
+7	por	por	N	1	O
+8	unos	unos	N	1	O
+9	35	35	O	1	I-Money
+10	euros	euro	N	1	I-Money
+11	por	por	G	1	O
+12	cabeza	cabeza	N	1	O
+13	dormimos	dormimos	N	1	O
+14	estupendamente	estupendamente	V	1	O
+15	,	,	O	1	O
+16	y	y	G	1	O
+17	pudimos	pudimos	N	1	O
+18	conocer	conocer	V	1	O
+19	a	a	D	1	O
+20	la	la	N	1	O
+21	perfección	perfección	O	1	O
+22	los	los	O	1	O
+23	misterios	misterios	O	1	O
+24	de	de	O	1	O
+25	la	la	O	1	I-Location
+26	cercana	cercana	N	1	I-Location
+27	(	(	O	1	I-Location
+28	0,5	0,5	O	1	I-Location
+29	Km	Km	R	1	I-Location
+30	.	.	O	1	I-Location
+31	)	)	O	1	I-Location
+32	medina	medina	O	1	I-Location
+33	y	y	G	1	O
+34	kasbah	kasbah	N	1	I-Location
+35	de	de	P	1	I-Location
+36	Mequinez	Mequinez	R	1	I-Location
+37	.	.	O	1	O
 

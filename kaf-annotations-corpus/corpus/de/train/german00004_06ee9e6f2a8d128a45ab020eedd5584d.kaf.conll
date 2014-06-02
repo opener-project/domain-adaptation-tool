@@ -1,118 +1,119 @@
-1	Ein	eine	D	1	
-2	wunderschöner	wunderschön	G	1	
-3	Urlaub	Urlaub	N	1	
-4	in	in	P	1	
-5	Sirenis_Cocotal	Sirenis_Cocotal	R	1	ne=Hotel
+1	Ein	eine	D	1	O
+2	wunderschöner	wunderschön	G	1	O
+3	Urlaub	Urlaub	N	1	O
+4	in	in	P	1	O
+5	Sirenis	Sirenis	O	1	I-Hotel
+6	Cocotal	Cocotal	O	1	I-Hotel
 
-1	Die	die	D	1	
-2	Anlage	Anlage	N	1	
-3	ist	sein	V	1	
-4	riesengroß	riesengroß	G	1	
-5	(	(	O	1	
-6	ca.	ca.	A	1	
-7	1200	1200	O	1	
-8	Meter	Meter	N	1	
-9	)	)	O	1	
-10	bis	bis	C	1	
-11	zum	zu	P	1	
-12	Strand	Strand	N	1	
-13	,	,	O	1	
-14	blocks	Block	N	1	
-15	von	von	P	1	
-16	A	A	N	1	
-17	·	·	O	1	
-18	M	M	R	1	
-19	links	links	A	1	
-20	(	(	O	1	
-21	Sirenis	Sirenis	O	1	
-22	Tropical	Tropical	O	1	
-23	Suites	Suites	O	1	
-24	)	)	O	1	
-25	und	und	C	1	
-26	von	von	P	1	
-27	A	A	N	1	
-28	·	·	O	1	
-29	M	M	R	1	
-30	rechts	rechts	A	1	
-31	(	(	O	1	
-32	Sirenis	Sirenis	O	1	
-33	Cocotal	Cocotal	O	1	
-34	)	)	O	1	
-35	,	,	O	1	
-36	alles	alle	Q	1	
-37	ist	sein	V	1	
-38	super	super	G	1	
-39	gepflegt	pflegen	V	1	
-40	,	,	O	1	
-41	überall	überall	A	1	
-42	Palmen	Palme	N	1	
-43	und	und	C	1	
-44	einheimische	einheimisch	G	1	
-45	Sträucher	Strauch	N	1	
-46	und	und	C	1	
-47	Pflanzen	Pflanze|Pflanzen	N	1	
-48	.	.	O	1	
+1	Die	die	D	1	O
+2	Anlage	Anlage	N	1	O
+3	ist	sein	V	1	O
+4	riesengroß	riesengroß	G	1	O
+5	(	(	O	1	O
+6	ca.	ca.	A	1	O
+7	1200	1200	O	1	O
+8	Meter	Meter	N	1	O
+9	)	)	O	1	O
+10	bis	bis	C	1	O
+11	zum	zu	P	1	O
+12	Strand	Strand	N	1	O
+13	,	,	O	1	O
+14	blocks	Block	N	1	O
+15	von	von	P	1	O
+16	A	A	N	1	O
+17	·	·	O	1	O
+18	M	M	R	1	O
+19	links	links	A	1	O
+20	(	(	O	1	O
+21	Sirenis	Sirenis	O	1	O
+22	Tropical	Tropical	O	1	O
+23	Suites	Suites	O	1	O
+24	)	)	O	1	O
+25	und	und	C	1	O
+26	von	von	P	1	O
+27	A	A	N	1	O
+28	·	·	O	1	O
+29	M	M	R	1	O
+30	rechts	rechts	A	1	O
+31	(	(	O	1	O
+32	Sirenis	Sirenis	O	1	O
+33	Cocotal	Cocotal	O	1	O
+34	)	)	O	1	O
+35	,	,	O	1	O
+36	alles	alle	Q	1	O
+37	ist	sein	V	1	O
+38	super	super	G	1	O
+39	gepflegt	pflegen	V	1	O
+40	,	,	O	1	O
+41	überall	überall	A	1	O
+42	Palmen	Palme	N	1	O
+43	und	und	C	1	O
+44	einheimische	einheimisch	G	1	O
+45	Sträucher	Strauch	N	1	O
+46	und	und	C	1	O
+47	Pflanzen	Pflanze|Pflanzen	N	1	O
+48	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Gärtner	Gärtner	N	1	
-3	kümmern	kümmern	V	1	
-4	sich	sich	Q	1	
-5	immer	immer	A	1	
-6	darum	darum	Q	1	
-7	das	die	D	1	
-8	alles	alle	Q	1	
-9	in	in	P	1	
-10	Ordnung	Ordnung	N	1	
-11	ist	sein	V	1	
-12	.	.	O	1	
+1	Die	die	D	1	O
+2	Gärtner	Gärtner	N	1	O
+3	kümmern	kümmern	V	1	O
+4	sich	sich	Q	1	O
+5	immer	immer	A	1	O
+6	darum	darum	Q	1	O
+7	das	die	D	1	O
+8	alles	alle	Q	1	O
+9	in	in	P	1	O
+10	Ordnung	Ordnung	N	1	O
+11	ist	sein	V	1	O
+12	.	.	O	1	O
 
-1	Kleiner	klein	G	1	
-2	Tip	Tip	N	1	
-3	:	:	O	1	
-4	wenn	wenn	C	1	
-5	ihre	ihr	Q	1	
-6	leute	Leute	N	1	
-7	mit	mit	P	1	
-8	Kokosnüsen	Kokosnüsen	O	1	
-9	seht	sehen	V	1	
-10	,	,	O	1	
-11	die	die	Q	1	
-12	es	es	Q	1	
-13	aber	aber	A	1	
-14	weder	weder	C	1	
-15	an	an	P	1	
-16	der	die	D	1	
-17	Poolbar	Poolbar	O	1	
-18	noch	noch	A	1	
-19	an	an	P	1	
-20	anderen	andere	Q	1	
-21	Bars	Bar	N	1	
-22	gibt	geben	V	1	
-23	,	,	O	1	
-24	sprecht	sprechen	V	1	
-25	die	die	D	1	
-26	Gärtner	Gärtner	N	1	
-27	an	an	P	1	
-28	,	,	O	1	
-29	diese	diese	Q	1	
-30	öffnen	öffnen	V	1	
-31	Sie	Sie|sie	Q	1	
-32	euch	ihr	Q	1	
-33	(	(	O	1	
-34	heruntergefallene	heruntergefallen	G	1	
-35	Kokosnüsse	Kokosnuss	N	1	
-36	oder	oder	C	1	
-37	Sie	Sie|sie	Q	1	
-38	holen	holen	V	1	
-39	Sie	Sie|sie	Q	1	
-40	euch	ihr	Q	1	
-41	von	von	P	1	
-42	den	die	D	1	
-43	Bäumen	Baum	N	1	
-44	wenn	wenn	C	1	
-45	Sie	Sie|sie	Q	1	
-46	gerade	gerade	A	1	
-47	daran	daran	Q	1	
-48	hochklettern	hochklettern	V	1	
-49	)	)	O	1	
+1	Kleiner	klein	G	1	O
+2	Tip	Tip	N	1	O
+3	:	:	O	1	O
+4	wenn	wenn	C	1	O
+5	ihre	ihr	Q	1	O
+6	leute	Leute	N	1	O
+7	mit	mit	P	1	O
+8	Kokosnüsen	Kokosnüsen	O	1	O
+9	seht	sehen	V	1	O
+10	,	,	O	1	O
+11	die	die	Q	1	O
+12	es	es	Q	1	O
+13	aber	aber	A	1	O
+14	weder	weder	C	1	O
+15	an	an	P	1	O
+16	der	die	D	1	O
+17	Poolbar	Poolbar	O	1	O
+18	noch	noch	A	1	O
+19	an	an	P	1	O
+20	anderen	andere	Q	1	O
+21	Bars	Bar	N	1	O
+22	gibt	geben	V	1	O
+23	,	,	O	1	O
+24	sprecht	sprechen	V	1	O
+25	die	die	D	1	O
+26	Gärtner	Gärtner	N	1	O
+27	an	an	P	1	O
+28	,	,	O	1	O
+29	diese	diese	Q	1	O
+30	öffnen	öffnen	V	1	O
+31	Sie	Sie|sie	Q	1	O
+32	euch	ihr	Q	1	O
+33	(	(	O	1	O
+34	heruntergefallene	heruntergefallen	G	1	O
+35	Kokosnüsse	Kokosnuss	N	1	O
+36	oder	oder	C	1	O
+37	Sie	Sie|sie	Q	1	O
+38	holen	holen	V	1	O
+39	Sie	Sie|sie	Q	1	O
+40	euch	ihr	Q	1	O
+41	von	von	P	1	O
+42	den	die	D	1	O
+43	Bäumen	Baum	N	1	O
+44	wenn	wenn	C	1	O
+45	Sie	Sie|sie	Q	1	O
+46	gerade	gerade	A	1	O
+47	daran	daran	Q	1	O
+48	hochklettern	hochklettern	V	1	O
+49	)	)	O	1	O
 

@@ -1,122 +1,122 @@
-1	De	de	D	1	
-2	perfecte	perfect	G	1	
-3	luxe	luxe	G	1	
-4	strandvakantie	strandvakantie	O	1	
-5	.	.	O	1	
+1	De	de	D	1	O
+2	perfecte	perfect	G	1	O
+3	luxe	luxe	G	1	O
+4	strandvakantie	strandvakantie	O	1	O
+5	.	.	O	1	O
 
-1	In	in	P	1	
-2	Rixos	Rixos	R	1	ne=Location
-3	is	zijn	V	1	
-4	niets	niets	Q	1	
-5	te	te	O	1	
-6	gek	gek	G	1	
-7	en	en	C	1	
-8	kan	kunnen	V	1	
-9	alles	alles	Q	1	
-10	,	,	O	1	
-11	de	de	D	1	
-12	personeelsleden	personeelslid	N	1	
-13	zijn	zijn	V	1	
-14	vriendelijk	vriendelijk	G	1	
-15	en	en	C	1	
-16	behulpzaam	behulpzaam	G	1	
-17	.	.	O	1	
+1	In	in	P	1	O
+2	Rixos	Rixos	R	1	I-Location
+3	is	zijn	V	1	O
+4	niets	niets	Q	1	O
+5	te	te	O	1	O
+6	gek	gek	G	1	O
+7	en	en	C	1	O
+8	kan	kunnen	V	1	O
+9	alles	alles	Q	1	O
+10	,	,	O	1	O
+11	de	de	D	1	O
+12	personeelsleden	personeelslid	N	1	O
+13	zijn	zijn	V	1	O
+14	vriendelijk	vriendelijk	G	1	O
+15	en	en	C	1	O
+16	behulpzaam	behulpzaam	G	1	O
+17	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	en	en	C	1	
-4	de	de	D	1	
-5	tuin	tuin	N	1	
-6	worden	worden	V	1	
-7	keurig	keurig	G	1	
-8	bijgehouden	bijhouden	V	1	
-9	en	en	C	1	
-10	schoon	schoon	G	1	
-11	gehouden	houden	V	1	
-12	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	en	en	C	1	O
+4	de	de	D	1	O
+5	tuin	tuin	N	1	O
+6	worden	worden	V	1	O
+7	keurig	keurig	G	1	O
+8	bijgehouden	bijhouden	V	1	O
+9	en	en	C	1	O
+10	schoon	schoon	G	1	O
+11	gehouden	houden	V	1	O
+12	.	.	O	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	zat	zat	D	1	
-4	aardig	aardig	G	1	
-5	vol	vol	G	1	
-6	,	,	O	1	
-7	toch	toch	A	1	
-8	was	wezen|zijn	V	1	
-9	het	het	Q	1	
-10	nergens	nergens	A	1	
-11	druk	druk	G	1	
-12	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	zat	zat	D	1	O
+4	aardig	aardig	G	1	O
+5	vol	vol	G	1	O
+6	,	,	O	1	O
+7	toch	toch	A	1	O
+8	was	wezen|zijn	V	1	O
+9	het	het	Q	1	O
+10	nergens	nergens	A	1	O
+11	druk	druk	G	1	O
+12	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	is	zijn	V	1	
-3	allemaal	allemaal	D	1	
-4	erg	erg	G	1	
-5	luxe	luxe	N	1	
-6	.	.	O	1	
+1	Het	het	Q	1	O
+2	is	zijn	V	1	O
+3	allemaal	allemaal	D	1	O
+4	erg	erg	G	1	O
+5	luxe	luxe	N	1	O
+6	.	.	O	1	O
 
-1	Animatieteam	Animatieteam	O	1	
-2	is	zijn	V	1	
-3	enthousiast	enthousiast	G	1	
-4	,	,	O	1	
-5	maar	maar	C	1	
-6	niet	niet	A	1	
-7	opdringerig	opdringerig	G	1	
-8	.	.	O	1	
+1	Animatieteam	Animatieteam	O	1	O
+2	is	zijn	V	1	O
+3	enthousiast	enthousiast	G	1	O
+4	,	,	O	1	O
+5	maar	maar	C	1	O
+6	niet	niet	A	1	O
+7	opdringerig	opdringerig	G	1	O
+8	.	.	O	1	O
 
-1	Jammer	jammeren	V	1	
-2	dat	dat	C	1	
-3	het	het	D	1	
-4	activiteitenprogramma	activiteitenprogramma	O	1	
-5	dagelijks	dagelijks	G	1	
-6	hetzelfde	hetzelfde	A	1	
-7	is	zijn	V	1	
-8	,	,	O	1	
-9	maar	maar	C	1	
-10	door	door	P	1	
-11	de	de	D	1	
-12	diversiteit	diversiteit	N	1	
-13	aan	aan	P	1	
-14	activiteiten	activiteit	N	1	
-15	niet	niet	A	1	
-16	storend	storend	G	1	
-17	.	.	O	1	
-18	(	(	O	1	
-19	van	van	P	1	
-20	'	'	O	1	
-21	s	s	N	1	
-22	ochtends	ochtend	N	1	
-23	vroeg	vragen	V	1	
-24	tot	tot	P	1	
-25	'	'	O	1	
-26	s	s	N	1	
-27	avonds	avond	N	1	
-28	laat	laten	V	1	
-29	zijn	zijn	V	1	
-30	veel	veel	A	1	
-31	activiteiten	activiteit	N	1	
-32	te	te	O	1	
-33	doen	doen	V	1	
-34	)	)	O	1	
-35	.	.	O	1	
+1	Jammer	jammeren	V	1	O
+2	dat	dat	C	1	O
+3	het	het	D	1	O
+4	activiteitenprogramma	activiteitenprogramma	O	1	O
+5	dagelijks	dagelijks	G	1	O
+6	hetzelfde	hetzelfde	A	1	O
+7	is	zijn	V	1	O
+8	,	,	O	1	O
+9	maar	maar	C	1	O
+10	door	door	P	1	O
+11	de	de	D	1	O
+12	diversiteit	diversiteit	N	1	O
+13	aan	aan	P	1	O
+14	activiteiten	activiteit	N	1	O
+15	niet	niet	A	1	O
+16	storend	storend	G	1	O
+17	.	.	O	1	O
+18	(	(	O	1	O
+19	van	van	P	1	O
+20	'	'	O	1	O
+21	s	s	N	1	O
+22	ochtends	ochtend	N	1	O
+23	vroeg	vragen	V	1	O
+24	tot	tot	P	1	O
+25	'	'	O	1	O
+26	s	s	N	1	O
+27	avonds	avond	N	1	O
+28	laat	laten	V	1	O
+29	zijn	zijn	V	1	O
+30	veel	veel	A	1	O
+31	activiteiten	activiteit	N	1	O
+32	te	te	O	1	O
+33	doen	doen	V	1	O
+34	)	)	O	1	O
+35	.	.	O	1	O
 
-1	Enige	enig	D	1	
-2	puntje	punt	N	1	
-3	van	van	P	1	
-4	kritiek	kritiek	N	1	
-5	is	zijn	V	1	
-6	de	de	D	1	
-7	WIFI	WIFI	O	1	
-8	:	:	O	1	
-9	deze	deze	Q	1	
-10	is	zijn	V	1	
-11	gratis	gratis	G	1	
-12	,	,	O	1	
-13	maar	maar	C	1	
-14	niet	niet	A	1	
-15	overal	overal	A	1	
-16	goed	goed	N	1	
-17	te	te	O	1	
-18	ontvangen	ontvangen	V	1	
-19	.	.	O	1	
+1	Enige	enig	D	1	O
+2	puntje	punt	N	1	O
+3	van	van	P	1	O
+4	kritiek	kritiek	N	1	O
+5	is	zijn	V	1	O
+6	de	de	D	1	O
+7	WIFI	WIFI	O	1	O
+8	:	:	O	1	O
+9	deze	deze	Q	1	O
+10	is	zijn	V	1	O
+11	gratis	gratis	G	1	O
+12	,	,	O	1	O
+13	maar	maar	C	1	O
+14	niet	niet	A	1	O
+15	overal	overal	A	1	O
+16	goed	goed	N	1	O
+17	te	te	O	1	O
+18	ontvangen	ontvangen	V	1	O
+19	.	.	O	1	O
 

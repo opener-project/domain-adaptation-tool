@@ -1,104 +1,104 @@
-1	Elegante	Elegante	R	1	
-2	y	y	A	1	
-3	familiar	familiar	G	1	
+1	Elegante	Elegante	R	1	O
+2	y	y	A	1	O
+3	familiar	familiar	G	1	O
 
-1	aparte	aparte	A	1	
-2	de	de	P	1	
-3	ser	ser	N	1	
-4	un	un	G	1	
-5	hotel	hotel	N	1	
-6	muy	muy	O	1	
-7	elegante	elegante	V	1	
-8	y	y	G	1	
-9	moderno	moderno	G	1	
-10	cuenta	cuenta	N	1	
-11	con	con	A	1	
-12	un	un	G	1	
-13	ambiente	ambiente	G	1	
-14	muy	muy	N	1	
-15	familiar	familiar	G	1	
-16	y	y	G	1	
-17	acogedor	acogedor	G	1	
-18	que	que	G	1	
-19	da	da	N	1	
-20	gusto	gusto	N	1	
-21	visitar	visitar	N	1	
-22	,	,	O	1	
-23	me	me	Q	1	
-24	senti	senti	V	1	
-25	como	como	N	1	
-26	en	en	P	1	
-27	casa	casa	N	1	
-28	,	,	O	1	
-29	con	con	O	1	
-30	esos	esos	O	1	
-31	sofas	sofas	O	1	
-32	tan	tan	O	1	
-33	grandes	grandes	O	1	
-34	en	en	O	1	
-35	los	los	O	1	
-36	que	que	O	1	
-37	cabiamos	cabiamos	N	1	
-38	todos	todos	N	1	
-39	a	a	D	1	
-40	ver	ver	A	1	
-41	la	la	D	1	
-42	tele	tele	N	1	
-43	,	,	O	1	
-44	ademas	ademas	P	1	
-45	me	me	Q	1	
-46	encanto	encanto	P	1	
-47	el	el	N	1	
-48	lujo	lujo	O	1	
-49	de	de	O	1	
-50	aquella	aquella	O	1	
-51	bañera	bañera	O	1	
-52	de	de	O	1	
-53	hidromasajecde	hidromasajecde	O	1	
-54	la	la	O	1	
-55	que	que	O	1	
-56	no	no	D	1	
-57	me	me	Q	1	
-58	queria	queria	O	1	
-59	despegar	despegar	N	1	
-60	,	,	O	1	
-61	ademas	ademas	O	1	
-62	de	de	O	1	
-63	esas	esas	O	1	
-64	cenas	cenas	O	1	
-65	que	que	O	1	
-66	disfrutabamos	disfrutabamos	O	1	
-67	en	en	O	1	
-68	el	el	O	1	
-69	restaurante	restaurante	O	1	
-70	que	que	O	1	
-71	me	me	O	1	
-72	hacia	hacia	O	1	
-73	sentir	sentir	O	1	
-74	muy	muy	O	1	
-75	importante	importante	O	1	
-76	,	,	O	1	
-77	y	y	G	1	
-78	las	las	N	1	
-79	vistas	vista	N	1	
-80	por	por	V	1	
-81	supuesto	supuesto	N	1	
-82	muy	muy	G	1	
-83	bellas	bellas	N	1	
-84	,	,	O	1	
-85	pues	pues	V	1	
-86	aquellas	aquellas	N	1	
-87	zonas	zonas	N	1	
-88	verdes	verdes	N	1	
-89	que	que	V	1	
-90	alcanzaban	alcanzaban	G	1	
-91	el	el	N	1	
-92	horizonte	horizonte	V	1	
-93	daban	daban	G	1	
-94	un	un	G	1	
-95	relax	relax	N	1	
-96	que	que	N	1	
-97	parecia	parecia	N	1	
-98	infinito	infinito	N	1	
-99	.	.	O	1	
+1	aparte	aparte	A	1	O
+2	de	de	P	1	O
+3	ser	ser	N	1	O
+4	un	un	G	1	O
+5	hotel	hotel	N	1	O
+6	muy	muy	O	1	O
+7	elegante	elegante	V	1	O
+8	y	y	G	1	O
+9	moderno	moderno	G	1	O
+10	cuenta	cuenta	N	1	O
+11	con	con	A	1	O
+12	un	un	G	1	O
+13	ambiente	ambiente	G	1	O
+14	muy	muy	N	1	O
+15	familiar	familiar	G	1	O
+16	y	y	G	1	O
+17	acogedor	acogedor	G	1	O
+18	que	que	G	1	O
+19	da	da	N	1	O
+20	gusto	gusto	N	1	O
+21	visitar	visitar	N	1	O
+22	,	,	O	1	O
+23	me	me	Q	1	O
+24	senti	senti	V	1	O
+25	como	como	N	1	O
+26	en	en	P	1	O
+27	casa	casa	N	1	O
+28	,	,	O	1	O
+29	con	con	O	1	O
+30	esos	esos	O	1	O
+31	sofas	sofas	O	1	O
+32	tan	tan	O	1	O
+33	grandes	grandes	O	1	O
+34	en	en	O	1	O
+35	los	los	O	1	O
+36	que	que	O	1	O
+37	cabiamos	cabiamos	N	1	O
+38	todos	todos	N	1	O
+39	a	a	D	1	O
+40	ver	ver	A	1	O
+41	la	la	D	1	O
+42	tele	tele	N	1	O
+43	,	,	O	1	O
+44	ademas	ademas	P	1	O
+45	me	me	Q	1	O
+46	encanto	encanto	P	1	O
+47	el	el	N	1	O
+48	lujo	lujo	O	1	O
+49	de	de	O	1	O
+50	aquella	aquella	O	1	O
+51	bañera	bañera	O	1	O
+52	de	de	O	1	O
+53	hidromasajecde	hidromasajecde	O	1	O
+54	la	la	O	1	O
+55	que	que	O	1	O
+56	no	no	D	1	O
+57	me	me	Q	1	O
+58	queria	queria	O	1	O
+59	despegar	despegar	N	1	O
+60	,	,	O	1	O
+61	ademas	ademas	O	1	O
+62	de	de	O	1	O
+63	esas	esas	O	1	O
+64	cenas	cenas	O	1	O
+65	que	que	O	1	O
+66	disfrutabamos	disfrutabamos	O	1	O
+67	en	en	O	1	O
+68	el	el	O	1	O
+69	restaurante	restaurante	O	1	O
+70	que	que	O	1	O
+71	me	me	O	1	O
+72	hacia	hacia	O	1	O
+73	sentir	sentir	O	1	O
+74	muy	muy	O	1	O
+75	importante	importante	O	1	O
+76	,	,	O	1	O
+77	y	y	G	1	O
+78	las	las	N	1	O
+79	vistas	vista	N	1	O
+80	por	por	V	1	O
+81	supuesto	supuesto	N	1	O
+82	muy	muy	G	1	O
+83	bellas	bellas	N	1	O
+84	,	,	O	1	O
+85	pues	pues	V	1	O
+86	aquellas	aquellas	N	1	O
+87	zonas	zonas	N	1	O
+88	verdes	verdes	N	1	O
+89	que	que	V	1	O
+90	alcanzaban	alcanzaban	G	1	O
+91	el	el	N	1	O
+92	horizonte	horizonte	V	1	O
+93	daban	daban	G	1	O
+94	un	un	G	1	O
+95	relax	relax	N	1	O
+96	que	que	N	1	O
+97	parecia	parecia	N	1	O
+98	infinito	infinito	N	1	O
+99	.	.	O	1	O
 

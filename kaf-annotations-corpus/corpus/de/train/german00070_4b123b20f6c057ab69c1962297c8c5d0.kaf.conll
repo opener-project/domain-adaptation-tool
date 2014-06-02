@@ -1,118 +1,118 @@
-1	Super	Super	N	1	
-2	Lage	Lage	N	1	
-3	·	·	O	1	
-4	Reklamationen	Reklamation	N	1	
-5	ohne	ohne	P	1	
-6	Behebung	Behebung	N	1	
-7	!	!	O	1	
+1	Super	Super	N	1	O
+2	Lage	Lage	N	1	O
+3	·	·	O	1	O
+4	Reklamationen	Reklamation	N	1	O
+5	ohne	ohne	P	1	O
+6	Behebung	Behebung	N	1	O
+7	!	!	O	1	O
 
-1	Größe	Größe	N	1	
-2	der	die	D	1	
-3	Zimmer	Zimmer	N	1	
-4	und	und	C	1	
-5	Ausstattung	Ausstattung	N	1	
-6	sind	sein	V	1	
-7	gut	gut	G	1	
-8	.	.	O	1	
+1	Größe	Größe	N	1	O
+2	der	die	D	1	O
+3	Zimmer	Zimmer	N	1	O
+4	und	und	C	1	O
+5	Ausstattung	Ausstattung	N	1	O
+6	sind	sein	V	1	O
+7	gut	gut	G	1	O
+8	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	war	sein	V	1	
-4	sehr	sehr	A	1	
-5	umfang	umfangen	V	1	
-6	·	·	O	1	
-7	und	und	C	1	
-8	abwechslungsreich	abwechslungsreich	G	1	
-9	·	·	O	1	
-10	frühes	früh	G	1	
-11	Erscheinen	Erscheinen	N	1	
-12	von	von	P	1	
-13	Vorteil	Vorteil	N	1	
-14	,	,	O	1	
-15	um	um	C	1	
-16	einen	eine	Q	1	
-17	der	die	D	1	
-18	Plätze	Platz	N	1	
-19	im	in	P	1	
-20	helleren	hell	G	1	
-21	Teil	Teil	N	1	
-22	zu	zu	O	1	
-23	ergattern	ergattern	V	1	
-24	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	war	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	umfang	umfangen	V	1	O
+6	·	·	O	1	O
+7	und	und	C	1	O
+8	abwechslungsreich	abwechslungsreich	G	1	O
+9	·	·	O	1	O
+10	frühes	früh	G	1	O
+11	Erscheinen	Erscheinen	N	1	O
+12	von	von	P	1	O
+13	Vorteil	Vorteil	N	1	O
+14	,	,	O	1	O
+15	um	um	C	1	O
+16	einen	eine	Q	1	O
+17	der	die	D	1	O
+18	Plätze	Platz	N	1	O
+19	im	in	P	1	O
+20	helleren	hell	G	1	O
+21	Teil	Teil	N	1	O
+22	zu	zu	O	1	O
+23	ergattern	ergattern	V	1	O
+24	.	.	O	1	O
 
-1	Bei	bei	P	1	
-2	unserem	unser	Q	1	
-3	Aufenthalt	Aufenthalt	N	1	
-4	war	sein	V	1	
-5	das	die	D	1	
-6	Publikum	Publikum	N	1	
-7	sehr	sehr	A	1	
-8	gemischt	mischen	V	1	
-9	·	·	O	1	
-10	unter	unter	P	1	
-11	anderem	andere	Q	1	
-12	fand	finden	V	1	
-13	eine	eine	D	1	
-14	Tagung	Tagung	N	1	
-15	/	/	O	1	
-16	ein	eine	D	1	
-17	Training	Training	N	1	
-18	statt	statt	V	1	
-19	,	,	O	1	
-20	mit	mit	P	1	
-21	sehr	sehr	A	1	
-22	unterschiedlichen	unterschiedlich	G	1	
-23	Teilnehmern	Teilnehmer	N	1	
-24	.	.	O	1	
+1	Bei	bei	P	1	O
+2	unserem	unser	Q	1	O
+3	Aufenthalt	Aufenthalt	N	1	O
+4	war	sein	V	1	O
+5	das	die	D	1	O
+6	Publikum	Publikum	N	1	O
+7	sehr	sehr	A	1	O
+8	gemischt	mischen	V	1	O
+9	·	·	O	1	O
+10	unter	unter	P	1	O
+11	anderem	andere	Q	1	O
+12	fand	finden	V	1	O
+13	eine	eine	D	1	O
+14	Tagung	Tagung	N	1	O
+15	/	/	O	1	O
+16	ein	eine	D	1	O
+17	Training	Training	N	1	O
+18	statt	statt	V	1	O
+19	,	,	O	1	O
+20	mit	mit	P	1	O
+21	sehr	sehr	A	1	O
+22	unterschiedlichen	unterschiedlich	G	1	O
+23	Teilnehmern	Teilnehmer	N	1	O
+24	.	.	O	1	O
 
-1	Leider	leider	A	1	
-2	lagen	liegen	V	1	
-3	unsere	unser	Q	1	
-4	Zimmer	Zimmer	N	1	
-5	genau	genau	G	1	
-6	über	über	P	1	
-7	der	die	D	1	
-8	"	"	O	1	
-9	Party	Party	N	1	
-10	·	·	O	1	
-11	Etage	Etage	N	1	
-12	"	"	O	1	
-13	·	·	O	1	
-14	da	da	C	1	
-15	es	es	Q	1	
-16	noch	noch	A	1	
-17	5	5	O	1	
-18	weitere	weit	G	1	
-19	Etagen	Etage	N	1	
-20	gegeben	geben	V	1	
-21	hat	haben	V	1	
-22	,	,	O	1	
-23	hätte	haben	V	1	
-24	ich	ich	Q	1	
-25	vom	von	P	1	
-26	Hotel	Hotel	N	1	
-27	erwartet	erwarten	V	1	
-28	,	,	O	1	
-29	die	die	D	1	
-30	Gäste	Gast	N	1	
-31	,	,	O	1	
-32	die	die	Q	1	
-33	nicht	nicht	O	1	
-34	an	an	P	1	
-35	der	die	D	1	
-36	Party	Party	N	1	
-37	teilnahmen	teilnehmen	V	1	
-38	,	,	O	1	
-39	in	in	P	1	
-40	den	die	D	1	
-41	höheren	hoch	G	1	
-42	und	und	C	1	
-43	damit	damit	Q	1	
-44	weiter	weiter	A	1	
-45	vom	von	P	1	
-46	Lärm	Lärm	N	1	
-47	befindlichen	befindlich	G	1	
-48	Etagen	Etage	N	1	
-49	unterzubringen	unterbringen	V	1	
-50	.	.	O	1	
+1	Leider	leider	A	1	O
+2	lagen	liegen	V	1	O
+3	unsere	unser	Q	1	O
+4	Zimmer	Zimmer	N	1	O
+5	genau	genau	G	1	O
+6	über	über	P	1	O
+7	der	die	D	1	O
+8	"	"	O	1	O
+9	Party	Party	N	1	O
+10	·	·	O	1	O
+11	Etage	Etage	N	1	O
+12	"	"	O	1	O
+13	·	·	O	1	O
+14	da	da	C	1	O
+15	es	es	Q	1	O
+16	noch	noch	A	1	O
+17	5	5	O	1	O
+18	weitere	weit	G	1	O
+19	Etagen	Etage	N	1	O
+20	gegeben	geben	V	1	O
+21	hat	haben	V	1	O
+22	,	,	O	1	O
+23	hätte	haben	V	1	O
+24	ich	ich	Q	1	O
+25	vom	von	P	1	O
+26	Hotel	Hotel	N	1	O
+27	erwartet	erwarten	V	1	O
+28	,	,	O	1	O
+29	die	die	D	1	O
+30	Gäste	Gast	N	1	O
+31	,	,	O	1	O
+32	die	die	Q	1	O
+33	nicht	nicht	O	1	O
+34	an	an	P	1	O
+35	der	die	D	1	O
+36	Party	Party	N	1	O
+37	teilnahmen	teilnehmen	V	1	O
+38	,	,	O	1	O
+39	in	in	P	1	O
+40	den	die	D	1	O
+41	höheren	hoch	G	1	O
+42	und	und	C	1	O
+43	damit	damit	Q	1	O
+44	weiter	weiter	A	1	O
+45	vom	von	P	1	O
+46	Lärm	Lärm	N	1	O
+47	befindlichen	befindlich	G	1	O
+48	Etagen	Etage	N	1	O
+49	unterzubringen	unterbringen	V	1	O
+50	.	.	O	1	O
 

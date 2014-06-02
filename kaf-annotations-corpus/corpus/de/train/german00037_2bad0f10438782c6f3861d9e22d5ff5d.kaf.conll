@@ -1,50 +1,50 @@
-1	Ruhige	ruhig	G	1	
-2	,	,	O	1	
-3	gepflegte	gepflegt	G	1	
-4	Anlage	Anlage	N	1	
-5	in	in	P	1	
-6	guter	gut	G	1	
-7	Ausgangslage	Ausgangslage	N	1	
+1	Ruhige	ruhig	G	1	O
+2	,	,	O	1	O
+3	gepflegte	gepflegt	G	1	O
+4	Anlage	Anlage	N	1	O
+5	in	in	P	1	O
+6	guter	gut	G	1	O
+7	Ausgangslage	Ausgangslage	N	1	O
 
-1	Die	die	D	1	
-2	Anlage	Anlage	N	1	
-3	besteht	bestehen	V	1	
-4	aus	aus	P	1	
-5	zwei	zwei	O	1	
-6	Landhäusern	Landhaus	N	1	
-7	mit	mit	P	1	
-8	insgesamt	insgesamt	A	1	
-9	13	13	O	1	
-10	Ferienwohnungen	Ferienwohnung	N	1	
-11	.	.	O	1	
+1	Die	die	D	1	O
+2	Anlage	Anlage	N	1	O
+3	besteht	bestehen	V	1	O
+4	aus	aus	P	1	O
+5	zwei	zwei	O	1	O
+6	Landhäusern	Landhaus	N	1	O
+7	mit	mit	P	1	O
+8	insgesamt	insgesamt	A	1	O
+9	13	13	O	1	O
+10	Ferienwohnungen	Ferienwohnung	N	1	O
+11	.	.	O	1	O
 
-1	Großer	groß	G	1	
-2	,	,	O	1	
-3	sehr	sehr	A	1	
-4	gepflegter	gepflegt	G	1	
-5	Hof	Hof	N	1	
-6	und	und	C	1	
-7	Parkplatz	Parkplatz	N	1	
-8	.	.	O	1	
+1	Großer	groß	G	1	O
+2	,	,	O	1	O
+3	sehr	sehr	A	1	O
+4	gepflegter	gepflegt	G	1	O
+5	Hof	Hof	N	1	O
+6	und	und	C	1	O
+7	Parkplatz	Parkplatz	N	1	O
+8	.	.	O	1	O
 
-1	Viele	viele	Q	1	
-2	munter	munter	G	1	
-3	zwitschernde	zwitschernd	G	1	
-4	Vögel	Vogel	N	1	
-5	!	!	O	1	
+1	Viele	viele	Q	1	O
+2	munter	munter	G	1	O
+3	zwitschernde	zwitschernd	G	1	O
+4	Vögel	Vogel	N	1	O
+5	!	!	O	1	O
 
-1	Nette	nett	G	1	
-2	Gäste	Gast	N	1	
-3	und	und	C	1	
-4	freundlicher	freundlich	G	1	
-5	Gastgeber	Gastgeber	N	1	
-6	zum	zu	P	1	
-7	Plaudern	Plaudern	N	1	
-8	.	.	O	1	
+1	Nette	nett	G	1	O
+2	Gäste	Gast	N	1	O
+3	und	und	C	1	O
+4	freundlicher	freundlich	G	1	O
+5	Gastgeber	Gastgeber	N	1	O
+6	zum	zu	P	1	O
+7	Plaudern	Plaudern	N	1	O
+8	.	.	O	1	O
 
-1	Sauberkeit	Sauberkeit	N	1	
-2	der	die	D	1	
-3	Appartements	Appartement	N	1	
-4	okay	Okay	R	1	
-5	.	.	O	1	
+1	Sauberkeit	Sauberkeit	N	1	O
+2	der	die	D	1	O
+3	Appartements	Appartement	N	1	O
+4	okay	Okay	R	1	O
+5	.	.	O	1	O
 

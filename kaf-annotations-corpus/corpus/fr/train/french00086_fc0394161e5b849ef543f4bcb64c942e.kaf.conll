@@ -1,47 +1,47 @@
-1	Très	Très	G	1	
-2	bien	bien	G	1	
-3	pour	pour	P	1	
-4	les	le	D	1	
-5	petits	petit	G	1	
-6	et	et	C	1	
-7	les	le	D	1	
-8	grands	grand	G	1	
+1	Très	Très	G	1	O
+2	bien	bien	G	1	O
+3	pour	pour	P	1	O
+4	les	le	D	1	O
+5	petits	petit	G	1	O
+6	et	et	C	1	O
+7	les	le	D	1	O
+8	grands	grand	G	1	O
 
-1	prenez	prendre	V	1	
-2	votre	son	D	1	
-3	pic	pic	G	1	
-4	nic	nic	N	1	
-5	car	car	C	1	
-6	la	le	D	1	
-7	cafeteria	cafeteria	N	1	
-8	est	être	V	1	
-9	hors	hors	P	1	
-10	de	de	P	1	
-11	prix	prix	N	1	
-12	pour	pour	P	1	
-13	ce	ce	P	1	
-14	qu'	qu'	P	1	
-15	ils	ils	Q	1	
-16	proposent	proposer	V	1	
-17	:	:	O	1	
+1	prenez	prendre	V	1	O
+2	votre	son	D	1	O
+3	pic	pic	G	1	O
+4	nic	nic	N	1	O
+5	car	car	C	1	O
+6	la	le	D	1	O
+7	cafeteria	cafeteria	N	1	O
+8	est	être	V	1	O
+9	hors	hors	P	1	O
+10	de	de	P	1	O
+11	prix	prix	N	1	O
+12	pour	pour	P	1	O
+13	ce	ce	P	1	O
+14	qu'	qu'	P	1	O
+15	ils	ils	Q	1	O
+16	proposent	proposer	V	1	O
+17	:	:	O	1	O
 
-1	7,50	7,50	D	1	
-2	€	€	N	1	
-3	le	le	D	1	
-4	sandwich	sandwich	N	1	
-5	dauna	dauna	O	1	
-6	à	à	P	1	
-7	3	3	D	1	
-8	€	€	N	1	
-9	à	à	P	1	
-10	carrefour	carrefour	N	1	
-11	,	,	O	1	
-12	et	et	C	1	
-13	2,50	2,50	D	1	
-14	le	le	D	1	
-15	mini	mini	N	1	
-16	gervais	gervais	G	1	
-17	à	à	P	1	
-18	boire	boire	N	1	
-19	...	...	O	1	
+1	7,50	7,50	D	1	O
+2	€	€	N	1	O
+3	le	le	D	1	O
+4	sandwich	sandwich	N	1	O
+5	dauna	dauna	O	1	O
+6	à	à	P	1	O
+7	3	3	D	1	O
+8	€	€	N	1	O
+9	à	à	P	1	O
+10	carrefour	carrefour	N	1	O
+11	,	,	O	1	O
+12	et	et	C	1	O
+13	2,50	2,50	D	1	O
+14	le	le	D	1	O
+15	mini	mini	N	1	O
+16	gervais	gervais	G	1	O
+17	à	à	P	1	O
+18	boire	boire	N	1	O
+19	...	...	O	1	O
 

@@ -1,199 +1,205 @@
-1	Ci	ci	A	1	
-2	sono	essere	V	1	
-3	stato	essere	V	1	
-4	a	a	P	1	
-5	Pasqua_2013	pasqua_2013	R	1	ne=Date
-6	(	(	O	1	
-7	29_/_03	29_/_03	R	1	ne=Date
-8	·	·	R	1	
-9	01_/_04	01_/_04	R	1	ne=Date
-10	)	)	O	1	
-11	.	.	O	1	
+1	Ci	ci	A	1	O
+2	sono	essere	V	1	O
+3	stato	essere	V	1	O
+4	a	a	P	1	O
+5	Pasqua	pasqua	N	1	I-Date
+6	2013	2013	N	1	I-Date
+7	(	(	O	1	O
+8	29	29	N	1	I-Date
+9	/	/	O	1	I-Date
+10	03	03	G	1	I-Date
+11	·	·	R	1	O
+12	01	01	N	1	I-Date
+13	/	/	O	1	I-Date
+14	04	04	N	1	I-Date
+15	)	)	O	1	O
+16	.	.	O	1	O
 
-1	Struttura	struttura	R	1	
-2	Italgest	italgest	R	1	ne=Hotel
-3	molto	molto	G	1	
-4	pulita	pulita	N	1	
-5	.	.	O	1	
+1	Struttura	struttura	R	1	O
+2	Italgest	italgest	R	1	I-Hotel
+3	molto	molto	G	1	O
+4	pulita	pulita	N	1	O
+5	.	.	O	1	O
 
-1	Sensazione	sensazione	N	1	
-2	di	di	P	1	
-3	tranquillità	tranquillita'	R	1	
-4	e	e	Q	1	
-5	benessere	benessere	N	1	
-6	.	.	O	1	
+1	Sensazione	sensazione	N	1	O
+2	di	di	P	1	O
+3	tranquillità	tranquillita'	R	1	O
+4	e	e	Q	1	O
+5	benessere	benessere	N	1	O
+6	.	.	O	1	O
 
-1	Vista	vista	R	1	
-2	sul	sul	P	1	
-3	lago	lago	N	1	
-4	trasimeno.	trasimeno.	N	1	
-5	centro	centro	N	1	
-6	abitato	abitare	V	1	
-7	molto	molto	A	1	
-8	tranquillo	tranquillo	G	1	
-9	.	.	O	1	
+1	Vista	vista	R	1	O
+2	sul	sul	P	1	O
+3	lago	lago	N	1	O
+4	trasimeno.	trasimeno.	N	1	O
+5	centro	centro	N	1	O
+6	abitato	abitare	V	1	O
+7	molto	molto	A	1	O
+8	tranquillo	tranquillo	G	1	O
+9	.	.	O	1	O
 
-1	Servizio	servizio	N	1	
-2	clienti	cliente	N	1	
-3	,	,	O	1	
-4	ottimo	ottimo	G	1	
-5	.	.	O	1	
+1	Servizio	servizio	N	1	O
+2	clienti	cliente	N	1	O
+3	,	,	O	1	O
+4	ottimo	ottimo	G	1	O
+5	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	personale	personale	G	1	
-3	squisitamente	squisitamente	A	1	
-4	gentile	gentile	G	1	
-5	e	e	Q	1	
-6	sorridente	sorridere	V	1	
-7	.	.	O	1	
+1	Il	lo	D	1	O
+2	personale	personale	G	1	O
+3	squisitamente	squisitamente	A	1	O
+4	gentile	gentile	G	1	O
+5	e	e	Q	1	O
+6	sorridente	sorridere	V	1	O
+7	.	.	O	1	O
 
-1	Ottimo	ottimo	G	1	
-2	rapporto	rapporto	N	1	
-3	qualità	qualità	Q	1	
-4	prezzo.	prezzo.	N	1	
-5	con	con	P	1	
-6	la	lo	D	1	
-7	card	card	R	1	
-8	"	&quot;	O	1	
-9	camper	camper	N	1	
-10	club	club	N	1	
-11	italiano	italiano	G	1	
-12	"	&quot;	O	1	
-13	,	,	O	1	
-14	ho	avere	V	1	
-15	potuto	potere	V	1	
-16	fruire	fruire	V	1	
-17	del	del	P	1	
-18	15_%	15_%	R	1	ne=Money
-19	di	di	P	1	
-20	sconto	sconto	N	1	
-21	,	,	O	1	
-22	sul	sul	P	1	
-23	totale	totale	N	1	
-24	.	.	O	1	
+1	Ottimo	ottimo	G	1	O
+2	rapporto	rapporto	N	1	O
+3	qualità	qualità	Q	1	O
+4	prezzo.	prezzo.	N	1	O
+5	con	con	P	1	O
+6	la	lo	D	1	O
+7	card	card	R	1	O
+8	"	&quot;	O	1	O
+9	camper	camper	N	1	O
+10	club	club	N	1	O
+11	italiano	italiano	G	1	O
+12	"	&quot;	O	1	O
+13	,	,	O	1	O
+14	ho	avere	V	1	O
+15	potuto	potere	V	1	O
+16	fruire	fruire	V	1	O
+17	del	del	P	1	O
+18	15	15	N	1	I-Money
+19	%	%	O	1	I-Money
+20	di	di	P	1	O
+21	sconto	sconto	N	1	O
+22	,	,	O	1	O
+23	sul	sul	P	1	O
+24	totale	totale	N	1	O
+25	.	.	O	1	O
 
-1	La	lo	D	1	
-2	sera	sera	N	1	
-3	dell'	dell'	P	1	
-4	arrivo	arrivo	N	1	
-5	,	,	O	1	
-6	con	con	P	1	
-7	la	lo	D	1	
-8	mia	mio	G	1	
-9	signora	signora	N	1	
-10	,	,	O	1	
-11	abbiamo	avere	V	1	
-12	preso	prendere	V	1	
-13	un	uno	D	1	
-14	paio	paio	N	1	
-15	di	di	P	1	
-16	pizze	pizza	N	1	
-17	.	.	O	1	
+1	La	lo	D	1	O
+2	sera	sera	N	1	O
+3	dell'	dell'	P	1	O
+4	arrivo	arrivo	N	1	O
+5	,	,	O	1	O
+6	con	con	P	1	O
+7	la	lo	D	1	O
+8	mia	mio	G	1	O
+9	signora	signora	N	1	O
+10	,	,	O	1	O
+11	abbiamo	avere	V	1	O
+12	preso	prendere	V	1	O
+13	un	uno	D	1	O
+14	paio	paio	N	1	O
+15	di	di	P	1	O
+16	pizze	pizza	N	1	O
+17	.	.	O	1	O
 
-1	Cotte	cotta	R	1	
-2	al	al	P	1	
-3	forno	forno	N	1	
-4	a	a	P	1	
-5	legna	legna	N	1	
-6	.	.	O	1	
+1	Cotte	cotta	R	1	O
+2	al	al	P	1	O
+3	forno	forno	N	1	O
+4	a	a	P	1	O
+5	legna	legna	N	1	O
+6	.	.	O	1	O
 
-1	Impasto	impasto	N	1	
-2	subito	subire	V	1	
-3	digeribile	digeribile	G	1	
-4	,	,	O	1	
-5	rapidità	rapidita'	N	1	
-6	del	del	P	1	
-7	servizio	servizio	N	1	
-8	e	e	Q	1	
-9	cortesia	cortesia	N	1	
-10	del	del	P	1	
-11	personale	personale	N	1	
-12	,	,	O	1	
-13	eccellente	eccellere	V	1	
-14	.	.	O	1	
+1	Impasto	impasto	N	1	O
+2	subito	subire	V	1	O
+3	digeribile	digeribile	G	1	O
+4	,	,	O	1	O
+5	rapidità	rapidita'	N	1	O
+6	del	del	P	1	O
+7	servizio	servizio	N	1	O
+8	e	e	Q	1	O
+9	cortesia	cortesia	N	1	O
+10	del	del	P	1	O
+11	personale	personale	N	1	O
+12	,	,	O	1	O
+13	eccellente	eccellere	V	1	O
+14	.	.	O	1	O
 
-1	La	lo	D	1	
-2	piazzola	piazzola	N	1	
-3	standard	standard	N	1	
-4	settore	settore	N	1	
-5	T	t	N	1	
-6	·	·	R	1	
-7	5	5	N	1	
-8	per	per	P	1	
-9	il	lo	D	1	
-10	nostro	nostro	G	1	
-11	camper	camper	N	1	
-12	era	essere	V	1	
-13	il	lo	D	1	
-14	meglio	meglio	N	1	
-15	che	che	Q	1	
-16	potessimo	potessimo	G	1	
-17	chiedere	chiedere	V	1	
-18	.	.	O	1	
+1	La	lo	D	1	O
+2	piazzola	piazzola	N	1	O
+3	standard	standard	N	1	O
+4	settore	settore	N	1	O
+5	T	t	N	1	O
+6	·	·	R	1	O
+7	5	5	N	1	O
+8	per	per	P	1	O
+9	il	lo	D	1	O
+10	nostro	nostro	G	1	O
+11	camper	camper	N	1	O
+12	era	essere	V	1	O
+13	il	lo	D	1	O
+14	meglio	meglio	N	1	O
+15	che	che	Q	1	O
+16	potessimo	potessimo	G	1	O
+17	chiedere	chiedere	V	1	O
+18	.	.	O	1	O
 
-1	Lontana	lontano	G	1	
-2	da	da	P	1	
-3	famiglie	famiglia	N	1	
-4	con	con	P	1	
-5	bambini	bambino	N	1	
-6	,	,	O	1	
-7	immersa	immergere	V	1	
-8	nel	nel	P	1	
-9	verde	verde	N	1	
-10	,	,	O	1	
-11	con	con	P	1	
-12	cespugli	cespuglio	N	1	
-13	alti	alto	G	1	
-14	il	lo	D	1	
-15	giusto	giusto	G	1	
-16	.	.	O	1	
+1	Lontana	lontano	G	1	O
+2	da	da	P	1	O
+3	famiglie	famiglia	N	1	O
+4	con	con	P	1	O
+5	bambini	bambino	N	1	O
+6	,	,	O	1	O
+7	immersa	immergere	V	1	O
+8	nel	nel	P	1	O
+9	verde	verde	N	1	O
+10	,	,	O	1	O
+11	con	con	P	1	O
+12	cespugli	cespuglio	N	1	O
+13	alti	alto	G	1	O
+14	il	lo	D	1	O
+15	giusto	giusto	G	1	O
+16	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	nel	nel	P	1	
-4	silenzio	silenzio	N	1	
-5	e	e	Q	1	
-6	nella	nella	P	1	
-7	pulizia	pulizia	N	1	
-8	(	(	O	1	
-9	viali	viale	N	1	
-10	,	,	O	1	
-11	piazzole	piazzola	R	1	
-12	,	,	O	1	
-13	bagni	bagno	N	1	
-14	)	)	O	1	
-15	più	piu'	N	1	
-16	totale	totale	G	1	
-17	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	nel	nel	P	1	O
+4	silenzio	silenzio	N	1	O
+5	e	e	Q	1	O
+6	nella	nella	P	1	O
+7	pulizia	pulizia	N	1	O
+8	(	(	O	1	O
+9	viali	viale	N	1	O
+10	,	,	O	1	O
+11	piazzole	piazzola	R	1	O
+12	,	,	O	1	O
+13	bagni	bagno	N	1	O
+14	)	)	O	1	O
+15	più	piu'	N	1	O
+16	totale	totale	G	1	O
+17	.	.	O	1	O
 
-1	Struttura	struttura	N	1	
-2	adatta	adatto	G	1	
-3	a	a	P	1	
-4	tutti	tutti	Q	1	
-5	,	,	O	1	
-6	famiglie	famiglia	N	1	
-7	comprese	comprendere	V	1	
-8	.	.	O	1	
+1	Struttura	struttura	N	1	O
+2	adatta	adatto	G	1	O
+3	a	a	P	1	O
+4	tutti	tutti	Q	1	O
+5	,	,	O	1	O
+6	famiglie	famiglia	N	1	O
+7	comprese	comprendere	V	1	O
+8	.	.	O	1	O
 
-1	Campi	campo	R	1	
-2	da	da	P	1	
-3	tennis	tennis	N	1	
-4	,	,	O	1	
-5	da	da	P	1	
-6	calcetto	calcetto	N	1	
-7	,	,	O	1	
-8	basket	basket	N	1	
-9	,	,	O	1	
-10	bocciodromo	bocciodromo	N	1	
-11	,	,	O	1	
-12	attrezzature	attrezzatura	N	1	
-13	in	in	P	1	
-14	ordine	ordine	N	1	
-15	per	per	P	1	
-16	i	lo	D	1	
-17	più	piu'	N	1	
-18	piccoli	piccolo	G	1	
-19	,	,	O	1	
-20	miniclub	miniclub	R	1	
-21	.	.	O	1	
+1	Campi	campo	R	1	O
+2	da	da	P	1	O
+3	tennis	tennis	N	1	O
+4	,	,	O	1	O
+5	da	da	P	1	O
+6	calcetto	calcetto	N	1	O
+7	,	,	O	1	O
+8	basket	basket	N	1	O
+9	,	,	O	1	O
+10	bocciodromo	bocciodromo	N	1	O
+11	,	,	O	1	O
+12	attrezzature	attrezzatura	N	1	O
+13	in	in	P	1	O
+14	ordine	ordine	N	1	O
+15	per	per	P	1	O
+16	i	lo	D	1	O
+17	più	piu'	N	1	O
+18	piccoli	piccolo	G	1	O
+19	,	,	O	1	O
+20	miniclub	miniclub	R	1	O
+21	.	.	O	1	O
 

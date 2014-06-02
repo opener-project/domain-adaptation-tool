@@ -1,116 +1,116 @@
-1	Finalmente	finalmente	V	1	
-2	un	uno	D	1	
-3	posto	posto	N	1	
-4	dove	dove	Q	1	
-5	i	lo	D	1	
-6	soldi	soldo	N	1	
-7	sono	essere	V	1	
-8	spesi	spendere	V	1	
-9	bene	bene	A	1	
+1	Finalmente	finalmente	V	1	O
+2	un	uno	D	1	O
+3	posto	posto	N	1	O
+4	dove	dove	Q	1	O
+5	i	lo	D	1	O
+6	soldi	soldo	N	1	O
+7	sono	essere	V	1	O
+8	spesi	spendere	V	1	O
+9	bene	bene	A	1	O
 
-1	questo	questo	Q	1	
-2	non	non	A	1	
-3	e	e	Q	1	
-4	un	uno	D	1	
-5	residence	residence	N	1	
-6	e	e	Q	1	
-7	basta	bastare	V	1	
-8	!	!	O	1	
-9	!	!	O	1	
-10	!	!	O	1	
+1	questo	questo	Q	1	O
+2	non	non	A	1	O
+3	e	e	Q	1	O
+4	un	uno	D	1	O
+5	residence	residence	N	1	O
+6	e	e	Q	1	O
+7	basta	bastare	V	1	O
+8	!	!	O	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
 
-1	e	e	Q	1	
-2	un	uno	D	1	
-3	villaggio	villaggio	N	1	
-4	dove	dove	A	1	
-5	il	lo	D	1	
-6	tempo	tempo	N	1	
-7	scorre	scorrere	V	1	
-8	e	e	Q	1	
-9	le	lo	D	1	
-10	tue	tuo	G	1	
-11	vacanze	vacanza	N	1	
-12	passano	passare	V	1	
-13	velocemente	velocemente	A	1	
-14	e	e	Q	1	
-15	stai	stare	V	1	
-16	d'	d'	P	1	
-17	incanto	incanto	N	1	
-18	.	.	O	1	
-19	lo	lo	D	1	
-20	staff	staff	N	1	
-21	e	e	Q	1	
-22	perfetto	perfetto	G	1	
-23	.	.	O	1	
+1	e	e	Q	1	O
+2	un	uno	D	1	O
+3	villaggio	villaggio	N	1	O
+4	dove	dove	A	1	O
+5	il	lo	D	1	O
+6	tempo	tempo	N	1	O
+7	scorre	scorrere	V	1	O
+8	e	e	Q	1	O
+9	le	lo	D	1	O
+10	tue	tuo	G	1	O
+11	vacanze	vacanza	N	1	O
+12	passano	passare	V	1	O
+13	velocemente	velocemente	A	1	O
+14	e	e	Q	1	O
+15	stai	stare	V	1	O
+16	d'	d'	P	1	O
+17	incanto	incanto	N	1	O
+18	.	.	O	1	O
+19	lo	lo	D	1	O
+20	staff	staff	N	1	O
+21	e	e	Q	1	O
+22	perfetto	perfetto	G	1	O
+23	.	.	O	1	O
 
-1	miriana	miriana	R	1	ne=Person
-2	alla	alla	P	1	
-3	reception	reception	R	1	
-4	ed	ed	Q	1	
-5	al	al	P	1	
-6	ristorante	ristorante	N	1	
-7	.	.	O	1	
-8	jack	jack	R	1	ne=Person
-9	al	al	P	1	
-10	diving	diving	N	1	
-11	e	e	Q	1	
-12	perfetto	perfetto	G	1	
-13	accurato	accurato	V	1	
-14	immersioni	immersione	N	1	
-15	fantastiche	fantastico	G	1	
-16	.	.	O	1	
-17	stefano	stefano	R	1	ne=Person
-18	ed	ed	Q	1	
-19	andrea	andrea	R	1	ne=Person
-20	allo	allo	P	1	
-21	stabilimento	stabilimento	N	1	
-22	gentili	gentile	G	1	
-23	curano	curare	V	1	
-24	le	lo	D	1	
-25	pwerfone	pwerfone	N	1	
-26	ed	ed	Q	1	
-27	io	io	Q	1	
-28	dettagli	dettagliare	V	1	
-29	in	in	P	1	
-30	maniera	maniera	N	1	
-31	ottimale	ottimale	G	1	
-32	.	.	O	1	
+1	miriana	miriana	R	1	I-Person
+2	alla	alla	P	1	O
+3	reception	reception	R	1	O
+4	ed	ed	Q	1	O
+5	al	al	P	1	O
+6	ristorante	ristorante	N	1	O
+7	.	.	O	1	O
+8	jack	jack	R	1	I-Person
+9	al	al	P	1	O
+10	diving	diving	N	1	O
+11	e	e	Q	1	O
+12	perfetto	perfetto	G	1	O
+13	accurato	accurato	V	1	O
+14	immersioni	immersione	N	1	O
+15	fantastiche	fantastico	G	1	O
+16	.	.	O	1	O
+17	stefano	stefano	R	1	I-Person
+18	ed	ed	Q	1	O
+19	andrea	andrea	R	1	I-Person
+20	allo	allo	P	1	O
+21	stabilimento	stabilimento	N	1	O
+22	gentili	gentile	G	1	O
+23	curano	curare	V	1	O
+24	le	lo	D	1	O
+25	pwerfone	pwerfone	N	1	O
+26	ed	ed	Q	1	O
+27	io	io	Q	1	O
+28	dettagli	dettagliare	V	1	O
+29	in	in	P	1	O
+30	maniera	maniera	N	1	O
+31	ottimale	ottimale	G	1	O
+32	.	.	O	1	O
 
-1	il	lo	D	1	
-2	ristorante	ristorante	N	1	
-3	e	e	Q	1	
-4	uno	uno	D	1	
-5	spettacolo	spettacolo	N	1	
-6	di	di	P	1	
-7	profumi	profumo	N	1	
-8	e	e	Q	1	
-9	sapori	sapore	N	1	
-10	.	.	O	1	
+1	il	lo	D	1	O
+2	ristorante	ristorante	N	1	O
+3	e	e	Q	1	O
+4	uno	uno	D	1	O
+5	spettacolo	spettacolo	N	1	O
+6	di	di	P	1	O
+7	profumi	profumo	N	1	O
+8	e	e	Q	1	O
+9	sapori	sapore	N	1	O
+10	.	.	O	1	O
 
-1	la	lo	D	1	
-2	nostra	nostro	G	1	
-3	location	location	R	1	
-4	montecristo	montecristo	R	1	
-5	semplicemente	semplicemente	A	1	
-6	fantastica	fantastico	G	1	
+1	la	lo	D	1	O
+2	nostra	nostro	G	1	O
+3	location	location	R	1	O
+4	montecristo	montecristo	R	1	O
+5	semplicemente	semplicemente	A	1	O
+6	fantastica	fantastico	G	1	O
 
-1	tutto	tutto	A	1	
-2	praticamente	praticamente	A	1	
-3	perfetto	perfetto	G	1	
-4	,	,	O	1	
-5	ma	ma	Q	1	
-6	la	lo	D	1	
-7	cosa	cosa	N	1	
-8	piu	piu	A	1	
-9	importante	importare	V	1	
-10	e	e	Q	1	
-11	il	lo	D	1	
-12	rapporto	rapporto	N	1	
-13	qualita	qualita	O	1	
-14	prezzo	prezzo	N	1	
-15	eccelso	eccelso	P	1	
-16	.da	.da	R	1	
-17	provare	provare	V	1	
-18	e	e	Q	1	
-19	consigliare	consigliare	V	1	
+1	tutto	tutto	A	1	O
+2	praticamente	praticamente	A	1	O
+3	perfetto	perfetto	G	1	O
+4	,	,	O	1	O
+5	ma	ma	Q	1	O
+6	la	lo	D	1	O
+7	cosa	cosa	N	1	O
+8	piu	piu	A	1	O
+9	importante	importare	V	1	O
+10	e	e	Q	1	O
+11	il	lo	D	1	O
+12	rapporto	rapporto	N	1	O
+13	qualita	qualita	O	1	O
+14	prezzo	prezzo	N	1	O
+15	eccelso	eccelso	P	1	O
+16	.da	.da	R	1	O
+17	provare	provare	V	1	O
+18	e	e	Q	1	O
+19	consigliare	consigliare	V	1	O
 

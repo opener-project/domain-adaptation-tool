@@ -1,163 +1,173 @@
-1	Agradable	agradable	G	1	
-2	estancia	estancia	N	1	
-3	en	en	P	1	
-4	el	el	N	1	
-5	Torre_Catalunya	Torre_Catalunya	R	1	ne=Hotel
+1	Agradable	agradable	G	1	O
+2	estancia	estancia	N	1	O
+3	en	en	P	1	O
+4	el	el	N	1	O
+5	Torre	Torre	R	1	I-Hotel
+6	Catalunya	Catalunya	R	1	I-Hotel
 
-1	Estuve	Estuve	R	1	
-2	3	3	O	1	
-3	noches	noches	N	1	
-4	en	en	P	1	
-5	noviembre_de_2013	noviembre_de_2013	R	1	ne=Date
-6	.	.	O	1	
+1	Estuve	Estuve	R	1	O
+2	3	3	O	1	O
+3	noches	noches	N	1	O
+4	en	en	P	1	O
+5	noviembre	noviembre	G	1	I-Date
+6	de	de	P	1	I-Date
+7	2013	2013	O	1	I-Date
+8	.	.	O	1	O
 
-1	La	La	R	1	
-2	verdad	verdad	N	1	
-3	es	es	N	1	
-4	que	que	V	1	
-5	no	no	D	1	
-6	pisé	pisé	N	1	
-7	mucho	mucho	G	1	
-8	el	el	N	1	
-9	hotel	hotel	N	1	
-10	,	,	O	1	
-11	tan	tan	G	1	
-12	sólo	sólo	N	1	
-13	para	para	N	1	
-14	dormir	dormir	N	1	
-15	.	.	O	1	
+1	La	La	R	1	O
+2	verdad	verdad	N	1	O
+3	es	es	N	1	O
+4	que	que	V	1	O
+5	no	no	D	1	O
+6	pisé	pisé	N	1	O
+7	mucho	mucho	G	1	O
+8	el	el	N	1	O
+9	hotel	hotel	N	1	O
+10	,	,	O	1	O
+11	tan	tan	G	1	O
+12	sólo	sólo	N	1	O
+13	para	para	N	1	O
+14	dormir	dormir	N	1	O
+15	.	.	O	1	O
 
-1	El	El	R	1	
-2	check	check	N	1	
-3	·	·	N	1	
-4	in	in	P	1	
-5	y	y	G	1	
-6	check	check	N	1	
-7	·	·	N	1	
-8	out	out	P	1	
-9	muy	muy	G	1	
-10	rápidos	rápidos	N	1	
-11	,	,	O	1	
-12	ya	you	Q	1	
-13	que	que	V	1	
-14	soy	soy	A	1	
-15	cliente	cliente	G	1	
-16	de	de	P	1	
-17	otras	otras	N	1	
-18	ocasiones	ocasiones	N	1	
-19	.	.	O	1	
+1	El	El	R	1	O
+2	check	check	N	1	O
+3	·	·	N	1	O
+4	in	in	P	1	O
+5	y	y	G	1	O
+6	check	check	N	1	O
+7	·	·	N	1	O
+8	out	out	P	1	O
+9	muy	muy	G	1	O
+10	rápidos	rápidos	N	1	O
+11	,	,	O	1	O
+12	ya	you	Q	1	O
+13	que	que	V	1	O
+14	soy	soy	A	1	O
+15	cliente	cliente	G	1	O
+16	de	de	P	1	O
+17	otras	otras	N	1	O
+18	ocasiones	ocasiones	N	1	O
+19	.	.	O	1	O
 
-1	Habitaciones	habitaciones	N	1	
-2	amplias	amplias	P	1	
-3	y	y	G	1	
-4	con	con	G	1	
-5	vistas	vista	N	1	
-6	espectaculares	espectaculares	V	1	
-7	si	si	G	1	
-8	te	te	G	1	
-9	dan	dan	N	1	
-10	un	un	G	1	
-11	piso	piso	N	1	
-12	alto	alto	A	1	
-13	.	.	O	1	
+1	Habitaciones	habitaciones	N	1	O
+2	amplias	amplias	P	1	O
+3	y	y	G	1	O
+4	con	con	G	1	O
+5	vistas	vista	N	1	O
+6	espectaculares	espectaculares	V	1	O
+7	si	si	G	1	O
+8	te	te	G	1	O
+9	dan	dan	N	1	O
+10	un	un	G	1	O
+11	piso	piso	N	1	O
+12	alto	alto	A	1	O
+13	.	.	O	1	O
 
-1	Habitación	Habitación	R	1	
-2	con	con	A	1	
-3	todas	todas	V	1	
-4	las	las	G	1	
-5	comodidades	comodidades	N	1	
-6	clásicas	clásicas	N	1	
-7	además	además	N	1	
-8	de	de	P	1	
-9	ducha	ducha	N	1	
-10	Grohe	Grohe	R	1	
-11	grande	grande	N	1	
-12	,	,	O	1	
-13	retrete	retrete	N	1	
-14	separado	separado	O	1	
-15	,	,	O	1	
-16	dos	dos	N	1	
-17	batas	batas	N	1	
-18	,	,	O	1	
-19	equipo	equipo	O	1	
-20	de	de	O	1	
-21	música	música	O	1	
-22	y	y	G	1	
-23	3	3	O	1	
-24	almohadas	almohadas	A	1	
-25	por	por	G	1	
-26	cama	cama	N	1	
-27	.	.	O	1	
+1	Habitación	Habitación	R	1	O
+2	con	con	A	1	O
+3	todas	todas	V	1	O
+4	las	las	G	1	O
+5	comodidades	comodidades	N	1	O
+6	clásicas	clásicas	N	1	O
+7	además	además	N	1	O
+8	de	de	P	1	O
+9	ducha	ducha	N	1	O
+10	Grohe	Grohe	R	1	O
+11	grande	grande	N	1	O
+12	,	,	O	1	O
+13	retrete	retrete	N	1	O
+14	separado	separado	O	1	O
+15	,	,	O	1	O
+16	dos	dos	N	1	O
+17	batas	batas	N	1	O
+18	,	,	O	1	O
+19	equipo	equipo	O	1	O
+20	de	de	O	1	O
+21	música	música	O	1	O
+22	y	y	G	1	O
+23	3	3	O	1	O
+24	almohadas	almohadas	A	1	O
+25	por	por	G	1	O
+26	cama	cama	N	1	O
+27	.	.	O	1	O
 
-1	Los	Los	R	1	
-2	únicos	únicos	V	1	
-3	peros	peros	N	1	
-4	son	son	N	1	
-5	la	la	D	1	
-6	televisión	televisión	N	1	
-7	no	no	D	1	
-8	es	es	N	1	
-9	de	de	P	1	
-10	pantalla	pantalla	N	1	
-11	plana	plana	N	1	
-12	y	y	G	1	
-13	el	el	N	1	
-14	suelo	suelo	N	1	
-15	de	de	O	1	
-16	mármol	mármol	O	1	
-17	se	se	O	1	
-18	hace	hace	O	1	
-19	frío	frío	O	1	
-20	sí	sí	O	1	
-21	vas	vas	O	1	
-22	descalzo	descalzo	O	1	
-23	.	.	O	1	
+1	Los	Los	R	1	O
+2	únicos	únicos	V	1	O
+3	peros	peros	N	1	O
+4	son	son	N	1	O
+5	la	la	D	1	O
+6	televisión	televisión	N	1	O
+7	no	no	D	1	O
+8	es	es	N	1	O
+9	de	de	P	1	O
+10	pantalla	pantalla	N	1	O
+11	plana	plana	N	1	O
+12	y	y	G	1	O
+13	el	el	N	1	O
+14	suelo	suelo	N	1	O
+15	de	de	O	1	O
+16	mármol	mármol	O	1	O
+17	se	se	O	1	O
+18	hace	hace	O	1	O
+19	frío	frío	O	1	O
+20	sí	sí	O	1	O
+21	vas	vas	O	1	O
+22	descalzo	descalzo	O	1	O
+23	.	.	O	1	O
 
-1	Situación	Situación	R	1	
-2	ideal	ideal	V	1	
-3	a	a	D	1	
-4	50	50	O	1	
-5	metros	metro	N	1	
-6	de	de	P	1	
-7	la_estación_de_Sants	la_estación_de_sants	R	1	ne=POI
-8	,	,	O	1	
-9	con	con	A	1	
-10	parada	parada	N	1	
-11	de	de	P	1	
-12	taxis	taxi	N	1	
-13	en	en	P	1	
-14	la	la	D	1	
-15	misma	misma	N	1	
-16	puerta	puerta	N	1	
-17	.	.	O	1	
+1	Situación	Situación	R	1	O
+2	ideal	ideal	V	1	O
+3	a	a	D	1	O
+4	50	50	O	1	O
+5	metros	metro	N	1	O
+6	de	de	P	1	O
+7	la	la	D	1	I-POI
+8	estación	estación	N	1	I-POI
+9	de	de	P	1	I-POI
+10	Sants	sants	N	1	I-POI
+11	,	,	O	1	O
+12	con	con	A	1	O
+13	parada	parada	N	1	O
+14	de	de	P	1	O
+15	taxis	taxi	N	1	O
+16	en	en	P	1	O
+17	la	la	D	1	O
+18	misma	misma	N	1	O
+19	puerta	puerta	N	1	O
+20	.	.	O	1	O
 
-1	Ideal	Ideal	R	1	
-2	para	para	N	1	
-3	reuniones	reuniones	V	1	
-4	en	en	P	1	
-5	la_parte_sur_de_Barcelona	la_parte_sur_de_Barcelona	R	1	ne=Location
-6	.	.	O	1	
+1	Ideal	Ideal	R	1	O
+2	para	para	N	1	O
+3	reuniones	reuniones	V	1	O
+4	en	en	P	1	O
+5	la	la	D	1	I-Location
+6	parte	parte	N	1	I-Location
+7	sur	sur	O	1	I-Location
+8	de	de	O	1	I-Location
+9	Barcelona	Barcelona	R	1	I-Location
+10	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	O	1	
-3	en	en	O	1	
-4	la	la	O	1	
-5	última	última	O	1	
-6	planta	planta	O	1	
-7	es	es	O	1	
-8	"	"	O	1	
-9	espectacular	espectacular	G	1	
-10	"	"	N	1	
-11	,	,	O	1	
-12	tanto	tanto	G	1	
-13	por	por	N	1	
-14	las	las	V	1	
-15	vistas	vista	N	1	
-16	como	como	N	1	
-17	por	por	O	1	
-18	la	la	O	1	
-19	variedad	variedad	O	1	
-20	del	del	O	1	
-21	mismo	mismo	O	1	
-22	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	O	1	O
+3	en	en	O	1	O
+4	la	la	O	1	O
+5	última	última	O	1	O
+6	planta	planta	O	1	O
+7	es	es	O	1	O
+8	"	"	O	1	O
+9	espectacular	espectacular	G	1	O
+10	"	"	N	1	O
+11	,	,	O	1	O
+12	tanto	tanto	G	1	O
+13	por	por	N	1	O
+14	las	las	V	1	O
+15	vistas	vista	N	1	O
+16	como	como	N	1	O
+17	por	por	O	1	O
+18	la	la	O	1	O
+19	variedad	variedad	O	1	O
+20	del	del	O	1	O
+21	mismo	mismo	O	1	O
+22	.	.	O	1	O
 

@@ -1,149 +1,149 @@
-1	Tolles	toll	G	1	
-2	Hotel	Hotel	N	1	
-3	und	und	C	1	
-4	gutes	gut	G	1	
-5	Preis	Preis	N	1	
-6	·	·	O	1	
-7	Leistungs	Leistungs	O	1	
-8	·	·	O	1	
-9	Verhältnis	Verhältnis	N	1	
+1	Tolles	toll	G	1	O
+2	Hotel	Hotel	N	1	O
+3	und	und	C	1	O
+4	gutes	gut	G	1	O
+5	Preis	Preis	N	1	O
+6	·	·	O	1	O
+7	Leistungs	Leistungs	O	1	O
+8	·	·	O	1	O
+9	Verhältnis	Verhältnis	N	1	O
 
-1	Ich	ich	Q	1	
-2	habe	haben	V	1	
-3	dort	dort	A	1	
-4	mit	mit	P	1	
-5	meiner	mein	Q	1	
-6	16	16	O	1	
-7	jährigen	jährigen	O	1	
-8	Tochter	Tochter	N	1	
-9	spontan	spontan	G	1	
-10	Urlaub	Urlaub	N	1	
-11	gemacht	machen	V	1	
-12	und	und	C	1	
-13	war	sein	V	1	
-14	dort	dort	A	1	
-15	sehr	sehr	A	1	
-16	zufrieden	zufrieden	G	1	
-17	.	.	O	1	
+1	Ich	ich	Q	1	O
+2	habe	haben	V	1	O
+3	dort	dort	A	1	O
+4	mit	mit	P	1	O
+5	meiner	mein	Q	1	O
+6	16	16	O	1	O
+7	jährigen	jährigen	O	1	O
+8	Tochter	Tochter	N	1	O
+9	spontan	spontan	G	1	O
+10	Urlaub	Urlaub	N	1	O
+11	gemacht	machen	V	1	O
+12	und	und	C	1	O
+13	war	sein	V	1	O
+14	dort	dort	A	1	O
+15	sehr	sehr	A	1	O
+16	zufrieden	zufrieden	G	1	O
+17	.	.	O	1	O
 
-1	Personal	Personal	N	1	
-2	,	,	O	1	
-3	Zimmer	Zimmer	N	1	
-4	und	und	C	1	
-5	Essen	Essen	N	1	
-6	waren	sein	V	1	
-7	sehr	sehr	A	1	
-8	gut	gut	G	1	
-9	und	und	C	1	
-10	reichhaltig	reichhaltig	G	1	
-11	vor	vor	P	1	
-12	allem	alle	Q	1	
-13	das	die	D	1	
-14	Frühstücksbuffet	Frühstücksbuffet	N	1	
-15	war	sein	V	1	
-16	sehr	sehr	A	1	
-17	reichhaltig	reichhaltig	G	1	
-18	,	,	O	1	
+1	Personal	Personal	N	1	O
+2	,	,	O	1	O
+3	Zimmer	Zimmer	N	1	O
+4	und	und	C	1	O
+5	Essen	Essen	N	1	O
+6	waren	sein	V	1	O
+7	sehr	sehr	A	1	O
+8	gut	gut	G	1	O
+9	und	und	C	1	O
+10	reichhaltig	reichhaltig	G	1	O
+11	vor	vor	P	1	O
+12	allem	alle	Q	1	O
+13	das	die	D	1	O
+14	Frühstücksbuffet	Frühstücksbuffet	N	1	O
+15	war	sein	V	1	O
+16	sehr	sehr	A	1	O
+17	reichhaltig	reichhaltig	G	1	O
+18	,	,	O	1	O
 
-1	Der	die	D	1	
-2	Ort	Ort	N	1	
-3	,	,	O	1	
-4	der	die	Q	1	
-5	vor	vor	P	1	
-6	allem	alle	Q	1	
-7	von	von	P	1	
-8	Wintersportlern	Wintersportler	N	1	
-9	besucht	besuchen	V	1	
-10	wird	werden	V	1	
-11	,	,	O	1	
-12	bietet	bieten	V	1	
-13	sich	sich	Q	1	
-14	auch	auch	A	1	
-15	sehr	sehr	A	1	
-16	gut	gut	G	1	
-17	für	für	P	1	
-18	den	die	D	1	
-19	Sommerurlaub	Sommerurlaub	N	1	
-20	an	an	V	1	
-21	.	.	O	1	
+1	Der	die	D	1	O
+2	Ort	Ort	N	1	O
+3	,	,	O	1	O
+4	der	die	Q	1	O
+5	vor	vor	P	1	O
+6	allem	alle	Q	1	O
+7	von	von	P	1	O
+8	Wintersportlern	Wintersportler	N	1	O
+9	besucht	besuchen	V	1	O
+10	wird	werden	V	1	O
+11	,	,	O	1	O
+12	bietet	bieten	V	1	O
+13	sich	sich	Q	1	O
+14	auch	auch	A	1	O
+15	sehr	sehr	A	1	O
+16	gut	gut	G	1	O
+17	für	für	P	1	O
+18	den	die	D	1	O
+19	Sommerurlaub	Sommerurlaub	N	1	O
+20	an	an	V	1	O
+21	.	.	O	1	O
 
-1	Aufgrund	aufgrund	P	1	
-2	der	die	D	1	
-3	hervorragenden	hervorragend	G	1	
-4	Anbindung	Anbindung	N	1	
-5	an	an	P	1	
-6	weitere	weit	G	1	
-7	beliebte	beliebt	G	1	
-8	Bayrische	bayrisch	G	1	
-9	Ziele	Ziel	N	1	
-10	wie	wie	C	1	
-11	Tergernsee	Tergernsee	R	1	ne=Location
-12	,	,	O	1	
-13	Schliersee	Schliersee	R	1	ne=Location
-14	oder	oder	C	1	
-15	München	München	R	1	ne=Location
-16	ist	sein	V	1	
-17	das	die	D	1	
-18	Hotel	Hotel	N	1	
-19	eine	eine	D	1	
-20	gute	gut	G	1	
-21	Ausgangsbasis	Ausgangsbasis	N	1	
-22	um	um	P	1	
-23	diese	dies	Q	1	
-24	Ziele	Ziel	N	1	
-25	zu	zu	O	1	
-26	erreichen	erreichen	V	1	
-27	da	da	A	1	
-28	der	die	D	1	
-29	Bahnhof	Bahnhof	N	1	
-30	zu	zu	P	1	
-31	Fuß	Fuß	N	1	
-32	in	in	P	1	
-33	wenigen	wenige	Q	1	
-34	Minuten	Minute	N	1	
-35	zu	zu	O	1	
-36	erreichen	erreichen	V	1	
-37	ist	sein	V	1	
-38	und	und	C	1	
-39	die	die	D	1	
-40	Bahn	Bahn	N	1	
-41	im	in	P	1	
-42	30	30	O	1	
-43	Minutentakt	Minutentakt	N	1	
-44	fährt	fahren	V	1	
-45	.	.	O	1	
+1	Aufgrund	aufgrund	P	1	O
+2	der	die	D	1	O
+3	hervorragenden	hervorragend	G	1	O
+4	Anbindung	Anbindung	N	1	O
+5	an	an	P	1	O
+6	weitere	weit	G	1	O
+7	beliebte	beliebt	G	1	O
+8	Bayrische	bayrisch	G	1	O
+9	Ziele	Ziel	N	1	O
+10	wie	wie	C	1	O
+11	Tergernsee	Tergernsee	R	1	I-Location
+12	,	,	O	1	O
+13	Schliersee	Schliersee	R	1	I-Location
+14	oder	oder	C	1	O
+15	München	München	R	1	I-Location
+16	ist	sein	V	1	O
+17	das	die	D	1	O
+18	Hotel	Hotel	N	1	O
+19	eine	eine	D	1	O
+20	gute	gut	G	1	O
+21	Ausgangsbasis	Ausgangsbasis	N	1	O
+22	um	um	P	1	O
+23	diese	dies	Q	1	O
+24	Ziele	Ziel	N	1	O
+25	zu	zu	O	1	O
+26	erreichen	erreichen	V	1	O
+27	da	da	A	1	O
+28	der	die	D	1	O
+29	Bahnhof	Bahnhof	N	1	O
+30	zu	zu	P	1	O
+31	Fuß	Fuß	N	1	O
+32	in	in	P	1	O
+33	wenigen	wenige	Q	1	O
+34	Minuten	Minute	N	1	O
+35	zu	zu	O	1	O
+36	erreichen	erreichen	V	1	O
+37	ist	sein	V	1	O
+38	und	und	C	1	O
+39	die	die	D	1	O
+40	Bahn	Bahn	N	1	O
+41	im	in	P	1	O
+42	30	30	O	1	O
+43	Minutentakt	Minutentakt	N	1	O
+44	fährt	fahren	V	1	O
+45	.	.	O	1	O
 
-1	Daher	daher	Q	1	
-2	sehr	sehr	A	1	
-3	gut	gut	G	1	
-4	für	für	P	1	
-5	Leute	Leute	N	1	
-6	die	die	D	1	
-7	mit	mit	P	1	
-8	der	die	D	1	
-9	Bahn	Bahn	N	1	
-10	fahren	fahren	V	1	
-11	.	.	O	1	
+1	Daher	daher	Q	1	O
+2	sehr	sehr	A	1	O
+3	gut	gut	G	1	O
+4	für	für	P	1	O
+5	Leute	Leute	N	1	O
+6	die	die	D	1	O
+7	mit	mit	P	1	O
+8	der	die	D	1	O
+9	Bahn	Bahn	N	1	O
+10	fahren	fahren	V	1	O
+11	.	.	O	1	O
 
-1	Fazit	Fazit	N	1	
-2	:	:	O	1	
-3	Ein	eine	D	1	
-4	tolles	toll	G	1	
-5	Hotel	Hotel	N	1	
-6	mit	mit	P	1	
-7	gutem	gut	G	1	
-8	Preis	Preis	N	1	
-9	·	·	O	1	
-10	Leistungsverhältnis	Leistungsverhältnis	N	1	
-11	und	und	C	1	
-12	eine	eine	D	1	
-13	wunderschöne	wunderschön	G	1	
-14	Gegend	Gegend	N	1	
-15	.	.	O	1	
+1	Fazit	Fazit	N	1	O
+2	:	:	O	1	O
+3	Ein	eine	D	1	O
+4	tolles	toll	G	1	O
+5	Hotel	Hotel	N	1	O
+6	mit	mit	P	1	O
+7	gutem	gut	G	1	O
+8	Preis	Preis	N	1	O
+9	·	·	O	1	O
+10	Leistungsverhältnis	Leistungsverhältnis	N	1	O
+11	und	und	C	1	O
+12	eine	eine	D	1	O
+13	wunderschöne	wunderschön	G	1	O
+14	Gegend	Gegend	N	1	O
+15	.	.	O	1	O
 
-1	Ich	ich	Q	1	
-2	würde	werden	V	1	
-3	wieder	wieder	A	1	
-4	kommen	kommen	V	1	
-5	.	.	O	1	
+1	Ich	ich	Q	1	O
+2	würde	werden	V	1	O
+3	wieder	wieder	A	1	O
+4	kommen	kommen	V	1	O
+5	.	.	O	1	O
 

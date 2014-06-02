@@ -1,166 +1,167 @@
-1	Immer	immer	A	1	
-2	wieder	wieder	A	1	
-3	Beach_Albatros	Beach_Albatros	R	1	ne=Hotel
-4	!	!	O	1	
+1	Immer	immer	A	1	O
+2	wieder	wieder	A	1	O
+3	Beach	Beach	O	1	I-Hotel
+4	Albatros	Albatros	N	1	I-Hotel
+5	!	!	O	1	O
 
-1	Eine	eine	Q	1	
-2	der	die	D	1	
-3	besten	gut	G	1	
-4	Hotelanlagen	Hotelanlage	N	1	
-5	in	in	P	1	
-6	der	die	D	1	
-7	wir	wir	Q	1	
-8	jemals	jemals	A	1	
-9	gewesen	sein	V	1	
-10	sind	sein	V	1	
-11	!	!	O	1	
+1	Eine	eine	Q	1	O
+2	der	die	D	1	O
+3	besten	gut	G	1	O
+4	Hotelanlagen	Hotelanlage	N	1	O
+5	in	in	P	1	O
+6	der	die	D	1	O
+7	wir	wir	Q	1	O
+8	jemals	jemals	A	1	O
+9	gewesen	sein	V	1	O
+10	sind	sein	V	1	O
+11	!	!	O	1	O
 
-1	Hier	hier	A	1	
-2	wird	werden	V	1	
-3	Gastfreundlichkeit	Gastfreundlichkeit	N	1	
-4	"	"	O	1	
-5	GROß	Groß	R	1	
-6	"	"	O	1	
-7	geschrieben	schreiben	V	1	
-8	und	und	C	1	
-9	niemand	niemand	Q	1	
-10	geht	gehen	V	1	
-11	einem	eine	D	1	
-12	auf	auf	P	1	
-13	die	die	D	1	
-14	Nerven	Nerv|Nerven	N	1	
-15	,	,	O	1	
-16	weil	weil	C	1	
-17	er	er	Q	1	
-18	irgendwas	irgendwas	Q	1	
-19	verkaufen	verkaufen	V	1	
-20	will	wollen	V	1	
-21	.	.	O	1	
+1	Hier	hier	A	1	O
+2	wird	werden	V	1	O
+3	Gastfreundlichkeit	Gastfreundlichkeit	N	1	O
+4	"	"	O	1	O
+5	GROß	Groß	R	1	O
+6	"	"	O	1	O
+7	geschrieben	schreiben	V	1	O
+8	und	und	C	1	O
+9	niemand	niemand	Q	1	O
+10	geht	gehen	V	1	O
+11	einem	eine	D	1	O
+12	auf	auf	P	1	O
+13	die	die	D	1	O
+14	Nerven	Nerv|Nerven	N	1	O
+15	,	,	O	1	O
+16	weil	weil	C	1	O
+17	er	er	Q	1	O
+18	irgendwas	irgendwas	Q	1	O
+19	verkaufen	verkaufen	V	1	O
+20	will	wollen	V	1	O
+21	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Großteil	Großteil	N	1	
-3	des	die	D	1	
-4	Personals	Personal	N	1	
-5	spricht	sprechen	V	1	
-6	deutsch	deutsch	G	1	
-7	,	,	O	1	
-8	ansonsten	ansonsten	A	1	
-9	ist	sein	V	1	
-10	Englisch	Englisch	N	1	
-11	absolut	absolut	G	1	
-12	ausreichend	ausreichend	G	1	
-13	.	.	O	1	
+1	Der	die	D	1	O
+2	Großteil	Großteil	N	1	O
+3	des	die	D	1	O
+4	Personals	Personal	N	1	O
+5	spricht	sprechen	V	1	O
+6	deutsch	deutsch	G	1	O
+7	,	,	O	1	O
+8	ansonsten	ansonsten	A	1	O
+9	ist	sein	V	1	O
+10	Englisch	Englisch	N	1	O
+11	absolut	absolut	G	1	O
+12	ausreichend	ausreichend	G	1	O
+13	.	.	O	1	O
 
-1	Bei	bei	P	1	
-2	insgesamt	insgesamt	A	1	
-3	fünf	fünf	O	1	
-4	Restaurants	Restaurant	N	1	
-5	in	in	P	1	
-6	denen	die	Q	1	
-7	zu	zu	P	1	
-8	jeder	jede	Q	1	
-9	Mahlzeit	Mahlzeit	N	1	
-10	Buffet	Buffet	N	1	
-11	angeboten	anbieten	V	1	
-12	wird	werden	V	1	
-13	,	,	O	1	
-14	findet	finden	V	1	
-15	garantiert	garantiert	G	1	
-16	jeder	jede	Q	1	
-17	etwas	etwas	Q	1	
-18	nach	nach	P	1	
-19	seinem	sein	Q	1	
-20	Geschmack	Geschmack	N	1	
-21	(	(	O	1	
-22	und	und	C	1	
-23	das	die	Q	1	
-24	gilt	gelten	V	1	
-25	auch	auch	A	1	
-26	für	für	P	1	
-27	die	die	D	1	
-28	unalkoholischen	unalkoholischen	O	1	
-29	Getränke	Getränk	N	1	
-30	)	)	O	1	
-31	.	.	O	1	
+1	Bei	bei	P	1	O
+2	insgesamt	insgesamt	A	1	O
+3	fünf	fünf	O	1	O
+4	Restaurants	Restaurant	N	1	O
+5	in	in	P	1	O
+6	denen	die	Q	1	O
+7	zu	zu	P	1	O
+8	jeder	jede	Q	1	O
+9	Mahlzeit	Mahlzeit	N	1	O
+10	Buffet	Buffet	N	1	O
+11	angeboten	anbieten	V	1	O
+12	wird	werden	V	1	O
+13	,	,	O	1	O
+14	findet	finden	V	1	O
+15	garantiert	garantiert	G	1	O
+16	jeder	jede	Q	1	O
+17	etwas	etwas	Q	1	O
+18	nach	nach	P	1	O
+19	seinem	sein	Q	1	O
+20	Geschmack	Geschmack	N	1	O
+21	(	(	O	1	O
+22	und	und	C	1	O
+23	das	die	Q	1	O
+24	gilt	gelten	V	1	O
+25	auch	auch	A	1	O
+26	für	für	P	1	O
+27	die	die	D	1	O
+28	unalkoholischen	unalkoholischen	O	1	O
+29	Getränke	Getränk	N	1	O
+30	)	)	O	1	O
+31	.	.	O	1	O
 
-1	Des	die	D	1	
-2	weiteren	weit	G	1	
-3	gibt	geben	V	1	
-4	es	es	Q	1	
-5	zwei	zwei	O	1	
-6	Poolanlagen	Poolanlagen	O	1	
-7	(	(	O	1	
-8	eine	eine	D	1	
-9	mit	mit	P	1	
-10	zwei	zwei	O	1	
-11	Rutschen	Rutschen	N	1	
-12	)	)	O	1	
-13	,	,	O	1	
-14	wodurch	wodurch	Q	1	
-15	sich	sich	Q	1	
-16	die	die	D	1	
-17	Masse	Masse	N	1	
-18	besser	gut	G	1	
-19	verteilt	verteilen	V	1	
-20	.	.	O	1	
+1	Des	die	D	1	O
+2	weiteren	weit	G	1	O
+3	gibt	geben	V	1	O
+4	es	es	Q	1	O
+5	zwei	zwei	O	1	O
+6	Poolanlagen	Poolanlagen	O	1	O
+7	(	(	O	1	O
+8	eine	eine	D	1	O
+9	mit	mit	P	1	O
+10	zwei	zwei	O	1	O
+11	Rutschen	Rutschen	N	1	O
+12	)	)	O	1	O
+13	,	,	O	1	O
+14	wodurch	wodurch	Q	1	O
+15	sich	sich	Q	1	O
+16	die	die	D	1	O
+17	Masse	Masse	N	1	O
+18	besser	gut	G	1	O
+19	verteilt	verteilen	V	1	O
+20	.	.	O	1	O
 
-1	Wer	wer	Q	1	
-2	einkaufen	einkaufen	V	1	
-3	möchte	mögen	V	1	
-4	,	,	O	1	
-5	sollte	sollen	V	1	
-6	nach	nach	P	1	
-7	Hurghada	Hurghada	R	1	ne=Location
-8	fahren	fahren	V	1	
-9	und	und	C	1	
-10	möglichst	möglichst	A	1	
-11	"	"	O	1	
-12	nicht	nicht	O	1	
-13	"	"	O	1	
-14	auf	auf	P	1	
-15	den	die	D	1	
-16	örtlichen	örtlich	G	1	
-17	Basar	Basar	N	1	
-18	zurückgreifen	zurückgreifen	V	1	
-19	(	(	O	1	
-20	bis	bis	C	1	
-21	auf	auf	P	1	
-22	die	die	D	1	
-23	Apotheke	Apotheke	N	1	
-24	,	,	O	1	
-25	welche	welche	Q	1	
-26	wirklich	wirklich	G	1	
-27	gute	gut	G	1	
-28	Hilfsmittel	Hilfsmittel	N	1	
-29	gegen	gegen	P	1	
-30	Sonnenbrand	Sonnenbrand	R	1	
-31	,	,	O	1	
-32	trockene	trocken	G	1	
-33	Haut	Haut	N	1	
-34	,	,	O	1	
-35	etc.	etc.	A	1	
-36	parat	parat	G	1	
-37	hat	haben	V	1	
-38	)	)	O	1	
-39	.	.	O	1	
+1	Wer	wer	Q	1	O
+2	einkaufen	einkaufen	V	1	O
+3	möchte	mögen	V	1	O
+4	,	,	O	1	O
+5	sollte	sollen	V	1	O
+6	nach	nach	P	1	O
+7	Hurghada	Hurghada	R	1	I-Location
+8	fahren	fahren	V	1	O
+9	und	und	C	1	O
+10	möglichst	möglichst	A	1	O
+11	"	"	O	1	O
+12	nicht	nicht	O	1	O
+13	"	"	O	1	O
+14	auf	auf	P	1	O
+15	den	die	D	1	O
+16	örtlichen	örtlich	G	1	O
+17	Basar	Basar	N	1	O
+18	zurückgreifen	zurückgreifen	V	1	O
+19	(	(	O	1	O
+20	bis	bis	C	1	O
+21	auf	auf	P	1	O
+22	die	die	D	1	O
+23	Apotheke	Apotheke	N	1	O
+24	,	,	O	1	O
+25	welche	welche	Q	1	O
+26	wirklich	wirklich	G	1	O
+27	gute	gut	G	1	O
+28	Hilfsmittel	Hilfsmittel	N	1	O
+29	gegen	gegen	P	1	O
+30	Sonnenbrand	Sonnenbrand	R	1	O
+31	,	,	O	1	O
+32	trockene	trocken	G	1	O
+33	Haut	Haut	N	1	O
+34	,	,	O	1	O
+35	etc.	etc.	A	1	O
+36	parat	parat	G	1	O
+37	hat	haben	V	1	O
+38	)	)	O	1	O
+39	.	.	O	1	O
 
-1	Einheimische	einheimisch	G	1	
-2	alkoholische	alkoholisch	G	1	
-3	Getränke	Getränk	N	1	
-4	sind	sein	V	1	
-5	absoluter	absolut	G	1	
-6	Käse	Käse	N	1	
-7	und	und	C	1	
-8	es	es	Q	1	
-9	schmeckt	schmecken	V	1	
-10	alles	alle	Q	1	
-11	gleich	gleich	G	1	
-12	,	,	O	1	
-13	bis	bis	C	1	
-14	auf	auf	P	1	
-15	das	die	D	1	
-16	gezapfte	gezapft	G	1	
-17	kühle	kühl	G	1	
-18	Bier	Bier	N	1	
-19	.	.	O	1	
+1	Einheimische	einheimisch	G	1	O
+2	alkoholische	alkoholisch	G	1	O
+3	Getränke	Getränk	N	1	O
+4	sind	sein	V	1	O
+5	absoluter	absolut	G	1	O
+6	Käse	Käse	N	1	O
+7	und	und	C	1	O
+8	es	es	Q	1	O
+9	schmeckt	schmecken	V	1	O
+10	alles	alle	Q	1	O
+11	gleich	gleich	G	1	O
+12	,	,	O	1	O
+13	bis	bis	C	1	O
+14	auf	auf	P	1	O
+15	das	die	D	1	O
+16	gezapfte	gezapft	G	1	O
+17	kühle	kühl	G	1	O
+18	Bier	Bier	N	1	O
+19	.	.	O	1	O
 

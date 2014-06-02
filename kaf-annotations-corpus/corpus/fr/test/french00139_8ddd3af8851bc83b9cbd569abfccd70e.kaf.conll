@@ -1,93 +1,99 @@
-1	Sejour	Sejour	P	1	
-2	peu	peu	G	1	
-3	encourageant	encourageant	G	1	
+1	Sejour	Sejour	P	1	O
+2	peu	peu	G	1	O
+3	encourageant	encourageant	G	1	O
 
-1	nous	lui	Q	1	
-2	sommes	sommer	V	1	
-3	allés	aller	V	1	
-4	au_camping_de_pujol	au_camping_de_pujol	R	1	ne=Hotel
-5	2	2	G	1	
-6	semaines	semaine	N	1	
-7	et	et	C	1	
-8	demi	demi	N	1	
-9	au_mois_d'_aout.l'	au_moi_d'_aout.l'	R	1	ne=Date
-10	aceuil	aceuil	N	1	
-11	est	être	V	1	
-12	trés	trés	G	1	
-13	médiocre	médiocre	G	1	
-14	et	et	C	1	
-15	mal	mal	G	1	
-16	·	·	V	1	
-17	aimable.les	aimable.les	P	1	
-18	sanitaires	sanitaire	N	1	
-19	sont	être	V	1	
-20	propre	propre	G	1	
-21	mais	mais	C	1	
-22	pas	pas	G	1	
-23	au	au	P	1	
-24	top	top	N	1	
-25	pour	pour	P	1	
-26	l'	le	D	1	
-27	entretien	entretien	N	1	
-28	des	des	P	1	
-29	cabines	cabine	N	1	
-30	ex	ex	P	1	
-31	:	:	O	1	
-32	tablette	tablette	N	1	
-33	cassé	cassé	N	1	
-34	,	,	O	1	
-35	pas	pas	G	1	
-36	de	de	P	1	
-37	pomme	pomme	N	1	
-38	de	de	P	1	
-39	douche	douche	N	1	
-40	...	...	O	1	
-41	les	le	D	1	
-42	animations	animation	N	1	
-43	sont	être	V	1	
-44	démodé	démodé	V	1	
-45	et	et	C	1	
-46	pas	pas	G	1	
-47	d'	d'	P	1	
-48	animation	animation	N	1	
-49	pour	pour	P	1	
-50	les	le	D	1	
-51	enfants	enfant	N	1	
-52	en	en	P	1	
-53	journée.les	journée.les	N	1	
-54	gérantes	gérantes	G	1	
-55	du	du	P	1	
-56	restaurant	restaurer	V	1	
-57	ne	ne	G	1	
-58	savent	savoir	V	1	
-59	pas	pas	G	1	
-60	dire	dire	V	1	
-61	"	&quot;	O	1	
-62	bonjour	bonjour	N	1	
-63	"	&quot;	O	1	
-64	.pas	.pas	G	1	
-65	de	de	P	1	
-66	connexion	connexion	N	1	
-67	wifi	wifi	G	1	
+1	nous	lui	Q	1	O
+2	sommes	sommer	V	1	O
+3	allés	aller	V	1	O
+4	au	au	P	1	I-Hotel
+5	camping	camping	N	1	I-Hotel
+6	de	de	P	1	I-Hotel
+7	pujol	pujol	N	1	I-Hotel
+8	2	2	G	1	O
+9	semaines	semaine	N	1	O
+10	et	et	C	1	O
+11	demi	demi	N	1	O
+12	au	au	P	1	I-Date
+13	mois	moi	N	1	I-Date
+14	d'	d'	P	1	I-Date
+15	aout.l'	aout.l'	N	1	I-Date
+16	aceuil	aceuil	N	1	O
+17	est	être	V	1	O
+18	trés	trés	G	1	O
+19	médiocre	médiocre	G	1	O
+20	et	et	C	1	O
+21	mal	mal	G	1	O
+22	·	·	V	1	O
+23	aimable.les	aimable.les	P	1	O
+24	sanitaires	sanitaire	N	1	O
+25	sont	être	V	1	O
+26	propre	propre	G	1	O
+27	mais	mais	C	1	O
+28	pas	pas	G	1	O
+29	au	au	P	1	O
+30	top	top	N	1	O
+31	pour	pour	P	1	O
+32	l'	le	D	1	O
+33	entretien	entretien	N	1	O
+34	des	des	P	1	O
+35	cabines	cabine	N	1	O
+36	ex	ex	P	1	O
+37	:	:	O	1	O
+38	tablette	tablette	N	1	O
+39	cassé	cassé	N	1	O
+40	,	,	O	1	O
+41	pas	pas	G	1	O
+42	de	de	P	1	O
+43	pomme	pomme	N	1	O
+44	de	de	P	1	O
+45	douche	douche	N	1	O
+46	...	...	O	1	O
+47	les	le	D	1	O
+48	animations	animation	N	1	O
+49	sont	être	V	1	O
+50	démodé	démodé	V	1	O
+51	et	et	C	1	O
+52	pas	pas	G	1	O
+53	d'	d'	P	1	O
+54	animation	animation	N	1	O
+55	pour	pour	P	1	O
+56	les	le	D	1	O
+57	enfants	enfant	N	1	O
+58	en	en	P	1	O
+59	journée.les	journée.les	N	1	O
+60	gérantes	gérantes	G	1	O
+61	du	du	P	1	O
+62	restaurant	restaurer	V	1	O
+63	ne	ne	G	1	O
+64	savent	savoir	V	1	O
+65	pas	pas	G	1	O
+66	dire	dire	V	1	O
+67	"	&quot;	O	1	O
+68	bonjour	bonjour	N	1	O
+69	"	&quot;	O	1	O
+70	.pas	.pas	G	1	O
+71	de	de	P	1	O
+72	connexion	connexion	N	1	O
+73	wifi	wifi	G	1	O
 
-1	les	le	D	1	
-2	emplacements	emplacement	N	1	
-3	sont	être	V	1	
-4	ombragé	ombrager	V	1	
-5	et	et	C	1	
-6	au	au	P	1	
-7	calme	calme	G	1	
-8	seuls	seul	G	1	
-9	point	point	N	1	
-10	positif	positif	G	1	
-11	.	.	O	1	
+1	les	le	D	1	O
+2	emplacements	emplacement	N	1	O
+3	sont	être	V	1	O
+4	ombragé	ombrager	V	1	O
+5	et	et	C	1	O
+6	au	au	P	1	O
+7	calme	calme	G	1	O
+8	seuls	seul	G	1	O
+9	point	point	N	1	O
+10	positif	positif	G	1	O
+11	.	.	O	1	O
 
-1	on	on	Q	1	
-2	changera	changer	V	1	
-3	de	de	P	1	
-4	camping	camping	N	1	
-5	l'	le	D	1	
-6	année	année	N	1	
-7	prochaine	prochain	G	1	
-8	.	.	O	1	
+1	on	on	Q	1	O
+2	changera	changer	V	1	O
+3	de	de	P	1	O
+4	camping	camping	N	1	O
+5	l'	le	D	1	O
+6	année	année	N	1	O
+7	prochaine	prochain	G	1	O
+8	.	.	O	1	O
 

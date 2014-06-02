@@ -1,54 +1,54 @@
-1	Buen	Buen	R	1	
-2	hotel	hotel	N	1	
-3	y	y	A	1	
-4	gran	gran	G	1	
-5	ciudad	ciudad	N	1	
+1	Buen	Buen	R	1	O
+2	hotel	hotel	N	1	O
+3	y	y	A	1	O
+4	gran	gran	G	1	O
+5	ciudad	ciudad	N	1	O
 
-1	Hotel	Hotel	R	1	
-2	bien	bien	O	1	
-3	situado	situado	G	1	
-4	cerca	cerca	N	1	
-5	de	de	P	1	
-6	la	la	D	1	
-7	estación	estación	N	1	
-8	,	,	O	1	
-9	y	y	G	1	
-10	cerca	cerca	N	1	
-11	también	también	N	1	
-12	del	del	O	1	
-13	centro	centro	O	1	
-14	de	de	O	1	
-15	la	la	O	1	
-16	ciudad	ciudad	O	1	
-17	y	y	G	1	
-18	la	la	N	1	
-19	zona	zona	N	1	
-20	turística.Estación	turística.Estación	R	1	
-21	de	de	P	1	
-22	metro	metro	N	1	
-23	justo	justo	A	1	
-24	al	al	G	1	
-25	lado	lado	N	1	
-26	y	y	A	1	
-27	bien	bien	G	1	
-28	conectado	conectado	V	1	
-29	con	con	A	1	
-30	buses	bus	N	1	
-31	y	y	A	1	
-32	tranvías	tranvías	N	1	
-33	,	,	O	1	
-34	y	y	G	1	
-35	bicicletas	bicicletas	N	1	
-36	públicas	públicas	N	1	
-37	para	para	G	1	
-38	los	los	N	1	
-39	más	más	N	1	
-40	valientes.Buen	valientes.Buen	R	1	
-41	trato	trato	N	1	
-42	del	del	O	1	
-43	personal	personal	G	1	
-44	y	y	G	1	
-45	bastante	bastante	N	1	
-46	acogedor	acogedor	N	1	
-47	.	.	O	1	
+1	Hotel	Hotel	R	1	O
+2	bien	bien	O	1	O
+3	situado	situado	G	1	O
+4	cerca	cerca	N	1	O
+5	de	de	P	1	O
+6	la	la	D	1	O
+7	estación	estación	N	1	O
+8	,	,	O	1	O
+9	y	y	G	1	O
+10	cerca	cerca	N	1	O
+11	también	también	N	1	O
+12	del	del	O	1	O
+13	centro	centro	O	1	O
+14	de	de	O	1	O
+15	la	la	O	1	O
+16	ciudad	ciudad	O	1	O
+17	y	y	G	1	O
+18	la	la	N	1	O
+19	zona	zona	N	1	O
+20	turística.Estación	turística.Estación	R	1	O
+21	de	de	P	1	O
+22	metro	metro	N	1	O
+23	justo	justo	A	1	O
+24	al	al	G	1	O
+25	lado	lado	N	1	O
+26	y	y	A	1	O
+27	bien	bien	G	1	O
+28	conectado	conectado	V	1	O
+29	con	con	A	1	O
+30	buses	bus	N	1	O
+31	y	y	A	1	O
+32	tranvías	tranvías	N	1	O
+33	,	,	O	1	O
+34	y	y	G	1	O
+35	bicicletas	bicicletas	N	1	O
+36	públicas	públicas	N	1	O
+37	para	para	G	1	O
+38	los	los	N	1	O
+39	más	más	N	1	O
+40	valientes.Buen	valientes.Buen	R	1	O
+41	trato	trato	N	1	O
+42	del	del	O	1	O
+43	personal	personal	G	1	O
+44	y	y	G	1	O
+45	bastante	bastante	N	1	O
+46	acogedor	acogedor	N	1	O
+47	.	.	O	1	O
 

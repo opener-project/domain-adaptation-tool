@@ -1,53 +1,56 @@
-1	Cosi	cosi	G	1	
-2	'	'	Q	1	
-3	cosi	cosi	G	1	
-4	'	'	Q	1	
+1	Cosi	cosi	G	1	O
+2	'	'	Q	1	O
+3	cosi	cosi	G	1	O
+4	'	'	Q	1	O
 
-1	Ho	avere	V	1	
-2	soggiornato	soggiornare	V	1	
-3	in	in	P	1	
-4	una	uno	D	1	
-5	casa	casa	N	1	
-6	mobile	mobile	N	1	
-7	dal	dal	P	1	
-8	4_al_11_Agosto	4_al_11_agosto	R	1	ne=Date
-9	.	.	O	1	
+1	Ho	avere	V	1	O
+2	soggiornato	soggiornare	V	1	O
+3	in	in	P	1	O
+4	una	uno	D	1	O
+5	casa	casa	N	1	O
+6	mobile	mobile	N	1	O
+7	dal	dal	P	1	O
+8	4	4	N	1	I-Date
+9	al	al	P	1	I-Date
+10	11	11	N	1	I-Date
+11	Agosto	agosto	N	1	I-Date
+12	.	.	O	1	O
 
-1	Casa	casa	N	1	
-2	mobile	mobile	G	1	
-3	discreta	discreto	G	1	
-4	,	,	O	1	
-5	poche	poco	G	1	
-6	pentole	pentola	N	1	
-7	molto	molto	A	1	
-8	"	&quot;	O	1	
-9	usata	usare	V	1	
-10	"	&quot;	O	1	
-11	,	,	O	1	
-12	campeggio	campeggiare	V	1	
-13	tutto	tutto	Q	1	
-14	in	in	P	1	
-15	salita	salita	N	1	
-16	,	,	O	1	
-17	market	market	N	1	
-18	caro	caro	G	1	
-19	ed	ed	Q	1	
-20	insufficiente	insufficiente	G	1	
-21	alla	alla	P	1	
-22	struttura	struttura	N	1	
-23	,	,	O	1	
-24	animazione	animazione	N	1	
-25	scarsa	scarso	G	1	
-26	,	,	O	1	
-27	sdraio	sdraio	N	1	
-28	a	a	P	1	
-29	pagamento	pagamento	N	1	
-30	in	in	P	1	
-31	piscina	piscina	N	1	
-32	,	,	O	1	
-33	parcheggio	parcheggio	N	1	
-34	insufficiente	insufficiente	G	1	
-35	alla	alla	P	1	
-36	struttura	struttura	N	1	
-37	.	.	O	1	
+1	Casa	casa	N	1	O
+2	mobile	mobile	G	1	O
+3	discreta	discreto	G	1	O
+4	,	,	O	1	O
+5	poche	poco	G	1	O
+6	pentole	pentola	N	1	O
+7	molto	molto	A	1	O
+8	"	&quot;	O	1	O
+9	usata	usare	V	1	O
+10	"	&quot;	O	1	O
+11	,	,	O	1	O
+12	campeggio	campeggiare	V	1	O
+13	tutto	tutto	Q	1	O
+14	in	in	P	1	O
+15	salita	salita	N	1	O
+16	,	,	O	1	O
+17	market	market	N	1	O
+18	caro	caro	G	1	O
+19	ed	ed	Q	1	O
+20	insufficiente	insufficiente	G	1	O
+21	alla	alla	P	1	O
+22	struttura	struttura	N	1	O
+23	,	,	O	1	O
+24	animazione	animazione	N	1	O
+25	scarsa	scarso	G	1	O
+26	,	,	O	1	O
+27	sdraio	sdraio	N	1	O
+28	a	a	P	1	O
+29	pagamento	pagamento	N	1	O
+30	in	in	P	1	O
+31	piscina	piscina	N	1	O
+32	,	,	O	1	O
+33	parcheggio	parcheggio	N	1	O
+34	insufficiente	insufficiente	G	1	O
+35	alla	alla	P	1	O
+36	struttura	struttura	N	1	O
+37	.	.	O	1	O
 

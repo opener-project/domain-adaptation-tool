@@ -1,102 +1,105 @@
-1	Hôtel	hôtel	N	1	
-2	B_&_B_Malakoff	B_&amp;_B_Malakoff	R	1	ne=Hotel
-3	,	,	O	1	
-4	Paris	pari	R	1	ne=Location
+1	Hôtel	hôtel	N	1	O
+2	B	B	G	1	I-Hotel
+3	&	&amp;	P	1	I-Hotel
+4	B	B	N	1	I-Hotel
+5	Malakoff	Malakoff	N	1	I-Hotel
+6	,	,	O	1	O
+7	Paris	pari	R	1	I-Location
 
-1	un	un	D	1	
-2	hôtel	hôtel	N	1	
-3	bien	bien	G	1	
-4	situé	situer	G	1	
-5	pour	pour	P	1	
-6	visiter	visiter	V	1	
-7	paris	pari	R	1	ne=Location
-8	et	et	C	1	
-9	ses	son	D	1	
-10	alentours	alentour	N	1	
-11	.	.	O	1	
+1	un	un	D	1	O
+2	hôtel	hôtel	N	1	O
+3	bien	bien	G	1	O
+4	situé	situer	G	1	O
+5	pour	pour	P	1	O
+6	visiter	visiter	V	1	O
+7	paris	pari	R	1	I-Location
+8	et	et	C	1	O
+9	ses	son	D	1	O
+10	alentours	alentour	N	1	O
+11	.	.	O	1	O
 
-1	Malgré	Malgré	P	1	
-2	le	le	D	1	
-3	fait	fait	N	1	
-4	que	que	C	1	
-5	c'	c'	Q	1	
-6	est	être	V	1	
-7	une	un	D	1	
-8	chambre	chambre	N	1	
-9	relativement	relativement	G	1	
-10	petite	petit	G	1	
-11	,	,	O	1	
-12	celle	celle	P	1	
-13	·	·	P	1	
-14	ci	ci	G	1	
-15	est	être	V	1	
-16	bien	bien	G	1	
-17	organisée	organiser	V	1	
-18	et	et	C	1	
-19	fonctionnelle	fonctionnel	G	1	
-20	.	.	O	1	
+1	Malgré	Malgré	P	1	O
+2	le	le	D	1	O
+3	fait	fait	N	1	O
+4	que	que	C	1	O
+5	c'	c'	Q	1	O
+6	est	être	V	1	O
+7	une	un	D	1	O
+8	chambre	chambre	N	1	O
+9	relativement	relativement	G	1	O
+10	petite	petit	G	1	O
+11	,	,	O	1	O
+12	celle	celle	P	1	O
+13	·	·	P	1	O
+14	ci	ci	G	1	O
+15	est	être	V	1	O
+16	bien	bien	G	1	O
+17	organisée	organiser	V	1	O
+18	et	et	C	1	O
+19	fonctionnelle	fonctionnel	G	1	O
+20	.	.	O	1	O
 
-1	Les	le	D	1	
-2	éléments	élément	N	1	
-3	d'	d'	P	1	
-4	hygiène	hygiène	N	1	
-5	fournit	fournir	V	1	
-6	(	(	O	1	
-7	serviettes	serviette	N	1	
-8	,	,	O	1	
-9	gobelet	gobelet	N	1	
-10	,	,	O	1	
-11	drap	drap	N	1	
-12	...	...	O	1	
-13	)	)	O	1	
-14	sont	être	V	1	
-15	tout	tout	G	1	
-16	blanc	blanc	G	1	
-17	et	et	C	1	
-18	propre	propre	G	1	
-19	.	.	O	1	
+1	Les	le	D	1	O
+2	éléments	élément	N	1	O
+3	d'	d'	P	1	O
+4	hygiène	hygiène	N	1	O
+5	fournit	fournir	V	1	O
+6	(	(	O	1	O
+7	serviettes	serviette	N	1	O
+8	,	,	O	1	O
+9	gobelet	gobelet	N	1	O
+10	,	,	O	1	O
+11	drap	drap	N	1	O
+12	...	...	O	1	O
+13	)	)	O	1	O
+14	sont	être	V	1	O
+15	tout	tout	G	1	O
+16	blanc	blanc	G	1	O
+17	et	et	C	1	O
+18	propre	propre	G	1	O
+19	.	.	O	1	O
 
-1	L'	le	D	1	
-2	hôtel	hôtel	N	1	
-3	en	en	P	1	
-4	lui	lui	Q	1	
-5	·	·	V	1	
-6	même	même	G	1	
-7	n'	n'	G	1	
-8	a	avoir	V	1	
-9	pas	pas	G	1	
-10	beaucoup	beaucoup	G	1	
-11	d'	d'	P	1	
-12	originalité	originalité	N	1	
-13	mais	mais	C	1	
-14	sa	son	D	1	
-15	situation	situation	N	1	
-16	géographique	géographique	G	1	
-17	permet	permettre	V	1	
-18	de	de	P	1	
-19	prendre	prendre	V	1	
-20	les	le	D	1	
-21	lignes	ligne	N	1	
-22	de	de	P	1	
-23	transport	transport	N	1	
-24	en	en	P	1	
-25	un	un	D	1	
-26	rien	rien	P	1	
-27	de	de	P	1	
-28	temps	temps	N	1	
-29	.	.	O	1	
+1	L'	le	D	1	O
+2	hôtel	hôtel	N	1	O
+3	en	en	P	1	O
+4	lui	lui	Q	1	O
+5	·	·	V	1	O
+6	même	même	G	1	O
+7	n'	n'	G	1	O
+8	a	avoir	V	1	O
+9	pas	pas	G	1	O
+10	beaucoup	beaucoup	G	1	O
+11	d'	d'	P	1	O
+12	originalité	originalité	N	1	O
+13	mais	mais	C	1	O
+14	sa	son	D	1	O
+15	situation	situation	N	1	O
+16	géographique	géographique	G	1	O
+17	permet	permettre	V	1	O
+18	de	de	P	1	O
+19	prendre	prendre	V	1	O
+20	les	le	D	1	O
+21	lignes	ligne	N	1	O
+22	de	de	P	1	O
+23	transport	transport	N	1	O
+24	en	en	P	1	O
+25	un	un	D	1	O
+26	rien	rien	P	1	O
+27	de	de	P	1	O
+28	temps	temps	N	1	O
+29	.	.	O	1	O
 
-1	Cela	Cela	P	1	
-2	permet	permettre	V	1	
-3	de	de	P	1	
-4	laisser	laisser	V	1	
-5	sa	son	D	1	
-6	voiture	voiture	N	1	
-7	au	au	P	1	
-8	parking	parking	N	1	
-9	(	(	O	1	
-10	qui	qui	P	1	
-11	est	être	V	1	
-12	payant	payant	G	1	
-13	)	)	O	1	
+1	Cela	Cela	P	1	O
+2	permet	permettre	V	1	O
+3	de	de	P	1	O
+4	laisser	laisser	V	1	O
+5	sa	son	D	1	O
+6	voiture	voiture	N	1	O
+7	au	au	P	1	O
+8	parking	parking	N	1	O
+9	(	(	O	1	O
+10	qui	qui	P	1	O
+11	est	être	V	1	O
+12	payant	payant	G	1	O
+13	)	)	O	1	O
 

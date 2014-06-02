@@ -1,87 +1,87 @@
-1	Zweckmäßiges	zweckmäßig	G	1	
-2	gutes	gut	G	1	
-3	Hotel	Hotel	N	1	
+1	Zweckmäßiges	zweckmäßig	G	1	O
+2	gutes	gut	G	1	O
+3	Hotel	Hotel	N	1	O
 
-1	Haben	haben	V	1	
-2	eine	eine	D	1	
-3	Pauschalreise	Pauschalreise	N	1	
-4	für	für	P	1	
-5	8	8	O	1	
-6	Tage	Tag	N	1	
-7	gebucht	buchen	V	1	
-8	.	.	O	1	
+1	Haben	haben	V	1	O
+2	eine	eine	D	1	O
+3	Pauschalreise	Pauschalreise	N	1	O
+4	für	für	P	1	O
+5	8	8	O	1	O
+6	Tage	Tag	N	1	O
+7	gebucht	buchen	V	1	O
+8	.	.	O	1	O
 
-1	Idealer	ideal	G	1	
-2	Ausgangspunkt	Ausgangspunkt	N	1	
-3	für	für	P	1	
-4	Ausflüge	Ausflug	N	1	
-5	bzw	bzw	O	1	
-6	Besichtigungen	Besichtigung	N	1	
-7	der	die	D	1	
+1	Idealer	ideal	G	1	O
+2	Ausgangspunkt	Ausgangspunkt	N	1	O
+3	für	für	P	1	O
+4	Ausflüge	Ausflug	N	1	O
+5	bzw	bzw	O	1	O
+6	Besichtigungen	Besichtigung	N	1	O
+7	der	die	D	1	O
 
-1	Umgebung	Umgebung	N	1	
-2	.	.	O	1	
+1	Umgebung	Umgebung	N	1	O
+2	.	.	O	1	O
 
-1	(	(	O	1	
-2	Lucca	Lucca	R	1	ne=Location
-3	,	,	O	1	
-4	Florenz	Florenz	R	1	ne=Location
-5	,	,	O	1	
-6	Elba	Elba	R	1	ne=Location
-7	,	,	O	1	
-8	Pisa	Pisa	R	1	ne=Location
-9	,	,	O	1	
-10	Siena	Siena	R	1	ne=Location
-11	usw.	usw.	A	1	
+1	(	(	O	1	O
+2	Lucca	Lucca	R	1	I-Location
+3	,	,	O	1	O
+4	Florenz	Florenz	R	1	I-Location
+5	,	,	O	1	O
+6	Elba	Elba	R	1	I-Location
+7	,	,	O	1	O
+8	Pisa	Pisa	R	1	I-Location
+9	,	,	O	1	O
+10	Siena	Siena	R	1	I-Location
+11	usw.	usw.	A	1	O
 
-1	Hotel	Hotel	N	1	
-2	für	für	P	1	
-3	italieniche	italieniche	O	1	
-4	Verhältnisse	Verhältnis	N	1	
-5	gut	gut	G	1	
-6	.	.	O	1	
+1	Hotel	Hotel	N	1	O
+2	für	für	P	1	O
+3	italieniche	italieniche	O	1	O
+4	Verhältnisse	Verhältnis	N	1	O
+5	gut	gut	G	1	O
+6	.	.	O	1	O
 
-1	Ruhige	ruhig	G	1	
-2	und	und	C	1	
-3	doch	doch	A	1	
-4	zentrale	zentral	G	1	
-5	Lage	Lage	N	1	
-6	.	.	O	1	
+1	Ruhige	ruhig	G	1	O
+2	und	und	C	1	O
+3	doch	doch	A	1	O
+4	zentrale	zentral	G	1	O
+5	Lage	Lage	N	1	O
+6	.	.	O	1	O
 
-1	(	(	O	1	
-2	Kurpark	Kurpark	N	1	
-3	,	,	O	1	
-4	Stadtzentrum	Stadtzentrum	N	1	
-5	)	)	O	1	
+1	(	(	O	1	O
+2	Kurpark	Kurpark	N	1	O
+3	,	,	O	1	O
+4	Stadtzentrum	Stadtzentrum	N	1	O
+5	)	)	O	1	O
 
-1	Zimmer	Zimmer	N	1	
-2	eifach	eifach	O	1	
-3	eingerichtet	eingerichtet	G	1	
-4	aber	aber	C	1	
-5	sauber	sauber	G	1	
-6	.	.	O	1	
+1	Zimmer	Zimmer	N	1	O
+2	eifach	eifach	O	1	O
+3	eingerichtet	eingerichtet	G	1	O
+4	aber	aber	C	1	O
+5	sauber	sauber	G	1	O
+6	.	.	O	1	O
 
-1	Unsere	unser	Q	1	
-2	Räumlichkeiten	Räumlichkeit	N	1	
-3	waren	sein	V	1	
-4	sehr	sehr	A	1	
-5	groß	groß	G	1	
-6	,	,	O	1	
-7	und	und	C	1	
-8	lagen	liegen	V	1	
-9	im	in	P	1	
+1	Unsere	unser	Q	1	O
+2	Räumlichkeiten	Räumlichkeit	N	1	O
+3	waren	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	groß	groß	G	1	O
+6	,	,	O	1	O
+7	und	und	C	1	O
+8	lagen	liegen	V	1	O
+9	im	in	P	1	O
 
-1	2.Stock	2.stock	O	1	
-2	zur	zu	P	1	
-3	ruhigen	ruhig	G	1	
-4	Seitenstrasse	Seitenstraße	N	1	
-5	.	.	O	1	
+1	2.Stock	2.stock	O	1	O
+2	zur	zu	P	1	O
+3	ruhigen	ruhig	G	1	O
+4	Seitenstrasse	Seitenstraße	N	1	O
+5	.	.	O	1	O
 
-1	Wir	wir	Q	1	
-2	würden	werden	V	1	
-3	dieses	dies	Q	1	
-4	Hotel	Hotel	N	1	
-5	wieder	wieder	A	1	
-6	buchen	buchen	V	1	
-7	.	.	O	1	
+1	Wir	wir	Q	1	O
+2	würden	werden	V	1	O
+3	dieses	dies	Q	1	O
+4	Hotel	Hotel	N	1	O
+5	wieder	wieder	A	1	O
+6	buchen	buchen	V	1	O
+7	.	.	O	1	O
 

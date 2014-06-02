@@ -1,173 +1,179 @@
-1	Buffet	buffet	N	1	
-2	diner	diner	N	1	
+1	Buffet	buffet	N	1	O
+2	diner	diner	N	1	O
 
-1	Wij	wij	Q	1	
-2	hebben	hebben	V	1	
-3	in	in	P	1	
-4	het	het	D	1	
-5	weekeinde_van_21_/_22_januari	weekeinde_van_@card@_/_@card@_januari	R	1	ne=Date
-6	onze	ons	D	1	
-7	voucher	voucher	O	1	
-8	ingewisseld	inwisselen	V	1	
-9	in	in	P	1	
-10	Hotel_Gladbeck	hotel_Gladbeck	R	1	ne=Hotel
-11	,	,	O	1	
-12	(	(	O	1	
-13	via	via	P	1	
-14	Postcode	postcode	N	1	
-15	loterij	loterij	N	1	
-16	)	)	O	1	
-17	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	hebben	hebben	V	1	O
+3	in	in	P	1	O
+4	het	het	D	1	O
+5	weekeinde	weekeinde	N	1	I-Date
+6	van	van	P	1	I-Date
+7	21	@card@	O	1	I-Date
+8	/	/	O	1	I-Date
+9	22	@card@	O	1	I-Date
+10	januari	januari	R	1	I-Date
+11	onze	ons	D	1	O
+12	voucher	voucher	O	1	O
+13	ingewisseld	inwisselen	V	1	O
+14	in	in	P	1	O
+15	Hotel	hotel	N	1	I-Hotel
+16	Gladbeck	Gladbeck	O	1	I-Hotel
+17	,	,	O	1	O
+18	(	(	O	1	O
+19	via	via	P	1	O
+20	Postcode	postcode	N	1	O
+21	loterij	loterij	N	1	O
+22	)	)	O	1	O
+23	.	.	O	1	O
 
-1	Deze	deze	D	1	
-2	prijs	prijs	N	1	
-3	kwam	komen	V	1	
-4	leuk	leuk	G	1	
-5	uit	uit	A	1	
-6	,	,	O	1	
-7	omdat	omdat	C	1	
-8	wij	wij	Q	1	
-9	pas	pas	A	1	
-10	geleden	geleden	G	1	
-11	40	@card@	O	1	
-12	jaar	jaar	N	1	
-13	getrouwd	trouwen	V	1	
-14	waren	wezen|zijn	V	1	
-15	.	.	O	1	
+1	Deze	deze	D	1	O
+2	prijs	prijs	N	1	O
+3	kwam	komen	V	1	O
+4	leuk	leuk	G	1	O
+5	uit	uit	A	1	O
+6	,	,	O	1	O
+7	omdat	omdat	C	1	O
+8	wij	wij	Q	1	O
+9	pas	pas	A	1	O
+10	geleden	geleden	G	1	O
+11	40	@card@	O	1	O
+12	jaar	jaar	N	1	O
+13	getrouwd	trouwen	V	1	O
+14	waren	wezen|zijn	V	1	O
+15	.	.	O	1	O
 
-1	Ons	ons	Q	1	
-2	was	wezen|zijn	V	1	
-3	toegezegd	toezeggen	V	1	
-4	een	een	D	1	
-5	3	@card@	O	1	
-6	gangen	gang	N	1	
-7	diner	diner	N	1	
-8	,	,	O	1	
-9	maar	maar	C	1	
-10	in	in	P	1	
-11	plaats	plaats	N	1	
-12	daarvan	daarvan	Q	1	
-13	was	wezen|zijn	V	1	
-14	er	er	Q	1	
-15	een	een	D	1	
-16	diner	diner	N	1	
-17	buffet	buffet	N	1	
-18	.	.	O	1	
+1	Ons	ons	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	toegezegd	toezeggen	V	1	O
+4	een	een	D	1	O
+5	3	@card@	O	1	O
+6	gangen	gang	N	1	O
+7	diner	diner	N	1	O
+8	,	,	O	1	O
+9	maar	maar	C	1	O
+10	in	in	P	1	O
+11	plaats	plaats	N	1	O
+12	daarvan	daarvan	Q	1	O
+13	was	wezen|zijn	V	1	O
+14	er	er	Q	1	O
+15	een	een	D	1	O
+16	diner	diner	N	1	O
+17	buffet	buffet	N	1	O
+18	.	.	O	1	O
 
-1	De	de	D	1	
-2	schalen	schaal	N	1	
-3	waren	wezen|zijn	V	1	
-4	niet	niet	A	1	
-5	heet	heet	G	1	
-6	genoeg	genoeg	A	1	
-7	en	en	C	1	
-8	er	er	Q	1	
-9	was	wassen	V	1	
-10	geen	geen	D	1	
-11	mogelijk	mogelijk	G	1	
-12	om	om	C	1	
-13	bijvoorbeeld	bijvoorbeeld	A	1	
-14	gebakken	bakken	V	1	
-15	aardappels	aardappel	N	1	
-16	/	/	O	1	
-17	frites	frites	N	1	
-18	te	te	O	1	
-19	nemen	nemen	V	1	
-20	.	.	O	1	
+1	De	de	D	1	O
+2	schalen	schaal	N	1	O
+3	waren	wezen|zijn	V	1	O
+4	niet	niet	A	1	O
+5	heet	heet	G	1	O
+6	genoeg	genoeg	A	1	O
+7	en	en	C	1	O
+8	er	er	Q	1	O
+9	was	wassen	V	1	O
+10	geen	geen	D	1	O
+11	mogelijk	mogelijk	G	1	O
+12	om	om	C	1	O
+13	bijvoorbeeld	bijvoorbeeld	A	1	O
+14	gebakken	bakken	V	1	O
+15	aardappels	aardappel	N	1	O
+16	/	/	O	1	O
+17	frites	frites	N	1	O
+18	te	te	O	1	O
+19	nemen	nemen	V	1	O
+20	.	.	O	1	O
 
-1	Kortom	kortom	A	1	
-2	:	:	O	1	
-3	wij	wij	Q	1	
-4	hadden	hebben	V	1	
-5	ons	ons	Q	1	
-6	eigenlijk	eigenlijk	G	1	
-7	verheugd	verheugen	V	1	
-8	op	op	P	1	
-9	een	een	D	1	
-10	echte	echt	G	1	
-11	Duitse	Duits	G	1	
-12	schnitzel	schnitzel	N	1	
-13	of	of	C	1	
-14	braadworst	braadworst	N	1	
-15	met	met	P	1	
-16	kartoffel	kartoffel	O	1	
-17	salade	salade	N	1	
-18	of	of	C	1	
-19	een	een	D	1	
-20	ander	ander	G	1	
-21	typisch	typisch	G	1	
-22	Duits	Duits	G	1	
-23	gerecht	gerecht	N	1	
-24	.	.	O	1	
+1	Kortom	kortom	A	1	O
+2	:	:	O	1	O
+3	wij	wij	Q	1	O
+4	hadden	hebben	V	1	O
+5	ons	ons	Q	1	O
+6	eigenlijk	eigenlijk	G	1	O
+7	verheugd	verheugen	V	1	O
+8	op	op	P	1	O
+9	een	een	D	1	O
+10	echte	echt	G	1	O
+11	Duitse	Duits	G	1	O
+12	schnitzel	schnitzel	N	1	O
+13	of	of	C	1	O
+14	braadworst	braadworst	N	1	O
+15	met	met	P	1	O
+16	kartoffel	kartoffel	O	1	O
+17	salade	salade	N	1	O
+18	of	of	C	1	O
+19	een	een	D	1	O
+20	ander	ander	G	1	O
+21	typisch	typisch	G	1	O
+22	Duits	Duits	G	1	O
+23	gerecht	gerecht	N	1	O
+24	.	.	O	1	O
 
-1	Jammer	jammeren	V	1	
-2	,	,	O	1	
-3	maar	maar	C	1	
-4	wij	wij	Q	1	
-5	hebben	hebben	V	1	
-6	bijna	bijna	A	1	
-7	niets	niets	Q	1	
-8	gegeten	eten	V	1	
-9	en	en	C	1	
-10	hadden	hebben	V	1	
-11	liever	lief	G	1	
-12	zelf	zelf	Q	1	
-13	iets	iets	A	1	
-14	uit	uit	A	1	
-15	willen	willen	V	1	
-16	kiezen	kiezen	V	1	
-17	!	!	O	1	
-18	.	.	O	1	
+1	Jammer	jammeren	V	1	O
+2	,	,	O	1	O
+3	maar	maar	C	1	O
+4	wij	wij	Q	1	O
+5	hebben	hebben	V	1	O
+6	bijna	bijna	A	1	O
+7	niets	niets	Q	1	O
+8	gegeten	eten	V	1	O
+9	en	en	C	1	O
+10	hadden	hebben	V	1	O
+11	liever	lief	G	1	O
+12	zelf	zelf	Q	1	O
+13	iets	iets	A	1	O
+14	uit	uit	A	1	O
+15	willen	willen	V	1	O
+16	kiezen	kiezen	V	1	O
+17	!	!	O	1	O
+18	.	.	O	1	O
 
-1	Pluspunt	pluspunt	N	1	
-2	was	wezen|zijn	V	1	
-3	wel	wel	A	1	
-4	het	het	D	1	
-5	ontbijtbuffet	ontbijtbuffet	O	1	
-6	wat	wat	Q	1	
-7	uitgebreid	uitgebreid	G	1	
-8	en	en	C	1	
-9	smakelijk	smakelijk	G	1	
-10	was	wezen|zijn	V	1	
-11	.	.	O	1	
+1	Pluspunt	pluspunt	N	1	O
+2	was	wezen|zijn	V	1	O
+3	wel	wel	A	1	O
+4	het	het	D	1	O
+5	ontbijtbuffet	ontbijtbuffet	O	1	O
+6	wat	wat	Q	1	O
+7	uitgebreid	uitgebreid	G	1	O
+8	en	en	C	1	O
+9	smakelijk	smakelijk	G	1	O
+10	was	wezen|zijn	V	1	O
+11	.	.	O	1	O
 
-1	Helaas	helaas	A	1	
-2	zijn	zijn	V	1	
-3	wij	wij	Q	1	
-4	wel	wel	A	1	
-5	'	'	O	1	
-6	s	s	N	1	
-7	nachts	nacht	N	1	
-8	lang	lang	G	1	
-9	wakker	wakker	G	1	
-10	gehouden	houden	V	1	
-11	door	door	P	1	
-12	een	een	D	1	
-13	dronken	dronken	G	1	
-14	echtpaar	echtpaar	N	1	
-15	op	op	P	1	
-16	de	de	D	1	
-17	gang	gang	N	1	
-18	wat	wat	Q	1	
-19	hard	hard	G	1	
-20	op	op	P	1	
-21	de	de	D	1	
-22	verschillende	verschillend	G	1	
-23	deuren	deur	N	1	
-24	bonsde	bonzen	V	1	
-25	en	en	C	1	
-26	een	een	D	1	
-27	poos	poos	N	1	
-28	voor	voor	P	1	
-29	onze	ons	D	1	
-30	deur	deur	N	1	
-31	bleef	blijven	V	1	
-32	hangen	hangen	V	1	
-33	...	...	O	1	
+1	Helaas	helaas	A	1	O
+2	zijn	zijn	V	1	O
+3	wij	wij	Q	1	O
+4	wel	wel	A	1	O
+5	'	'	O	1	O
+6	s	s	N	1	O
+7	nachts	nacht	N	1	O
+8	lang	lang	G	1	O
+9	wakker	wakker	G	1	O
+10	gehouden	houden	V	1	O
+11	door	door	P	1	O
+12	een	een	D	1	O
+13	dronken	dronken	G	1	O
+14	echtpaar	echtpaar	N	1	O
+15	op	op	P	1	O
+16	de	de	D	1	O
+17	gang	gang	N	1	O
+18	wat	wat	Q	1	O
+19	hard	hard	G	1	O
+20	op	op	P	1	O
+21	de	de	D	1	O
+22	verschillende	verschillend	G	1	O
+23	deuren	deur	N	1	O
+24	bonsde	bonzen	V	1	O
+25	en	en	C	1	O
+26	een	een	D	1	O
+27	poos	poos	N	1	O
+28	voor	voor	P	1	O
+29	onze	ons	D	1	O
+30	deur	deur	N	1	O
+31	bleef	blijven	V	1	O
+32	hangen	hangen	V	1	O
+33	...	...	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	was	wezen|zijn	V	1	
-4	vriendelijk	vriendelijk	G	1	
-5	.	.	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	was	wezen|zijn	V	1	O
+4	vriendelijk	vriendelijk	G	1	O
+5	.	.	O	1	O
 

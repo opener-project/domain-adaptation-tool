@@ -1,132 +1,140 @@
-1	Jutito	Jutito	R	1	
-2	para	para	N	1	
-3	ser	ser	N	1	
-4	un	un	G	1	
-5	4	4	O	1	
-6	estrellas	estrellas	N	1	
+1	Jutito	Jutito	R	1	O
+2	para	para	N	1	O
+3	ser	ser	N	1	O
+4	un	un	G	1	O
+5	4	4	O	1	O
+6	estrellas	estrellas	N	1	O
 
-1	La	La	R	1	
-2	ubicación	ubicación	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	buena	buena	N	1	
-6	si	si	N	1	
-7	vamos	vamos	V	1	
-8	de	de	P	1	
-9	negocios	negocios	N	1	
-10	,	,	O	1	
-11	pues	pues	N	1	
-12	está	está	V	1	
-13	muy	muy	G	1	
-14	cerca	cerca	N	1	
-15	del	del	V	1	
-16	Forum	Forum	R	1	ne=Attraction
-17	y	y	G	1	
-18	además	además	N	1	
-19	tiene	tiene	V	1	
-20	una	una	G	1	
-21	parada	parada	N	1	
-22	de	de	P	1	
-23	metro	metro	N	1	
-24	cercana	cercana	N	1	
-25	que	que	V	1	
-26	te	te	G	1	
-27	conecta	conecta	N	1	
-28	con	con	A	1	
-29	el_centro_de_Barcelona	el_centro_de_Barcelona	R	1	ne=Location
-30	en	en	P	1	
-31	20	20	O	1	
-32	o	o	A	1	
-33	30	30	O	1	
-34	minutos	minutos	N	1	
-35	.	.	O	1	
+1	La	La	R	1	O
+2	ubicación	ubicación	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	buena	buena	N	1	O
+6	si	si	N	1	O
+7	vamos	vamos	V	1	O
+8	de	de	P	1	O
+9	negocios	negocios	N	1	O
+10	,	,	O	1	O
+11	pues	pues	N	1	O
+12	está	está	V	1	O
+13	muy	muy	G	1	O
+14	cerca	cerca	N	1	O
+15	del	del	V	1	O
+16	Forum	Forum	R	1	I-Attraction
+17	y	y	G	1	O
+18	además	además	N	1	O
+19	tiene	tiene	V	1	O
+20	una	una	G	1	O
+21	parada	parada	N	1	O
+22	de	de	P	1	O
+23	metro	metro	N	1	O
+24	cercana	cercana	N	1	O
+25	que	que	V	1	O
+26	te	te	G	1	O
+27	conecta	conecta	N	1	O
+28	con	con	A	1	O
+29	el	el	V	1	I-Location
+30	centro	centro	N	1	I-Location
+31	de	de	P	1	I-Location
+32	Barcelona	Barcelona	R	1	I-Location
+33	en	en	P	1	O
+34	20	20	O	1	O
+35	o	o	A	1	O
+36	30	30	O	1	O
+37	minutos	minutos	N	1	O
+38	.	.	O	1	O
 
-1	Una	Una	R	1	
-2	de	de	O	1	
-3	las	las	O	1	
-4	ventajas	ventajas	O	1	
-5	que	que	O	1	
-6	tiene	tiene	O	1	
-7	también	también	O	1	
-8	es	es	O	1	
-9	que	que	O	1	
-10	se	se	O	1	
-11	situa	situa	O	1	
-12	cerca	cerca	O	1	
-13	de	de	O	1	
-14	el_centro_comercial_Diagonal_del_Mar	el_centro_comercial_Diagonal_del_Mar	R	1	ne=Attraction
-15	,	,	O	1	
-16	y	y	A	1	
-17	a	a	D	1	
-18	pocos	pocos	N	1	
-19	metros	metros	O	1	
-20	de	de	O	1	
-21	la	la	O	1	
-22	playa	playa	O	1	
-23	.	.	O	1	
+1	Una	Una	R	1	O
+2	de	de	O	1	O
+3	las	las	O	1	O
+4	ventajas	ventajas	O	1	O
+5	que	que	O	1	O
+6	tiene	tiene	O	1	O
+7	también	también	O	1	O
+8	es	es	O	1	O
+9	que	que	O	1	O
+10	se	se	O	1	O
+11	situa	situa	O	1	O
+12	cerca	cerca	O	1	O
+13	de	de	O	1	O
+14	el	el	O	1	I-Attraction
+15	centro	centro	O	1	I-Attraction
+16	comercial	comercial	G	1	I-Attraction
+17	Diagonal	Diagonal	R	1	I-Attraction
+18	del	del	N	1	I-Attraction
+19	Mar	Mar	R	1	I-Attraction
+20	,	,	O	1	O
+21	y	y	A	1	O
+22	a	a	D	1	O
+23	pocos	pocos	N	1	O
+24	metros	metros	O	1	O
+25	de	de	O	1	O
+26	la	la	O	1	O
+27	playa	playa	O	1	O
+28	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	que	que	N	1	
-3	menos	menos	N	1	
-4	me	me	Q	1	
-5	gustó	gustó	V	1	
-6	es	es	N	1	
-7	que	que	V	1	
-8	pese	pese	N	1	
-9	a	a	D	1	
-10	ser	ser	N	1	
-11	de	de	P	1	
-12	cuatro	cuatro	G	1	
-13	estrellas	estrellas	N	1	
-14	,	,	O	1	
-15	tenía	tenía	N	1	
-16	muchas	muchas	N	1	
-17	carencias	carencias	V	1	
-18	,	,	O	1	
-19	por	por	N	1	
-20	ejemplo	ejemplo	N	1	
-21	,	,	O	1	
-22	no	no	D	1	
-23	disponía	disponía	N	1	
-24	de	de	P	1	
-25	piscina	piscina	N	1	
-26	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	que	que	N	1	O
+3	menos	menos	N	1	O
+4	me	me	Q	1	O
+5	gustó	gustó	V	1	O
+6	es	es	N	1	O
+7	que	que	V	1	O
+8	pese	pese	N	1	O
+9	a	a	D	1	O
+10	ser	ser	N	1	O
+11	de	de	P	1	O
+12	cuatro	cuatro	G	1	O
+13	estrellas	estrellas	N	1	O
+14	,	,	O	1	O
+15	tenía	tenía	N	1	O
+16	muchas	muchas	N	1	O
+17	carencias	carencias	V	1	O
+18	,	,	O	1	O
+19	por	por	N	1	O
+20	ejemplo	ejemplo	N	1	O
+21	,	,	O	1	O
+22	no	no	D	1	O
+23	disponía	disponía	N	1	O
+24	de	de	P	1	O
+25	piscina	piscina	N	1	O
+26	.	.	O	1	O
 
-1	El	El	R	1	
-2	desayuno	desayuno	N	1	
-3	,	,	O	1	
-4	aunque	aunque	G	1	
-5	completo	completo	N	1	
-6	,	,	O	1	
-7	no	no	D	1	
-8	era	era	N	1	
-9	demasiado	demasiado	N	1	
-10	variado	variado	N	1	
-11	,	,	O	1	
-12	y	y	G	1	
-13	el	el	N	1	
-14	zumo	zumo	O	1	
-15	la	la	O	1	
-16	verdad	verdad	O	1	
-17	es	es	O	1	
-18	que	que	O	1	
-19	dejaba	dejaba	O	1	
-20	mucho	mucho	O	1	
-21	que	que	O	1	
-22	desear	desear	O	1	
-23	.	.	O	1	
+1	El	El	R	1	O
+2	desayuno	desayuno	N	1	O
+3	,	,	O	1	O
+4	aunque	aunque	G	1	O
+5	completo	completo	N	1	O
+6	,	,	O	1	O
+7	no	no	D	1	O
+8	era	era	N	1	O
+9	demasiado	demasiado	N	1	O
+10	variado	variado	N	1	O
+11	,	,	O	1	O
+12	y	y	G	1	O
+13	el	el	N	1	O
+14	zumo	zumo	O	1	O
+15	la	la	O	1	O
+16	verdad	verdad	O	1	O
+17	es	es	O	1	O
+18	que	que	O	1	O
+19	dejaba	dejaba	O	1	O
+20	mucho	mucho	O	1	O
+21	que	que	O	1	O
+22	desear	desear	O	1	O
+23	.	.	O	1	O
 
-1	No	no	D	1	
-2	lo	lo	G	1	
-3	recomendaría	recomendaría	N	1	
-4	para	para	N	1	
-5	pasar	pasar	N	1	
-6	unas	unas	G	1	
-7	vacaciones	vacaciones	N	1	
-8	en	en	P	1	
-9	pareja	pareja	N	1	
-10	o	o	A	1	
-11	en	en	P	1	
-12	familia	familia	N	1	
-13	.	.	O	1	
+1	No	no	D	1	O
+2	lo	lo	G	1	O
+3	recomendaría	recomendaría	N	1	O
+4	para	para	N	1	O
+5	pasar	pasar	N	1	O
+6	unas	unas	G	1	O
+7	vacaciones	vacaciones	N	1	O
+8	en	en	P	1	O
+9	pareja	pareja	N	1	O
+10	o	o	A	1	O
+11	en	en	P	1	O
+12	familia	familia	N	1	O
+13	.	.	O	1	O
 

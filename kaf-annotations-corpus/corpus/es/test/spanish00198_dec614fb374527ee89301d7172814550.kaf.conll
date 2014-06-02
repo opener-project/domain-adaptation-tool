@@ -1,184 +1,187 @@
-1	Muy	Muy	R	1	
-2	recomendable	recomendable	G	1	
-3	para	para	N	1	
-4	ir	ir	Q	1	
-5	con	con	G	1	
-6	pareja	pareja	N	1	
-7	,	,	O	1	
-8	excelente	excelente	V	1	
+1	Muy	Muy	R	1	O
+2	recomendable	recomendable	G	1	O
+3	para	para	N	1	O
+4	ir	ir	Q	1	O
+5	con	con	G	1	O
+6	pareja	pareja	N	1	O
+7	,	,	O	1	O
+8	excelente	excelente	V	1	O
 
-1	He	he	Q	1	
-2	ido	ido	V	1	
-3	al	al	G	1	
-4	hotel	hotel	N	1	
-5	con	con	A	1	
-6	mi	mi	G	1	
-7	pareja	pareja	N	1	
-8	del	del	N	1	
-9	15	15	R	1	ne=Date
-10	al	al	G	1	
-11	22_de_octubre	22_de_octubre	R	1	ne=Date
-12	.	.	O	1	
+1	He	he	Q	1	O
+2	ido	ido	V	1	O
+3	al	al	G	1	O
+4	hotel	hotel	N	1	O
+5	con	con	A	1	O
+6	mi	mi	G	1	O
+7	pareja	pareja	N	1	O
+8	del	del	N	1	O
+9	15	15	R	1	I-Date
+10	al	al	G	1	O
+11	22	22	O	1	I-Date
+12	de	de	P	1	I-Date
+13	octubre	octubre	N	1	I-Date
+14	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	en	en	P	1	
-4	general	general	G	1	
-5	es	es	N	1	
-6	fantástico	fantástico	V	1	
-7	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	en	en	P	1	O
+4	general	general	G	1	O
+5	es	es	N	1	O
+6	fantástico	fantástico	V	1	O
+7	.	.	O	1	O
 
-1	Estuvimos	Estuvimos	R	1	
-2	en	en	P	1	
-3	habitación	habitación	G	1	
-4	vista	vista	N	1	
-5	mar	mar	N	1	
-6	...	...	O	1	
-7	levantarse	levantarse	N	1	
-8	todos	todos	N	1	
-9	los	los	V	1	
-10	días	días	N	1	
-11	y	y	G	1	
-12	ver	ver	A	1	
-13	el	el	N	1	
-14	mar	mar	N	1	
-15	para	para	N	1	
-16	mi	mi	O	1	
-17	no	no	A	1	
-18	tiene	tiene	V	1	
-19	precio	precio	N	1	
-20	.	.	O	1	
+1	Estuvimos	Estuvimos	R	1	O
+2	en	en	P	1	O
+3	habitación	habitación	G	1	O
+4	vista	vista	N	1	O
+5	mar	mar	N	1	O
+6	...	...	O	1	O
+7	levantarse	levantarse	N	1	O
+8	todos	todos	N	1	O
+9	los	los	V	1	O
+10	días	días	N	1	O
+11	y	y	G	1	O
+12	ver	ver	A	1	O
+13	el	el	N	1	O
+14	mar	mar	N	1	O
+15	para	para	N	1	O
+16	mi	mi	O	1	O
+17	no	no	A	1	O
+18	tiene	tiene	V	1	O
+19	precio	precio	N	1	O
+20	.	.	O	1	O
 
-1	Nuestro	Nuestro	R	1	
-2	alojamiento	alojamiento	P	1	
-3	era	era	N	1	
-4	todo	todo	P	1	
-5	incluido	incluido	V	1	
-6	ya	you	Q	1	
-7	que	que	V	1	
-8	íbamos	íbamos	N	1	
-9	en	en	G	1	
-10	plan	plan	N	1	
-11	relax	relax	V	1	
-12	.	.	O	1	
+1	Nuestro	Nuestro	R	1	O
+2	alojamiento	alojamiento	P	1	O
+3	era	era	N	1	O
+4	todo	todo	P	1	O
+5	incluido	incluido	V	1	O
+6	ya	you	Q	1	O
+7	que	que	V	1	O
+8	íbamos	íbamos	N	1	O
+9	en	en	G	1	O
+10	plan	plan	N	1	O
+11	relax	relax	V	1	O
+12	.	.	O	1	O
 
-1	Zonas	Zonas	R	1	
-2	muy	muy	G	1	
-3	bien	bien	N	1	
-4	diferenciadas	diferenciadas	N	1	
-5	,	,	O	1	
-6	por	por	C	1	
-7	un	un	G	1	
-8	lado	lado	N	1	
-9	el	el	N	1	
-10	comedor	comedor	N	1	
-11	,	,	O	1	
-12	amplio	amplio	N	1	
-13	,	,	O	1	
-14	cómodo	cómodo	N	1	
-15	y	y	A	1	
-16	con	con	G	1	
-17	una	una	G	1	
-18	enorme	enorme	N	1	
-19	cristalera	cristalera	N	1	
-20	.	.	O	1	
+1	Zonas	Zonas	R	1	O
+2	muy	muy	G	1	O
+3	bien	bien	N	1	O
+4	diferenciadas	diferenciadas	N	1	O
+5	,	,	O	1	O
+6	por	por	C	1	O
+7	un	un	G	1	O
+8	lado	lado	N	1	O
+9	el	el	N	1	O
+10	comedor	comedor	N	1	O
+11	,	,	O	1	O
+12	amplio	amplio	N	1	O
+13	,	,	O	1	O
+14	cómodo	cómodo	N	1	O
+15	y	y	A	1	O
+16	con	con	G	1	O
+17	una	una	G	1	O
+18	enorme	enorme	N	1	O
+19	cristalera	cristalera	N	1	O
+20	.	.	O	1	O
 
-1	El	El	R	1	
-2	bar	bar	N	1	
-3	para	para	N	1	
-4	tomar	tomar	A	1	
-5	lo	lo	G	1	
-6	que	que	N	1	
-7	quieras	quieras	N	1	
-8	en	en	P	1	
-9	cualquier	cualquier	G	1	
-10	momento	momento	N	1	
-11	genial	genial	G	1	
-12	,	,	O	1	
-13	con	con	G	1	
-14	sus	sus	N	1	
-15	sillones	sillones	N	1	
-16	,	,	O	1	
-17	su	su	G	1	
-18	terraza	terraza	N	1	
-19	al	al	G	1	
-20	lado	lado	O	1	
-21	de	de	O	1	
-22	la	la	O	1	
-23	piscina	piscina	N	1	
-24	...	...	O	1	
-25	una	una	G	1	
-26	maravilla	maravilla	N	1	
-27	.	.	O	1	
+1	El	El	R	1	O
+2	bar	bar	N	1	O
+3	para	para	N	1	O
+4	tomar	tomar	A	1	O
+5	lo	lo	G	1	O
+6	que	que	N	1	O
+7	quieras	quieras	N	1	O
+8	en	en	P	1	O
+9	cualquier	cualquier	G	1	O
+10	momento	momento	N	1	O
+11	genial	genial	G	1	O
+12	,	,	O	1	O
+13	con	con	G	1	O
+14	sus	sus	N	1	O
+15	sillones	sillones	N	1	O
+16	,	,	O	1	O
+17	su	su	G	1	O
+18	terraza	terraza	N	1	O
+19	al	al	G	1	O
+20	lado	lado	O	1	O
+21	de	de	O	1	O
+22	la	la	O	1	O
+23	piscina	piscina	N	1	O
+24	...	...	O	1	O
+25	una	una	G	1	O
+26	maravilla	maravilla	N	1	O
+27	.	.	O	1	O
 
-1	La	La	R	1	
-2	piscina	piscina	N	1	
-3	y	y	G	1	
-4	el	el	N	1	
-5	SPA	SPA	R	1	
-6	geniales	geniales	N	1	
-7	,	,	O	1	
-8	con	con	A	1	
-9	amacas	amacas	V	1	
-10	muy	muy	G	1	
-11	cómodas	cómodas	N	1	
-12	.	.	O	1	
+1	La	La	R	1	O
+2	piscina	piscina	N	1	O
+3	y	y	G	1	O
+4	el	el	N	1	O
+5	SPA	SPA	R	1	O
+6	geniales	geniales	N	1	O
+7	,	,	O	1	O
+8	con	con	A	1	O
+9	amacas	amacas	V	1	O
+10	muy	muy	G	1	O
+11	cómodas	cómodas	N	1	O
+12	.	.	O	1	O
 
-1	La	La	R	1	
-2	zona	zona	R	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	buena	buena	N	1	
-6	ya	ya	N	1	
-7	que	que	N	1	
-8	estás	estás	N	1	
-9	en	en	P	1	
-10	primera	primera	N	1	
-11	linea	linea	N	1	
-12	de	de	P	1	
-13	playa	playa	N	1	
-14	,	,	O	1	
-15	y	y	G	1	
-16	la	la	N	1	
-17	ocupacion	ocupacion	N	1	
-18	es	es	N	1	
-19	un	un	G	1	
-20	90_%	90_%	R	1	ne=Percent
-21	alemana	alemana	N	1	
-22	y	y	G	1	
-23	en	en	O	1	
-24	la	la	O	1	
-25	época	época	O	1	
-26	en	en	O	1	
-27	la	la	O	1	
-28	que	que	O	1	
-29	estuvimos	estuvimos	O	1	
-30	casi	casi	O	1	
-31	todo	todo	O	1	
-32	gente	gente	O	1	
-33	mayor	mayor	O	1	
-34	/	/	O	1	
-35	3ª	3ª	O	1	
-36	edad	edad	N	1	
-37	...	...	O	1	
-38	pero	pero	C	1	
-39	muy	muy	G	1	
-40	bien	bien	G	1	
-41	porque	porque	N	1	
-42	buscábamos	buscábamos	N	1	
-43	tranquilidad	tranquilidad	N	1	
-44	.	.	O	1	
+1	La	La	R	1	O
+2	zona	zona	R	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	buena	buena	N	1	O
+6	ya	ya	N	1	O
+7	que	que	N	1	O
+8	estás	estás	N	1	O
+9	en	en	P	1	O
+10	primera	primera	N	1	O
+11	linea	linea	N	1	O
+12	de	de	P	1	O
+13	playa	playa	N	1	O
+14	,	,	O	1	O
+15	y	y	G	1	O
+16	la	la	N	1	O
+17	ocupacion	ocupacion	N	1	O
+18	es	es	N	1	O
+19	un	un	G	1	O
+20	90	90	O	1	I-Percent
+21	%	%	N	1	I-Percent
+22	alemana	alemana	N	1	O
+23	y	y	G	1	O
+24	en	en	O	1	O
+25	la	la	O	1	O
+26	época	época	O	1	O
+27	en	en	O	1	O
+28	la	la	O	1	O
+29	que	que	O	1	O
+30	estuvimos	estuvimos	O	1	O
+31	casi	casi	O	1	O
+32	todo	todo	O	1	O
+33	gente	gente	O	1	O
+34	mayor	mayor	O	1	O
+35	/	/	O	1	O
+36	3ª	3ª	O	1	O
+37	edad	edad	N	1	O
+38	...	...	O	1	O
+39	pero	pero	C	1	O
+40	muy	muy	G	1	O
+41	bien	bien	G	1	O
+42	porque	porque	N	1	O
+43	buscábamos	buscábamos	N	1	O
+44	tranquilidad	tranquilidad	N	1	O
+45	.	.	O	1	O
 
-1	Me	me	Q	1	
-2	imagino	imagino	A	1	
-3	que	que	V	1	
-4	en	en	O	1	
-5	la	la	O	1	
-6	época	época	O	1	
-7	estival	estival	O	1	
-8	haya	haya	O	1	
-9	más	más	O	1	
-10	gente	gente	O	1	
-11	joven	joven	O	1	
-12	.	.	O	1	
+1	Me	me	Q	1	O
+2	imagino	imagino	A	1	O
+3	que	que	V	1	O
+4	en	en	O	1	O
+5	la	la	O	1	O
+6	época	época	O	1	O
+7	estival	estival	O	1	O
+8	haya	haya	O	1	O
+9	más	más	O	1	O
+10	gente	gente	O	1	O
+11	joven	joven	O	1	O
+12	.	.	O	1	O
 

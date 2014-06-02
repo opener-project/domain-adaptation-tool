@@ -1,162 +1,164 @@
-1	Comodo	comodare	V	1	
-2	ma	ma	Q	1	
-3	bruttino	bruttino	G	1	
+1	Comodo	comodare	V	1	O
+2	ma	ma	Q	1	O
+3	bruttino	bruttino	G	1	O
 
-1	Questo	questo	G	1	
-2	albergo	albergo	N	1	
-3	si	si	Q	1	
-4	trova	trovare	V	1	
-5	a	a	P	1	
-6	pochi	poco	G	1	
-7	metri	metro	N	1	
-8	dalla	dalla	P	1	
-9	fermata	fermata	N	1	
-10	del	del	P	1	
-11	capolinea	capolinea	N	1	
-12	della	della	P	1	
-13	metropolitana	metropolitana	N	1	
-14	Porte_d'_Orleans	porta_d'_orleans	R	1	ne=POI
-15	,	,	O	1	
-16	linea	linea	N	1	
-17	4	4	N	1	
-18	viola	viola	G	1	
-19	.	.	O	1	
+1	Questo	questo	G	1	O
+2	albergo	albergo	N	1	O
+3	si	si	Q	1	O
+4	trova	trovare	V	1	O
+5	a	a	P	1	O
+6	pochi	poco	G	1	O
+7	metri	metro	N	1	O
+8	dalla	dalla	P	1	O
+9	fermata	fermata	N	1	O
+10	del	del	P	1	O
+11	capolinea	capolinea	N	1	O
+12	della	della	P	1	O
+13	metropolitana	metropolitana	N	1	O
+14	Porte	porta	N	1	I-POI
+15	d'	d'	P	1	I-POI
+16	Orleans	orleans	R	1	I-POI
+17	,	,	O	1	O
+18	linea	linea	N	1	O
+19	4	4	N	1	O
+20	viola	viola	G	1	O
+21	.	.	O	1	O
 
-1	Malgrado	malgrado	P	1	
-2	sia	essere	V	1	
-3	poco	poco	A	1	
-4	centrale	centrale	G	1	
-5	consiglio	consiglio	N	1	
-6	vivamente	vivamente	A	1	
-7	questo	questo	Q	1	
-8	albergo	albergare	V	1	
-9	per	per	P	1	
-10	la	lo	D	1	
-11	sua	suo	G	1	
-12	posizione	posizione	N	1	
-13	,	,	O	1	
-14	un	uno	D	1	
-15	pò	pò	N	1	
-16	meno	meno	N	1	
-17	per	per	P	1	
-18	le	lo	D	1	
-19	stanze	stanza	N	1	
-20	.	.	O	1	
+1	Malgrado	malgrado	P	1	O
+2	sia	essere	V	1	O
+3	poco	poco	A	1	O
+4	centrale	centrale	G	1	O
+5	consiglio	consiglio	N	1	O
+6	vivamente	vivamente	A	1	O
+7	questo	questo	Q	1	O
+8	albergo	albergare	V	1	O
+9	per	per	P	1	O
+10	la	lo	D	1	O
+11	sua	suo	G	1	O
+12	posizione	posizione	N	1	O
+13	,	,	O	1	O
+14	un	uno	D	1	O
+15	pò	pò	N	1	O
+16	meno	meno	N	1	O
+17	per	per	P	1	O
+18	le	lo	D	1	O
+19	stanze	stanza	N	1	O
+20	.	.	O	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	è	è	R	1	
-4	ottima	ottimo	G	1	
-5	perchè	perchè	V	1	
-6	la	lo	D	1	
-7	linea	linea	N	1	
-8	4	4	N	1	
-9	tocca	toccare	V	1	
-10	moltissimi	moltissimi	G	1	
-11	punti	punto	N	1	
-12	importanti	importare	V	1	
-13	di	di	P	1	
-14	Parigi	parigi	R	1	ne=Location
-15	ed	ed	Q	1	
-16	interseca	interseca	G	1	
-17	tutte	tutto	G	1	
-18	le	lo	D	1	
-19	linee	linea	N	1	
-20	che	che	Q	1	
-21	portano	portare	V	1	
-22	alle	alle	P	1	
-23	altre	altre	Q	1	
-24	attrazioni	attrazione	N	1	
-25	non	non	A	1	
-26	raggiungibili	raggiungibile	G	1	
-27	direttamente	direttamente	A	1	
-28	.	.	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	è	è	R	1	O
+4	ottima	ottimo	G	1	O
+5	perchè	perchè	V	1	O
+6	la	lo	D	1	O
+7	linea	linea	N	1	O
+8	4	4	N	1	O
+9	tocca	toccare	V	1	O
+10	moltissimi	moltissimi	G	1	O
+11	punti	punto	N	1	O
+12	importanti	importare	V	1	O
+13	di	di	P	1	O
+14	Parigi	parigi	R	1	I-Location
+15	ed	ed	Q	1	O
+16	interseca	interseca	G	1	O
+17	tutte	tutto	G	1	O
+18	le	lo	D	1	O
+19	linee	linea	N	1	O
+20	che	che	Q	1	O
+21	portano	portare	V	1	O
+22	alle	alle	P	1	O
+23	altre	altre	Q	1	O
+24	attrazioni	attrazione	N	1	O
+25	non	non	A	1	O
+26	raggiungibili	raggiungibile	G	1	O
+27	direttamente	direttamente	A	1	O
+28	.	.	O	1	O
 
-1	Sotto	sotto	P	1	
-2	l'	lo	D	1	
-3	albergo	albergare	V	1	
-4	ci	ci	A	1	
-5	sono	essere	V	1	
-6	molti	molto	G	1	
-7	ristoranti	ristorante	N	1	
-8	,	,	O	1	
-9	bar	bar	N	1	
-10	,	,	O	1	
-11	fast	fast	G	1	
-12	food	food	N	1	
-13	,	,	O	1	
-14	un	uno	D	1	
-15	supermercato	supermercato	N	1	
-16	ed	ed	Q	1	
-17	una	uno	D	1	
-18	brasserie	brasserie	R	1	
-19	per	per	P	1	
-20	fare	fare	V	1	
-21	colazione	colazione	N	1	
-22	.	.	O	1	
+1	Sotto	sotto	P	1	O
+2	l'	lo	D	1	O
+3	albergo	albergare	V	1	O
+4	ci	ci	A	1	O
+5	sono	essere	V	1	O
+6	molti	molto	G	1	O
+7	ristoranti	ristorante	N	1	O
+8	,	,	O	1	O
+9	bar	bar	N	1	O
+10	,	,	O	1	O
+11	fast	fast	G	1	O
+12	food	food	N	1	O
+13	,	,	O	1	O
+14	un	uno	D	1	O
+15	supermercato	supermercato	N	1	O
+16	ed	ed	Q	1	O
+17	una	uno	D	1	O
+18	brasserie	brasserie	R	1	O
+19	per	per	P	1	O
+20	fare	fare	V	1	O
+21	colazione	colazione	N	1	O
+22	.	.	O	1	O
 
-1	La	lo	D	1	
-2	pecca	pecca	N	1	
-3	dell'	dell'	P	1	
-4	albergo	albergo	N	1	
-5	sono	essere	V	1	
-6	le	lo	D	1	
-7	stanze	stanza	N	1	
-8	:	:	O	1	
-9	pur	pur	Q	1	
-10	essendo	essere	V	1	
-11	dotato	dotare	V	1	
-12	di	di	P	1	
-13	aria	aria	N	1	
-14	condizionata	condizionare	V	1	
-15	e	e	Q	1	
-16	frigobar	frigobar	N	1	
-17	,	,	O	1	
-18	la	lo	D	1	
-19	stanza	stanza	N	1	
-20	è	è	R	1	
-21	piccola	piccolo	G	1	
-22	,	,	O	1	
-23	con	con	P	1	
-24	la	lo	D	1	
-25	moquette	moquette	N	1	
-26	e	e	Q	1	
-27	l'	lo	D	1	
-28	arredamento	arredamento	N	1	
-29	è	essere	V	1	
-30	un	uno	D	1	
-31	pò	pò	N	1	
-32	vecchiotto	vecchiotto	G	1	
-33	.	.	O	1	
+1	La	lo	D	1	O
+2	pecca	pecca	N	1	O
+3	dell'	dell'	P	1	O
+4	albergo	albergo	N	1	O
+5	sono	essere	V	1	O
+6	le	lo	D	1	O
+7	stanze	stanza	N	1	O
+8	:	:	O	1	O
+9	pur	pur	Q	1	O
+10	essendo	essere	V	1	O
+11	dotato	dotare	V	1	O
+12	di	di	P	1	O
+13	aria	aria	N	1	O
+14	condizionata	condizionare	V	1	O
+15	e	e	Q	1	O
+16	frigobar	frigobar	N	1	O
+17	,	,	O	1	O
+18	la	lo	D	1	O
+19	stanza	stanza	N	1	O
+20	è	è	R	1	O
+21	piccola	piccolo	G	1	O
+22	,	,	O	1	O
+23	con	con	P	1	O
+24	la	lo	D	1	O
+25	moquette	moquette	N	1	O
+26	e	e	Q	1	O
+27	l'	lo	D	1	O
+28	arredamento	arredamento	N	1	O
+29	è	essere	V	1	O
+30	un	uno	D	1	O
+31	pò	pò	N	1	O
+32	vecchiotto	vecchiotto	G	1	O
+33	.	.	O	1	O
 
-1	Il	lo	D	1	
-2	bagno	bagno	N	1	
-3	è	è	G	1	
-4	abbastanza	abbastanza	A	1	
-5	largo	largo	G	1	
-6	ma	ma	Q	1	
-7	anche	anche	Q	1	
-8	questo	questo	Q	1	
-9	un	uno	D	1	
-10	pò	pò	N	1	
-11	datato	datare	V	1	
-12	e	e	Q	1	
-13	usurato	usurare	V	1	
-14	.	.	O	1	
+1	Il	lo	D	1	O
+2	bagno	bagno	N	1	O
+3	è	è	G	1	O
+4	abbastanza	abbastanza	A	1	O
+5	largo	largo	G	1	O
+6	ma	ma	Q	1	O
+7	anche	anche	Q	1	O
+8	questo	questo	Q	1	O
+9	un	uno	D	1	O
+10	pò	pò	N	1	O
+11	datato	datare	V	1	O
+12	e	e	Q	1	O
+13	usurato	usurare	V	1	O
+14	.	.	O	1	O
 
-1	Per	per	P	1	
-2	chi	chi	Q	1	
-3	si	si	Q	1	
-4	accontenta	accontentare	V	1	
-5	consiglio	consiglio	N	1	
-6	questo	questo	Q	1	
-7	albergo	albergo	N	1	
-8	essendo	essere	V	1	
-9	comodo	comodo	G	1	
-10	per	per	P	1	
-11	la	lo	D	1	
-12	sua	suo	G	1	
-13	posizione	posizione	N	1	
-14	ed	ed	Q	1	
-15	economico	economico	G	1	
+1	Per	per	P	1	O
+2	chi	chi	Q	1	O
+3	si	si	Q	1	O
+4	accontenta	accontentare	V	1	O
+5	consiglio	consiglio	N	1	O
+6	questo	questo	Q	1	O
+7	albergo	albergo	N	1	O
+8	essendo	essere	V	1	O
+9	comodo	comodo	G	1	O
+10	per	per	P	1	O
+11	la	lo	D	1	O
+12	sua	suo	G	1	O
+13	posizione	posizione	N	1	O
+14	ed	ed	Q	1	O
+15	economico	economico	G	1	O
 

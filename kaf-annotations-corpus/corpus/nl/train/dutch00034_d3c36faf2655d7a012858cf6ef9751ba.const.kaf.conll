@@ -1,128 +1,130 @@
-1	Fantastisch	fantastisch	G	1	
-2	hotel	hotel	N	1	
-3	voor	voor	P	1	
-4	een	een	D	1	
-5	heerlijke	heerlijk	G	1	
-6	vakantie	vakantie	N	1	
-7	!	!	O	1	
+1	Fantastisch	fantastisch	G	1	O
+2	hotel	hotel	N	1	O
+3	voor	voor	P	1	O
+4	een	een	D	1	O
+5	heerlijke	heerlijk	G	1	O
+6	vakantie	vakantie	N	1	O
+7	!	!	O	1	O
 
-1	Een	een	D	1	
-2	goed	goed	G	1	
-3	hotel	hotel	N	1	
-4	,	,	O	1	
-5	met	met	P	1	
-6	een	een	D	1	
-7	goede	goed	G	1	
-8	service	service	N	1	
-9	en	en	C	1	
-10	vriendelijk	vriendelijk	G	1	
-11	personeel	personeel	N	1	
-12	.	.	O	1	
+1	Een	een	D	1	O
+2	goed	goed	G	1	O
+3	hotel	hotel	N	1	O
+4	,	,	O	1	O
+5	met	met	P	1	O
+6	een	een	D	1	O
+7	goede	goed	G	1	O
+8	service	service	N	1	O
+9	en	en	C	1	O
+10	vriendelijk	vriendelijk	G	1	O
+11	personeel	personeel	N	1	O
+12	.	.	O	1	O
 
-1	Bij	bij	P	1	
-2	problemen	probleem	N	1	
-3	kun	kun	O	1	
-4	je	je	Q	1	
-5	altijd	altijd	A	1	
-6	bij	bij	P	1	
-7	Gerges	Gerges	O	1	
-8	,	,	O	1	
-9	Natasja	Natasja	R	1	ne=Person
-10	of	of	C	1	
-11	Greet	Greet	O	1	
-12	terecht	terecht	G	1	
-13	.	.	O	1	
+1	Bij	bij	P	1	O
+2	problemen	probleem	N	1	O
+3	kun	kun	O	1	O
+4	je	je	Q	1	O
+5	altijd	altijd	A	1	O
+6	bij	bij	P	1	O
+7	Gerges	Gerges	O	1	O
+8	,	,	O	1	O
+9	Natasja	Natasja	R	1	I-Person
+10	of	of	C	1	O
+11	Greet	Greet	O	1	O
+12	terecht	terecht	G	1	O
+13	.	.	O	1	O
 
-1	Op	op	P	1	
-2	het	het	D	1	
-3	resort	resort	O	1	
-4	hoef	hoeven	V	1	
-5	je	je	Q	1	
-6	je	je	Q	1	
-7	niet	niet	A	1	
-8	te	te	O	1	
-9	vervelen	vervelen	V	1	
-10	,	,	O	1	
-11	er	er	Q	1	
-12	wordt	worden	V	1	
-13	namelijk	namelijk	A	1	
-14	genoeg	genoeg	A	1	
-15	georganiseerd	organiseren	V	1	
-16	door	door	P	1	
-17	onder	onder	P	1	
-18	andere	ander	G	1	
-19	het	het	D	1	
-20	animatie	animatie	N	1	
-21	team	team	N	1	
-22	.	.	O	1	
+1	Op	op	P	1	O
+2	het	het	D	1	O
+3	resort	resort	O	1	O
+4	hoef	hoeven	V	1	O
+5	je	je	Q	1	O
+6	je	je	Q	1	O
+7	niet	niet	A	1	O
+8	te	te	O	1	O
+9	vervelen	vervelen	V	1	O
+10	,	,	O	1	O
+11	er	er	Q	1	O
+12	wordt	worden	V	1	O
+13	namelijk	namelijk	A	1	O
+14	genoeg	genoeg	A	1	O
+15	georganiseerd	organiseren	V	1	O
+16	door	door	P	1	O
+17	onder	onder	P	1	O
+18	andere	ander	G	1	O
+19	het	het	D	1	O
+20	animatie	animatie	N	1	O
+21	team	team	N	1	O
+22	.	.	O	1	O
 
-1	We	we	Q	1	
-2	hebben	hebben	V	1	
-3	het	het	Q	1	
-4	als	als	C	1	
-5	prettig	prettig	G	1	
-6	ervaren	ervaren	V	1	
-7	dat	dat	C	1	
-8	de_hostess_Natasja	de_hostess_Natasja	R	1	ne=Person
-9	elke	elk	D	1	
-10	dag	dag	N	1	
-11	op	op	P	1	
-12	het	het	D	1	
-13	resort	resort	O	1	
-14	aanwezig	aanwezig	G	1	
-15	was	wezen|zijn	V	1	
-16	.	.	O	1	
+1	We	we	Q	1	O
+2	hebben	hebben	V	1	O
+3	het	het	Q	1	O
+4	als	als	C	1	O
+5	prettig	prettig	G	1	O
+6	ervaren	ervaren	V	1	O
+7	dat	dat	C	1	O
+8	de	de	D	1	I-Person
+9	hostess	hostess	N	1	I-Person
+10	Natasja	Natasja	O	1	I-Person
+11	elke	elk	D	1	O
+12	dag	dag	N	1	O
+13	op	op	P	1	O
+14	het	het	D	1	O
+15	resort	resort	O	1	O
+16	aanwezig	aanwezig	G	1	O
+17	was	wezen|zijn	V	1	O
+18	.	.	O	1	O
 
-1	Ze	ze	Q	1	
-2	doet	doen	V	1	
-3	heel	heel	A	1	
-4	veel	veel	A	1	
-5	voor	voor	P	1	
-6	haar	haar	D	1	
-7	gasten	gast|gasten	N	1	
-8	en	en	C	1	
-9	bij	bij	P	1	
-10	vragen	vraag	N	1	
-11	of	of	C	1	
-12	problemen	probleem	N	1	
-13	staat	staan	V	1	
-14	ze	ze	Q	1	
-15	altijd	altijd	A	1	
-16	voor	voor	P	1	
-17	je	je	Q	1	
-18	klaar	klaren	V	1	
-19	.	.	O	1	
+1	Ze	ze	Q	1	O
+2	doet	doen	V	1	O
+3	heel	heel	A	1	O
+4	veel	veel	A	1	O
+5	voor	voor	P	1	O
+6	haar	haar	D	1	O
+7	gasten	gast|gasten	N	1	O
+8	en	en	C	1	O
+9	bij	bij	P	1	O
+10	vragen	vraag	N	1	O
+11	of	of	C	1	O
+12	problemen	probleem	N	1	O
+13	staat	staan	V	1	O
+14	ze	ze	Q	1	O
+15	altijd	altijd	A	1	O
+16	voor	voor	P	1	O
+17	je	je	Q	1	O
+18	klaar	klaren	V	1	O
+19	.	.	O	1	O
 
-1	Al	al	A	1	
-2	met	met	P	1	
-3	al	al	A	1	
-4	hebben	hebben	V	1	
-5	wij	wij	Q	1	
-6	heel	heel	A	1	
-7	erg	erg	G	1	
-8	genoten	genieten	V	1	
-9	van	van	P	1	
-10	onze	ons	D	1	
-11	vakantie	vakantie	N	1	
-12	en	en	C	1	
-13	zouden	zullen	V	1	
-14	zeker	zeker	A	1	
-15	nog	nog	A	1	
-16	een	een	D	1	
-17	keer	keer	N	1	
-18	terug	terug	A	1	
-19	gaan	gaan	V	1	
-20	.	.	O	1	
+1	Al	al	A	1	O
+2	met	met	P	1	O
+3	al	al	A	1	O
+4	hebben	hebben	V	1	O
+5	wij	wij	Q	1	O
+6	heel	heel	A	1	O
+7	erg	erg	G	1	O
+8	genoten	genieten	V	1	O
+9	van	van	P	1	O
+10	onze	ons	D	1	O
+11	vakantie	vakantie	N	1	O
+12	en	en	C	1	O
+13	zouden	zullen	V	1	O
+14	zeker	zeker	A	1	O
+15	nog	nog	A	1	O
+16	een	een	D	1	O
+17	keer	keer	N	1	O
+18	terug	terug	A	1	O
+19	gaan	gaan	V	1	O
+20	.	.	O	1	O
 
-1	Iedereen	iedereen	Q	1	
-2	bedankt	bedankt	O	1	
-3	voor	voor	P	1	
-4	de	de	D	1	
-5	goede	goed	G	1	
-6	zorgen	zorg	N	1	
-7	,	,	O	1	
-8	gastvrijheid	gastvrijheid	N	1	
-9	en	en	C	1	
-10	behulpzaamheid	behulpzaamheid	O	1	
-11	.	.	O	1	
+1	Iedereen	iedereen	Q	1	O
+2	bedankt	bedankt	O	1	O
+3	voor	voor	P	1	O
+4	de	de	D	1	O
+5	goede	goed	G	1	O
+6	zorgen	zorg	N	1	O
+7	,	,	O	1	O
+8	gastvrijheid	gastvrijheid	N	1	O
+9	en	en	C	1	O
+10	behulpzaamheid	behulpzaamheid	O	1	O
+11	.	.	O	1	O
 

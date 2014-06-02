@@ -1,45 +1,45 @@
-1	Hotel	Hotel	R	1	
-2	centrico	centrico	N	1	
-3	y	y	A	1	
-4	bien	bien	G	1	
-5	de	de	P	1	
-6	precio	precio	N	1	
-7	.	.	O	1	
+1	Hotel	Hotel	R	1	O
+2	centrico	centrico	N	1	O
+3	y	y	A	1	O
+4	bien	bien	G	1	O
+5	de	de	P	1	O
+6	precio	precio	N	1	O
+7	.	.	O	1	O
 
-1	esta	esta	D	1	
-2	situado	situado	N	1	
-3	en	en	P	1	
-4	gran	gran	N	1	
-5	via	via	P	1	
-6	,	,	O	1	
-7	cerca	cerca	O	1	
-8	de	de	O	1	
-9	plaza	plaza	O	1	
-10	de	de	O	1	
-11	españa.habitaciones	españa.habitaciones	O	1	
-12	un	un	G	1	
-13	poco	poco	N	1	
-14	pequeñas	pequeñas	N	1	
-15	de	de	P	1	
-16	tamaño	tamaño	G	1	
-17	y	y	G	1	
-18	justas.	justas.	N	1	
-19	tiene	tiene	V	1	
-20	spa	spa	N	1	
-21	de	de	P	1	
-22	pago.	pago.	N	1	
-23	desyuno	desyuno	N	1	
-24	buffet	buffet	N	1	
-25	con	con	A	1	
-26	amplia	amplia	G	1	
-27	variedad.	variedad.	N	1	
-28	esta	esta	N	1	
-29	situado	situado	V	1	
-30	muy	muy	G	1	
-31	centrico	centrico	N	1	
-32	buena	buena	N	1	
-33	relacion	relacion	N	1	
-34	calidad	calidad	G	1	
-35	·	·	N	1	
-36	precio	precio	N	1	
+1	esta	esta	D	1	O
+2	situado	situado	N	1	O
+3	en	en	P	1	O
+4	gran	gran	N	1	O
+5	via	via	P	1	O
+6	,	,	O	1	O
+7	cerca	cerca	O	1	O
+8	de	de	O	1	O
+9	plaza	plaza	O	1	O
+10	de	de	O	1	O
+11	españa.habitaciones	españa.habitaciones	O	1	O
+12	un	un	G	1	O
+13	poco	poco	N	1	O
+14	pequeñas	pequeñas	N	1	O
+15	de	de	P	1	O
+16	tamaño	tamaño	G	1	O
+17	y	y	G	1	O
+18	justas.	justas.	N	1	O
+19	tiene	tiene	V	1	O
+20	spa	spa	N	1	O
+21	de	de	P	1	O
+22	pago.	pago.	N	1	O
+23	desyuno	desyuno	N	1	O
+24	buffet	buffet	N	1	O
+25	con	con	A	1	O
+26	amplia	amplia	G	1	O
+27	variedad.	variedad.	N	1	O
+28	esta	esta	N	1	O
+29	situado	situado	V	1	O
+30	muy	muy	G	1	O
+31	centrico	centrico	N	1	O
+32	buena	buena	N	1	O
+33	relacion	relacion	N	1	O
+34	calidad	calidad	G	1	O
+35	·	·	N	1	O
+36	precio	precio	N	1	O
 

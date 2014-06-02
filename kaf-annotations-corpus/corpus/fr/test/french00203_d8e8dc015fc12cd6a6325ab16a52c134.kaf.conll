@@ -1,130 +1,130 @@
-1	Mon	son	D	1	
-2	coût	coût	N	1	
-3	de	de	P	1	
-4	cœur	cœur	N	1	
+1	Mon	son	D	1	O
+2	coût	coût	N	1	O
+3	de	de	P	1	O
+4	cœur	cœur	N	1	O
 
-1	Après	Après	P	1	
-2	avoir	avoir	V	1	
-3	beaucoup	beaucoup	G	1	
-4	voyager	voyager	V	1	
-5	,	,	O	1	
-6	nous	lui	Q	1	
-7	avons	avoir	V	1	
-8	été	être	V	1	
-9	agréablement	agréablement	G	1	
-10	surpris	surprendre	V	1	
-11	par	par	P	1	
-12	cet	ce	D	1	
-13	hôtel	hôtel	N	1	
-14	et	et	C	1	
-15	le	le	D	1	
-16	pays	pays	N	1	
-17	bien	bien	G	1	
-18	sur	sur	P	1	
-19	!!	!!	N	1	
+1	Après	Après	P	1	O
+2	avoir	avoir	V	1	O
+3	beaucoup	beaucoup	G	1	O
+4	voyager	voyager	V	1	O
+5	,	,	O	1	O
+6	nous	lui	Q	1	O
+7	avons	avoir	V	1	O
+8	été	être	V	1	O
+9	agréablement	agréablement	G	1	O
+10	surpris	surprendre	V	1	O
+11	par	par	P	1	O
+12	cet	ce	D	1	O
+13	hôtel	hôtel	N	1	O
+14	et	et	C	1	O
+15	le	le	D	1	O
+16	pays	pays	N	1	O
+17	bien	bien	G	1	O
+18	sur	sur	P	1	O
+19	!!	!!	N	1	O
 
-1	Les	le	D	1	
-2	employés	employé	N	1	
-3	sont	être	V	1	
-4	aux	aux	P	1	
-5	petits	petit	G	1	
-6	soin	soin	N	1	
-7	,	,	O	1	
-8	les	le	D	1	
-9	chambres	chambre	N	1	
-10	sont	être	V	1	
-11	très	très	G	1	
-12	propres	propre	G	1	
-13	et	et	C	1	
-14	pour	pour	P	1	
-15	couronner	couronner	V	1	
-16	les	le	D	1	
-17	tous	tout	G	1	
-18	ils	ils	Q	1	
-19	sont	être	V	1	
-20	toujours	toujours	G	1	
-21	souriant	souriant	G	1	
-22	et	et	C	1	
-23	très	très	G	1	
-24	polis	poli	G	1	
-25	.	.	O	1	
+1	Les	le	D	1	O
+2	employés	employé	N	1	O
+3	sont	être	V	1	O
+4	aux	aux	P	1	O
+5	petits	petit	G	1	O
+6	soin	soin	N	1	O
+7	,	,	O	1	O
+8	les	le	D	1	O
+9	chambres	chambre	N	1	O
+10	sont	être	V	1	O
+11	très	très	G	1	O
+12	propres	propre	G	1	O
+13	et	et	C	1	O
+14	pour	pour	P	1	O
+15	couronner	couronner	V	1	O
+16	les	le	D	1	O
+17	tous	tout	G	1	O
+18	ils	ils	Q	1	O
+19	sont	être	V	1	O
+20	toujours	toujours	G	1	O
+21	souriant	souriant	G	1	O
+22	et	et	C	1	O
+23	très	très	G	1	O
+24	polis	poli	G	1	O
+25	.	.	O	1	O
 
-1	Un	un	D	1	
-2	agréables	agréable	G	1	
-3	sejour	sejour	N	1	
-4	dans	dans	P	1	
-5	cet	ce	D	1	
-6	hôtel	hôtel	N	1	
-7	qui	qui	P	1	
-8	n'	n'	G	1	
-9	étais	être	V	1	
-10	pas	pas	G	1	
-11	peupler	peupler	V	1	
-12	de	de	P	1	
-13	touriste	touriste	N	1	
-14	quoi	quoi	P	1	
-15	demander	demander	V	1	
-16	de	de	P	1	
-17	mieux	mieux	G	1	
-18	lorsqu'	lorsque	C	1	
-19	on	on	Q	1	
-20	part	partir	V	1	
-21	avec	avec	P	1	
-22	des	un	D	1	
-23	enfant	enfant	N	1	
-24	en	en	P	1	
-25	bas	bas	N	1	
-26	age	age	N	1	
-27	.	.	O	1	
+1	Un	un	D	1	O
+2	agréables	agréable	G	1	O
+3	sejour	sejour	N	1	O
+4	dans	dans	P	1	O
+5	cet	ce	D	1	O
+6	hôtel	hôtel	N	1	O
+7	qui	qui	P	1	O
+8	n'	n'	G	1	O
+9	étais	être	V	1	O
+10	pas	pas	G	1	O
+11	peupler	peupler	V	1	O
+12	de	de	P	1	O
+13	touriste	touriste	N	1	O
+14	quoi	quoi	P	1	O
+15	demander	demander	V	1	O
+16	de	de	P	1	O
+17	mieux	mieux	G	1	O
+18	lorsqu'	lorsque	C	1	O
+19	on	on	Q	1	O
+20	part	partir	V	1	O
+21	avec	avec	P	1	O
+22	des	un	D	1	O
+23	enfant	enfant	N	1	O
+24	en	en	P	1	O
+25	bas	bas	N	1	O
+26	age	age	N	1	O
+27	.	.	O	1	O
 
-1	Par	Par	P	1	
-2	ailleurs	ailleurs	G	1	
-3	le	le	D	1	
-4	club	club	N	1	
-5	enfants	enfants	P	1	
-6	étais	étai	N	1	
-7	très	très	G	1	
-8	bien	bien	G	1	
-9	il	il	Q	1	
-10	y	y	Q	1	
-11	a	avoir	V	1	
-12	même	même	G	1	
-13	des	un	D	1	
-14	garde	garder	V	1	
-15	d'	d'	P	1	
-16	enfant	enfant	N	1	
-17	,	,	O	1	
-18	génial	génial	N	1	
-19	pour	pour	P	1	
-20	un	un	D	1	
-21	dîner	dîner	N	1	
-22	en	en	P	1	
-23	amoureux	amoureux	N	1	
-24	(	(	O	1	
-25	les	le	D	1	
-26	mauriciens	mauricien	N	1	
-27	adorent	adorer	V	1	
-28	les	le	D	1	
-29	enfant	enfant	N	1	
-30	)	)	O	1	
-31	j'	j'	Q	1	
-32	ai	avoir	V	1	
-33	vraiment	vraiment	G	1	
-34	eu	avoir	V	1	
-35	un	un	D	1	
-36	coup	coup	N	1	
-37	de	de	P	1	
-38	cœur	cœur	N	1	
-39	pour	pour	P	1	
-40	l'	le	D	1	
-41	hôtel	hôtel	N	1	
-42	et	et	C	1	
-43	les	le	D	1	
-44	mauriciens	mauricien	N	1	
-45	et	et	C	1	
-46	je	je	Q	1	
-47	compte	compter	V	1	
-48	bien	bien	G	1	
-49	y	y	Q	1	
-50	retourner	retourner	V	1	
+1	Par	Par	P	1	O
+2	ailleurs	ailleurs	G	1	O
+3	le	le	D	1	O
+4	club	club	N	1	O
+5	enfants	enfants	P	1	O
+6	étais	étai	N	1	O
+7	très	très	G	1	O
+8	bien	bien	G	1	O
+9	il	il	Q	1	O
+10	y	y	Q	1	O
+11	a	avoir	V	1	O
+12	même	même	G	1	O
+13	des	un	D	1	O
+14	garde	garder	V	1	O
+15	d'	d'	P	1	O
+16	enfant	enfant	N	1	O
+17	,	,	O	1	O
+18	génial	génial	N	1	O
+19	pour	pour	P	1	O
+20	un	un	D	1	O
+21	dîner	dîner	N	1	O
+22	en	en	P	1	O
+23	amoureux	amoureux	N	1	O
+24	(	(	O	1	O
+25	les	le	D	1	O
+26	mauriciens	mauricien	N	1	O
+27	adorent	adorer	V	1	O
+28	les	le	D	1	O
+29	enfant	enfant	N	1	O
+30	)	)	O	1	O
+31	j'	j'	Q	1	O
+32	ai	avoir	V	1	O
+33	vraiment	vraiment	G	1	O
+34	eu	avoir	V	1	O
+35	un	un	D	1	O
+36	coup	coup	N	1	O
+37	de	de	P	1	O
+38	cœur	cœur	N	1	O
+39	pour	pour	P	1	O
+40	l'	le	D	1	O
+41	hôtel	hôtel	N	1	O
+42	et	et	C	1	O
+43	les	le	D	1	O
+44	mauriciens	mauricien	N	1	O
+45	et	et	C	1	O
+46	je	je	Q	1	O
+47	compte	compter	V	1	O
+48	bien	bien	G	1	O
+49	y	y	Q	1	O
+50	retourner	retourner	V	1	O
 

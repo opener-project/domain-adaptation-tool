@@ -1,96 +1,97 @@
-1	à	à	P	1	
-2	ne	ne	G	1	
-3	pas	pas	G	1	
-4	faire	faire	V	1	
-5	avec	avec	P	1	
-6	des	un	D	1	
-7	petits	petit	G	1	
-8	enfants	enfant	N	1	
-9	(	(	O	1	
-10	6ans	6ans	G	1	
-11	)	)	O	1	
+1	à	à	P	1	O
+2	ne	ne	G	1	O
+3	pas	pas	G	1	O
+4	faire	faire	V	1	O
+5	avec	avec	P	1	O
+6	des	un	D	1	O
+7	petits	petit	G	1	O
+8	enfants	enfant	N	1	O
+9	(	(	O	1	O
+10	6ans	6ans	G	1	O
+11	)	)	O	1	O
 
-1	je	je	Q	1	
-2	n'	n'	G	1	
-3	ai	avoir	V	1	
-4	jamais	jamais	G	1	
-5	autant	autant	G	1	
-6	été	être	V	1	
-7	déçu	décevoir	V	1	
-8	d'	d'	P	1	
-9	un	un	D	1	
-10	parc	parc	N	1	
-11	!	!	O	1	
+1	je	je	Q	1	O
+2	n'	n'	G	1	O
+3	ai	avoir	V	1	O
+4	jamais	jamais	G	1	O
+5	autant	autant	G	1	O
+6	été	être	V	1	O
+7	déçu	décevoir	V	1	O
+8	d'	d'	P	1	O
+9	un	un	D	1	O
+10	parc	parc	N	1	O
+11	!	!	O	1	O
 
-1	mes	son	D	1	
-2	enfants	enfant	N	1	
-3	de	de	P	1	
-4	6	6	D	1	
-5	ans	an	N	1	
-6	n'	n'	G	1	
-7	ont	avoir	V	1	
-8	pu	pouvoir	V	1	
-9	faire	faire	V	1	
-10	que	que	G	1	
-11	2	2	D	1	
-12	ou	ou	C	1	
-13	3	3	D	1	
-14	attractions	attraction	N	1	
-15	!	!	O	1	
+1	mes	son	D	1	O
+2	enfants	enfant	N	1	O
+3	de	de	P	1	O
+4	6	6	D	1	O
+5	ans	an	N	1	O
+6	n'	n'	G	1	O
+7	ont	avoir	V	1	O
+8	pu	pouvoir	V	1	O
+9	faire	faire	V	1	O
+10	que	que	G	1	O
+11	2	2	D	1	O
+12	ou	ou	C	1	O
+13	3	3	D	1	O
+14	attractions	attraction	N	1	O
+15	!	!	O	1	O
 
-1	c'	c'	Q	1	
-2	est	être	V	1	
-3	du	du	D	1	
-4	vol	vol	N	1	
-5	!	!	O	1	
+1	c'	c'	Q	1	O
+2	est	être	V	1	O
+3	du	du	D	1	O
+4	vol	vol	N	1	O
+5	!	!	O	1	O
 
-1	car	car	C	1	
-2	ils	ils	Q	1	
-3	payent	payer	V	1	
-4	le	le	D	1	
-5	même	même	G	1	
-6	pris	prendre	V	1	
-7	que	que	C	1	
-8	celui	celui	P	1	
-9	de	de	P	1	
-10	saint_cyr	saint_cyr	R	1	ne=Location
-11	,	,	O	1	
-12	alors	alors	G	1	
-13	que	que	C	1	
-14	dans	dans	P	1	
-15	l'	le	D	1	
-16	autre	autre	P	1	
-17	,	,	O	1	
-18	ils	ils	Q	1	
-19	avaient	avoir	V	1	
-20	fait	faire	V	1	
-21	plus	plus	G	1	
-22	de	de	P	1	
-23	glissades	glissade	N	1	
-24	!	!	O	1	
+1	car	car	C	1	O
+2	ils	ils	Q	1	O
+3	payent	payer	V	1	O
+4	le	le	D	1	O
+5	même	même	G	1	O
+6	pris	prendre	V	1	O
+7	que	que	C	1	O
+8	celui	celui	P	1	O
+9	de	de	P	1	O
+10	saint	saint	G	1	I-Location
+11	cyr	cyr	N	1	I-Location
+12	,	,	O	1	O
+13	alors	alors	G	1	O
+14	que	que	C	1	O
+15	dans	dans	P	1	O
+16	l'	le	D	1	O
+17	autre	autre	P	1	O
+18	,	,	O	1	O
+19	ils	ils	Q	1	O
+20	avaient	avoir	V	1	O
+21	fait	faire	V	1	O
+22	plus	plus	G	1	O
+23	de	de	P	1	O
+24	glissades	glissade	N	1	O
+25	!	!	O	1	O
 
-1	en	en	P	1	
-2	plus	plus	G	1	
-3	!	!	O	1	
-4	!	!	O	1	
+1	en	en	P	1	O
+2	plus	plus	G	1	O
+3	!	!	O	1	O
+4	!	!	O	1	O
 
-1	quand	quand	C	1	
-2	on	on	Q	1	
-3	ne	ne	G	1	
-4	connait	connait	V	1	
-5	pas	pas	G	1	
-6	,	,	O	1	
-7	PARKING	parking	N	1	
-8	PAYANT	payant	N	1	
-9	!	!	O	1	
-10	!	!	O	1	
-11	!	!	O	1	
+1	quand	quand	C	1	O
+2	on	on	Q	1	O
+3	ne	ne	G	1	O
+4	connait	connait	V	1	O
+5	pas	pas	G	1	O
+6	,	,	O	1	O
+7	PARKING	parking	N	1	O
+8	PAYANT	payant	N	1	O
+9	!	!	O	1	O
+10	!	!	O	1	O
+11	!	!	O	1	O
 
-1	7	7	D	1	
-2	euros	euros	G	1	
-3	pour	pour	P	1	
-4	la	le	D	1	
-5	journée	journée	N	1	
-6	!	!	O	1	
-7	!	!	O	1	
+1	7	7	D	1	O
+2	euros	euros	G	1	O
+3	pour	pour	P	1	O
+4	la	le	D	1	O
+5	journée	journée	N	1	O
+6	!	!	O	1	O
+7	!	!	O	1	O
 

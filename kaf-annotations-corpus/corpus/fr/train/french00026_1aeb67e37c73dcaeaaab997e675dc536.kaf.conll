@@ -1,110 +1,110 @@
-1	Très	Très	G	1	
-2	Bon	bon	G	1	
-3	Hotel	Hotel	N	1	
-4	100	100	D	1	
-5	%	pourcent	N	1	
+1	Très	Très	G	1	O
+2	Bon	bon	G	1	O
+3	Hotel	Hotel	N	1	O
+4	100	100	D	1	O
+5	%	pourcent	N	1	O
 
-1	Nous	lui	Q	1	
-2	sommes	sommer	V	1	
-3	rentrés	rentrer	V	1	
-4	hier	hier	G	1	
-5	de	de	P	1	
-6	ce	ce	D	1	
-7	village	village	N	1	
-8	de	de	P	1	
-9	vacances	vacance	N	1	
-10	,	,	O	1	
-11	c'	c'	Q	1	
-12	est	être	V	1	
-13	un	un	D	1	
-14	endroit	endroit	N	1	
-15	agréable	agréable	G	1	
-16	pour	pour	P	1	
-17	tous	tout	G	1	
-18	les	le	D	1	
-19	âges	âge	N	1	
-20	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	sommes	sommer	V	1	O
+3	rentrés	rentrer	V	1	O
+4	hier	hier	G	1	O
+5	de	de	P	1	O
+6	ce	ce	D	1	O
+7	village	village	N	1	O
+8	de	de	P	1	O
+9	vacances	vacance	N	1	O
+10	,	,	O	1	O
+11	c'	c'	Q	1	O
+12	est	être	V	1	O
+13	un	un	D	1	O
+14	endroit	endroit	N	1	O
+15	agréable	agréable	G	1	O
+16	pour	pour	P	1	O
+17	tous	tout	G	1	O
+18	les	le	D	1	O
+19	âges	âge	N	1	O
+20	.	.	O	1	O
 
-1	Nous	lui	Q	1	
-2	avions	avoir	V	1	
-3	emmené	emmener	V	1	
-4	notre	son	D	1	
-5	petit	petit	G	1	
-6	fils	fil	N	1	
-7	de	de	P	1	
-8	trois	trois	D	1	
-9	ans	an	N	1	
-10	,	,	O	1	
-11	quand	quand	C	1	
-12	il	il	Q	1	
-13	fait	faire	V	1	
-14	beau	beau	G	1	
-15	il	il	Q	1	
-16	y	y	Q	1	
-17	a	avoir	V	1	
-18	plein	plein	G	1	
-19	de	de	P	1	
-20	choses	chose	N	1	
-21	à	à	P	1	
-22	faire	faire	V	1	
-23	,	,	O	1	
-24	mais	mais	C	1	
-25	pas	pas	G	1	
-26	assez	assez	G	1	
-27	quand	quand	C	1	
-28	il	il	Q	1	
-29	pleut	pleuvoir	V	1	
-30	.	.	O	1	
+1	Nous	lui	Q	1	O
+2	avions	avoir	V	1	O
+3	emmené	emmener	V	1	O
+4	notre	son	D	1	O
+5	petit	petit	G	1	O
+6	fils	fil	N	1	O
+7	de	de	P	1	O
+8	trois	trois	D	1	O
+9	ans	an	N	1	O
+10	,	,	O	1	O
+11	quand	quand	C	1	O
+12	il	il	Q	1	O
+13	fait	faire	V	1	O
+14	beau	beau	G	1	O
+15	il	il	Q	1	O
+16	y	y	Q	1	O
+17	a	avoir	V	1	O
+18	plein	plein	G	1	O
+19	de	de	P	1	O
+20	choses	chose	N	1	O
+21	à	à	P	1	O
+22	faire	faire	V	1	O
+23	,	,	O	1	O
+24	mais	mais	C	1	O
+25	pas	pas	G	1	O
+26	assez	assez	G	1	O
+27	quand	quand	C	1	O
+28	il	il	Q	1	O
+29	pleut	pleuvoir	V	1	O
+30	.	.	O	1	O
 
-1	Mais	Mais	C	1	
-2	je	je	Q	1	
-3	dois	dois	G	1	
-4	dire	dire	V	1	
-5	que	que	C	1	
-6	tous	tout	G	1	
-7	les	le	D	1	
-8	employés	employé	N	1	
-9	sont	être	V	1	
-10	très	très	G	1	
-11	serviables	serviable	G	1	
-12	et	et	C	1	
-13	travaillent	travailler	V	1	
-14	très	très	G	1	
-15	dur	dur	G	1	
-16	pour	pour	P	1	
-17	vous	lui	Q	1	
-18	faire	faire	V	1	
-19	passer	passer	V	1	
-20	un	un	D	1	
-21	bon	bon	G	1	
-22	séjour	séjour	N	1	
-23	.	.	O	1	
+1	Mais	Mais	C	1	O
+2	je	je	Q	1	O
+3	dois	dois	G	1	O
+4	dire	dire	V	1	O
+5	que	que	C	1	O
+6	tous	tout	G	1	O
+7	les	le	D	1	O
+8	employés	employé	N	1	O
+9	sont	être	V	1	O
+10	très	très	G	1	O
+11	serviables	serviable	G	1	O
+12	et	et	C	1	O
+13	travaillent	travailler	V	1	O
+14	très	très	G	1	O
+15	dur	dur	G	1	O
+16	pour	pour	P	1	O
+17	vous	lui	Q	1	O
+18	faire	faire	V	1	O
+19	passer	passer	V	1	O
+20	un	un	D	1	O
+21	bon	bon	G	1	O
+22	séjour	séjour	N	1	O
+23	.	.	O	1	O
 
-1	Les	le	D	1	
-2	chambres	chambre	N	1	
-3	sont	être	V	1	
-4	vraiment	vraiment	G	1	
-5	bien	bien	G	1	
-6	,	,	O	1	
-7	avec	avec	P	1	
-8	une	un	D	1	
-9	salle	salle	N	1	
-10	de	de	P	1	
-11	séjour	séjour	N	1	
-12	,	,	O	1	
-13	une	un	D	1	
-14	petite	petit	G	1	
-15	cuisine	cuisine	N	1	
-16	,	,	O	1	
-17	un	un	D	1	
-18	grand	grand	G	1	
-19	balcon	balcon	N	1	
-20	bien	bien	G	1	
-21	pour	pour	P	1	
-22	pouvoir	pouvoir	V	1	
-23	profiter	profiter	V	1	
-24	du	du	D	1	
-25	joli	joli	N	1	
-26	cadre	cadre	N	1	
-27	.	.	O	1	
+1	Les	le	D	1	O
+2	chambres	chambre	N	1	O
+3	sont	être	V	1	O
+4	vraiment	vraiment	G	1	O
+5	bien	bien	G	1	O
+6	,	,	O	1	O
+7	avec	avec	P	1	O
+8	une	un	D	1	O
+9	salle	salle	N	1	O
+10	de	de	P	1	O
+11	séjour	séjour	N	1	O
+12	,	,	O	1	O
+13	une	un	D	1	O
+14	petite	petit	G	1	O
+15	cuisine	cuisine	N	1	O
+16	,	,	O	1	O
+17	un	un	D	1	O
+18	grand	grand	G	1	O
+19	balcon	balcon	N	1	O
+20	bien	bien	G	1	O
+21	pour	pour	P	1	O
+22	pouvoir	pouvoir	V	1	O
+23	profiter	profiter	V	1	O
+24	du	du	D	1	O
+25	joli	joli	N	1	O
+26	cadre	cadre	N	1	O
+27	.	.	O	1	O
 

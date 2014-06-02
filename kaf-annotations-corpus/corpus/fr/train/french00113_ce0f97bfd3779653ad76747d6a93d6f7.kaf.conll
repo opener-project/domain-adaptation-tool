@@ -1,57 +1,57 @@
-1	A	A	P	1	
-2	fuir	fuir	V	1	
-3	!	!	O	1	
+1	A	A	P	1	O
+2	fuir	fuir	V	1	O
+3	!	!	O	1	O
 
-1	c'	c'	Q	1	
-2	est	être	V	1	
-3	juste	juste	G	1	
-4	l'	le	D	1	
-5	usine	usine	N	1	
-6	on	on	Q	1	
-7	est	être	V	1	
-8	la	le	D	1	
-9	pour	pour	P	1	
-10	prendre	prendre	V	1	
-11	votre	son	D	1	
-12	argent	argent	N	1	
-13	le	le	Q	1	
-14	reste	rester	V	1	
-15	on	on	Q	1	
-16	s'	s'	Q	1	
-17	en	en	Q	1	
-18	fout	fout	Q	1	
-19	!	!	O	1	
+1	c'	c'	Q	1	O
+2	est	être	V	1	O
+3	juste	juste	G	1	O
+4	l'	le	D	1	O
+5	usine	usine	N	1	O
+6	on	on	Q	1	O
+7	est	être	V	1	O
+8	la	le	D	1	O
+9	pour	pour	P	1	O
+10	prendre	prendre	V	1	O
+11	votre	son	D	1	O
+12	argent	argent	N	1	O
+13	le	le	Q	1	O
+14	reste	rester	V	1	O
+15	on	on	Q	1	O
+16	s'	s'	Q	1	O
+17	en	en	Q	1	O
+18	fout	fout	Q	1	O
+19	!	!	O	1	O
 
-1	on	on	Q	1	
-2	se	se	Q	1	
-3	croirai	croire	V	1	
-4	dans	dans	P	1	
-5	des	un	D	1	
-6	hlm	hlm	N	1	
-7	de	de	P	1	
-8	vacances	vacance	N	1	
-9	c'	c'	Q	1	
-10	est	être	V	1	
-11	la	le	D	1	
-12	zone	zone	N	1	
-13	mais	mais	C	1	
-14	à	à	P	1	
-15	1500	1500	D	1	
-16	les	le	D	1	
-17	2	2	G	1	
-18	semaines	semaine	N	1	
-19	de	de	P	1	
-20	mobilhom	mobilhom	N	1	
-21	meme	meme	G	1	
-22	pas	pas	G	1	
-23	propre	propre	G	1	
-24	a	avoir	V	1	
-25	l'	le	D	1	
-26	arrivee	arrivee	N	1	
-27	c'	c'	Q	1	
-28	est	être	V	1	
-29	difficile	difficile	G	1	
-30	a	avoir	V	1	
-31	avaler	avaler	V	1	
-32	!	!	O	1	
+1	on	on	Q	1	O
+2	se	se	Q	1	O
+3	croirai	croire	V	1	O
+4	dans	dans	P	1	O
+5	des	un	D	1	O
+6	hlm	hlm	N	1	O
+7	de	de	P	1	O
+8	vacances	vacance	N	1	O
+9	c'	c'	Q	1	O
+10	est	être	V	1	O
+11	la	le	D	1	O
+12	zone	zone	N	1	O
+13	mais	mais	C	1	O
+14	à	à	P	1	O
+15	1500	1500	D	1	O
+16	les	le	D	1	O
+17	2	2	G	1	O
+18	semaines	semaine	N	1	O
+19	de	de	P	1	O
+20	mobilhom	mobilhom	N	1	O
+21	meme	meme	G	1	O
+22	pas	pas	G	1	O
+23	propre	propre	G	1	O
+24	a	avoir	V	1	O
+25	l'	le	D	1	O
+26	arrivee	arrivee	N	1	O
+27	c'	c'	Q	1	O
+28	est	être	V	1	O
+29	difficile	difficile	G	1	O
+30	a	avoir	V	1	O
+31	avaler	avaler	V	1	O
+32	!	!	O	1	O
 

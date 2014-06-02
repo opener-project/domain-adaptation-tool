@@ -1,130 +1,134 @@
-1	Déception	déception	N	1	
+1	Déception	déception	N	1	O
 
-1	nous	lui	Q	1	
-2	étions	être	V	1	
-3	allés	aller	V	1	
-4	visiter	visiter	V	1	
-5	la_ferme_de_l'_auroch	le_ferme_de_le_auroch	R	1	ne=Attraction
-6	il	il	Q	1	
-7	y	y	Q	1	
-8	a	avoir	V	1	
-9	5	5	D	1	
-10	ou	ou	C	1	
-11	6	6	D	1	
-12	ans	an	N	1	
-13	avec	avec	P	1	
-14	notre	son	D	1	
-15	petite	petit	G	1	
-16	fille	fille	N	1	
-17	;	;	O	1	
-18	nous	lui	Q	1	
-19	avions	avoir	V	1	
-20	été	être	V	1	
-21	enchantés	enchanter	V	1	
-22	;	;	O	1	
+1	nous	lui	Q	1	O
+2	étions	être	V	1	O
+3	allés	aller	V	1	O
+4	visiter	visiter	V	1	O
+5	la	le	D	1	I-Attraction
+6	ferme	ferme	N	1	I-Attraction
+7	de	de	P	1	I-Attraction
+8	l'	le	D	1	I-Attraction
+9	auroch	auroch	N	1	I-Attraction
+10	il	il	Q	1	O
+11	y	y	Q	1	O
+12	a	avoir	V	1	O
+13	5	5	D	1	O
+14	ou	ou	C	1	O
+15	6	6	D	1	O
+16	ans	an	N	1	O
+17	avec	avec	P	1	O
+18	notre	son	D	1	O
+19	petite	petit	G	1	O
+20	fille	fille	N	1	O
+21	;	;	O	1	O
+22	nous	lui	Q	1	O
+23	avions	avoir	V	1	O
+24	été	être	V	1	O
+25	enchantés	enchanter	V	1	O
+26	;	;	O	1	O
 
-1	cette	ce	D	1	
-2	année	année	N	1	
-3	,	,	O	1	
-4	nous	lui	Q	1	
-5	y	y	Q	1	
-6	sommes	sommer	V	1	
-7	retournés	retourner	V	1	
-8	avec	avec	P	1	
-9	l'	le	D	1	
-10	un	un	P	1	
-11	de	de	P	1	
-12	nos	son	D	1	
-13	petits	petit	G	1	
-14	fils	fil	N	1	
-15	,	,	O	1	
-16	et	et	C	1	
-17	là	là	G	1	
-18	,	,	O	1	
-19	déception	déception	N	1	
-20	:	:	O	1	
-21	les	le	D	1	
-22	animaux	animal	N	1	
-23	sont	être	V	1	
-24	en	en	P	1	
-25	nombre	nombre	N	1	
-26	bien	bien	G	1	
-27	moins	moins	G	1	
-28	important	important	G	1	
-29	,	,	O	1	
-30	les	le	D	1	
-31	abords	abord	N	1	
-32	sont	être	V	1	
-33	négligés	négliger	V	1	
-34	,	,	O	1	
-35	on	on	Q	1	
-36	dirait	dire	V	1	
-37	que	que	C	1	
-38	c'	c'	Q	1	
-39	est	être	V	1	
-40	presque	presque	G	1	
-41	à	à	P	1	
-42	l'	le	D	1	
-43	abandon	abandon	N	1	
-44	,	,	O	1	
-45	quand	quand	C	1	
-46	aux	aux	P	1	
-47	bisons	bison	N	1	
-48	annoncés	annoncer	V	1	
-49	,	,	O	1	
-50	nous	lui	Q	1	
-51	en	en	Q	1	
-52	avons	avoir	V	1	
-53	vu	voir	V	1	
-54	4	4	D	1	
-55	;	;	O	1	
-56	sans	sans]	P	1	
-57	parler	parler	V	1	
-58	de	de	P	1	
-59	la	le	D	1	
-60	tourbière	tourbier	N	1	
-61	ou	ou	C	1	
-62	la	le	D	1	
-63	flore	flore	N	1	
-64	n'	n'	G	1	
-65	est	être	V	1	
-66	plus	plus	G	1	
-67	expliquée	expliquer	V	1	
-68	comme	comme	P	1	
-69	avant	avant	P	1	
-70	;	;	O	1	
-71	7	7	D	1	
-72	euros	euro	N	1	
-73	par	par	P	1	
-74	adulte	adulte	N	1	
-75	,	,	O	1	
-76	pour	pour	P	1	
-77	voir	voir	V	1	
-78	des	un	D	1	
-79	chiens	chien	N	1	
-80	,	,	O	1	
-81	des	des	P	1	
-82	cochons	cochon	N	1	
-83	,	,	O	1	
-84	3	3	D	1	
-85	chèvres	chèvre	N	1	
-86	,	,	O	1	
-87	1	1	D	1	
-88	lama	lama	N	1	
-89	,	,	O	1	
-90	2	2	D	1	
-91	ou	ou	C	1	
-92	3	3	D	1	
-93	hightland	hightland	O	1	
-94	cattle	cattle	G	1	
-95	,	,	O	1	
-96	quelques	quelque	D	1	
-97	chevaux	cheval	N	1	
-98	,	,	O	1	
-99	des	des	P	1	
-100	lapins	lapin	N	1	
-101	et	et	C	1	
-102	des	des	P	1	
-103	poussins	poussin	N	1	
-104	....	....	O	1	
+1	cette	ce	D	1	O
+2	année	année	N	1	O
+3	,	,	O	1	O
+4	nous	lui	Q	1	O
+5	y	y	Q	1	O
+6	sommes	sommer	V	1	O
+7	retournés	retourner	V	1	O
+8	avec	avec	P	1	O
+9	l'	le	D	1	O
+10	un	un	P	1	O
+11	de	de	P	1	O
+12	nos	son	D	1	O
+13	petits	petit	G	1	O
+14	fils	fil	N	1	O
+15	,	,	O	1	O
+16	et	et	C	1	O
+17	là	là	G	1	O
+18	,	,	O	1	O
+19	déception	déception	N	1	O
+20	:	:	O	1	O
+21	les	le	D	1	O
+22	animaux	animal	N	1	O
+23	sont	être	V	1	O
+24	en	en	P	1	O
+25	nombre	nombre	N	1	O
+26	bien	bien	G	1	O
+27	moins	moins	G	1	O
+28	important	important	G	1	O
+29	,	,	O	1	O
+30	les	le	D	1	O
+31	abords	abord	N	1	O
+32	sont	être	V	1	O
+33	négligés	négliger	V	1	O
+34	,	,	O	1	O
+35	on	on	Q	1	O
+36	dirait	dire	V	1	O
+37	que	que	C	1	O
+38	c'	c'	Q	1	O
+39	est	être	V	1	O
+40	presque	presque	G	1	O
+41	à	à	P	1	O
+42	l'	le	D	1	O
+43	abandon	abandon	N	1	O
+44	,	,	O	1	O
+45	quand	quand	C	1	O
+46	aux	aux	P	1	O
+47	bisons	bison	N	1	O
+48	annoncés	annoncer	V	1	O
+49	,	,	O	1	O
+50	nous	lui	Q	1	O
+51	en	en	Q	1	O
+52	avons	avoir	V	1	O
+53	vu	voir	V	1	O
+54	4	4	D	1	O
+55	;	;	O	1	O
+56	sans	sans]	P	1	O
+57	parler	parler	V	1	O
+58	de	de	P	1	O
+59	la	le	D	1	O
+60	tourbière	tourbier	N	1	O
+61	ou	ou	C	1	O
+62	la	le	D	1	O
+63	flore	flore	N	1	O
+64	n'	n'	G	1	O
+65	est	être	V	1	O
+66	plus	plus	G	1	O
+67	expliquée	expliquer	V	1	O
+68	comme	comme	P	1	O
+69	avant	avant	P	1	O
+70	;	;	O	1	O
+71	7	7	D	1	O
+72	euros	euro	N	1	O
+73	par	par	P	1	O
+74	adulte	adulte	N	1	O
+75	,	,	O	1	O
+76	pour	pour	P	1	O
+77	voir	voir	V	1	O
+78	des	un	D	1	O
+79	chiens	chien	N	1	O
+80	,	,	O	1	O
+81	des	des	P	1	O
+82	cochons	cochon	N	1	O
+83	,	,	O	1	O
+84	3	3	D	1	O
+85	chèvres	chèvre	N	1	O
+86	,	,	O	1	O
+87	1	1	D	1	O
+88	lama	lama	N	1	O
+89	,	,	O	1	O
+90	2	2	D	1	O
+91	ou	ou	C	1	O
+92	3	3	D	1	O
+93	hightland	hightland	O	1	O
+94	cattle	cattle	G	1	O
+95	,	,	O	1	O
+96	quelques	quelque	D	1	O
+97	chevaux	cheval	N	1	O
+98	,	,	O	1	O
+99	des	des	P	1	O
+100	lapins	lapin	N	1	O
+101	et	et	C	1	O
+102	des	des	P	1	O
+103	poussins	poussin	N	1	O
+104	....	....	O	1	O
 

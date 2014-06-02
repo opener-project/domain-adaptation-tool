@@ -1,180 +1,181 @@
-1	Leuke	leuk	G	1	
-2	animatie	animatie	N	1	
-3	,	,	O	1	
-4	prima	prima	G	1	
-5	hotel	hotel	N	1	
-6	!	!	O	1	
+1	Leuke	leuk	G	1	O
+2	animatie	animatie	N	1	O
+3	,	,	O	1	O
+4	prima	prima	G	1	O
+5	hotel	hotel	N	1	O
+6	!	!	O	1	O
 
-1	Heel	heel	G	1	
-2	groot	groot	G	1	
-3	resort	resort	O	1	
-4	,	,	O	1	
-5	als	als	C	1	
-6	je	je	Q	1	
-7	in	in	P	1	
-8	de	de	D	1	
-9	achterste	achterst	G	1	
-10	kamers	kamer	N	1	
-11	zit	zitten	V	1	
-12	is	zijn	V	1	
-13	het	het	Q	1	
-14	wel	wel	A	1	
-15	een	een	D	1	
-16	stukje	stuk	N	1	
-17	lopen	lopen	V	1	
-18	naar	naar	P	1	
-19	de	de	D	1	
-20	receptie	receptie	N	1	
-21	.	.	O	1	
+1	Heel	heel	G	1	O
+2	groot	groot	G	1	O
+3	resort	resort	O	1	O
+4	,	,	O	1	O
+5	als	als	C	1	O
+6	je	je	Q	1	O
+7	in	in	P	1	O
+8	de	de	D	1	O
+9	achterste	achterst	G	1	O
+10	kamers	kamer	N	1	O
+11	zit	zitten	V	1	O
+12	is	zijn	V	1	O
+13	het	het	Q	1	O
+14	wel	wel	A	1	O
+15	een	een	D	1	O
+16	stukje	stuk	N	1	O
+17	lopen	lopen	V	1	O
+18	naar	naar	P	1	O
+19	de	de	D	1	O
+20	receptie	receptie	N	1	O
+21	.	.	O	1	O
 
-1	Heel	heel	A	1	
-2	veel	veel	A	1	
-3	Russen	Rus	R	1	ne=Person
-4	,	,	O	1	
-5	Polen	Polen	R	1	ne=Person
-6	en	en	C	1	
-7	Engelse	Engels	R	1	ne=Person
-8	.	.	O	1	
+1	Heel	heel	A	1	O
+2	veel	veel	A	1	O
+3	Russen	Rus	R	1	I-Person
+4	,	,	O	1	O
+5	Polen	Polen	R	1	I-Person
+6	en	en	C	1	O
+7	Engelse	Engels	R	1	I-Person
+8	.	.	O	1	O
 
-1	Heel	heel	G	1	
-2	groot	groot	G	1	
-3	nadeel	nadeel	N	1	
-4	was	wezen|zijn	V	1	
-5	dat	dat	C	1	
-6	er	er	Q	1	
-7	regelmatig	regelmatig	G	1	
-8	(	(	O	1	
-9	volgensmij	volgensmij	O	1	
-10	)	)	O	1	
-11	kinderen	kind	N	1	
-12	het	het	Q	1	
-13	nodig	nodig	G	1	
-14	vonden	vinden	V	1	
-15	om	om	P	1	
-16	het	het	D	1	
-17	zwembad	zwembad	N	1	
-18	als	als	C	1	
-19	toilet	toilet	N	1	
-20	te	te	O	1	
-21	gebruiken	gebruiken	V	1	
-22	waardoor	waardoor	Q	1	
-23	derest	derest	O	1	
-24	van	van	P	1	
-25	de	de	D	1	
-26	dag	dag	N	1	
-27	het	het	D	1	
-28	zwembad	zwembad	N	1	
-29	gesloten	sluiten	V	1	
-30	was	wezen|zijn	V	1	
-31	.	.	O	1	
+1	Heel	heel	G	1	O
+2	groot	groot	G	1	O
+3	nadeel	nadeel	N	1	O
+4	was	wezen|zijn	V	1	O
+5	dat	dat	C	1	O
+6	er	er	Q	1	O
+7	regelmatig	regelmatig	G	1	O
+8	(	(	O	1	O
+9	volgensmij	volgensmij	O	1	O
+10	)	)	O	1	O
+11	kinderen	kind	N	1	O
+12	het	het	Q	1	O
+13	nodig	nodig	G	1	O
+14	vonden	vinden	V	1	O
+15	om	om	P	1	O
+16	het	het	D	1	O
+17	zwembad	zwembad	N	1	O
+18	als	als	C	1	O
+19	toilet	toilet	N	1	O
+20	te	te	O	1	O
+21	gebruiken	gebruiken	V	1	O
+22	waardoor	waardoor	Q	1	O
+23	derest	derest	O	1	O
+24	van	van	P	1	O
+25	de	de	D	1	O
+26	dag	dag	N	1	O
+27	het	het	D	1	O
+28	zwembad	zwembad	N	1	O
+29	gesloten	sluiten	V	1	O
+30	was	wezen|zijn	V	1	O
+31	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	was	wezen|zijn	V	1	
-3	het	het	D	1	
-4	voorste	voorst	G	1	
-5	zwembad	zwembad	N	1	
-6	wel	wel	A	1	
-7	aan	aan	P	1	
-8	een	een	D	1	
-9	schoonmaakbeurt	schoonmaakbeurt	N	1	
-10	nodig	nodig	G	1	
-11	.	.	O	1	
+1	Ook	ook	A	1	O
+2	was	wezen|zijn	V	1	O
+3	het	het	D	1	O
+4	voorste	voorst	G	1	O
+5	zwembad	zwembad	N	1	O
+6	wel	wel	A	1	O
+7	aan	aan	P	1	O
+8	een	een	D	1	O
+9	schoonmaakbeurt	schoonmaakbeurt	N	1	O
+10	nodig	nodig	G	1	O
+11	.	.	O	1	O
 
-1	Ontbijt	ontbijt	N	1	
-2	was	wezen|zijn	V	1	
-3	prima	prima	G	1	
-4	,	,	O	1	
-5	'	'	O	1	
-6	s	s	N	1	
-7	·	·	O	1	
-8	middags	middags	O	1	
-9	ook	ook	A	1	
-10	prima	prima	G	1	
-11	,	,	O	1	
-12	jammer	jammer	G	1	
-13	dat	dat	C	1	
-14	er	er	Q	1	
-15	niet	niet	A	1	
-16	gewoon	gewoon	G	1	
-17	normale	normaal	G	1	
-18	broodjes	brood	N	1	
-19	te	te	O	1	
-20	verkrijgen	verkrijgen	V	1	
-21	zijn	zijn	V	1	
-22	alleen	alleen	A	1	
-23	maar	maar	A	1	
-24	warm	warm	G	1	
-25	eten	eten	V	1	
-26	en	en	C	1	
-27	'	'	O	1	
-28	s	s	N	1	
-29	·	·	O	1	
-30	avonds	avond	N	1	
-31	moet	moeten	V	1	
-32	je	je	Q	1	
-33	eigenlijk	eigenlijk	G	1	
-34	in	in	P	1	
-35	het	het	D	1	
-36	hotel	hotel	N	1	
-37	ernaast	ernaast	Q	1	
-38	eten	eten	V	1	
-39	of	of	C	1	
-40	bij	bij	P	1	
-41	een	een	D	1	
-42	van	van	P	1	
-43	de	de	D	1	
-44	restaurants	restaurant	N	1	
-45	waar	waar	Q	1	
-46	je	je	Q	1	
-47	voor	voor	A	1	
-48	kan	kunnen	V	1	
-49	reserveren	reserveren	V	1	
-50	.	.	O	1	
+1	Ontbijt	ontbijt	N	1	O
+2	was	wezen|zijn	V	1	O
+3	prima	prima	G	1	O
+4	,	,	O	1	O
+5	'	'	O	1	O
+6	s	s	N	1	O
+7	·	·	O	1	O
+8	middags	middags	O	1	O
+9	ook	ook	A	1	O
+10	prima	prima	G	1	O
+11	,	,	O	1	O
+12	jammer	jammer	G	1	O
+13	dat	dat	C	1	O
+14	er	er	Q	1	O
+15	niet	niet	A	1	O
+16	gewoon	gewoon	G	1	O
+17	normale	normaal	G	1	O
+18	broodjes	brood	N	1	O
+19	te	te	O	1	O
+20	verkrijgen	verkrijgen	V	1	O
+21	zijn	zijn	V	1	O
+22	alleen	alleen	A	1	O
+23	maar	maar	A	1	O
+24	warm	warm	G	1	O
+25	eten	eten	V	1	O
+26	en	en	C	1	O
+27	'	'	O	1	O
+28	s	s	N	1	O
+29	·	·	O	1	O
+30	avonds	avond	N	1	O
+31	moet	moeten	V	1	O
+32	je	je	Q	1	O
+33	eigenlijk	eigenlijk	G	1	O
+34	in	in	P	1	O
+35	het	het	D	1	O
+36	hotel	hotel	N	1	O
+37	ernaast	ernaast	Q	1	O
+38	eten	eten	V	1	O
+39	of	of	C	1	O
+40	bij	bij	P	1	O
+41	een	een	D	1	O
+42	van	van	P	1	O
+43	de	de	D	1	O
+44	restaurants	restaurant	N	1	O
+45	waar	waar	Q	1	O
+46	je	je	Q	1	O
+47	voor	voor	A	1	O
+48	kan	kunnen	V	1	O
+49	reserveren	reserveren	V	1	O
+50	.	.	O	1	O
 
-1	Het	het	D	1	
-2	eten	eten	N	1	
-3	in	in	P	1	
-4	het	het	D	1	
-5	restaurant	restaurant	N	1	
-6	was	wezen|zijn	V	1	
-7	niet	niet	A	1	
-8	slecht	slecht	A	1	
-9	alleen	alleen	A	1	
-10	weinig	weinig	O	1	
-11	keus	keus	N	1	
-12	m.b.t.	m.	O	1	
-13	m.b.t.	b.	O	1	
-14	m.b.t.	t.	O	1	
-15	vlees	vlees	N	1	
-16	.	.	O	1	
+1	Het	het	D	1	O
+2	eten	eten	N	1	O
+3	in	in	P	1	O
+4	het	het	D	1	O
+5	restaurant	restaurant	N	1	O
+6	was	wezen|zijn	V	1	O
+7	niet	niet	A	1	O
+8	slecht	slecht	A	1	O
+9	alleen	alleen	A	1	O
+10	weinig	weinig	O	1	O
+11	keus	keus	N	1	O
+12	m.b.t.	m.	O	1	O
+13	m.b.t.	b.	O	1	O
+14	m.b.t.	t.	O	1	O
+15	vlees	vlees	N	1	O
+16	.	.	O	1	O
 
-1	De	de	D	1	
-2	animatie	animatie	N	1	
-3	is	zijn	V	1	
-4	hier	hier	A	1	
-5	heel	heel	A	1	
-6	erg	erg	A	1	
-7	leuk	leuk	G	1	
-8	,	,	O	1	
-9	vriendelijke	vriendelijk	G	1	
-10	mensen	mens	N	1	
-11	!	!	O	1	
+1	De	de	D	1	O
+2	animatie	animatie	N	1	O
+3	is	zijn	V	1	O
+4	hier	hier	A	1	O
+5	heel	heel	A	1	O
+6	erg	erg	A	1	O
+7	leuk	leuk	G	1	O
+8	,	,	O	1	O
+9	vriendelijke	vriendelijk	G	1	O
+10	mensen	mens	N	1	O
+11	!	!	O	1	O
 
-1	Wij	wij	Q	1	
-2	zijn	zijn	V	1	
-3	ook	ook	A	1	
-4	een	een	D	1	
-5	keer	keer	N	1	
-6	mee	mee	A	1	
-7	uit	uit	A	1	
-8	geweest	wezen|zijn	V	1	
-9	met	met	P	1	
-10	de	de	D	1	
-11	animatie	animatie	N	1	
-12	naar	naar	P	1	
-13	White_Beach	White_Beach	R	1	ne=Attraction
-14	,	,	O	1	
-15	erg	erg	A	1	
-16	leuk	leuk	G	1	
-17	!	!	O	1	
+1	Wij	wij	Q	1	O
+2	zijn	zijn	V	1	O
+3	ook	ook	A	1	O
+4	een	een	D	1	O
+5	keer	keer	N	1	O
+6	mee	mee	A	1	O
+7	uit	uit	A	1	O
+8	geweest	wezen|zijn	V	1	O
+9	met	met	P	1	O
+10	de	de	D	1	O
+11	animatie	animatie	N	1	O
+12	naar	naar	P	1	O
+13	White	White	O	1	I-Attraction
+14	Beach	Beach	O	1	I-Attraction
+15	,	,	O	1	O
+16	erg	erg	A	1	O
+17	leuk	leuk	G	1	O
+18	!	!	O	1	O
 

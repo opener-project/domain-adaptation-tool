@@ -1,42 +1,42 @@
-1	Parc	parc	N	1	
-2	sympa	sympa	G	1	
+1	Parc	parc	N	1	O
+2	sympa	sympa	G	1	O
 
-1	Un	un	D	1	
-2	parc	parc	N	1	
-3	propre	propre	G	1	
-4	est	être	V	1	
-5	trés	trés	O	1	
-6	beau	beau	G	1	
-7	mais	mais	C	1	
-8	à	à	P	1	
-9	cette	ce	D	1	
-10	période	période	N	1	
-11	beaucoup	beaucoup	G	1	
-12	de	de	P	1	
-13	monde	monde	N	1	
-14	pour	pour	P	1	
-15	avoir	avoir	V	1	
-16	le	le	D	1	
-17	temps	temps	N	1	
-18	de	de	P	1	
-19	bien	bien	G	1	
-20	s'	s'	Q	1	
-21	amuser	amuser	V	1	
-22	,	,	O	1	
-23	pas	pas	G	1	
-24	envie	envie	N	1	
-25	de	de	P	1	
-26	faire	faire	V	1	
-27	la	le	D	1	
-28	queue	queue	N	1	
-29	en	en	P	1	
-30	vacances	vacance	N	1	
-31	...	...	O	1	
-32	les	le	D	1	
-33	animations	animation	N	1	
-34	sont	être	V	1	
-35	biens	biens	G	1	
-36	mais	mais	C	1	
-37	pas	pas	G	1	
-38	exceptionnelles	exceptionnel	G	1	
+1	Un	un	D	1	O
+2	parc	parc	N	1	O
+3	propre	propre	G	1	O
+4	est	être	V	1	O
+5	trés	trés	O	1	O
+6	beau	beau	G	1	O
+7	mais	mais	C	1	O
+8	à	à	P	1	O
+9	cette	ce	D	1	O
+10	période	période	N	1	O
+11	beaucoup	beaucoup	G	1	O
+12	de	de	P	1	O
+13	monde	monde	N	1	O
+14	pour	pour	P	1	O
+15	avoir	avoir	V	1	O
+16	le	le	D	1	O
+17	temps	temps	N	1	O
+18	de	de	P	1	O
+19	bien	bien	G	1	O
+20	s'	s'	Q	1	O
+21	amuser	amuser	V	1	O
+22	,	,	O	1	O
+23	pas	pas	G	1	O
+24	envie	envie	N	1	O
+25	de	de	P	1	O
+26	faire	faire	V	1	O
+27	la	le	D	1	O
+28	queue	queue	N	1	O
+29	en	en	P	1	O
+30	vacances	vacance	N	1	O
+31	...	...	O	1	O
+32	les	le	D	1	O
+33	animations	animation	N	1	O
+34	sont	être	V	1	O
+35	biens	biens	G	1	O
+36	mais	mais	C	1	O
+37	pas	pas	G	1	O
+38	exceptionnelles	exceptionnel	G	1	O
 

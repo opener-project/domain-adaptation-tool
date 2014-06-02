@@ -1,178 +1,182 @@
-1	Un	un	D	1	
-2	excellent	excellent	G	1	
-3	rapport	rapport	N	1	
-4	qualité	qualité	N	1	
-5	/	/	P	1	
-6	prix	prix	N	1	
+1	Un	un	D	1	O
+2	excellent	excellent	G	1	O
+3	rapport	rapport	N	1	O
+4	qualité	qualité	N	1	O
+5	/	/	P	1	O
+6	prix	prix	N	1	O
 
-1	L'_hôtel_Kustur_Club_Village	le_hôtel_Kustur_club_village	R	1	ne=Hotel
-2	est	être	V	1	
-3	vraiment	vraiment	G	1	
-4	surprenant	surprenant	G	1	
-5	par	par	P	1	
-6	le	le	D	1	
-7	nombre	nombre	N	1	
-8	de	de	P	1	
-9	ses	son	D	1	
-10	atouts	atout	N	1	
-11	.	.	O	1	
+1	L'	le	D	1	I-Hotel
+2	hôtel	hôtel	N	1	I-Hotel
+3	Kustur	Kustur	N	1	I-Hotel
+4	Club	club	N	1	I-Hotel
+5	Village	village	N	1	I-Hotel
+6	est	être	V	1	O
+7	vraiment	vraiment	G	1	O
+8	surprenant	surprenant	G	1	O
+9	par	par	P	1	O
+10	le	le	D	1	O
+11	nombre	nombre	N	1	O
+12	de	de	P	1	O
+13	ses	son	D	1	O
+14	atouts	atout	N	1	O
+15	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	y	y	Q	1	
-3	en	en	Q	1	
-4	a	avoir	V	1	
-5	pour	pour	P	1	
-6	tous	tout	G	1	
-7	les	le	D	1	
-8	goûts	goût	N	1	
-9	....	....	O	1	
+1	Il	Il	Q	1	O
+2	y	y	Q	1	O
+3	en	en	Q	1	O
+4	a	avoir	V	1	O
+5	pour	pour	P	1	O
+6	tous	tout	G	1	O
+7	les	le	D	1	O
+8	goûts	goût	N	1	O
+9	....	....	O	1	O
 
-1	De	De	P	1	
-2	l'	le	D	1	
-3	animation	animation	N	1	
-4	pour	pour	P	1	
-5	petits	petit	G	1	
-6	et	et	C	1	
-7	grands	grand	G	1	
-8	,	,	O	1	
-9	des	des	P	1	
-10	endroits	endroit	N	1	
-11	calmes	calme	G	1	
-12	et	et	C	1	
-13	animés	animer	V	1	
-14	bien	bien	G	1	
-15	distincts	distinct	G	1	
-16	.	.	O	1	
+1	De	De	P	1	O
+2	l'	le	D	1	O
+3	animation	animation	N	1	O
+4	pour	pour	P	1	O
+5	petits	petit	G	1	O
+6	et	et	C	1	O
+7	grands	grand	G	1	O
+8	,	,	O	1	O
+9	des	des	P	1	O
+10	endroits	endroit	N	1	O
+11	calmes	calme	G	1	O
+12	et	et	C	1	O
+13	animés	animer	V	1	O
+14	bien	bien	G	1	O
+15	distincts	distinct	G	1	O
+16	.	.	O	1	O
 
-1	Tout	Tout	P	1	
-2	est	être	V	1	
-3	de	de	P	1	
-4	plain	plain	N	1	
-5	·	·	V	1	
-6	pied	pied	N	1	
-7	donc	donc	G	1	
-8	très	très	G	1	
-9	facile	facile	G	1	
-10	pour	pour	P	1	
-11	les	le	D	1	
-12	personnes	personne	N	1	
-13	à	à	P	1	
-14	mobilité	mobilité	N	1	
-15	réduite	réduire	G	1	
-16	.	.	O	1	
+1	Tout	Tout	P	1	O
+2	est	être	V	1	O
+3	de	de	P	1	O
+4	plain	plain	N	1	O
+5	·	·	V	1	O
+6	pied	pied	N	1	O
+7	donc	donc	G	1	O
+8	très	très	G	1	O
+9	facile	facile	G	1	O
+10	pour	pour	P	1	O
+11	les	le	D	1	O
+12	personnes	personne	N	1	O
+13	à	à	P	1	O
+14	mobilité	mobilité	N	1	O
+15	réduite	réduire	G	1	O
+16	.	.	O	1	O
 
-1	De	De	P	1	
-2	la	le	D	1	
-3	nourriture	nourriture	N	1	
-4	variées	varier	G	1	
-5	et	et	C	1	
-6	de	de	P	1	
-7	qualité	qualité	N	1	
-8	.	.	O	1	
+1	De	De	P	1	O
+2	la	le	D	1	O
+3	nourriture	nourriture	N	1	O
+4	variées	varier	G	1	O
+5	et	et	C	1	O
+6	de	de	P	1	O
+7	qualité	qualité	N	1	O
+8	.	.	O	1	O
 
-1	Un	un	D	1	
-2	personnel	personnel	N	1	
-3	nombreux	nombreux	G	1	
-4	,	,	O	1	
-5	souriant	souriant	G	1	
-6	,	,	O	1	
-7	aimable	aimable	G	1	
-8	,	,	O	1	
-9	disponible	disponible	G	1	
-10	...	...	O	1	
+1	Un	un	D	1	O
+2	personnel	personnel	N	1	O
+3	nombreux	nombreux	G	1	O
+4	,	,	O	1	O
+5	souriant	souriant	G	1	O
+6	,	,	O	1	O
+7	aimable	aimable	G	1	O
+8	,	,	O	1	O
+9	disponible	disponible	G	1	O
+10	...	...	O	1	O
 
-1	Une	un	D	1	
-2	propreté	propreté	N	1	
-3	irréprochable	irréprochable	G	1	
-4	.	.	O	1	
+1	Une	un	D	1	O
+2	propreté	propreté	N	1	O
+3	irréprochable	irréprochable	G	1	O
+4	.	.	O	1	O
 
-1	Un	un	D	1	
-2	centre	centre	N	1	
-3	SPA	SPA	N	1	
-4	,	,	O	1	
-5	fitness	fitness	N	1	
-6	,	,	O	1	
-7	boutique	boutique	N	1	
-8	,	,	O	1	
-9	terrain	terrain	N	1	
-10	de	de	P	1	
-11	sport	sport	N	1	
-12	....	....	O	1	
+1	Un	un	D	1	O
+2	centre	centre	N	1	O
+3	SPA	SPA	N	1	O
+4	,	,	O	1	O
+5	fitness	fitness	N	1	O
+6	,	,	O	1	O
+7	boutique	boutique	N	1	O
+8	,	,	O	1	O
+9	terrain	terrain	N	1	O
+10	de	de	P	1	O
+11	sport	sport	N	1	O
+12	....	....	O	1	O
 
-1	Des	un	D	1	
-2	animateurs	animateur	N	1	
-3	qualifiés	qualifier	G	1	
-4	...	...	O	1	
+1	Des	un	D	1	O
+2	animateurs	animateur	N	1	O
+3	qualifiés	qualifier	G	1	O
+4	...	...	O	1	O
 
-1	Bref	bref	G	1	
-2	,	,	O	1	
-3	la	le	D	1	
-4	liste	liste	N	1	
-5	pourrait	pouvoir	V	1	
-6	s'	s'	Q	1	
-7	allonger	allonger	V	1	
-8	encore	encore	G	1	
-9	et	et	C	1	
-10	encore	encore	G	1	
-11	.	.	O	1	
+1	Bref	bref	G	1	O
+2	,	,	O	1	O
+3	la	le	D	1	O
+4	liste	liste	N	1	O
+5	pourrait	pouvoir	V	1	O
+6	s'	s'	Q	1	O
+7	allonger	allonger	V	1	O
+8	encore	encore	G	1	O
+9	et	et	C	1	O
+10	encore	encore	G	1	O
+11	.	.	O	1	O
 
-1	Mais	Mais	C	1	
-2	ce	ce	P	1	
-3	qui	qui	P	1	
-4	fait	faire	V	1	
-5	le	le	D	1	
-6	charme	charme	N	1	
-7	de	de	P	1	
-8	ce	ce	D	1	
-9	village	village	N	1	
-10	,	,	O	1	
-11	c'	c'	Q	1	
-12	est	être	V	1	
-13	son	son	D	1	
-14	étendue	étendre	V	1	
-15	et	et	C	1	
-16	l’	l’	D	1	
-17	absence	absence	N	1	
-18	de	de	P	1	
-19	grand	grand	G	1	
-20	bâtiment	bâtiment	N	1	
-21	central	central	G	1	
-22	en	en	P	1	
-23	hauteur	hauteur	N	1	
-24	.	.	O	1	
+1	Mais	Mais	C	1	O
+2	ce	ce	P	1	O
+3	qui	qui	P	1	O
+4	fait	faire	V	1	O
+5	le	le	D	1	O
+6	charme	charme	N	1	O
+7	de	de	P	1	O
+8	ce	ce	D	1	O
+9	village	village	N	1	O
+10	,	,	O	1	O
+11	c'	c'	Q	1	O
+12	est	être	V	1	O
+13	son	son	D	1	O
+14	étendue	étendre	V	1	O
+15	et	et	C	1	O
+16	l’	l’	D	1	O
+17	absence	absence	N	1	O
+18	de	de	P	1	O
+19	grand	grand	G	1	O
+20	bâtiment	bâtiment	N	1	O
+21	central	central	G	1	O
+22	en	en	P	1	O
+23	hauteur	hauteur	N	1	O
+24	.	.	O	1	O
 
-1	Un	un	D	1	
-2	jardin	jardin	N	1	
-3	bien	bien	G	1	
-4	entretenu	entretenir	V	1	
-5	parsemé	parsemé	D	1	
-6	d'	d'	P	1	
-7	arbres	arbre	N	1	
-8	et	et	C	1	
-9	plantations	plantation	N	1	
-10	dans	dans	P	1	
-11	lequel	lequel	P	1	
-12	on	on	Q	1	
-13	retrouve	retrouver	V	1	
-14	les	le	D	1	
-15	petites	petit	G	1	
-16	maisonnettes	maisonnette	N	1	
-17	qui	qui	P	1	
-18	sont	être	V	1	
-19	les	le	D	1	
-20	chambres	chambre	N	1	
-21	.	.	O	1	
+1	Un	un	D	1	O
+2	jardin	jardin	N	1	O
+3	bien	bien	G	1	O
+4	entretenu	entretenir	V	1	O
+5	parsemé	parsemé	D	1	O
+6	d'	d'	P	1	O
+7	arbres	arbre	N	1	O
+8	et	et	C	1	O
+9	plantations	plantation	N	1	O
+10	dans	dans	P	1	O
+11	lequel	lequel	P	1	O
+12	on	on	Q	1	O
+13	retrouve	retrouver	V	1	O
+14	les	le	D	1	O
+15	petites	petit	G	1	O
+16	maisonnettes	maisonnette	N	1	O
+17	qui	qui	P	1	O
+18	sont	être	V	1	O
+19	les	le	D	1	O
+20	chambres	chambre	N	1	O
+21	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	faut	faillir	V	1	
-3	vraiment	vraiment	G	1	
-4	être	être	V	1	
-5	difficile	difficile	G	1	
-6	pour	pour	P	1	
-7	ne	ne	G	1	
-8	pas	pas	G	1	
-9	apprécier	apprécier	V	1	
-10	l'	le	D	1	
-11	endroit	endroit	N	1	
-12	.	.	O	1	
+1	Il	Il	Q	1	O
+2	faut	faillir	V	1	O
+3	vraiment	vraiment	G	1	O
+4	être	être	V	1	O
+5	difficile	difficile	G	1	O
+6	pour	pour	P	1	O
+7	ne	ne	G	1	O
+8	pas	pas	G	1	O
+9	apprécier	apprécier	V	1	O
+10	l'	le	D	1	O
+11	endroit	endroit	N	1	O
+12	.	.	O	1	O
 

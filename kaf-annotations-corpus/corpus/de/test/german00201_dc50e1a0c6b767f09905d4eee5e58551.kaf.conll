@@ -1,57 +1,57 @@
-1	Sehr	sehr	A	1	
-2	schlechte	schlecht	G	1	
-3	Erfahrungen	Erfahrung	N	1	
-4	gemacht	machen	V	1	
+1	Sehr	sehr	A	1	O
+2	schlechte	schlecht	G	1	O
+3	Erfahrungen	Erfahrung	N	1	O
+4	gemacht	machen	V	1	O
 
-1	Kleines	klein	G	1	
-2	Hotel	Hotel	N	1	
-3	in	in	P	1	
-4	einem	eine	D	1	
-5	kleinen	klein	G	1	
-6	Ort	Ort	N	1	
-7	.	.	O	1	
+1	Kleines	klein	G	1	O
+2	Hotel	Hotel	N	1	O
+3	in	in	P	1	O
+4	einem	eine	D	1	O
+5	kleinen	klein	G	1	O
+6	Ort	Ort	N	1	O
+7	.	.	O	1	O
 
-1	Bad	Bad	R	1	
-2	im	in	P	1	
-3	Zimmer	Zimmer	N	1	
-4	sehr	sehr	A	1	
-5	klein	klein	G	1	
-6	an	an	P	1	
-7	der	die	D	1	
-8	Dusche	Dusche	N	1	
+1	Bad	Bad	R	1	O
+2	im	in	P	1	O
+3	Zimmer	Zimmer	N	1	O
+4	sehr	sehr	A	1	O
+5	klein	klein	G	1	O
+6	an	an	P	1	O
+7	der	die	D	1	O
+8	Dusche	Dusche	N	1	O
 
-1	wahr	wahr	G	1	
-2	ein	eine	D	1	
-3	PVC	PVC	N	1	
-4	Duschvorhang	Duschvorhang	N	1	
-5	in	in	P	1	
-6	meinen	mein	Q	1	
-7	Augen	Auge	N	1	
-8	bei	bei	P	1	
-9	diesem	dies	Q	1	
-10	Zimmerpreis	Zimmerpreis	N	1	
-11	nicht	nicht	O	1	
-12	i.o	ino	P	1	
-13	,	,	O	1	
-14	Sauberkeit	Sauberkeit	N	1	
-15	lässt	lassen	V	1	
-16	zu	zu	V	1	
-17	wünschen	wünschen	V	1	
-18	übrig	übrig	G	1	
-19	.	.	O	1	
+1	wahr	wahr	G	1	O
+2	ein	eine	D	1	O
+3	PVC	PVC	N	1	O
+4	Duschvorhang	Duschvorhang	N	1	O
+5	in	in	P	1	O
+6	meinen	mein	Q	1	O
+7	Augen	Auge	N	1	O
+8	bei	bei	P	1	O
+9	diesem	dies	Q	1	O
+10	Zimmerpreis	Zimmerpreis	N	1	O
+11	nicht	nicht	O	1	O
+12	i.o	ino	P	1	O
+13	,	,	O	1	O
+14	Sauberkeit	Sauberkeit	N	1	O
+15	lässt	lassen	V	1	O
+16	zu	zu	V	1	O
+17	wünschen	wünschen	V	1	O
+18	übrig	übrig	G	1	O
+19	.	.	O	1	O
 
-1	Beim	bei	P	1	
-2	Frühstück	Frühstück	N	1	
-3	musste	müssen	V	1	
-4	ständig	ständig	G	1	
-5	auf	auf	P	1	
-6	fehlende	fehlend	G	1	
-7	Sachen	Sache	N	1	
-8	aufmerksam	aufmerksam	G	1	
-9	gemacht	machen	V	1	
-10	werden	werden	V	1	
-11	dies	dies	Q	1	
-12	sogar	sogar	A	1	
-13	merfach	merfach	O	1	
-14	.	.	O	1	
+1	Beim	bei	P	1	O
+2	Frühstück	Frühstück	N	1	O
+3	musste	müssen	V	1	O
+4	ständig	ständig	G	1	O
+5	auf	auf	P	1	O
+6	fehlende	fehlend	G	1	O
+7	Sachen	Sache	N	1	O
+8	aufmerksam	aufmerksam	G	1	O
+9	gemacht	machen	V	1	O
+10	werden	werden	V	1	O
+11	dies	dies	Q	1	O
+12	sogar	sogar	A	1	O
+13	merfach	merfach	O	1	O
+14	.	.	O	1	O
 

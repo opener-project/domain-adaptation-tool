@@ -1,145 +1,146 @@
-1	Might	may	O	1	
-2	be	be	V	1	
-3	ok	ok	N	1	
-4	for	for	P	1	
-5	some	some	D	1	
-6	,	,	O	1	
-7	but	but	C	1	
-8	not	not	A	1	
-9	for	for	P	1	
-10	me	me	Q	1	
+1	Might	may	O	1	O
+2	be	be	V	1	O
+3	ok	ok	N	1	O
+4	for	for	P	1	O
+5	some	some	D	1	O
+6	,	,	O	1	O
+7	but	but	C	1	O
+8	not	not	A	1	O
+9	for	for	P	1	O
+10	me	me	Q	1	O
 
-1	I	i	Q	1	
-2	understand	understand	V	1	
-3	that	that	P	1	
-4	in	in	P	1	
-5	the_Ukraine	the_Ukraine	R	1	ne=Location
-6	the	the	D	1	
-7	hotel	hotel	N	1	
-8	standards	standard	N	1	
-9	are	be	V	1	
-10	not	not	A	1	
-11	the	the	D	1	
-12	same	same	G	1	
-13	as	as	P	1	
-14	in	in	P	1	
-15	other	other	G	1	
-16	areas	area	N	1	
-17	in	in	P	1	
-18	the	the	D	1	
-19	world	world	N	1	
-20	and	and	C	1	
-21	this	this	D	1	
-22	hotel	hotel	N	1	
-23	might	may	O	1	
-24	be	be	V	1	
-25	a	a	D	1	
-26	good	good	N	1	
-27	option	option	N	1	
-28	in	in	P	1	
-29	this	this	D	1	
-30	category	category	N	1	
-31	,	,	O	1	
-32	but	but	C	1	
-33	we	we	Q	1	
-34	did	do	V	1	
-35	not	not	A	1	
-36	like	like	P	1	
-37	it	it	Q	1	
-38	.	.	O	1	
+1	I	i	Q	1	O
+2	understand	understand	V	1	O
+3	that	that	P	1	O
+4	in	in	P	1	O
+5	the	the	D	1	I-Location
+6	Ukraine	Ukraine	R	1	I-Location
+7	the	the	D	1	O
+8	hotel	hotel	N	1	O
+9	standards	standard	N	1	O
+10	are	be	V	1	O
+11	not	not	A	1	O
+12	the	the	D	1	O
+13	same	same	G	1	O
+14	as	as	P	1	O
+15	in	in	P	1	O
+16	other	other	G	1	O
+17	areas	area	N	1	O
+18	in	in	P	1	O
+19	the	the	D	1	O
+20	world	world	N	1	O
+21	and	and	C	1	O
+22	this	this	D	1	O
+23	hotel	hotel	N	1	O
+24	might	may	O	1	O
+25	be	be	V	1	O
+26	a	a	D	1	O
+27	good	good	N	1	O
+28	option	option	N	1	O
+29	in	in	P	1	O
+30	this	this	D	1	O
+31	category	category	N	1	O
+32	,	,	O	1	O
+33	but	but	C	1	O
+34	we	we	Q	1	O
+35	did	do	V	1	O
+36	not	not	A	1	O
+37	like	like	P	1	O
+38	it	it	Q	1	O
+39	.	.	O	1	O
 
-1	Next	next	G	1	
-2	time	time	N	1	
-3	i	i	N	1	
-4	would	would	O	1	
-5	spend	spend	V	1	
-6	the	the	D	1	
-7	extra	extra	G	1	
-8	money	money	N	1	
-9	and	and	C	1	
-10	stay	stay	V	1	
-11	in	in	P	1	
-12	a	a	D	1	
-13	better	good	G	1	
-14	one	one	O	1	
-15	.	.	O	1	
+1	Next	next	G	1	O
+2	time	time	N	1	O
+3	i	i	N	1	O
+4	would	would	O	1	O
+5	spend	spend	V	1	O
+6	the	the	D	1	O
+7	extra	extra	G	1	O
+8	money	money	N	1	O
+9	and	and	C	1	O
+10	stay	stay	V	1	O
+11	in	in	P	1	O
+12	a	a	D	1	O
+13	better	good	G	1	O
+14	one	one	O	1	O
+15	.	.	O	1	O
 
-1	If	if	P	1	
-2	you	you	Q	1	
-3	are	be	V	1	
-4	looking	look	V	1	
-5	at	at	P	1	
-6	the	the	D	1	
-7	"	"	G	1	
-8	budget	budget	N	1	
-9	"	"	N	1	
-10	hotel	hotel	N	1	
-11	and	and	C	1	
-12	you	you	Q	1	
-13	don	don	V	1	
-14	't	't	A	1	
-15	care	care	V	1	
-16	much	much	A	1	
-17	about	about	P	1	
-18	the	the	D	1	
-19	room	room	N	1	
-20	size	size	N	1	
-21	and	and	C	1	
-22	the	the	D	1	
-23	available	available	G	1	
-24	facilities	facility	N	1	
-25	,	,	O	1	
-26	then	then	A	1	
-27	this	this	D	1	
-28	hotel	hotel	N	1	
-29	might	may	O	1	
-30	be	be	V	1	
-31	an	a	D	1	
-32	option	option	N	1	
-33	for	for	P	1	
-34	you	you	Q	1	
-35	.	.	O	1	
+1	If	if	P	1	O
+2	you	you	Q	1	O
+3	are	be	V	1	O
+4	looking	look	V	1	O
+5	at	at	P	1	O
+6	the	the	D	1	O
+7	"	"	G	1	O
+8	budget	budget	N	1	O
+9	"	"	N	1	O
+10	hotel	hotel	N	1	O
+11	and	and	C	1	O
+12	you	you	Q	1	O
+13	don	don	V	1	O
+14	't	't	A	1	O
+15	care	care	V	1	O
+16	much	much	A	1	O
+17	about	about	P	1	O
+18	the	the	D	1	O
+19	room	room	N	1	O
+20	size	size	N	1	O
+21	and	and	C	1	O
+22	the	the	D	1	O
+23	available	available	G	1	O
+24	facilities	facility	N	1	O
+25	,	,	O	1	O
+26	then	then	A	1	O
+27	this	this	D	1	O
+28	hotel	hotel	N	1	O
+29	might	may	O	1	O
+30	be	be	V	1	O
+31	an	a	D	1	O
+32	option	option	N	1	O
+33	for	for	P	1	O
+34	you	you	Q	1	O
+35	.	.	O	1	O
 
-1	Donetsk	Donetsk	R	1	ne=Location
-2	is	be	V	1	
-3	not	not	A	1	
-4	a	a	D	1	
-5	tourist	tourist	N	1	
-6	destination	destination	N	1	
-7	and	and	C	1	
-8	the	the	D	1	
-9	choices	choice	N	1	
-10	are	be	V	1	
-11	limited	limited	G	1	
-12	.	.	O	1	
+1	Donetsk	Donetsk	R	1	I-Location
+2	is	be	V	1	O
+3	not	not	A	1	O
+4	a	a	D	1	O
+5	tourist	tourist	N	1	O
+6	destination	destination	N	1	O
+7	and	and	C	1	O
+8	the	the	D	1	O
+9	choices	choice	N	1	O
+10	are	be	V	1	O
+11	limited	limited	G	1	O
+12	.	.	O	1	O
 
-1	I	i	Q	1	
-2	did	do	V	1	
-3	like	like	P	1	
-4	the	the	D	1	
-5	way	way	N	1	
-6	they	they	Q	1	
-7	solved	solve	V	1	
-8	the	the	D	1	
-9	food	food	N	1	
-10	situation	situation	N	1	
-11	,	,	O	1	
-12	you	you	Q	1	
-13	basically	basically	A	1	
-14	get	get	V	1	
-15	a	a	D	1	
-16	budget	budget	N	1	
-17	you	you	Q	1	
-18	can	can	O	1	
-19	use	use	V	1	
-20	in	in	P	1	
-21	a	a	D	1	
-22	canine	canine	G	1	
-23	like	like	G	1	
-24	restaurant	restaurant	N	1	
-25	that	that	O	1	
-26	was	be	V	1	
-27	very	very	A	1	
-28	good	good	G	1	
-29	.	.	O	1	
+1	I	i	Q	1	O
+2	did	do	V	1	O
+3	like	like	P	1	O
+4	the	the	D	1	O
+5	way	way	N	1	O
+6	they	they	Q	1	O
+7	solved	solve	V	1	O
+8	the	the	D	1	O
+9	food	food	N	1	O
+10	situation	situation	N	1	O
+11	,	,	O	1	O
+12	you	you	Q	1	O
+13	basically	basically	A	1	O
+14	get	get	V	1	O
+15	a	a	D	1	O
+16	budget	budget	N	1	O
+17	you	you	Q	1	O
+18	can	can	O	1	O
+19	use	use	V	1	O
+20	in	in	P	1	O
+21	a	a	D	1	O
+22	canine	canine	G	1	O
+23	like	like	G	1	O
+24	restaurant	restaurant	N	1	O
+25	that	that	O	1	O
+26	was	be	V	1	O
+27	very	very	A	1	O
+28	good	good	G	1	O
+29	.	.	O	1	O
 

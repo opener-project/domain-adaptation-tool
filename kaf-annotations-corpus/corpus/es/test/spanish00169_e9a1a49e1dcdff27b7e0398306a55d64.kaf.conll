@@ -1,117 +1,117 @@
-1	El	El	R	1	
-2	rey	rey	N	1	
-3	Leon	Leon	R	1	
+1	El	El	R	1	O
+2	rey	rey	N	1	O
+3	Leon	Leon	R	1	O
 
-1	Estuvimos	estuvimos	N	1	
-2	en	en	P	1	
-3	el	el	N	1	
-4	hotel	hotel	N	1	
-5	Senator	Senator	R	1	
-6	,	,	O	1	
-7	21	21	O	1	
-8	de	de	P	1	
-9	Madrid	Madrid	R	1	
-10	,	,	O	1	
-11	los	los	V	1	
-12	días	días	N	1	
-13	23,24	23,24	O	1	
-14	y	y	G	1	
-15	25	25	O	1	
-16	de	de	P	1	
-17	noviembre	noviembre	G	1	
-18	de	de	P	1	
-19	2012	2012	O	1	
-20	.	.	O	1	
+1	Estuvimos	estuvimos	N	1	O
+2	en	en	P	1	O
+3	el	el	N	1	O
+4	hotel	hotel	N	1	O
+5	Senator	Senator	R	1	O
+6	,	,	O	1	O
+7	21	21	O	1	O
+8	de	de	P	1	O
+9	Madrid	Madrid	R	1	O
+10	,	,	O	1	O
+11	los	los	V	1	O
+12	días	días	N	1	O
+13	23,24	23,24	O	1	O
+14	y	y	G	1	O
+15	25	25	O	1	O
+16	de	de	P	1	O
+17	noviembre	noviembre	G	1	O
+18	de	de	P	1	O
+19	2012	2012	O	1	O
+20	.	.	O	1	O
 
-1	Un	un	G	1	
-2	fin	fin	N	1	
-3	de	de	P	1	
-4	semana	semana	N	1	
-5	dedicado	dedicado	V	1	
-6	a	a	D	1	
-7	ver	ver	A	1	
-8	el	el	G	1	
-9	espectáculo	espectáculo	O	1	
-10	del	del	O	1	
-11	rey	rey	O	1	
-12	león	león	O	1	
-13	y	y	A	1	
-14	a	a	D	1	
-15	descubir	descubir	O	1	
-16	la	la	O	1	
-17	ciudad	ciudad	O	1	
-18	.	.	O	1	
+1	Un	un	G	1	O
+2	fin	fin	N	1	O
+3	de	de	P	1	O
+4	semana	semana	N	1	O
+5	dedicado	dedicado	V	1	O
+6	a	a	D	1	O
+7	ver	ver	A	1	O
+8	el	el	G	1	O
+9	espectáculo	espectáculo	O	1	O
+10	del	del	O	1	O
+11	rey	rey	O	1	O
+12	león	león	O	1	O
+13	y	y	A	1	O
+14	a	a	D	1	O
+15	descubir	descubir	O	1	O
+16	la	la	O	1	O
+17	ciudad	ciudad	O	1	O
+18	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	encantador	encantador	N	1	
-4	,	,	O	1	
-5	en	en	O	1	
-6	el	el	O	1	
-7	centor	centor	O	1	
-8	de	de	O	1	
-9	la	la	O	1	
-10	Gran	Gran	R	1	
-11	Vía	Vía	R	1	
-12	Madrileña	Madrileña	R	1	
-13	,	,	O	1	
-14	todo	todo	N	1	
-15	un	un	G	1	
-16	lujo	lujo	N	1	
-17	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	encantador	encantador	N	1	O
+4	,	,	O	1	O
+5	en	en	O	1	O
+6	el	el	O	1	O
+7	centor	centor	O	1	O
+8	de	de	O	1	O
+9	la	la	O	1	O
+10	Gran	Gran	R	1	O
+11	Vía	Vía	R	1	O
+12	Madrileña	Madrileña	R	1	O
+13	,	,	O	1	O
+14	todo	todo	N	1	O
+15	un	un	G	1	O
+16	lujo	lujo	N	1	O
+17	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	N	1	
-3	perfectas	perfectas	V	1	
-4	,	,	O	1	
-5	muy	muy	G	1	
-6	calentitas	calentitas	N	1	
-7	y	y	G	1	
-8	con	con	N	1	
-9	todas	todas	N	1	
-10	las	las	V	1	
-11	comodidades	comodidades	N	1	
-12	,	,	O	1	
-13	con	con	A	1	
-14	cafetera	cafetera	N	1	
-15	,	,	O	1	
-16	equipo	equipo	N	1	
-17	de	de	P	1	
-18	música	música	N	1	
-19	,	,	O	1	
-20	almohadas	almohadas	A	1	
-21	a	a	D	1	
-22	elegir	elegir	N	1	
-23	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	N	1	O
+3	perfectas	perfectas	V	1	O
+4	,	,	O	1	O
+5	muy	muy	G	1	O
+6	calentitas	calentitas	N	1	O
+7	y	y	G	1	O
+8	con	con	N	1	O
+9	todas	todas	N	1	O
+10	las	las	V	1	O
+11	comodidades	comodidades	N	1	O
+12	,	,	O	1	O
+13	con	con	A	1	O
+14	cafetera	cafetera	N	1	O
+15	,	,	O	1	O
+16	equipo	equipo	N	1	O
+17	de	de	P	1	O
+18	música	música	N	1	O
+19	,	,	O	1	O
+20	almohadas	almohadas	A	1	O
+21	a	a	D	1	O
+22	elegir	elegir	N	1	O
+23	.	.	O	1	O
 
-1	El	El	R	1	
-2	trato	trato	N	1	
-3	del	del	O	1	
-4	personal	personal	G	1	
-5	del	del	N	1	
-6	hotel	hotel	N	1	
-7	EXCELENTE	EXCELENTE	N	1	
-8	.	.	O	1	
+1	El	El	R	1	O
+2	trato	trato	N	1	O
+3	del	del	O	1	O
+4	personal	personal	G	1	O
+5	del	del	N	1	O
+6	hotel	hotel	N	1	O
+7	EXCELENTE	EXCELENTE	N	1	O
+8	.	.	O	1	O
 
-1	El	El	R	1	
-2	bufet	bufet	N	1	
-3	rico	rico	N	1	
-4	todo	todo	N	1	
-5	,	,	O	1	
-6	pero	pero	O	1	
-7	poco	poco	O	1	
-8	variado	variado	O	1	
-9	,	,	O	1	
-10	deberían	deberían	O	1	
-11	de	de	O	1	
-12	tener	tener	N	1	
-13	más	más	N	1	
-14	variedades	variedades	V	1	
-15	para	para	G	1	
-16	un	un	G	1	
-17	hotel	hotel	N	1	
-18	de	de	P	1	
-19	esa	esa	N	1	
-20	categoría	categoría	N	1	
-21	.	.	O	1	
+1	El	El	R	1	O
+2	bufet	bufet	N	1	O
+3	rico	rico	N	1	O
+4	todo	todo	N	1	O
+5	,	,	O	1	O
+6	pero	pero	O	1	O
+7	poco	poco	O	1	O
+8	variado	variado	O	1	O
+9	,	,	O	1	O
+10	deberían	deberían	O	1	O
+11	de	de	O	1	O
+12	tener	tener	N	1	O
+13	más	más	N	1	O
+14	variedades	variedades	V	1	O
+15	para	para	G	1	O
+16	un	un	G	1	O
+17	hotel	hotel	N	1	O
+18	de	de	P	1	O
+19	esa	esa	N	1	O
+20	categoría	categoría	N	1	O
+21	.	.	O	1	O
 

@@ -1,42 +1,42 @@
-1	Excelente	Excelente	R	1	
-2	hotel	hotel	N	1	
+1	Excelente	Excelente	R	1	O
+2	hotel	hotel	N	1	O
 
-1	Muy	muy	G	1	
-2	buen	buen	N	1	
-3	servicio	servicio	N	1	
-4	,	,	O	1	
-5	la	la	D	1	
-6	pasamos	pasamos	N	1	
-7	increible	increible	G	1	
-8	.	.	O	1	
+1	Muy	muy	G	1	O
+2	buen	buen	N	1	O
+3	servicio	servicio	N	1	O
+4	,	,	O	1	O
+5	la	la	D	1	O
+6	pasamos	pasamos	N	1	O
+7	increible	increible	G	1	O
+8	.	.	O	1	O
 
-1	muy	muy	G	1	
-2	recomendado	recomendado	N	1	
-3	,	,	O	1	
-4	durante	durante	G	1	
-5	l	l	N	1	
-6	dia	dia	N	1	
-7	visité	visité	O	1	
-8	varios	varios	O	1	
-9	de	de	O	1	
-10	los	los	O	1	
-11	destinos	destinos	O	1	
-12	cercanos	cercanos	N	1	
-13	al	al	G	1	
-14	hotel	hotel	N	1	
-15	y	y	A	1	
-16	en	en	P	1	
-17	las	las	N	1	
-18	noches	noches	N	1	
-19	enconte	enconte	V	1	
-20	varios	varios	N	1	
-21	lugares	lugares	N	1	
-22	para	para	N	1	
-23	salir	salir	N	1	
-24	...	...	O	1	
-25	las	las	N	1	
-26	instalaciones	instalaciones	N	1	
-27	son	son	N	1	
-28	muy	muy	A	1	
-29	buenas	buenas	V	1	
+1	muy	muy	G	1	O
+2	recomendado	recomendado	N	1	O
+3	,	,	O	1	O
+4	durante	durante	G	1	O
+5	l	l	N	1	O
+6	dia	dia	N	1	O
+7	visité	visité	O	1	O
+8	varios	varios	O	1	O
+9	de	de	O	1	O
+10	los	los	O	1	O
+11	destinos	destinos	O	1	O
+12	cercanos	cercanos	N	1	O
+13	al	al	G	1	O
+14	hotel	hotel	N	1	O
+15	y	y	A	1	O
+16	en	en	P	1	O
+17	las	las	N	1	O
+18	noches	noches	N	1	O
+19	enconte	enconte	V	1	O
+20	varios	varios	N	1	O
+21	lugares	lugares	N	1	O
+22	para	para	N	1	O
+23	salir	salir	N	1	O
+24	...	...	O	1	O
+25	las	las	N	1	O
+26	instalaciones	instalaciones	N	1	O
+27	son	son	N	1	O
+28	muy	muy	A	1	O
+29	buenas	buenas	V	1	O
 

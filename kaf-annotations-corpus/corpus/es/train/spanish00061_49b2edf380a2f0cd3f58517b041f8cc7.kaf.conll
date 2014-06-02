@@ -1,103 +1,103 @@
-1	Nada	Nada	R	1	
-2	del	del	D	1	
-3	otro	otro	G	1	
-4	mundo	mundo	N	1	
-5	.	.	O	1	
+1	Nada	Nada	R	1	O
+2	del	del	D	1	O
+3	otro	otro	G	1	O
+4	mundo	mundo	N	1	O
+5	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	,	,	O	1	
-4	en	en	P	1	
-5	términos	términos	N	1	
-6	generales	generales	N	1	
-7	,	,	O	1	
-8	no	no	D	1	
-9	estaba	estaba	N	1	
-10	tan	tan	G	1	
-11	mal	mal	N	1	
-12	;	;	O	1	
-13	total	total	N	1	
-14	,	,	O	1	
-15	para	para	N	1	
-16	el	el	N	1	
-17	mínimo	mínimo	N	1	
-18	tiempo	tiempo	O	1	
-19	que	que	N	1	
-20	pasabamos	pasabamos	N	1	
-21	allí	allí	N	1	
-22	...	...	O	1	
-23	Buscabamos	Buscabamos	R	1	
-24	uno	uno	G	1	
-25	más	más	N	1	
-26	o	o	A	1	
-27	menos	menos	N	1	
-28	céntrico	céntrico	V	1	
-29	y	y	G	1	
-30	cerca	cerca	N	1	
-31	del	del	V	1	
-32	metro	metro	N	1	
-33	y	y	G	1	
-34	bueno	bueno	N	1	
-35	,	,	O	1	
-36	eso	eso	N	1	
-37	sí	sí	N	1	
-38	lo	lo	N	1	
-39	cumplía	cumplía	N	1	
-40	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	,	,	O	1	O
+4	en	en	P	1	O
+5	términos	términos	N	1	O
+6	generales	generales	N	1	O
+7	,	,	O	1	O
+8	no	no	D	1	O
+9	estaba	estaba	N	1	O
+10	tan	tan	G	1	O
+11	mal	mal	N	1	O
+12	;	;	O	1	O
+13	total	total	N	1	O
+14	,	,	O	1	O
+15	para	para	N	1	O
+16	el	el	N	1	O
+17	mínimo	mínimo	N	1	O
+18	tiempo	tiempo	O	1	O
+19	que	que	N	1	O
+20	pasabamos	pasabamos	N	1	O
+21	allí	allí	N	1	O
+22	...	...	O	1	O
+23	Buscabamos	Buscabamos	R	1	O
+24	uno	uno	G	1	O
+25	más	más	N	1	O
+26	o	o	A	1	O
+27	menos	menos	N	1	O
+28	céntrico	céntrico	V	1	O
+29	y	y	G	1	O
+30	cerca	cerca	N	1	O
+31	del	del	V	1	O
+32	metro	metro	N	1	O
+33	y	y	G	1	O
+34	bueno	bueno	N	1	O
+35	,	,	O	1	O
+36	eso	eso	N	1	O
+37	sí	sí	N	1	O
+38	lo	lo	N	1	O
+39	cumplía	cumplía	N	1	O
+40	.	.	O	1	O
 
-1	Eramos	eramos	N	1	
-2	tres	tres	N	1	
-3	en	en	P	1	
-4	una	una	G	1	
-5	habitación	habitación	N	1	
-6	y	y	A	1	
-7	la	la	D	1	
-8	verdad	verdad	N	1	
-9	es	es	V	1	
-10	que	que	G	1	
-11	se	se	N	1	
-12	quedaba	quedaba	O	1	
-13	BASTANTE	BASTANTE	R	1	
-14	pequeña	pequeña	N	1	
-15	.	.	O	1	
+1	Eramos	eramos	N	1	O
+2	tres	tres	N	1	O
+3	en	en	P	1	O
+4	una	una	G	1	O
+5	habitación	habitación	N	1	O
+6	y	y	A	1	O
+7	la	la	D	1	O
+8	verdad	verdad	N	1	O
+9	es	es	V	1	O
+10	que	que	G	1	O
+11	se	se	N	1	O
+12	quedaba	quedaba	O	1	O
+13	BASTANTE	BASTANTE	R	1	O
+14	pequeña	pequeña	N	1	O
+15	.	.	O	1	O
 
-1	La	La	R	1	
-2	ducha	ducha	N	1	
-3	..	..	O	1	
-4	sin	sin	N	1	
-5	comentarios	comentarios	N	1	
-6	...	...	O	1	
-7	no	no	D	1	
-8	te	te	N	1	
-9	podías	podías	N	1	
-10	ni	ni	G	1	
-11	agachar	agachar	A	1	
-12	porque	porque	G	1	
-13	era	era	N	1	
-14	enana	enana	N	1	
-15	.	.	O	1	
+1	La	La	R	1	O
+2	ducha	ducha	N	1	O
+3	..	..	O	1	O
+4	sin	sin	N	1	O
+5	comentarios	comentarios	N	1	O
+6	...	...	O	1	O
+7	no	no	D	1	O
+8	te	te	N	1	O
+9	podías	podías	N	1	O
+10	ni	ni	G	1	O
+11	agachar	agachar	A	1	O
+12	porque	porque	G	1	O
+13	era	era	N	1	O
+14	enana	enana	N	1	O
+15	.	.	O	1	O
 
-1	En	En	R	1	
-2	el	el	N	1	
-3	comedor	comedor	O	1	
-4	se	se	O	1	
-5	tardaba	tardaba	O	1	
-6	bastante	bastante	O	1	
-7	en	en	O	1	
-8	limpiar	limpiar	O	1	
-9	los	los	O	1	
-10	restos	restos	O	1	
-11	de	de	O	1	
-12	los	los	O	1	
-13	demás	demás	O	1	
-14	huéspedes	huéspedes	O	1	
-15	porque	porque	O	1	
-16	apenas	apenas	O	1	
-17	había	había	O	1	
-18	personal	personal	O	1	
-19	a	a	D	1	
-20	cargo	cargo	N	1	
-21	por	por	N	1	
-22	allí	allí	N	1	
-23	.	.	O	1	
+1	En	En	R	1	O
+2	el	el	N	1	O
+3	comedor	comedor	O	1	O
+4	se	se	O	1	O
+5	tardaba	tardaba	O	1	O
+6	bastante	bastante	O	1	O
+7	en	en	O	1	O
+8	limpiar	limpiar	O	1	O
+9	los	los	O	1	O
+10	restos	restos	O	1	O
+11	de	de	O	1	O
+12	los	los	O	1	O
+13	demás	demás	O	1	O
+14	huéspedes	huéspedes	O	1	O
+15	porque	porque	O	1	O
+16	apenas	apenas	O	1	O
+17	había	había	O	1	O
+18	personal	personal	O	1	O
+19	a	a	D	1	O
+20	cargo	cargo	N	1	O
+21	por	por	N	1	O
+22	allí	allí	N	1	O
+23	.	.	O	1	O
 

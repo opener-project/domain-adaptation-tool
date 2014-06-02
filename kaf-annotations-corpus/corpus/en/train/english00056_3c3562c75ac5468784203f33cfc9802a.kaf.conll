@@ -1,101 +1,101 @@
-1	Very	Very	R	1	
-2	welcoming	welcome	V	1	
-3	!	!	O	1	
+1	Very	Very	R	1	O
+2	welcoming	welcome	V	1	O
+3	!	!	O	1	O
 
-1	The	the	D	1	
-2	hotel	hotel	N	1	
-3	has	have	V	1	
-4	ample	ample	G	1	
-5	parking	parking	N	1	
-6	,	,	O	1	
-7	and	and	C	1	
-8	a	a	D	1	
-9	great	great	G	1	
-10	lobby	lobby	N	1	
-11	.	.	O	1	
+1	The	the	D	1	O
+2	hotel	hotel	N	1	O
+3	has	have	V	1	O
+4	ample	ample	G	1	O
+5	parking	parking	N	1	O
+6	,	,	O	1	O
+7	and	and	C	1	O
+8	a	a	D	1	O
+9	great	great	G	1	O
+10	lobby	lobby	N	1	O
+11	.	.	O	1	O
 
-1	The	the	D	1	
-2	rooms	room	N	1	
-3	were	be	V	1	
-4	clean	clean	G	1	
-5	and	and	C	1	
-6	comfortable	comfortable	G	1	
-7	;	;	O	1	
-8	the	the	D	1	
-9	staff	staff	N	1	
-10	very	very	A	1	
-11	attentive	attentive	G	1	
-12	.	.	O	1	
+1	The	the	D	1	O
+2	rooms	room	N	1	O
+3	were	be	V	1	O
+4	clean	clean	G	1	O
+5	and	and	C	1	O
+6	comfortable	comfortable	G	1	O
+7	;	;	O	1	O
+8	the	the	D	1	O
+9	staff	staff	N	1	O
+10	very	very	A	1	O
+11	attentive	attentive	G	1	O
+12	.	.	O	1	O
 
-1	Although	although	P	1	
-2	we	we	Q	1	
-3	stayed	stay	V	1	
-4	at	at	P	1	
-5	a	a	D	1	
-6	very	very	A	1	
-7	busy	busy	G	1	
-8	time	time	N	1	
-9	(	(	O	1	
-10	the	the	D	1	
-11	last	last	G	1	
-12	few	few	G	1	
-13	days	day	N	1	
-14	of	of	P	1	
-15	Octoberfest	Octoberfest	R	1	ne=Attraction
-16	)	)	O	1	
-17	,	,	O	1	
-18	the	the	D	1	
-19	staff	staff	N	1	
-20	paid	pay	V	1	
-21	attention	attention	N	1	
-22	to	to	P	1	
-23	detail	detail	N	1	
-24	and	and	C	1	
-25	we	we	Q	1	
-26	felt	feel	V	1	
-27	very	very	A	1	
-28	welcome	welcome	G	1	
-29	.	.	O	1	
+1	Although	although	P	1	O
+2	we	we	Q	1	O
+3	stayed	stay	V	1	O
+4	at	at	P	1	O
+5	a	a	D	1	O
+6	very	very	A	1	O
+7	busy	busy	G	1	O
+8	time	time	N	1	O
+9	(	(	O	1	O
+10	the	the	D	1	O
+11	last	last	G	1	O
+12	few	few	G	1	O
+13	days	day	N	1	O
+14	of	of	P	1	O
+15	Octoberfest	Octoberfest	R	1	I-Attraction
+16	)	)	O	1	O
+17	,	,	O	1	O
+18	the	the	D	1	O
+19	staff	staff	N	1	O
+20	paid	pay	V	1	O
+21	attention	attention	N	1	O
+22	to	to	P	1	O
+23	detail	detail	N	1	O
+24	and	and	C	1	O
+25	we	we	Q	1	O
+26	felt	feel	V	1	O
+27	very	very	A	1	O
+28	welcome	welcome	G	1	O
+29	.	.	O	1	O
 
-1	Make	make	V	1	
-2	sure	sure	G	1	
-3	to	to	P	1	
-4	go	go	V	1	
-5	downstairs	downstairs	N	1	
-6	for	for	P	1	
-7	a	a	D	1	
-8	nice	nice	G	1	
-9	breakfast	breakfast	N	1	
-10	;	;	O	1	
-11	the	the	D	1	
-12	buffet	buffet	N	1	
-13	had	have	V	1	
-14	a	a	D	1	
-15	fantastic	fantastic	G	1	
-16	healthy	healthy	G	1	
-17	selection	selection	N	1	
-18	!	!	O	1	
+1	Make	make	V	1	O
+2	sure	sure	G	1	O
+3	to	to	P	1	O
+4	go	go	V	1	O
+5	downstairs	downstairs	N	1	O
+6	for	for	P	1	O
+7	a	a	D	1	O
+8	nice	nice	G	1	O
+9	breakfast	breakfast	N	1	O
+10	;	;	O	1	O
+11	the	the	D	1	O
+12	buffet	buffet	N	1	O
+13	had	have	V	1	O
+14	a	a	D	1	O
+15	fantastic	fantastic	G	1	O
+16	healthy	healthy	G	1	O
+17	selection	selection	N	1	O
+18	!	!	O	1	O
 
-1	Make	make	V	1	
-2	sure	sure	G	1	
-3	to	to	P	1	
-4	unload	unload	V	1	
-5	your	your	Q	1	
-6	luggage	luggage	N	1	
-7	at	at	P	1	
-8	the	the	D	1	
-9	entrance	entrance	N	1	
-10	,	,	O	1	
-11	as	as	P	1	
-12	there	there	O	1	
-13	is	be	V	1	
-14	a	a	D	1	
-15	set	set	N	1	
-16	of	of	P	1	
-17	stairs	stair	N	1	
-18	from	from	P	1	
-19	the	the	D	1	
-20	parking	parking	N	1	
-21	lot	lot	N	1	
-22	.	.	O	1	
+1	Make	make	V	1	O
+2	sure	sure	G	1	O
+3	to	to	P	1	O
+4	unload	unload	V	1	O
+5	your	your	Q	1	O
+6	luggage	luggage	N	1	O
+7	at	at	P	1	O
+8	the	the	D	1	O
+9	entrance	entrance	N	1	O
+10	,	,	O	1	O
+11	as	as	P	1	O
+12	there	there	O	1	O
+13	is	be	V	1	O
+14	a	a	D	1	O
+15	set	set	N	1	O
+16	of	of	P	1	O
+17	stairs	stair	N	1	O
+18	from	from	P	1	O
+19	the	the	D	1	O
+20	parking	parking	N	1	O
+21	lot	lot	N	1	O
+22	.	.	O	1	O
 

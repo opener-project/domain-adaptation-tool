@@ -1,212 +1,238 @@
-1	5	5	D	1	
-2	raisons	raison	N	1	
-3	d’	d’	P	1	
-4	aller	aller	V	1	
-5	avec	avec	P	1	
-6	bébé	bébé	N	1	
-7	à	à	P	1	
-8	l’	l’	D	1	
-9	AliBey_Resort_Side	AliBey_Resort_Side	R	1	ne=Hotel
+1	5	5	D	1	O
+2	raisons	raison	N	1	O
+3	d’	d’	P	1	O
+4	aller	aller	V	1	O
+5	avec	avec	P	1	O
+6	bébé	bébé	N	1	O
+7	à	à	P	1	O
+8	l’	l’	D	1	O
+9	AliBey	AliBey	N	1	I-Hotel
+10	Resort	Resort	V	1	I-Hotel
+11	Side	Side	N	1	I-Hotel
 
-1	Amoureuse	amoureux	N	1	
-2	des	un	D	1	
-3	circuits	circuit	N	1	
-4	individuels	individuel	G	1	
-5	en	en	P	1	
-6	hébergement	hébergement	N	1	
-7	de	de	P	1	
-8	charme	charme	N	1	
-9	,	,	O	1	
-10	je	je	Q	1	
-11	m’	m’	Q	1	
-12	étais	être	V	1	
-13	toujours	toujours	G	1	
-14	dit	dire	V	1	
-15	que	que	C	1	
-16	jamais	jamais	G	1	
-17	je	je	Q	1	
-18	n’	n’	G	1	
-19	irais	irais	G	1	
-20	dans	dans	P	1	
-21	un	un	D	1	
-22	hôtel	hôtel	N	1	
-23	en	en	P	1	
-24	all	all	N	1	
-25	·	·	O	1	
-26	in	in	O	1	
-27	en	en	P	1	
-28	Turquie	Turquie	R	1	ne=Location
-29	.	.	O	1	
+1	Amoureuse	amoureux	N	1	O
+2	des	un	D	1	O
+3	circuits	circuit	N	1	O
+4	individuels	individuel	G	1	O
+5	en	en	P	1	O
+6	hébergement	hébergement	N	1	O
+7	de	de	P	1	O
+8	charme	charme	N	1	O
+9	,	,	O	1	O
+10	je	je	Q	1	O
+11	m’	m’	Q	1	O
+12	étais	être	V	1	O
+13	toujours	toujours	G	1	O
+14	dit	dire	V	1	O
+15	que	que	C	1	O
+16	jamais	jamais	G	1	O
+17	je	je	Q	1	O
+18	n’	n’	G	1	O
+19	irais	irais	G	1	O
+20	dans	dans	P	1	O
+21	un	un	D	1	O
+22	hôtel	hôtel	N	1	O
+23	en	en	P	1	O
+24	all	all	N	1	O
+25	·	·	O	1	O
+26	in	in	O	1	O
+27	en	en	P	1	O
+28	Turquie	Turquie	R	1	I-Location
+29	.	.	O	1	O
 
-1	Après	Après	P	1	
-2	analyse	analyse	N	1	
-3	approfondie	approfondi	G	1	
-4	de	de	P	1	
-5	l’	l’	D	1	
-6	offre	offre	N	1	
-7	hôtelière	hôtelier	G	1	
-8	,	,	O	1	
-9	il	il	Q	1	
-10	a	avoir	V	1	
-11	bien	bien	G	1	
-12	fallu	falloir	V	1	
-13	se	se	Q	1	
-14	rendre	rendre	V	1	
-15	à	à	P	1	
-16	l’	l’	D	1	
-17	évidence	évidence	N	1	
-18	…	…	V	1	
-19	La_Turquie	le_Turquie	R	1	ne=Location
-20	figure	figurer	V	1	
-21	parmi	parmi	P	1	
-22	les	le	D	1	
-23	très	très	G	1	
-24	très	très	G	1	
-25	bons	bon	G	1	
-26	élèves	élève	N	1	
-27	en	en	P	1	
-28	matière	matière	N	1	
-29	d’	d’	P	1	
-30	infrastructure	infrastructure	N	1	
-31	adaptée	adapter	V	1	
-32	pour	pour	P	1	
-33	les	le	D	1	
-34	enfants	enfant	N	1	
-35	en	en	P	1	
-36	bas	bas	G	1	
-37	âge	âge	N	1	
-38	,	,	O	1	
-39	avec	avec	P	1	
-40	en	en	P	1	
-41	tête	tête	N	1	
-42	de	de	P	1	
-43	peloton	peloton	N	1	
-44	l’	l’	N	1	
-45	Ali_Bey_Resort_Side_(_*_*_*_*_*	Ali_bey_Resort_Side_(_*_*_*_*_*	R	1	ne=Hotel
-46	)	)	O	1	
-47	.	.	O	1	
+1	Après	Après	P	1	O
+2	analyse	analyse	N	1	O
+3	approfondie	approfondi	G	1	O
+4	de	de	P	1	O
+5	l’	l’	D	1	O
+6	offre	offre	N	1	O
+7	hôtelière	hôtelier	G	1	O
+8	,	,	O	1	O
+9	il	il	Q	1	O
+10	a	avoir	V	1	O
+11	bien	bien	G	1	O
+12	fallu	falloir	V	1	O
+13	se	se	Q	1	O
+14	rendre	rendre	V	1	O
+15	à	à	P	1	O
+16	l’	l’	D	1	O
+17	évidence	évidence	N	1	O
+18	…	…	V	1	O
+19	La	le	D	1	I-Location
+20	Turquie	Turquie	N	1	I-Location
+21	figure	figurer	V	1	O
+22	parmi	parmi	P	1	O
+23	les	le	D	1	O
+24	très	très	G	1	O
+25	très	très	G	1	O
+26	bons	bon	G	1	O
+27	élèves	élève	N	1	O
+28	en	en	P	1	O
+29	matière	matière	N	1	O
+30	d’	d’	P	1	O
+31	infrastructure	infrastructure	N	1	O
+32	adaptée	adapter	V	1	O
+33	pour	pour	P	1	O
+34	les	le	D	1	O
+35	enfants	enfant	N	1	O
+36	en	en	P	1	O
+37	bas	bas	G	1	O
+38	âge	âge	N	1	O
+39	,	,	O	1	O
+40	avec	avec	P	1	O
+41	en	en	P	1	O
+42	tête	tête	N	1	O
+43	de	de	P	1	O
+44	peloton	peloton	N	1	O
+45	l’	l’	N	1	O
+46	Ali	Ali	N	1	I-Hotel
+47	Bey	bey	N	1	I-Hotel
+48	Resort	Resort	N	1	I-Hotel
+49	Side	Side	N	1	I-Hotel
+50	(	(	O	1	I-Hotel
+51	*	*	N	1	I-Hotel
+52	*	*	N	1	I-Hotel
+53	*	*	N	1	I-Hotel
+54	*	*	N	1	I-Hotel
+55	*	*	N	1	I-Hotel
+56	)	)	O	1	O
+57	.	.	O	1	O
 
-1	Les	le	D	1	
-2	5	5	D	1	
-3	atouts	atout	N	1	
-4	de	de	P	1	
-5	l'	le	D	1	
-6	Ali_Bey_Resort_Side	Ali_bey_Resort_Side	R	1	ne=Hotel
-7	:	:	O	1	
+1	Les	le	D	1	O
+2	5	5	D	1	O
+3	atouts	atout	N	1	O
+4	de	de	P	1	O
+5	l'	le	D	1	O
+6	Ali	Ali	N	1	I-Hotel
+7	Bey	bey	N	1	I-Hotel
+8	Resort	Resort	V	1	I-Hotel
+9	Side	Side	N	1	I-Hotel
+10	:	:	O	1	O
 
-1	·	·	N	1	
-2	Service	service	N	1	
-3	irréprochable	irréprochable	G	1	
+1	·	·	N	1	O
+2	Service	service	N	1	O
+3	irréprochable	irréprochable	G	1	O
 
-1	·	·	P	1	
-2	Activités	activité	N	1	
-3	–	–	P	1	
-4	Animation	animation	N	1	
-5	pour	pour	P	1	
-6	enfants	enfant	N	1	
+1	·	·	P	1	O
+2	Activités	activité	N	1	O
+3	–	–	P	1	O
+4	Animation	animation	N	1	O
+5	pour	pour	P	1	O
+6	enfants	enfant	N	1	O
 
-1	·	·	P	1	
-2	Alimentation	alimentation	N	1	
-3	variée	varier	G	1	
-4	et	et	C	1	
-5	savoureuse	savoureux	G	1	
+1	·	·	P	1	O
+2	Alimentation	alimentation	N	1	O
+3	variée	varier	G	1	O
+4	et	et	C	1	O
+5	savoureuse	savoureux	G	1	O
 
-1	·	·	O	1	
-2	Environnement	Environnement	G	1	
-3	verdoyant	verdoyant	G	1	
-4	et	et	C	1	
-5	calme	calme	G	1	
+1	·	·	O	1	O
+2	Environnement	Environnement	G	1	O
+3	verdoyant	verdoyant	G	1	O
+4	et	et	C	1	O
+5	calme	calme	G	1	O
 
-1	·	·	P	1	
-2	Infrastructure	infrastructure	N	1	
-3	de	de	P	1	
-4	qualité	qualité	N	1	
-5	et	et	C	1	
-6	matériel	matériel	N	1	
-7	pour	pour	P	1	
-8	bébés	bébé	N	1	
-9	à	à	P	1	
-10	disposition	disposition	N	1	
+1	·	·	P	1	O
+2	Infrastructure	infrastructure	N	1	O
+3	de	de	P	1	O
+4	qualité	qualité	N	1	O
+5	et	et	C	1	O
+6	matériel	matériel	N	1	O
+7	pour	pour	P	1	O
+8	bébés	bébé	N	1	O
+9	à	à	P	1	O
+10	disposition	disposition	N	1	O
 
-1	L'_Ali_Bey_Resort_Side_(_*_*_*_*_*_)	le_Ali_bey_Resort_Side_(_*_*_*_*_*_)	R	1	ne=Hotel
-2	est	être	V	1	
-3	un	un	D	1	
-4	club	club	N	1	
-5	familial	familial	G	1	
-6	où	où	P	1	
-7	on	on	Q	1	
-8	ne	ne	G	1	
-9	cherche	chercher	V	1	
-10	pas	pas	G	1	
-11	juste	juste	G	1	
-12	à	à	P	1	
-13	satisfaire	satisfaire	V	1	
-14	le	le	D	1	
-15	client	client	N	1	
-16	,	,	O	1	
-17	on	on	Q	1	
-18	veut	vouloir	V	1	
-19	qu’	qu’	C	1	
-20	il	il	Q	1	
-21	soit	être	V	1	
-22	ravi	ravir	G	1	
-23	(	(	O	1	
-24	‘	‘	P	1	
-25	delighted	delighted	D	1	
-26	’	’	N	1	
-27	)	)	O	1	
-28	et	et	C	1	
-29	c’	c’	N	1	
-30	est	être	V	1	
-31	plutôt	plutôt	G	1	
-32	réussi	réussir	V	1	
-33	.	.	O	1	
+1	L'	le	D	1	I-Hotel
+2	Ali	Ali	N	1	I-Hotel
+3	Bey	bey	N	1	I-Hotel
+4	Resort	Resort	N	1	I-Hotel
+5	Side	Side	N	1	I-Hotel
+6	(	(	O	1	I-Hotel
+7	*	*	N	1	I-Hotel
+8	*	*	N	1	I-Hotel
+9	*	*	N	1	I-Hotel
+10	*	*	N	1	I-Hotel
+11	*	*	N	1	I-Hotel
+12	)	)	O	1	I-Hotel
+13	est	être	V	1	O
+14	un	un	D	1	O
+15	club	club	N	1	O
+16	familial	familial	G	1	O
+17	où	où	P	1	O
+18	on	on	Q	1	O
+19	ne	ne	G	1	O
+20	cherche	chercher	V	1	O
+21	pas	pas	G	1	O
+22	juste	juste	G	1	O
+23	à	à	P	1	O
+24	satisfaire	satisfaire	V	1	O
+25	le	le	D	1	O
+26	client	client	N	1	O
+27	,	,	O	1	O
+28	on	on	Q	1	O
+29	veut	vouloir	V	1	O
+30	qu’	qu’	C	1	O
+31	il	il	Q	1	O
+32	soit	être	V	1	O
+33	ravi	ravir	G	1	O
+34	(	(	O	1	O
+35	‘	‘	P	1	O
+36	delighted	delighted	D	1	O
+37	’	’	N	1	O
+38	)	)	O	1	O
+39	et	et	C	1	O
+40	c’	c’	N	1	O
+41	est	être	V	1	O
+42	plutôt	plutôt	G	1	O
+43	réussi	réussir	V	1	O
+44	.	.	O	1	O
 
-1	Voir	Voir	N	1	
-2	avis	avis	N	1	
-3	détaillé	détailler	V	1	
-4	sur	sur	P	1	
-5	:	:	D	1	
-6	http	http	N	1	
-7	:	:	O	1	
-8	/	/	C	1	
-9	/	/	O	1	
-10	www.routard.com	www.routard.com	N	1	
-11	/	/	O	1	
-12	forum	forum	N	1	
-13	_	_	N	1	
-14	message	message	V	1	
-15	/	/	O	1	
-16	3422550	3422550	D	1	
-17	/	/	O	1	
-18	5	5	D	1	
-19	_	_	G	1	
-20	raisons	raisons	G	1	
-21	_	_	N	1	
-22	de	de	P	1	
-23	_	_	N	1	
-24	sejourner	sejourner	P	1	
-25	_	_	N	1	
-26	avec	avec	P	1	
-27	_	_	N	1	
-28	votre	son	D	1	
-29	_	_	N	1	
-30	bebe	bebe	G	1	
-31	_	_	O	1	
-32	a	avoir	V	1	
-33	_	_	V	1	
-34	l	l	D	1	
-35	_	_	N	1	
-36	ali	ali	G	1	
-37	_	_	P	1	
-38	bey	bey	N	1	
-39	_	_	G	1	
-40	resort	resort	N	1	
-41	_	_	G	1	
-42	side	side	V	1	
-43	_	_	D	1	
-44	%	pourcent	N	1	
-45	28turquie	28turquie	D	1	
-46	%	pourcent	N	1	
-47	29.htm	29.htm	O	1	
+1	Voir	Voir	N	1	O
+2	avis	avis	N	1	O
+3	détaillé	détailler	V	1	O
+4	sur	sur	P	1	O
+5	:	:	D	1	O
+6	http	http	N	1	O
+7	:	:	O	1	O
+8	/	/	C	1	O
+9	/	/	O	1	O
+10	www.routard.com	www.routard.com	N	1	O
+11	/	/	O	1	O
+12	forum	forum	N	1	O
+13	_	_	N	1	O
+14	message	message	V	1	O
+15	/	/	O	1	O
+16	3422550	3422550	D	1	O
+17	/	/	O	1	O
+18	5	5	D	1	O
+19	_	_	G	1	O
+20	raisons	raisons	G	1	O
+21	_	_	N	1	O
+22	de	de	P	1	O
+23	_	_	N	1	O
+24	sejourner	sejourner	P	1	O
+25	_	_	N	1	O
+26	avec	avec	P	1	O
+27	_	_	N	1	O
+28	votre	son	D	1	O
+29	_	_	N	1	O
+30	bebe	bebe	G	1	O
+31	_	_	O	1	O
+32	a	avoir	V	1	O
+33	_	_	V	1	O
+34	l	l	D	1	O
+35	_	_	N	1	O
+36	ali	ali	G	1	O
+37	_	_	P	1	O
+38	bey	bey	N	1	O
+39	_	_	G	1	O
+40	resort	resort	N	1	O
+41	_	_	G	1	O
+42	side	side	V	1	O
+43	_	_	D	1	O
+44	%	pourcent	N	1	O
+45	28turquie	28turquie	D	1	O
+46	%	pourcent	N	1	O
+47	29.htm	29.htm	O	1	O
 

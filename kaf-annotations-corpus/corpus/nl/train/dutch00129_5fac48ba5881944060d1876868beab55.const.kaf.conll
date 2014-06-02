@@ -1,141 +1,141 @@
-1	Laat	laten	V	1	
-2	maar	maar	A	1	
-3	.	.	O	1	
+1	Laat	laten	V	1	O
+2	maar	maar	A	1	O
+3	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	zijn	zijn	V	1	
-3	een	een	D	1	
-4	weekje	weekje	O	1	
-5	in	in	P	1	
-6	Montalbert	Montalbert	R	1	ne=Location
-7	geweest	wezen|zijn	V	1	
-8	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	zijn	zijn	V	1	O
+3	een	een	D	1	O
+4	weekje	weekje	O	1	O
+5	in	in	P	1	O
+6	Montalbert	Montalbert	R	1	I-Location
+7	geweest	wezen|zijn	V	1	O
+8	.	.	O	1	O
 
-1	Over	over	P	1	
-2	het	het	D	1	
-3	hotel	hotel	N	1	
-4	zou	zullen	V	1	
-5	ik	ik	Q	1	
-6	zeggen	zeggen	V	1	
-7	:	:	O	1	
-8	platgooien	platgooien	N	1	
-9	en	en	C	1	
-10	overnieuw	overnieuw	A	1	
-11	beginnen	beginnen	V	1	
-12	.	.	O	1	
+1	Over	over	P	1	O
+2	het	het	D	1	O
+3	hotel	hotel	N	1	O
+4	zou	zullen	V	1	O
+5	ik	ik	Q	1	O
+6	zeggen	zeggen	V	1	O
+7	:	:	O	1	O
+8	platgooien	platgooien	N	1	O
+9	en	en	C	1	O
+10	overnieuw	overnieuw	A	1	O
+11	beginnen	beginnen	V	1	O
+12	.	.	O	1	O
 
-1	Wat	wat	Q	1	
-2	een	een	D	1	
-3	bende	bende	N	1	
-4	.	.	O	1	
+1	Wat	wat	Q	1	O
+2	een	een	D	1	O
+3	bende	bende	N	1	O
+4	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	waren	wezen|zijn	V	1	
-4	gewoon	gewoon	G	1	
-5	smeris	smeris	N	1	
-6	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	waren	wezen|zijn	V	1	O
+4	gewoon	gewoon	G	1	O
+5	smeris	smeris	N	1	O
+6	.	.	O	1	O
 
-1	Oude	oud	G	1	
-2	handdoeken	handdoek	N	1	
-3	,	,	O	1	
-4	borden	bord	N	1	
-5	waar	waar	Q	1	
-6	stukken	stuk	N	1	
-7	vanaf	vanaf	P	1	
-8	waren	waar|waren	N	1	
-9	.	.	O	1	
+1	Oude	oud	G	1	O
+2	handdoeken	handdoek	N	1	O
+3	,	,	O	1	O
+4	borden	bord	N	1	O
+5	waar	waar	Q	1	O
+6	stukken	stuk	N	1	O
+7	vanaf	vanaf	P	1	O
+8	waren	waar|waren	N	1	O
+9	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	kon	kunnen	V	1	
-3	even	even	A	1	
-4	in	in	P	1	
-5	de	de	D	1	
-6	keuken	keuken	N	1	
-7	kijken	kijken	V	1	
-8	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	kon	kunnen	V	1	O
+3	even	even	A	1	O
+4	in	in	P	1	O
+5	de	de	D	1	O
+6	keuken	keuken	N	1	O
+7	kijken	kijken	V	1	O
+8	.	.	O	1	O
 
-1	Te	te	O	1	
-2	ranzig	ranzig	G	1	
-3	voor	voor	P	1	
-4	woorden	woord	N	1	
-5	.	.	O	1	
+1	Te	te	O	1	O
+2	ranzig	ranzig	G	1	O
+3	voor	voor	P	1	O
+4	woorden	woord	N	1	O
+5	.	.	O	1	O
 
-1	De	de	D	1	
-2	manager	manager	N	1	
-3	deed	doen	V	1	
-4	z	z	N	1	
-5	'	'	O	1	
-6	n	n	N	1	
-7	best	best	N	1	
-8	,	,	O	1	
-9	maar	maar	C	1	
-10	als	als	C	1	
-11	de	de	D	1	
-12	rest	rest	N	1	
-13	van	van	P	1	
-14	het	het	D	1	
-15	personeel	personeel	N	1	
-16	niet	niet	A	1	
-17	wil	willen	V	1	
-18	dan	dan	C	1	
-19	houd	houden	V	1	
-20	het	het	Q	1	
-21	op	op	P	1	
-22	.	.	O	1	
+1	De	de	D	1	O
+2	manager	manager	N	1	O
+3	deed	doen	V	1	O
+4	z	z	N	1	O
+5	'	'	O	1	O
+6	n	n	N	1	O
+7	best	best	N	1	O
+8	,	,	O	1	O
+9	maar	maar	C	1	O
+10	als	als	C	1	O
+11	de	de	D	1	O
+12	rest	rest	N	1	O
+13	van	van	P	1	O
+14	het	het	D	1	O
+15	personeel	personeel	N	1	O
+16	niet	niet	A	1	O
+17	wil	willen	V	1	O
+18	dan	dan	C	1	O
+19	houd	houden	V	1	O
+20	het	het	Q	1	O
+21	op	op	P	1	O
+22	.	.	O	1	O
 
-1	Staff	Staff	O	1	
-2	was	wezen|zijn	V	1	
-3	aardig	aardig	G	1	
-4	maar	maar	C	1	
-5	absoluut	absoluut	G	1	
-6	niet	niet	A	1	
-7	proffesioneel	proffesioneel	O	1	
-8	.	.	O	1	
+1	Staff	Staff	O	1	O
+2	was	wezen|zijn	V	1	O
+3	aardig	aardig	G	1	O
+4	maar	maar	C	1	O
+5	absoluut	absoluut	G	1	O
+6	niet	niet	A	1	O
+7	proffesioneel	proffesioneel	O	1	O
+8	.	.	O	1	O
 
-1	Behalve	behalve	C	1	
-2	de	de	D	1	
-3	kok	kok	N	1	
-4	en	en	C	1	
-5	de	de	D	1	
-6	manager	manager	N	1	
-7	allemaal	allemaal	D	1	
-8	studenten	student|studente	N	1	
-9	.	.	O	1	
+1	Behalve	behalve	C	1	O
+2	de	de	D	1	O
+3	kok	kok	N	1	O
+4	en	en	C	1	O
+5	de	de	D	1	O
+6	manager	manager	N	1	O
+7	allemaal	allemaal	D	1	O
+8	studenten	student|studente	N	1	O
+9	.	.	O	1	O
 
-1	Eten	eten	V	1	
-2	is	zijn	V	1	
-3	niet	niet	A	1	
-4	veel	veel	A	1	
-5	soeps	soep	N	1	
-6	.	.	O	1	
+1	Eten	eten	V	1	O
+2	is	zijn	V	1	O
+3	niet	niet	A	1	O
+4	veel	veel	A	1	O
+5	soeps	soep	N	1	O
+6	.	.	O	1	O
 
-1	Duidelijk	duidelijk	G	1	
-2	diepvries	diepvries	N	1	
-3	en	en	C	1	
-4	dat	dat	Q	1	
-5	kon	kunnen	V	1	
-6	je	je	Q	1	
-7	proeven	proeven	V	1	
-8	.	.	O	1	
+1	Duidelijk	duidelijk	G	1	O
+2	diepvries	diepvries	N	1	O
+3	en	en	C	1	O
+4	dat	dat	Q	1	O
+5	kon	kunnen	V	1	O
+6	je	je	Q	1	O
+7	proeven	proeven	V	1	O
+8	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	geef	geven	V	1	
-3	liever	lief	G	1	
-4	een	een	D	1	
-5	paar	paar	G	1	
-6	honderd	honderd	O	1	
-7	euro	euro	N	1	
-8	meer	meer	A	1	
-9	uit	uit	A	1	
-10	,	,	O	1	
-11	dan	dan	C	1	
-12	is	zijn	V	1	
-13	het	het	Q	1	
-14	in	in	P	1	
-15	ieder	ieder	D	1	
-16	geval	geval	N	1	
-17	wel	wel	A	1	
-18	goed	goed	G	1	
-19	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	geef	geven	V	1	O
+3	liever	lief	G	1	O
+4	een	een	D	1	O
+5	paar	paar	G	1	O
+6	honderd	honderd	O	1	O
+7	euro	euro	N	1	O
+8	meer	meer	A	1	O
+9	uit	uit	A	1	O
+10	,	,	O	1	O
+11	dan	dan	C	1	O
+12	is	zijn	V	1	O
+13	het	het	Q	1	O
+14	in	in	P	1	O
+15	ieder	ieder	D	1	O
+16	geval	geval	N	1	O
+17	wel	wel	A	1	O
+18	goed	goed	G	1	O
+19	.	.	O	1	O
 

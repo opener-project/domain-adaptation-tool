@@ -1,125 +1,125 @@
-1	Kein	keine	Q	1	
-2	Entspannungsort	Entspannungsort	O	1	
+1	Kein	keine	Q	1	O
+2	Entspannungsort	Entspannungsort	O	1	O
 
-1	Ich	ich	Q	1	
-2	finde	finden	V	1	
-3	,	,	O	1	
-4	dass	dass	C	1	
-5	dieses	dies	Q	1	
-6	Hotel	Hotel	N	1	
-7	nicht	nicht	O	1	
-8	dem	die	Q	1	
-9	entspricht	entsprechen	V	1	
-10	was	was	Q	1	
-11	er	er	Q	1	
-12	ist	sein	V	1	
-13	.	.	O	1	
+1	Ich	ich	Q	1	O
+2	finde	finden	V	1	O
+3	,	,	O	1	O
+4	dass	dass	C	1	O
+5	dieses	dies	Q	1	O
+6	Hotel	Hotel	N	1	O
+7	nicht	nicht	O	1	O
+8	dem	die	Q	1	O
+9	entspricht	entsprechen	V	1	O
+10	was	was	Q	1	O
+11	er	er	Q	1	O
+12	ist	sein	V	1	O
+13	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Größe	Größe	N	1	
-3	des	die	D	1	
-4	Bads	Bad	N	1	
-5	im	in	P	1	
-6	Zimmer	Zimmer	N	1	
-7	war	sein	V	1	
-8	etwa	etwa	A	1	
-9	so	so	A	1	
-10	groß	groß	G	1	
-11	wie	wie	C	1	
-12	in	in	P	1	
-13	einem	eine	D	1	
-14	2	2	O	1	
-15	Sterne	Stern	N	1	
-16	Hotel	Hotel	N	1	
-17	,	,	O	1	
-18	es	es	Q	1	
-19	gibt	geben	V	1	
-20	keine	keine	Q	1	
-21	Klimaanlage	Klimaanlage	N	1	
-22	und	und	C	1	
-23	es	es	Q	1	
-24	gibt	geben	V	1	
-25	nicht	nicht	O	1	
-26	mal	mal	A	1	
-27	WLAN	WLAN	O	1	
-28	im	in	P	1	
-29	Hotel	Hotel	N	1	
-30	.	.	O	1	
+1	Die	die	D	1	O
+2	Größe	Größe	N	1	O
+3	des	die	D	1	O
+4	Bads	Bad	N	1	O
+5	im	in	P	1	O
+6	Zimmer	Zimmer	N	1	O
+7	war	sein	V	1	O
+8	etwa	etwa	A	1	O
+9	so	so	A	1	O
+10	groß	groß	G	1	O
+11	wie	wie	C	1	O
+12	in	in	P	1	O
+13	einem	eine	D	1	O
+14	2	2	O	1	O
+15	Sterne	Stern	N	1	O
+16	Hotel	Hotel	N	1	O
+17	,	,	O	1	O
+18	es	es	Q	1	O
+19	gibt	geben	V	1	O
+20	keine	keine	Q	1	O
+21	Klimaanlage	Klimaanlage	N	1	O
+22	und	und	C	1	O
+23	es	es	Q	1	O
+24	gibt	geben	V	1	O
+25	nicht	nicht	O	1	O
+26	mal	mal	A	1	O
+27	WLAN	WLAN	O	1	O
+28	im	in	P	1	O
+29	Hotel	Hotel	N	1	O
+30	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	stehen	stehen	V	1	
-3	zwar	zwar	A	1	
-4	zwei	zwei	O	1	
-5	PCs	PC	N	1	
-6	aus	aus	P	1	
-7	dem	die	D	1	
-8	letzten	letzt	G	1	
-9	Jahrhundert	Jahrhundert	N	1	
-10	aber	aber	A	1	
-11	es	es	Q	1	
-12	gibt	geben	V	1	
-13	kein	keine	Q	1	
-14	WLAN	WLAN	O	1	
-15	!	!	O	1	
-16	!	!	O	1	
-17	!	!	O	1	
+1	Es	es	Q	1	O
+2	stehen	stehen	V	1	O
+3	zwar	zwar	A	1	O
+4	zwei	zwei	O	1	O
+5	PCs	PC	N	1	O
+6	aus	aus	P	1	O
+7	dem	die	D	1	O
+8	letzten	letzt	G	1	O
+9	Jahrhundert	Jahrhundert	N	1	O
+10	aber	aber	A	1	O
+11	es	es	Q	1	O
+12	gibt	geben	V	1	O
+13	kein	keine	Q	1	O
+14	WLAN	WLAN	O	1	O
+15	!	!	O	1	O
+16	!	!	O	1	O
+17	!	!	O	1	O
 
-1	Und	und	C	1	
-2	noch	noch	A	1	
-3	mehr	mehr	A	1	
-4	,	,	O	1	
-5	bei	bei	P	1	
-6	der	die	D	1	
-7	Abreise	Abreise	N	1	
-8	wollten	wollen	V	1	
-9	wir	wir	Q	1	
-10	wie	wie	C	1	
-11	normal	normal	G	1	
-12	mit	mit	P	1	
-13	der	die	D	1	
-14	VISA	Visum	N	1	
-15	Karte	Karte	N	1	
-16	zahlen	zahlen	V	1	
-17	,	,	O	1	
-18	aber	aber	C	1	
-19	das	die	Q	1	
-20	geht	gehen	V	1	
-21	nicht	nicht	O	1	
-22	!	!	O	1	
-23	!	!	O	1	
+1	Und	und	C	1	O
+2	noch	noch	A	1	O
+3	mehr	mehr	A	1	O
+4	,	,	O	1	O
+5	bei	bei	P	1	O
+6	der	die	D	1	O
+7	Abreise	Abreise	N	1	O
+8	wollten	wollen	V	1	O
+9	wir	wir	Q	1	O
+10	wie	wie	C	1	O
+11	normal	normal	G	1	O
+12	mit	mit	P	1	O
+13	der	die	D	1	O
+14	VISA	Visum	N	1	O
+15	Karte	Karte	N	1	O
+16	zahlen	zahlen	V	1	O
+17	,	,	O	1	O
+18	aber	aber	C	1	O
+19	das	die	Q	1	O
+20	geht	gehen	V	1	O
+21	nicht	nicht	O	1	O
+22	!	!	O	1	O
+23	!	!	O	1	O
 
-1	Man	man	Q	1	
-2	solle	sollen	V	1	
-3	mit	mit	P	1	
-4	der	die	D	1	
-5	EC	EC	R	1	
-6	Karte	Karte	N	1	
-7	zahlen	zahlen	V	1	
-8	.	.	O	1	
+1	Man	man	Q	1	O
+2	solle	sollen	V	1	O
+3	mit	mit	P	1	O
+4	der	die	D	1	O
+5	EC	EC	R	1	O
+6	Karte	Karte	N	1	O
+7	zahlen	zahlen	V	1	O
+8	.	.	O	1	O
 
-1	Bescheuert	bescheuert	G	1	
-2	.	.	O	1	
+1	Bescheuert	bescheuert	G	1	O
+2	.	.	O	1	O
 
-1	Dieses	dies	Q	1	
-2	Hotel	Hotel	N	1	
-3	mag	mögen	V	1	
-4	zwar	zwar	A	1	
-5	ein	eine	D	1	
-6	SPA	SPA	O	1	
-7	Hotel	Hotel	N	1	
-8	sein	sein	V	1	
-9	,	,	O	1	
-10	aber	aber	A	1	
-11	von	von	P	1	
-12	Entspannung	Entspannung	N	1	
-13	und	und	C	1	
-14	Gäste	Gast	N	1	
-15	·	·	O	1	
-16	Komfort	Komfort	N	1	
-17	gibt	geben	V	1	
-18	es	es	Q	1	
-19	nix	nix	Q	1	
-20	zu	zu	O	1	
-21	spüren	spüren	V	1	
-22	.	.	O	1	
+1	Dieses	dies	Q	1	O
+2	Hotel	Hotel	N	1	O
+3	mag	mögen	V	1	O
+4	zwar	zwar	A	1	O
+5	ein	eine	D	1	O
+6	SPA	SPA	O	1	O
+7	Hotel	Hotel	N	1	O
+8	sein	sein	V	1	O
+9	,	,	O	1	O
+10	aber	aber	A	1	O
+11	von	von	P	1	O
+12	Entspannung	Entspannung	N	1	O
+13	und	und	C	1	O
+14	Gäste	Gast	N	1	O
+15	·	·	O	1	O
+16	Komfort	Komfort	N	1	O
+17	gibt	geben	V	1	O
+18	es	es	Q	1	O
+19	nix	nix	Q	1	O
+20	zu	zu	O	1	O
+21	spüren	spüren	V	1	O
+22	.	.	O	1	O
 

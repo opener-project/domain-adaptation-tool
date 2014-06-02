@@ -1,172 +1,173 @@
-1	Kan	kunnen	V	1	
-2	beter	beter|goed	G	1	
+1	Kan	kunnen	V	1	O
+2	beter	beter|goed	G	1	O
 
-1	Bij	bij	P	1	
-2	aankomst	aankomst	N	1	
-3	in	in	P	1	
-4	onze	ons	D	1	
-5	bungalow	bungalow	N	1	
-6	,	,	O	1	
-7	bleek	blijken	V	1	
-8	deze	deze	Q	1	
-9	erg	erg	A	1	
-10	klein	klein	G	1	
-11	te	te	O	1	
-12	zijn	zijn	V	1	
-13	en	en	C	1	
-14	wasnaar	wasnaar	O	1	
-15	onze	ons	D	1	
-16	mening	mening	N	1	
-17	niet	niet	A	1	
-18	groot	groot	G	1	
-19	genoeg	genoeg	A	1	
-20	voor	voor	P	1	
-21	4	@card@	O	1	
-22	personen	persoon	N	1	
-23	.	.	O	1	
+1	Bij	bij	P	1	O
+2	aankomst	aankomst	N	1	O
+3	in	in	P	1	O
+4	onze	ons	D	1	O
+5	bungalow	bungalow	N	1	O
+6	,	,	O	1	O
+7	bleek	blijken	V	1	O
+8	deze	deze	Q	1	O
+9	erg	erg	A	1	O
+10	klein	klein	G	1	O
+11	te	te	O	1	O
+12	zijn	zijn	V	1	O
+13	en	en	C	1	O
+14	wasnaar	wasnaar	O	1	O
+15	onze	ons	D	1	O
+16	mening	mening	N	1	O
+17	niet	niet	A	1	O
+18	groot	groot	G	1	O
+19	genoeg	genoeg	A	1	O
+20	voor	voor	P	1	O
+21	4	@card@	O	1	O
+22	personen	persoon	N	1	O
+23	.	.	O	1	O
 
-1	Wij	wij	Q	1	
-2	waren	wezen|zijn	V	1	
-3	met	met	P	1	
-4	2	@card@	O	1	
-5	volwassenen	volwassene	N	1	
-6	en	en	C	1	
-7	een	een	D	1	
-8	baby	baby	N	1	
-9	en	en	C	1	
-10	konden	kunnen	V	1	
-11	onze	ons	D	1	
-12	spullen	spul|spullen	N	1	
-13	niet	niet	A	1	
-14	fatsoenlijk	fatsoenlijk	G	1	
-15	kwijt	kwijten	V	1	
-16	.	.	O	1	
+1	Wij	wij	Q	1	O
+2	waren	wezen|zijn	V	1	O
+3	met	met	P	1	O
+4	2	@card@	O	1	O
+5	volwassenen	volwassene	N	1	O
+6	en	en	C	1	O
+7	een	een	D	1	O
+8	baby	baby	N	1	O
+9	en	en	C	1	O
+10	konden	kunnen	V	1	O
+11	onze	ons	D	1	O
+12	spullen	spul|spullen	N	1	O
+13	niet	niet	A	1	O
+14	fatsoenlijk	fatsoenlijk	G	1	O
+15	kwijt	kwijten	V	1	O
+16	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	de	de	D	1	
-3	hygiëne	hygiëne	N	1	
-4	liet	laten	V	1	
-5	naar	naar	P	1	
-6	onze	ons	D	1	
-7	mening	mening	N	1	
-8	te	te	O	1	
-9	wensen	wensen	V	1	
-10	over	over	P	1	
-11	.	.	O	1	
+1	Ook	ook	A	1	O
+2	de	de	D	1	O
+3	hygiëne	hygiëne	N	1	O
+4	liet	laten	V	1	O
+5	naar	naar	P	1	O
+6	onze	ons	D	1	O
+7	mening	mening	N	1	O
+8	te	te	O	1	O
+9	wensen	wensen	V	1	O
+10	over	over	P	1	O
+11	.	.	O	1	O
 
-1	Door	door	P	1	
-2	een	een	D	1	
-3	harde	hard	G	1	
-4	straal	straal	N	1	
-5	en	en	C	1	
-6	de	de	D	1	
-7	erg	erg	G	1	
-8	kleine	klein	G	1	
-9	ruimte	ruimte	N	1	
-10	van	van	P	1	
-11	de	de	D	1	
-12	douche	douche	N	1	
-13	konden	kunnen	V	1	
-14	wij	wij	Q	1	
-15	onze	ons	D	1	
-16	zoon	zoon	N	1	
-17	niet	niet	A	1	
-18	fatsoenlijk	fatsoenlijk	G	1	
-19	douchen	douchen	V	1	
-20	waardoor	waardoor	Q	1	
-21	we	we	Q	1	
-22	gebruik	gebruik	N	1	
-23	hebben	hebben	V	1	
-24	gemaakt	maken	V	1	
-25	van	van	P	1	
-26	het	het	D	1	
-27	sanitair	sanitair	G	1	
-28	gebouw	gebouw	N	1	
-29	.	.	O	1	
+1	Door	door	P	1	O
+2	een	een	D	1	O
+3	harde	hard	G	1	O
+4	straal	straal	N	1	O
+5	en	en	C	1	O
+6	de	de	D	1	O
+7	erg	erg	G	1	O
+8	kleine	klein	G	1	O
+9	ruimte	ruimte	N	1	O
+10	van	van	P	1	O
+11	de	de	D	1	O
+12	douche	douche	N	1	O
+13	konden	kunnen	V	1	O
+14	wij	wij	Q	1	O
+15	onze	ons	D	1	O
+16	zoon	zoon	N	1	O
+17	niet	niet	A	1	O
+18	fatsoenlijk	fatsoenlijk	G	1	O
+19	douchen	douchen	V	1	O
+20	waardoor	waardoor	Q	1	O
+21	we	we	Q	1	O
+22	gebruik	gebruik	N	1	O
+23	hebben	hebben	V	1	O
+24	gemaakt	maken	V	1	O
+25	van	van	P	1	O
+26	het	het	D	1	O
+27	sanitair	sanitair	G	1	O
+28	gebouw	gebouw	N	1	O
+29	.	.	O	1	O
 
-1	Deze	deze	Q	1	
-2	was	wezen|zijn	V	1	
-3	erg	erg	A	1	
-4	smerig	smerig	G	1	
-5	en	en	C	1	
-6	het	het	D	1	
-7	ongedierte	ongedierte	N	1	
-8	zat	zitten	V	1	
-9	overal	overal	A	1	
-10	.	.	O	1	
+1	Deze	deze	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	erg	erg	A	1	O
+4	smerig	smerig	G	1	O
+5	en	en	C	1	O
+6	het	het	D	1	O
+7	ongedierte	ongedierte	N	1	O
+8	zat	zitten	V	1	O
+9	overal	overal	A	1	O
+10	.	.	O	1	O
 
-1	Door	door	P	1	
-2	de	de	D	1	
-3	extreem	extreem	G	1	
-4	hoge	hoog	G	1	
-5	temperatuur	temperatuur	N	1	
-6	was	wezen|zijn	V	1	
-7	het	het	Q	1	
-8	in	in	P	1	
-9	de	de	D	1	
-10	bungalow	bungalow	N	1	
-11	erg	erg	G	1	
-12	heet	heten	V	1	
-13	.	.	O	1	
+1	Door	door	P	1	O
+2	de	de	D	1	O
+3	extreem	extreem	G	1	O
+4	hoge	hoog	G	1	O
+5	temperatuur	temperatuur	N	1	O
+6	was	wezen|zijn	V	1	O
+7	het	het	Q	1	O
+8	in	in	P	1	O
+9	de	de	D	1	O
+10	bungalow	bungalow	N	1	O
+11	erg	erg	G	1	O
+12	heet	heten	V	1	O
+13	.	.	O	1	O
 
-1	Omdat	omdat	C	1	
-2	er	er	Q	1	
-3	geen	geen	D	1	
-4	mogelijkheid	mogelijkheid	N	1	
-5	van	van	P	1	
-6	airco	airco	O	1	
-7	was	wezen|zijn	V	1	
-8	,	,	O	1	
-9	bleven	blijven	V	1	
-10	de	de	D	1	
-11	nachten	nacht	N	1	
-12	erg	erg	G	1	
-13	warm	warmen	V	1	
-14	en	en	C	1	
-15	werd	worden	V	1	
-16	slapen	slapen	V	1	
-17	soms	soms	A	1	
-18	onmogelijk	onmogelijk	G	1	
-19	.	.	O	1	
+1	Omdat	omdat	C	1	O
+2	er	er	Q	1	O
+3	geen	geen	D	1	O
+4	mogelijkheid	mogelijkheid	N	1	O
+5	van	van	P	1	O
+6	airco	airco	O	1	O
+7	was	wezen|zijn	V	1	O
+8	,	,	O	1	O
+9	bleven	blijven	V	1	O
+10	de	de	D	1	O
+11	nachten	nacht	N	1	O
+12	erg	erg	G	1	O
+13	warm	warmen	V	1	O
+14	en	en	C	1	O
+15	werd	worden	V	1	O
+16	slapen	slapen	V	1	O
+17	soms	soms	A	1	O
+18	onmogelijk	onmogelijk	G	1	O
+19	.	.	O	1	O
 
-1	Gelukkig	gelukkig	G	1	
-2	hebben	hebben	V	1	
-3	we	we	Q	1	
-4	bij	bij	P	1	
-5	de	de	D	1	
-6	receptie	receptie	N	1	
-7	een	een	D	1	
-8	ventilator	ventilator	N	1	
-9	kunnen	kunnen	V	1	
-10	krijgen	krijgen	V	1	
-11	waar	waar	Q	1	
-12	we	we	Q	1	
-13	volop	volop	A	1	
-14	gebruik	gebruik	N	1	
-15	van	van	P	1	
-16	hebben	hebben	V	1	
-17	gemaakt	maken	V	1	
-18	.	.	O	1	
+1	Gelukkig	gelukkig	G	1	O
+2	hebben	hebben	V	1	O
+3	we	we	Q	1	O
+4	bij	bij	P	1	O
+5	de	de	D	1	O
+6	receptie	receptie	N	1	O
+7	een	een	D	1	O
+8	ventilator	ventilator	N	1	O
+9	kunnen	kunnen	V	1	O
+10	krijgen	krijgen	V	1	O
+11	waar	waar	Q	1	O
+12	we	we	Q	1	O
+13	volop	volop	A	1	O
+14	gebruik	gebruik	N	1	O
+15	van	van	P	1	O
+16	hebben	hebben	V	1	O
+17	gemaakt	maken	V	1	O
+18	.	.	O	1	O
 
-1	Buiten	buiten	P	1	
-2	dit	dit	Q	1	
-3	alles	alles	Q	1	
-4	waren	wezen|zijn	V	1	
-5	de	de	D	1	
-6	staff	staff	O	1	
-7	·	·	O	1	
-8	leden	lid	N	1	
-9	erg	erg	G	1	
-10	vriendelijk	vriendelijk	G	1	
-11	en	en	C	1	
-12	bij	bij	P	1	
-13	problemen	probleem	N	1	
-14	werd	worden	V	1	
-15	er	er	Q	1	
-16	binnen	binnen	P	1	
-17	24_uur	@card@_uur	R	1	ne=Date
-18	een	een	D	1	
-19	oplossing	oplossing	N	1	
-20	gevonden	vinden	V	1	
-21	.	.	O	1	
+1	Buiten	buiten	P	1	O
+2	dit	dit	Q	1	O
+3	alles	alles	Q	1	O
+4	waren	wezen|zijn	V	1	O
+5	de	de	D	1	O
+6	staff	staff	O	1	O
+7	·	·	O	1	O
+8	leden	lid	N	1	O
+9	erg	erg	G	1	O
+10	vriendelijk	vriendelijk	G	1	O
+11	en	en	C	1	O
+12	bij	bij	P	1	O
+13	problemen	probleem	N	1	O
+14	werd	worden	V	1	O
+15	er	er	Q	1	O
+16	binnen	binnen	P	1	O
+17	24	@card@	O	1	I-Date
+18	uur	uur	N	1	I-Date
+19	een	een	D	1	O
+20	oplossing	oplossing	N	1	O
+21	gevonden	vinden	V	1	O
+22	.	.	O	1	O
 

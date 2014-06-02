@@ -1,126 +1,128 @@
-1	Le	le	D	1	
-2	plus	plus	G	1	
-3	mauvais	mauvais	G	1	
-4	des	des	P	1	
-5	Iberostars	Iberostars	R	1	ne=Hotel
-6	.	.	O	1	
+1	Le	le	D	1	O
+2	plus	plus	G	1	O
+3	mauvais	mauvais	G	1	O
+4	des	des	P	1	O
+5	Iberostars	Iberostars	R	1	I-Hotel
+6	.	.	O	1	O
 
-1	Erreur	erreur	N	1	
-2	de	de	P	1	
-3	la	le	D	1	
-4	part	part	N	1	
-5	de	de	P	1	
-6	Ibersostar	Ibersostar	R	1	ne=Hotel
-7	lors	lors	G	1	
-8	de	de	P	1	
-9	la	le	D	1	
-10	réservation	réservation	N	1	
-11	,	,	O	1	
-12	nous	lui	Q	1	
-13	nous	lui	Q	1	
-14	sommes	sommer	V	1	
-15	retrouvés	retrouver	V	1	
-16	à	à	P	1	
-17	2hr_du_matin	2hr_du_matin	R	1	ne=Time
-18	avec	avec	P	1	
-19	notre	son	D	1	
-20	bébé	bébé	N	1	
-21	de	de	P	1	
-22	14	14	D	1	
-23	mois	moi	N	1	
-24	sans	sans]	P	1	
-25	chambre	chambre	N	1	
-26	,	,	O	1	
-27	nous	lui	Q	1	
-28	avons	avoir	V	1	
-29	dû	devoir	V	1	
-30	prendre	prendre	V	1	
-31	le	le	D	1	
-32	Taxi	taxi	N	1	
-33	et	et	C	1	
-34	partir	partir	V	1	
-35	dans	dans	P	1	
-36	un	un	D	1	
-37	autre	autre	G	1	
-38	hôtel	hôtel	N	1	
-39	pour	pour	P	1	
-40	une	un	D	1	
-41	nuit	nuit	N	1	
-42	.	.	O	1	
+1	Erreur	erreur	N	1	O
+2	de	de	P	1	O
+3	la	le	D	1	O
+4	part	part	N	1	O
+5	de	de	P	1	O
+6	Ibersostar	Ibersostar	R	1	I-Hotel
+7	lors	lors	G	1	O
+8	de	de	P	1	O
+9	la	le	D	1	O
+10	réservation	réservation	N	1	O
+11	,	,	O	1	O
+12	nous	lui	Q	1	O
+13	nous	lui	Q	1	O
+14	sommes	sommer	V	1	O
+15	retrouvés	retrouver	V	1	O
+16	à	à	P	1	O
+17	2hr	2hr	V	1	I-Time
+18	du	du	D	1	I-Time
+19	matin	matin	N	1	I-Time
+20	avec	avec	P	1	O
+21	notre	son	D	1	O
+22	bébé	bébé	N	1	O
+23	de	de	P	1	O
+24	14	14	D	1	O
+25	mois	moi	N	1	O
+26	sans	sans]	P	1	O
+27	chambre	chambre	N	1	O
+28	,	,	O	1	O
+29	nous	lui	Q	1	O
+30	avons	avoir	V	1	O
+31	dû	devoir	V	1	O
+32	prendre	prendre	V	1	O
+33	le	le	D	1	O
+34	Taxi	taxi	N	1	O
+35	et	et	C	1	O
+36	partir	partir	V	1	O
+37	dans	dans	P	1	O
+38	un	un	D	1	O
+39	autre	autre	G	1	O
+40	hôtel	hôtel	N	1	O
+41	pour	pour	P	1	O
+42	une	un	D	1	O
+43	nuit	nuit	N	1	O
+44	.	.	O	1	O
 
-1	La	le	D	1	
-2	récéptionniste	récéptionniste	N	1	
-3	d'	d'	P	1	
-4	Iberostar	Iberostar	R	1	ne=Hotel
-5	n'	n'	G	1	
-6	a	avoir	V	1	
-7	pas	pas	G	1	
-8	voulu	vouloir	V	1	
-9	reconnaître	reconnaître	V	1	
-10	leur	son	D	1	
-11	erreur	erreur	N	1	
-12	et	et	C	1	
-13	était	être	V	1	
-14	méchante	méchant	G	1	
-15	et	et	C	1	
-16	désagréable	désagréable	G	1	
-17	.	.	O	1	
+1	La	le	D	1	O
+2	récéptionniste	récéptionniste	N	1	O
+3	d'	d'	P	1	O
+4	Iberostar	Iberostar	R	1	I-Hotel
+5	n'	n'	G	1	O
+6	a	avoir	V	1	O
+7	pas	pas	G	1	O
+8	voulu	vouloir	V	1	O
+9	reconnaître	reconnaître	V	1	O
+10	leur	son	D	1	O
+11	erreur	erreur	N	1	O
+12	et	et	C	1	O
+13	était	être	V	1	O
+14	méchante	méchant	G	1	O
+15	et	et	C	1	O
+16	désagréable	désagréable	G	1	O
+17	.	.	O	1	O
 
-1	La	le	D	1	
-2	nourriture	nourriture	N	1	
-3	n'	n'	G	1	
-4	était	être	V	1	
-5	pas	pas	G	1	
-6	bonne	bon	G	1	
-7	,	,	O	1	
-8	et	et	C	1	
-9	le	le	D	1	
-10	choix	choix	N	1	
-11	n'	n'	G	1	
-12	était	être	V	1	
-13	pas	pas	G	1	
-14	grand	grand	G	1	
-15	.	.	O	1	
+1	La	le	D	1	O
+2	nourriture	nourriture	N	1	O
+3	n'	n'	G	1	O
+4	était	être	V	1	O
+5	pas	pas	G	1	O
+6	bonne	bon	G	1	O
+7	,	,	O	1	O
+8	et	et	C	1	O
+9	le	le	D	1	O
+10	choix	choix	N	1	O
+11	n'	n'	G	1	O
+12	était	être	V	1	O
+13	pas	pas	G	1	O
+14	grand	grand	G	1	O
+15	.	.	O	1	O
 
-1	Il	Il	Q	1	
-2	y	y	Q	1	
-3	avait	avoir	V	1	
-4	une	un	D	1	
-5	mauvaise	mauvais	G	1	
-6	odeur	odeur	N	1	
-7	à	à	P	1	
-8	l'	le	D	1	
-9	hôtel	hôtel	N	1	
-10	(	(	O	1	
-11	surtout	surtout	G	1	
-12	à	à	P	1	
-13	l'	le	D	1	
-14	entrée	entrée	N	1	
-15	du	du	P	1	
-16	restaurant	restaurer	V	1	
-17	)	)	O	1	
-18	.	.	O	1	
+1	Il	Il	Q	1	O
+2	y	y	Q	1	O
+3	avait	avoir	V	1	O
+4	une	un	D	1	O
+5	mauvaise	mauvais	G	1	O
+6	odeur	odeur	N	1	O
+7	à	à	P	1	O
+8	l'	le	D	1	O
+9	hôtel	hôtel	N	1	O
+10	(	(	O	1	O
+11	surtout	surtout	G	1	O
+12	à	à	P	1	O
+13	l'	le	D	1	O
+14	entrée	entrée	N	1	O
+15	du	du	P	1	O
+16	restaurant	restaurer	V	1	O
+17	)	)	O	1	O
+18	.	.	O	1	O
 
-1	La	le	D	1	
-2	piscine	piscine	N	1	
-3	pour	pour	P	1	
-4	bébé	bébé	N	1	
-5	n'	n'	G	1	
-6	était	être	V	1	
-7	pas	pas	G	1	
-8	chauffée	chauffée	N	1	
-9	.	.	O	1	
+1	La	le	D	1	O
+2	piscine	piscine	N	1	O
+3	pour	pour	P	1	O
+4	bébé	bébé	N	1	O
+5	n'	n'	G	1	O
+6	était	être	V	1	O
+7	pas	pas	G	1	O
+8	chauffée	chauffée	N	1	O
+9	.	.	O	1	O
 
-1	Beaucoup	Beaucoup	G	1	
-2	de	de	P	1	
-3	petits	petit	G	1	
-4	travaux	travail	N	1	
-5	à	à	P	1	
-6	prévoir	prévoir	V	1	
-7	(	(	O	1	
-8	carrelages	carrelage	N	1	
-9	cassés	cassé	N	1	
-10	...	...	O	1	
-11	)	)	O	1	
-12	.	.	O	1	
+1	Beaucoup	Beaucoup	G	1	O
+2	de	de	P	1	O
+3	petits	petit	G	1	O
+4	travaux	travail	N	1	O
+5	à	à	P	1	O
+6	prévoir	prévoir	V	1	O
+7	(	(	O	1	O
+8	carrelages	carrelage	N	1	O
+9	cassés	cassé	N	1	O
+10	...	...	O	1	O
+11	)	)	O	1	O
+12	.	.	O	1	O
 

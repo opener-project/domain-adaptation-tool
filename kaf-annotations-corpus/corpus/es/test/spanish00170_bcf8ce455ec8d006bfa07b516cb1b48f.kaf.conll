@@ -1,108 +1,108 @@
-1	ESCASA	ESCASA	R	1	
-2	SEGURIDAD	SEGURIDAD	R	1	
+1	ESCASA	ESCASA	R	1	O
+2	SEGURIDAD	SEGURIDAD	R	1	O
 
-1	este	este	O	1	
-2	camping	camp	V	1	
-3	carece	carece	G	1	
-4	de	de	P	1	
-5	las	las	G	1	
-6	medidas	medidas	N	1	
-7	de	de	P	1	
-8	seguridad	seguridad	N	1	
-9	apropiadas	apropiadas	N	1	
-10	,	,	O	1	
-11	nos	nos	N	1	
-12	robaron	robaron	V	1	
-13	una	una	G	1	
-14	bici	bici	N	1	
-15	y	y	G	1	
-16	encima	encima	O	1	
-17	casi	casi	O	1	
-18	te	te	O	1	
-19	sentias	sentias	O	1	
-20	culpable	culpable	G	1	
-21	por	por	N	1	
-22	parte	parte	N	1	
-23	de	de	P	1	
-24	la	la	D	1	
-25	recpecion.NO	recpecion.NO	R	1	
-26	llamaron	llamaron	N	1	
-27	a	a	D	1	
-28	la	la	G	1	
-29	guardia	guardia	N	1	
-30	civil	civil	G	1	
-31	y	y	G	1	
-32	fuimos	fuimos	N	1	
-33	nosotros	nosotros	N	1	
-34	hasta	hasta	V	1	
-35	el	el	N	1	
-36	pueblo	pueblo	N	1	
-37	para	para	N	1	
-38	poner	poner	N	1	
-39	la	la	N	1	
-40	denuncia	denuncia	N	1	
-41	.	.	O	1	
+1	este	este	O	1	O
+2	camping	camp	V	1	O
+3	carece	carece	G	1	O
+4	de	de	P	1	O
+5	las	las	G	1	O
+6	medidas	medidas	N	1	O
+7	de	de	P	1	O
+8	seguridad	seguridad	N	1	O
+9	apropiadas	apropiadas	N	1	O
+10	,	,	O	1	O
+11	nos	nos	N	1	O
+12	robaron	robaron	V	1	O
+13	una	una	G	1	O
+14	bici	bici	N	1	O
+15	y	y	G	1	O
+16	encima	encima	O	1	O
+17	casi	casi	O	1	O
+18	te	te	O	1	O
+19	sentias	sentias	O	1	O
+20	culpable	culpable	G	1	O
+21	por	por	N	1	O
+22	parte	parte	N	1	O
+23	de	de	P	1	O
+24	la	la	D	1	O
+25	recpecion.NO	recpecion.NO	R	1	O
+26	llamaron	llamaron	N	1	O
+27	a	a	D	1	O
+28	la	la	G	1	O
+29	guardia	guardia	N	1	O
+30	civil	civil	G	1	O
+31	y	y	G	1	O
+32	fuimos	fuimos	N	1	O
+33	nosotros	nosotros	N	1	O
+34	hasta	hasta	V	1	O
+35	el	el	N	1	O
+36	pueblo	pueblo	N	1	O
+37	para	para	N	1	O
+38	poner	poner	N	1	O
+39	la	la	N	1	O
+40	denuncia	denuncia	N	1	O
+41	.	.	O	1	O
 
-1	A	a	D	1	
-2	parte	parte	G	1	
-3	de	de	O	1	
-4	eso	eso	O	1	
-5	el	el	O	1	
-6	trato	trato	O	1	
-7	es	es	O	1	
-8	poco	poco	O	1	
-9	amable	amable	G	1	
-10	y	y	G	1	
-11	la	la	N	1	
-12	limpieza	limpieza	N	1	
-13	,	,	O	1	
-14	bueno	bueno	N	1	
-15	,	,	O	1	
-16	te	te	G	1	
-17	hacen	hacen	G	1	
-18	limpiar	limpiar	G	1	
-19	las	las	N	1	
-20	duchas	duchas	V	1	
-21	con	con	G	1	
-22	un	un	G	1	
-23	agua	agua	N	1	
-24	sucia	sucia	N	1	
-25	y	y	G	1	
-26	llena	llena	N	1	
-27	de	de	P	1	
-28	pelos	pelos	N	1	
-29	,	,	O	1	
-30	y	y	G	1	
-31	eso	eso	N	1	
-32	pagando	pagando	N	1	
-33	que	que	N	1	
-34	si	si	N	1	
-35	no	no	D	1	
-36	pagas	pagas	N	1	
-37	......	......	O	1	
-38	no	no	D	1	
-39	se	se	N	1	
-40	que	que	N	1	
-41	habria	habria	N	1	
-42	q	q	O	1	
-43	hacer	hacer	N	1	
-44	.	.	O	1	
+1	A	a	D	1	O
+2	parte	parte	G	1	O
+3	de	de	O	1	O
+4	eso	eso	O	1	O
+5	el	el	O	1	O
+6	trato	trato	O	1	O
+7	es	es	O	1	O
+8	poco	poco	O	1	O
+9	amable	amable	G	1	O
+10	y	y	G	1	O
+11	la	la	N	1	O
+12	limpieza	limpieza	N	1	O
+13	,	,	O	1	O
+14	bueno	bueno	N	1	O
+15	,	,	O	1	O
+16	te	te	G	1	O
+17	hacen	hacen	G	1	O
+18	limpiar	limpiar	G	1	O
+19	las	las	N	1	O
+20	duchas	duchas	V	1	O
+21	con	con	G	1	O
+22	un	un	G	1	O
+23	agua	agua	N	1	O
+24	sucia	sucia	N	1	O
+25	y	y	G	1	O
+26	llena	llena	N	1	O
+27	de	de	P	1	O
+28	pelos	pelos	N	1	O
+29	,	,	O	1	O
+30	y	y	G	1	O
+31	eso	eso	N	1	O
+32	pagando	pagando	N	1	O
+33	que	que	N	1	O
+34	si	si	N	1	O
+35	no	no	D	1	O
+36	pagas	pagas	N	1	O
+37	......	......	O	1	O
+38	no	no	D	1	O
+39	se	se	N	1	O
+40	que	que	N	1	O
+41	habria	habria	N	1	O
+42	q	q	O	1	O
+43	hacer	hacer	N	1	O
+44	.	.	O	1	O
 
-1	Lo	Lo	R	1	
-2	unico	unico	G	1	
-3	q	q	N	1	
-4	vale	vale	N	1	
-5	es	es	V	1	
-6	la	la	G	1	
-7	situación	situación	N	1	
-8	del	del	N	1	
-9	camping	camping	N	1	
-10	,	,	O	1	
-11	por	por	G	1	
-12	lo	lo	N	1	
-13	demas	demas	N	1	
-14	no	no	D	1	
-15	lo	lo	N	1	
-16	recomendaria	recomendaria	N	1	
-17	.	.	O	1	
+1	Lo	Lo	R	1	O
+2	unico	unico	G	1	O
+3	q	q	N	1	O
+4	vale	vale	N	1	O
+5	es	es	V	1	O
+6	la	la	G	1	O
+7	situación	situación	N	1	O
+8	del	del	N	1	O
+9	camping	camping	N	1	O
+10	,	,	O	1	O
+11	por	por	G	1	O
+12	lo	lo	N	1	O
+13	demas	demas	N	1	O
+14	no	no	D	1	O
+15	lo	lo	N	1	O
+16	recomendaria	recomendaria	N	1	O
+17	.	.	O	1	O
 

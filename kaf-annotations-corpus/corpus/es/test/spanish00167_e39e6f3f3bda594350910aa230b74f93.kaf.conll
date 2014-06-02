@@ -1,50 +1,50 @@
-1	Bastante	Bastante	R	1	
-2	bueno	bueno	N	1	
-3	para	para	N	1	
-4	como	como	N	1	
-5	me	me	Q	1	
-6	lo	lo	V	1	
-7	pintaron	pintaron	G	1	
+1	Bastante	Bastante	R	1	O
+2	bueno	bueno	N	1	O
+3	para	para	N	1	O
+4	como	como	N	1	O
+5	me	me	Q	1	O
+6	lo	lo	V	1	O
+7	pintaron	pintaron	G	1	O
 
-1	Me	me	Q	1	
-2	gustó	gustó	V	1	
-3	mucho	mucho	G	1	
-4	,	,	O	1	
-5	me	me	Q	1	
-6	habían	habían	O	1	
-7	hablado	hablado	V	1	
-8	que	que	G	1	
-9	no	no	D	1	
-10	era	era	N	1	
-11	la	la	D	1	
-12	gran	gran	G	1	
-13	cosa	cosa	N	1	
-14	y	y	A	1	
-15	creo	creo	G	1	
-16	que	que	N	1	
-17	exageraron	exageraron	N	1	
-18	mucho	mucho	G	1	
-19	,	,	O	1	
-20	todo	todo	P	1	
-21	era	era	N	1	
-22	muy	muy	G	1	
-23	bonito	bonito	N	1	
-24	y	y	G	1	
-25	limpio	limpio	N	1	
-26	,	,	O	1	
-27	el	el	N	1	
-28	servicio	servicio	O	1	
-29	de	de	P	1	
-30	habitación	habitación	G	1	
-31	era	era	N	1	
-32	bastante	bastante	N	1	
-33	bueno	bueno	N	1	
-34	,	,	O	1	
-35	aunque	aunque	G	1	
-36	quizá	quizá	N	1	
-37	la	la	D	1	
-38	habitación	habitación	N	1	
-39	un	un	G	1	
-40	poco	poco	N	1	
-41	pequeña	pequeña	N	1	
+1	Me	me	Q	1	O
+2	gustó	gustó	V	1	O
+3	mucho	mucho	G	1	O
+4	,	,	O	1	O
+5	me	me	Q	1	O
+6	habían	habían	O	1	O
+7	hablado	hablado	V	1	O
+8	que	que	G	1	O
+9	no	no	D	1	O
+10	era	era	N	1	O
+11	la	la	D	1	O
+12	gran	gran	G	1	O
+13	cosa	cosa	N	1	O
+14	y	y	A	1	O
+15	creo	creo	G	1	O
+16	que	que	N	1	O
+17	exageraron	exageraron	N	1	O
+18	mucho	mucho	G	1	O
+19	,	,	O	1	O
+20	todo	todo	P	1	O
+21	era	era	N	1	O
+22	muy	muy	G	1	O
+23	bonito	bonito	N	1	O
+24	y	y	G	1	O
+25	limpio	limpio	N	1	O
+26	,	,	O	1	O
+27	el	el	N	1	O
+28	servicio	servicio	O	1	O
+29	de	de	P	1	O
+30	habitación	habitación	G	1	O
+31	era	era	N	1	O
+32	bastante	bastante	N	1	O
+33	bueno	bueno	N	1	O
+34	,	,	O	1	O
+35	aunque	aunque	G	1	O
+36	quizá	quizá	N	1	O
+37	la	la	D	1	O
+38	habitación	habitación	N	1	O
+39	un	un	G	1	O
+40	poco	poco	N	1	O
+41	pequeña	pequeña	N	1	O
 

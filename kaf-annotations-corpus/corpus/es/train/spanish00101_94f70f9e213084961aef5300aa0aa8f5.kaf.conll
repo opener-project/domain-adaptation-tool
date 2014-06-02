@@ -1,82 +1,82 @@
-1	Primera	primera	G	1	
-2	vez	vez	N	1	
-3	en	en	P	1	
-4	un	un	G	1	
-5	senator	senator	N	1	
+1	Primera	primera	G	1	O
+2	vez	vez	N	1	O
+3	en	en	P	1	O
+4	un	un	G	1	O
+5	senator	senator	N	1	O
 
-1	Buen	Buen	R	1	
-2	hotel	hotel	N	1	
-3	,	,	O	1	
-4	ubicado	ubicado	N	1	
-5	en	en	P	1	
-6	una	una	G	1	
-7	zona	zona	N	1	
-8	tranquila	tranquila	N	1	
-9	,	,	O	1	
-10	cerca	cerca	O	1	
-11	del	del	O	1	
-12	metro	metro	O	1	
-13	,	,	O	1	
-14	con	con	A	1	
-15	bares	bare	V	1	
-16	y	y	G	1	
-17	restaurantes	restaurantes	N	1	
-18	asequibles	asequibles	N	1	
-19	,	,	O	1	
-20	el	el	N	1	
-21	servicio	servicio	N	1	
-22	y	y	G	1	
-23	limpieza	limpieza	N	1	
-24	de	de	P	1	
-25	habitaciones	habitaciones	N	1	
-26	no	no	D	1	
-27	nos	nos	N	1	
-28	gustó	gustó	V	1	
-29	nada	nada	O	1	
-30	de	de	O	1	
-31	nada	nada	O	1	
-32	siempre	siempre	O	1	
-33	habia	habia	O	1	
-34	que	que	O	1	
-35	estar	estar	O	1	
-36	reclamando	reclamando	O	1	
-37	algo	algo	O	1	
-38	que	que	O	1	
-39	faltaba	faltaba	O	1	
-40	y	y	G	1	
-41	no	no	D	1	
-42	entendemos	entendemos	N	1	
-43	que	que	V	1	
-44	si	si	G	1	
-45	somos	somos	N	1	
-46	cuatro	cuatro	V	1	
-47	personas	persona	N	1	
-48	en	en	P	1	
-49	la	la	D	1	
-50	habitación	habitación	N	1	
-51	,	,	O	1	
-52	solo	solo	N	1	
-53	haya	haya	N	1	
-54	servicios	servicios	N	1	
-55	para	para	N	1	
-56	dos	dos	N	1	
-57	.	.	O	1	
+1	Buen	Buen	R	1	O
+2	hotel	hotel	N	1	O
+3	,	,	O	1	O
+4	ubicado	ubicado	N	1	O
+5	en	en	P	1	O
+6	una	una	G	1	O
+7	zona	zona	N	1	O
+8	tranquila	tranquila	N	1	O
+9	,	,	O	1	O
+10	cerca	cerca	O	1	O
+11	del	del	O	1	O
+12	metro	metro	O	1	O
+13	,	,	O	1	O
+14	con	con	A	1	O
+15	bares	bare	V	1	O
+16	y	y	G	1	O
+17	restaurantes	restaurantes	N	1	O
+18	asequibles	asequibles	N	1	O
+19	,	,	O	1	O
+20	el	el	N	1	O
+21	servicio	servicio	N	1	O
+22	y	y	G	1	O
+23	limpieza	limpieza	N	1	O
+24	de	de	P	1	O
+25	habitaciones	habitaciones	N	1	O
+26	no	no	D	1	O
+27	nos	nos	N	1	O
+28	gustó	gustó	V	1	O
+29	nada	nada	O	1	O
+30	de	de	O	1	O
+31	nada	nada	O	1	O
+32	siempre	siempre	O	1	O
+33	habia	habia	O	1	O
+34	que	que	O	1	O
+35	estar	estar	O	1	O
+36	reclamando	reclamando	O	1	O
+37	algo	algo	O	1	O
+38	que	que	O	1	O
+39	faltaba	faltaba	O	1	O
+40	y	y	G	1	O
+41	no	no	D	1	O
+42	entendemos	entendemos	N	1	O
+43	que	que	V	1	O
+44	si	si	G	1	O
+45	somos	somos	N	1	O
+46	cuatro	cuatro	V	1	O
+47	personas	persona	N	1	O
+48	en	en	P	1	O
+49	la	la	D	1	O
+50	habitación	habitación	N	1	O
+51	,	,	O	1	O
+52	solo	solo	N	1	O
+53	haya	haya	N	1	O
+54	servicios	servicios	N	1	O
+55	para	para	N	1	O
+56	dos	dos	N	1	O
+57	.	.	O	1	O
 
-1	El	El	R	1	
-2	personal	personal	G	1	
-3	de	de	P	1	
-4	recepcion	recepcion	N	1	
-5	estupendo	estupendo	N	1	
-6	,	,	O	1	
-7	aunque	aunque	G	1	
-8	habia	habia	N	1	
-9	que	que	V	1	
-10	esperarsiempre	esperarsiempre	N	1	
-11	porque	porque	G	1	
-12	habia	habia	N	1	
-13	mucha	mucha	G	1	
-14	gente	gente	G	1	
-15	y	y	G	1	
-16	mucha	mucha	N	1	
-17	cola	cola	N	1	
+1	El	El	R	1	O
+2	personal	personal	G	1	O
+3	de	de	P	1	O
+4	recepcion	recepcion	N	1	O
+5	estupendo	estupendo	N	1	O
+6	,	,	O	1	O
+7	aunque	aunque	G	1	O
+8	habia	habia	N	1	O
+9	que	que	V	1	O
+10	esperarsiempre	esperarsiempre	N	1	O
+11	porque	porque	G	1	O
+12	habia	habia	N	1	O
+13	mucha	mucha	G	1	O
+14	gente	gente	G	1	O
+15	y	y	G	1	O
+16	mucha	mucha	N	1	O
+17	cola	cola	N	1	O
 

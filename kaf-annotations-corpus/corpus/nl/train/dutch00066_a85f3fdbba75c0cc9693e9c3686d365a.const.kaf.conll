@@ -1,115 +1,115 @@
-1	Tegenstelling	tegenstelling	N	1	
-2	kwaliteit	kwaliteit	N	1	
-3	hotel	hotel	N	1	
-4	en	en	C	1	
-5	restaurant	restaurant	N	1	
+1	Tegenstelling	tegenstelling	N	1	O
+2	kwaliteit	kwaliteit	N	1	O
+3	hotel	hotel	N	1	O
+4	en	en	C	1	O
+5	restaurant	restaurant	N	1	O
 
-1	Hotel	hotel	N	1	
-2	+	+	O	1	
-3	verwachte	verwachten	V	1	
-4	dienstverlening	dienstverlening	N	1	
-5	conform	conform	P	1	
-6	verwachting	verwachting	N	1	
-7	(	(	O	1	
-8	4	@card@	O	1	
-9	*	*	O	1	
-10	)	)	O	1	
-11	,	,	O	1	
-12	Restaurant	Restaurant	O	1	
-13	kwaliteit	kwaliteit	N	1	
-14	diner	diner	N	1	
-15	idem	idem	A	1	
-16	;	;	O	1	
-17	bediening	bediening	N	1	
-18	restaurant	restaurant	N	1	
-19	beneden	beneden	P	1	
-20	peil	peil	N	1	
-21	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	+	+	O	1	O
+3	verwachte	verwachten	V	1	O
+4	dienstverlening	dienstverlening	N	1	O
+5	conform	conform	P	1	O
+6	verwachting	verwachting	N	1	O
+7	(	(	O	1	O
+8	4	@card@	O	1	O
+9	*	*	O	1	O
+10	)	)	O	1	O
+11	,	,	O	1	O
+12	Restaurant	Restaurant	O	1	O
+13	kwaliteit	kwaliteit	N	1	O
+14	diner	diner	N	1	O
+15	idem	idem	A	1	O
+16	;	;	O	1	O
+17	bediening	bediening	N	1	O
+18	restaurant	restaurant	N	1	O
+19	beneden	beneden	P	1	O
+20	peil	peil	N	1	O
+21	.	.	O	1	O
 
-1	De	de	D	1	
-2	gerant	gerant	N	1	
-3	was	wezen|zijn	V	1	
-4	van	van	P	1	
-5	het	het	D	1	
-6	type	type	N	1	
-7	dat	dat	C	1	
-8	een	een	D	1	
-9	paar	paar	G	1	
-10	jaar	jaar	N	1	
-11	te	te	O	1	
-12	lang	lang	G	1	
-13	te	te	O	1	
-14	beroep	beroep	N	1	
-15	heeft	hebben	V	1	
-16	uitgeoefend	uitoefenen	V	1	
-17	.	.	O	1	
+1	De	de	D	1	O
+2	gerant	gerant	N	1	O
+3	was	wezen|zijn	V	1	O
+4	van	van	P	1	O
+5	het	het	D	1	O
+6	type	type	N	1	O
+7	dat	dat	C	1	O
+8	een	een	D	1	O
+9	paar	paar	G	1	O
+10	jaar	jaar	N	1	O
+11	te	te	O	1	O
+12	lang	lang	G	1	O
+13	te	te	O	1	O
+14	beroep	beroep	N	1	O
+15	heeft	hebben	V	1	O
+16	uitgeoefend	uitoefenen	V	1	O
+17	.	.	O	1	O
 
-1	Afgestompt.	afstompen	V	1	
-2	Afgestompt.	.	O	1	
-3	bij	bij	P	1	
-4	afwijkende	afwijkende	N	1	
-5	vragen	vragen	V	1	
-6	van	van	P	1	
-7	klanten	klant	N	1	
-8	liet	laten	V	1	
-9	hij	hij	Q	1	
-10	door	door	P	1	
-11	zijn	zijn	D	1	
-12	mimiek	mimiek	N	1	
-13	en	en	C	1	
-14	lichaamshouding	lichaamshouding	O	1	
-15	zien	zien	V	1	
-16	hoe	hoe	Q	1	
-17	hij	hij	Q	1	
-18	hierover	hierover	Q	1	
-19	dacht	denken	V	1	
-20	.	.	O	1	
+1	Afgestompt.	afstompen	V	1	O
+2	Afgestompt.	.	O	1	O
+3	bij	bij	P	1	O
+4	afwijkende	afwijkende	N	1	O
+5	vragen	vragen	V	1	O
+6	van	van	P	1	O
+7	klanten	klant	N	1	O
+8	liet	laten	V	1	O
+9	hij	hij	Q	1	O
+10	door	door	P	1	O
+11	zijn	zijn	D	1	O
+12	mimiek	mimiek	N	1	O
+13	en	en	C	1	O
+14	lichaamshouding	lichaamshouding	O	1	O
+15	zien	zien	V	1	O
+16	hoe	hoe	Q	1	O
+17	hij	hij	Q	1	O
+18	hierover	hierover	Q	1	O
+19	dacht	denken	V	1	O
+20	.	.	O	1	O
 
-1	Deze	deze	D	1	
-2	meneer	meneer	N	1	
-3	is	zijn	V	1	
-4	waarschijnlijk	waarschijnlijk	G	1	
-5	vroeger	vroeg|vroeger	G	1	
-6	een	een	D	1	
-7	goede	goed	G	1	
-8	ober	ober	N	1	
-9	geweest	wezen|zijn	V	1	
-10	maar	maar	C	1	
-11	had	hebben	V	1	
-12	al	al	C	1	
-13	een	een	D	1	
-14	paar	paar	G	1	
-15	jaar	jaar	N	1	
-16	geleden	lijden	V	1	
-17	van	van	P	1	
-18	beroep	beroep	N	1	
-19	moeten	moeten	V	1	
-20	veranderen	veranderen	V	1	
-21	.	.	O	1	
+1	Deze	deze	D	1	O
+2	meneer	meneer	N	1	O
+3	is	zijn	V	1	O
+4	waarschijnlijk	waarschijnlijk	G	1	O
+5	vroeger	vroeg|vroeger	G	1	O
+6	een	een	D	1	O
+7	goede	goed	G	1	O
+8	ober	ober	N	1	O
+9	geweest	wezen|zijn	V	1	O
+10	maar	maar	C	1	O
+11	had	hebben	V	1	O
+12	al	al	C	1	O
+13	een	een	D	1	O
+14	paar	paar	G	1	O
+15	jaar	jaar	N	1	O
+16	geleden	lijden	V	1	O
+17	van	van	P	1	O
+18	beroep	beroep	N	1	O
+19	moeten	moeten	V	1	O
+20	veranderen	veranderen	V	1	O
+21	.	.	O	1	O
 
-1	Jammer	jammeren	V	1	
-2	want	want	C	1	
-3	de	de	D	1	
-4	kwaliteit	kwaliteit	N	1	
-5	van	van	P	1	
-6	de	de	D	1	
-7	keuken	keuken	N	1	
-8	is	zijn	V	1	
-9	uitstekend	uitsteken	V	1	
-10	.	.	O	1	
+1	Jammer	jammeren	V	1	O
+2	want	want	C	1	O
+3	de	de	D	1	O
+4	kwaliteit	kwaliteit	N	1	O
+5	van	van	P	1	O
+6	de	de	D	1	O
+7	keuken	keuken	N	1	O
+8	is	zijn	V	1	O
+9	uitstekend	uitsteken	V	1	O
+10	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	kom	komen	V	1	
-3	volgend	volgend	G	1	
-4	jaar	jaar	N	1	
-5	zeker	zeker	G	1	
-6	weer	weer	A	1	
-7	terug	terug	A	1	
-8	maar	maar	A	1	
-9	ga	gaan	V	1	
-10	buiten	buiten	P	1	
-11	het	het	D	1	
-12	hotel	hotel	N	1	
-13	dineren	dineren	V	1	
-14	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	kom	komen	V	1	O
+3	volgend	volgend	G	1	O
+4	jaar	jaar	N	1	O
+5	zeker	zeker	G	1	O
+6	weer	weer	A	1	O
+7	terug	terug	A	1	O
+8	maar	maar	A	1	O
+9	ga	gaan	V	1	O
+10	buiten	buiten	P	1	O
+11	het	het	D	1	O
+12	hotel	hotel	N	1	O
+13	dineren	dineren	V	1	O
+14	.	.	O	1	O
 

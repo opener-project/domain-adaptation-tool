@@ -1,76 +1,76 @@
-1	Muy	Muy	R	1	
-2	buen	buen	G	1	
-3	hotel	hotel	N	1	
-4	en	en	P	1	
-5	el	el	N	1	
-6	centro	centro	N	1	
-7	de	de	P	1	
-8	Madrid	Madrid	R	1	
+1	Muy	Muy	R	1	O
+2	buen	buen	G	1	O
+3	hotel	hotel	N	1	O
+4	en	en	P	1	O
+5	el	el	N	1	O
+6	centro	centro	N	1	O
+7	de	de	P	1	O
+8	Madrid	Madrid	R	1	O
 
-1	hotel	hotel	N	1	
-2	muy	muy	G	1	
-3	recomendable	recomendable	G	1	
-4	para	para	N	1	
-5	visitar	visitar	P	1	
-6	madrid	madrid	G	1	
-7	situado	situado	N	1	
-8	en	en	O	1	
-9	el	el	O	1	
-10	centro	centro	O	1	
-11	de	de	O	1	
-12	madrid	madrid	O	1	
-13	en	en	O	1	
-14	la	la	O	1	
-15	animada	animada	O	1	
-16	gran	gran	N	1	
-17	via	via	P	1	
-18	,	,	O	1	
-19	lugar	lugar	N	1	
-20	por	por	N	1	
-21	exelencia	exelencia	O	1	
-22	de	de	O	1	
-23	ocio	ocio	O	1	
-24	en	en	O	1	
-25	madrid	madrid	O	1	
-26	puedes	puedes	O	1	
-27	encontrar	encontrar	O	1	
-28	teatros	teatros	N	1	
-29	,	,	O	1	
-30	cines	cines	N	1	
-31	,	,	O	1	
-32	restaurantes	restaurantes	V	1	
-33	,	,	O	1	
-34	brares	brares	V	1	
-35	etc.las	etc.las	N	1	
-36	habitaciones	habitaciones	N	1	
-37	del	del	G	1	
-38	hotel	hotel	N	1	
-39	son	son	N	1	
-40	muy	muy	G	1	
-41	confortables	confortables	N	1	
-42	buen	buen	V	1	
-43	cuarto	cuarto	P	1	
-44	de	de	V	1	
-45	baño	baño	N	1	
-46	,	,	O	1	
-47	minibar	minibar	N	1	
-48	gratuito	gratuito	N	1	
-49	,	,	O	1	
-50	y	y	G	1	
-51	grades	grade	N	1	
-52	camas	camas	N	1	
-53	,	,	O	1	
-54	soy	soy	N	1	
-55	cliente	cliente	N	1	
-56	asiduo	asiduo	A	1	
-57	de	de	P	1	
-58	esta	esta	N	1	
-59	hotel	hotel	N	1	
-60	y	y	G	1	
-61	vovere	vovere	N	1	
-62	todas	todas	N	1	
-63	las	las	V	1	
-64	veces	veces	N	1	
-65	que	que	V	1	
-66	pueda	pueda	N	1	
+1	hotel	hotel	N	1	O
+2	muy	muy	G	1	O
+3	recomendable	recomendable	G	1	O
+4	para	para	N	1	O
+5	visitar	visitar	P	1	O
+6	madrid	madrid	G	1	O
+7	situado	situado	N	1	O
+8	en	en	O	1	O
+9	el	el	O	1	O
+10	centro	centro	O	1	O
+11	de	de	O	1	O
+12	madrid	madrid	O	1	O
+13	en	en	O	1	O
+14	la	la	O	1	O
+15	animada	animada	O	1	O
+16	gran	gran	N	1	O
+17	via	via	P	1	O
+18	,	,	O	1	O
+19	lugar	lugar	N	1	O
+20	por	por	N	1	O
+21	exelencia	exelencia	O	1	O
+22	de	de	O	1	O
+23	ocio	ocio	O	1	O
+24	en	en	O	1	O
+25	madrid	madrid	O	1	O
+26	puedes	puedes	O	1	O
+27	encontrar	encontrar	O	1	O
+28	teatros	teatros	N	1	O
+29	,	,	O	1	O
+30	cines	cines	N	1	O
+31	,	,	O	1	O
+32	restaurantes	restaurantes	V	1	O
+33	,	,	O	1	O
+34	brares	brares	V	1	O
+35	etc.las	etc.las	N	1	O
+36	habitaciones	habitaciones	N	1	O
+37	del	del	G	1	O
+38	hotel	hotel	N	1	O
+39	son	son	N	1	O
+40	muy	muy	G	1	O
+41	confortables	confortables	N	1	O
+42	buen	buen	V	1	O
+43	cuarto	cuarto	P	1	O
+44	de	de	V	1	O
+45	baño	baño	N	1	O
+46	,	,	O	1	O
+47	minibar	minibar	N	1	O
+48	gratuito	gratuito	N	1	O
+49	,	,	O	1	O
+50	y	y	G	1	O
+51	grades	grade	N	1	O
+52	camas	camas	N	1	O
+53	,	,	O	1	O
+54	soy	soy	N	1	O
+55	cliente	cliente	N	1	O
+56	asiduo	asiduo	A	1	O
+57	de	de	P	1	O
+58	esta	esta	N	1	O
+59	hotel	hotel	N	1	O
+60	y	y	G	1	O
+61	vovere	vovere	N	1	O
+62	todas	todas	N	1	O
+63	las	las	V	1	O
+64	veces	veces	N	1	O
+65	que	que	V	1	O
+66	pueda	pueda	N	1	O
 

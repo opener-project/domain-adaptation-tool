@@ -1,106 +1,106 @@
-1	Décevant	décevoir	V	1	
-2	!	!	O	1	
+1	Décevant	décevoir	V	1	O
+2	!	!	O	1	O
 
-1	Partis	parti	N	1	
-2	avec	avec	P	1	
-3	un	un	D	1	
-4	couple	couple	N	1	
-5	d'	d'	P	1	
-6	amis	ami	N	1	
-7	et	et	C	1	
-8	3	3	D	1	
-9	enfants	enfant	N	1	
-10	en	en	P	1	
-11	bas	bas	G	1	
-12	âge	âge	N	1	
-13	,	,	O	1	
-14	nous	lui	Q	1	
-15	avons	avoir	V	1	
-16	été	être	V	1	
-17	très	très	G	1	
-18	déçus	décevoir	V	1	
-19	par	par	P	1	
-20	cette	ce	D	1	
-21	visite	visite	N	1	
-22	!	!	O	1	
+1	Partis	parti	N	1	O
+2	avec	avec	P	1	O
+3	un	un	D	1	O
+4	couple	couple	N	1	O
+5	d'	d'	P	1	O
+6	amis	ami	N	1	O
+7	et	et	C	1	O
+8	3	3	D	1	O
+9	enfants	enfant	N	1	O
+10	en	en	P	1	O
+11	bas	bas	G	1	O
+12	âge	âge	N	1	O
+13	,	,	O	1	O
+14	nous	lui	Q	1	O
+15	avons	avoir	V	1	O
+16	été	être	V	1	O
+17	très	très	G	1	O
+18	déçus	décevoir	V	1	O
+19	par	par	P	1	O
+20	cette	ce	D	1	O
+21	visite	visite	N	1	O
+22	!	!	O	1	O
 
-1	Heureusement	Heureusement	G	1	
-2	que	que	C	1	
-3	les	le	D	1	
-4	enfants	enfant	N	1	
-5	ne	ne	G	1	
-6	payaient	payer	V	1	
-7	pas	pas	G	1	
-8	,	,	O	1	
-9	car	car	C	1	
-10	pour	pour	P	1	
-11	le	le	D	1	
-12	prix	prix	N	1	
-13	ça	ça	P	1	
-14	ne	ne	G	1	
-15	vaut	valoir	V	1	
-16	vraiment	vraiment	G	1	
-17	pas	pas	G	1	
-18	le	le	D	1	
-19	détour	détour	N	1	
-20	!	!	O	1	
+1	Heureusement	Heureusement	G	1	O
+2	que	que	C	1	O
+3	les	le	D	1	O
+4	enfants	enfant	N	1	O
+5	ne	ne	G	1	O
+6	payaient	payer	V	1	O
+7	pas	pas	G	1	O
+8	,	,	O	1	O
+9	car	car	C	1	O
+10	pour	pour	P	1	O
+11	le	le	D	1	O
+12	prix	prix	N	1	O
+13	ça	ça	P	1	O
+14	ne	ne	G	1	O
+15	vaut	valoir	V	1	O
+16	vraiment	vraiment	G	1	O
+17	pas	pas	G	1	O
+18	le	le	D	1	O
+19	détour	détour	N	1	O
+20	!	!	O	1	O
 
-1	Les	le	D	1	
-2	enfants	enfant	N	1	
-3	se	se	Q	1	
-4	sont	être	V	1	
-5	amusés	amuser	V	1	
-6	mais	mais	C	1	
-7	la	le	D	1	
-8	visite	visite	N	1	
-9	est	être	V	1	
-10	vite	vite	G	1	
-11	terminée	terminer	V	1	
-12	et	et	C	1	
-13	les	le	D	1	
-14	adultes	adulte	N	1	
-15	n'	n'	G	1	
-16	en	en	Q	1	
-17	prennent	prendre	V	1	
-18	pas	pas	G	1	
-19	plein	plein	G	1	
-20	les	le	D	1	
-21	yeux	oeil	N	1	
-22	...	...	O	1	
+1	Les	le	D	1	O
+2	enfants	enfant	N	1	O
+3	se	se	Q	1	O
+4	sont	être	V	1	O
+5	amusés	amuser	V	1	O
+6	mais	mais	C	1	O
+7	la	le	D	1	O
+8	visite	visite	N	1	O
+9	est	être	V	1	O
+10	vite	vite	G	1	O
+11	terminée	terminer	V	1	O
+12	et	et	C	1	O
+13	les	le	D	1	O
+14	adultes	adulte	N	1	O
+15	n'	n'	G	1	O
+16	en	en	Q	1	O
+17	prennent	prendre	V	1	O
+18	pas	pas	G	1	O
+19	plein	plein	G	1	O
+20	les	le	D	1	O
+21	yeux	oeil	N	1	O
+22	...	...	O	1	O
 
-1	Bref	bref	G	1	
-2	,	,	O	1	
-3	je	je	Q	1	
-4	trouve	trouver	V	1	
-5	cela	cela	P	1	
-6	très	très	G	1	
-7	cher	cher	G	1	
-8	pour	pour	P	1	
-9	ce	ce	P	1	
-10	que	que	C	1	
-11	c'	c'	Q	1	
-12	est	être	V	1	
-13	!	!	O	1	
+1	Bref	bref	G	1	O
+2	,	,	O	1	O
+3	je	je	Q	1	O
+4	trouve	trouver	V	1	O
+5	cela	cela	P	1	O
+6	très	très	G	1	O
+7	cher	cher	G	1	O
+8	pour	pour	P	1	O
+9	ce	ce	P	1	O
+10	que	que	C	1	O
+11	c'	c'	Q	1	O
+12	est	être	V	1	O
+13	!	!	O	1	O
 
-1	Mais	Mais	C	1	
-2	j'	j'	Q	1	
-3	ai	avoir	V	1	
-4	globalement	globalement	G	1	
-5	l'	le	D	1	
-6	impression	impression	N	1	
-7	que	que	C	1	
-8	ce	ce	Q	1	
-9	n'	n'	G	1	
-10	est	être	V	1	
-11	pas	pas	G	1	
-12	le	le	D	1	
-13	seul	seul	G	1	
-14	"	&amp;quot;	O	1	
-15	attrape	attrape	N	1	
-16	·	·	G	1	
-17	touristes	touriste	N	1	
-18	"	&amp;quot;	O	1	
-19	du	du	D	1	
-20	coin	coin	N	1	
-21	...	...	O	1	
+1	Mais	Mais	C	1	O
+2	j'	j'	Q	1	O
+3	ai	avoir	V	1	O
+4	globalement	globalement	G	1	O
+5	l'	le	D	1	O
+6	impression	impression	N	1	O
+7	que	que	C	1	O
+8	ce	ce	Q	1	O
+9	n'	n'	G	1	O
+10	est	être	V	1	O
+11	pas	pas	G	1	O
+12	le	le	D	1	O
+13	seul	seul	G	1	O
+14	"	&amp;quot;	O	1	O
+15	attrape	attrape	N	1	O
+16	·	·	G	1	O
+17	touristes	touriste	N	1	O
+18	"	&amp;quot;	O	1	O
+19	du	du	D	1	O
+20	coin	coin	N	1	O
+21	...	...	O	1	O
 

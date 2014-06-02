@@ -1,68 +1,68 @@
-1	Mi	Mi	R	1	
-2	luna	luna	O	1	
-3	de	de	O	1	
-4	miel	miel	O	1	
+1	Mi	Mi	R	1	O
+2	luna	luna	O	1	O
+3	de	de	O	1	O
+4	miel	miel	O	1	O
 
-1	buscaba	buscaba	O	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	en	en	P	1	
-5	Montmartre	Montmartre	R	1	ne=Location
-6	y	y	G	1	
-7	este	este	N	1	
-8	cumplió	cumplió	N	1	
-9	mis	mis	V	1	
-10	expectativas	expectativas	N	1	
-11	,	,	O	1	
-12	la	la	D	1	
-13	habitación	habitación	G	1	
-14	aunque	aunque	G	1	
-15	pequeña	pequeña	N	1	
-16	era	era	N	1	
-17	muy	muy	G	1	
-18	acogedora	acogedora	N	1	
-19	,	,	O	1	
-20	con	con	G	1	
-21	encanto	encanto	N	1	
-22	,	,	O	1	
-23	suficiente	suficiente	G	1	
-24	para	para	N	1	
-25	descansar	descansar	O	1	
-26	de	de	O	1	
-27	las	las	O	1	
-28	palizas	palizas	O	1	
-29	de	de	O	1	
-30	andar	andar	O	1	
-31	que	que	O	1	
-32	te	te	O	1	
-33	metes	metes	O	1	
-34	en	en	O	1	
-35	parís.	parís.	R	1	ne=Location
-36	el	el	O	1	
-37	barrio	barrio	O	1	
-38	aunque	aunque	O	1	
-39	supongo	supongo	O	1	
-40	que	que	O	1	
-41	ha	ha	O	1	
-42	perdido	perdido	O	1	
-43	parte	parte	O	1	
-44	de	de	O	1	
-45	la	la	O	1	
-46	bohemia	bohemia	O	1	
-47	de	de	O	1	
-48	otros	otros	O	1	
-49	tiempos	tiempos	O	1	
-50	merece	merece	O	1	
-51	la	la	O	1	
-52	pena	pena	O	1	
-53	por	por	O	1	
-54	sus	sus	O	1	
-55	cafes	cafe	N	1	
-56	,	,	O	1	
-57	tiendas	tiendas	N	1	
-58	de	de	P	1	
-59	flores	flores	N	1	
-60	,	,	O	1	
-61	frutas	frutas	N	1	
-62	...	...	O	1	
+1	buscaba	buscaba	O	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	en	en	P	1	O
+5	Montmartre	Montmartre	R	1	I-Location
+6	y	y	G	1	O
+7	este	este	N	1	O
+8	cumplió	cumplió	N	1	O
+9	mis	mis	V	1	O
+10	expectativas	expectativas	N	1	O
+11	,	,	O	1	O
+12	la	la	D	1	O
+13	habitación	habitación	G	1	O
+14	aunque	aunque	G	1	O
+15	pequeña	pequeña	N	1	O
+16	era	era	N	1	O
+17	muy	muy	G	1	O
+18	acogedora	acogedora	N	1	O
+19	,	,	O	1	O
+20	con	con	G	1	O
+21	encanto	encanto	N	1	O
+22	,	,	O	1	O
+23	suficiente	suficiente	G	1	O
+24	para	para	N	1	O
+25	descansar	descansar	O	1	O
+26	de	de	O	1	O
+27	las	las	O	1	O
+28	palizas	palizas	O	1	O
+29	de	de	O	1	O
+30	andar	andar	O	1	O
+31	que	que	O	1	O
+32	te	te	O	1	O
+33	metes	metes	O	1	O
+34	en	en	O	1	O
+35	parís.	parís.	R	1	I-Location
+36	el	el	O	1	O
+37	barrio	barrio	O	1	O
+38	aunque	aunque	O	1	O
+39	supongo	supongo	O	1	O
+40	que	que	O	1	O
+41	ha	ha	O	1	O
+42	perdido	perdido	O	1	O
+43	parte	parte	O	1	O
+44	de	de	O	1	O
+45	la	la	O	1	O
+46	bohemia	bohemia	O	1	O
+47	de	de	O	1	O
+48	otros	otros	O	1	O
+49	tiempos	tiempos	O	1	O
+50	merece	merece	O	1	O
+51	la	la	O	1	O
+52	pena	pena	O	1	O
+53	por	por	O	1	O
+54	sus	sus	O	1	O
+55	cafes	cafe	N	1	O
+56	,	,	O	1	O
+57	tiendas	tiendas	N	1	O
+58	de	de	P	1	O
+59	flores	flores	N	1	O
+60	,	,	O	1	O
+61	frutas	frutas	N	1	O
+62	...	...	O	1	O
 

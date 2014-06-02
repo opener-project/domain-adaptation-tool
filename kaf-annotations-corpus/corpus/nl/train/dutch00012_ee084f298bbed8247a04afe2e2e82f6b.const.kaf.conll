@@ -1,150 +1,150 @@
-1	Uitstekend	uitstekend	G	1	
-2	hotel	hotel	N	1	
-3	met	met	P	1	
-4	prima	prima	G	1	
-5	faciliteiten	faciliteit	N	1	
+1	Uitstekend	uitstekend	G	1	O
+2	hotel	hotel	N	1	O
+3	met	met	P	1	O
+4	prima	prima	G	1	O
+5	faciliteiten	faciliteit	N	1	O
 
-1	Een	een	D	1	
-2	all	all	O	1	
-3	inclusive	inclusive	O	1	
-4	hotel	hotel	N	1	
-5	welke	welk	Q	1	
-6	zeer	zeer	G	1	
-7	ruim	ruim	G	1	
-8	is	zijn	V	1	
-9	opgezet.	opzetten	V	1	
-10	opgezet.	.	O	1	
-11	maximale	maximaal	G	1	
-12	hoogte	hoogte	N	1	
-13	bouw	bouwen	V	1	
-14	3	@card@	O	1	
-15	verdiepingen	verdieping|verdiep	N	1	
-16	.	.	O	1	
+1	Een	een	D	1	O
+2	all	all	O	1	O
+3	inclusive	inclusive	O	1	O
+4	hotel	hotel	N	1	O
+5	welke	welk	Q	1	O
+6	zeer	zeer	G	1	O
+7	ruim	ruim	G	1	O
+8	is	zijn	V	1	O
+9	opgezet.	opzetten	V	1	O
+10	opgezet.	.	O	1	O
+11	maximale	maximaal	G	1	O
+12	hoogte	hoogte	N	1	O
+13	bouw	bouwen	V	1	O
+14	3	@card@	O	1	O
+15	verdiepingen	verdieping|verdiep	N	1	O
+16	.	.	O	1	O
 
-1	Ziet	zien	V	1	
-2	er	er	Q	1	
-3	uit	uit	A	1	
-4	als	als	C	1	
-5	een	een	D	1	
-6	dorp	dorp	N	1	
-7	op	op	P	1	
-8	zich	zich	Q	1	
-9	met	met	P	1	
-10	groot	groot	G	1	
-11	aangelegde	aangelegd	G	1	
-12	tuin	tuin	N	1	
-13	aansluitend	aansluiten	V	1	
-14	op	op	P	1	
-15	het	het	D	1	
-16	strand	strand	N	1	
-17	.	.	O	1	
+1	Ziet	zien	V	1	O
+2	er	er	Q	1	O
+3	uit	uit	A	1	O
+4	als	als	C	1	O
+5	een	een	D	1	O
+6	dorp	dorp	N	1	O
+7	op	op	P	1	O
+8	zich	zich	Q	1	O
+9	met	met	P	1	O
+10	groot	groot	G	1	O
+11	aangelegde	aangelegd	G	1	O
+12	tuin	tuin	N	1	O
+13	aansluitend	aansluiten	V	1	O
+14	op	op	P	1	O
+15	het	het	D	1	O
+16	strand	strand	N	1	O
+17	.	.	O	1	O
 
-1	Hotel	hotel	N	1	
-2	ziet	zien	V	1	
-3	er	er	Q	1	
-4	heel	heel	A	1	
-5	netjes	net|netjes	G	1	
-6	uit	uit	A	1	
-7	en	en	C	1	
-8	er	er	Q	1	
-9	wordt	worden	V	1	
-10	door	door	P	1	
-11	het	het	D	1	
-12	personeel	personeel	N	1	
-13	veel	veel	A	1	
-14	tijd	tijd	N	1	
-15	besteedt	besteden	V	1	
-16	aan	aan	P	1	
-17	het	het	D	1	
-18	onderhoud	onderhoud	N	1	
-19	/	/	O	1	
-20	schoonhouden	schoonhouden	V	1	
-21	ervan	ervan	Q	1	
-22	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	ziet	zien	V	1	O
+3	er	er	Q	1	O
+4	heel	heel	A	1	O
+5	netjes	net|netjes	G	1	O
+6	uit	uit	A	1	O
+7	en	en	C	1	O
+8	er	er	Q	1	O
+9	wordt	worden	V	1	O
+10	door	door	P	1	O
+11	het	het	D	1	O
+12	personeel	personeel	N	1	O
+13	veel	veel	A	1	O
+14	tijd	tijd	N	1	O
+15	besteedt	besteden	V	1	O
+16	aan	aan	P	1	O
+17	het	het	D	1	O
+18	onderhoud	onderhoud	N	1	O
+19	/	/	O	1	O
+20	schoonhouden	schoonhouden	V	1	O
+21	ervan	ervan	Q	1	O
+22	.	.	O	1	O
 
-1	Er	er	Q	1	
-2	zijn	zijn	V	1	
-3	meerdere	meerdere	D	1	
-4	restaurants	restaurant	N	1	
-5	waaruit	waaruit	Q	1	
-6	je	je	Q	1	
-7	kunt	kunnen	V	1	
-8	kiezen	kiezen	V	1	
-9	om	om	C	1	
-10	te	te	O	1	
-11	eten	eten	V	1	
-12	,	,	O	1	
-13	er	er	Q	1	
-14	is	zijn	V	1	
-15	voor	voor	P	1	
-16	ieder	ieder	D	1	
-17	wat	wat	D	1	
-18	wils	wil	N	1	
-19	.	.	O	1	
+1	Er	er	Q	1	O
+2	zijn	zijn	V	1	O
+3	meerdere	meerdere	D	1	O
+4	restaurants	restaurant	N	1	O
+5	waaruit	waaruit	Q	1	O
+6	je	je	Q	1	O
+7	kunt	kunnen	V	1	O
+8	kiezen	kiezen	V	1	O
+9	om	om	C	1	O
+10	te	te	O	1	O
+11	eten	eten	V	1	O
+12	,	,	O	1	O
+13	er	er	Q	1	O
+14	is	zijn	V	1	O
+15	voor	voor	P	1	O
+16	ieder	ieder	D	1	O
+17	wat	wat	D	1	O
+18	wils	wil	N	1	O
+19	.	.	O	1	O
 
-1	Je	je	Q	1	
-2	krijgt	krijgen	V	1	
-3	een	een	D	1	
-4	lijst	lijst	N	1	
-5	bij	bij	A	1	
-6	incheck	inchecken	V	1	
-7	waarop	waarop	Q	1	
-8	de	de	D	1	
-9	openingstijden	openingstijd	N	1	
-10	staan	staan	V	1	
-11	en	en	C	1	
-12	ook	ook	A	1	
-13	dat	dat	C	1	
-14	er	er	Q	1	
-15	een	een	D	1	
-16	"	"	O	1	
-17	adult	adult	O	1	
-18	"	"	O	1	
-19	restaurant	restaurant	N	1	
-20	is	zijn	V	1	
-21	(	(	O	1	
-22	geen	geen	D	1	
-23	kids	kids	O	1	
-24	binnen	binnen	P	1	
-25	)	)	O	1	
-26	.	.	O	1	
+1	Je	je	Q	1	O
+2	krijgt	krijgen	V	1	O
+3	een	een	D	1	O
+4	lijst	lijst	N	1	O
+5	bij	bij	A	1	O
+6	incheck	inchecken	V	1	O
+7	waarop	waarop	Q	1	O
+8	de	de	D	1	O
+9	openingstijden	openingstijd	N	1	O
+10	staan	staan	V	1	O
+11	en	en	C	1	O
+12	ook	ook	A	1	O
+13	dat	dat	C	1	O
+14	er	er	Q	1	O
+15	een	een	D	1	O
+16	"	"	O	1	O
+17	adult	adult	O	1	O
+18	"	"	O	1	O
+19	restaurant	restaurant	N	1	O
+20	is	zijn	V	1	O
+21	(	(	O	1	O
+22	geen	geen	D	1	O
+23	kids	kids	O	1	O
+24	binnen	binnen	P	1	O
+25	)	)	O	1	O
+26	.	.	O	1	O
 
-1	De	de	D	1	
-2	samenstelling	samenstelling	N	1	
-3	van	van	P	1	
-4	de	de	D	1	
-5	gasten	gast|gasten	N	1	
-6	is	zijn	V	1	
-7	veelzijdig	veelzijdig	G	1	
-8	.	.	O	1	
+1	De	de	D	1	O
+2	samenstelling	samenstelling	N	1	O
+3	van	van	P	1	O
+4	de	de	D	1	O
+5	gasten	gast|gasten	N	1	O
+6	is	zijn	V	1	O
+7	veelzijdig	veelzijdig	G	1	O
+8	.	.	O	1	O
 
-1	Tijdens	tijdens	P	1	
-2	ons	ons	D	1	
-3	verblijf	verblijf	N	1	
-4	voornamelijk	voornamelijk	A	1	
-5	Russen	Rus	N	1	
-6	,	,	O	1	
-7	Polen	Polen	R	1	
-8	.	.	O	1	
+1	Tijdens	tijdens	P	1	O
+2	ons	ons	D	1	O
+3	verblijf	verblijf	N	1	O
+4	voornamelijk	voornamelijk	A	1	O
+5	Russen	Rus	N	1	O
+6	,	,	O	1	O
+7	Polen	Polen	R	1	O
+8	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	Engelsen	Engelse|Engelsman	N	1	
-3	,	,	O	1	
-4	Duitsers	Duitser	N	1	
-5	en	en	C	1	
-6	Nederlanders	Nederlander	N	1	
-7	.	.	O	1	
+1	Ook	ook	A	1	O
+2	Engelsen	Engelse|Engelsman	N	1	O
+3	,	,	O	1	O
+4	Duitsers	Duitser	N	1	O
+5	en	en	C	1	O
+6	Nederlanders	Nederlander	N	1	O
+7	.	.	O	1	O
 
-1	De	de	D	1	
-2	gasten	gast|gasten	N	1	
-3	die	die	Q	1	
-4	er	er	Q	1	
-5	waren	wezen|zijn	V	1	
-6	varieren	varieren	O	1	
-7	in	in	P	1	
-8	leeftijd	leeftijd	N	1	
-9	0	@card@	O	1	
-10	·	·	O	1	
-11	80	@card@	O	1	
-12	.	.	O	1	
+1	De	de	D	1	O
+2	gasten	gast|gasten	N	1	O
+3	die	die	Q	1	O
+4	er	er	Q	1	O
+5	waren	wezen|zijn	V	1	O
+6	varieren	varieren	O	1	O
+7	in	in	P	1	O
+8	leeftijd	leeftijd	N	1	O
+9	0	@card@	O	1	O
+10	·	·	O	1	O
+11	80	@card@	O	1	O
+12	.	.	O	1	O
 

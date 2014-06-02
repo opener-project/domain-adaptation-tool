@@ -1,163 +1,163 @@
-1	Un	uno	D	1	
-2	Ramada	ramada	R	1	ne=Hotel
-3	che	che	Q	1	
-4	offre	offrire	V	1	
-5	ben	ben	A	1	
-6	poco	poco	A	1	
+1	Un	uno	D	1	O
+2	Ramada	ramada	R	1	I-Hotel
+3	che	che	Q	1	O
+4	offre	offrire	V	1	O
+5	ben	ben	A	1	O
+6	poco	poco	A	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	sorge	sorgere	V	1	
-4	nella	nella	P	1	
-5	downtown	downtown	R	1	
-6	di	di	P	1	
-7	Vancouver	vancouver	R	1	ne=Location
-8	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	sorge	sorgere	V	1	O
+4	nella	nella	P	1	O
+5	downtown	downtown	R	1	O
+6	di	di	P	1	O
+7	Vancouver	vancouver	R	1	I-Location
+8	.	.	O	1	O
 
-1	Ad	ad	P	1	
-2	essere	essera	N	1	
-3	onesti	onesto	N	1	
-4	l'	lo	D	1	
-5	albergo	albergo	N	1	
-6	ha	avere	V	1	
-7	un	uno	D	1	
-8	po'	po'	A	1	
-9	deluso	deludere	V	1	
-10	.	.	O	1	
+1	Ad	ad	P	1	O
+2	essere	essera	N	1	O
+3	onesti	onesto	N	1	O
+4	l'	lo	D	1	O
+5	albergo	albergo	N	1	O
+6	ha	avere	V	1	O
+7	un	uno	D	1	O
+8	po'	po'	A	1	O
+9	deluso	deludere	V	1	O
+10	.	.	O	1	O
 
-1	Essendo	essere	V	1	
-2	un	uno	D	1	
-3	Ramada	ramada	R	1	ne=Hotel
-4	mi	mi	Q	1	
-5	aspettavo	aspettare	V	1	
-6	qualcosa	qualcosa	Q	1	
-7	in	in	P	1	
-8	più	piu'	N	1	
-9	.	.	O	1	
+1	Essendo	essere	V	1	O
+2	un	uno	D	1	O
+3	Ramada	ramada	R	1	I-Hotel
+4	mi	mi	Q	1	O
+5	aspettavo	aspettare	V	1	O
+6	qualcosa	qualcosa	Q	1	O
+7	in	in	P	1	O
+8	più	piu'	N	1	O
+9	.	.	O	1	O
 
-1	E	e	Q	1	
-2	'	'	Q	1	
-3	caro	caro	V	1	
-4	come	come	Q	1	
-5	tutti	tutto	G	1	
-6	gli	lo	D	1	
-7	alberghi	albergo	N	1	
-8	a	a	P	1	
-9	Vancouver	vancouver	R	1	ne=Location
-10	ma	ma	Q	1	
-11	offre	offrire	V	1	
-12	ben	ben	A	1	
-13	poco	poco	A	1	
-14	.	.	O	1	
+1	E	e	Q	1	O
+2	'	'	Q	1	O
+3	caro	caro	V	1	O
+4	come	come	Q	1	O
+5	tutti	tutto	G	1	O
+6	gli	lo	D	1	O
+7	alberghi	albergo	N	1	O
+8	a	a	P	1	O
+9	Vancouver	vancouver	R	1	I-Location
+10	ma	ma	Q	1	O
+11	offre	offrire	V	1	O
+12	ben	ben	A	1	O
+13	poco	poco	A	1	O
+14	.	.	O	1	O
 
-1	La	lo	D	1	
-2	mia	mio	G	1	
-3	stanza	stanza	N	1	
-4	era	essere	V	1	
-5	molto	molto	A	1	
-6	piccola	piccolo	G	1	
-7	con	con	P	1	
-8	il	lo	D	1	
-9	letto	letto	N	1	
-10	che	che	Q	1	
-11	occupava	occupare	V	1	
-12	buona	buono	G	1	
-13	parte	parte	N	1	
-14	della	della	P	1	
-15	stanza	stanza	N	1	
-16	.	.	O	1	
+1	La	lo	D	1	O
+2	mia	mio	G	1	O
+3	stanza	stanza	N	1	O
+4	era	essere	V	1	O
+5	molto	molto	A	1	O
+6	piccola	piccolo	G	1	O
+7	con	con	P	1	O
+8	il	lo	D	1	O
+9	letto	letto	N	1	O
+10	che	che	Q	1	O
+11	occupava	occupare	V	1	O
+12	buona	buono	G	1	O
+13	parte	parte	N	1	O
+14	della	della	P	1	O
+15	stanza	stanza	N	1	O
+16	.	.	O	1	O
 
-1	Piccolo	piccolo	G	1	
-2	armadio	armadio	N	1	
-3	e	e	Q	1	
-4	piccola	piccolo	G	1	
-5	scrivania	scrivania	N	1	
-6	.	.	O	1	
+1	Piccolo	piccolo	G	1	O
+2	armadio	armadio	N	1	O
+3	e	e	Q	1	O
+4	piccola	piccolo	G	1	O
+5	scrivania	scrivania	N	1	O
+6	.	.	O	1	O
 
-1	Bagno	bagno	R	1	
-2	non	non	A	1	
-3	piccolo	piccolo	G	1	
-4	e	e	Q	1	
-5	abbastanza	abbastanza	A	1	
-6	pulito	pulire	V	1	
-7	(	(	O	1	
-8	con	con	P	1	
-9	vasca	vasca	N	1	
-10	)	)	O	1	
-11	.	.	O	1	
+1	Bagno	bagno	R	1	O
+2	non	non	A	1	O
+3	piccolo	piccolo	G	1	O
+4	e	e	Q	1	O
+5	abbastanza	abbastanza	A	1	O
+6	pulito	pulire	V	1	O
+7	(	(	O	1	O
+8	con	con	P	1	O
+9	vasca	vasca	N	1	O
+10	)	)	O	1	O
+11	.	.	O	1	O
 
-1	Connessione	connessione	N	1	
-2	Internet	internet	R	1	
-3	gratuita	gratuita	R	1	
-4	e	e	Q	1	
-5	abbastanza	abbastanza	A	1	
-6	veloce	veloce	G	1	
-7	.	.	O	1	
+1	Connessione	connessione	N	1	O
+2	Internet	internet	R	1	O
+3	gratuita	gratuita	R	1	O
+4	e	e	Q	1	O
+5	abbastanza	abbastanza	A	1	O
+6	veloce	veloce	G	1	O
+7	.	.	O	1	O
 
-1	La	lo	D	1	
-2	colazione	colazione	N	1	
-3	la	la	Q	1	
-4	si	si	Q	1	
-5	può	può	R	1	
-6	consumare	consumare	V	1	
-7	nel	nel	P	1	
-8	ristorante	ristorare	V	1	
-9	attiguo	attiguo	N	1	
-10	aperto	aprire	V	1	
-11	anche	anche	Q	1	
-12	ai	ai	P	1	
-13	non	non	A	1	
-14	clienti	cliente	N	1	
-15	dell'	dell'	P	1	
-16	albergo	albergo	N	1	
-17	.	.	O	1	
+1	La	lo	D	1	O
+2	colazione	colazione	N	1	O
+3	la	la	Q	1	O
+4	si	si	Q	1	O
+5	può	può	R	1	O
+6	consumare	consumare	V	1	O
+7	nel	nel	P	1	O
+8	ristorante	ristorare	V	1	O
+9	attiguo	attiguo	N	1	O
+10	aperto	aprire	V	1	O
+11	anche	anche	Q	1	O
+12	ai	ai	P	1	O
+13	non	non	A	1	O
+14	clienti	cliente	N	1	O
+15	dell'	dell'	P	1	O
+16	albergo	albergo	N	1	O
+17	.	.	O	1	O
 
-1	Se	se	Q	1	
-2	siete	essere	V	1	
-3	amanti	amante	N	1	
-4	della	della	P	1	
-5	colazione	colazione	N	1	
-6	Mediterranea	mediterraneo	G	1	
-7	con	con	P	1	
-8	cappuccio	cappuccio	N	1	
-9	e	e	Q	1	
-10	cornetto	cornetto	G	1	
-11	è	è	R	1	
-12	meglio	meglio	A	1	
-13	andare	andare	V	1	
-14	in	in	P	1	
-15	cerca	cercare	V	1	
-16	di	di	P	1	
-17	uno	uno	Q	1	
-18	degli	degli	P	1	
-19	Starbucks	starbucks	R	1	ne=POI
-20	lungo	lungo	P	1	
-21	la	lo	D	1	
-22	strada	strada	N	1	
-23	.	.	O	1	
+1	Se	se	Q	1	O
+2	siete	essere	V	1	O
+3	amanti	amante	N	1	O
+4	della	della	P	1	O
+5	colazione	colazione	N	1	O
+6	Mediterranea	mediterraneo	G	1	O
+7	con	con	P	1	O
+8	cappuccio	cappuccio	N	1	O
+9	e	e	Q	1	O
+10	cornetto	cornetto	G	1	O
+11	è	è	R	1	O
+12	meglio	meglio	A	1	O
+13	andare	andare	V	1	O
+14	in	in	P	1	O
+15	cerca	cercare	V	1	O
+16	di	di	P	1	O
+17	uno	uno	Q	1	O
+18	degli	degli	P	1	O
+19	Starbucks	starbucks	R	1	I-POI
+20	lungo	lungo	P	1	O
+21	la	lo	D	1	O
+22	strada	strada	N	1	O
+23	.	.	O	1	O
 
-1	La	lo	D	1	
-2	zona	zona	N	1	
-3	non	non	A	1	
-4	è	essere	V	1	
-5	male	malo	G	1	
-6	anche	anche	Q	1	
-7	se	se	Q	1	
-8	è	è	G	1	
-9	la	lo	D	1	
-10	downtown	downtown	A	1	
-11	tipica	tipico	G	1	
-12	delle	delle	P	1	
-13	grandi	grande	G	1	
-14	città	citta'	N	1	
-15	NordAmericane	nordamericano	R	1	
-16	.	.	O	1	
+1	La	lo	D	1	O
+2	zona	zona	N	1	O
+3	non	non	A	1	O
+4	è	essere	V	1	O
+5	male	malo	G	1	O
+6	anche	anche	Q	1	O
+7	se	se	Q	1	O
+8	è	è	G	1	O
+9	la	lo	D	1	O
+10	downtown	downtown	A	1	O
+11	tipica	tipico	G	1	O
+12	delle	delle	P	1	O
+13	grandi	grande	G	1	O
+14	città	citta'	N	1	O
+15	NordAmericane	nordamericano	R	1	O
+16	.	.	O	1	O
 
-1	Vancouver	vancouver	R	1	ne=Location
-2	resta	restare	V	1	
-3	comunque	comunque	A	1	
-4	una	uno	D	1	
-5	splendida	splendido	G	1	
-6	città	citta'	N	1	
-7	.	.	O	1	
+1	Vancouver	vancouver	R	1	I-Location
+2	resta	restare	V	1	O
+3	comunque	comunque	A	1	O
+4	una	uno	D	1	O
+5	splendida	splendido	G	1	O
+6	città	citta'	N	1	O
+7	.	.	O	1	O
 

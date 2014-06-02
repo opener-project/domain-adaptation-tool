@@ -1,138 +1,140 @@
-1	Good	good	G	1	
-2	working	working	N	1	
-3	time	time	N	1	
-4	in	in	P	1	
-5	the	the	D	1	
-6	Hotel_Xenia	hotel_Xenia	R	1	ne=Hotel
+1	Good	good	G	1	O
+2	working	working	N	1	O
+3	time	time	N	1	O
+4	in	in	P	1	O
+5	the	the	D	1	O
+6	Hotel	hotel	N	1	I-Hotel
+7	Xenia	Xenia	R	1	I-Hotel
 
-1	I	i	Q	1	
-2	spent	spend	V	1	
-3	three	three	O	1	
-4	days	day	N	1	
-5	at	at	P	1	
-6	the	the	D	1	
-7	Xenia_Hotel	Xenia_Hotel	R	1	ne=Hotel
-8	on	on	P	1	
-9	a	a	D	1	
-10	project	project	N	1	
-11	visit	visit	N	1	
-12	with	with	P	1	
-13	partners	partner	N	1	
-14	from	from	P	1	
-15	France	France	R	1	ne=Location
-16	,	,	O	1	
-17	Hungary	Hungary	R	1	ne=Location
-18	and	and	C	1	
-19	Austria	Austria	R	1	ne=Location
-20	.	.	O	1	
+1	I	i	Q	1	O
+2	spent	spend	V	1	O
+3	three	three	O	1	O
+4	days	day	N	1	O
+5	at	at	P	1	O
+6	the	the	D	1	O
+7	Xenia	Xenia	R	1	I-Hotel
+8	Hotel	Hotel	R	1	I-Hotel
+9	on	on	P	1	O
+10	a	a	D	1	O
+11	project	project	N	1	O
+12	visit	visit	N	1	O
+13	with	with	P	1	O
+14	partners	partner	N	1	O
+15	from	from	P	1	O
+16	France	France	R	1	I-Location
+17	,	,	O	1	O
+18	Hungary	Hungary	R	1	I-Location
+19	and	and	C	1	O
+20	Austria	Austria	R	1	I-Location
+21	.	.	O	1	O
 
-1	We	we	Q	1	
-2	were	be	V	1	
-3	warmly	warmly	A	1	
-4	welcomed	welcome	V	1	
-5	by	by	P	1	
-6	all	all	D	1	
-7	the	the	D	1	
-8	staff	staff	N	1	
-9	of	of	P	1	
-10	the	the	D	1	
-11	hotel	hotel	N	1	
-12	who	who	Q	1	
-13	supported	support	V	1	
-14	our	our	Q	1	
-15	needs	need	N	1	
-16	throughout	throughout	P	1	
-17	the	the	D	1	
-18	visit	visit	N	1	
-19	.	.	O	1	
+1	We	we	Q	1	O
+2	were	be	V	1	O
+3	warmly	warmly	A	1	O
+4	welcomed	welcome	V	1	O
+5	by	by	P	1	O
+6	all	all	D	1	O
+7	the	the	D	1	O
+8	staff	staff	N	1	O
+9	of	of	P	1	O
+10	the	the	D	1	O
+11	hotel	hotel	N	1	O
+12	who	who	Q	1	O
+13	supported	support	V	1	O
+14	our	our	Q	1	O
+15	needs	need	N	1	O
+16	throughout	throughout	P	1	O
+17	the	the	D	1	O
+18	visit	visit	N	1	O
+19	.	.	O	1	O
 
-1	The	the	D	1	
-2	meeting	meeting	N	1	
-3	room	room	N	1	
-4	was	be	V	1	
-5	very	very	A	1	
-6	well	well	A	1	
-7	serviced	service	V	1	
-8	(	(	O	1	
-9	the	the	D	1	
-10	coffee	coffee	N	1	
-11	machine	machine	N	1	
-12	was	be	V	1	
-13	fabulous	fabulous	G	1	
-14	)	)	O	1	
-15	and	and	C	1	
-16	we	we	Q	1	
-17	were	be	V	1	
-18	able	able	G	1	
-19	to	to	P	1	
-20	focus	focus	V	1	
-21	on	on	P	1	
-22	our	our	Q	1	
-23	Agenda	Agenda	R	1	
-24	without	without	P	1	
-25	having	have	V	1	
-26	to	to	P	1	
-27	worry	worry	V	1	
-28	about	about	P	1	
-29	the	the	D	1	
-30	operational	operational	G	1	
-31	elements	element	N	1	
-32	of	of	P	1	
-33	the	the	D	1	
-34	visit	visit	N	1	
-35	.	.	O	1	
+1	The	the	D	1	O
+2	meeting	meeting	N	1	O
+3	room	room	N	1	O
+4	was	be	V	1	O
+5	very	very	A	1	O
+6	well	well	A	1	O
+7	serviced	service	V	1	O
+8	(	(	O	1	O
+9	the	the	D	1	O
+10	coffee	coffee	N	1	O
+11	machine	machine	N	1	O
+12	was	be	V	1	O
+13	fabulous	fabulous	G	1	O
+14	)	)	O	1	O
+15	and	and	C	1	O
+16	we	we	Q	1	O
+17	were	be	V	1	O
+18	able	able	G	1	O
+19	to	to	P	1	O
+20	focus	focus	V	1	O
+21	on	on	P	1	O
+22	our	our	Q	1	O
+23	Agenda	Agenda	R	1	O
+24	without	without	P	1	O
+25	having	have	V	1	O
+26	to	to	P	1	O
+27	worry	worry	V	1	O
+28	about	about	P	1	O
+29	the	the	D	1	O
+30	operational	operational	G	1	O
+31	elements	element	N	1	O
+32	of	of	P	1	O
+33	the	the	D	1	O
+34	visit	visit	N	1	O
+35	.	.	O	1	O
 
-1	The	the	D	1	
-2	technology	technology	N	1	
-3	provided	provide	V	1	
-4	worked	worked	G	1	
-5	fine	fine	N	1	
-6	(	(	O	1	
-7	skype	skype	N	1	
-8	)	)	O	1	
-9	for	for	P	1	
-10	our	our	Q	1	
-11	needs	need	N	1	
-12	.	.	O	1	
+1	The	the	D	1	O
+2	technology	technology	N	1	O
+3	provided	provide	V	1	O
+4	worked	worked	G	1	O
+5	fine	fine	N	1	O
+6	(	(	O	1	O
+7	skype	skype	N	1	O
+8	)	)	O	1	O
+9	for	for	P	1	O
+10	our	our	Q	1	O
+11	needs	need	N	1	O
+12	.	.	O	1	O
 
-1	The	the	D	1	
-2	food	food	N	1	
-3	was	be	V	1	
-4	well	well	A	1	
-5	presented	present	V	1	
-6	and	and	C	1	
-7	interesting	interesting	G	1	
-8	·	·	N	1	
-9	Greek	Greek	R	1	
-10	dishes	dish	V	1	
-11	with	with	P	1	
-12	a	a	D	1	
-13	general	general	G	1	
-14	European	european	G	1	
-15	twist	twist	N	1	
-16	.	.	O	1	
+1	The	the	D	1	O
+2	food	food	N	1	O
+3	was	be	V	1	O
+4	well	well	A	1	O
+5	presented	present	V	1	O
+6	and	and	C	1	O
+7	interesting	interesting	G	1	O
+8	·	·	N	1	O
+9	Greek	Greek	R	1	O
+10	dishes	dish	V	1	O
+11	with	with	P	1	O
+12	a	a	D	1	O
+13	general	general	G	1	O
+14	European	european	G	1	O
+15	twist	twist	N	1	O
+16	.	.	O	1	O
 
-1	A	a	D	1	
-2	beautiful	beautiful	G	1	
-3	setting	setting	N	1	
-4	by	by	P	1	
-5	the	the	D	1	
-6	sea	sea	N	1	
-7	·	·	N	1	
-8	Ijust	Ijust	R	1	
-9	wish	wish	N	1	
-10	Ihad	Ihad	R	1	
-11	had	have	V	1	
-12	time	time	N	1	
-13	to	to	P	1	
-14	make	make	V	1	
-15	more	more	G	1	
-16	of	of	P	1	
-17	the	the	D	1	
-18	very	very	A	1	
-19	good	good	G	1	
-20	facilities	facility	N	1	
-21	on	on	P	1	
-22	offer	offer	N	1	
-23	.	.	O	1	
+1	A	a	D	1	O
+2	beautiful	beautiful	G	1	O
+3	setting	setting	N	1	O
+4	by	by	P	1	O
+5	the	the	D	1	O
+6	sea	sea	N	1	O
+7	·	·	N	1	O
+8	Ijust	Ijust	R	1	O
+9	wish	wish	N	1	O
+10	Ihad	Ihad	R	1	O
+11	had	have	V	1	O
+12	time	time	N	1	O
+13	to	to	P	1	O
+14	make	make	V	1	O
+15	more	more	G	1	O
+16	of	of	P	1	O
+17	the	the	D	1	O
+18	very	very	A	1	O
+19	good	good	G	1	O
+20	facilities	facility	N	1	O
+21	on	on	P	1	O
+22	offer	offer	N	1	O
+23	.	.	O	1	O
 

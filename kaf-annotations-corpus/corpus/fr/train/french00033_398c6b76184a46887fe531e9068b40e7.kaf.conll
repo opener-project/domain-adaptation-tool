@@ -1,45 +1,45 @@
-1	Hôtel	hôtel	N	1	
-2	merveilleux	merveilleux	G	1	
+1	Hôtel	hôtel	N	1	O
+2	merveilleux	merveilleux	G	1	O
 
-1	juste	juste	G	1	
-2	fabuleux	fabuleux	G	1	
-3	merveeil	merveeil	N	1	
+1	juste	juste	G	1	O
+2	fabuleux	fabuleux	G	1	O
+3	merveeil	merveeil	N	1	O
 
-1	leux	leux	G	1	
-2	hotel	hotel	N	1	
-3	de	de	P	1	
-4	luxe	luxe	N	1	
-5	mais	mais	G	1	
-6	juste	juste	G	1	
-7	avec	avec	P	1	
-8	ce	ce	D	1	
-9	kil	kil	N	1	
-10	faut	faillir	V	1	
-11	on	on	Q	1	
-12	est	être	V	1	
-13	bien	bien	G	1	
-14	on	on	Q	1	
-15	se	se	Q	1	
-16	sens	sentir	V	1	
-17	heureuse	heureux	G	1	
-18	meme	meme	N	1	
-19	si	si	C	1	
-20	le	le	D	1	
-21	pirx	pirx	N	1	
-22	des	des	P	1	
-23	chambre	chambre	N	1	
-24	est	être	V	1	
-25	legerement	legerement	G	1	
-26	exagerer	exagerer	V	1	
-27	tbon	tbon	G	1	
-28	hotel	hotel	G	1	
-29	a	avoir	V	1	
-30	cpnseiller	cpnseiller	V	1	
-31	au	au	P	1	
-32	gens	gens	N	1	
-33	ki	ki	N	1	
-34	reve	reve	N	1	
-35	de	de	P	1	
-36	jolie	joli	G	1	
-37	chosesres	chosesres	N	1	
+1	leux	leux	G	1	O
+2	hotel	hotel	N	1	O
+3	de	de	P	1	O
+4	luxe	luxe	N	1	O
+5	mais	mais	G	1	O
+6	juste	juste	G	1	O
+7	avec	avec	P	1	O
+8	ce	ce	D	1	O
+9	kil	kil	N	1	O
+10	faut	faillir	V	1	O
+11	on	on	Q	1	O
+12	est	être	V	1	O
+13	bien	bien	G	1	O
+14	on	on	Q	1	O
+15	se	se	Q	1	O
+16	sens	sentir	V	1	O
+17	heureuse	heureux	G	1	O
+18	meme	meme	N	1	O
+19	si	si	C	1	O
+20	le	le	D	1	O
+21	pirx	pirx	N	1	O
+22	des	des	P	1	O
+23	chambre	chambre	N	1	O
+24	est	être	V	1	O
+25	legerement	legerement	G	1	O
+26	exagerer	exagerer	V	1	O
+27	tbon	tbon	G	1	O
+28	hotel	hotel	G	1	O
+29	a	avoir	V	1	O
+30	cpnseiller	cpnseiller	V	1	O
+31	au	au	P	1	O
+32	gens	gens	N	1	O
+33	ki	ki	N	1	O
+34	reve	reve	N	1	O
+35	de	de	P	1	O
+36	jolie	joli	G	1	O
+37	chosesres	chosesres	N	1	O
 

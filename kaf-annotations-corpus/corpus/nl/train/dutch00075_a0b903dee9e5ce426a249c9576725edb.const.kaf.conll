@@ -1,150 +1,150 @@
-1	Halverwege	halverwege	P	1	
-2	de	de	D	1	
-3	week	week	N	1	
-4	maar	maar	C	1	
-5	weggegaan	weggaan	V	1	
+1	Halverwege	halverwege	P	1	O
+2	de	de	D	1	O
+3	week	week	N	1	O
+4	maar	maar	C	1	O
+5	weggegaan	weggaan	V	1	O
 
-1	Hoewel	hoewel	C	1	
-2	betaald	betalen	V	1	
-3	voor	voor	P	1	
-4	een	een	D	1	
-5	hele	heel	G	1	
-6	week	week	N	1	
-7	,	,	O	1	
-8	hebben	hebben	V	1	
-9	we	we	Q	1	
-10	halverwege	halverwege	P	1	
-11	de	de	D	1	
-12	week	week	N	1	
-13	besloten	besluiten	V	1	
-14	ons	ons	Q	1	
-15	verlies	verlies	N	1	
-16	te	te	O	1	
-17	nemen	nemen	V	1	
-18	en	en	C	1	
-19	zijn	zijn	V	1	
-20	met	met	P	1	
-21	een	een	D	1	
-22	zucht	zucht	N	1	
-23	van	van	P	1	
-24	verlichting	verlichting	N	1	
-25	uit	uit	P	1	
-26	deze	deze	D	1	
-27	appartementenflat	appartementenflat	O	1	
-28	vertrokken	vertrekken	V	1	
-29	.	.	O	1	
+1	Hoewel	hoewel	C	1	O
+2	betaald	betalen	V	1	O
+3	voor	voor	P	1	O
+4	een	een	D	1	O
+5	hele	heel	G	1	O
+6	week	week	N	1	O
+7	,	,	O	1	O
+8	hebben	hebben	V	1	O
+9	we	we	Q	1	O
+10	halverwege	halverwege	P	1	O
+11	de	de	D	1	O
+12	week	week	N	1	O
+13	besloten	besluiten	V	1	O
+14	ons	ons	Q	1	O
+15	verlies	verlies	N	1	O
+16	te	te	O	1	O
+17	nemen	nemen	V	1	O
+18	en	en	C	1	O
+19	zijn	zijn	V	1	O
+20	met	met	P	1	O
+21	een	een	D	1	O
+22	zucht	zucht	N	1	O
+23	van	van	P	1	O
+24	verlichting	verlichting	N	1	O
+25	uit	uit	P	1	O
+26	deze	deze	D	1	O
+27	appartementenflat	appartementenflat	O	1	O
+28	vertrokken	vertrekken	V	1	O
+29	.	.	O	1	O
 
-1	Ook	ook	A	1	
-2	in	in	P	1	
-3	Nederland	Nederland	R	1	ne=Location
-4	nooit	nooit	A	1	
-5	een	een	D	1	
-6	flatgebouw	flatgebouw	N	1	
-7	meegemaakt	meemaken	V	1	
-8	dat	dat	Q	1	
-9	zo	zo	A	1	
-10	verwaarloosd	verwaarlozen	V	1	
-11	en	en	C	1	
-12	gehorig	gehorig	G	1	
-13	is	zijn	V	1	
-14	.	.	O	1	
+1	Ook	ook	A	1	O
+2	in	in	P	1	O
+3	Nederland	Nederland	R	1	I-Location
+4	nooit	nooit	A	1	O
+5	een	een	D	1	O
+6	flatgebouw	flatgebouw	N	1	O
+7	meegemaakt	meemaken	V	1	O
+8	dat	dat	Q	1	O
+9	zo	zo	A	1	O
+10	verwaarloosd	verwaarlozen	V	1	O
+11	en	en	C	1	O
+12	gehorig	gehorig	G	1	O
+13	is	zijn	V	1	O
+14	.	.	O	1	O
 
-1	Of	of	C	1	
-2	je	je	Q	1	
-3	nu	nu	A	1	
-4	balkon	balkon	N	1	
-5	voor	voor	A	1	
-6	of	of	C	1	
-7	achter	achter	A	1	
-8	hebt	hebben	V	1	
-9	,	,	O	1	
-10	je	je	Q	1	
-11	zit	zitten	V	1	
-12	pal	pal	N	1	
-13	boven	boven	P	1	
-14	de	de	D	1	
-15	parkeerplaats	parkeerplaats	N	1	
-16	met	met	P	1	
-17	alle	alle	D	1	
-18	genoegens	genoegen	N	1	
-19	van	van	P	1	
-20	dien	dienen	V	1	
-21	.	.	O	1	
+1	Of	of	C	1	O
+2	je	je	Q	1	O
+3	nu	nu	A	1	O
+4	balkon	balkon	N	1	O
+5	voor	voor	A	1	O
+6	of	of	C	1	O
+7	achter	achter	A	1	O
+8	hebt	hebben	V	1	O
+9	,	,	O	1	O
+10	je	je	Q	1	O
+11	zit	zitten	V	1	O
+12	pal	pal	N	1	O
+13	boven	boven	P	1	O
+14	de	de	D	1	O
+15	parkeerplaats	parkeerplaats	N	1	O
+16	met	met	P	1	O
+17	alle	alle	D	1	O
+18	genoegens	genoegen	N	1	O
+19	van	van	P	1	O
+20	dien	dienen	V	1	O
+21	.	.	O	1	O
 
-1	Zelden	zelden	A	1	
-2	zo	zo	A	1	
-3	duidelijk	duidelijk	G	1	
-4	gemerkt	merken	V	1	
-5	dat	dat	C	1	
-6	een	een	D	1	
-7	inrichting	inrichting	N	1	
-8	bij	bij	P	1	
-9	elkaar	elkaar	Q	1	
-10	gezzocht	gezzocht	O	1	
-11	is	zijn	V	1	
-12	en	en	C	1	
-13	absoluut	absoluut	G	1	
-14	niets	niets	N	1	
-15	mag	mogen	V	1	
-16	kosten	kost	N	1	
-17	.	.	O	1	
+1	Zelden	zelden	A	1	O
+2	zo	zo	A	1	O
+3	duidelijk	duidelijk	G	1	O
+4	gemerkt	merken	V	1	O
+5	dat	dat	C	1	O
+6	een	een	D	1	O
+7	inrichting	inrichting	N	1	O
+8	bij	bij	P	1	O
+9	elkaar	elkaar	Q	1	O
+10	gezzocht	gezzocht	O	1	O
+11	is	zijn	V	1	O
+12	en	en	C	1	O
+13	absoluut	absoluut	G	1	O
+14	niets	niets	N	1	O
+15	mag	mogen	V	1	O
+16	kosten	kost	N	1	O
+17	.	.	O	1	O
 
-1	Daarbij	daarbij	Q	1	
-2	een	een	D	1	
-3	eigenaresse	eigenaresse	N	1	
-4	die	die	Q	1	
-5	ons	ons	Q	1	
-6	al	al	D	1	
-7	borg	borg	N	1	
-8	liet	laten	V	1	
-9	betalen	betalen	V	1	
-10	nog	nog	A	1	
-11	voordat	voordat	C	1	
-12	we	we	Q	1	
-13	het	het	D	1	
-14	appartement	appartement	N	1	
-15	hadden	hebben	V	1	
-16	gezien	zien	V	1	
-17	en	en	C	1	
-18	nog	nog	A	1	
-19	nooit	nooit	A	1	
-20	van	van	P	1	
-21	vriendelijkheid	vriendelijkheid	N	1	
-22	heeft	hebben	V	1	
-23	gehoord	horen	V	1	
-24	.	.	O	1	
+1	Daarbij	daarbij	Q	1	O
+2	een	een	D	1	O
+3	eigenaresse	eigenaresse	N	1	O
+4	die	die	Q	1	O
+5	ons	ons	Q	1	O
+6	al	al	D	1	O
+7	borg	borg	N	1	O
+8	liet	laten	V	1	O
+9	betalen	betalen	V	1	O
+10	nog	nog	A	1	O
+11	voordat	voordat	C	1	O
+12	we	we	Q	1	O
+13	het	het	D	1	O
+14	appartement	appartement	N	1	O
+15	hadden	hebben	V	1	O
+16	gezien	zien	V	1	O
+17	en	en	C	1	O
+18	nog	nog	A	1	O
+19	nooit	nooit	A	1	O
+20	van	van	P	1	O
+21	vriendelijkheid	vriendelijkheid	N	1	O
+22	heeft	hebben	V	1	O
+23	gehoord	horen	V	1	O
+24	.	.	O	1	O
 
-1	Samenvattend	samenvatten	V	1	
-2	:	:	O	1	
-3	smerig	smerig	G	1	
-4	,	,	O	1	
-5	verwaarloosd	verwaarlozen	V	1	
-6	en	en	C	1	
-7	uiterst	uiterst	G	1	
-8	gehorig	gehorig	G	1	
-9	en	en	C	1	
-10	onverzorgd	onverzorgd	G	1	
-11	.	.	O	1	
+1	Samenvattend	samenvatten	V	1	O
+2	:	:	O	1	O
+3	smerig	smerig	G	1	O
+4	,	,	O	1	O
+5	verwaarloosd	verwaarlozen	V	1	O
+6	en	en	C	1	O
+7	uiterst	uiterst	G	1	O
+8	gehorig	gehorig	G	1	O
+9	en	en	C	1	O
+10	onverzorgd	onverzorgd	G	1	O
+11	.	.	O	1	O
 
-1	Ik	ik	Q	1	
-2	begrijp	begrijpen	V	1	
-3	niet	niet	A	1	
-4	dat	dat	C	1	
-5	deze	deze	D	1	
-6	locatie	locatie	N	1	
-7	nog	nog	A	1	
-8	in	in	P	1	
-9	de	de	D	1	
-10	gidsen	gids	N	1	
-11	wordt	worden	V	1	
-12	opgenomen	opnemen	V	1	
-13	terwijl	terwijl	C	1	
-14	we	we	Q	1	
-15	zulke	zulk	D	1	
-16	mooie	mooi	G	1	
-17	ervaringen	ervaring	N	1	
-18	in	in	P	1	
-19	Italië	Italië	R	1	ne=Location
-20	hebben	hebben	V	1	
-21	.	.	O	1	
+1	Ik	ik	Q	1	O
+2	begrijp	begrijpen	V	1	O
+3	niet	niet	A	1	O
+4	dat	dat	C	1	O
+5	deze	deze	D	1	O
+6	locatie	locatie	N	1	O
+7	nog	nog	A	1	O
+8	in	in	P	1	O
+9	de	de	D	1	O
+10	gidsen	gids	N	1	O
+11	wordt	worden	V	1	O
+12	opgenomen	opnemen	V	1	O
+13	terwijl	terwijl	C	1	O
+14	we	we	Q	1	O
+15	zulke	zulk	D	1	O
+16	mooie	mooi	G	1	O
+17	ervaringen	ervaring	N	1	O
+18	in	in	P	1	O
+19	Italië	Italië	R	1	I-Location
+20	hebben	hebben	V	1	O
+21	.	.	O	1	O
 

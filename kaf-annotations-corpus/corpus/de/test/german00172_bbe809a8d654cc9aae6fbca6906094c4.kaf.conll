@@ -1,100 +1,100 @@
-1	Sehr	sehr	A	1	
-2	angenehmes	angenehm	G	1	
-3	und	und	C	1	
-4	zentrales	zentral	G	1	
-5	Hotel	Hotel	N	1	
+1	Sehr	sehr	A	1	O
+2	angenehmes	angenehm	G	1	O
+3	und	und	C	1	O
+4	zentrales	zentral	G	1	O
+5	Hotel	Hotel	N	1	O
 
-1	Das	die	Q	1	
-2	schon	schon	A	1	
-3	etwas	etwas	Q	1	
-4	ältere	alt	G	1	
-5	,	,	O	1	
-6	aber	aber	A	1	
-7	vor	vor	P	1	
-8	einigen	einige	Q	1	
-9	Jahren	Jahr	N	1	
-10	vollständige	vollständig	G	1	
-11	renovierte	renoviert	G	1	
-12	Novotel	Novotel	O	1	
-13	verfügt	verfügen	V	1	
-14	über	über	P	1	
-15	7	7	O	1	
-16	Etagen	Etage	N	1	
-17	mit	mit	P	1	
-18	über	über	P	1	
-19	200	200	O	1	
-20	Zimmern	Zimmer	N	1	
-21	.	.	O	1	
+1	Das	die	Q	1	O
+2	schon	schon	A	1	O
+3	etwas	etwas	Q	1	O
+4	ältere	alt	G	1	O
+5	,	,	O	1	O
+6	aber	aber	A	1	O
+7	vor	vor	P	1	O
+8	einigen	einige	Q	1	O
+9	Jahren	Jahr	N	1	O
+10	vollständige	vollständig	G	1	O
+11	renovierte	renoviert	G	1	O
+12	Novotel	Novotel	O	1	O
+13	verfügt	verfügen	V	1	O
+14	über	über	P	1	O
+15	7	7	O	1	O
+16	Etagen	Etage	N	1	O
+17	mit	mit	P	1	O
+18	über	über	P	1	O
+19	200	200	O	1	O
+20	Zimmern	Zimmer	N	1	O
+21	.	.	O	1	O
 
-1	Zimmer	Zimmer	R	1	
-2	sowie	sowie	C	1	
-3	das	die	D	1	
-4	ganze	ganz	G	1	
-5	Hotel	Hotel	N	1	
-6	befinden	befinden	V	1	
-7	sich	sich	Q	1	
-8	in	in	P	1	
-9	einem	eine	D	1	
-10	guten	gut	G	1	
-11	bis	bis	P	1	
-12	sehr	sehr	A	1	
-13	guten	gut	G	1	
-14	Zustand	Zustand	N	1	
-15	.	.	O	1	
+1	Zimmer	Zimmer	R	1	O
+2	sowie	sowie	C	1	O
+3	das	die	D	1	O
+4	ganze	ganz	G	1	O
+5	Hotel	Hotel	N	1	O
+6	befinden	befinden	V	1	O
+7	sich	sich	Q	1	O
+8	in	in	P	1	O
+9	einem	eine	D	1	O
+10	guten	gut	G	1	O
+11	bis	bis	P	1	O
+12	sehr	sehr	A	1	O
+13	guten	gut	G	1	O
+14	Zustand	Zustand	N	1	O
+15	.	.	O	1	O
 
-1	Wirkliche	wirklich	G	1	
-2	Mängel	Mangel	N	1	
-3	sind	sein	V	1	
-4	uns	wir	Q	1	
-5	nirgends	nirgends	A	1	
-6	aufgefallen	auffallen	V	1	
-7	.	.	O	1	
+1	Wirkliche	wirklich	G	1	O
+2	Mängel	Mangel	N	1	O
+3	sind	sein	V	1	O
+4	uns	wir	Q	1	O
+5	nirgends	nirgends	A	1	O
+6	aufgefallen	auffallen	V	1	O
+7	.	.	O	1	O
 
-1	Im	in	P	1	
-2	ganzen	ganz	G	1	
-3	Hotel	Hotel	N	1	
-4	fühlt	fühlen	V	1	
-5	man	man	Q	1	
-6	sich	sich	Q	1	
-7	wohl	wohl	A	1	
-8	,	,	O	1	
-9	nicht	nicht	O	1	
-10	zuletzt	zuletzt	A	1	
-11	weil	weil	C	1	
-12	es	es	Q	1	
-13	überall	überall	A	1	
-14	sauber	sauber	G	1	
-15	ist	sein	V	1	
-16	.	.	O	1	
+1	Im	in	P	1	O
+2	ganzen	ganz	G	1	O
+3	Hotel	Hotel	N	1	O
+4	fühlt	fühlen	V	1	O
+5	man	man	Q	1	O
+6	sich	sich	Q	1	O
+7	wohl	wohl	A	1	O
+8	,	,	O	1	O
+9	nicht	nicht	O	1	O
+10	zuletzt	zuletzt	A	1	O
+11	weil	weil	C	1	O
+12	es	es	Q	1	O
+13	überall	überall	A	1	O
+14	sauber	sauber	G	1	O
+15	ist	sein	V	1	O
+16	.	.	O	1	O
 
-1	Auch	auch	A	1	
-2	die	die	D	1	
-3	übrigen	übrig	G	1	
-4	Gäste	Gast	N	1	
-5	wirkten	wirken	V	1	
-6	angenehm	angenehm	G	1	
-7	und	und	C	1	
-8	schienen	scheinen	V	1	
-9	sich	sich	Q	1	
-10	hauptsächlich	hauptsächlich	G	1	
-11	für	für	P	1	
-12	eine	eine	D	1	
-13	Städtereise	Städtereise	N	1	
-14	dort	dort	A	1	
-15	aufzuhalten	aufhalten	V	1	
-16	,	,	O	1	
-17	wie	wie	C	1	
-18	man	man	Q	1	
-19	aus	aus	P	1	
-20	Gesprächen	Gespräch	N	1	
-21	mithören	mithören	V	1	
-22	und	und	C	1	
-23	am	an	P	1	
-24	legeren	leger	G	1	
-25	Kleidungsstil	Kleidungsstil	N	1	
-26	der	die	D	1	
-27	Gäste	Gast	N	1	
-28	feststellen	feststellen	V	1	
-29	konnte	können	V	1	
-30	.	.	O	1	
+1	Auch	auch	A	1	O
+2	die	die	D	1	O
+3	übrigen	übrig	G	1	O
+4	Gäste	Gast	N	1	O
+5	wirkten	wirken	V	1	O
+6	angenehm	angenehm	G	1	O
+7	und	und	C	1	O
+8	schienen	scheinen	V	1	O
+9	sich	sich	Q	1	O
+10	hauptsächlich	hauptsächlich	G	1	O
+11	für	für	P	1	O
+12	eine	eine	D	1	O
+13	Städtereise	Städtereise	N	1	O
+14	dort	dort	A	1	O
+15	aufzuhalten	aufhalten	V	1	O
+16	,	,	O	1	O
+17	wie	wie	C	1	O
+18	man	man	Q	1	O
+19	aus	aus	P	1	O
+20	Gesprächen	Gespräch	N	1	O
+21	mithören	mithören	V	1	O
+22	und	und	C	1	O
+23	am	an	P	1	O
+24	legeren	leger	G	1	O
+25	Kleidungsstil	Kleidungsstil	N	1	O
+26	der	die	D	1	O
+27	Gäste	Gast	N	1	O
+28	feststellen	feststellen	V	1	O
+29	konnte	können	V	1	O
+30	.	.	O	1	O
 

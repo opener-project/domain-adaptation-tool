@@ -1,95 +1,97 @@
-1	Super	super	G	1	
-2	hotel	hotel	N	1	
+1	Super	super	G	1	O
+2	hotel	hotel	N	1	O
 
-1	eerste	een	O	1	
-2	keer	keer	N	1	
-3	in	in	P	1	
-4	hurgada_titanic_beache	hurgada_titanic_beache	R	1	ne=Hotel
-5	heerlijk	heerlijk	G	1	
-6	relaxe	relaxe	O	1	
-7	we	we	Q	1	
-8	zijn	zijn	V	1	
-9	hier	hier	A	1	
-10	met	met	P	1	
-11	twee	twee	O	1	
-12	kinderen	kind	N	1	
-13	8	@card@	O	1	
-14	en	en	C	1	
-15	11	@card@	O	1	
-16	jaar	jaar	N	1	
-17	heerlijke	heerlijk	G	1	
-18	zwembaden	zwembad	N	1	
-19	leuke	leuk	G	1	
-20	exurcies	exurcies	O	1	
-21	eten	eten	V	1	
-22	moet	moeten	V	1	
-23	je	je	Q	1	
-24	aan	aan	A	1	
-25	wennen	wennen	V	1	
-26	veel	veel	O	1	
-27	pasta	pasta	N	1	
-28	en	en	C	1	
-29	rijst	rijst	N	1	
-30	neem	nemen	V	1	
-31	wel	wel	A	1	
-32	voor	voor	P	1	
-33	de	de	D	1	
-34	kleintjes	klein	G	1	
-35	chocopasta	chocopasta	O	1	
-36	of	of	C	1	
-37	pindakaas	pindakaas	N	1	
-38	mee	mee	A	1	
-39	als	als	C	1	
-40	vrouw	vrouw	N	1	
-41	kan	kunnen	V	1	
-42	je	je	Q	1	
-43	heerlijk	heerlijk	G	1	
-44	verwent	verwennen	V	1	
-45	worden	worden	V	1	
-46	door	door	P	1	
-47	de	de	D	1	
-48	spa	spa	N	1	
-49	daar	daar	C	1	
-50	je	je	Q	1	
-51	gezicht	gezicht	N	1	
-52	n	n	N	1	
-53	voeten	voet	N	1	
-54	maar	maar	C	1	
-55	je	je	Q	1	
-56	moet	moeten	V	1	
-57	wel	wel	A	1	
-58	afdingen	afdingen	V	1	
-59	de	de	D	1	
-60	zee	zee	N	1	
-61	heb	hebben	V	1	
-62	zijn	zijn	D	1	
-63	eb	eb	N	1	
-64	en	en	C	1	
-65	vloed	vloed	N	1	
-66	om	om	C	1	
-67	te	te	O	1	
-68	snorkelen	snorkelen	V	1	
-69	de	de	D	1	
-70	kamerpersoneel	kamerpersoneel	O	1	
-71	is	zijn	V	1	
-72	erg	erg	A	1	
-73	aardig	aardig	G	1	
-74	als	als	C	1	
-75	je	je	Q	1	
-76	af	af	A	1	
-77	en	en	C	1	
-78	toe	toe	A	1	
-79	een	een	D	1	
-80	fooi	fooi	N	1	
-81	neer	neer	A	1	
-82	legt	leggen	V	1	
-83	wordt	worden	V	1	
-84	al	al	C	1	
-85	je	je	Q	1	
-86	wensen	wensen	V	1	
-87	gedaan	doen	V	1	
-88	ze	ze	Q	1	
-89	zijn	zijn	V	1	
-90	erg	erg	A	1	
-91	vriendelijk	vriendelijk	G	1	
+1	eerste	een	O	1	O
+2	keer	keer	N	1	O
+3	in	in	P	1	O
+4	hurgada	hurgada	O	1	I-Hotel
+5	titanic	titanic	O	1	I-Hotel
+6	beache	beache	O	1	I-Hotel
+7	heerlijk	heerlijk	G	1	O
+8	relaxe	relaxe	O	1	O
+9	we	we	Q	1	O
+10	zijn	zijn	V	1	O
+11	hier	hier	A	1	O
+12	met	met	P	1	O
+13	twee	twee	O	1	O
+14	kinderen	kind	N	1	O
+15	8	@card@	O	1	O
+16	en	en	C	1	O
+17	11	@card@	O	1	O
+18	jaar	jaar	N	1	O
+19	heerlijke	heerlijk	G	1	O
+20	zwembaden	zwembad	N	1	O
+21	leuke	leuk	G	1	O
+22	exurcies	exurcies	O	1	O
+23	eten	eten	V	1	O
+24	moet	moeten	V	1	O
+25	je	je	Q	1	O
+26	aan	aan	A	1	O
+27	wennen	wennen	V	1	O
+28	veel	veel	O	1	O
+29	pasta	pasta	N	1	O
+30	en	en	C	1	O
+31	rijst	rijst	N	1	O
+32	neem	nemen	V	1	O
+33	wel	wel	A	1	O
+34	voor	voor	P	1	O
+35	de	de	D	1	O
+36	kleintjes	klein	G	1	O
+37	chocopasta	chocopasta	O	1	O
+38	of	of	C	1	O
+39	pindakaas	pindakaas	N	1	O
+40	mee	mee	A	1	O
+41	als	als	C	1	O
+42	vrouw	vrouw	N	1	O
+43	kan	kunnen	V	1	O
+44	je	je	Q	1	O
+45	heerlijk	heerlijk	G	1	O
+46	verwent	verwennen	V	1	O
+47	worden	worden	V	1	O
+48	door	door	P	1	O
+49	de	de	D	1	O
+50	spa	spa	N	1	O
+51	daar	daar	C	1	O
+52	je	je	Q	1	O
+53	gezicht	gezicht	N	1	O
+54	n	n	N	1	O
+55	voeten	voet	N	1	O
+56	maar	maar	C	1	O
+57	je	je	Q	1	O
+58	moet	moeten	V	1	O
+59	wel	wel	A	1	O
+60	afdingen	afdingen	V	1	O
+61	de	de	D	1	O
+62	zee	zee	N	1	O
+63	heb	hebben	V	1	O
+64	zijn	zijn	D	1	O
+65	eb	eb	N	1	O
+66	en	en	C	1	O
+67	vloed	vloed	N	1	O
+68	om	om	C	1	O
+69	te	te	O	1	O
+70	snorkelen	snorkelen	V	1	O
+71	de	de	D	1	O
+72	kamerpersoneel	kamerpersoneel	O	1	O
+73	is	zijn	V	1	O
+74	erg	erg	A	1	O
+75	aardig	aardig	G	1	O
+76	als	als	C	1	O
+77	je	je	Q	1	O
+78	af	af	A	1	O
+79	en	en	C	1	O
+80	toe	toe	A	1	O
+81	een	een	D	1	O
+82	fooi	fooi	N	1	O
+83	neer	neer	A	1	O
+84	legt	leggen	V	1	O
+85	wordt	worden	V	1	O
+86	al	al	C	1	O
+87	je	je	Q	1	O
+88	wensen	wensen	V	1	O
+89	gedaan	doen	V	1	O
+90	ze	ze	Q	1	O
+91	zijn	zijn	V	1	O
+92	erg	erg	A	1	O
+93	vriendelijk	vriendelijk	G	1	O
 

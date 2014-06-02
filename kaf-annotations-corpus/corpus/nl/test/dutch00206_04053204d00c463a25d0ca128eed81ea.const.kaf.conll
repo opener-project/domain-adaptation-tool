@@ -1,108 +1,108 @@
-1	Prima	prima	G	1	
-2	hotel	hotel	N	1	
+1	Prima	prima	G	1	O
+2	hotel	hotel	N	1	O
 
-1	Het	het	D	1	
-2	hotel	hotel	N	1	
-3	is	zijn	V	1	
-4	netjes	net|netjes	G	1	
-5	.	.	O	1	
+1	Het	het	D	1	O
+2	hotel	hotel	N	1	O
+3	is	zijn	V	1	O
+4	netjes	net|netjes	G	1	O
+5	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	ligt	liggen	V	1	
-3	erg	erg	A	1	
-4	mooi	mooi	A	1	
-5	tegen	tegen	P	1	
-6	de	de	D	1	
-7	heuvel	heuvel	N	1	
-8	,	,	O	1	
-9	maar	maar	C	1	
-10	dit	dit	Q	1	
-11	maakt	maken	V	1	
-12	het	het	D	1	
-13	niet	niet	A	1	
-14	geschikt	schikken	V	1	
-15	voor	voor	P	1	
-16	mensen	mens	N	1	
-17	,	,	O	1	
-18	die	die	Q	1	
-19	slecht	slecht	G	1	
-20	ter	te	P	1	
-21	been	been	N	1	
-22	zijn	zijn	V	1	
-23	.	.	O	1	
+1	Het	het	Q	1	O
+2	ligt	liggen	V	1	O
+3	erg	erg	A	1	O
+4	mooi	mooi	A	1	O
+5	tegen	tegen	P	1	O
+6	de	de	D	1	O
+7	heuvel	heuvel	N	1	O
+8	,	,	O	1	O
+9	maar	maar	C	1	O
+10	dit	dit	Q	1	O
+11	maakt	maken	V	1	O
+12	het	het	D	1	O
+13	niet	niet	A	1	O
+14	geschikt	schikken	V	1	O
+15	voor	voor	P	1	O
+16	mensen	mens	N	1	O
+17	,	,	O	1	O
+18	die	die	Q	1	O
+19	slecht	slecht	G	1	O
+20	ter	te	P	1	O
+21	been	been	N	1	O
+22	zijn	zijn	V	1	O
+23	.	.	O	1	O
 
-1	De	de	D	1	
-2	kamers	kamer	N	1	
-3	in	in	P	1	
-4	de	de	D	1	
-5	bijbehorende	bijbehorend	G	1	
-6	huisjes	huisje	N	1	
-7	zijn	zijn	V	1	
-8	ruim	ruim	G	1	
-9	en	en	C	1	
-10	netjes	net|netjes	G	1	
-11	,	,	O	1	
-12	maar	maar	C	1	
-13	sterk	sterk	G	1	
-14	verouderd	verouderen	V	1	
-15	.	.	O	1	
+1	De	de	D	1	O
+2	kamers	kamer	N	1	O
+3	in	in	P	1	O
+4	de	de	D	1	O
+5	bijbehorende	bijbehorend	G	1	O
+6	huisjes	huisje	N	1	O
+7	zijn	zijn	V	1	O
+8	ruim	ruim	G	1	O
+9	en	en	C	1	O
+10	netjes	net|netjes	G	1	O
+11	,	,	O	1	O
+12	maar	maar	C	1	O
+13	sterk	sterk	G	1	O
+14	verouderd	verouderen	V	1	O
+15	.	.	O	1	O
 
-1	De	de	D	1	
-2	beschikbaarheid	beschikbaarheid	N	1	
-3	van	van	P	1	
-4	wifi	wifi	O	1	
-5	is	zijn	V	1	
-6	erg	erg	A	1	
-7	beperkt	beperken	V	1	
-8	(	(	O	1	
-9	alleen	alleen	A	1	
-10	bij	bij	P	1	
-11	de	de	D	1	
-12	receptie	receptie	N	1	
-13	en	en	C	1	
-14	een	een	D	1	
-15	deel	deel	N	1	
-16	van	van	P	1	
-17	de	de	D	1	
-18	lobby	lobby	N	1	
-19	)	)	O	1	
-20	.	.	O	1	
+1	De	de	D	1	O
+2	beschikbaarheid	beschikbaarheid	N	1	O
+3	van	van	P	1	O
+4	wifi	wifi	O	1	O
+5	is	zijn	V	1	O
+6	erg	erg	A	1	O
+7	beperkt	beperken	V	1	O
+8	(	(	O	1	O
+9	alleen	alleen	A	1	O
+10	bij	bij	P	1	O
+11	de	de	D	1	O
+12	receptie	receptie	N	1	O
+13	en	en	C	1	O
+14	een	een	D	1	O
+15	deel	deel	N	1	O
+16	van	van	P	1	O
+17	de	de	D	1	O
+18	lobby	lobby	N	1	O
+19	)	)	O	1	O
+20	.	.	O	1	O
 
-1	De	de	D	1	
-2	bediening	bediening	N	1	
-3	in	in	P	1	
-4	het	het	D	1	
-5	restaurant	restaurant	N	1	
-6	kan	kunnen	V	1	
-7	beter	beter|goed	G	1	
-8	.	.	O	1	
+1	De	de	D	1	O
+2	bediening	bediening	N	1	O
+3	in	in	P	1	O
+4	het	het	D	1	O
+5	restaurant	restaurant	N	1	O
+6	kan	kunnen	V	1	O
+7	beter	beter|goed	G	1	O
+8	.	.	O	1	O
 
-1	De	de	D	1	
-2	talenkennis	talenkennis	N	1	
-3	is	zijn	V	1	
-4	matig	matig	G	1	
-5	,	,	O	1	
-6	het	het	D	1	
-7	personeel	personeel	N	1	
-8	is	zijn	V	1	
-9	erg	erg	A	1	
-10	afwachtend	afwachten	V	1	
-11	,	,	O	1	
-12	maar	maar	C	1	
-13	wel	wel	A	1	
-14	vriendelijk	vriendelijk	G	1	
-15	.	.	O	1	
+1	De	de	D	1	O
+2	talenkennis	talenkennis	N	1	O
+3	is	zijn	V	1	O
+4	matig	matig	G	1	O
+5	,	,	O	1	O
+6	het	het	D	1	O
+7	personeel	personeel	N	1	O
+8	is	zijn	V	1	O
+9	erg	erg	A	1	O
+10	afwachtend	afwachten	V	1	O
+11	,	,	O	1	O
+12	maar	maar	C	1	O
+13	wel	wel	A	1	O
+14	vriendelijk	vriendelijk	G	1	O
+15	.	.	O	1	O
 
-1	Al	al	A	1	
-2	met	met	P	1	
-3	al	al	A	1	
-4	hebben	hebben	V	1	
-5	we	we	Q	1	
-6	toch	toch	A	1	
-7	een	een	D	1	
-8	hele	heel	G	1	
-9	leuke	leuk	G	1	
-10	vakantie	vakantie	N	1	
-11	gehad	hebben	V	1	
-12	.	.	O	1	
+1	Al	al	A	1	O
+2	met	met	P	1	O
+3	al	al	A	1	O
+4	hebben	hebben	V	1	O
+5	we	we	Q	1	O
+6	toch	toch	A	1	O
+7	een	een	D	1	O
+8	hele	heel	G	1	O
+9	leuke	leuk	G	1	O
+10	vakantie	vakantie	N	1	O
+11	gehad	hebben	V	1	O
+12	.	.	O	1	O
 

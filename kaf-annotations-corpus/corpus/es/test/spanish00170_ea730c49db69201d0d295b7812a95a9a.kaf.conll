@@ -1,46 +1,46 @@
-1	Muy	Muy	R	1	
-2	céntrico	céntrico	N	1	
+1	Muy	Muy	R	1	O
+2	céntrico	céntrico	N	1	O
 
-1	EL	EL	R	1	
-2	hotel	hotel	N	1	
-3	es	es	V	1	
-4	de	de	P	1	
-5	5	5	O	1	
-6	estrellas	estrellas	N	1	
-7	,	,	O	1	
-8	y	y	G	1	
-9	la	la	N	1	
-10	verdad	verdad	N	1	
-11	es	es	V	1	
-12	que	que	G	1	
-13	se	se	N	1	
-14	las	las	N	1	
-15	merece	merece	V	1	
-16	.	.	O	1	
+1	EL	EL	R	1	O
+2	hotel	hotel	N	1	O
+3	es	es	V	1	O
+4	de	de	P	1	O
+5	5	5	O	1	O
+6	estrellas	estrellas	N	1	O
+7	,	,	O	1	O
+8	y	y	G	1	O
+9	la	la	N	1	O
+10	verdad	verdad	N	1	O
+11	es	es	V	1	O
+12	que	que	G	1	O
+13	se	se	N	1	O
+14	las	las	N	1	O
+15	merece	merece	V	1	O
+16	.	.	O	1	O
 
-1	Todos	Todos	R	1	
-2	los	los	N	1	
-3	detalles	detalles	N	1	
-4	están	están	V	1	
-5	muy	muy	G	1	
-6	bien	bien	N	1	
-7	cuidados	cuidados	N	1	
-8	.	.	O	1	
+1	Todos	Todos	R	1	O
+2	los	los	N	1	O
+3	detalles	detalles	N	1	O
+4	están	están	V	1	O
+5	muy	muy	G	1	O
+6	bien	bien	N	1	O
+7	cuidados	cuidados	N	1	O
+8	.	.	O	1	O
 
-1	El	El	R	1	
-2	hotel	hotel	N	1	
-3	es	es	V	1	
-4	muy	muy	G	1	
-5	grande	grande	N	1	
-6	,	,	O	1	
-7	ocupa	ocupa	O	1	
-8	una	una	G	1	
-9	manzana	manzana	N	1	
-10	entera	entera	N	1	
-11	y	y	G	1	
-12	todo	todo	N	1	
-13	está	está	N	1	
-14	muy	muy	G	1	
-15	limpio	limpio	N	1	
-16	.	.	O	1	
+1	El	El	R	1	O
+2	hotel	hotel	N	1	O
+3	es	es	V	1	O
+4	muy	muy	G	1	O
+5	grande	grande	N	1	O
+6	,	,	O	1	O
+7	ocupa	ocupa	O	1	O
+8	una	una	G	1	O
+9	manzana	manzana	N	1	O
+10	entera	entera	N	1	O
+11	y	y	G	1	O
+12	todo	todo	N	1	O
+13	está	está	N	1	O
+14	muy	muy	G	1	O
+15	limpio	limpio	N	1	O
+16	.	.	O	1	O
 

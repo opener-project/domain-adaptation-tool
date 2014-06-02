@@ -1,55 +1,55 @@
-1	Hotel	Hotel	R	1	
-2	algo	algo	A	1	
-3	apartado	apartado	A	1	
-4	del	del	O	1	
-5	centro	centro	O	1	
-6	bueno	bueno	O	1	
-7	ver	ver	A	1	
-8	el	el	N	1	
-9	Barsa	Barsa	R	1	
+1	Hotel	Hotel	R	1	O
+2	algo	algo	A	1	O
+3	apartado	apartado	A	1	O
+4	del	del	O	1	O
+5	centro	centro	O	1	O
+6	bueno	bueno	O	1	O
+7	ver	ver	A	1	O
+8	el	el	N	1	O
+9	Barsa	Barsa	R	1	O
 
-1	Remoñones	remoñones	N	1	
-2	en	en	O	1	
-3	la	la	O	1	
-4	reposicion	reposicion	O	1	
-5	del	del	O	1	
-6	minibar	minibar	N	1	
-7	y	y	G	1	
-8	la	la	D	1	
-9	television	television	N	1	
-10	aparte	aparte	A	1	
-11	de	de	P	1	
-12	verse	verse	G	1	
-13	mal	mal	G	1	
-14	casi	casi	N	1	
-15	todos	todos	N	1	
-16	los	los	N	1	
-17	canales	canales	N	1	
-18	es	es	V	1	
-19	muy	muy	G	1	
-20	antigua	antigua	N	1	
-21	,	,	O	1	
-22	solo	solo	N	1	
-23	esos	esos	N	1	
-24	dos	dos	N	1	
-25	pequeños	pequeños	N	1	
-26	detalles	detalles	N	1	
-27	el	el	V	1	
-28	resto	resto	N	1	
-29	satisfactorio	satisfactorio	N	1	
-30	,	,	O	1	
-31	se	se	N	1	
-32	tarda	tarda	N	1	
-33	en	en	P	1	
-34	urbano	urbano	G	1	
-35	mas	mama	N	1	
-36	de	de	P	1	
-37	media	medium	N	1	
-38	hora	hora	G	1	
-39	para	para	N	1	
-40	llegar	llegar	N	1	
-41	a	a	D	1	
-42	la	la	N	1	
-43	playa	playa	N	1	
-44	.	.	O	1	
+1	Remoñones	remoñones	N	1	O
+2	en	en	O	1	O
+3	la	la	O	1	O
+4	reposicion	reposicion	O	1	O
+5	del	del	O	1	O
+6	minibar	minibar	N	1	O
+7	y	y	G	1	O
+8	la	la	D	1	O
+9	television	television	N	1	O
+10	aparte	aparte	A	1	O
+11	de	de	P	1	O
+12	verse	verse	G	1	O
+13	mal	mal	G	1	O
+14	casi	casi	N	1	O
+15	todos	todos	N	1	O
+16	los	los	N	1	O
+17	canales	canales	N	1	O
+18	es	es	V	1	O
+19	muy	muy	G	1	O
+20	antigua	antigua	N	1	O
+21	,	,	O	1	O
+22	solo	solo	N	1	O
+23	esos	esos	N	1	O
+24	dos	dos	N	1	O
+25	pequeños	pequeños	N	1	O
+26	detalles	detalles	N	1	O
+27	el	el	V	1	O
+28	resto	resto	N	1	O
+29	satisfactorio	satisfactorio	N	1	O
+30	,	,	O	1	O
+31	se	se	N	1	O
+32	tarda	tarda	N	1	O
+33	en	en	P	1	O
+34	urbano	urbano	G	1	O
+35	mas	mama	N	1	O
+36	de	de	P	1	O
+37	media	medium	N	1	O
+38	hora	hora	G	1	O
+39	para	para	N	1	O
+40	llegar	llegar	N	1	O
+41	a	a	D	1	O
+42	la	la	N	1	O
+43	playa	playa	N	1	O
+44	.	.	O	1	O
 

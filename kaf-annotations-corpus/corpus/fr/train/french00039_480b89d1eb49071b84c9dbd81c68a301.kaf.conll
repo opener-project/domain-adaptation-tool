@@ -1,52 +1,52 @@
-1	SUPER	super	N	1	
-2	SEJOUR	SEJOUR	N	1	
+1	SUPER	super	N	1	O
+2	SEJOUR	SEJOUR	N	1	O
 
-1	Malgré	Malgré	P	1	
-2	une	un	D	1	
-3	météo	météo	N	1	
-4	très	très	G	1	
-5	capricieuse	capricieux	G	1	
-6	,	,	O	1	
-7	nous	lui	Q	1	
-8	avons	avoir	V	1	
-9	passé	passer	V	1	
-10	un	un	D	1	
-11	agéable	agéable	G	1	
-12	séjour	séjour	N	1	
+1	Malgré	Malgré	P	1	O
+2	une	un	D	1	O
+3	météo	météo	N	1	O
+4	très	très	G	1	O
+5	capricieuse	capricieux	G	1	O
+6	,	,	O	1	O
+7	nous	lui	Q	1	O
+8	avons	avoir	V	1	O
+9	passé	passer	V	1	O
+10	un	un	D	1	O
+11	agéable	agéable	G	1	O
+12	séjour	séjour	N	1	O
 
-1	le	le	D	1	
-2	personnel	personnel	N	1	
-3	est	être	V	1	
-4	très	très	G	1	
-5	sympa	sympa	G	1	
-6	et	et	C	1	
-7	à	à	P	1	
-8	l'	le	D	1	
-9	écoute	écoute	N	1	
-10	des	des	P	1	
-11	vacanciers	vacancier	N	1	
+1	le	le	D	1	O
+2	personnel	personnel	N	1	O
+3	est	être	V	1	O
+4	très	très	G	1	O
+5	sympa	sympa	G	1	O
+6	et	et	C	1	O
+7	à	à	P	1	O
+8	l'	le	D	1	O
+9	écoute	écoute	N	1	O
+10	des	des	P	1	O
+11	vacanciers	vacancier	N	1	O
 
-1	les	le	D	1	
-2	animations	animation	N	1	
-3	sont	être	V	1	
-4	tops	tops	G	1	
+1	les	le	D	1	O
+2	animations	animation	N	1	O
+3	sont	être	V	1	O
+4	tops	tops	G	1	O
 
-1	nous	lui	Q	1	
-2	sommes	sommer	V	1	
-3	familiers	familier	G	1	
-4	des	des	P	1	
-5	vacances	vacance	N	1	
-6	en	en	P	1	
-7	camping	camping	N	1	
-8	et	et	C	1	
-9	celui	celui	P	1	
-10	là	là	G	1	
-11	nous	lui	Q	1	
-12	le	le	Q	1	
-13	recommandons	recommander	V	1	
+1	nous	lui	Q	1	O
+2	sommes	sommer	V	1	O
+3	familiers	familier	G	1	O
+4	des	des	P	1	O
+5	vacances	vacance	N	1	O
+6	en	en	P	1	O
+7	camping	camping	N	1	O
+8	et	et	C	1	O
+9	celui	celui	P	1	O
+10	là	là	G	1	O
+11	nous	lui	Q	1	O
+12	le	le	Q	1	O
+13	recommandons	recommander	V	1	O
 
-1	bon	bon	G	1	
-2	rapport	rapport	N	1	
-3	qualité	qualité	N	1	
-4	prix	prix	N	1	
+1	bon	bon	G	1	O
+2	rapport	rapport	N	1	O
+3	qualité	qualité	N	1	O
+4	prix	prix	N	1	O
 

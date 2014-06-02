@@ -1,93 +1,95 @@
-1	Sehr	sehr	A	1	
-2	schönes	schön	G	1	
-3	Hotel	Hotel	N	1	
-4	vor	vor	P	1	
-5	den	die	D	1	
-6	Toren_von_Florenz	Tor_von_Florenz	R	1	ne=Attraction
+1	Sehr	sehr	A	1	O
+2	schönes	schön	G	1	O
+3	Hotel	Hotel	N	1	O
+4	vor	vor	P	1	O
+5	den	die	D	1	O
+6	Toren	Tor	N	1	I-Attraction
+7	von	von	P	1	I-Attraction
+8	Florenz	Florenz	R	1	I-Attraction
 
-1	Das	die	D	1	
-2	Hotel	Hotel	N	1	
-3	ist	sein	V	1	
-4	sehr	sehr	A	1	
-5	schön	schön	G	1	
-6	.	.	O	1	
+1	Das	die	D	1	O
+2	Hotel	Hotel	N	1	O
+3	ist	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	schön	schön	G	1	O
+6	.	.	O	1	O
 
-1	Es	es	Q	1	
-2	ist	sein	V	1	
-3	aufgeteitl	aufgeteitl	O	1	
-4	in	in	P	1	
-5	mehrere	mehrere	Q	1	
-6	villenartige	villenartige	O	1	
-7	Häuser	Haus	N	1	
-8	.	.	O	1	
+1	Es	es	Q	1	O
+2	ist	sein	V	1	O
+3	aufgeteitl	aufgeteitl	O	1	O
+4	in	in	P	1	O
+5	mehrere	mehrere	Q	1	O
+6	villenartige	villenartige	O	1	O
+7	Häuser	Haus	N	1	O
+8	.	.	O	1	O
 
-1	Alle	alle	Q	1	
-2	Häuser	Haus	N	1	
-3	sind	sein	V	1	
-4	klimatisiert	klimatisieren	V	1	
-5	.	.	O	1	
+1	Alle	alle	Q	1	O
+2	Häuser	Haus	N	1	O
+3	sind	sein	V	1	O
+4	klimatisiert	klimatisieren	V	1	O
+5	.	.	O	1	O
 
-1	Alles	alle	Q	1	
-2	war	sein	V	1	
-3	sehr	sehr	A	1	
-4	sauber	sauber	G	1	
-5	und	und	C	1	
-6	gepflegt	gepflegt	G	1	
-7	,	,	O	1	
-8	sowhl	sowhl	O	1	
-9	die	die	D	1	
-10	Gebäude	Gebäude	N	1	
-11	als	als	C	1	
-12	auch	auch	A	1	
-13	die	die	D	1	
-14	sehr	sehr	A	1	
-15	weitläufige	weitläufig	G	1	
-16	Grünanlage	Grünanlage	N	1	
-17	.	.	O	1	
+1	Alles	alle	Q	1	O
+2	war	sein	V	1	O
+3	sehr	sehr	A	1	O
+4	sauber	sauber	G	1	O
+5	und	und	C	1	O
+6	gepflegt	gepflegt	G	1	O
+7	,	,	O	1	O
+8	sowhl	sowhl	O	1	O
+9	die	die	D	1	O
+10	Gebäude	Gebäude	N	1	O
+11	als	als	C	1	O
+12	auch	auch	A	1	O
+13	die	die	D	1	O
+14	sehr	sehr	A	1	O
+15	weitläufige	weitläufig	G	1	O
+16	Grünanlage	Grünanlage	N	1	O
+17	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Publikum	Publikum	N	1	
-3	war	sein	V	1	
-4	sehr	sehr	A	1	
-5	gemischt	gemischt	G	1	
-6	,	,	O	1	
-7	deutsch	deutsch	G	1	
-8	,	,	O	1	
-9	italienisch	italienisch	G	1	
-10	,	,	O	1	
-11	englisch	englisch	G	1	
-12	und	und	C	1	
-13	französich	französich	O	1	
-14	.	.	O	1	
+1	Das	die	D	1	O
+2	Publikum	Publikum	N	1	O
+3	war	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	gemischt	gemischt	G	1	O
+6	,	,	O	1	O
+7	deutsch	deutsch	G	1	O
+8	,	,	O	1	O
+9	italienisch	italienisch	G	1	O
+10	,	,	O	1	O
+11	englisch	englisch	G	1	O
+12	und	und	C	1	O
+13	französich	französich	O	1	O
+14	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	ist	sein	V	1	
-4	für	für	P	1	
-5	italiinische	italiinische	O	1	
-6	Verhältnisse	Verhältnis	N	1	
-7	sehr	sehr	A	1	
-8	üppig	üppig	G	1	
-9	und	und	C	1	
-10	gut	gut	G	1	
-11	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	ist	sein	V	1	O
+4	für	für	P	1	O
+5	italiinische	italiinische	O	1	O
+6	Verhältnisse	Verhältnis	N	1	O
+7	sehr	sehr	A	1	O
+8	üppig	üppig	G	1	O
+9	und	und	C	1	O
+10	gut	gut	G	1	O
+11	.	.	O	1	O
 
-1	Ein	eine	D	1	
-2	Buffet	Buffet	N	1	
-3	mit	mit	P	1	
-4	Wurst	Wurst	N	1	
-5	,	,	O	1	
-6	Eier	Ei	N	1	
-7	,	,	O	1	
-8	Käse	Käse	N	1	
-9	,	,	O	1	
-10	Kuchen	Kuchen	N	1	
-11	,	,	O	1	
-12	Brot	Brot	N	1	
-13	etc.	etc.	A	1	
-14	bietet	bieten	V	1	
-15	ein	eine	D	1	
-16	reichhaltiges	reichhaltig	G	1	
-17	Angebot	Angebot	N	1	
-18	.	.	O	1	
+1	Ein	eine	D	1	O
+2	Buffet	Buffet	N	1	O
+3	mit	mit	P	1	O
+4	Wurst	Wurst	N	1	O
+5	,	,	O	1	O
+6	Eier	Ei	N	1	O
+7	,	,	O	1	O
+8	Käse	Käse	N	1	O
+9	,	,	O	1	O
+10	Kuchen	Kuchen	N	1	O
+11	,	,	O	1	O
+12	Brot	Brot	N	1	O
+13	etc.	etc.	A	1	O
+14	bietet	bieten	V	1	O
+15	ein	eine	D	1	O
+16	reichhaltiges	reichhaltig	G	1	O
+17	Angebot	Angebot	N	1	O
+18	.	.	O	1	O
 

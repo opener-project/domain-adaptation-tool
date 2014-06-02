@@ -1,98 +1,98 @@
-1	Hotel	hotel	N	1	
-2	molto	molto	A	1	
-3	curato	curare	V	1	
-4	,	,	O	1	
-5	necessari	necessario	G	1	
-6	spostamenti	spostamento	N	1	
-7	in	in	P	1	
-8	taxi	taxi	N	1	
-9	.	.	O	1	
+1	Hotel	hotel	N	1	O
+2	molto	molto	A	1	O
+3	curato	curare	V	1	O
+4	,	,	O	1	O
+5	necessari	necessario	G	1	O
+6	spostamenti	spostamento	N	1	O
+7	in	in	P	1	O
+8	taxi	taxi	N	1	O
+9	.	.	O	1	O
 
-1	L'	lo	D	1	
-2	hotel	hotel	N	1	
-3	è	è	G	1	
-4	molto	molto	G	1	
-5	curato	curato	N	1	
-6	così	così	V	1	
-7	come	come	Q	1	
-8	le	lo	D	1	
-9	camere	camera	N	1	
-10	e	e	Q	1	
-11	la	lo	D	1	
-12	colazione	colazione	N	1	
-13	,	,	O	1	
-14	varia	vario	G	1	
-15	ed	ed	Q	1	
-16	abbondante	abbondare	V	1	
-17	.	.	O	1	
+1	L'	lo	D	1	O
+2	hotel	hotel	N	1	O
+3	è	è	G	1	O
+4	molto	molto	G	1	O
+5	curato	curato	N	1	O
+6	così	così	V	1	O
+7	come	come	Q	1	O
+8	le	lo	D	1	O
+9	camere	camera	N	1	O
+10	e	e	Q	1	O
+11	la	lo	D	1	O
+12	colazione	colazione	N	1	O
+13	,	,	O	1	O
+14	varia	vario	G	1	O
+15	ed	ed	Q	1	O
+16	abbondante	abbondare	V	1	O
+17	.	.	O	1	O
 
-1	La	lo	D	1	
-2	posizione	posizione	N	1	
-3	non	non	A	1	
-4	è	è	R	1	
-5	molto	molto	A	1	
-6	comoda	comodo	G	1	
-7	per	per	P	1	
-8	raggiungere	raggiungere	V	1	
-9	le	lo	D	1	
-10	stazioni	stazione	N	1	
-11	della	della	P	1	
-12	metro	metro	N	1	
-13	,	,	O	1	
-14	ogni	ogni	G	1	
-15	spostamento	spostamento	N	1	
-16	deve	dovere	V	1	
-17	essere	essere	V	1	
-18	fatto	fatto	N	1	
-19	con	con	P	1	
-20	i	lo	D	1	
-21	taxi	taxi	N	1	
-22	(	(	O	1	
-23	che	che	Q	1	
-24	si	si	Q	1	
-25	trovano	trovare	V	1	
-26	a	a	P	1	
-27	qualsiasi	qualsiasi	G	1	
-28	ora	ora	A	1	
-29	di	di	P	1	
-30	fronte	fronte	N	1	
-31	all'	all'	P	1	
-32	hotel	hotel	N	1	
-33	)	)	O	1	
-34	.	.	O	1	
+1	La	lo	D	1	O
+2	posizione	posizione	N	1	O
+3	non	non	A	1	O
+4	è	è	R	1	O
+5	molto	molto	A	1	O
+6	comoda	comodo	G	1	O
+7	per	per	P	1	O
+8	raggiungere	raggiungere	V	1	O
+9	le	lo	D	1	O
+10	stazioni	stazione	N	1	O
+11	della	della	P	1	O
+12	metro	metro	N	1	O
+13	,	,	O	1	O
+14	ogni	ogni	G	1	O
+15	spostamento	spostamento	N	1	O
+16	deve	dovere	V	1	O
+17	essere	essere	V	1	O
+18	fatto	fatto	N	1	O
+19	con	con	P	1	O
+20	i	lo	D	1	O
+21	taxi	taxi	N	1	O
+22	(	(	O	1	O
+23	che	che	Q	1	O
+24	si	si	Q	1	O
+25	trovano	trovare	V	1	O
+26	a	a	P	1	O
+27	qualsiasi	qualsiasi	G	1	O
+28	ora	ora	A	1	O
+29	di	di	P	1	O
+30	fronte	fronte	N	1	O
+31	all'	all'	P	1	O
+32	hotel	hotel	N	1	O
+33	)	)	O	1	O
+34	.	.	O	1	O
 
-1	Con	con	P	1	
-2	il	lo	D	1	
-3	taxi	taxi	N	1	
-4	la	lo	D	1	
-5	distanza	distanza	N	1	
-6	dalla	dalla	P	1	
-7	fiera	fiera	N	1	
-8	è	è	N	1	
-9	di	di	P	1	
-10	circa	circa	A	1	
-11	10	10	G	1	
-12	minuti	minuto	N	1	
-13	,	,	O	1	
-14	le	lo	D	1	
-15	distanze	distanza	N	1	
-16	a	a	P	1	
-17	Duabi	duabi	R	1	ne=Location
-18	ovviamente	ovviamente	A	1	
-19	dipendono	dipendere	V	1	
-20	dal	dal	P	1	
-21	traffico	traffico	N	1	
-22	,	,	O	1	
-23	che	che	Q	1	
-24	in	in	P	1	
-25	alcune	alcuno	G	1	
-26	ore	ore	N	1	
-27	è	è	G	1	
-28	veramente	veramente	A	1	
-29	intenso	intenso	G	1	
-30	e	e	Q	1	
-31	paralizza	paralizzare	V	1	
-32	qualsiasi	qualsiasi	G	1	
-33	veicolo	veicolo	N	1	
-34	.	.	O	1	
+1	Con	con	P	1	O
+2	il	lo	D	1	O
+3	taxi	taxi	N	1	O
+4	la	lo	D	1	O
+5	distanza	distanza	N	1	O
+6	dalla	dalla	P	1	O
+7	fiera	fiera	N	1	O
+8	è	è	N	1	O
+9	di	di	P	1	O
+10	circa	circa	A	1	O
+11	10	10	G	1	O
+12	minuti	minuto	N	1	O
+13	,	,	O	1	O
+14	le	lo	D	1	O
+15	distanze	distanza	N	1	O
+16	a	a	P	1	O
+17	Duabi	duabi	R	1	I-Location
+18	ovviamente	ovviamente	A	1	O
+19	dipendono	dipendere	V	1	O
+20	dal	dal	P	1	O
+21	traffico	traffico	N	1	O
+22	,	,	O	1	O
+23	che	che	Q	1	O
+24	in	in	P	1	O
+25	alcune	alcuno	G	1	O
+26	ore	ore	N	1	O
+27	è	è	G	1	O
+28	veramente	veramente	A	1	O
+29	intenso	intenso	G	1	O
+30	e	e	Q	1	O
+31	paralizza	paralizzare	V	1	O
+32	qualsiasi	qualsiasi	G	1	O
+33	veicolo	veicolo	N	1	O
+34	.	.	O	1	O
 

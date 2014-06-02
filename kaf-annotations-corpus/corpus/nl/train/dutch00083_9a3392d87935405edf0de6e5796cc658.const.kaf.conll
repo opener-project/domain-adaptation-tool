@@ -1,153 +1,154 @@
-1	Huilen	huilen	N	1	
-2	met	met	P	1	
-3	de	de	D	1	
-4	pet	pet	N	1	
-5	op	op	P	1	
-6	!	!	O	1	
-7	!	!	O	1	
-8	!	!	O	1	
+1	Huilen	huilen	N	1	O
+2	met	met	P	1	O
+3	de	de	D	1	O
+4	pet	pet	N	1	O
+5	op	op	P	1	O
+6	!	!	O	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
 
-1	Badkamer	badkamer	N	1	
-2	,	,	O	1	
-3	douche	douche	N	1	
-4	vol	vol	G	1	
-5	met	met	P	1	
-6	schimmel	schimmel	N	1	
-7	,	,	O	1	
-8	vettigheid	vettigheid	O	1	
-9	,	,	O	1	
-10	haren	haar	N	1	
-11	,	,	O	1	
-12	zeepresten	zeepresten	O	1	
-13	enz	enz	A	1	
-14	.	.	O	1	
+1	Badkamer	badkamer	N	1	O
+2	,	,	O	1	O
+3	douche	douche	N	1	O
+4	vol	vol	G	1	O
+5	met	met	P	1	O
+6	schimmel	schimmel	N	1	O
+7	,	,	O	1	O
+8	vettigheid	vettigheid	O	1	O
+9	,	,	O	1	O
+10	haren	haar	N	1	O
+11	,	,	O	1	O
+12	zeepresten	zeepresten	O	1	O
+13	enz	enz	A	1	O
+14	.	.	O	1	O
 
-1	Alberto_Stegemans	Alberto_Stegemans	R	1	ne=Person
-2	van	van	P	1	
-3	red	redden	V	1	
-4	mijn	mijn	D	1	
-5	vakantie	vakantie	N	1	
-6	zou	zullen	V	1	
-7	er	er	Q	1	
-8	niet	niet	A	1	
-9	vrolijk	vrolijk	G	1	
-10	van	van	P	1	
-11	zijn	zijn	D	1	
-12	.	.	O	1	
+1	Alberto	Alberto	O	1	I-Person
+2	Stegemans	Stegemans	O	1	I-Person
+3	van	van	P	1	O
+4	red	redden	V	1	O
+5	mijn	mijn	D	1	O
+6	vakantie	vakantie	N	1	O
+7	zou	zullen	V	1	O
+8	er	er	Q	1	O
+9	niet	niet	A	1	O
+10	vrolijk	vrolijk	G	1	O
+11	van	van	P	1	O
+12	zijn	zijn	D	1	O
+13	.	.	O	1	O
 
-1	Na	na	P	1	
-2	de	de	D	1	
-3	verantwoordelijke	verantwoordelijke	N	1	
-4	erbij	erbij	Q	1	
-5	geroepen	roepen	V	1	
-6	te	te	O	1	
-7	hebben	hebben	V	1	
-8	was	wezen|zijn	V	1	
-9	de	de	D	1	
-10	uitleg	uitleg	N	1	
-11	"	"	O	1	
-12	poetsvrouw	poetsvrouw	O	1	
-13	arm	arm	G	1	
-14	in	in	P	1	
-15	gips	gips	N	1	
-16	"	"	O	1	
-17	en	en	C	1	
-18	kregen	krijgen	V	1	
-19	het	het	D	1	
-20	vriendelijk	vriendelijk	G	1	
-21	verzoek	verzoek	N	1	
-22	of	of	C	1	
-23	we	we	Q	1	
-24	hem	hem	Q	1	
-25	zelf	zelf	Q	1	
-26	konden	kunnen	V	1	
-27	poetsen	poetsen	V	1	
-28	,	,	O	1	
-29	hebben	hebben	V	1	
-30	dan	dan	A	1	
-31	maar	maar	A	1	
-32	zelf	zelf	Q	1	
-33	product	product	N	1	
-34	gekocht	kopen	V	1	
-35	en	en	C	1	
-36	hem	hem	Q	1	
-37	zo	zo	A	1	
-38	goed	goed	G	1	
-39	als	als	C	1	
-40	het	het	Q	1	
-41	ging	gaan	V	1	
-42	gepoest	gepoest	O	1	
-43	.	.	O	1	
+1	Na	na	P	1	O
+2	de	de	D	1	O
+3	verantwoordelijke	verantwoordelijke	N	1	O
+4	erbij	erbij	Q	1	O
+5	geroepen	roepen	V	1	O
+6	te	te	O	1	O
+7	hebben	hebben	V	1	O
+8	was	wezen|zijn	V	1	O
+9	de	de	D	1	O
+10	uitleg	uitleg	N	1	O
+11	"	"	O	1	O
+12	poetsvrouw	poetsvrouw	O	1	O
+13	arm	arm	G	1	O
+14	in	in	P	1	O
+15	gips	gips	N	1	O
+16	"	"	O	1	O
+17	en	en	C	1	O
+18	kregen	krijgen	V	1	O
+19	het	het	D	1	O
+20	vriendelijk	vriendelijk	G	1	O
+21	verzoek	verzoek	N	1	O
+22	of	of	C	1	O
+23	we	we	Q	1	O
+24	hem	hem	Q	1	O
+25	zelf	zelf	Q	1	O
+26	konden	kunnen	V	1	O
+27	poetsen	poetsen	V	1	O
+28	,	,	O	1	O
+29	hebben	hebben	V	1	O
+30	dan	dan	A	1	O
+31	maar	maar	A	1	O
+32	zelf	zelf	Q	1	O
+33	product	product	N	1	O
+34	gekocht	kopen	V	1	O
+35	en	en	C	1	O
+36	hem	hem	Q	1	O
+37	zo	zo	A	1	O
+38	goed	goed	G	1	O
+39	als	als	C	1	O
+40	het	het	Q	1	O
+41	ging	gaan	V	1	O
+42	gepoest	gepoest	O	1	O
+43	.	.	O	1	O
 
-1	Geen	geen	D	1	
-2	internet	internet	N	1	
-3	op	op	P	1	
-4	de	de	D	1	
-5	derde	drie	O	1	
-6	etage	etage	N	1	
-7	,	,	O	1	
-8	maar	maar	C	1	
-9	enkele	enkel	D	1	
-10	zenders	zender	N	1	
-11	op	op	P	1	
-12	TV	TV	O	1	
-13	.	.	O	1	
+1	Geen	geen	D	1	O
+2	internet	internet	N	1	O
+3	op	op	P	1	O
+4	de	de	D	1	O
+5	derde	drie	O	1	O
+6	etage	etage	N	1	O
+7	,	,	O	1	O
+8	maar	maar	C	1	O
+9	enkele	enkel	D	1	O
+10	zenders	zender	N	1	O
+11	op	op	P	1	O
+12	TV	TV	O	1	O
+13	.	.	O	1	O
 
-1	Ontbijt	ontbijt	N	1	
-2	redelijk	redelijk	G	1	
-3	maar	maar	C	1	
-4	bestekken	bestek	N	1	
-5	en	en	C	1	
-6	borden	bord	N	1	
-7	niet	niet	A	1	
-8	zuiver	zuiver	G	1	
-9	,	,	O	1	
-10	restaurant	restaurant	N	1	
-11	ook	ook	A	1	
-12	niet	niet	A	1	
-13	aan	aan	A	1	
-14	te	te	O	1	
-15	bevelen	bevelen	V	1	
-16	een	een	D	1	
-17	maal	maal	N	1	
-18	gegeten	eten	V	1	
-19	biefstuk	biefstuk	N	1	
-20	was	wezen|zijn	V	1	
-21	meer	meer	A	1	
-22	een	een	D	1	
-23	schoenlap	schoenlap	O	1	
-24	.	.	O	1	
+1	Ontbijt	ontbijt	N	1	O
+2	redelijk	redelijk	G	1	O
+3	maar	maar	C	1	O
+4	bestekken	bestek	N	1	O
+5	en	en	C	1	O
+6	borden	bord	N	1	O
+7	niet	niet	A	1	O
+8	zuiver	zuiver	G	1	O
+9	,	,	O	1	O
+10	restaurant	restaurant	N	1	O
+11	ook	ook	A	1	O
+12	niet	niet	A	1	O
+13	aan	aan	A	1	O
+14	te	te	O	1	O
+15	bevelen	bevelen	V	1	O
+16	een	een	D	1	O
+17	maal	maal	N	1	O
+18	gegeten	eten	V	1	O
+19	biefstuk	biefstuk	N	1	O
+20	was	wezen|zijn	V	1	O
+21	meer	meer	A	1	O
+22	een	een	D	1	O
+23	schoenlap	schoenlap	O	1	O
+24	.	.	O	1	O
 
-1	Tafels	tafel	N	1	
-2	veel	veel	A	1	
-3	te	te	O	1	
-4	kort	kort	G	1	
-5	op	op	P	1	
-6	elkaar	elkaar	Q	1	
-7	geen	geen	D	1	
-8	plaats	plaats	N	1	
-9	en	en	C	1	
-10	privé	privé	G	1	
-11	ook	ook	A	1	
-12	bij	bij	P	1	
-13	het	het	D	1	
-14	ontbijt	ontbijt	N	1	
-15	.	.	O	1	
+1	Tafels	tafel	N	1	O
+2	veel	veel	A	1	O
+3	te	te	O	1	O
+4	kort	kort	G	1	O
+5	op	op	P	1	O
+6	elkaar	elkaar	Q	1	O
+7	geen	geen	D	1	O
+8	plaats	plaats	N	1	O
+9	en	en	C	1	O
+10	privé	privé	G	1	O
+11	ook	ook	A	1	O
+12	bij	bij	P	1	O
+13	het	het	D	1	O
+14	ontbijt	ontbijt	N	1	O
+15	.	.	O	1	O
 
-1	Kortom	kortom	A	1	
-2	echt	echt	A	1	
-3	niet	niet	A	1	
-4	aan	aan	A	1	
-5	te	te	O	1	
-6	bevelen	bevelen	V	1	
-7	!	!	O	1	
+1	Kortom	kortom	A	1	O
+2	echt	echt	A	1	O
+3	niet	niet	A	1	O
+4	aan	aan	A	1	O
+5	te	te	O	1	O
+6	bevelen	bevelen	V	1	O
+7	!	!	O	1	O
 
-1	Wij	wij	Q	1	
-2	gaan	gaan	V	1	
-3	er	er	Q	1	
-4	zeker	zeker	G	1	
-5	niet	niet	A	1	
-6	meer	meer	A	1	
-7	!	!	O	1	
-8	!	!	O	1	
+1	Wij	wij	Q	1	O
+2	gaan	gaan	V	1	O
+3	er	er	Q	1	O
+4	zeker	zeker	G	1	O
+5	niet	niet	A	1	O
+6	meer	meer	A	1	O
+7	!	!	O	1	O
+8	!	!	O	1	O
 

@@ -1,116 +1,121 @@
-1	Mega	Mega	O	1	
-2	·	·	O	1	
-3	Hotel	Hotel	N	1	
-4	im	in	P	1	
-5	Herzen	Herz	N	1	
-6	des	die	D	1	
-7	Las_Vegas	lesen_Vegas	R	1	ne=Location
-8	Strip	Strip	N	1	
+1	Mega	Mega	O	1	O
+2	·	·	O	1	O
+3	Hotel	Hotel	N	1	O
+4	im	in	P	1	O
+5	Herzen	Herz	N	1	O
+6	des	die	D	1	O
+7	Las	lesen	V	1	I-Location
+8	Vegas	Vegas	O	1	I-Location
+9	Strip	Strip	N	1	O
 
-1	Das_MGM_Grand	die_MGM_Grand	R	1	ne=Hotel
-2	ist	sein	V	1	
-3	mit	mit	P	1	
-4	über	über	P	1	
-5	5000	5000	O	1	
-6	Zimmern	Zimmer	N	1	
-7	eines	eine	Q	1	
-8	der	die	D	1	
-9	größten	groß	G	1	
-10	Hotels	Hotel	N	1	
-11	in	in	P	1	
-12	Las_Vegas	lesen_Vegas	R	1	ne=Location
-13	!	!	O	1	
+1	Das	die	D	1	I-Hotel
+2	MGM	MGM	R	1	I-Hotel
+3	Grand	Grand	O	1	I-Hotel
+4	ist	sein	V	1	O
+5	mit	mit	P	1	O
+6	über	über	P	1	O
+7	5000	5000	O	1	O
+8	Zimmern	Zimmer	N	1	O
+9	eines	eine	Q	1	O
+10	der	die	D	1	O
+11	größten	groß	G	1	O
+12	Hotels	Hotel	N	1	O
+13	in	in	P	1	O
+14	Las	lesen	V	1	I-Location
+15	Vegas	Vegas	O	1	I-Location
+16	!	!	O	1	O
 
-1	Doch	doch	C	1	
-2	trotz	trotz	P	1	
-3	der	die	D	1	
-4	enormen	enorm	G	1	
-5	Größe	Größe	N	1	
-6	fühlt	fühlen	V	1	
-7	man	man	Q	1	
-8	sich	sich	Q	1	
-9	nicht	nicht	O	1	
-10	unwohl	unwohl	G	1	
-11	.	.	O	1	
+1	Doch	doch	C	1	O
+2	trotz	trotz	P	1	O
+3	der	die	D	1	O
+4	enormen	enorm	G	1	O
+5	Größe	Größe	N	1	O
+6	fühlt	fühlen	V	1	O
+7	man	man	Q	1	O
+8	sich	sich	Q	1	O
+9	nicht	nicht	O	1	O
+10	unwohl	unwohl	G	1	O
+11	.	.	O	1	O
 
-1	Die	die	D	1	
-2	gesamte	gesamt	G	1	
-3	Anlage	Anlage	N	1	
-4	(	(	O	1	
-5	mit	mit	P	1	
-6	Ausnahme	Ausnahme	N	1	
-7	der	die	D	1	
-8	Shoppingpassage	Shoppingpassage	O	1	
-9	)	)	O	1	
-10	ist	sein	V	1	
-11	sehr	sehr	A	1	
-12	hochwertig	hochwertig	G	1	
-13	und	und	C	1	
-14	luxuriös	luxuriös	G	1	
-15	gestaltet	gestalten	V	1	
-16	,	,	O	1	
-17	sehr	sehr	A	1	
-18	sauber	sauber	G	1	
-19	und	und	C	1	
-20	architektonisch	architektonisch	G	1	
-21	interesant	interesant	O	1	
-22	gebaut	bauen	V	1	
-23	.	.	O	1	
+1	Die	die	D	1	O
+2	gesamte	gesamt	G	1	O
+3	Anlage	Anlage	N	1	O
+4	(	(	O	1	O
+5	mit	mit	P	1	O
+6	Ausnahme	Ausnahme	N	1	O
+7	der	die	D	1	O
+8	Shoppingpassage	Shoppingpassage	O	1	O
+9	)	)	O	1	O
+10	ist	sein	V	1	O
+11	sehr	sehr	A	1	O
+12	hochwertig	hochwertig	G	1	O
+13	und	und	C	1	O
+14	luxuriös	luxuriös	G	1	O
+15	gestaltet	gestalten	V	1	O
+16	,	,	O	1	O
+17	sehr	sehr	A	1	O
+18	sauber	sauber	G	1	O
+19	und	und	C	1	O
+20	architektonisch	architektonisch	G	1	O
+21	interesant	interesant	O	1	O
+22	gebaut	bauen	V	1	O
+23	.	.	O	1	O
 
-1	Die	die	D	1	
-2	gesamte	gesamt	G	1	
-3	Aussenfassade	Aussenfassade	N	1	
-4	ist	sein	V	1	
-5	verspiegelt	verspiegeln	V	1	
-6	,	,	O	1	
-7	tagsüber	tagsüber	A	1	
-8	erscheint	erscheinen	V	1	
-9	das	die	D	1	
-10	Hotel	Hotel	N	1	
-11	dunkelblau	dunkelblau	G	1	
-12	,	,	O	1	
-13	nachts	nachts	A	1	
-14	leuchtet	leuchten	V	1	
-15	es	es	Q	1	
-16	grün	grün	G	1	
-17	!	!	O	1	
+1	Die	die	D	1	O
+2	gesamte	gesamt	G	1	O
+3	Aussenfassade	Aussenfassade	N	1	O
+4	ist	sein	V	1	O
+5	verspiegelt	verspiegeln	V	1	O
+6	,	,	O	1	O
+7	tagsüber	tagsüber	A	1	O
+8	erscheint	erscheinen	V	1	O
+9	das	die	D	1	O
+10	Hotel	Hotel	N	1	O
+11	dunkelblau	dunkelblau	G	1	O
+12	,	,	O	1	O
+13	nachts	nachts	A	1	O
+14	leuchtet	leuchten	V	1	O
+15	es	es	Q	1	O
+16	grün	grün	G	1	O
+17	!	!	O	1	O
 
-1	Das_MGM	die_MGM	R	1	ne=Hotel
-2	ist	sein	V	1	
-3	mehr	mehr	A	1	
-4	eine	eine	D	1	
-5	eigene	eigen	G	1	
-6	Stadt	Stadt	N	1	
-7	als	als	C	1	
-8	ein	eine	D	1	
-9	Hotel	Hotel	N	1	
-10	,	,	O	1	
-11	hier	hier	A	1	
-12	gibt	geben	V	1	
-13	es	es	Q	1	
-14	wirklich	wirklich	G	1	
-15	alles	alle	Q	1	
-16	was	was	Q	1	
-17	man	man	Q	1	
-18	benötigt	benötigen	V	1	
-19	!	!	O	1	
+1	Das	die	D	1	I-Hotel
+2	MGM	MGM	R	1	I-Hotel
+3	ist	sein	V	1	O
+4	mehr	mehr	A	1	O
+5	eine	eine	D	1	O
+6	eigene	eigen	G	1	O
+7	Stadt	Stadt	N	1	O
+8	als	als	C	1	O
+9	ein	eine	D	1	O
+10	Hotel	Hotel	N	1	O
+11	,	,	O	1	O
+12	hier	hier	A	1	O
+13	gibt	geben	V	1	O
+14	es	es	Q	1	O
+15	wirklich	wirklich	G	1	O
+16	alles	alle	Q	1	O
+17	was	was	Q	1	O
+18	man	man	Q	1	O
+19	benötigt	benötigen	V	1	O
+20	!	!	O	1	O
 
-1	Das	die	D	1	
-2	einzige	einzig	G	1	
-3	Problem	Problem	N	1	
-4	ist	sein	V	1	
-5	,	,	O	1	
-6	dass	dass	C	1	
-7	die	die	D	1	
-8	Gefahr	Gefahr	N	1	
-9	,	,	O	1	
-10	sich	sich	Q	1	
-11	zu	zu	O	1	
-12	verirren	verirren	V	1	
-13	,	,	O	1	
-14	doch	doch	A	1	
-15	recht	recht	G	1	
-16	hoch	hoch	G	1	
-17	ist	sein	V	1	
-18	!	!	O	1	
+1	Das	die	D	1	O
+2	einzige	einzig	G	1	O
+3	Problem	Problem	N	1	O
+4	ist	sein	V	1	O
+5	,	,	O	1	O
+6	dass	dass	C	1	O
+7	die	die	D	1	O
+8	Gefahr	Gefahr	N	1	O
+9	,	,	O	1	O
+10	sich	sich	Q	1	O
+11	zu	zu	O	1	O
+12	verirren	verirren	V	1	O
+13	,	,	O	1	O
+14	doch	doch	A	1	O
+15	recht	recht	G	1	O
+16	hoch	hoch	G	1	O
+17	ist	sein	V	1	O
+18	!	!	O	1	O
 

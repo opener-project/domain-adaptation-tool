@@ -1,171 +1,174 @@
-1	Dopo	dopo	P	1	
-2	l'	lo	D	1	
-3	estate	estate	N	1	
-4	una	uno	D	1	
-5	visita	visita	N	1	
-6	invernale	invernale	G	1	
+1	Dopo	dopo	P	1	O
+2	l'	lo	D	1	O
+3	estate	estate	N	1	O
+4	una	uno	D	1	O
+5	visita	visita	N	1	O
+6	invernale	invernale	G	1	O
 
-1	Eravamo	eravamo	R	1	
-2	già	già	R	1	
-3	stati	essere	V	1	
-4	all'	all'	P	1	
-5	agriturismo_Amedea	agriturismo_amedea	R	1	ne=Hotel
-6	nell'	nell'	P	1	
-7	estate_2012	estate_2012	R	1	ne=Date
-8	e	e	Q	1	
-9	nuovamente	nuovamente	A	1	
-10	a	a	P	1	
-11	fine	fine	N	1	
-12	ottobre_2012	ottobre_2012	R	1	ne=Date
-13	;	;	O	1	
-14	fin	fin	N	1	
-15	dall'	dall'	P	1	
-16	inizio	iniziare	V	1	
-17	ce	ce	Q	1	
-18	ne	ne	Q	1	
-19	siamo	essere	V	1	
-20	innamorati	innamorare	V	1	
-21	;	;	O	1	
-22	sia	essere	V	1	
-23	del	del	P	1	
-24	luogo	luogo	N	1	
-25	che	che	Q	1	
-26	della	della	P	1	
-27	familiare	familiare	G	1	
-28	,	,	O	1	
-29	amichevole	amichevole	G	1	
-30	e	e	Q	1	
-31	squisita	squisito	G	1	
-32	gentilezza	gentilezza	N	1	
-33	dei	dei	P	1	
-34	proprietari	proprietario	N	1	
-35	.	.	O	1	
+1	Eravamo	eravamo	R	1	O
+2	già	già	R	1	O
+3	stati	essere	V	1	O
+4	all'	all'	P	1	O
+5	agriturismo	agriturismo	N	1	I-Hotel
+6	Amedea	amedea	R	1	I-Hotel
+7	nell'	nell'	P	1	O
+8	estate	estate	N	1	I-Date
+9	2012	2012	G	1	I-Date
+10	e	e	Q	1	O
+11	nuovamente	nuovamente	A	1	O
+12	a	a	P	1	O
+13	fine	fine	N	1	O
+14	ottobre	ottobre	N	1	I-Date
+15	2012	2012	N	1	I-Date
+16	;	;	O	1	O
+17	fin	fin	N	1	O
+18	dall'	dall'	P	1	O
+19	inizio	iniziare	V	1	O
+20	ce	ce	Q	1	O
+21	ne	ne	Q	1	O
+22	siamo	essere	V	1	O
+23	innamorati	innamorare	V	1	O
+24	;	;	O	1	O
+25	sia	essere	V	1	O
+26	del	del	P	1	O
+27	luogo	luogo	N	1	O
+28	che	che	Q	1	O
+29	della	della	P	1	O
+30	familiare	familiare	G	1	O
+31	,	,	O	1	O
+32	amichevole	amichevole	G	1	O
+33	e	e	Q	1	O
+34	squisita	squisito	G	1	O
+35	gentilezza	gentilezza	N	1	O
+36	dei	dei	P	1	O
+37	proprietari	proprietario	N	1	O
+38	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	quindi	quindi	A	1	
-3	voluto	volere	V	1	
-4	provare	provare	V	1	
-5	anche	anche	Q	1	
-6	il	lo	D	1	
-7	capodanno	capodanno	N	1	
-8	,	,	O	1	
-9	confermata	confermare	V	1	
-10	l'	lo	D	1	
-11	ottima	ottimo	G	1	
-12	scelta	scegliere	V	1	
-13	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	quindi	quindi	A	1	O
+3	voluto	volere	V	1	O
+4	provare	provare	V	1	O
+5	anche	anche	Q	1	O
+6	il	lo	D	1	O
+7	capodanno	capodanno	N	1	O
+8	,	,	O	1	O
+9	confermata	confermare	V	1	O
+10	l'	lo	D	1	O
+11	ottima	ottimo	G	1	O
+12	scelta	scegliere	V	1	O
+13	.	.	O	1	O
 
-1	Tornare	tornare	V	1	
-2	da	da	P	1	
-3	Antonella	antonella	R	1	ne=Person
-4	e	e	Q	1	
-5	Gabriele	gabriele	R	1	ne=Person
-6	è	è	R	1	
-7	come	come	A	1	
-8	essere	essera	N	1	
-9	a	a	P	1	
-10	casa	casa	N	1	
-11	e	e	Q	1	
-12	l'	lo	D	1	
-13	atmosfera	atmosfera	N	1	
-14	del	del	P	1	
-15	luogo	luogo	N	1	
-16	è	è	N	1	
-17	di	di	P	1	
-18	una	uno	D	1	
-19	accoglienza	accoglienza	N	1	
-20	avvolgente	avvolgere	V	1	
-21	.	.	O	1	
+1	Tornare	tornare	V	1	O
+2	da	da	P	1	O
+3	Antonella	antonella	R	1	I-Person
+4	e	e	Q	1	O
+5	Gabriele	gabriele	R	1	I-Person
+6	è	è	R	1	O
+7	come	come	A	1	O
+8	essere	essera	N	1	O
+9	a	a	P	1	O
+10	casa	casa	N	1	O
+11	e	e	Q	1	O
+12	l'	lo	D	1	O
+13	atmosfera	atmosfera	N	1	O
+14	del	del	P	1	O
+15	luogo	luogo	N	1	O
+16	è	è	N	1	O
+17	di	di	P	1	O
+18	una	uno	D	1	O
+19	accoglienza	accoglienza	N	1	O
+20	avvolgente	avvolgere	V	1	O
+21	.	.	O	1	O
 
-1	Abbiamo	avere	V	1	
-2	provato	provare	V	1	
-3	nelle	nelle	P	1	
-4	diverse	diverso	G	1	
-5	stagioni	stagione	N	1	
-6	,	,	O	1	
-7	dall'	dall'	P	1	
-8	estate	estate	N	1	
-9	piena	pieno	G	1	
-10	all'	all'	P	1	
-11	autunno	autunno	N	1	
-12	ed	ed	Q	1	
-13	in	in	P	1	
-14	pieno	pieno	G	1	
-15	inverno	inverno	N	1	
-16	.	.	O	1	
+1	Abbiamo	avere	V	1	O
+2	provato	provare	V	1	O
+3	nelle	nelle	P	1	O
+4	diverse	diverso	G	1	O
+5	stagioni	stagione	N	1	O
+6	,	,	O	1	O
+7	dall'	dall'	P	1	O
+8	estate	estate	N	1	O
+9	piena	pieno	G	1	O
+10	all'	all'	P	1	O
+11	autunno	autunno	N	1	O
+12	ed	ed	Q	1	O
+13	in	in	P	1	O
+14	pieno	pieno	G	1	O
+15	inverno	inverno	N	1	O
+16	.	.	O	1	O
 
-1	La	lo	D	1	
-2	conclusione	conclusione	N	1	
-3	è	è	R	1	
-4	la	lo	D	1	
-5	stessa	stessa	G	1	
-6	;	;	O	1	
-7	stupendo	stupendo	G	1	
-8	.	.	O	1	
+1	La	lo	D	1	O
+2	conclusione	conclusione	N	1	O
+3	è	è	R	1	O
+4	la	lo	D	1	O
+5	stessa	stessa	G	1	O
+6	;	;	O	1	O
+7	stupendo	stupendo	G	1	O
+8	.	.	O	1	O
 
-1	Consigliato	consigliato	N	1	
-2	a	a	P	1	
-3	tutti	tutti	Q	1	
-4	coloro	coloro	Q	1	
-5	che	che	Q	1	
-6	desiderano	desiderano	V	1	
-7	passare	passare	V	1	
-8	vacanze	vacanza	N	1	
-9	in	in	P	1	
-10	completo	completare	V	1	
-11	relax	relax	N	1	
-12	,	,	O	1	
-13	staccati	staccare	V	1	
-14	dal	dal	P	1	
-15	normale	normale	G	1	
-16	trambusto	trambusto	N	1	
-17	ma	ma	Q	1	
-18	nelle	nelle	P	1	
-19	immediate	immediato	G	1	
-20	vicinanze	vicinanza	N	1	
-21	di	di	P	1	
-22	qualsiasi	qualsiasi	G	1	
-23	meravigliosa	meraviglioso	G	1	
-24	attrazione	attrazione	N	1	
-25	e	e	Q	1	
-26	coccolati	coccolati	N	1	
-27	da	da	P	1	
-28	persone	persona	N	1	
-29	squisite	squisite	V	1	
-30	.	.	O	1	
+1	Consigliato	consigliato	N	1	O
+2	a	a	P	1	O
+3	tutti	tutti	Q	1	O
+4	coloro	coloro	Q	1	O
+5	che	che	Q	1	O
+6	desiderano	desiderano	V	1	O
+7	passare	passare	V	1	O
+8	vacanze	vacanza	N	1	O
+9	in	in	P	1	O
+10	completo	completare	V	1	O
+11	relax	relax	N	1	O
+12	,	,	O	1	O
+13	staccati	staccare	V	1	O
+14	dal	dal	P	1	O
+15	normale	normale	G	1	O
+16	trambusto	trambusto	N	1	O
+17	ma	ma	Q	1	O
+18	nelle	nelle	P	1	O
+19	immediate	immediato	G	1	O
+20	vicinanze	vicinanza	N	1	O
+21	di	di	P	1	O
+22	qualsiasi	qualsiasi	G	1	O
+23	meravigliosa	meraviglioso	G	1	O
+24	attrazione	attrazione	N	1	O
+25	e	e	Q	1	O
+26	coccolati	coccolati	N	1	O
+27	da	da	P	1	O
+28	persone	persona	N	1	O
+29	squisite	squisite	V	1	O
+30	.	.	O	1	O
 
-1	Gli	lo	D	1	
-2	appartamenti	appartamento	N	1	
-3	sono	essere	V	1	
-4	finemente	finemente	A	1	
-5	ristrutturati	ristrutturare	V	1	
-6	,	,	O	1	
-7	funzionali	funzionale	G	1	
-8	ed	ed	Q	1	
-9	ampi	ampio	G	1	
-10	,	,	O	1	
-11	arredati	arredare	V	1	
-12	e	e	Q	1	
-13	rifiniti	rifinire	V	1	
-14	con	con	P	1	
-15	sobrietà	sobrieta'	N	1	
-16	e	e	Q	1	
-17	buongusto	buongusto	G	1	
-18	.	.	O	1	
+1	Gli	lo	D	1	O
+2	appartamenti	appartamento	N	1	O
+3	sono	essere	V	1	O
+4	finemente	finemente	A	1	O
+5	ristrutturati	ristrutturare	V	1	O
+6	,	,	O	1	O
+7	funzionali	funzionale	G	1	O
+8	ed	ed	Q	1	O
+9	ampi	ampio	G	1	O
+10	,	,	O	1	O
+11	arredati	arredare	V	1	O
+12	e	e	Q	1	O
+13	rifiniti	rifinire	V	1	O
+14	con	con	P	1	O
+15	sobrietà	sobrieta'	N	1	O
+16	e	e	Q	1	O
+17	buongusto	buongusto	G	1	O
+18	.	.	O	1	O
 
-1	Da	da	P	1	
-2	non	non	A	1	
-3	mancare	mancare	V	1	
-4	,	,	O	1	
-5	in	in	P	1	
-6	ogni	ogni	G	1	
-7	occasione	occasione	N	1	
-8	,	,	O	1	
-9	la	lo	D	1	
-10	deliziosa	delizioso	G	1	
-11	colazione	colazione	N	1	
-12	variegata	variegata	V	1	
-13	e	e	Q	1	
-14	stuzzicante	stuzzicante	R	1	
-15	.	.	O	1	
+1	Da	da	P	1	O
+2	non	non	A	1	O
+3	mancare	mancare	V	1	O
+4	,	,	O	1	O
+5	in	in	P	1	O
+6	ogni	ogni	G	1	O
+7	occasione	occasione	N	1	O
+8	,	,	O	1	O
+9	la	lo	D	1	O
+10	deliziosa	delizioso	G	1	O
+11	colazione	colazione	N	1	O
+12	variegata	variegata	V	1	O
+13	e	e	Q	1	O
+14	stuzzicante	stuzzicante	R	1	O
+15	.	.	O	1	O
 

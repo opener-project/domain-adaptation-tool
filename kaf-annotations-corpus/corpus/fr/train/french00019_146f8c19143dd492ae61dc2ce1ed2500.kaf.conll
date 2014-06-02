@@ -1,96 +1,97 @@
-1	Superbe	superbe	N	1	
-2	terrasse	terrasser	V	1	
+1	Superbe	superbe	N	1	O
+2	terrasse	terrasser	V	1	O
 
-1	Hôtel	hôtel	N	1	
-2	très	très	G	1	
-3	sympa	sympa	G	1	
-4	et	et	C	1	
-5	bien	bien	G	1	
-6	place	placer	V	1	
-7	proche	proche	G	1	
-8	rambla	rambla	R	1	ne=POI
-9	et	et	C	1	
-10	pas	pas	G	1	
-11	si	si	G	1	
-12	loin	loin	G	1	
-13	du	du	P	1	
-14	bord	bord	N	1	
-15	de	de	P	1	
-16	mer	mer	N	1	
-17	(	(	O	1	
-18	barceloneta_)	barceloneta_)	R	1	ne=POI
+1	Hôtel	hôtel	N	1	O
+2	très	très	G	1	O
+3	sympa	sympa	G	1	O
+4	et	et	C	1	O
+5	bien	bien	G	1	O
+6	place	placer	V	1	O
+7	proche	proche	G	1	O
+8	rambla	rambla	R	1	I-POI
+9	et	et	C	1	O
+10	pas	pas	G	1	O
+11	si	si	G	1	O
+12	loin	loin	G	1	O
+13	du	du	P	1	O
+14	bord	bord	N	1	O
+15	de	de	P	1	O
+16	mer	mer	N	1	O
+17	(	(	O	1	O
+18	barceloneta	barceloneta	N	1	I-POI
+19	)	)	O	1	I-POI
 
-1	Grand	grand	N	1	
-2	plus	plus	G	1	
-3	pour	pour	P	1	
-4	la	le	D	1	
-5	terrasse	terrasse	N	1	
-6	panoramique	panoramique	G	1	
-7	.	.	O	1	
+1	Grand	grand	N	1	O
+2	plus	plus	G	1	O
+3	pour	pour	P	1	O
+4	la	le	D	1	O
+5	terrasse	terrasse	N	1	O
+6	panoramique	panoramique	G	1	O
+7	.	.	O	1	O
 
-1	,	,	O	1	
-2	malheureusement	malheureusement	G	1	
-3	en	en	P	1	
-4	février	février	R	1	ne=Date
-5	le	le	D	1	
-6	bar	bar	N	1	
-7	sur	sur	P	1	
-8	le	le	D	1	
-9	toit	toit	N	1	
-10	était	être	V	1	
-11	ferme	ferme	G	1	
-12	....	....	O	1	
+1	,	,	O	1	O
+2	malheureusement	malheureusement	G	1	O
+3	en	en	P	1	O
+4	février	février	R	1	I-Date
+5	le	le	D	1	O
+6	bar	bar	N	1	O
+7	sur	sur	P	1	O
+8	le	le	D	1	O
+9	toit	toit	N	1	O
+10	était	être	V	1	O
+11	ferme	ferme	G	1	O
+12	....	....	O	1	O
 
-1	Chambre	chambre	N	1	
-2	très	très	G	1	
-3	sympa	sympa	G	1	
-4	avec	avec	P	1	
-5	un	un	D	1	
-6	vrai	vrai	G	1	
-7	effort	effort	N	1	
-8	de	de	P	1	
-9	design	design	N	1	
-10	et	et	C	1	
-11	des	des	P	1	
-12	éclairages	éclairage	N	1	
-13	assez	assez	G	1	
-14	fin	fin	N	1	
-15	,	,	O	1	
-16	de	de	P	1	
-17	plus	plus	G	1	
-18	la	le	D	1	
-19	chambre	chambre	N	1	
-20	est	être	V	1	
-21	bien	bien	G	1	
-22	équipée	équiper	V	1	
-23	notamment	notamment	G	1	
-24	la	le	D	1	
-25	nespresso	nespresso	O	1	
-26	pas	pas	G	1	
-27	désagréable	désagréable	G	1	
-28	.	.	O	1	
+1	Chambre	chambre	N	1	O
+2	très	très	G	1	O
+3	sympa	sympa	G	1	O
+4	avec	avec	P	1	O
+5	un	un	D	1	O
+6	vrai	vrai	G	1	O
+7	effort	effort	N	1	O
+8	de	de	P	1	O
+9	design	design	N	1	O
+10	et	et	C	1	O
+11	des	des	P	1	O
+12	éclairages	éclairage	N	1	O
+13	assez	assez	G	1	O
+14	fin	fin	N	1	O
+15	,	,	O	1	O
+16	de	de	P	1	O
+17	plus	plus	G	1	O
+18	la	le	D	1	O
+19	chambre	chambre	N	1	O
+20	est	être	V	1	O
+21	bien	bien	G	1	O
+22	équipée	équiper	V	1	O
+23	notamment	notamment	G	1	O
+24	la	le	D	1	O
+25	nespresso	nespresso	O	1	O
+26	pas	pas	G	1	O
+27	désagréable	désagréable	G	1	O
+28	.	.	O	1	O
 
-1	Ça	Ça	P	1	
-2	devrait	devoir	V	1	
-3	être	être	V	1	
-4	un	un	D	1	
-5	stand	stand	N	1	
-6	art	art	N	1	
-7	pour	pour	P	1	
-8	un	un	D	1	
-9	4etoiles	4etoiles	N	1	
-10	.	.	O	1	
+1	Ça	Ça	P	1	O
+2	devrait	devoir	V	1	O
+3	être	être	V	1	O
+4	un	un	D	1	O
+5	stand	stand	N	1	O
+6	art	art	N	1	O
+7	pour	pour	P	1	O
+8	un	un	D	1	O
+9	4etoiles	4etoiles	N	1	O
+10	.	.	O	1	O
 
-1	Bref	bref	G	1	
-2	au	au	P	1	
-3	dessus	dessus	G	1	
-4	de	de	P	1	
-5	la	le	D	1	
-6	qualité	qualité	N	1	
-7	moyenne	moyen	G	1	
-8	des	des	P	1	
-9	4	4	D	1	
-10	*	*	N	1	
-11	de	de	P	1	
-12	Barcelone	Barcelone	R	1	ne=Location
+1	Bref	bref	G	1	O
+2	au	au	P	1	O
+3	dessus	dessus	G	1	O
+4	de	de	P	1	O
+5	la	le	D	1	O
+6	qualité	qualité	N	1	O
+7	moyenne	moyen	G	1	O
+8	des	des	P	1	O
+9	4	4	D	1	O
+10	*	*	N	1	O
+11	de	de	P	1	O
+12	Barcelone	Barcelone	R	1	I-Location
 

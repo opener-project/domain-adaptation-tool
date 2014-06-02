@@ -1,148 +1,149 @@
-1	Fehlende	fehlend	G	1	
-2	Sauberkeit	Sauberkeit	N	1	
-3	!	!	O	1	
+1	Fehlende	fehlend	G	1	O
+2	Sauberkeit	Sauberkeit	N	1	O
+3	!	!	O	1	O
 
-1	2_tägige	2_tägige	R	1	ne=Date
-2	Geschäftsreise	Geschäftsreise	N	1	
-3	.	.	O	1	
+1	2	2	O	1	I-Date
+2	tägige	tägige	O	1	I-Date
+3	Geschäftsreise	Geschäftsreise	N	1	O
+4	.	.	O	1	O
 
-1	Reise	Reise	N	1	
-2	viel	viel	A	1	
-3	,	,	O	1	
-4	habe	haben	V	1	
-5	aber	aber	A	1	
-6	selten	selten	G	1	
-7	solch	solche	Q	1	
-8	ein	eine	D	1	
-9	Zimmer	Zimmer	N	1	
-10	für	für	P	1	
-11	148Euro	148Euro	R	1	ne=Money
-12	/	/	O	1	
-13	Nacht	Nacht	N	1	
-14	bewohnt	bewohnen	V	1	
-15	:	:	O	1	
-16	Teppich	Teppich	N	1	
-17	mit	mit	P	1	
-18	ekligen	eklig	G	1	
-19	Flecken	Flecken	N	1	
-20	übersät	übersät	G	1	
-21	,	,	O	1	
-22	stoffbezogene	stoffbezogene	O	1	
-23	Bettumrandung	Bettumrandung	O	1	
-24	sehr	sehr	A	1	
-25	dreckig	dreckig	G	1	
-26	(	(	O	1	
-27	Matratze	Matratze	N	1	
-28	schien	scheinen	V	1	
-29	aber	aber	A	1	
-30	relativ	relativ	G	1	
-31	neu	neu	G	1	
-32	zu	zu	O	1	
-33	sein	sein	V	1	
-34	)	)	O	1	
-35	,	,	O	1	
-36	Schimmel	Schimmel	N	1	
-37	im	in	P	1	
-38	Bad	Bad	N	1	
-39	und	und	C	1	
-40	verdreckte	verdreckt	G	1	
-41	Fenster	Fenster	N	1	
-42	.	.	O	1	
+1	Reise	Reise	N	1	O
+2	viel	viel	A	1	O
+3	,	,	O	1	O
+4	habe	haben	V	1	O
+5	aber	aber	A	1	O
+6	selten	selten	G	1	O
+7	solch	solche	Q	1	O
+8	ein	eine	D	1	O
+9	Zimmer	Zimmer	N	1	O
+10	für	für	P	1	O
+11	148Euro	148Euro	R	1	I-Money
+12	/	/	O	1	O
+13	Nacht	Nacht	N	1	O
+14	bewohnt	bewohnen	V	1	O
+15	:	:	O	1	O
+16	Teppich	Teppich	N	1	O
+17	mit	mit	P	1	O
+18	ekligen	eklig	G	1	O
+19	Flecken	Flecken	N	1	O
+20	übersät	übersät	G	1	O
+21	,	,	O	1	O
+22	stoffbezogene	stoffbezogene	O	1	O
+23	Bettumrandung	Bettumrandung	O	1	O
+24	sehr	sehr	A	1	O
+25	dreckig	dreckig	G	1	O
+26	(	(	O	1	O
+27	Matratze	Matratze	N	1	O
+28	schien	scheinen	V	1	O
+29	aber	aber	A	1	O
+30	relativ	relativ	G	1	O
+31	neu	neu	G	1	O
+32	zu	zu	O	1	O
+33	sein	sein	V	1	O
+34	)	)	O	1	O
+35	,	,	O	1	O
+36	Schimmel	Schimmel	N	1	O
+37	im	in	P	1	O
+38	Bad	Bad	N	1	O
+39	und	und	C	1	O
+40	verdreckte	verdreckt	G	1	O
+41	Fenster	Fenster	N	1	O
+42	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Zimmer	Zimmer	N	1	
-3	roch	riechen	V	1	
-4	,	,	O	1	
-5	obwohl	obwohl	C	1	
-6	es	es	Q	1	
-7	ein	eine	D	1	
-8	Nichtraucherzimmer	Nichtraucherzimmer	O	1	
-9	sein	sein	V	1	
-10	sollte	sollen	V	1	
-11	,	,	O	1	
-12	ziemlich	ziemlich	A	1	
-13	nach	nach	P	1	
-14	Rauch	Rauch	R	1	
-15	.	.	O	1	
+1	Das	die	D	1	O
+2	Zimmer	Zimmer	N	1	O
+3	roch	riechen	V	1	O
+4	,	,	O	1	O
+5	obwohl	obwohl	C	1	O
+6	es	es	Q	1	O
+7	ein	eine	D	1	O
+8	Nichtraucherzimmer	Nichtraucherzimmer	O	1	O
+9	sein	sein	V	1	O
+10	sollte	sollen	V	1	O
+11	,	,	O	1	O
+12	ziemlich	ziemlich	A	1	O
+13	nach	nach	P	1	O
+14	Rauch	Rauch	R	1	O
+15	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Rezeption	Rezeption	N	1	
-3	teilte	teilen	V	1	
-4	mit	mit	V	1	
-5	,	,	O	1	
-6	dass	dass	C	1	
-7	die	die	D	1	
-8	Zimmer	Zimmer	N	1	
-9	z.	z.	P	1	
-10	Z.	Z.	R	1	
-11	nach	nach	V	1	
-12	und	und	C	1	
-13	nach	nach	P	1	
-14	neue	neu	G	1	
-15	Teppiche	Teppich	N	1	
-16	bekämen	bekommen	V	1	
-17	.	.	O	1	
+1	Die	die	D	1	O
+2	Rezeption	Rezeption	N	1	O
+3	teilte	teilen	V	1	O
+4	mit	mit	V	1	O
+5	,	,	O	1	O
+6	dass	dass	C	1	O
+7	die	die	D	1	O
+8	Zimmer	Zimmer	N	1	O
+9	z.	z.	P	1	O
+10	Z.	Z.	R	1	O
+11	nach	nach	V	1	O
+12	und	und	C	1	O
+13	nach	nach	P	1	O
+14	neue	neu	G	1	O
+15	Teppiche	Teppich	N	1	O
+16	bekämen	bekommen	V	1	O
+17	.	.	O	1	O
 
-1	Die	die	D	1	
-2	Einzelzimmer	Einzelzimmer	N	1	
-3	sind	sein	V	1	
-4	sehr	sehr	A	1	
-5	klein	klein	G	1	
-6	.	.	O	1	
+1	Die	die	D	1	O
+2	Einzelzimmer	Einzelzimmer	N	1	O
+3	sind	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	klein	klein	G	1	O
+6	.	.	O	1	O
 
-1	Einen	eine	D	1	
-2	Kleiderschrank	Kleiderschrank	N	1	
-3	oder	oder	C	1	
-4	eine	eine	D	1	
-5	Minibar	Minibar	N	1	
-6	gibt	geben	V	1	
-7	es	es	Q	1	
-8	nicht	nicht	O	1	
-9	.	.	O	1	
+1	Einen	eine	D	1	O
+2	Kleiderschrank	Kleiderschrank	N	1	O
+3	oder	oder	C	1	O
+4	eine	eine	D	1	O
+5	Minibar	Minibar	N	1	O
+6	gibt	geben	V	1	O
+7	es	es	Q	1	O
+8	nicht	nicht	O	1	O
+9	.	.	O	1	O
 
-1	Internet	Internet	N	1	
-2	nur	nur	A	1	
-3	gegen	gegen	P	1	
-4	Aufpreis	Aufpreis	N	1	
-5	.	.	O	1	
+1	Internet	Internet	N	1	O
+2	nur	nur	A	1	O
+3	gegen	gegen	P	1	O
+4	Aufpreis	Aufpreis	N	1	O
+5	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Frühstück	Frühstück	N	1	
-3	war	sein	V	1	
-4	aus	aus	P	1	
-5	meiner	mein	Q	1	
-6	Sicht	Sicht	N	1	
-7	dürftig	dürftig	G	1	
-8	:	:	O	1	
-9	blasse	blass	G	1	
-10	Brötchen	Brötchen	N	1	
-11	,	,	O	1	
-12	wenig	wenige	Q	1	
-13	Auswahl	Auswahl	N	1	
-14	.	.	O	1	
+1	Das	die	D	1	O
+2	Frühstück	Frühstück	N	1	O
+3	war	sein	V	1	O
+4	aus	aus	P	1	O
+5	meiner	mein	Q	1	O
+6	Sicht	Sicht	N	1	O
+7	dürftig	dürftig	G	1	O
+8	:	:	O	1	O
+9	blasse	blass	G	1	O
+10	Brötchen	Brötchen	N	1	O
+11	,	,	O	1	O
+12	wenig	wenige	Q	1	O
+13	Auswahl	Auswahl	N	1	O
+14	.	.	O	1	O
 
-1	Das	die	D	1	
-2	Preis	Preis	N	1	
-3	·	·	O	1	
-4	/	/	O	1	
-5	Leistungsverhältnis	Leistungsverhältnis	N	1	
-6	stimmt	stimmen	V	1	
-7	in	in	P	1	
-8	diesem	dies	Q	1	
-9	Hotel	Hotel	N	1	
-10	sicher	sicher	G	1	
-11	nicht	nicht	O	1	
-12	;	;	O	1	
-13	Dreck	Dreck	N	1	
-14	muss	müssen	V	1	
-15	und	und	C	1	
-16	darf	dürfen	V	1	
-17	nicht	nicht	O	1	
-18	sein	sein	V	1	
-19	und	und	C	1	
-20	ist	sein	V	1	
-21	keinem	keine	Q	1	
-22	Gast	Gast	N	1	
-23	zuzumuten	zumuten	V	1	
-24	!	!	O	1	
+1	Das	die	D	1	O
+2	Preis	Preis	N	1	O
+3	·	·	O	1	O
+4	/	/	O	1	O
+5	Leistungsverhältnis	Leistungsverhältnis	N	1	O
+6	stimmt	stimmen	V	1	O
+7	in	in	P	1	O
+8	diesem	dies	Q	1	O
+9	Hotel	Hotel	N	1	O
+10	sicher	sicher	G	1	O
+11	nicht	nicht	O	1	O
+12	;	;	O	1	O
+13	Dreck	Dreck	N	1	O
+14	muss	müssen	V	1	O
+15	und	und	C	1	O
+16	darf	dürfen	V	1	O
+17	nicht	nicht	O	1	O
+18	sein	sein	V	1	O
+19	und	und	C	1	O
+20	ist	sein	V	1	O
+21	keinem	keine	Q	1	O
+22	Gast	Gast	N	1	O
+23	zuzumuten	zumuten	V	1	O
+24	!	!	O	1	O
 

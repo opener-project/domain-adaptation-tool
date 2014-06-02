@@ -1,167 +1,167 @@
-1	Bei	bei	P	1	
-2	günstigen	günstig	G	1	
-3	Angebot	Angebot	N	1	
-4	gerne	gerne	A	1	
-5	wieder	wieder	A	1	
+1	Bei	bei	P	1	O
+2	günstigen	günstig	G	1	O
+3	Angebot	Angebot	N	1	O
+4	gerne	gerne	A	1	O
+5	wieder	wieder	A	1	O
 
-1	Grundsätzlich	grundsätzlich	G	1	
-2	ein	eine	D	1	
-3	gutes	gut	G	1	
-4	Hotel	Hotel	N	1	
-5	!	!	O	1	
+1	Grundsätzlich	grundsätzlich	G	1	O
+2	ein	eine	D	1	O
+3	gutes	gut	G	1	O
+4	Hotel	Hotel	N	1	O
+5	!	!	O	1	O
 
-1	Wenn	wenn	C	1	
-2	es	es	Q	1	
-3	ein	eine	D	1	
-4	Angebot	Angebot	N	1	
-5	über	über	P	1	
-6	holidaycheck	holidaycheck	O	1	
-7	gibt	geben	V	1	
-8	·	·	O	1	
-9	dh	dh	O	1	
-10	nicht	nicht	O	1	
-11	den	die	D	1	
-12	regulären	regulär	G	1	
-13	Preis	Preis	N	1	
-14	·	·	O	1	
-15	würden	werden	V	1	
-16	wir	wir	Q	1	
-17	es	es	Q	1	
-18	wieder	wieder	A	1	
-19	buchen	buchen	V	1	
-20	!	!	O	1	
+1	Wenn	wenn	C	1	O
+2	es	es	Q	1	O
+3	ein	eine	D	1	O
+4	Angebot	Angebot	N	1	O
+5	über	über	P	1	O
+6	holidaycheck	holidaycheck	O	1	O
+7	gibt	geben	V	1	O
+8	·	·	O	1	O
+9	dh	dh	O	1	O
+10	nicht	nicht	O	1	O
+11	den	die	D	1	O
+12	regulären	regulär	G	1	O
+13	Preis	Preis	N	1	O
+14	·	·	O	1	O
+15	würden	werden	V	1	O
+16	wir	wir	Q	1	O
+17	es	es	Q	1	O
+18	wieder	wieder	A	1	O
+19	buchen	buchen	V	1	O
+20	!	!	O	1	O
 
-1	Leider	leider	A	1	
-2	war	sein	V	1	
-3	unser	unser	Q	1	
-4	Bad	Bad	N	1	
-5	etwas	etwas	A	1	
-6	"	"	O	1	
-7	renovierungsbedürftig	renovierungsbedürftig	G	1	
-8	"	"	O	1	
-9	(	(	O	1	
-10	Halterung	Halterung	N	1	
-11	der	die	D	1	
-12	Dusche	Dusche	N	1	
-13	gebrochen	brechen	V	1	
-14	,	,	O	1	
-15	Ausfall	Ausfall	N	1	
-16	einer	eine	D	1	
-17	Lampe	Lampe	N	1	
-18	,	,	O	1	
-19	Lautsprecher	Lautsprecher	N	1	
-20	im	in	P	1	
-21	Bad	Bad	R	1	
-22	war	sein	V	1	
-23	auch	auch	A	1	
-24	defekt	defekt	G	1	
-25	usw.	usw.	A	1	
-26	)	)	O	1	
-27	.	.	O	1	
+1	Leider	leider	A	1	O
+2	war	sein	V	1	O
+3	unser	unser	Q	1	O
+4	Bad	Bad	N	1	O
+5	etwas	etwas	A	1	O
+6	"	"	O	1	O
+7	renovierungsbedürftig	renovierungsbedürftig	G	1	O
+8	"	"	O	1	O
+9	(	(	O	1	O
+10	Halterung	Halterung	N	1	O
+11	der	die	D	1	O
+12	Dusche	Dusche	N	1	O
+13	gebrochen	brechen	V	1	O
+14	,	,	O	1	O
+15	Ausfall	Ausfall	N	1	O
+16	einer	eine	D	1	O
+17	Lampe	Lampe	N	1	O
+18	,	,	O	1	O
+19	Lautsprecher	Lautsprecher	N	1	O
+20	im	in	P	1	O
+21	Bad	Bad	R	1	O
+22	war	sein	V	1	O
+23	auch	auch	A	1	O
+24	defekt	defekt	G	1	O
+25	usw.	usw.	A	1	O
+26	)	)	O	1	O
+27	.	.	O	1	O
 
-1	Schon	schon	A	1	
-2	bei	bei	P	1	
-3	der	die	D	1	
-4	Anreise	Anreise	N	1	
-5	gab	geben	V	1	
-6	es	es	Q	1	
-7	diese	dies	Q	1	
-8	Mankos	Manko	N	1	
-9	und	und	C	1	
-10	ich	ich	Q	1	
-11	hätte	haben	V	1	
-12	mir	ich	Q	1	
-13	erwartet	erwarten	V	1	
-14	,	,	O	1	
-15	dass	dass	C	1	
-16	das	die	D	1	
-17	Zimmermädchen	Zimmermädchen	N	1	
-18	diese	dies	Q	1	
-19	Dinge	Ding	N	1	
-20	richtet	richten	V	1	
-21	......	......	O	1	
-22	es	es	Q	1	
-23	passierte	passieren	V	1	
-24	nichts	nichts	Q	1	
-25	und	und	C	1	
-26	so	so	A	1	
-27	übergaben	übergeben	V	1	
-28	wir	wir	Q	1	
-29	eine	eine	D	1	
-30	Mankoliste	Mankoliste	O	1	
-31	bei	bei	P	1	
-32	der	die	D	1	
-33	Abreise	Abreise	N	1	
-34	.	.	O	1	
+1	Schon	schon	A	1	O
+2	bei	bei	P	1	O
+3	der	die	D	1	O
+4	Anreise	Anreise	N	1	O
+5	gab	geben	V	1	O
+6	es	es	Q	1	O
+7	diese	dies	Q	1	O
+8	Mankos	Manko	N	1	O
+9	und	und	C	1	O
+10	ich	ich	Q	1	O
+11	hätte	haben	V	1	O
+12	mir	ich	Q	1	O
+13	erwartet	erwarten	V	1	O
+14	,	,	O	1	O
+15	dass	dass	C	1	O
+16	das	die	D	1	O
+17	Zimmermädchen	Zimmermädchen	N	1	O
+18	diese	dies	Q	1	O
+19	Dinge	Ding	N	1	O
+20	richtet	richten	V	1	O
+21	......	......	O	1	O
+22	es	es	Q	1	O
+23	passierte	passieren	V	1	O
+24	nichts	nichts	Q	1	O
+25	und	und	C	1	O
+26	so	so	A	1	O
+27	übergaben	übergeben	V	1	O
+28	wir	wir	Q	1	O
+29	eine	eine	D	1	O
+30	Mankoliste	Mankoliste	O	1	O
+31	bei	bei	P	1	O
+32	der	die	D	1	O
+33	Abreise	Abreise	N	1	O
+34	.	.	O	1	O
 
-1	Der	die	D	1	
-2	Rezeptionist	Rezeptionist	O	1	
-3	wirkte	wirken	V	1	
-4	etwas	etwas	A	1	
-5	peinlich	peinlich	G	1	
-6	berührt	berühren	V	1	
-7	,	,	O	1	
-8	aber	aber	C	1	
-9	sonst	sonst	A	1	
-10	gab	geben	V	1	
-11	es	es	Q	1	
-12	keine	keine	Q	1	
-13	Reaktion	Reaktion	N	1	
-14	,	,	O	1	
-15	außer	außer	P	1	
-16	das	die	Q	1	
-17	er	er	Q	1	
-18	sich	sich	Q	1	
-19	bedankte	bedanken	V	1	
-20	!	!	O	1	
+1	Der	die	D	1	O
+2	Rezeptionist	Rezeptionist	O	1	O
+3	wirkte	wirken	V	1	O
+4	etwas	etwas	A	1	O
+5	peinlich	peinlich	G	1	O
+6	berührt	berühren	V	1	O
+7	,	,	O	1	O
+8	aber	aber	C	1	O
+9	sonst	sonst	A	1	O
+10	gab	geben	V	1	O
+11	es	es	Q	1	O
+12	keine	keine	Q	1	O
+13	Reaktion	Reaktion	N	1	O
+14	,	,	O	1	O
+15	außer	außer	P	1	O
+16	das	die	Q	1	O
+17	er	er	Q	1	O
+18	sich	sich	Q	1	O
+19	bedankte	bedanken	V	1	O
+20	!	!	O	1	O
 
-1	das	die	D	1	
-2	nächste	nah	G	1	
-3	Mal	Mal	N	1	
-4	kontrolliere	kontrollieren	V	1	
-5	ich	ich	Q	1	
-6	gleich	gleich	G	1	
-7	bei	bei	P	1	
-8	der	die	D	1	
-9	Anreise	Anreise	N	1	
-10	ganz	ganz	A	1	
-11	genau	genau	G	1	
-12	das	die	D	1	
-13	Zimmer	Zimmer	N	1	
-14	und	und	C	1	
-15	gehe	gehen	V	1	
-16	dann	dann	A	1	
-17	gleich	gleich	G	1	
-18	zur	zu	P	1	
-19	Rezeption	Rezeption	N	1	
-20	!	!	O	1	
+1	das	die	D	1	O
+2	nächste	nah	G	1	O
+3	Mal	Mal	N	1	O
+4	kontrolliere	kontrollieren	V	1	O
+5	ich	ich	Q	1	O
+6	gleich	gleich	G	1	O
+7	bei	bei	P	1	O
+8	der	die	D	1	O
+9	Anreise	Anreise	N	1	O
+10	ganz	ganz	A	1	O
+11	genau	genau	G	1	O
+12	das	die	D	1	O
+13	Zimmer	Zimmer	N	1	O
+14	und	und	C	1	O
+15	gehe	gehen	V	1	O
+16	dann	dann	A	1	O
+17	gleich	gleich	G	1	O
+18	zur	zu	P	1	O
+19	Rezeption	Rezeption	N	1	O
+20	!	!	O	1	O
 
-1	Wie	wie	C	1	
-2	gesagt	sagen	V	1	
-3	,	,	O	1	
-4	bei	bei	P	1	
-5	günstigen	günstig	G	1	
-6	Angebot	Angebot	N	1	
-7	ok	ok	O	1	
-8	·	·	O	1	
-9	aber	aber	A	1	
-10	nicht	nicht	O	1	
-11	für	für	P	1	
-12	den	die	D	1	
-13	regulären	regulär	G	1	
-14	Preis	Preis	N	1	
-15	!	!	O	1	
+1	Wie	wie	C	1	O
+2	gesagt	sagen	V	1	O
+3	,	,	O	1	O
+4	bei	bei	P	1	O
+5	günstigen	günstig	G	1	O
+6	Angebot	Angebot	N	1	O
+7	ok	ok	O	1	O
+8	·	·	O	1	O
+9	aber	aber	A	1	O
+10	nicht	nicht	O	1	O
+11	für	für	P	1	O
+12	den	die	D	1	O
+13	regulären	regulär	G	1	O
+14	Preis	Preis	N	1	O
+15	!	!	O	1	O
 
-1	Frühstücksbuffet	Frühstücksbuffet	N	1	
-2	dafür	dafür	Q	1	
-3	ist	sein	V	1	
-4	sehr	sehr	A	1	
-5	gut	gut	G	1	
-6	·	·	O	1	
-7	vorallen	vorallen	O	1	
-8	an	an	P	1	
-9	Wochenende	Wochenende	N	1	
-10	bis	bis	P	1	
-11	13:00	@card@	O	1	
-12	!	!	O	1	
+1	Frühstücksbuffet	Frühstücksbuffet	N	1	O
+2	dafür	dafür	Q	1	O
+3	ist	sein	V	1	O
+4	sehr	sehr	A	1	O
+5	gut	gut	G	1	O
+6	·	·	O	1	O
+7	vorallen	vorallen	O	1	O
+8	an	an	P	1	O
+9	Wochenende	Wochenende	N	1	O
+10	bis	bis	P	1	O
+11	13:00	@card@	O	1	O
+12	!	!	O	1	O
 

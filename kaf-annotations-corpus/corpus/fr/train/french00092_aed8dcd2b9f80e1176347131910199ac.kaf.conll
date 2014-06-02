@@ -1,95 +1,95 @@
-1	Séjour	Séjour	P	1	
-2	inoubliable	inoubliable	G	1	
+1	Séjour	Séjour	P	1	O
+2	inoubliable	inoubliable	G	1	O
 
-1	Bonjour	bonjour	N	1	
-2	.	.	O	1	
+1	Bonjour	bonjour	N	1	O
+2	.	.	O	1	O
 
-1	J'	J'	Q	1	
-2	ai	avoir	V	1	
-3	passé	passer	V	1	
-4	un	un	D	1	
-5	séjour	séjour	N	1	
-6	merveilleux	merveilleux	G	1	
-7	,	,	O	1	
-8	accueil	accueil	N	1	
-9	,	,	O	1	
-10	personnel	personnel	N	1	
-11	,	,	O	1	
-12	animateurs	animateur	N	1	
-13	accueillants	accueillant	G	1	
-14	,	,	O	1	
-15	souriants	souriant	G	1	
-16	et	et	C	1	
-17	toujours	toujours	G	1	
-18	à	à	P	1	
-19	notre	son	D	1	
-20	disposition	disposition	N	1	
-21	,	,	O	1	
-22	agents	agent	N	1	
-23	de	de	P	1	
-24	sécurité	sécurité	N	1	
-25	jour	jour	N	1	
-26	et	et	C	1	
-27	nuit	nuit	N	1	
-28	dans	dans	P	1	
-29	le	le	D	1	
-30	camping	camping	N	1	
-31	,	,	O	1	
-32	rassurant	rassurer	V	1	
-33	et	et	C	1	
-34	toujours	toujours	G	1	
-35	là	là	G	1	
-36	si	si	G	1	
-37	besoin	besoin	N	1	
-38	.	.	O	1	
+1	J'	J'	Q	1	O
+2	ai	avoir	V	1	O
+3	passé	passer	V	1	O
+4	un	un	D	1	O
+5	séjour	séjour	N	1	O
+6	merveilleux	merveilleux	G	1	O
+7	,	,	O	1	O
+8	accueil	accueil	N	1	O
+9	,	,	O	1	O
+10	personnel	personnel	N	1	O
+11	,	,	O	1	O
+12	animateurs	animateur	N	1	O
+13	accueillants	accueillant	G	1	O
+14	,	,	O	1	O
+15	souriants	souriant	G	1	O
+16	et	et	C	1	O
+17	toujours	toujours	G	1	O
+18	à	à	P	1	O
+19	notre	son	D	1	O
+20	disposition	disposition	N	1	O
+21	,	,	O	1	O
+22	agents	agent	N	1	O
+23	de	de	P	1	O
+24	sécurité	sécurité	N	1	O
+25	jour	jour	N	1	O
+26	et	et	C	1	O
+27	nuit	nuit	N	1	O
+28	dans	dans	P	1	O
+29	le	le	D	1	O
+30	camping	camping	N	1	O
+31	,	,	O	1	O
+32	rassurant	rassurer	V	1	O
+33	et	et	C	1	O
+34	toujours	toujours	G	1	O
+35	là	là	G	1	O
+36	si	si	G	1	O
+37	besoin	besoin	N	1	O
+38	.	.	O	1	O
 
-1	Animations	animation	N	1	
-2	pour	pour	P	1	
-3	tous	tout	G	1	
-4	les	le	D	1	
-5	goûts	goût	N	1	
-6	.	.	O	1	
+1	Animations	animation	N	1	O
+2	pour	pour	P	1	O
+3	tous	tout	G	1	O
+4	les	le	D	1	O
+5	goûts	goût	N	1	O
+6	.	.	O	1	O
 
-1	Accueil	accueil	N	1	
-2	restaurant	restaurer	V	1	
-3	chaleureux	chaleureux	G	1	
-4	,	,	O	1	
-5	souriant	souriant	N	1	
-6	et	et	C	1	
-7	très	très	G	1	
-8	bonne	bon	G	1	
-9	prestations	prestation	N	1	
-10	,	,	O	1	
-11	nourriture	nourriture	N	1	
-12	excellente	excellent	G	1	
-13	,	,	O	1	
-14	belles	beau	G	1	
-15	présentations	présentation	N	1	
-16	,	,	O	1	
-17	des	un	D	1	
-18	pizzas	pizza	N	1	
-19	croustillantes	croustillant	G	1	
-20	et	et	C	1	
-21	moelleuses	moelleux	G	1	
-22	à	à	P	1	
-23	la	le	D	1	
-24	fois	foi	N	1	
-25	!	!	O	1	
+1	Accueil	accueil	N	1	O
+2	restaurant	restaurer	V	1	O
+3	chaleureux	chaleureux	G	1	O
+4	,	,	O	1	O
+5	souriant	souriant	N	1	O
+6	et	et	C	1	O
+7	très	très	G	1	O
+8	bonne	bon	G	1	O
+9	prestations	prestation	N	1	O
+10	,	,	O	1	O
+11	nourriture	nourriture	N	1	O
+12	excellente	excellent	G	1	O
+13	,	,	O	1	O
+14	belles	beau	G	1	O
+15	présentations	présentation	N	1	O
+16	,	,	O	1	O
+17	des	un	D	1	O
+18	pizzas	pizza	N	1	O
+19	croustillantes	croustillant	G	1	O
+20	et	et	C	1	O
+21	moelleuses	moelleux	G	1	O
+22	à	à	P	1	O
+23	la	le	D	1	O
+24	fois	foi	N	1	O
+25	!	!	O	1	O
 
-1	SÉJOUR	SÉJOUR	D	1	
-2	INOUBLIABLE	inoubliable	G	1	
-3	.	.	O	1	
+1	SÉJOUR	SÉJOUR	D	1	O
+2	INOUBLIABLE	inoubliable	G	1	O
+3	.	.	O	1	O
 
-1	Les	le	D	1	
-2	gens	gens	N	1	
-3	mécontents	mécontent	G	1	
-4	doivent	devoir	V	1	
-5	être	être	V	1	
-6	des	un	D	1	
-7	gens	gens	N	1	
-8	fermés	fermer	G	1	
-9	et	et	C	1	
-10	jamais	jamais	G	1	
-11	satisfaits	satisfait	G	1	
-12	.	.	O	1	
+1	Les	le	D	1	O
+2	gens	gens	N	1	O
+3	mécontents	mécontent	G	1	O
+4	doivent	devoir	V	1	O
+5	être	être	V	1	O
+6	des	un	D	1	O
+7	gens	gens	N	1	O
+8	fermés	fermer	G	1	O
+9	et	et	C	1	O
+10	jamais	jamais	G	1	O
+11	satisfaits	satisfait	G	1	O
+12	.	.	O	1	O
 

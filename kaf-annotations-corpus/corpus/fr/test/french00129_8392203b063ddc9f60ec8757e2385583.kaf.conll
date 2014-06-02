@@ -1,161 +1,161 @@
-1	Grandiose	grandiose	N	1	
-2	,	,	O	1	
-3	impressionnant	impressionnant	G	1	
-4	,	,	O	1	
-5	somptieux	somptieux	G	1	
+1	Grandiose	grandiose	N	1	O
+2	,	,	O	1	O
+3	impressionnant	impressionnant	G	1	O
+4	,	,	O	1	O
+5	somptieux	somptieux	G	1	O
 
-1	Avec	Avec	P	1	
-2	cet	ce	D	1	
-3	Hôtel	hôtel	N	1	
-4	on	on	Q	1	
-5	en	en	Q	1	
-6	prend	prendre	V	1	
-7	plein	plein	P	1	
-8	les	le	D	1	
-9	yeux	oeil	N	1	
-10	,	,	O	1	
-11	la	le	D	1	
-12	chambre	chambre	N	1	
-13	ressemble	ressembler	V	1	
-14	plus	plus	G	1	
-15	à	à	P	1	
-16	un	un	D	1	
-17	petit	petit	G	1	
-18	appartement	appartement	N	1	
-19	qu'	qu'	C	1	
-20	à	à	P	1	
-21	une	un	D	1	
-22	simple	simple	G	1	
-23	chambre	chambre	N	1	
-24	,	,	O	1	
-25	petit	petit	G	1	
-26	balcon	balcon	N	1	
-27	avec	avec	P	1	
-28	vue	vue	N	1	
-29	magnifique	magnifique	G	1	
-30	sur	sur	P	1	
-31	la	le	D	1	
-32	ville	ville	N	1	
-33	de	de	P	1	
-34	Bangkok	Bangkok	R	1	ne=Location
-35	.	.	O	1	
+1	Avec	Avec	P	1	O
+2	cet	ce	D	1	O
+3	Hôtel	hôtel	N	1	O
+4	on	on	Q	1	O
+5	en	en	Q	1	O
+6	prend	prendre	V	1	O
+7	plein	plein	P	1	O
+8	les	le	D	1	O
+9	yeux	oeil	N	1	O
+10	,	,	O	1	O
+11	la	le	D	1	O
+12	chambre	chambre	N	1	O
+13	ressemble	ressembler	V	1	O
+14	plus	plus	G	1	O
+15	à	à	P	1	O
+16	un	un	D	1	O
+17	petit	petit	G	1	O
+18	appartement	appartement	N	1	O
+19	qu'	qu'	C	1	O
+20	à	à	P	1	O
+21	une	un	D	1	O
+22	simple	simple	G	1	O
+23	chambre	chambre	N	1	O
+24	,	,	O	1	O
+25	petit	petit	G	1	O
+26	balcon	balcon	N	1	O
+27	avec	avec	P	1	O
+28	vue	vue	N	1	O
+29	magnifique	magnifique	G	1	O
+30	sur	sur	P	1	O
+31	la	le	D	1	O
+32	ville	ville	N	1	O
+33	de	de	P	1	O
+34	Bangkok	Bangkok	R	1	I-Location
+35	.	.	O	1	O
 
-1	Le	le	D	1	
-2	plus	plus	G	1	
-3	à	à	P	1	
-4	absolument	absolument	G	1	
-5	faire	faire	V	1	
-6	,	,	O	1	
-7	aller	aller	V	1	
-8	sur	sur	P	1	
-9	les	le	D	1	
-10	toits	toit	N	1	
-11	de	de	P	1	
-12	la	le	D	1	
-13	tour	tour	N	1	
-14	prendre	prendre	G	1	
-15	un	un	D	1	
-16	verre	verre	N	1	
-17	ou	ou	C	1	
-18	profiter	profiter	V	1	
-19	du	du	D	1	
-20	restaurant	restaurer	V	1	
-21	en	en	P	1	
-22	plein	plein	G	1	
-23	air	air	N	1	
-24	.	.	O	1	
+1	Le	le	D	1	O
+2	plus	plus	G	1	O
+3	à	à	P	1	O
+4	absolument	absolument	G	1	O
+5	faire	faire	V	1	O
+6	,	,	O	1	O
+7	aller	aller	V	1	O
+8	sur	sur	P	1	O
+9	les	le	D	1	O
+10	toits	toit	N	1	O
+11	de	de	P	1	O
+12	la	le	D	1	O
+13	tour	tour	N	1	O
+14	prendre	prendre	G	1	O
+15	un	un	D	1	O
+16	verre	verre	N	1	O
+17	ou	ou	C	1	O
+18	profiter	profiter	V	1	O
+19	du	du	D	1	O
+20	restaurant	restaurer	V	1	O
+21	en	en	P	1	O
+22	plein	plein	G	1	O
+23	air	air	N	1	O
+24	.	.	O	1	O
 
-1	De	De	P	1	
-2	plus	plus	G	1	
-3	il	il	Q	1	
-4	est	être	V	1	
-5	bien	bien	G	1	
-6	placé	placer	V	1	
-7	pour	pour	P	1	
-8	visiter	visiter	V	1	
-9	de	de	P	1	
-10	la	le	D	1	
-11	ville	ville	N	1	
-12	.	.	O	1	
+1	De	De	P	1	O
+2	plus	plus	G	1	O
+3	il	il	Q	1	O
+4	est	être	V	1	O
+5	bien	bien	G	1	O
+6	placé	placer	V	1	O
+7	pour	pour	P	1	O
+8	visiter	visiter	V	1	O
+9	de	de	P	1	O
+10	la	le	D	1	O
+11	ville	ville	N	1	O
+12	.	.	O	1	O
 
-1	Le	le	D	1	
-2	petit	petit	G	1	
-3	déjeuner	déjeuner	N	1	
-4	est	être	V	1	
-5	sublime	sublime	G	1	
-6	,	,	O	1	
-7	choix	choix	N	1	
-8	très	très	G	1	
-9	impressionnant	impressionnant	G	1	
-10	,	,	O	1	
-11	délicieux	délicieux	G	1	
-12	..	..	O	1	
-13	Le	le	D	1	
-14	personnel	personnel	N	1	
-15	est	être	V	1	
-16	très	très	G	1	
-17	bien	bien	G	1	
-18	,	,	O	1	
-19	très	très	G	1	
-20	accueillant	accueillant	G	1	
-21	,	,	O	1	
-22	souriant	sourire	V	1	
-23	à	à	P	1	
-24	l'	le	D	1	
-25	image	image	N	1	
-26	de	de	P	1	
-27	la	le	D	1	
-28	population	population	N	1	
-29	thailandaise	thailandais	G	1	
-30	.	.	O	1	
+1	Le	le	D	1	O
+2	petit	petit	G	1	O
+3	déjeuner	déjeuner	N	1	O
+4	est	être	V	1	O
+5	sublime	sublime	G	1	O
+6	,	,	O	1	O
+7	choix	choix	N	1	O
+8	très	très	G	1	O
+9	impressionnant	impressionnant	G	1	O
+10	,	,	O	1	O
+11	délicieux	délicieux	G	1	O
+12	..	..	O	1	O
+13	Le	le	D	1	O
+14	personnel	personnel	N	1	O
+15	est	être	V	1	O
+16	très	très	G	1	O
+17	bien	bien	G	1	O
+18	,	,	O	1	O
+19	très	très	G	1	O
+20	accueillant	accueillant	G	1	O
+21	,	,	O	1	O
+22	souriant	sourire	V	1	O
+23	à	à	P	1	O
+24	l'	le	D	1	O
+25	image	image	N	1	O
+26	de	de	P	1	O
+27	la	le	D	1	O
+28	population	population	N	1	O
+29	thailandaise	thailandais	G	1	O
+30	.	.	O	1	O
 
-1	Je	Je	Q	1	
-2	dirais	dirais	N	1	
-3	même	même	G	1	
-4	que	que	C	1	
-5	c'	c'	Q	1	
-6	était	être	V	1	
-7	juste	juste	G	1	
-8	un	un	D	1	
-9	petit	petit	G	1	
-10	peu	peu	G	1	
-11	trop	trop	G	1	
-12	pour	pour	P	1	
-13	moi.Le	moi.Le	N	1	
-14	personnel	personnel	G	1	
-15	appelle	appeler	V	1	
-16	l'	le	D	1	
-17	ascenceur	ascenceur	N	1	
-18	pour	pour	P	1	
-19	nous	nous	P	1	
-20	,	,	O	1	
-21	nous	lui	Q	1	
-22	pose	poser	V	1	
-23	la	le	D	1	
-24	serviette	serviette	N	1	
-25	sur	sur	P	1	
-26	les	le	D	1	
-27	genous	genous	N	1	
-28	...	...	O	1	
-29	tout	tout	P	1	
-30	dépend	dépendre	V	1	
-31	ce	ce	D	1	
-32	que	que	C	1	
-33	l	l	Q	1	
-34	'	'	O	1	
-35	on	on	Q	1	
-36	recherche	rechercher	V	1	
-37	mais	mais	G	1	
-38	si	si	C	1	
-39	c'	c'	Q	1	
-40	est	être	V	1	
-41	du	du	D	1	
-42	luxe	luxe	N	1	
-43	on	on	Q	1	
-44	est	être	V	1	
-45	servi	servir	V	1	
+1	Je	Je	Q	1	O
+2	dirais	dirais	N	1	O
+3	même	même	G	1	O
+4	que	que	C	1	O
+5	c'	c'	Q	1	O
+6	était	être	V	1	O
+7	juste	juste	G	1	O
+8	un	un	D	1	O
+9	petit	petit	G	1	O
+10	peu	peu	G	1	O
+11	trop	trop	G	1	O
+12	pour	pour	P	1	O
+13	moi.Le	moi.Le	N	1	O
+14	personnel	personnel	G	1	O
+15	appelle	appeler	V	1	O
+16	l'	le	D	1	O
+17	ascenceur	ascenceur	N	1	O
+18	pour	pour	P	1	O
+19	nous	nous	P	1	O
+20	,	,	O	1	O
+21	nous	lui	Q	1	O
+22	pose	poser	V	1	O
+23	la	le	D	1	O
+24	serviette	serviette	N	1	O
+25	sur	sur	P	1	O
+26	les	le	D	1	O
+27	genous	genous	N	1	O
+28	...	...	O	1	O
+29	tout	tout	P	1	O
+30	dépend	dépendre	V	1	O
+31	ce	ce	D	1	O
+32	que	que	C	1	O
+33	l	l	Q	1	O
+34	'	'	O	1	O
+35	on	on	Q	1	O
+36	recherche	rechercher	V	1	O
+37	mais	mais	G	1	O
+38	si	si	C	1	O
+39	c'	c'	Q	1	O
+40	est	être	V	1	O
+41	du	du	D	1	O
+42	luxe	luxe	N	1	O
+43	on	on	Q	1	O
+44	est	être	V	1	O
+45	servi	servir	V	1	O
 
-1	Très	Très	G	1	
-2	belle	beau	G	1	
-3	piscine	piscine	N	1	
+1	Très	Très	G	1	O
+2	belle	beau	G	1	O
+3	piscine	piscine	N	1	O
 

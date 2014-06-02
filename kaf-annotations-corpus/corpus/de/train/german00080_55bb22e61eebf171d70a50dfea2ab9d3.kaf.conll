@@ -1,116 +1,124 @@
-1	Schön	schön	G	1	
-2	kitschig	kitschig	G	1	
-3	,	,	O	1	
-4	aber	aber	A	1	
-5	echt	echt	G	1	
-6	Las_Vegas	lesen_Vegas	R	1	ne=Location
+1	Schön	schön	G	1	O
+2	kitschig	kitschig	G	1	O
+3	,	,	O	1	O
+4	aber	aber	A	1	O
+5	echt	echt	G	1	O
+6	Las	lesen	V	1	I-Location
+7	Vegas	Vegas	O	1	I-Location
 
-1	Direkt	direkt	G	1	
-2	am	an	P	1	
-3	Strip	Strip	N	1	
-4	gelegenes	gelegen	G	1	
-5	Hotel	Hotel	N	1	
-6	mit	mit	P	1	
-7	Verbindung	Verbindung	N	1	
-8	zum	zu	P	1	
-9	"	"	O	1	
-10	New_York_New_York	New_York_New_York	R	1	ne=Attraction
-11	"	"	O	1	
-12	und	und	C	1	
-13	auf	auf	P	1	
-14	der	die	D	1	
-15	anderen	andere	Q	1	
-16	Seite	Seite	N	1	
-17	das_Luxor	die_Luxor	R	1	ne=Attraction
-18	.	.	O	1	
+1	Direkt	direkt	G	1	O
+2	am	an	P	1	O
+3	Strip	Strip	N	1	O
+4	gelegenes	gelegen	G	1	O
+5	Hotel	Hotel	N	1	O
+6	mit	mit	P	1	O
+7	Verbindung	Verbindung	N	1	O
+8	zum	zu	P	1	O
+9	"	"	O	1	O
+10	New	New	R	1	I-Attraction
+11	York	York	R	1	I-Attraction
+12	New	New	R	1	I-Attraction
+13	York	York	R	1	I-Attraction
+14	"	"	O	1	O
+15	und	und	C	1	O
+16	auf	auf	P	1	O
+17	der	die	D	1	O
+18	anderen	andere	Q	1	O
+19	Seite	Seite	N	1	O
+20	das	die	D	1	I-Attraction
+21	Luxor	Luxor	O	1	I-Attraction
+22	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	große	groß	G	1	
-3	Zimmer	Zimmer	N	1	
-4	,	,	O	1	
-5	auch	auch	A	1	
-6	Raucherzimmer	Raucherzimmer	N	1	
-7	,	,	O	1	
-8	großes	groß	G	1	
-9	Bad	Bad	R	1	
-10	.	.	O	1	
+1	Sehr	sehr	A	1	O
+2	große	groß	G	1	O
+3	Zimmer	Zimmer	N	1	O
+4	,	,	O	1	O
+5	auch	auch	A	1	O
+6	Raucherzimmer	Raucherzimmer	N	1	O
+7	,	,	O	1	O
+8	großes	groß	G	1	O
+9	Bad	Bad	R	1	O
+10	.	.	O	1	O
 
-1	Beim	bei	P	1	
-2	Einchecken	Einchecken	N	1	
-3	hilft	helfen	V	1	
-4	der	die	D	1	
-5	"	"	O	1	
-6	20_$	20_$	R	1	ne=Money
-7	Doller	doll	G	1	
-8	Trick	Trick	N	1	
-9	"	"	O	1	
-10	,	,	O	1	
-11	d.h.	d.heißen	Q	1	
-12	wenn	wenn	C	1	
-13	sie	sie	Q	1	
-14	ihren	ihr	Q	1	
-15	Pass	Pass	N	1	
-16	abgeben	abgeben	V	1	
-17	,	,	O	1	
-18	$_20	$_20	R	1	ne=Money
-19	beilegen	beilegen	V	1	
-20	und	und	C	1	
-21	um	um	P	1	
-22	ein	eine	D	1	
-23	Upgrade	Upgrade	O	1	
-24	bitten	bitten	V	1	
-25	,	,	O	1	
-26	Hat	haben	V	1	
-27	bei	bei	P	1	
-28	uns	wir	Q	1	
-29	auch	auch	A	1	
-30	für	für	P	1	
-31	drei	drei	O	1	
-32	Zimmer	Zimmer	N	1	
-33	geklappt	klappen	V	1	
-34	,	,	O	1	
-35	oberste	ober	G	1	
-36	Etagen	Etage	N	1	
-37	mit	mit	P	1	
-38	Blick	Blick	N	1	
-39	auf	auf	P	1	
-40	den	die	D	1	
-41	Strip	Strip	N	1	
-42	.	.	O	1	
+1	Beim	bei	P	1	O
+2	Einchecken	Einchecken	N	1	O
+3	hilft	helfen	V	1	O
+4	der	die	D	1	O
+5	"	"	O	1	O
+6	20	20	O	1	I-Money
+7	$	$	N	1	I-Money
+8	Doller	doll	G	1	O
+9	Trick	Trick	N	1	O
+10	"	"	O	1	O
+11	,	,	O	1	O
+12	d.h.	d.heißen	Q	1	O
+13	wenn	wenn	C	1	O
+14	sie	sie	Q	1	O
+15	ihren	ihr	Q	1	O
+16	Pass	Pass	N	1	O
+17	abgeben	abgeben	V	1	O
+18	,	,	O	1	O
+19	$	$	N	1	I-Money
+20	20	20	O	1	I-Money
+21	beilegen	beilegen	V	1	O
+22	und	und	C	1	O
+23	um	um	P	1	O
+24	ein	eine	D	1	O
+25	Upgrade	Upgrade	O	1	O
+26	bitten	bitten	V	1	O
+27	,	,	O	1	O
+28	Hat	haben	V	1	O
+29	bei	bei	P	1	O
+30	uns	wir	Q	1	O
+31	auch	auch	A	1	O
+32	für	für	P	1	O
+33	drei	drei	O	1	O
+34	Zimmer	Zimmer	N	1	O
+35	geklappt	klappen	V	1	O
+36	,	,	O	1	O
+37	oberste	ober	G	1	O
+38	Etagen	Etage	N	1	O
+39	mit	mit	P	1	O
+40	Blick	Blick	N	1	O
+41	auf	auf	P	1	O
+42	den	die	D	1	O
+43	Strip	Strip	N	1	O
+44	.	.	O	1	O
 
-1	Food	food	O	1	
-2	Hall	Hall	N	1	
-3	mit	mit	P	1	
-4	allen	alle	Q	1	
-5	gängigen	gängig	G	1	
-6	Fast	fast	A	1	
-7	Food	Food	N	1	
-8	Ketten	Kette	N	1	
-9	,	,	O	1	
-10	Frühstück	Frühstück	N	1	
-11	lohnt	lohnen	V	1	
-12	sich	sich	Q	1	
-13	meines	mein	Q	1	
-14	Erachtesn	Erachtesn	O	1	
-15	nicht	nicht	O	1	
-16	für	für	P	1	
-17	$_15,00	$_@card@	R	1	ne=Money
-18	.	.	O	1	
+1	Food	food	O	1	O
+2	Hall	Hall	N	1	O
+3	mit	mit	P	1	O
+4	allen	alle	Q	1	O
+5	gängigen	gängig	G	1	O
+6	Fast	fast	A	1	O
+7	Food	Food	N	1	O
+8	Ketten	Kette	N	1	O
+9	,	,	O	1	O
+10	Frühstück	Frühstück	N	1	O
+11	lohnt	lohnen	V	1	O
+12	sich	sich	Q	1	O
+13	meines	mein	Q	1	O
+14	Erachtesn	Erachtesn	O	1	O
+15	nicht	nicht	O	1	O
+16	für	für	P	1	O
+17	$	$	N	1	I-Money
+18	15,00	@card@	O	1	I-Money
+19	.	.	O	1	O
 
-1	Schöner	schön	G	1	
-2	Poolbereich	Poolbereich	O	1	
-3	.	.	O	1	
+1	Schöner	schön	G	1	O
+2	Poolbereich	Poolbereich	O	1	O
+3	.	.	O	1	O
 
-1	Sehr	sehr	A	1	
-2	gutes	gut	G	1	
-3	Preis	Preis	N	1	
-4	/	/	O	1	
-5	leistungsverhältnis	leistungsverhältnis	O	1	
-6	,	,	O	1	
-7	versuchen	versuchen	V	1	
-8	Sie	Sie|sie	Q	1	
-9	es	es	Q	1	
-10	auch	auch	A	1	
-11	mit	mit	P	1	
-12	Promotioncodes	Promotioncodes	O	1	
+1	Sehr	sehr	A	1	O
+2	gutes	gut	G	1	O
+3	Preis	Preis	N	1	O
+4	/	/	O	1	O
+5	leistungsverhältnis	leistungsverhältnis	O	1	O
+6	,	,	O	1	O
+7	versuchen	versuchen	V	1	O
+8	Sie	Sie|sie	Q	1	O
+9	es	es	Q	1	O
+10	auch	auch	A	1	O
+11	mit	mit	P	1	O
+12	Promotioncodes	Promotioncodes	O	1	O
 

@@ -1,155 +1,155 @@
-1	Vreselijk	vreselijk	G	1	
-2	hotel	hotel	N	1	
+1	Vreselijk	vreselijk	G	1	O
+2	hotel	hotel	N	1	O
 
-1	Wat	wat	Q	1	
-2	een	een	D	1	
-3	nachtmerrie	nachtmerrie	N	1	
-4	was	wezen|zijn	V	1	
-5	dit	dit	D	1	
-6	hotel	hotel	N	1	
-7	.	.	O	1	
+1	Wat	wat	Q	1	O
+2	een	een	D	1	O
+3	nachtmerrie	nachtmerrie	N	1	O
+4	was	wezen|zijn	V	1	O
+5	dit	dit	D	1	O
+6	hotel	hotel	N	1	O
+7	.	.	O	1	O
 
-1	Bij	bij	P	1	
-2	aankomst	aankomst	N	1	
-3	zag	zien	V	1	
-4	het	het	Q	1	
-5	er	er	Q	1	
-6	allemaal	allemaal	Q	1	
-7	nog	nog	A	1	
-8	rooskleurig	rooskleurig	G	1	
-9	uit	uit	A	1	
-10	,	,	O	1	
-11	maar	maar	C	1	
-12	de	de	D	1	
-13	volgende	volgend	G	1	
-14	ochtend	ochtend	N	1	
-15	ontwaakte	ontwaken	V	1	
-16	we	we	Q	1	
-17	al	al	A	1	
-18	gauw	gauw	A	1	
-19	in	in	P	1	
-20	een	een	D	1	
-21	ware	waar	G	1	
-22	nachtmerrie	nachtmerrie	N	1	
-23	.	.	O	1	
+1	Bij	bij	P	1	O
+2	aankomst	aankomst	N	1	O
+3	zag	zien	V	1	O
+4	het	het	Q	1	O
+5	er	er	Q	1	O
+6	allemaal	allemaal	Q	1	O
+7	nog	nog	A	1	O
+8	rooskleurig	rooskleurig	G	1	O
+9	uit	uit	A	1	O
+10	,	,	O	1	O
+11	maar	maar	C	1	O
+12	de	de	D	1	O
+13	volgende	volgend	G	1	O
+14	ochtend	ochtend	N	1	O
+15	ontwaakte	ontwaken	V	1	O
+16	we	we	Q	1	O
+17	al	al	A	1	O
+18	gauw	gauw	A	1	O
+19	in	in	P	1	O
+20	een	een	D	1	O
+21	ware	waar	G	1	O
+22	nachtmerrie	nachtmerrie	N	1	O
+23	.	.	O	1	O
 
-1	De	de	D	1	
-2	renovatie	renovatie	N	1	
-3	was	wezen|zijn	V	1	
-4	nog	nog	A	1	
-5	in	in	P	1	
-6	volle	vol	G	1	
-7	gang	gang	N	1	
-8	,	,	O	1	
-9	dus	dus	A	1	
-10	overal	overal	A	1	
-11	stof	stoffen	V	1	
-12	,	,	O	1	
-13	bouw	bouwen	V	1	
-14	troep	troep	N	1	
-15	etc.	etc	A	1	
-16	etc.	.	O	1	
-17	Het	het	D	1	
-18	eten	eten	N	1	
-19	was	wezen|zijn	V	1	
-20	walgelijk	walgelijk	G	1	
-21	,	,	O	1	
-22	koud	koud	G	1	
-23	,	,	O	1	
-24	geen	geen	D	1	
-25	smaak	smaak	N	1	
-26	en	en	C	1	
-27	de	de	D	1	
-28	volgende	volgend	G	1	
-29	dag	dag	N	1	
-30	gegarandeerd	garanderen	V	1	
-31	buikpijn	buikpijn	N	1	
-32	.	.	O	1	
+1	De	de	D	1	O
+2	renovatie	renovatie	N	1	O
+3	was	wezen|zijn	V	1	O
+4	nog	nog	A	1	O
+5	in	in	P	1	O
+6	volle	vol	G	1	O
+7	gang	gang	N	1	O
+8	,	,	O	1	O
+9	dus	dus	A	1	O
+10	overal	overal	A	1	O
+11	stof	stoffen	V	1	O
+12	,	,	O	1	O
+13	bouw	bouwen	V	1	O
+14	troep	troep	N	1	O
+15	etc.	etc	A	1	O
+16	etc.	.	O	1	O
+17	Het	het	D	1	O
+18	eten	eten	N	1	O
+19	was	wezen|zijn	V	1	O
+20	walgelijk	walgelijk	G	1	O
+21	,	,	O	1	O
+22	koud	koud	G	1	O
+23	,	,	O	1	O
+24	geen	geen	D	1	O
+25	smaak	smaak	N	1	O
+26	en	en	C	1	O
+27	de	de	D	1	O
+28	volgende	volgend	G	1	O
+29	dag	dag	N	1	O
+30	gegarandeerd	garanderen	V	1	O
+31	buikpijn	buikpijn	N	1	O
+32	.	.	O	1	O
 
-1	Het	het	D	1	
-2	personeel	personeel	N	1	
-3	sprak	spreken	V	1	
-4	amper	amper	A	1	
-5	Engels	Engels	G	1	
-6	,	,	O	1	
-7	wat	wat	Q	1	
-8	samen	samen	A	1	
-9	met	met	P	1	
-10	onze	ons	D	1	
-11	klachten	klacht	N	1	
-12	nogal	nogal	A	1	
-13	tot	tot	P	1	
-14	irritatie	irritatie	N	1	
-15	heeft	hebben	V	1	
-16	geleid	geleiden|leiden	V	1	
-17	.	.	O	1	
+1	Het	het	D	1	O
+2	personeel	personeel	N	1	O
+3	sprak	spreken	V	1	O
+4	amper	amper	A	1	O
+5	Engels	Engels	G	1	O
+6	,	,	O	1	O
+7	wat	wat	Q	1	O
+8	samen	samen	A	1	O
+9	met	met	P	1	O
+10	onze	ons	D	1	O
+11	klachten	klacht	N	1	O
+12	nogal	nogal	A	1	O
+13	tot	tot	P	1	O
+14	irritatie	irritatie	N	1	O
+15	heeft	hebben	V	1	O
+16	geleid	geleiden|leiden	V	1	O
+17	.	.	O	1	O
 
-1	Halverwege	halverwege	A	1	
-2	zijn	zijn	V	1	
-3	we	we	Q	1	
-4	om	om	C	1	
-5	geboekt	boeken	V	1	
-6	naar	naar	P	1	
-7	een	een	D	1	
-8	ander	ander	G	1	
-9	hotel	hotel	N	1	
-10	na	na	P	1	
-11	veel	veel	O	1	
-12	aandringen	aandringen	N	1	
-13	.	.	O	1	
+1	Halverwege	halverwege	A	1	O
+2	zijn	zijn	V	1	O
+3	we	we	Q	1	O
+4	om	om	C	1	O
+5	geboekt	boeken	V	1	O
+6	naar	naar	P	1	O
+7	een	een	D	1	O
+8	ander	ander	G	1	O
+9	hotel	hotel	N	1	O
+10	na	na	P	1	O
+11	veel	veel	O	1	O
+12	aandringen	aandringen	N	1	O
+13	.	.	O	1	O
 
-1	Touroperator	touroperator	N	1	
-2	heeft	hebben	V	1	
-3	het	het	D	1	
-4	uiteindelijk	uiteindelijk	G	1	
-5	goed	goed	N	1	
-6	opgelost	oplossen	V	1	
-7	,	,	O	1	
-8	maar	maar	C	1	
-9	had	hebben	V	1	
-10	dit	dit	D	1	
-11	hotel	hotel	N	1	
-12	niet	niet	A	1	
-13	mogen	mogen	V	1	
-14	aanbieden	aanbieden	V	1	
-15	als	als	C	1	
-16	4	@card@	O	1	
-17	+	+	O	1	
-18	hotel	hotel	N	1	
-19	met	met	P	1	
-20	ultra	ultra	N	1	
-21	all	all	O	1	
-22	inclusive	inclusive	O	1	
-23	.	.	O	1	
+1	Touroperator	touroperator	N	1	O
+2	heeft	hebben	V	1	O
+3	het	het	D	1	O
+4	uiteindelijk	uiteindelijk	G	1	O
+5	goed	goed	N	1	O
+6	opgelost	oplossen	V	1	O
+7	,	,	O	1	O
+8	maar	maar	C	1	O
+9	had	hebben	V	1	O
+10	dit	dit	D	1	O
+11	hotel	hotel	N	1	O
+12	niet	niet	A	1	O
+13	mogen	mogen	V	1	O
+14	aanbieden	aanbieden	V	1	O
+15	als	als	C	1	O
+16	4	@card@	O	1	O
+17	+	+	O	1	O
+18	hotel	hotel	N	1	O
+19	met	met	P	1	O
+20	ultra	ultra	N	1	O
+21	all	all	O	1	O
+22	inclusive	inclusive	O	1	O
+23	.	.	O	1	O
 
-1	Het	het	Q	1	
-2	was	wezen|zijn	V	1	
-3	eerder	eerder	A	1	
-4	een	een	D	1	
-5	3	@card@	O	1	
-6	sterren	ster	N	1	
-7	hotel	hotel	N	1	
-8	met	met	P	1	
-9	all	all	O	1	
-10	inclusive	inclusive	O	1	
-11	wanneer	wanneer	C	1	
-12	het	het	Q	1	
-13	hun	hun	Q	1	
-14	uitkwam	uitkomen	V	1	
-15	,	,	O	1	
-16	want	want	C	1	
-17	geregeld	geregeld	G	1	
-18	was	wezen|zijn	V	1	
-19	het	het	D	1	
-20	drinken	drinken	N	1	
-21	of	of	C	1	
-22	eten	eten	N	1	
-23	op	op	P	1	
-24	.	.	O	1	
+1	Het	het	Q	1	O
+2	was	wezen|zijn	V	1	O
+3	eerder	eerder	A	1	O
+4	een	een	D	1	O
+5	3	@card@	O	1	O
+6	sterren	ster	N	1	O
+7	hotel	hotel	N	1	O
+8	met	met	P	1	O
+9	all	all	O	1	O
+10	inclusive	inclusive	O	1	O
+11	wanneer	wanneer	C	1	O
+12	het	het	Q	1	O
+13	hun	hun	Q	1	O
+14	uitkwam	uitkomen	V	1	O
+15	,	,	O	1	O
+16	want	want	C	1	O
+17	geregeld	geregeld	G	1	O
+18	was	wezen|zijn	V	1	O
+19	het	het	D	1	O
+20	drinken	drinken	N	1	O
+21	of	of	C	1	O
+22	eten	eten	N	1	O
+23	op	op	P	1	O
+24	.	.	O	1	O
 
-1	Voor	voor	P	1	
-2	ons	ons	Q	1	
-3	nooit	nooit	A	1	
-4	meer	meer	A	1	
-5	!	!	O	1	
+1	Voor	voor	P	1	O
+2	ons	ons	Q	1	O
+3	nooit	nooit	A	1	O
+4	meer	meer	A	1	O
+5	!	!	O	1	O
 

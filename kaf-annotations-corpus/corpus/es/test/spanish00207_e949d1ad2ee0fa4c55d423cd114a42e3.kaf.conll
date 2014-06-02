@@ -1,125 +1,129 @@
-1	Un	un	G	1	
-2	hotel	hotel	N	1	
-3	de	de	O	1	
-4	ensueño	ensueño	O	1	
+1	Un	un	G	1	O
+2	hotel	hotel	N	1	O
+3	de	de	O	1	O
+4	ensueño	ensueño	O	1	O
 
-1	Situado	Situado	R	1	
-2	en	en	O	1	
-3	primera	primera	O	1	
-4	línea	línea	O	1	
-5	de	de	O	1	
-6	una	una	O	1	
-7	paradisiaca	paradisiaca	O	1	
-8	playa	playa	O	1	
-9	en	en	O	1	
-10	la_urbanización_de_Nusa_Dua	la_urbanización_de_Nusa_Dua	R	1	ne=Location
-11	.	.	O	1	
+1	Situado	Situado	R	1	O
+2	en	en	O	1	O
+3	primera	primera	O	1	O
+4	línea	línea	O	1	O
+5	de	de	O	1	O
+6	una	una	O	1	O
+7	paradisiaca	paradisiaca	O	1	O
+8	playa	playa	O	1	O
+9	en	en	O	1	O
+10	la	la	O	1	I-Location
+11	urbanización	urbanización	O	1	I-Location
+12	de	de	O	1	I-Location
+13	Nusa	Nusa	R	1	I-Location
+14	Dua	Dua	R	1	I-Location
+15	.	.	O	1	O
 
-1	Se	Se	R	1	
-2	trata	trata	O	1	
-3	de	de	O	1	
-4	un	un	G	1	
-5	hotel	hotel	N	1	
-6	de	de	P	1	
-7	5	5	O	1	
-8	estrellas	estrellas	N	1	
-9	que	que	V	1	
-10	cuenta	cuenta	G	1	
-11	con	con	A	1	
-12	todo	todo	P	1	
-13	tipo	tipo	V	1	
-14	de	de	P	1	
-15	facilidades	facilidades	N	1	
-16	para	para	G	1	
-17	toda	toda	N	1	
-18	la	la	N	1	
-19	familia	familia	N	1	
-20	.	.	O	1	
+1	Se	Se	R	1	O
+2	trata	trata	O	1	O
+3	de	de	O	1	O
+4	un	un	G	1	O
+5	hotel	hotel	N	1	O
+6	de	de	P	1	O
+7	5	5	O	1	O
+8	estrellas	estrellas	N	1	O
+9	que	que	V	1	O
+10	cuenta	cuenta	G	1	O
+11	con	con	A	1	O
+12	todo	todo	P	1	O
+13	tipo	tipo	V	1	O
+14	de	de	P	1	O
+15	facilidades	facilidades	N	1	O
+16	para	para	G	1	O
+17	toda	toda	N	1	O
+18	la	la	N	1	O
+19	familia	familia	N	1	O
+20	.	.	O	1	O
 
-1	Me	me	Q	1	
-2	encantaron	encantaron	O	1	
-3	los	los	O	1	
-4	restaurantes	restaurantes	O	1	
-5	sobre	sobre	O	1	
-6	todo	todo	O	1	
-7	el	el	O	1	
-8	que	que	O	1	
-9	se	se	O	1	
-10	encuentra	encuentra	O	1	
-11	en	en	O	1	
-12	primera	primera	O	1	
-13	línea	línea	O	1	
-14	de	de	O	1	
-15	playa	playa	O	1	
-16	y	y	G	1	
-17	en	en	O	1	
-18	donde	donde	O	1	
-19	se	se	O	1	
-20	puede	puede	O	1	
-21	comer	comer	O	1	
-22	a	a	O	1	
-23	a	a	O	1	
-24	base	base	O	1	
-25	de	de	O	1	
-26	tapas	tapas	O	1	
-27	.	.	O	1	
+1	Me	me	Q	1	O
+2	encantaron	encantaron	O	1	O
+3	los	los	O	1	O
+4	restaurantes	restaurantes	O	1	O
+5	sobre	sobre	O	1	O
+6	todo	todo	O	1	O
+7	el	el	O	1	O
+8	que	que	O	1	O
+9	se	se	O	1	O
+10	encuentra	encuentra	O	1	O
+11	en	en	O	1	O
+12	primera	primera	O	1	O
+13	línea	línea	O	1	O
+14	de	de	O	1	O
+15	playa	playa	O	1	O
+16	y	y	G	1	O
+17	en	en	O	1	O
+18	donde	donde	O	1	O
+19	se	se	O	1	O
+20	puede	puede	O	1	O
+21	comer	comer	O	1	O
+22	a	a	O	1	O
+23	a	a	O	1	O
+24	base	base	O	1	O
+25	de	de	O	1	O
+26	tapas	tapas	O	1	O
+27	.	.	O	1	O
 
-1	Es	es	N	1	
-2	un	un	G	1	
-3	hotel	hotel	N	1	
-4	donde	donde	A	1	
-5	abundan	abundan	G	1	
-6	mucho	mucho	G	1	
-7	las	las	N	1	
-8	parejas	parejas	N	1	
-9	en	en	P	1	
-10	viaje	viaje	G	1	
-11	de	de	P	1	
-12	novios	novios	N	1	
-13	aunque	aunque	G	1	
-14	también	también	G	1	
-15	suele	suele	G	1	
-16	haber	haber	N	1	
-17	bastantes	bastantes	N	1	
-18	familias	familias	V	1	
-19	con	con	G	1	
-20	niños	niños	N	1	
-21	como	como	V	1	
-22	fue	fue	N	1	
-23	nuestro	nuestro	N	1	
-24	caso	caso	N	1	
-25	.	.	O	1	
+1	Es	es	N	1	O
+2	un	un	G	1	O
+3	hotel	hotel	N	1	O
+4	donde	donde	A	1	O
+5	abundan	abundan	G	1	O
+6	mucho	mucho	G	1	O
+7	las	las	N	1	O
+8	parejas	parejas	N	1	O
+9	en	en	P	1	O
+10	viaje	viaje	G	1	O
+11	de	de	P	1	O
+12	novios	novios	N	1	O
+13	aunque	aunque	G	1	O
+14	también	también	G	1	O
+15	suele	suele	G	1	O
+16	haber	haber	N	1	O
+17	bastantes	bastantes	N	1	O
+18	familias	familias	V	1	O
+19	con	con	G	1	O
+20	niños	niños	N	1	O
+21	como	como	V	1	O
+22	fue	fue	N	1	O
+23	nuestro	nuestro	N	1	O
+24	caso	caso	N	1	O
+25	.	.	O	1	O
 
-1	Si	Si	R	1	
-2	vas	vas	N	1	
-3	en	en	P	1	
-4	este	este	N	1	
-5	plan	plan	N	1	
-6	el	el	V	1	
-7	hotel	hotel	N	1	
-8	ofrece	ofrece	A	1	
-9	diversas	diversas	V	1	
-10	actividades	actividades	N	1	
-11	de	de	P	1	
-12	animacion	animacion	N	1	
-13	tanto	tanto	P	1	
-14	para	para	G	1	
-15	adultos	adultos	N	1	
-16	como	como	V	1	
-17	para	para	N	1	
-18	niños	niños	N	1	
-19	.	.	O	1	
+1	Si	Si	R	1	O
+2	vas	vas	N	1	O
+3	en	en	P	1	O
+4	este	este	N	1	O
+5	plan	plan	N	1	O
+6	el	el	V	1	O
+7	hotel	hotel	N	1	O
+8	ofrece	ofrece	A	1	O
+9	diversas	diversas	V	1	O
+10	actividades	actividades	N	1	O
+11	de	de	P	1	O
+12	animacion	animacion	N	1	O
+13	tanto	tanto	P	1	O
+14	para	para	G	1	O
+15	adultos	adultos	N	1	O
+16	como	como	V	1	O
+17	para	para	N	1	O
+18	niños	niños	N	1	O
+19	.	.	O	1	O
 
-1	Las	Las	R	1	
-2	habitaciones	habitaciones	V	1	
-3	son	son	N	1	
-4	amplias	amplias	N	1	
-5	,	,	O	1	
-6	luminosas	luminosas	V	1	
-7	y	y	G	1	
-8	muy	muy	G	1	
-9	muy	muy	G	1	
-10	bien	bien	N	1	
-11	equipadas	equipadas	N	1	
-12	.	.	O	1	
+1	Las	Las	R	1	O
+2	habitaciones	habitaciones	V	1	O
+3	son	son	N	1	O
+4	amplias	amplias	N	1	O
+5	,	,	O	1	O
+6	luminosas	luminosas	V	1	O
+7	y	y	G	1	O
+8	muy	muy	G	1	O
+9	muy	muy	G	1	O
+10	bien	bien	N	1	O
+11	equipadas	equipadas	N	1	O
+12	.	.	O	1	O
 

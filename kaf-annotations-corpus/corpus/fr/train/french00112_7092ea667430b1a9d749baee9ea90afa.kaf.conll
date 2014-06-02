@@ -1,128 +1,131 @@
-1	Très	Très	G	1	
-2	bon	bon	G	1	
-3	hôtel	hôtel	N	1	
+1	Très	Très	G	1	O
+2	bon	bon	G	1	O
+3	hôtel	hôtel	N	1	O
 
-1	très	très	G	1	
-2	bon	bon	G	1	
-3	hôtel	hôtel	N	1	
-4	,	,	O	1	
-5	personnel	personnel	N	1	
-6	très	très	G	1	
-7	agrèable	agrèable	G	1	
-8	restauration	restauration	N	1	
-9	à	à	P	1	
-10	volonté	volonté	N	1	
-11	24_sur_24_heures	24_sur_24_heure	R	1	ne=Time
-12	bien	bien	G	1	
-13	sûr	sûr	G	1	
-14	cette	ce	D	1	
-15	hôtel	hôtel	N	1	
-16	nourris	nourrir	G	1	
-17	environ	environ	G	1	
-18	1000	1000	D	1	
-19	personnes	personnes	G	1	
-20	ne	ne	G	1	
-21	vous	lui	Q	1	
-22	attendez	attendre	V	1	
-23	pas	pas	G	1	
-24	à	à	P	1	
-25	manger	manger	V	1	
-26	des	des	P	1	
-27	repas	repas	N	1	
-28	gastronomique	gastronomique	O	1	
-29	mais	mais	C	1	
-30	le	le	D	1	
-31	choix	choix	N	1	
-32	des	des	P	1	
-33	buffets	buffet	N	1	
-34	est	être	V	1	
-35	énorme	énorme	G	1	
-36	chacun	chacun	P	1	
-37	y	y	Q	1	
-38	trouve	trouver	V	1	
-39	à	à	P	1	
-40	son	son	D	1	
-41	goût	goût	N	1	
-42	,	,	O	1	
-43	nous	lui	Q	1	
-44	avions	avoir	V	1	
-45	2	2	D	1	
-46	suites	suite	N	1	
-47	et	et	C	1	
-48	les	le	D	1	
-49	chambres	chambre	N	1	
-50	sont	être	V	1	
-51	corrects	corrects	P	1	
-52	le	le	D	1	
-53	ménage	ménage	N	1	
-54	est	être	V	1	
-55	fait	faire	V	1	
-56	en	en	P	1	
-57	permannence	permannence	N	1	
-58	,	,	O	1	
-59	l	l	Q	1	
-60	entretien	entretien	G	1	
-61	de	de	P	1	
-62	l	l	Q	1	
-63	hotel	hotel	N	1	
-64	aussi	aussi	G	1	
-65	,	,	O	1	
-66	toutes	tout	D	1	
-67	sortes	sorte	N	1	
-68	de	de	P	1	
-69	touristes	touriste	N	1	
-70	,	,	O	1	
-71	jeunes	jeune	N	1	
-72	,	,	O	1	
-73	moins	moins	G	1	
-74	jeunes	jeune	G	1	
-75	,	,	O	1	
-76	familles	famille	N	1	
-77	,	,	O	1	
-78	couples	couple	N	1	
-79	,	,	O	1	
-80	des	des	P	1	
-81	spectacles	spectacle	N	1	
-82	le	le	D	1	
-83	soir	soir	N	1	
-84	de	de	P	1	
-85	très	très	G	1	
-86	bonnes	bon	G	1	
-87	qualités	qualité	N	1	
-88	une	un	D	1	
-89	troupes	troupe	N	1	
-90	génial	génial	G	1	
-91	des	des	P	1	
-92	animateurs	animateur	N	1	
-93	sympa	sympa	G	1	
-94	,	,	O	1	
-95	vous	lui	Q	1	
-96	trouverez	trouver	V	1	
-97	toujours	toujours	G	1	
-98	de	de	P	1	
-99	la	le	D	1	
-100	place	place	N	1	
-101	à	à	P	1	
-102	la	le	D	1	
-103	piscine	piscine	N	1	
-104	et	et	C	1	
-105	la	le	D	1	
-106	plage	plage	N	1	
-107	,	,	O	1	
-108	l	l	Q	1	
-109	hotel	hotel	Q	1	
-110	se	se	Q	1	
-111	situe	situer	V	1	
-112	en	en	P	1	
-113	bord	bord	N	1	
-114	de	de	P	1	
-115	mer	mer	N	1	
-116	,	,	O	1	
-117	magnifique	magnifique	V	1	
-118	pas	pas	G	1	
-119	de	de	P	1	
-120	bataille	bataille	N	1	
-121	pour	pour	P	1	
-122	les	le	D	1	
-123	transats	transat	N	1	
+1	très	très	G	1	O
+2	bon	bon	G	1	O
+3	hôtel	hôtel	N	1	O
+4	,	,	O	1	O
+5	personnel	personnel	N	1	O
+6	très	très	G	1	O
+7	agrèable	agrèable	G	1	O
+8	restauration	restauration	N	1	O
+9	à	à	P	1	O
+10	volonté	volonté	N	1	O
+11	24	24	G	1	I-Time
+12	sur	sur	P	1	I-Time
+13	24	24	D	1	I-Time
+14	heures	heure	N	1	I-Time
+15	bien	bien	G	1	O
+16	sûr	sûr	G	1	O
+17	cette	ce	D	1	O
+18	hôtel	hôtel	N	1	O
+19	nourris	nourrir	G	1	O
+20	environ	environ	G	1	O
+21	1000	1000	D	1	O
+22	personnes	personnes	G	1	O
+23	ne	ne	G	1	O
+24	vous	lui	Q	1	O
+25	attendez	attendre	V	1	O
+26	pas	pas	G	1	O
+27	à	à	P	1	O
+28	manger	manger	V	1	O
+29	des	des	P	1	O
+30	repas	repas	N	1	O
+31	gastronomique	gastronomique	O	1	O
+32	mais	mais	C	1	O
+33	le	le	D	1	O
+34	choix	choix	N	1	O
+35	des	des	P	1	O
+36	buffets	buffet	N	1	O
+37	est	être	V	1	O
+38	énorme	énorme	G	1	O
+39	chacun	chacun	P	1	O
+40	y	y	Q	1	O
+41	trouve	trouver	V	1	O
+42	à	à	P	1	O
+43	son	son	D	1	O
+44	goût	goût	N	1	O
+45	,	,	O	1	O
+46	nous	lui	Q	1	O
+47	avions	avoir	V	1	O
+48	2	2	D	1	O
+49	suites	suite	N	1	O
+50	et	et	C	1	O
+51	les	le	D	1	O
+52	chambres	chambre	N	1	O
+53	sont	être	V	1	O
+54	corrects	corrects	P	1	O
+55	le	le	D	1	O
+56	ménage	ménage	N	1	O
+57	est	être	V	1	O
+58	fait	faire	V	1	O
+59	en	en	P	1	O
+60	permannence	permannence	N	1	O
+61	,	,	O	1	O
+62	l	l	Q	1	O
+63	entretien	entretien	G	1	O
+64	de	de	P	1	O
+65	l	l	Q	1	O
+66	hotel	hotel	N	1	O
+67	aussi	aussi	G	1	O
+68	,	,	O	1	O
+69	toutes	tout	D	1	O
+70	sortes	sorte	N	1	O
+71	de	de	P	1	O
+72	touristes	touriste	N	1	O
+73	,	,	O	1	O
+74	jeunes	jeune	N	1	O
+75	,	,	O	1	O
+76	moins	moins	G	1	O
+77	jeunes	jeune	G	1	O
+78	,	,	O	1	O
+79	familles	famille	N	1	O
+80	,	,	O	1	O
+81	couples	couple	N	1	O
+82	,	,	O	1	O
+83	des	des	P	1	O
+84	spectacles	spectacle	N	1	O
+85	le	le	D	1	O
+86	soir	soir	N	1	O
+87	de	de	P	1	O
+88	très	très	G	1	O
+89	bonnes	bon	G	1	O
+90	qualités	qualité	N	1	O
+91	une	un	D	1	O
+92	troupes	troupe	N	1	O
+93	génial	génial	G	1	O
+94	des	des	P	1	O
+95	animateurs	animateur	N	1	O
+96	sympa	sympa	G	1	O
+97	,	,	O	1	O
+98	vous	lui	Q	1	O
+99	trouverez	trouver	V	1	O
+100	toujours	toujours	G	1	O
+101	de	de	P	1	O
+102	la	le	D	1	O
+103	place	place	N	1	O
+104	à	à	P	1	O
+105	la	le	D	1	O
+106	piscine	piscine	N	1	O
+107	et	et	C	1	O
+108	la	le	D	1	O
+109	plage	plage	N	1	O
+110	,	,	O	1	O
+111	l	l	Q	1	O
+112	hotel	hotel	Q	1	O
+113	se	se	Q	1	O
+114	situe	situer	V	1	O
+115	en	en	P	1	O
+116	bord	bord	N	1	O
+117	de	de	P	1	O
+118	mer	mer	N	1	O
+119	,	,	O	1	O
+120	magnifique	magnifique	V	1	O
+121	pas	pas	G	1	O
+122	de	de	P	1	O
+123	bataille	bataille	N	1	O
+124	pour	pour	P	1	O
+125	les	le	D	1	O
+126	transats	transat	N	1	O
 

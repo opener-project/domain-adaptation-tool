@@ -1,128 +1,128 @@
-1	Sehr	sehr	A	1	
-2	schönes	schön	G	1	
-3	Hotel	Hotel	N	1	
-4	·	·	O	1	
-5	aber	aber	A	1	
-6	nicht	nicht	O	1	
-7	alles	alle	Q	1	
-8	nonplusultra	Nonplusultra	N	1	
+1	Sehr	sehr	A	1	O
+2	schönes	schön	G	1	O
+3	Hotel	Hotel	N	1	O
+4	·	·	O	1	O
+5	aber	aber	A	1	O
+6	nicht	nicht	O	1	O
+7	alles	alle	Q	1	O
+8	nonplusultra	Nonplusultra	N	1	O
 
-1	Wie	wie	C	1	
-2	schon	schon	A	1	
-3	sehr	sehr	A	1	
-4	oft	oft	A	1	
-5	beschrieben	beschrieben	G	1	
-6	großes	groß	G	1	
-7	Hotel	Hotel	N	1	
-8	,	,	O	1	
-9	jedoch	jedoch	A	1	
-10	kein	keine	Q	1	
-11	Bettenbunker	Bettenbunker	O	1	
-12	.	.	O	1	
+1	Wie	wie	C	1	O
+2	schon	schon	A	1	O
+3	sehr	sehr	A	1	O
+4	oft	oft	A	1	O
+5	beschrieben	beschrieben	G	1	O
+6	großes	groß	G	1	O
+7	Hotel	Hotel	N	1	O
+8	,	,	O	1	O
+9	jedoch	jedoch	A	1	O
+10	kein	keine	Q	1	O
+11	Bettenbunker	Bettenbunker	O	1	O
+12	.	.	O	1	O
 
-1	Maximal	maximal	G	1	
-2	10	10	O	1	
-3	Minuten	Minute	N	1	
-4	zum	zu	P	1	
-5	Strand	Strand	N	1	
-6	,	,	O	1	
-7	von	von	P	1	
-8	Haupthaus	Haupthaus	N	1	
-9	aus	aus	V	1	
-10	,	,	O	1	
-11	von	von	P	1	
-12	daher	daher	A	1	
-13	alles	alle	Q	1	
-14	machbar	machbar	G	1	
-15	(	(	O	1	
-16	falls	falls	C	1	
-17	man	man	Q	1	
-18	kein	keine	Q	1	
-19	Wassertaxi	Wassertaxi	O	1	
-20	in	in	P	1	
-21	Anspruch	Anspruch	N	1	
-22	nimmt	nehmen	V	1	
-23	)	)	O	1	
-24	.	.	O	1	
+1	Maximal	maximal	G	1	O
+2	10	10	O	1	O
+3	Minuten	Minute	N	1	O
+4	zum	zu	P	1	O
+5	Strand	Strand	N	1	O
+6	,	,	O	1	O
+7	von	von	P	1	O
+8	Haupthaus	Haupthaus	N	1	O
+9	aus	aus	V	1	O
+10	,	,	O	1	O
+11	von	von	P	1	O
+12	daher	daher	A	1	O
+13	alles	alle	Q	1	O
+14	machbar	machbar	G	1	O
+15	(	(	O	1	O
+16	falls	falls	C	1	O
+17	man	man	Q	1	O
+18	kein	keine	Q	1	O
+19	Wassertaxi	Wassertaxi	O	1	O
+20	in	in	P	1	O
+21	Anspruch	Anspruch	N	1	O
+22	nimmt	nehmen	V	1	O
+23	)	)	O	1	O
+24	.	.	O	1	O
 
-1	Gäste	Gast	N	1	
-2	ca.	ca.	A	1	
-3	50	50	O	1	
-4	%	%	N	1	
-5	deutschsprachig	deutschsprachig	G	1	
-6	(	(	O	1	
-7	inkl	inkl	O	1	
-8	.	.	O	1	
+1	Gäste	Gast	N	1	O
+2	ca.	ca.	A	1	O
+3	50	50	O	1	O
+4	%	%	N	1	O
+5	deutschsprachig	deutschsprachig	G	1	O
+6	(	(	O	1	O
+7	inkl	inkl	O	1	O
+8	.	.	O	1	O
 
-1	Schweiz	Schweiz	R	1	
-2	und	und	C	1	
-3	Österreich	Österreich	R	1	
-4	,	,	O	1	
-5	der	die	D	1	
-6	Rest	Rest	N	1	
-7	russisch	russisch	G	1	
-8	·	·	O	1	
-9	diese	diese	Q	1	
-10	fielen	fallen	V	1	
-11	jedoch	jedoch	A	1	
-12	wirklich	wirklich	G	1	
-13	nicht	nicht	O	1	
-14	negativ	negativ	G	1	
-15	auf	auf	V	1	
-16	,	,	O	1	
-17	wie	wie	C	1	
-18	man	man	Q	1	
-19	oft	oft	A	1	
-20	vermutet	vermuten	V	1	
-21	.	.	O	1	
+1	Schweiz	Schweiz	R	1	O
+2	und	und	C	1	O
+3	Österreich	Österreich	R	1	O
+4	,	,	O	1	O
+5	der	die	D	1	O
+6	Rest	Rest	N	1	O
+7	russisch	russisch	G	1	O
+8	·	·	O	1	O
+9	diese	diese	Q	1	O
+10	fielen	fallen	V	1	O
+11	jedoch	jedoch	A	1	O
+12	wirklich	wirklich	G	1	O
+13	nicht	nicht	O	1	O
+14	negativ	negativ	G	1	O
+15	auf	auf	V	1	O
+16	,	,	O	1	O
+17	wie	wie	C	1	O
+18	man	man	Q	1	O
+19	oft	oft	A	1	O
+20	vermutet	vermuten	V	1	O
+21	.	.	O	1	O
 
-1	Sauberkeit	Sauberkeit	N	1	
-2	top	top	O	1	
-3	,	,	O	1	
-4	freies	frei	G	1	
-5	W	W	N	1	
-6	·	·	O	1	
-7	Lan	Lan	R	1	
-8	in	in	P	1	
-9	der	die	D	1	
-10	Hotellobby	Hotellobby	N	1	
-11	ist	sein	V	1	
-12	positiv	positiv	G	1	
-13	zu	zu	O	1	
-14	erwähnen	erwähnen	V	1	
-15	(	(	O	1	
-16	Code	Code	N	1	
-17	ist	sein	V	1	
-18	im	in	P	1	
-19	Internetpoint	Internetpoint	O	1	
-20	erhältlich	erhältlich	G	1	
-21	)	)	O	1	
-22	.	.	O	1	
+1	Sauberkeit	Sauberkeit	N	1	O
+2	top	top	O	1	O
+3	,	,	O	1	O
+4	freies	frei	G	1	O
+5	W	W	N	1	O
+6	·	·	O	1	O
+7	Lan	Lan	R	1	O
+8	in	in	P	1	O
+9	der	die	D	1	O
+10	Hotellobby	Hotellobby	N	1	O
+11	ist	sein	V	1	O
+12	positiv	positiv	G	1	O
+13	zu	zu	O	1	O
+14	erwähnen	erwähnen	V	1	O
+15	(	(	O	1	O
+16	Code	Code	N	1	O
+17	ist	sein	V	1	O
+18	im	in	P	1	O
+19	Internetpoint	Internetpoint	O	1	O
+20	erhältlich	erhältlich	G	1	O
+21	)	)	O	1	O
+22	.	.	O	1	O
 
-1	Schade	schade	G	1	
-2	,	,	O	1	
-3	dass	dass	C	1	
-4	die	die	D	1	
-5	Poolbar	Poolbar	O	1	
-6	bereits	bereits	A	1	
-7	um	um	P	1	
-8	18	18	O	1	
-9	Uhr	Uhr	N	1	
-10	und	und	C	1	
-11	die	die	D	1	
-12	Strandbar	Strandbar	N	1	
-13	bereits	bereits	A	1	
-14	um	um	P	1	
-15	17	17	O	1	
-16	Uhr	Uhr	N	1	
-17	(	(	O	1	
-18	!	!	O	1	
-19	)	)	O	1	
-20	schließt	schließen	V	1	
-21	,	,	O	1	
-22	das	die	Q	1	
-23	nervt	nerven	V	1	
-24	wirklich	wirklich	G	1	
-25	etwas	etwas	Q	1	
-26	.	.	O	1	
+1	Schade	schade	G	1	O
+2	,	,	O	1	O
+3	dass	dass	C	1	O
+4	die	die	D	1	O
+5	Poolbar	Poolbar	O	1	O
+6	bereits	bereits	A	1	O
+7	um	um	P	1	O
+8	18	18	O	1	O
+9	Uhr	Uhr	N	1	O
+10	und	und	C	1	O
+11	die	die	D	1	O
+12	Strandbar	Strandbar	N	1	O
+13	bereits	bereits	A	1	O
+14	um	um	P	1	O
+15	17	17	O	1	O
+16	Uhr	Uhr	N	1	O
+17	(	(	O	1	O
+18	!	!	O	1	O
+19	)	)	O	1	O
+20	schließt	schließen	V	1	O
+21	,	,	O	1	O
+22	das	die	Q	1	O
+23	nervt	nerven	V	1	O
+24	wirklich	wirklich	G	1	O
+25	etwas	etwas	Q	1	O
+26	.	.	O	1	O
 

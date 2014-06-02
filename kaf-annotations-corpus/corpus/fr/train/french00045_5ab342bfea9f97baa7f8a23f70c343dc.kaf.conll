@@ -1,126 +1,129 @@
-1	Genial	Genial	N	1	
+1	Genial	Genial	N	1	O
 
-1	nous	lui	Q	1	
-2	avons	avoir	V	1	
-3	passé	passer	V	1	
-4	un	un	D	1	
-5	superbe	superbe	G	1	
-6	séjour	séjour	N	1	
-7	au_camping_l'_Estanquet	au_camping_le_Estanquet	R	1	ne=Hotel
-8	ou	ou	C	1	
-9	l'	le	D	1	
-10	animation	animation	N	1	
-11	étais	étais	P	1	
-12	au	au	P	1	
-13	rendez	rendre	V	1	
-14	vous.	vous.	V	1	
-15	les	le	D	1	
-16	toilettes	toilette	N	1	
-17	sont	être	V	1	
-18	propres	propre	G	1	
-19	les	le	D	1	
-20	activités	activité	N	1	
-21	proposé	proposer	G	1	
-22	sont	être	V	1	
-23	diversifiés.	diversifiés.	V	1	
-24	nous	lui	Q	1	
-25	avons	avoir	V	1	
-26	été	être	V	1	
-27	très	très	G	1	
-28	bien	bien	G	1	
-29	accueilli	accueillir	V	1	
-30	par	par	P	1	
-31	un	un	D	1	
-32	personnel	personnel	N	1	
-33	chaleureux	chaleureux	G	1	
-34	et	et	C	1	
-35	souriant	souriant	G	1	
-36	rien	rien	P	1	
-37	a	avoir	V	1	
-38	redire.	redire.	V	1	
-39	le	le	D	1	
-40	Mobil	Mobil	N	1	
-41	home	home	O	1	
-42	étais	être	V	1	
-43	tout	tout	G	1	
-44	équipe	équipe	N	1	
-45	avec	avec	P	1	
-46	même	même	G	1	
-47	une	un	D	1	
-48	télé	télé	N	1	
-49	gratuite	gratuit	G	1	
-50	(	(	O	1	
-51	se	se	Q	1	
-52	qui	qui	P	1	
-53	est	être	V	1	
-54	très	très	G	1	
-55	rare	rare	G	1	
-56	dans	dans	P	1	
-57	les	le	D	1	
-58	campings	camping	N	1	
-59	)	)	O	1	
-60	.	.	O	1	
-61	nous	lui	Q	1	
-62	avons	avoir	V	1	
-63	pus	pus	N	1	
-64	aussi	aussi	G	1	
-65	profiter	profiter	V	1	
-66	de	de	P	1	
-67	plein	plein	G	1	
-68	d’	d’	N	1	
-69	activités	activités	P	1	
-70	autour	autour	N	1	
-71	de	de	P	1	
-72	la	le	D	1	
-73	Palmyre	Palmyre	R	1	ne=Location
-74	(	(	O	1	
-75	marche	marche	N	1	
-76	,	,	O	1	
-77	acro	acro	G	1	
-78	branche	branche	N	1	
-79	,	,	O	1	
-80	luna	luna	D	1	
-81	parc	parc	N	1	
-82	,	,	O	1	
-83	quad	quad	G	1	
-84	,	,	O	1	
-85	petit	petit	G	1	
-86	train	train	N	1	
-87	)	)	O	1	
-88	.	.	O	1	
-89	nous	lui	Q	1	
-90	avons	avoir	V	1	
-91	aussi	aussi	G	1	
-92	pus	pouvoir	V	1	
-93	profiter	profiter	V	1	
-94	de	de	P	1	
-95	la	le	D	1	
-96	piscine	piscine	N	1	
-97	ouverte	ouvert	G	1	
-98	chauffée	chauffer	G	1	
-99	avec	avec	P	1	
-100	son	son	D	1	
-101	toboggan	toboggan	N	1	
-102	et	et	C	1	
-103	de	de	P	1	
-104	piscine	piscine	N	1	
-105	couverte	couvert	G	1	
-106	a	avoir	V	1	
-107	200	200	D	1	
-108	metre	metre	V	1	
-109	du	du	D	1	
-110	camping	camping	N	1	
-111	super	super	G	1	
-112	calme.	calme.	N	1	
-113	en	en	P	1	
-114	bref	bref	G	1	
-115	superbe	superbe	G	1	
-116	séjour	séjour	N	1	
-117	on	on	Q	1	
-118	retourne	retourner	V	1	
-119	en	en	P	1	
-120	mai	mai	R	1	ne=Time
-121	et	et	C	1	
-122	en	en	P	1	
-123	août	août	R	1	ne=Time
+1	nous	lui	Q	1	O
+2	avons	avoir	V	1	O
+3	passé	passer	V	1	O
+4	un	un	D	1	O
+5	superbe	superbe	G	1	O
+6	séjour	séjour	N	1	O
+7	au	au	P	1	I-Hotel
+8	camping	camping	V	1	I-Hotel
+9	l'	le	D	1	I-Hotel
+10	Estanquet	Estanquet	N	1	I-Hotel
+11	ou	ou	C	1	O
+12	l'	le	D	1	O
+13	animation	animation	N	1	O
+14	étais	étais	P	1	O
+15	au	au	P	1	O
+16	rendez	rendre	V	1	O
+17	vous.	vous.	V	1	O
+18	les	le	D	1	O
+19	toilettes	toilette	N	1	O
+20	sont	être	V	1	O
+21	propres	propre	G	1	O
+22	les	le	D	1	O
+23	activités	activité	N	1	O
+24	proposé	proposer	G	1	O
+25	sont	être	V	1	O
+26	diversifiés.	diversifiés.	V	1	O
+27	nous	lui	Q	1	O
+28	avons	avoir	V	1	O
+29	été	être	V	1	O
+30	très	très	G	1	O
+31	bien	bien	G	1	O
+32	accueilli	accueillir	V	1	O
+33	par	par	P	1	O
+34	un	un	D	1	O
+35	personnel	personnel	N	1	O
+36	chaleureux	chaleureux	G	1	O
+37	et	et	C	1	O
+38	souriant	souriant	G	1	O
+39	rien	rien	P	1	O
+40	a	avoir	V	1	O
+41	redire.	redire.	V	1	O
+42	le	le	D	1	O
+43	Mobil	Mobil	N	1	O
+44	home	home	O	1	O
+45	étais	être	V	1	O
+46	tout	tout	G	1	O
+47	équipe	équipe	N	1	O
+48	avec	avec	P	1	O
+49	même	même	G	1	O
+50	une	un	D	1	O
+51	télé	télé	N	1	O
+52	gratuite	gratuit	G	1	O
+53	(	(	O	1	O
+54	se	se	Q	1	O
+55	qui	qui	P	1	O
+56	est	être	V	1	O
+57	très	très	G	1	O
+58	rare	rare	G	1	O
+59	dans	dans	P	1	O
+60	les	le	D	1	O
+61	campings	camping	N	1	O
+62	)	)	O	1	O
+63	.	.	O	1	O
+64	nous	lui	Q	1	O
+65	avons	avoir	V	1	O
+66	pus	pus	N	1	O
+67	aussi	aussi	G	1	O
+68	profiter	profiter	V	1	O
+69	de	de	P	1	O
+70	plein	plein	G	1	O
+71	d’	d’	N	1	O
+72	activités	activités	P	1	O
+73	autour	autour	N	1	O
+74	de	de	P	1	O
+75	la	le	D	1	O
+76	Palmyre	Palmyre	R	1	I-Location
+77	(	(	O	1	O
+78	marche	marche	N	1	O
+79	,	,	O	1	O
+80	acro	acro	G	1	O
+81	branche	branche	N	1	O
+82	,	,	O	1	O
+83	luna	luna	D	1	O
+84	parc	parc	N	1	O
+85	,	,	O	1	O
+86	quad	quad	G	1	O
+87	,	,	O	1	O
+88	petit	petit	G	1	O
+89	train	train	N	1	O
+90	)	)	O	1	O
+91	.	.	O	1	O
+92	nous	lui	Q	1	O
+93	avons	avoir	V	1	O
+94	aussi	aussi	G	1	O
+95	pus	pouvoir	V	1	O
+96	profiter	profiter	V	1	O
+97	de	de	P	1	O
+98	la	le	D	1	O
+99	piscine	piscine	N	1	O
+100	ouverte	ouvert	G	1	O
+101	chauffée	chauffer	G	1	O
+102	avec	avec	P	1	O
+103	son	son	D	1	O
+104	toboggan	toboggan	N	1	O
+105	et	et	C	1	O
+106	de	de	P	1	O
+107	piscine	piscine	N	1	O
+108	couverte	couvert	G	1	O
+109	a	avoir	V	1	O
+110	200	200	D	1	O
+111	metre	metre	V	1	O
+112	du	du	D	1	O
+113	camping	camping	N	1	O
+114	super	super	G	1	O
+115	calme.	calme.	N	1	O
+116	en	en	P	1	O
+117	bref	bref	G	1	O
+118	superbe	superbe	G	1	O
+119	séjour	séjour	N	1	O
+120	on	on	Q	1	O
+121	retourne	retourner	V	1	O
+122	en	en	P	1	O
+123	mai	mai	R	1	I-Time
+124	et	et	C	1	O
+125	en	en	P	1	O
+126	août	août	R	1	I-Time
 

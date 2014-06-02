@@ -1,113 +1,114 @@
-1	Zeer	zeer	G	1	
-2	goed	goed	N	1	
-3	leuk	leuk	G	1	
-4	gezellig	gezellig	G	1	
-5	hotel	hotel	N	1	
+1	Zeer	zeer	G	1	O
+2	goed	goed	N	1	O
+3	leuk	leuk	G	1	O
+4	gezellig	gezellig	G	1	O
+5	hotel	hotel	N	1	O
 
-1	Super	super	G	1	
-2	goed	goed	G	1	
-3	hotel	hotel	N	1	
-4	.	.	O	1	
+1	Super	super	G	1	O
+2	goed	goed	G	1	O
+3	hotel	hotel	N	1	O
+4	.	.	O	1	O
 
-1	Alleen	alleen	A	1	
-2	op	op	P	1	
-3	vakantie	vakantie	N	1	
-4	geweest	wezen|zijn	V	1	
-5	en	en	C	1	
-6	erg	erg	A	1	
-7	genoten	genieten	V	1	
-8	.	.	O	1	
+1	Alleen	alleen	A	1	O
+2	op	op	P	1	O
+3	vakantie	vakantie	N	1	O
+4	geweest	wezen|zijn	V	1	O
+5	en	en	C	1	O
+6	erg	erg	A	1	O
+7	genoten	genieten	V	1	O
+8	.	.	O	1	O
 
-1	Leuk	leuk	G	1	
-2	en	en	C	1	
-3	aardig	aardig	G	1	
-4	personeel	personeel	N	1	
-5	.	.	O	1	
+1	Leuk	leuk	G	1	O
+2	en	en	C	1	O
+3	aardig	aardig	G	1	O
+4	personeel	personeel	N	1	O
+5	.	.	O	1	O
 
-1	Goede	goed	G	1	
-2	en	en	C	1	
-3	mooie	mooi	G	1	
-4	kamers	kamer	N	1	
-5	,	,	O	1	
-6	eten	eten	N	1	
-7	was	wezen|zijn	V	1	
-8	prima	prima	G	1	
-9	.	.	O	1	
+1	Goede	goed	G	1	O
+2	en	en	C	1	O
+3	mooie	mooi	G	1	O
+4	kamers	kamer	N	1	O
+5	,	,	O	1	O
+6	eten	eten	N	1	O
+7	was	wezen|zijn	V	1	O
+8	prima	prima	G	1	O
+9	.	.	O	1	O
 
-1	Managment	Managment	O	1	
-2	liep	lopen	V	1	
-3	rond	ronden	V	1	
-4	en	en	C	1	
-5	als	als	C	1	
-6	er	er	Q	1	
-7	vragen	vraag	N	1	
-8	of	of	C	1	
-9	problemen	probleem	N	1	
-10	waren	wezen|zijn	V	1	
-11	kon	kunnen	V	1	
-12	je	je	Q	1	
-13	die	die	Q	1	
-14	meteen	meteen	A	1	
-15	aanspreken	aanspreken	V	1	
-16	.	.	O	1	
+1	Managment	Managment	O	1	O
+2	liep	lopen	V	1	O
+3	rond	ronden	V	1	O
+4	en	en	C	1	O
+5	als	als	C	1	O
+6	er	er	Q	1	O
+7	vragen	vraag	N	1	O
+8	of	of	C	1	O
+9	problemen	probleem	N	1	O
+10	waren	wezen|zijn	V	1	O
+11	kon	kunnen	V	1	O
+12	je	je	Q	1	O
+13	die	die	Q	1	O
+14	meteen	meteen	A	1	O
+15	aanspreken	aanspreken	V	1	O
+16	.	.	O	1	O
 
-1	Mooi	mooi	G	1	
-2	strand	strand	N	1	
-3	en	en	C	1	
-4	leuke	leuk	G	1	
-5	glijbanen.	glijbaan	N	1	
-6	glijbanen.	.	O	1	
-7	als	als	C	1	
-8	je	je	Q	1	
-9	het	het	D	1	
-10	hotel	hotel	N	1	
-11	uitloopt	uitlopen	V	1	
-12	meteen	meteen	A	1	
-13	winkels	winkel	N	1	
-14	en	en	C	1	
-15	voor	voor	P	1	
-16	zoon	zoon	N	1	
-17	5_euro	@card@_euro	R	1	ne=Money
-18	sta	staan	V	1	
-19	je	je	Q	1	
-20	in	in	P	1	
-21	hurgada	hurgada	R	1	ne=Location
-22	stad	stad	N	1	
-23	.	.	O	1	
+1	Mooi	mooi	G	1	O
+2	strand	strand	N	1	O
+3	en	en	C	1	O
+4	leuke	leuk	G	1	O
+5	glijbanen.	glijbaan	N	1	O
+6	glijbanen.	.	O	1	O
+7	als	als	C	1	O
+8	je	je	Q	1	O
+9	het	het	D	1	O
+10	hotel	hotel	N	1	O
+11	uitloopt	uitlopen	V	1	O
+12	meteen	meteen	A	1	O
+13	winkels	winkel	N	1	O
+14	en	en	C	1	O
+15	voor	voor	P	1	O
+16	zoon	zoon	N	1	O
+17	5	@card@	O	1	I-Money
+18	euro	euro	N	1	I-Money
+19	sta	staan	V	1	O
+20	je	je	Q	1	O
+21	in	in	P	1	O
+22	hurgada	hurgada	R	1	I-Location
+23	stad	stad	N	1	O
+24	.	.	O	1	O
 
-1	Mooie	mooi	G	1	
-2	restaurants	restaurant	N	1	
-3	en	en	C	1	
-4	genoeg	genoeg	A	1	
-5	keuze	keuze	N	1	
-6	.	.	O	1	
+1	Mooie	mooi	G	1	O
+2	restaurants	restaurant	N	1	O
+3	en	en	C	1	O
+4	genoeg	genoeg	A	1	O
+5	keuze	keuze	N	1	O
+6	.	.	O	1	O
 
-1	Heerlijk	heerlijk	G	1	
-2	weer	weer	A	1	
-3	en	en	C	1	
-4	nette	net	G	1	
-5	handdoekservice	handdoekservice	O	1	
-6	bij	bij	P	1	
-7	het	het	D	1	
-8	zwembad	zwembad	N	1	
-9	en	en	C	1	
-10	strand	strand	N	1	
-11	.	.	O	1	
+1	Heerlijk	heerlijk	G	1	O
+2	weer	weer	A	1	O
+3	en	en	C	1	O
+4	nette	net	G	1	O
+5	handdoekservice	handdoekservice	O	1	O
+6	bij	bij	P	1	O
+7	het	het	D	1	O
+8	zwembad	zwembad	N	1	O
+9	en	en	C	1	O
+10	strand	strand	N	1	O
+11	.	.	O	1	O
 
-1	Aardig	aardig	G	1	
-2	personeel	personeel	N	1	
-3	die	die	Q	1	
-4	bereid	bereiden	V	1	
-5	is	zijn	V	1	
-6	je	je	Q	1	
-7	met	met	P	1	
-8	alles	alles	Q	1	
-9	te	te	O	1	
-10	helpen	helpen	V	1	
-11	.	.	O	1	
+1	Aardig	aardig	G	1	O
+2	personeel	personeel	N	1	O
+3	die	die	Q	1	O
+4	bereid	bereiden	V	1	O
+5	is	zijn	V	1	O
+6	je	je	Q	1	O
+7	met	met	P	1	O
+8	alles	alles	Q	1	O
+9	te	te	O	1	O
+10	helpen	helpen	V	1	O
+11	.	.	O	1	O
 
-1	Hopelijk	hopelijk	A	1	
-2	weer	weer	A	1	
-3	snel	snel	G	1	
-4	terug	terug	A	1	
+1	Hopelijk	hopelijk	A	1	O
+2	weer	weer	A	1	O
+3	snel	snel	G	1	O
+4	terug	terug	A	1	O
 

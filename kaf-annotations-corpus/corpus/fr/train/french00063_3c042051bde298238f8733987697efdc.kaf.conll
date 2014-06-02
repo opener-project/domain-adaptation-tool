@@ -1,146 +1,146 @@
-1	Très	Très	G	1	
-2	bien	bien	G	1	
-3	mais	mais	C	1	
-4	extras	extras	G	1	
-5	trop	trop	G	1	
-6	cher	cher	G	1	
-7	!	!	O	1	
+1	Très	Très	G	1	O
+2	bien	bien	G	1	O
+3	mais	mais	C	1	O
+4	extras	extras	G	1	O
+5	trop	trop	G	1	O
+6	cher	cher	G	1	O
+7	!	!	O	1	O
 
-1	Très	Très	G	1	
-2	beau	beau	G	1	
-3	séjour	séjour	N	1	
-4	!	!	O	1	
+1	Très	Très	G	1	O
+2	beau	beau	G	1	O
+3	séjour	séjour	N	1	O
+4	!	!	O	1	O
 
-1	Connexion	connexion	N	1	
-2	internet	internet	N	1	
-3	payant	payer	V	1	
-4	15	15	D	1	
-5	€	€	N	1	
-6	de	de	P	1	
-7	l'	le	D	1	
-8	heure	heure	N	1	
-9	,	,	O	1	
-10	+	+	P	1	
-11	de	de	P	1	
-12	200	200	D	1	
-13	€	€	N	1	
-14	pour	pour	P	1	
-15	10jours	10jours	D	1	
-16	c'	c'	Q	1	
-17	est	être	V	1	
-18	cher	cher	G	1	
-19	:	:	O	1	
-20	·	·	N	1	
-21	(	(	O	1	
-22	(	(	O	1	
-23	)	)	O	1	
-24	inadmissible	inadmissible	G	1	
-25	pour	pour	P	1	
-26	un	un	D	1	
-27	hôtel	hôtel	N	1	
-28	de	de	P	1	
-29	cette	ce	D	1	
-30	gamme	gamme	N	1	
-31	.	.	O	1	
+1	Connexion	connexion	N	1	O
+2	internet	internet	N	1	O
+3	payant	payer	V	1	O
+4	15	15	D	1	O
+5	€	€	N	1	O
+6	de	de	P	1	O
+7	l'	le	D	1	O
+8	heure	heure	N	1	O
+9	,	,	O	1	O
+10	+	+	P	1	O
+11	de	de	P	1	O
+12	200	200	D	1	O
+13	€	€	N	1	O
+14	pour	pour	P	1	O
+15	10jours	10jours	D	1	O
+16	c'	c'	Q	1	O
+17	est	être	V	1	O
+18	cher	cher	G	1	O
+19	:	:	O	1	O
+20	·	·	N	1	O
+21	(	(	O	1	O
+22	(	(	O	1	O
+23	)	)	O	1	O
+24	inadmissible	inadmissible	G	1	O
+25	pour	pour	P	1	O
+26	un	un	D	1	O
+27	hôtel	hôtel	N	1	O
+28	de	de	P	1	O
+29	cette	ce	D	1	O
+30	gamme	gamme	N	1	O
+31	.	.	O	1	O
 
-1	Prix	prix	N	1	
-2	des	des	P	1	
-3	cocktails	cocktail	N	1	
-4	d'	d'	P	1	
-5	environs	environs	V	1	
-6	10	10	D	1	
-7	€	€	N	1	
-8	minimum	minimum	G	1	
-9	(	(	O	1	
-10	2	2	O	1	
-11	à	à	P	1	
-12	4	4	D	1	
-13	fois	foi	N	1	
-14	moins	moins	G	1	
-15	cher	cher	G	1	
-16	ailleurs	ailleurs	G	1	
-17	sur	sur	P	1	
-18	l'	le	D	1	
-19	île	île	N	1	
-20	!	!	O	1	
+1	Prix	prix	N	1	O
+2	des	des	P	1	O
+3	cocktails	cocktail	N	1	O
+4	d'	d'	P	1	O
+5	environs	environs	V	1	O
+6	10	10	D	1	O
+7	€	€	N	1	O
+8	minimum	minimum	G	1	O
+9	(	(	O	1	O
+10	2	2	O	1	O
+11	à	à	P	1	O
+12	4	4	D	1	O
+13	fois	foi	N	1	O
+14	moins	moins	G	1	O
+15	cher	cher	G	1	O
+16	ailleurs	ailleurs	G	1	O
+17	sur	sur	P	1	O
+18	l'	le	D	1	O
+19	île	île	N	1	O
+20	!	!	O	1	O
 
-1	)	)	O	1	
+1	)	)	O	1	O
 
-1	Tarif	tarif	N	1	
-2	des	des	P	1	
-3	bouteilles	bouteille	N	1	
-4	d'	d'	P	1	
-5	eau	eau	N	1	
-6	(	(	O	1	
-7	1litre	1litre	N	1	
-8	)	)	O	1	
-9	à	à	P	1	
-10	table	table	N	1	
-11	3	3	D	1	
-12	€	€	N	1	
-13	.	.	O	1	
+1	Tarif	tarif	N	1	O
+2	des	des	P	1	O
+3	bouteilles	bouteille	N	1	O
+4	d'	d'	P	1	O
+5	eau	eau	N	1	O
+6	(	(	O	1	O
+7	1litre	1litre	N	1	O
+8	)	)	O	1	O
+9	à	à	P	1	O
+10	table	table	N	1	O
+11	3	3	D	1	O
+12	€	€	N	1	O
+13	.	.	O	1	O
 
-1	Côté	côté	N	1	
-2	SPA	SPA	N	1	
-3	:	:	O	1	
-4	service	service	N	1	
-5	de	de	P	1	
-6	grande	grand	G	1	
-7	qualité	qualité	N	1	
-8	,	,	O	1	
-9	irréprochable	irréprochable	G	1	
-10	!!!	!!!	G	1	
+1	Côté	côté	N	1	O
+2	SPA	SPA	N	1	O
+3	:	:	O	1	O
+4	service	service	N	1	O
+5	de	de	P	1	O
+6	grande	grand	G	1	O
+7	qualité	qualité	N	1	O
+8	,	,	O	1	O
+9	irréprochable	irréprochable	G	1	O
+10	!!!	!!!	G	1	O
 
-1	Prestations	Prestations	G	1	
-2	incluses	inclure	G	1	
-3	:	:	O	1	
-4	très	très	G	1	
-5	beau	beau	G	1	
-6	panel	panel	N	1	
-7	d'	d'	P	1	
-8	activités	activité	N	1	
-9	nautiques	nautique	G	1	
-10	gratuites	gratuit	G	1	
-11	et	et	C	1	
-12	de	de	P	1	
-13	qualité	qualité	N	1	
-14	:	:	O	1	
-15	super	super	V	1	
-16	!	!	O	1	
+1	Prestations	Prestations	G	1	O
+2	incluses	inclure	G	1	O
+3	:	:	O	1	O
+4	très	très	G	1	O
+5	beau	beau	G	1	O
+6	panel	panel	N	1	O
+7	d'	d'	P	1	O
+8	activités	activité	N	1	O
+9	nautiques	nautique	G	1	O
+10	gratuites	gratuit	G	1	O
+11	et	et	C	1	O
+12	de	de	P	1	O
+13	qualité	qualité	N	1	O
+14	:	:	O	1	O
+15	super	super	V	1	O
+16	!	!	O	1	O
 
-1	Cuisine	cuisine	N	1	
-2	:	:	O	1	
-3	très	très	G	1	
-4	bon	bon	G	1	
-5	chef	chef	N	1	
-6	en	en	P	1	
-7	cuisine	cuisine	N	1	
-8	:	:	O	1	
-9	c'	c'	Q	1	
-10	est	être	V	1	
-11	bon	bon	G	1	
-12	!	!	O	1	
+1	Cuisine	cuisine	N	1	O
+2	:	:	O	1	O
+3	très	très	G	1	O
+4	bon	bon	G	1	O
+5	chef	chef	N	1	O
+6	en	en	P	1	O
+7	cuisine	cuisine	N	1	O
+8	:	:	O	1	O
+9	c'	c'	Q	1	O
+10	est	être	V	1	O
+11	bon	bon	G	1	O
+12	!	!	O	1	O
 
-1	En	En	P	1	
-2	somme	somme	N	1	
-3	c'	c'	Q	1	
-4	est	être	V	1	
-5	très	très	G	1	
-6	bien	bien	G	1	
-7	,	,	O	1	
-8	les	le	D	1	
-9	mauriciens	mauricien	N	1	
-10	sont	être	V	1	
-11	super	super	G	1	
-12	mais	mais	C	1	
-13	Hilton	Hilton	G	1	
-14	donne	donner	V	1	
-15	la	le	D	1	
-16	sensation	sensation	N	1	
-17	de	de	P	1	
-18	vouloir	vouloir	V	1	
-19	tondre	tondre	V	1	
-20	ces	ce	D	1	
-21	clients	client	N	1	
-22	!	!	O	1	
+1	En	En	P	1	O
+2	somme	somme	N	1	O
+3	c'	c'	Q	1	O
+4	est	être	V	1	O
+5	très	très	G	1	O
+6	bien	bien	G	1	O
+7	,	,	O	1	O
+8	les	le	D	1	O
+9	mauriciens	mauricien	N	1	O
+10	sont	être	V	1	O
+11	super	super	G	1	O
+12	mais	mais	C	1	O
+13	Hilton	Hilton	G	1	O
+14	donne	donner	V	1	O
+15	la	le	D	1	O
+16	sensation	sensation	N	1	O
+17	de	de	P	1	O
+18	vouloir	vouloir	V	1	O
+19	tondre	tondre	V	1	O
+20	ces	ce	D	1	O
+21	clients	client	N	1	O
+22	!	!	O	1	O
 
